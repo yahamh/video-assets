@@ -1,6 +1,6 @@
 import type { Timed } from "./Frame";
 
-// One story = an ordered list of lines. Each line is one stretch of voice, its captions, and one scene.
+// One story (or lesson) = an ordered list of lines. Each line is one stretch of voice, its captions, and one scene.
 export type SceneSpec = { kind: string; [param: string]: unknown };
 export type Sfx = { at: number; name: string; vol?: number };
 
@@ -18,6 +18,7 @@ export type Line = {
 
 export type Story = {
   id: string;
+  series?: string; // "lesson" for the render lessons (lessons/), left out for the jewelry stories
   number: number;
   title: string;
   lines: Line[];

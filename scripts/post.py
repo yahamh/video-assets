@@ -1,10 +1,11 @@
-"""Books every finished story video on Instagram, TikTok and YouTube through Zernio.
+"""Books every finished video through Zernio: the stories on Instagram, TikTok and YouTube, the render lessons on
+YouTube only.
 
-Runs at the end of every "Make videos" run. A story is finished when its release exists. Each finished
-story that isn't booked yet goes to the next free time in schedule.json (UTC, three a day), after the
-last one booked and at least 30 minutes from now, in story order. Zernio holds the post and publishes
-it at that time, so nothing has to run then. posts.json keeps what was booked: id -> at, zernio_id,
-platforms.
+Runs at the end of every "Make videos" run. A video is finished when its release exists. Each finished
+video that isn't booked yet goes to the next free time of its series in schedule.json (UTC: "times" and
+"platforms" for the stories, "series" -> "lesson" for the lessons), after the last one of that series booked
+and at least 30 minutes from now, in number order. Zernio holds the post and publishes it at that time, so
+nothing has to run then. posts.json keeps what was booked: id -> at, zernio_id, platforms.
 
 Stories listed in schedule.json "now" post the moment they're made instead.
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
@@ -173,6 +174,16 @@ def payload(story, url, slot, accounts):  # slot None: post right away
     return body
 
 
+def series_of(sid):
+    return "lesson" if sid.startswith("lesson-") else "story"
+
+
+def plan(sched, series):
+    """The posting times and platforms of a series: schedule.json's own for the stories, "series" overrides others."""
+    own = (sched.get("series") or {}).get(series) or {}
+    return own.get("times") or sched["times"], own.get("platforms") or sched["platforms"]
+
+
 def save(posts):
     with open(POSTS, "w") as f:
         json.dump(dict(sorted(posts.items())), f, indent=2)
@@ -238,31 +249,41 @@ def main():
     made = set(subprocess.run(["gh", "release", "list", "--limit", "2000", "--json", "tagName", "--jq",
                                ".[].tagName"], check=True, capture_output=True, text=True).stdout.split())
     stories = []
-    for f in glob.glob(os.path.join(ROOT, "stories", "*.json")):
+    for f in glob.glob(os.path.join(ROOT, "stories", "*.json")) + glob.glob(os.path.join(ROOT, "lessons", "*.json")):
         s = json.load(open(f))
         if s["id"] in made and s["id"] not in posts:
             stories.append(s)
-    stories.sort(key=lambda s: s["number"])
+    stories.sort(key=lambda s: (series_of(s["id"]), s["number"]))
     if not stories:
         print("Every finished video is booked.")
         return 1 if bad else 0
 
-    accounts = z.accounts(sched["platforms"], sched.get("accounts", {})) if not args.dry_run \
-        else {p: sched.get("accounts", {}).get(p) or "dry-run" for p in sched["platforms"]}
-    if not accounts:
+    wanted = sorted({p for s in stories for p in plan(sched, series_of(s["id"]))[1]})
+    every = z.accounts(wanted, sched.get("accounts", {})) if not args.dry_run \
+        else {p: sched.get("accounts", {}).get(p) or "dry-run" for p in wanted}
+    if not every:
         print("::error::no account to post to is connected in Zernio")
         return 1
-    last = max([parse(p["at"]) for p in posts.values()] + list(keep_slot.values()) + [now + LEAD])
+    # each series books after its own last post
+    lasts = {}
+    for sid, p in list(posts.items()) + [(sid, {"at": iso(t)}) for sid, t in keep_slot.items()]:
+        lasts[series_of(sid)] = max(lasts.get(series_of(sid), now + LEAD), parse(p["at"]))
     booked, failed = [], int(bool(bad))
     run = os.environ.get("GITHUB_RUN_ID") or int(now.timestamp())  # a retry in this run is the same post, a later run isn't
     with tempfile.TemporaryDirectory() as tmp:
         for s in stories:
-            sid = s["id"]
-            slot, before, right_away = keep_slot.get(sid), last, sid in sched.get("now", [])
+            sid, series = s["id"], series_of(s["id"])
+            times, platforms = plan(sched, series)
+            accounts = {p: a for p, a in every.items() if p in platforms}
+            if not accounts:
+                print(f"::warning::{sid}: none of {', '.join(platforms)} is connected in Zernio; not booked")
+                continue
+            last = lasts.get(series, now + LEAD)
+            slot, right_away = keep_slot.get(sid), sid in sched.get("now", [])
             if right_away:
                 slot = None
             elif slot is None or slot <= now + LEAD:
-                slot = last = next_slot(last, sched["times"])
+                slot = lasts[series] = next_slot(max(last, now + LEAD), times)
             when = "now" if right_away else iso(slot)
             if args.dry_run:
                 print(f"Would book {sid} for {when} on {', '.join(accounts)}")
@@ -294,7 +315,7 @@ def main():
             except Exception as e:  # one story failing mustn't stop the others; it's tried again next run
                 print(f"::error::{sid} wasn't booked: {e}")
                 failed = 1
-                last = before  # its time goes to the next story
+                lasts[series] = last  # its time goes to the next one
                 if " 403 " in str(e) or " 402 " in str(e):  # the plan's post limit: the rest would fail the same way
                     print("::error::Zernio refused the post (plan limit?); the rest wait for the next run")
                     break

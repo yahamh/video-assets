@@ -1,0 +1,171 @@
+{
+  "id": "lesson-001-gold-colors",
+  "series": "lesson",
+  "number": 1,
+  "title": "Why rose gold is pink",
+  "topic": "gold colors and karats",
+  "music": "music-lesson-001.wav",
+  "hook": {
+    "text": "This pink comes from copper.",
+    "gold": [
+      "copper"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This pink comes from copper.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp"
+      }
+    },
+    {
+      "text": "18 karat is 75% gold, and the other metals set the color.",
+      "say": "Eighteen karat is seventy five percent gold, and the other metals set the color.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "render-matthew-yellow.webp",
+          "matthew-front-white-render.webp",
+          "matthew-rose-render.webp"
+        ],
+        "labels": [
+          "Yellow",
+          "White",
+          "Rose"
+        ]
+      }
+    },
+    {
+      "text": "In yellow gold the rest is mostly silver, with about 10% copper.",
+      "say": "In yellow gold the rest is mostly silver, with about ten percent copper.",
+      "scene": {
+        "kind": "mix",
+        "src": "render-matthew-yellow.webp",
+        "label": "18 karat yellow gold",
+        "parts": [
+          {
+            "name": "Gold",
+            "pct": 75
+          },
+          {
+            "name": "Silver",
+            "pct": 15
+          },
+          {
+            "name": "Copper",
+            "pct": 10
+          }
+        ]
+      }
+    },
+    {
+      "text": "Rose gold flips that, with about 22% copper and a little silver.",
+      "say": "Rose gold flips that, with about twenty two percent copper and a little silver.",
+      "scene": {
+        "kind": "mix",
+        "src": "matthew-rose-render.webp",
+        "label": "18 karat rose gold",
+        "parts": [
+          {
+            "name": "Gold",
+            "pct": 75
+          },
+          {
+            "name": "Copper",
+            "pct": 22
+          },
+          {
+            "name": "Silver",
+            "pct": 3
+          }
+        ]
+      }
+    },
+    {
+      "text": "19th century Russia loved it so much they called it Russian gold.",
+      "say": "Nineteenth century Russia loved it so much they called it Russian gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Russian\ngold",
+        "sub": "1800s"
+      }
+    },
+    {
+      "text": "White gold mixes in palladium or nickel, then gets a rhodium coat.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "label": "White gold"
+      }
+    },
+    {
+      "text": "That coat wears thin on a ring worn every day,",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.35,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "so jewelers plate it again about once a year.",
+      "scene": {
+        "kind": "title",
+        "text": "Once\na year",
+        "sub": "New rhodium coat"
+      }
+    },
+    {
+      "text": "Every ring here is a render made from a 3D file,",
+      "say": "Every ring here is a render made from a three D file,",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp"
+      }
+    },
+    {
+      "text": "so a client can pick the gold before anything is cast.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "ring-1d-render.webp",
+          "ring-1d-yellow-render.webp"
+        ],
+        "labels": [
+          "White gold",
+          "Yellow gold"
+        ]
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Why rose gold is pink",
+    "caption": "Rose gold is pink because of copper. 18 karat gold is 75% gold, and the other metals set the color. Yellow gold adds mostly silver and a little copper, rose gold mostly copper, and white gold adds palladium or nickel and then gets a rhodium coat that jewelers redo about once a year. Every ring in this video is a render made from a 3D file with HeyGema.",
+    "hashtags": [
+      "#jewelry",
+      "#rosegold",
+      "#jewelrymaking",
+      "#goldsmith",
+      "#jewelrydesign"
+    ]
+  },
+  "sources": [
+    "https://www.gold.org/about-gold/about-gold-jewellery",
+    "https://4cs.gia.edu/en-us/blog/buying-guide-white-yellow-rose-gold-engagement-rings/",
+    "https://www.gemsociety.org/topics/rose-gold-vs-yellow-gold/",
+    "https://en.wikipedia.org/wiki/Colored_gold",
+    "https://www.sothebys.com/en/articles/a-history-lesson-on-rose-gold",
+    "https://4cs.gia.edu/en-us/blog/white-gold-vs-silver/",
+    "https://www.brilliantearth.com/news/rhodium-plating/",
+    "https://blog.acsilver.co.uk/2018/09/19/replating-white-gold-jewellery/"
+  ]
+}

@@ -1,19 +1,20 @@
 name: Make videos
 
-# Voices and renders every story in stories/ that has no video yet, and publishes each one as a release
-# named after the story (the MP4 and the voiced JSON). Then scripts/post.py books every finished video
-# that isn't booked yet in Zernio, three a day (schedule.json), and posts.json records it.
+# Voices and renders every story in stories/ and every render lesson in lessons/ that has no video yet, and
+# publishes each one as a release named after it (the MP4 and the voiced JSON). Then scripts/post.py books every
+# finished video that isn't booked yet in Zernio (schedule.json: three stories a day, one lesson a day on YouTube),
+# and posts.json records it.
 # Runs when stories are added to the "stories" branch (this repo's main branch holds other videos and is left alone).
 # To make a story again (after a change to the voice or the look), put its id in remake.txt and push: the run
 # deletes that video, makes it again and empties remake.txt. Started by hand, "remake" does the same.
 on:
   push:
     branches: [stories]
-    paths: [stories/**, remake.txt, schedule.json, scripts/post.py]
+    paths: [stories/**, lessons/**, remake.txt, schedule.json, scripts/post.py]
   workflow_dispatch:
     inputs:
       remake:
-        description: "Story ids to make again, like 001-cullinan"
+        description: "Story or lesson ids to make again, like 001-cullinan"
         required: false
         default: ""
 
@@ -42,13 +43,13 @@ jobs:
           if [ "$(jq -r .default voices.json)" = null ]; then echo "No voice picked yet in voices.json"; exit 0; fi
           remake=$(echo $REMAKE $(grep -v '^#' remake.txt 2>/dev/null))
           for id in $remake; do
-            [[ "$id" =~ ^[0-9]{3,4}-[a-z0-9-]+$ ]] || { echo "::error::not a story id: $id"; exit 1; }
+            [[ "$id" =~ ^(lesson-)?[0-9]{3,4}-[a-z0-9-]+$ ]] || { echo "::error::not a story or lesson id: $id"; exit 1; }
             gh release delete "$id" --yes --cleanup-tag || true
           done
           echo "remake=$remake" >> "$GITHUB_OUTPUT"
           made=$(gh release list --limit 2000 --json tagName --jq '.[].tagName')
           todo=""
-          for f in $(ls stories/*.json | sort); do
+          for f in $(ls stories/*.json lessons/*.json 2>/dev/null | sort); do
             id=$(basename "$f" .json)
             grep -qx "$id" <<<"$made" || todo="$todo $f"
           done
@@ -80,7 +81,8 @@ jobs:
         if: steps.todo.outputs.stories != ''
         run: |
           for story in ${{ steps.todo.outputs.stories }}; do
-            m=$(jq -r '.music // empty' "$story"); n=$(jq -r .number "$story")
+            # a lesson's music gets its own seed, so it never repeats a story's
+            m=$(jq -r '.music // empty' "$story"); n=$(jq -r '.number + (if .series == "lesson" then 500 else 0 end)' "$story")
             [ -n "$m" ] && [ ! -f "public/$m" ] && python scripts/music.py "public/$m" 45 "$n"
           done; true
       - name: Reference voices
@@ -100,7 +102,7 @@ jobs:
               && python scripts/voice.py "$story" --out "out/$id.json" \
               && node scripts/render.mjs "out/$id.json" "out/$id.mp4"; then
               gh release create "$id" "out/$id.mp4" "out/$id.json" \
-                --title "$(jq -r '"\(.number). \(.title)"' "$story")" \
+                --title "$(jq -r 'if .series == "lesson" then "Lesson \(.number). \(.title)" else "\(.number). \(.title)" end' "$story")" \
                 --notes "$(jq -r '.post.caption' "$story")"
             else
               echo "::error::$id failed"

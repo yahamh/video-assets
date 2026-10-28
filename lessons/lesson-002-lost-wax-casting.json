@@ -1,0 +1,160 @@
+{
+  "id": "lesson-002-lost-wax-casting",
+  "series": "lesson",
+  "number": 2,
+  "title": "How a 3D file becomes a gold ring",
+  "topic": "lost-wax casting",
+  "music": "music-lesson-002.wav",
+  "hook": {
+    "text": "This ring's mold only works once.",
+    "gold": [
+      "once"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This ring's mold only works once.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-front-input.webp",
+        "after": "mix585-front-render.webp"
+      }
+    },
+    {
+      "text": "First the client approves a render made from the 3D file.",
+      "say": "First the client approves a render made from the three D file.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "label": "The render"
+      }
+    },
+    {
+      "text": "Then that same file is printed in a resin made for casting.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-still-three-quarter.webp",
+        "label": "The 3D file"
+      }
+    },
+    {
+      "text": "Each print is stuck on a wax trunk to make a tree.",
+      "scene": {
+        "kind": "steps",
+        "label": "Lost-wax casting",
+        "items": [
+          "Print",
+          "Tree",
+          "Plaster",
+          "Oven",
+          "Gold",
+          "Water"
+        ],
+        "active": 1
+      }
+    },
+    {
+      "text": "A steel flask around it gets filled with a kind of plaster.",
+      "scene": {
+        "kind": "steps",
+        "label": "Lost-wax casting",
+        "items": [
+          "Print",
+          "Tree",
+          "Plaster",
+          "Oven",
+          "Gold",
+          "Water"
+        ],
+        "active": 2
+      }
+    },
+    {
+      "text": "An oven takes it to about 730°C, and the resin burns out.",
+      "say": "An oven takes it to about seven hundred and thirty degrees, and the resin burns out.",
+      "scene": {
+        "kind": "title",
+        "text": "730°C",
+        "sub": "About 1,350°F"
+      }
+    },
+    {
+      "text": "Gold is spun or drawn by vacuum into the space it left.",
+      "scene": {
+        "kind": "steps",
+        "label": "Lost-wax casting",
+        "items": [
+          "Print",
+          "Tree",
+          "Plaster",
+          "Oven",
+          "Gold",
+          "Water"
+        ],
+        "active": 4
+      }
+    },
+    {
+      "text": "A dunk in water makes the plaster crack off the hot metal.",
+      "scene": {
+        "kind": "steps",
+        "label": "Lost-wax casting",
+        "items": [
+          "Print",
+          "Tree",
+          "Plaster",
+          "Oven",
+          "Gold",
+          "Water"
+        ],
+        "active": 5
+      }
+    },
+    {
+      "text": "Getting the ring out breaks the mold, so it works only once.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "mix585-render-front.webp",
+          "mix585-render-side.webp",
+          "mix585-render-top.webp",
+          "mix585-render-back.webp"
+        ]
+      }
+    },
+    {
+      "text": "People have cast metal this way for at least 6,000 years.",
+      "say": "People have cast metal this way for at least six thousand years.",
+      "scene": {
+        "kind": "title",
+        "text": "6,000\nyears",
+        "sub": "At least"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "How a 3D file becomes a gold ring",
+    "caption": "Lost-wax casting, from the 3D file to the finished ring. The file is printed in a castable resin, set on a wax tree, covered in plaster and baked at about 730°C until the resin burns out. Gold goes into the space it left, and the mold is broken to get the ring out, so each mold is used once. The renders in this video were made from the ring's 3D file with HeyGema.",
+    "hashtags": [
+      "#jewelrymaking",
+      "#lostwaxcasting",
+      "#jewelrycasting",
+      "#3dprinting",
+      "#cadjewelry"
+    ]
+  },
+  "sources": [
+    "https://formlabs.com/support/Introduction-to-casting-with-Formlabs-resins/",
+    "https://products.riogrande.com/content/White-Paper/The-Lost-Wax-Casting-Process-Down-To-Basics-WP.pdf",
+    "https://siraya.tech/blogs/news/3d-printed-jewelry",
+    "https://en.wikipedia.org/wiki/Lost-wax_casting",
+    "https://media.formlabs.com/m/5338f705419e1fbe/original/-ENUS-Castable-Resin-Jewelry-Pattern-Burnout-Process.pdf",
+    "https://www.stuller.com/benchjeweler/resources/bencharticles/view/casting-breakout-the-last-act-part-2-investment/",
+    "https://www.britannica.com/print/article/292508",
+    "https://www.nature.com/articles/ncomms13356"
+  ]
+}

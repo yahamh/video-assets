@@ -6,7 +6,7 @@ import { SceneProps, str } from "./types";
 // The last card: a stone, one line, and the account name.
 export const End: React.FC<SceneProps> = ({ t, p }) => {
   const line = str(p.line, "A new jewelry story every day");
-  const handle = str(p.handle, "@trygema");
+  const handle = str(p.handle, "HeyGema");
   const a = popped(t, 0.05, 0.45);
   const b = popped(t, 0.3, 0.7);
   return (

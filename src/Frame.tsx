@@ -101,14 +101,16 @@ export const HookText: React.FC<{ text: string; gold: string[]; t: number; out: 
 };
 
 // The series name at the top, small, between two gold rules.
-export const Badge: React.FC<{ number: number; opacity: number }> = ({ number, opacity }) => (
+// The series name at the top, once the hook has gone.
+const SERIES: Record<string, string> = { lesson: "RENDER LESSONS" };
+export const Badge: React.FC<{ number: number; series?: string; opacity: number }> = ({ number, series, opacity }) => (
   <div style={{ position: "absolute", top: 168, left: 0, width: W, display: "flex", justifyContent: "center", alignItems: "center", gap: 18, opacity }}>
     <div style={{ width: 70, height: 2, background: GOLD, opacity: 0.8 }} />
     <svg width={18} height={18} viewBox="0 0 18 18">
       <path d="M9 1 L17 9 L9 17 L1 9Z" fill={GOLD} />
     </svg>
     <div style={{ fontFamily: SANS, fontWeight: 700, fontSize: 26, letterSpacing: 7, color: GOLD_LIGHT }}>
-      JEWELRY STORIES <span style={{ opacity: 0.6 }}>· {number}</span>
+      {SERIES[series ?? ""] ?? "JEWELRY STORIES"} <span style={{ opacity: 0.6 }}>· {number}</span>
     </div>
     <svg width={18} height={18} viewBox="0 0 18 18">
       <path d="M9 1 L17 9 L9 17 L1 9Z" fill={GOLD} />

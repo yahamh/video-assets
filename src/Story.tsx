@@ -27,6 +27,11 @@ import { Jewel } from "./scenes/Jewel";
 import { Portrait } from "./scenes/Portrait";
 import { Cast } from "./scenes/Cast";
 import { Hook } from "./scenes/Hook";
+import { Photo } from "./scenes/Photo";
+import { Compare } from "./scenes/Compare";
+import { Grid } from "./scenes/Grid";
+import { Steps } from "./scenes/Steps";
+import { Mix } from "./scenes/Mix";
 
 export const SCENES: Record<string, React.FC<SceneProps>> = {
   parcel: Parcel,
@@ -43,13 +48,18 @@ export const SCENES: Record<string, React.FC<SceneProps>> = {
   portrait: Portrait,
   cast: Cast,
   hook: Hook,
+  photo: Photo,
+  compare: Compare,
+  grid: Grid,
+  steps: Steps,
+  mix: Mix,
 };
 
 const f = (s: number) => Math.round(s * FPS);
 const PUNCH_S = 0.3;
 
 // One scene. It cuts in hard with a quick zoom settle and a flash, then keeps pushing in slowly.
-const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: number; first: boolean }> = ({ kind, p, len, first }) => {
+const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: number; first: boolean; hook: boolean }> = ({ kind, p, len, first, hook }) => {
   const t = useCurrentFrame() / FPS;
   const Scene = SCENES[kind];
   if (!Scene) throw new Error(`Unknown scene "${kind}"`);
@@ -59,7 +69,7 @@ const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: numbe
   return (
     <AbsoluteFill>
       <AbsoluteFill style={{ transform: `scale(${scale})` }}>
-        <Scene t={t} dur={len} p={p} />
+        <Scene t={t} dur={len} p={p} hook={hook} />
       </AbsoluteFill>
       {flash > 0 && <AbsoluteFill style={{ background: "#fff6dd", opacity: flash }} />}
     </AbsoluteFill>
@@ -111,14 +121,14 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
     <AbsoluteFill style={{ background: BG }}>
       {slots.map((s, i) => (
         <Sequence key={i} from={f(s.start)} durationInFrames={f(s.len)} layout="none">
-          <SceneSlot kind={s.line.scene.kind} p={s.line.scene} len={s.len} first={i === 0} />
+          <SceneSlot kind={s.line.scene.kind} p={s.line.scene} len={s.len} first={i === 0} hook={i === 0 && !!story.hook} />
         </Sequence>
       ))}
       <Sequence from={f(endStart)} layout="none">
         <SceneEnd p={story.end ?? {}} />
       </Sequence>
       <Overlay frame={frame} />
-      <Badge number={story.number} opacity={badge} />
+      <Badge number={story.number} series={story.series} opacity={badge} />
       {hook && t < hookOut && (
         <HookText text={hook.text} gold={hook.gold ?? []} t={t} out={hookOut} words={hook.text === slots[0].line.text ? timeWords(hook.text, speakSeconds(slots[0].line), slots[0].line.words) : undefined} />
       )}

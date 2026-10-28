@@ -79,7 +79,7 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   "topic": "hope diamond",
   "music": "music-014.wav",
   "hook": { "text": "The hook, seven words or fewer.", "gold": ["word"] },
-  "end": { "line": "A new jewelry story every day", "handle": "@trygema" },
+  "end": { "line": "A new jewelry story every day", "handle": "HeyGema" },
   "lines": [
     { "text": "Caption text, a sentence or the first part of one,", "say": "Optional: what the voice reads.", "hold": 0.3, "scene": { "kind": "parcel", "glow": true } }
   ],

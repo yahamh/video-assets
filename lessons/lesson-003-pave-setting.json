@@ -1,0 +1,157 @@
+{
+  "id": "lesson-003-pave-setting",
+  "series": "lesson",
+  "number": 3,
+  "title": "What pavé means and how it's set",
+  "topic": "pave setting",
+  "music": "music-lesson-003.wav",
+  "hook": {
+    "text": "This ring is paved like a street.",
+    "gold": [
+      "paved"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This ring is paved like a street.",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-input.webp",
+        "after": "ring-1d-render.webp"
+      }
+    },
+    {
+      "text": "Pavé means paved in French, with stones set close like cobblestones.",
+      "say": "Pavay means paved in French, with stones set close like cobblestones.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-render.webp",
+        "label": "Pavé",
+        "focus": {
+          "x": 0.47,
+          "y": 0.17,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "Each stone is often a hundredth of a carat, about 1.3 mm.",
+      "say": "Each stone is often a hundredth of a carat, about one point three millimeters.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-yellow-render.webp",
+        "marks": [
+          {
+            "x": 0.62,
+            "y": 0.24,
+            "text": "Pavé",
+            "at": 0.8
+          }
+        ]
+      }
+    },
+    {
+      "text": "A setter drills a hole and cuts a seat for every stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-input.webp",
+        "label": "The 3D file",
+        "focus": {
+          "x": 0.47,
+          "y": 0.16,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "Then a graver raises small beads of metal that hold them in.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-yellow-render.webp",
+        "focus": {
+          "x": 0.48,
+          "y": 0.24,
+          "k": 2.4
+        }
+      }
+    },
+    {
+      "text": "One bead often holds two neighboring stones at the same time.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "focus": {
+          "x": 0.75,
+          "y": 0.45,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "Micro pavé goes down to half a millimeter, set under a microscope.",
+      "say": "Micro pavay goes down to half a millimeter, set under a microscope.",
+      "scene": {
+        "kind": "title",
+        "text": "0.5 mm",
+        "sub": "Micro pavé"
+      }
+    },
+    {
+      "text": "Pavé caught on in Art Deco jewelry of the 1920s and 30s.",
+      "say": "Pavay caught on in Art Deco jewelry of the nineteen twenties and thirties.",
+      "scene": {
+        "kind": "title",
+        "text": "Art Deco",
+        "sub": "1920s and 30s"
+      }
+    },
+    {
+      "text": "This render shows each of those stones with its own sparkle,",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-yellow-input.webp",
+        "after": "ring-1d-yellow-render.webp"
+      }
+    },
+    {
+      "text": "so the client sees the pavé before a single stone is set.",
+      "say": "so the client sees the pavay before a single stone is set.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "ring-1d-render.webp",
+          "ring-1d-yellow-render.webp"
+        ],
+        "labels": [
+          "White gold",
+          "Yellow gold"
+        ]
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "What pavé means and how it's set",
+    "caption": "Pavé is French for paved: small stones set close together so the metal looks paved. Each stone is often a hundredth of a carat, held by small beads of metal that a setter raises with a graver, and micro pavé goes down to half a millimeter. The renders in this video were made from the ring's 3D file with HeyGema.",
+    "hashtags": [
+      "#pave",
+      "#diamondring",
+      "#jewelrymaking",
+      "#stonesetting",
+      "#cadjewelry"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/melee-diamonds-tiny-diamonds-big-impact/",
+    "https://ajaffe.com/blog/post/pros-and-cons-of-a-pave-engagement-ring.html",
+    "https://www.jckonline.com/magazine-article/practical-stone-setting-part-26-shared-bead-pav-setting/",
+    "https://www.stuller.com/benchjeweler/resources/bencharticles/view/pave-setting",
+    "https://blog.stuller.com/wp-content/uploads/2025/05/MM-CT-Chart.pdf",
+    "https://eu.mccaul.com/blogs/journal/micro-pave-diamond-setting",
+    "https://lioridiamonds.com/blogs/news/pave-vs-micropave-settings-do-the-tiny-diamonds-fall-out",
+    "https://www.pricescope.com/education/pave-engagement-rings"
+  ]
+}

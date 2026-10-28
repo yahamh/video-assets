@@ -1,7 +1,8 @@
-"""Checks stories before they are made: the shape of the JSON, the length, the words, and repeats.
+"""Checks stories and render lessons before they are made: the shape of the JSON, the length, the words, and repeats.
 
-Usage: python3 scripts/check.py stories/*.json
-Prints every problem and exits 1 if there is one. WRITING.md has the rules behind each check.
+Usage: python3 scripts/check.py stories/*.json lessons/*.json
+Prints every problem and exits 1 if there is one. WRITING.md (and WRITING-LESSONS.md for lessons) has the rules behind
+each check.
 """
 import json
 import re
@@ -11,7 +12,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SCENES = {p.stem.lower() for p in (ROOT / "src" / "scenes").glob("*.tsx")} - {"types", "end"}
 READ_WPS, PAD_S, END_S = 3.4, 0.25, 2.0  # as in src/story.ts (voice A reads about 3.4 words a second)
-LENGTH = (30.0, 40.0)
+LENGTH = {"story": (30.0, 40.0), "lesson": (30.0, 45.0)}
+FOLDERS = {"story": "stories", "lesson": "lessons"}
+LESSON_FIRST = {"compare", "photo"}  # a lesson opens on a real render: the 3D file turning into it, or the render itself
+RENDERS = ROOT / "public" / "renders"
 # Words and phrases that make a story sound machine-written (WRITING.md, "How it should sound").
 BANNED = [
     "imagine", "little did", "in a world", "here's the twist", "but here's", "here's the thing", "here's why",
@@ -37,14 +41,20 @@ def check(path, seen):
             say(f"missing {key}")
     if problems:
         return problems
+    series = "lesson" if s.get("series") == "lesson" else "story"
     if path.stem != s["id"]:
         say(f"file name should be {s['id']}.json")
-    if not re.fullmatch(r"\d{3,4}-[a-z0-9-]+", s["id"]):
+    if path.parent.name != FOLDERS[series]:
+        say(f"a {series} goes in {FOLDERS[series]}/ (series is {s.get('series')!r})")
+    if series == "lesson" and not re.fullmatch(r"lesson-\d{3}-[a-z0-9-]+", s["id"]):
+        say("id should look like lesson-012-bezel-setting")
+    if series == "story" and not re.fullmatch(r"\d{3,4}-[a-z0-9-]+", s["id"]):
         say("id should look like 012-hope-diamond")
     if len({u for u in s["sources"] if u.startswith("http")}) < 2:
         say("needs at least two source links")
-    if s.get("music") != f"music-{s['number']:03d}.wav":
-        say(f"music should be music-{s['number']:03d}.wav (the workflow makes it)")
+    music = f"music-{'lesson-' if series == 'lesson' else ''}{s['number']:03d}.wav"
+    if s.get("music") != music:
+        say(f"music should be {music} (the workflow makes it)")
     total = END_S
     spoken = " ".join(l.get("say") or l.get("text", "") for l in s["lines"])
     sentences = [x.split() for x in re.split(r"(?<=[.!?])\s+", spoken.strip()) if x.strip()]
@@ -66,6 +76,10 @@ def check(path, seen):
         kind = (line.get("scene") or {}).get("kind")
         if kind not in SCENES:
             say(f"line {i}: unknown scene {kind!r} (have {', '.join(sorted(SCENES))})")
+        scene = line.get("scene") or {}
+        for pic in [scene.get(k) for k in ("src", "before", "after")] + list(scene.get("srcs") or []):
+            if isinstance(pic, str) and pic and not (RENDERS / pic).is_file():
+                say(f"line {i}: there's no public/renders/{pic}")
         n = len(text.split())
         if n > 12:
             say(f"line {i}: {n} words, keep a line to 12 or fewer")
@@ -79,8 +93,9 @@ def check(path, seen):
                 say(f"line {i}: {b.strip()!r} sounds made up or salesy, say it plainly")
         ends = re.search(r"[.!?][\"')\]]*$", spoken.strip())
         total += len(spoken.split()) / READ_WPS + (PAD_S if ends else 0) + (line.get("hold") or 0)
-    if not LENGTH[0] <= total <= LENGTH[1]:
-        say(f"runs about {total:.0f} s, aim for {LENGTH[0]:.0f} to {LENGTH[1]:.0f}")
+    lo, hi = LENGTH[series]
+    if not lo <= total <= hi:
+        say(f"runs about {total:.0f} s, aim for {lo:.0f} to {hi:.0f}")
     hook = s.get("hook") or {}
     words = len(str(hook.get("text", "")).split())
     if not 3 <= words <= 7:
@@ -90,8 +105,15 @@ def check(path, seen):
     for g in hook.get("gold", []):
         if g.lower() not in hook.get("text", "").lower():
             say(f"hook.gold word {g!r} isn't in the hook text")
-    if s["lines"] and s["lines"][0].get("scene", {}).get("kind") != "hook":
+    first = s["lines"][0].get("scene", {}).get("kind") if s["lines"] else None
+    if series == "story" and first != "hook":
         say("the first scene should be kind 'hook': the payoff, big and moving")
+    if series == "lesson" and first not in LESSON_FIRST:
+        say("a lesson's first scene should be compare (the 3D file turning into its render) or photo (a render)")
+    if series == "lesson":
+        yt = str(s["post"].get("youtube_title", ""))
+        if not 10 <= len(yt) <= 70 or "#" in yt:
+            say("post.youtube_title needs 10 to 70 characters and no hashtags")
     if any(l.get("scene", {}).get("kind") == "hook" for l in s["lines"][1:]):
         say("only the first scene is a hook")
     tags = s["post"].get("hashtags", [])
@@ -109,7 +131,7 @@ def check(path, seen):
 
 def main():
     seen = {}
-    for p in sorted((ROOT / "stories").glob("*.json")):
+    for p in sorted([*(ROOT / "stories").glob("*.json"), *(ROOT / "lessons").glob("*.json")]):
         t = json.loads(p.read_text()).get("topic", "").strip().lower()
         if t and t not in seen:
             seen[t] = p.stem
