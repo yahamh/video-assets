@@ -52,7 +52,7 @@ jobs:
             id=$(basename "$f" .json)
             grep -qx "$id" <<<"$made" || todo="$todo $f"
           done
-          todo=$(echo $todo | tr ' ' '\n' | head -n "$PER_RUN" | tr '\n' ' ')
+          todo=$(echo $todo | tr ' ' '\n' | head -n "$PER_RUN" | xargs)  # empty when there's nothing to make
           echo "stories=$todo" >> "$GITHUB_OUTPUT"
           echo "To make: ${todo:-nothing}"
       - if: steps.todo.outputs.stories != ''
