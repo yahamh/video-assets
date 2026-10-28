@@ -10,7 +10,9 @@ faster-whisper; a group that comes back garbled, too fast or too slow is read ag
 TRIES times, and the best take is kept. The take is cut into its lines at the quietest moment between them, so
 the lines play back to back exactly as they were read. The pieces go to public/voice/<story>/<voice>/NN.wav and
 the story JSON gets each line's audio, seconds, pad (0 inside a group) and words (caption word timings, in seconds
-from the line's start). If the whole story runs past MAX_S, every line is sped up by the same amount (pitch kept).
+from the line's start). A line that ends a sentence gets PAD_S of quiet after it, wherever it falls. Every line is
+then slowed or sped up by the same amount (pitch kept): slowed when the reading runs faster than MAX_WPS or the
+story comes out shorter than MIN_S, sped up when it runs past MAX_S.
 """
 import argparse
 import difflib
@@ -28,9 +30,10 @@ ROOT = Path(__file__).resolve().parent.parent
 TRIES = 4
 MIN_SCORE = 0.8  # share of words whisper must hear as written
 RATE = (1.6, 4.6)  # words a second a take must fall within
-MAX_S = 39.5  # longest a story may run, end card included
-END_S, PAD_S = 2.0, 0.18  # must match src/story.ts
-MAX_TEMPO = 1.15
+MIN_S, MAX_S = 31.0, 39.5  # shortest and longest a story may run, end card included (ali: 30 to 40 s)
+END_S, PAD_S = 2.0, 0.25  # must match src/story.ts
+MAX_WPS = 3.8  # read faster than this and it sounds rushed (voice A read 4.3 a second in whole sentences)
+MIN_TEMPO, MAX_TEMPO = 0.9, 1.15
 LUFS = -18.0
 SHORT = 3  # lines this short always join the line before
 GROUP_MIN, GROUP_MAX = 12, 28  # words a group gathers before it may end, and the most it takes on
@@ -177,7 +180,7 @@ def loudness(wav, sr):
 
 
 def stretch(path, tempo):
-    """Speeds a take up without changing its pitch (ffmpeg rubberband, else atempo)."""
+    """Speeds a take up or slows it down without changing its pitch (ffmpeg rubberband, else atempo)."""
     tmp = path.with_suffix(".tmp.wav")
     for f in (f"rubberband=tempo={tempo:.4f}", f"atempo={tempo:.4f}"):
         r = subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(path), "-af", f, str(tmp)], capture_output=True)
@@ -285,16 +288,21 @@ def main():
         for j, (i, (piece, heard_w, heard_t)) in enumerate(zip(g, best["pieces"])):
             path = out_dir / f"{i + 1:02d}.wav"
             sf.write(path, piece, reader.sr)
-            pad = PAD_S if j == len(g) - 1 else 0.0
+            ends = re.search(r"[.!?][\"')\]]*$", says[i].strip())
+            pad = PAD_S if ends or j == len(g) - 1 else 0.0
             takes.append((lines[i], says[i], path, len(piece) / reader.sr, pad, heard_w, heard_t))
 
-    # Fit the story into MAX_S by speeding every line up the same amount.
+    # Slow a rushed reading or a short story down, or speed a long one up, every line by the same amount.
     speak = sum(t[3] for t in takes)
     fixed = sum(t[4] + (t[0].get("hold") or 0) for t in takes) + END_S
     tempo = voice.get("tempo", 1.0)
+    rate = sum(len(words_of(t[1])) for t in takes) / max(speak, 0.1)
+    tempo = min(tempo, max(MIN_TEMPO, MAX_WPS / rate))
+    if speak / tempo + fixed < MIN_S:
+        tempo = max(MIN_TEMPO, min(tempo, speak / (MIN_S - fixed)))
     if speak / tempo + fixed > MAX_S:
         tempo = min(MAX_TEMPO, speak / (MAX_S - fixed))
-    print(f"voice {speak:.1f} s, tempo {tempo:.3f}, story {speak / tempo + fixed:.1f} s")
+    print(f"voice {speak:.1f} s at {rate:.1f} words/s, tempo {tempo:.3f}, story {speak / tempo + fixed:.1f} s")
 
     for line, say, path, _, pad, heard_w, heard_t in takes:
         if abs(tempo - 1) > 0.005:

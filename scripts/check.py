@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SCENES = {p.stem.lower() for p in (ROOT / "src" / "scenes").glob("*.tsx")} - {"types", "end"}
-READ_WPS, PAD_S, END_S = 3.4, 0.18, 2.0  # as in src/story.ts (voice A reads about 3.4 words a second)
+READ_WPS, PAD_S, END_S = 3.4, 0.25, 2.0  # as in src/story.ts (voice A reads about 3.4 words a second)
 LENGTH = (30.0, 40.0)
 # Words and phrases that make a story sound machine-written (WRITING.md, "How it should sound").
 BANNED = [

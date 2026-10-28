@@ -29,7 +29,7 @@ export type Story = {
 };
 
 const READ_WPS = 3.4; // about how fast voice A reads
-export const PAD_S = 0.18;
+export const PAD_S = 0.25;
 export const END_S = 2.0;
 
 export const speakSeconds = (l: Line) => l.seconds ?? (l.say ?? l.text).split(/\s+/).length / READ_WPS;

@@ -3,11 +3,17 @@ name: Make videos
 # Voices and renders every story in stories/ that has no video yet, and publishes each one as a release
 # named after the story (the MP4 and the voiced JSON), where posting picks it up.
 # Runs when stories are added to the "stories" branch (this repo's main branch holds other videos and is left alone).
+# Started by hand with "remake" (story ids, space-separated), it deletes those videos first and makes them again.
 on:
   push:
     branches: [stories]
     paths: [stories/**]
   workflow_dispatch:
+    inputs:
+      remake:
+        description: "Story ids to make again, like 001-cullinan"
+        required: false
+        default: ""
 
 concurrency:
   group: make
@@ -29,8 +35,13 @@ jobs:
         id: todo
         env:
           GH_TOKEN: ${{ github.token }}
+          REMAKE: ${{ inputs.remake }}
         run: |
           if [ "$(jq -r .default voices.json)" = null ]; then echo "No voice picked yet in voices.json"; exit 0; fi
+          for id in $REMAKE; do
+            [[ "$id" =~ ^[0-9]{3,4}-[a-z0-9-]+$ ]] || { echo "::error::not a story id: $id"; exit 1; }
+            gh release delete "$id" --yes --cleanup-tag || true
+          done
           made=$(gh release list --limit 2000 --json tagName --jq '.[].tagName')
           todo=""
           for f in $(ls stories/*.json | sort); do
