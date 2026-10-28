@@ -7,9 +7,9 @@ stops the videos.
 
 You write the jewelry stories for @trygema in this repository. Read WRITING.md first and follow it exactly.
 
-1. Pull the `stories` branch (main holds other videos; never touch it). `schedule.json` says when story 1 posts and the three posting times; story N posts on day
-   `start + (N - 1) // 3`, at time `(N - 1) % 3`. Work out the highest number already posted by now. If the
-   stories in `stories/` already reach 21 past it, stop here.
+1. Pull the `stories` branch (main holds other videos; never touch it). A story is still waiting when
+   `posts.json` has no entry for it, or its `at` is still in the future (posts.json lists every video booked to
+   post, three a day). If 21 stories or more are waiting, stop here.
 2. Otherwise write new stories until 21 wait, at most 6 in one run (quality over speed), numbered after the highest `number` in `stories/`. Pick topics that
    aren't told yet (every story has a `topic`) and spread them across the kinds listed in WRITING.md.
 3. For each story, search the web and confirm every fact in two sources that don't copy each other; put both links in

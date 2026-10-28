@@ -1,14 +1,15 @@
 name: Make videos
 
 # Voices and renders every story in stories/ that has no video yet, and publishes each one as a release
-# named after the story (the MP4 and the voiced JSON), where posting picks it up.
+# named after the story (the MP4 and the voiced JSON). Then scripts/post.py books every finished video
+# that isn't booked yet in Zernio, three a day (schedule.json), and posts.json records it.
 # Runs when stories are added to the "stories" branch (this repo's main branch holds other videos and is left alone).
 # To make a story again (after a change to the voice or the look), put its id in remake.txt and push: the run
 # deletes that video, makes it again and empties remake.txt. Started by hand, "remake" does the same.
 on:
   push:
     branches: [stories]
-    paths: [stories/**, remake.txt]
+    paths: [stories/**, remake.txt, schedule.json, scripts/post.py]
   workflow_dispatch:
     inputs:
       remake:
@@ -108,16 +109,30 @@ jobs:
             echo "::endgroup::"
           done
           exit $failed
-      - name: Empty remake.txt
-        if: always() && steps.todo.outputs.remake != '' && hashFiles('remake.txt') != ''
+      - name: Book posts
+        id: book
+        if: always() && steps.todo.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_API_URL: ${{ secrets.ZERNIO_API_URL }}
+        run: python3 scripts/post.py --remade "${{ steps.todo.outputs.remake }}"
+      - name: Save
+        if: always() && steps.todo.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          head -n 2 remake.txt | grep '^#' > /tmp/remake.txt || true
-          cp /tmp/remake.txt remake.txt
-          git commit -qam "Remade: ${{ steps.todo.outputs.remake }}" || exit 0
-          for i in 1 2 3; do
+          remake="${{ steps.todo.outputs.remake }}"; booked="${{ steps.book.outputs.booked }}"
+          if [ -n "$remake" ]; then
+            head -n 2 remake.txt | grep '^#' > /tmp/remake.txt || true
+            cp /tmp/remake.txt remake.txt
+          fi
+          git add remake.txt; [ -f posts.json ] && git add posts.json
+          msg=$(echo ${remake:+Remade: $remake.} ${booked:+Booked: $booked.})
+          git diff --cached --quiet && exit 0
+          git commit -qm "${msg:-Posts updated}"
+          for i in 1 2 3 4; do
             git fetch -q --depth=50 origin stories && git rebase -q origin/stories && git push -q origin HEAD:stories && exit 0
             sleep 5
           done
-          echo "::warning::couldn't empty remake.txt"
+          echo "::error::couldn't save remake.txt and posts.json"; exit 1

@@ -1,5 +1,7 @@
 {
-  "note": "Story N posts on day start + (N - 1) // 3 at times[(N - 1) % 3], UTC. start stays null until posting is switched on.",
-  "start": null,
-  "times": ["14:00", "18:00", "23:00"]
+  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the @trygema accounts in Zernio; YouTube's id is read from Zernio.",
+  "paused": false,
+  "times": ["14:00", "18:00", "23:00"],
+  "platforms": ["instagram", "tiktok", "youtube"],
+  "accounts": {"instagram": "69bb5e606cb7b8cf4c811bcb", "tiktok": "69bb5e836cb7b8cf4c811c15"}
 }
