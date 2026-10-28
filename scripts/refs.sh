@@ -12,4 +12,5 @@ mkdir -p /tmp/kokoro-model
 base=https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0
 curl -sSfL -o /tmp/kokoro-model/kokoro-v1.0.onnx "$base/kokoro-v1.0.onnx"
 curl -sSfL -o /tmp/kokoro-model/voices-v1.0.bin "$base/voices-v1.0.bin"
+mkdir -p voices
 for ref in "${todo[@]}"; do /tmp/kokoro/bin/python scripts/make_ref.py /tmp/kokoro-model "${KOKORO[$ref]}" "$ref"; done

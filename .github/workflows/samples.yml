@@ -5,7 +5,7 @@ name: Voice samples
 on:
   push:
     branches: [stories]
-    paths: [samples.json, voices.json, scripts/voice.py, .github/workflows/samples.yml]
+    paths: [samples.json, voices.json, scripts/**, .github/workflows/samples.yml]
   workflow_dispatch:
 
 concurrency:
