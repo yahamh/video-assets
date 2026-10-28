@@ -1,0 +1,70 @@
+name: Voice samples
+
+# Makes the stories in samples.json once in each voice listed there, so the voices can be compared,
+# and puts the videos on the "samples" branch.
+on:
+  push:
+    branches: [main]
+    paths: [samples.json, voices.json, scripts/voice.py, .github/workflows/samples.yml]
+  workflow_dispatch:
+
+concurrency:
+  group: samples
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  samples:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: models-${{ hashFiles('requirements.txt') }}
+      - name: Tools
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+          pip install -q torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -q -r requirements.txt
+          npm ci
+      - name: Music
+        run: |
+          for story in $(jq -r '.stories[]' samples.json); do
+            m=$(jq -r '.music // empty' "$story"); n=$(jq -r .number "$story")
+            [ -n "$m" ] && [ ! -f "public/$m" ] && python scripts/music.py "public/$m" 45 "$n"
+          done; true
+      - name: Reference voices
+        run: scripts/refs.sh
+      - name: Voice and render
+        run: |
+          mkdir -p out
+          for story in $(jq -r '.stories[]' samples.json); do
+            id=$(jq -r .id "$story")
+            for voice in $(jq -r '.voices[]' samples.json); do
+              echo "::group::$id in $voice"
+              # one voice failing (a download, a model) mustn't cost the others
+              python scripts/voice.py "$story" --voice "$voice" --out "out/$id-$voice.json" \
+                && node scripts/render.mjs "out/$id-$voice.json" "out/$id-$voice.mp4" \
+                || echo "::warning::$id in $voice failed"
+              echo "::endgroup::"
+            done
+          done
+      - name: Put them on the samples branch
+        run: |
+          mkdir /tmp/samples && cp out/*.mp4 out/*.json /tmp/samples/ && cp voices/*.wav /tmp/samples/ 2>/dev/null || true
+          cd /tmp/samples
+          git init -q -b samples
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Voice samples from ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" samples

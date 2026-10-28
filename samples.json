@@ -1,0 +1,5 @@
+{
+  "note": "Changing this file makes these stories in each of these voices and puts the videos on the samples branch.",
+  "stories": ["stories/001-cullinan.json"],
+  "voices": ["nora", "jack", "quinn"]
+}

@@ -1,0 +1,4 @@
+# torch==2.6.0 and torchaudio==2.6.0 come first, from https://download.pytorch.org/whl/cpu (no GPU on the runners)
+chatterbox-tts==0.1.7
+faster-whisper==1.2.1
+soundfile==0.14.0

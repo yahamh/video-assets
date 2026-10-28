@@ -1,0 +1,28 @@
+{
+  "default": null,
+  "voices": {
+    "nora": {
+      "label": "Warm woman's voice (Chatterbox's own voice)",
+      "engine": "chatterbox",
+      "exaggeration": 0.62,
+      "cfg": 0.42,
+      "temperature": 0.8,
+      "tempo": 1.04
+    },
+    "jack": {
+      "label": "Deep man's voice (Chatterbox, timbre from voices/ref-jack.wav)",
+      "engine": "chatterbox",
+      "ref": "voices/ref-jack.wav",
+      "exaggeration": 0.6,
+      "cfg": 0.42,
+      "temperature": 0.8,
+      "tempo": 1.04
+    },
+    "quinn": {
+      "label": "Chatterbox Turbo's own voice",
+      "engine": "turbo",
+      "temperature": 0.8,
+      "tempo": 1.0
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "id": "001-cullinan",
+  "number": 1,
+  "title": "The diamond in the mail",
+  "topic": "cullinan diamond",
+  "lines": [
+    {
+      "text": "In 1905, someone mailed the biggest gem diamond ever found.",
+      "say": "In nineteen oh five, someone mailed the biggest gem diamond ever found.",
+      "scene": {
+        "kind": "parcel",
+        "label": "London",
+        "glow": true,
+        "year": "1905"
+      }
+    },
+    {
+      "text": "In a plain box.",
+      "scene": {
+        "kind": "parcel",
+        "label": "London",
+        "stamp": "Registered",
+        "stampAt": 0.35,
+        "close": true
+      }
+    },
+    {
+      "text": "And it was no accident.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#1f2638",
+            "accent": "#7a2a24",
+            "hat": "bowler",
+            "facial": "handlebar",
+            "hairColor": "#4a3524",
+            "skin": "#e6b996",
+            "expression": "sly",
+            "look": 1
+          }
+        ]
+      }
+    },
+    {
+      "text": "A mine manager found it in South Africa.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Frederick Wells",
+        "role": "Mine manager",
+        "gasp": 0.4,
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3226",
+            "accent": "#2f4f6e",
+            "hair": "side",
+            "hairColor": "#5a3d26",
+            "facial": "mustache",
+            "skin": "#e0ad86",
+            "prop": "rough",
+            "expression": "surprised",
+            "look": -1
+          }
+        ]
+      }
+    },
+    {
+      "text": "3,106 carats. The size of a fist.",
+      "say": "Three thousand, one hundred and six carats. The size of a fist.",
+      "scene": {
+        "kind": "mine",
+        "place": "South Africa",
+        "year": "1905",
+        "carats": 3106,
+        "zoomAt": 0.12
+      }
+    },
+    {
+      "text": "Detectives guarded a box on a steamship.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#262b33",
+            "hat": "bowler",
+            "facial": "walrus",
+            "hairColor": "#3d2c20",
+            "skin": "#e3b48e",
+            "prop": "lantern",
+            "expression": "focused",
+            "look": 1
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f2a26",
+            "hat": "bowler",
+            "facial": "mustache",
+            "hairColor": "#1f1a16",
+            "skin": "#d9a47c",
+            "expression": "worried",
+            "look": 1
+          }
+        ]
+      }
+    },
+    {
+      "text": "But their box held a fake.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "shape": "round",
+        "stamp": "Fake",
+        "openAt": 0.15,
+        "stampAt": 0.9
+      }
+    },
+    {
+      "text": "The real one was in the mail.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "South Africa",
+          "x": 0.62,
+          "y": 0.95
+        },
+        "to": {
+          "name": "London",
+          "x": 0.38,
+          "y": 0.08
+        },
+        "icon": "parcel"
+      }
+    },
+    {
+      "text": "It became King Edward VII's birthday gift.",
+      "say": "It became King Edward the Seventh's birthday gift.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "King Edward VII",
+        "role": "9 November 1907",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#8e1f2c",
+            "accent": "#2f4f9e",
+            "hair": "bald",
+            "hairColor": "#8a7a66",
+            "facial": "fullbeard",
+            "skin": "#e8bb98",
+            "old": true,
+            "expression": "proud",
+            "prop": "rough"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Then Joseph Asscher had to split it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Joseph Asscher",
+        "role": "Amsterdam, 1908",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#5b3f2a",
+            "hair": "short",
+            "hairColor": "#2a1f18",
+            "facial": "mustache",
+            "glasses": "round",
+            "skin": "#e2b08a",
+            "prop": "blade",
+            "expression": "focused",
+            "look": -1
+          }
+        ]
+      }
+    },
+    {
+      "text": "One wrong blow could shatter it.",
+      "scene": {
+        "kind": "cut",
+        "phase": "blade"
+      }
+    },
+    {
+      "text": "He struck.",
+      "hold": 0.4,
+      "scene": {
+        "kind": "cut",
+        "phase": "strike",
+        "hitAt": 0.35
+      }
+    },
+    {
+      "text": "Nine large stones. 96 small ones.",
+      "say": "Nine large stones. Ninety-six small ones.",
+      "hold": 0.2,
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "pieces": [
+          {
+            "shape": "pear",
+            "carats": 4.39
+          },
+          {
+            "shape": "marquise",
+            "carats": 8.8
+          },
+          {
+            "shape": "heart",
+            "carats": 18.8
+          },
+          {
+            "shape": "pear",
+            "carats": 94.4
+          },
+          {
+            "shape": "pear",
+            "carats": 530.2
+          },
+          {
+            "shape": "cushion",
+            "carats": 317.4
+          },
+          {
+            "shape": "cushion",
+            "carats": 63.6
+          },
+          {
+            "shape": "marquise",
+            "carats": 11.5
+          },
+          {
+            "shape": "cushion",
+            "carats": 6.8
+          }
+        ],
+        "note": "Cullinan I to IX"
+      }
+    },
+    {
+      "text": "The two biggest are in the British Crown Jewels today.",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Cullinan II",
+        "sceptreLabel": "Cullinan I"
+      }
+    }
+  ],
+  "music": "music-001.wav",
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "@trygema"
+  },
+  "post": {
+    "caption": "The biggest gem diamond ever found went to London in a plain box, by regular mail. Here's why.",
+    "hashtags": [
+      "#jewelryhistory",
+      "#cullinandiamond",
+      "#diamonds",
+      "#crownjewels",
+      "#jewelrylover"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cullinan_Diamond",
+    "https://www.worldhistory.org/Cullinan_Diamond/"
+  ]
+}
