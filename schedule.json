@@ -1,5 +1,5 @@
 {
-  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the @trygema accounts in Zernio; YouTube's id is read from Zernio.",
+  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the @trygema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026.",
   "paused": false,
   "times": ["14:00", "18:00", "23:00"],
   "platforms": ["instagram", "tiktok", "youtube"],
