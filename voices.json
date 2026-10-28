@@ -7,7 +7,7 @@
       "exaggeration": 0.62,
       "cfg": 0.42,
       "temperature": 0.8,
-      "tempo": 1.04
+      "tempo": 1.0
     },
     "jack": {
       "label": "Deep man's voice (Chatterbox, timbre from voices/ref-jack.wav)",
@@ -19,7 +19,7 @@
       "tempo": 1.04
     },
     "quinn": {
-      "label": "Chatterbox Turbo's own voice",
+      "label": "Lighter woman's voice (Chatterbox Turbo's own voice)",
       "engine": "turbo",
       "temperature": 0.8,
       "tempo": 1.0

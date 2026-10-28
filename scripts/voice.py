@@ -7,6 +7,8 @@ transcribed with faster-whisper. A line that comes back garbled, too fast or too
 another seed, up to TRIES times, and the best take is kept. The takes go to public/voice/<story>/<voice>/NN.wav
 and the story JSON gets each line's audio, seconds and words (caption word timings, in seconds from the line's start).
 If the whole story runs past MAX_S, every line is sped up by the same amount (pitch kept) to fit.
+A line of SHORT words or fewer ("He struck.") is read straight after the line before it and cut out at the pause:
+read alone it comes out clipped or garbled, and whisper can't check half a second of sound.
 """
 import argparse
 import difflib
@@ -28,6 +30,7 @@ MAX_S = 39.5  # longest a story may run, end card included
 END_S, PAD_S = 2.0, 0.18  # must match src/story.ts
 MAX_TEMPO = 1.15
 LUFS = -18.0
+SHORT = 3
 
 
 def words_of(text):
@@ -89,19 +92,47 @@ def fill(times, total):
     return times
 
 
-def trim(wav, sr, before=0.03, after=0.09):
-    """Cuts the silence around the voice, keeping a breath of room."""
+def rms10(wav, sr):
+    """Loudness of each 10 ms of the take."""
     frame = int(0.01 * sr)
     n = len(wav) // frame
-    if n == 0:
-        return wav
-    rms = np.sqrt(np.mean(wav[: n * frame].reshape(n, frame) ** 2, axis=1) + 1e-12)
-    loud = np.where(rms > rms.max() * 10 ** (-38 / 20))[0]
+    return frame, np.sqrt(np.mean(wav[: n * frame].reshape(n, frame) ** 2, axis=1) + 1e-12)
+
+
+def bounds(wav, sr, before=0.03, after=0.09):
+    """Where the voice starts and stops, keeping a breath of room (samples)."""
+    frame, rms = rms10(wav, sr)
+    loud = np.where(rms > rms.max() * 10 ** (-38 / 20))[0] if len(rms) else []
     if not len(loud):
-        return wav
-    a = max(0, loud[0] * frame - int(before * sr))
-    b = min(len(wav), (loud[-1] + 1) * frame + int(after * sr))
+        return 0, len(wav)
+    return max(0, loud[0] * frame - int(before * sr)), min(len(wav), (loud[-1] + 1) * frame + int(after * sr))
+
+
+def trim(wav, sr):
+    """Cuts the silence around the voice."""
+    a, b = bounds(wav, sr)
     return wav[a:b]
+
+
+def tail(wav, sr, heard, times, lead, say):
+    """Cuts a short line out of a take that read the line before it first. Finds where whisper heard the line's
+    first word, cuts at the quietest 10 ms around there, and gives back the cut take with the words heard in it
+    and their times from its start. None when the line's first word wasn't heard."""
+    lw, sw = words_of(lead), words_of(say)
+    at = transfer(heard, times, lw + sw)
+    first = at[len(lw)]
+    if first is None:
+        return None
+    before = next((t[1] for t in reversed(at[: len(lw)]) if t), first[0] - 0.3)
+    frame, rms = rms10(wav, sr)
+    lo = max(0, int(min(before, first[0] - 0.05) / 0.01))
+    hi = max(lo + 1, min(len(rms), int((first[0] + 0.05) / 0.01)))
+    cut = (lo + int(np.argmin(rms[lo:hi]))) * frame
+    piece = wav[cut:]
+    a, b = bounds(piece, sr)
+    t0 = (cut + a) / sr
+    kept = [(w, (s - t0, e - t0)) for w, (s, e) in zip(heard, times) if e > t0 + 0.05]
+    return piece[a:b], [w for w, _ in kept], [(max(0.0, float(s)), max(0.0, float(e))) for _, (s, e) in kept]
 
 
 def loudness(wav, sr):
@@ -192,15 +223,26 @@ def main():
 
     reader, ear = Reader(voice), Ear()
     takes = []
-    for i, line in enumerate(story["lines"]):
+    lines = story["lines"]
+    for i, line in enumerate(lines):
         say = line.get("say") or line["text"]
+        lead = (lines[i - 1].get("say") or lines[i - 1]["text"]) if i and len(words_of(say)) <= SHORT else None
         path = out_dir / f"{i + 1:02d}.wav"
         best = None
         for k in range(TRIES):
-            wav = trim(reader.read(say, args.seed + 1000 * k + i), reader.sr)
-            wav = loudness(wav, reader.sr)
-            sf.write(path, wav, reader.sr)
-            heard, times = ear.hear(path)
+            wav = trim(reader.read(f"{lead} {say}" if lead else say, args.seed + 1000 * k + i), reader.sr)
+            if lead:
+                sf.write(path, wav, reader.sr)
+                cut = tail(wav, reader.sr, *ear.hear(path), lead, say)
+                if cut is None:
+                    print(f"line {i + 1:2d} take {k + 1}: couldn't find where the line starts, again", flush=True)
+                    continue
+                wav, heard, times = cut
+                wav = loudness(wav, reader.sr)
+            else:
+                wav = loudness(wav, reader.sr)
+                sf.write(path, wav, reader.sr)
+                heard, times = ear.hear(path)
             secs = len(wav) / reader.sr
             rate = len(words_of(say)) / max(secs, 0.1)
             s = score(heard, say, line["text"])
@@ -210,6 +252,8 @@ def main():
                 best = {"ok": ok, "score": s, "wav": wav, "heard": heard, "times": times}
             if ok:
                 break
+        if best is None:
+            sys.exit(f"line {i + 1}: no take could be cut out of the line before it: {say!r}")
         if not best["ok"]:
             print(f"line {i + 1}: no clean take, keeping the best ({best['score']:.2f}): {say!r} heard {' '.join(best['heard'])!r}", file=sys.stderr)
         sf.write(path, best["wav"], reader.sr)
