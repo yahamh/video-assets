@@ -10,7 +10,8 @@ export const Title: React.FC<SceneProps> = ({ t, p }) => {
   const a = popped(t, 0.02, 0.35);
   const spread = eased(t, 0, 2.5);
   const lines = text.split("\n");
-  const size = Math.max(...lines.map((l) => l.length)) > 10 ? 120 : 200;
+  const longest = Math.max(...lines.map((l) => l.length));
+  const size = Math.min(longest > 10 ? 120 : 200, Math.round(1700 / longest)); // keeps the widest line inside the frame
   return (
     <svg width={1080} height={1920} viewBox="0 0 1080 1920">
       <defs>
@@ -31,7 +32,7 @@ export const Title: React.FC<SceneProps> = ({ t, p }) => {
       )}
       <line x1={540 - 260 * spread} y1={620} x2={540 + 260 * spread} y2={620} stroke={GOLD} strokeWidth={2} />
       {lines.map((l, i) => (
-        <text key={i} x={540} y={760 + i * size * 1.05} textAnchor="middle" fontFamily={DISPLAY} fontStyle="italic" fontWeight={700} fontSize={size} fill="url(#tiGold)" opacity={a} letterSpacing={2 + 18 * (1 - spread)}>
+        <text key={i} x={540} y={760 + i * size * 1.05} textAnchor="middle" fontFamily={DISPLAY} fontStyle="italic" fontWeight={700} fontSize={size} fill="url(#tiGold)" opacity={a} letterSpacing={2 + 10 * (1 - spread)}>
           {l}
         </text>
       ))}

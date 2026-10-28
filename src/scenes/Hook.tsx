@@ -1,12 +1,12 @@
 import React from "react";
 import { BG, DISPLAY, GOLD, GOLD_LIGHT, RED } from "../look";
-import { CutGem, RoughDiamond, Sparkle, Spotlight } from "../art";
+import { CutGem, PearPearl, RoughDiamond, Sparkle, Spotlight } from "../art";
 import { SceneProps, num, str } from "./types";
 
 // The opening shot: the payoff of the story, big, already moving on the very first frame, so the video stops the scroll
 // before a word is heard. The story's hook text sits above it (see HookText in Frame.tsx).
-// Options: show ("parcel": an open parcel with the stone rising out of it, "rough", "gem", "chest"), shape and tone (for
-// gem), label (address on the parcel), stamp (red word on the parcel or chest).
+// Options: show ("parcel": an open parcel with the stone rising out of it, "rough", "gem", "pearl" (a pear-shaped pearl),
+// "chest"), shape and tone (for gem; tone for pearl), label (address on the parcel), stamp (red word on the parcel or chest).
 export const Hook: React.FC<SceneProps> = ({ t, p }) => {
   const show = str(p.show, "rough");
   const shape = str(p.shape, "cushion");
@@ -34,6 +34,12 @@ export const Hook: React.FC<SceneProps> = ({ t, p }) => {
   const stone =
     show === "gem" ? (
       <CutGem x={540} y={cy + bob} size={size} shape={shape} tone={tone} />
+    ) : show === "pearl" ? (
+      <g transform={`rotate(${turn * 4} 540 ${cy - size * 0.55})`}>
+        <line x1={540} y1={cy - size * 1.1} x2={540} y2={cy - size * 0.5} stroke={GOLD} strokeWidth={6} />
+        <circle cx={540} cy={cy - size * 0.5} r={14} fill={GOLD} />
+        <PearPearl x={540} y={cy + bob * 0.4} h={size} tone={p.tone ? tone : undefined} />
+      </g>
     ) : (
       <RoughDiamond x={540} y={cy + bob} size={size} turn={turn} />
     );

@@ -227,6 +227,29 @@ export const Pearl: React.FC<{ x: number; y: number; r: number; tone?: string }>
   );
 };
 
+// A pear-shaped pearl hanging point up, `h` tall, centred on (x, y). `tone` as for Pearl.
+export const PearPearl: React.FC<{ x: number; y: number; h: number; tone?: string }> = ({ x, y, h, tone = "#f3eee4" }) => {
+  const id = `pp${Math.round(x)}${Math.round(y)}${Math.round(h)}${tone.replace("#", "")}`;
+  const w = h * 0.36; // half width at the round end
+  const top = y - h / 2;
+  const d = `M${x} ${top} C${x + w * 0.35} ${top + h * 0.22} ${x + w} ${top + h * 0.42} ${x + w} ${top + h * 0.68}
+    A${w} ${h * 0.32} 0 0 1 ${x - w} ${top + h * 0.68} C${x - w} ${top + h * 0.42} ${x - w * 0.35} ${top + h * 0.22} ${x} ${top}Z`;
+  return (
+    <g>
+      <defs>
+        <radialGradient id={id} cx="0.36" cy="0.62" r="0.7">
+          <stop offset="0" stopColor="#ffffff" />
+          <stop offset="0.3" stopColor={tone} />
+          <stop offset="0.8" stopColor={shade(tone, -0.25)} />
+          <stop offset="1" stopColor={shade(tone, -0.42)} />
+        </radialGradient>
+      </defs>
+      <path d={d} fill={`url(#${id})`} stroke={shade(tone, -0.5)} strokeOpacity={0.35} strokeWidth={Math.max(1, h / 90)} />
+      <ellipse cx={x - w * 0.38} cy={top + h * 0.6} rx={w * 0.16} ry={h * 0.1} fill="#ffffff" opacity={0.55} />
+    </g>
+  );
+};
+
 // A cone of light from above, `k` 0..1 its strength.
 export const Spotlight: React.FC<{ x: number; top?: number; bottom: number; w: number; k?: number; color?: string; id: string }> = ({
   x,

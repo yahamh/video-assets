@@ -1,10 +1,10 @@
 import React from "react";
 import { BG, DISPLAY, GOLD, GOLD_LIGHT, RED, eased, popped, shake } from "../look";
-import { CutGem, RoughDiamond, Sparkle, Spotlight } from "../art";
+import { CutGem, PearPearl, RoughDiamond, Sparkle, Spotlight } from "../art";
 import { SceneProps, num, str } from "./types";
 
 // A locked chest under a light. It opens to show what's inside, and a red word can slam on top.
-// Options: item (rough, gem, glass, empty), shape and tone (for gem or glass), openAt (seconds), stamp, stampAt, label.
+// Options: item (rough, gem, glass, pearl, empty), shape and tone (for gem or glass), openAt (seconds), stamp, stampAt, label.
 export const Reveal: React.FC<SceneProps> = ({ t, p }) => {
   const item = str(p.item, "rough");
   const shape = str(p.shape, "round");
@@ -33,6 +33,7 @@ export const Reveal: React.FC<SceneProps> = ({ t, p }) => {
         <g opacity={open}>
           {item === "rough" && <RoughDiamond x={540} y={870 - open * 40} size={210} turn={Math.sin(t * 1.5)} />}
           {(item === "gem" || item === "glass") && <CutGem x={540} y={860 - open * 40} size={180} shape={shape} tone={tone} />}
+          {item === "pearl" && <PearPearl x={540} y={850 - open * 40} h={190} />}
           {item === "empty" && <ellipse cx={540} cy={900} rx={90} ry={22} fill="#1d0710" />}
           {item !== "empty" && <Sparkle x={500} y={800} r={36} k={(0.5 + 0.5 * Math.sin(t * 4)) * (item === "glass" ? 0.4 : 1)} />}
         </g>

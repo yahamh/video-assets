@@ -1,11 +1,12 @@
 import React from "react";
 import { eased, DISPLAY, GOLD, IVORY } from "../look";
-import { CutGem, MetalGradient, Pearl, Sparkle, shade } from "../art";
+import { CutGem, MetalGradient, Pearl, PearPearl, Sparkle, shade } from "../art";
 import { SceneProps, str } from "./types";
 
 // One piece of jewelry, close up on velvet: a ring in its box, a necklace on a bust, earrings, a brooch or a tiara.
 // Options: piece, shape (stone cut), tone (stone colour), metal (yellow, white, rose), velvet (colour), pearls (true for pearls
-// instead of stones where the piece has small stones), label (small card under the piece).
+// instead of stones where the piece has small stones), drop ("pearl": the necklace's pendant is a pear-shaped pearl),
+// label (small card under the piece).
 export const Jewel: React.FC<SceneProps> = ({ t, p }) => {
   const piece = str(p.piece, "ring");
   const shape = str(p.shape, "round");
@@ -13,6 +14,7 @@ export const Jewel: React.FC<SceneProps> = ({ t, p }) => {
   const metal = str(p.metal, "yellow");
   const velvet = str(p.velvet, "#1b2647");
   const label = str(p.label, "");
+  const labelY = piece === "necklace" ? 400 : 1100; // above the bust, where the pendant can't cover it
   const pearls = p.pearls === true;
   const a = Math.min(1, 0.4 + eased(t, 0, 0.5));
   const sway = Math.sin(t * 1.3) * 2.2;
@@ -61,7 +63,11 @@ export const Jewel: React.FC<SceneProps> = ({ t, p }) => {
           {pearls ? null : <path d="M300 700 Q540 1360 780 700" fill="none" stroke="url(#jM)" strokeWidth={6} />}
           {beads}
           <circle cx={540} cy={1040} r={14} fill="url(#jM)" />
-          <CutGem x={540} y={1130} size={150} shape={shape === "round" ? "pear" : shape} tone={tone} rot={180} />
+          {p.drop === "pearl" ? (
+            <PearPearl x={540} y={1150} h={190} />
+          ) : (
+            <CutGem x={540} y={1130} size={150} shape={shape === "round" ? "pear" : shape} tone={tone} rot={180} />
+          )}
         </g>
       </g>
     );
@@ -147,8 +153,8 @@ export const Jewel: React.FC<SceneProps> = ({ t, p }) => {
       <Sparkle x={420} y={980} r={20} k={a * tw(4.1, 3.2)} />
       {label && (
         <g opacity={eased(t, 0.8, 1.5)}>
-          <rect x={540 - Math.max(160, label.length * 13)} y={1100} width={Math.max(320, label.length * 26)} height={78} fill="#0a0e18" stroke={GOLD} strokeWidth={2} />
-          <text x={540} y={1152} textAnchor="middle" fontFamily={DISPLAY} fontStyle="italic" fontSize={42} fill={IVORY}>
+          <rect x={540 - Math.max(160, label.length * 13)} y={labelY} width={Math.max(320, label.length * 26)} height={78} fill="#0a0e18" stroke={GOLD} strokeWidth={2} />
+          <text x={540} y={labelY + 52} textAnchor="middle" fontFamily={DISPLAY} fontStyle="italic" fontSize={42} fill={IVORY}>
             {label}
           </text>
         </g>

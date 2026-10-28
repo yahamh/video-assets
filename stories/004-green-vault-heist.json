@@ -1,0 +1,176 @@
+{
+  "id": "004-green-vault-heist",
+  "number": 4,
+  "title": "Minutes in the Green Vault",
+  "topic": "green vault heist 2019",
+  "music": "music-004.wav",
+  "hook": {
+    "text": "They stole over 4,300 diamonds in minutes.",
+    "gold": [
+      "minutes"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "@trygema"
+  },
+  "lines": [
+    {
+      "text": "They stole over 4,300 diamonds in minutes.",
+      "say": "They stole over four thousand three hundred diamonds in minutes.",
+      "scene": {
+        "kind": "hook",
+        "show": "chest"
+      }
+    },
+    {
+      "text": "It was nearly 5 a.m. in Dresden, Germany.",
+      "say": "It was nearly five in the morning in Dresden, Germany.",
+      "scene": {
+        "kind": "stranger",
+        "count": 2,
+        "hat": "cap",
+        "label": "Dresden, 25 November 2019"
+      }
+    },
+    {
+      "text": "A fire in a power box cut the street lights.",
+      "scene": {
+        "kind": "stranger",
+        "count": 2,
+        "hat": "cap",
+        "darkAt": 0.9
+      }
+    },
+    {
+      "text": "A window's bars had been cut earlier and put back.",
+      "scene": {
+        "kind": "title",
+        "sub": "Dresden",
+        "text": "The Green Vault"
+      }
+    },
+    {
+      "text": "Two masked men climbed through,",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Two masked men",
+        "role": "4:57 a.m.",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#1b1d22",
+            "hat": "cap",
+            "hair": "none",
+            "skin": "#d8a882",
+            "expression": "focused",
+            "look": 1,
+            "mask": true
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#23201d",
+            "hat": "cap",
+            "hair": "none",
+            "skin": "#e0b28c",
+            "expression": "sly",
+            "look": -1,
+            "mask": true
+          }
+        ]
+      }
+    },
+    {
+      "text": "and one hit a glass case with an axe,",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "gasp": 0.5,
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#1b1d22",
+            "hat": "cap",
+            "hair": "none",
+            "skin": "#d8a882",
+            "prop": "blade",
+            "expression": "focused",
+            "look": -1,
+            "mask": true
+          }
+        ]
+      }
+    },
+    {
+      "text": "at least nine times.",
+      "scene": {
+        "kind": "title",
+        "sub": "Green Vault",
+        "text": "Nine blows"
+      }
+    },
+    {
+      "text": "They left with 21 pieces valued at about 113 million euros.",
+      "say": "They left with twenty-one pieces valued at about a hundred and thirteen million euros.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "round",
+        "metal": "white",
+        "label": "21 pieces"
+      }
+    },
+    {
+      "text": "In 2023 a court convicted five men from one Berlin family.",
+      "say": "In twenty twenty-three a court convicted five men from one Berlin family.",
+      "scene": {
+        "kind": "title",
+        "sub": "Dresden, May 2023",
+        "text": "Guilty"
+      }
+    },
+    {
+      "text": "In a deal for shorter sentences, they gave back 18 pieces.",
+      "say": "In a deal for shorter sentences, they gave back eighteen pieces.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "openAt": 0.15,
+        "stamp": "Returned",
+        "stampAt": 1.0
+      }
+    },
+    {
+      "text": "Three are still missing, including a famous diamond called the Saxon White.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.15,
+        "stamp": "Missing",
+        "stampAt": 1.1,
+        "label": "The Saxon White"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Over 4,300 diamonds left Dresden's Green Vault in a few minutes in 2019. Three of the pieces have never been found.",
+    "hashtags": [
+      "#greenvault",
+      "#jewelheist",
+      "#dresden",
+      "#diamondheist",
+      "#truecrime"
+    ]
+  },
+  "sources": [
+    "https://kvia.com/entertainment/cnn-style/2022/01/27/inside-the-128-million-heist-that-shocked-the-world-and-the-police-chase-that-followed/",
+    "https://www.theartnewspaper.com/news/thieves-steal-priceless-baroque-jewels-from-dresden-museum",
+    "https://www.npr.org/2023/05/16/1176508582/5-men-are-sentenced-to-prison-for-their-brazen-123-million-jewel-heist",
+    "https://www.aljazeera.com/news/2023/5/16/german-court-sentences-five-people-over-spectacular-museum-heist",
+    "https://edition.cnn.com/style/article/green-vault-heist-sentence-germany-intl",
+    "https://www.justiz.sachsen.de/stadd/download/Medieninformation_Rueckfuehrung_Gruenes_Gewoelbe.pdf",
+    "https://www.kjzz.org/npr-top-stories/2024-08-14/jewels-stolen-during-a-brazen-2019-heist-are-back-on-display-in-germany"
+  ]
+}

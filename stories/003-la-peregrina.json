@@ -1,0 +1,206 @@
+{
+  "id": "003-la-peregrina",
+  "number": 3,
+  "title": "The pearl and the puppy",
+  "topic": "la peregrina pearl",
+  "music": "music-003.wav",
+  "hook": {
+    "text": "A puppy chewed this famous pearl.",
+    "gold": [
+      "puppy"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "@trygema"
+  },
+  "lines": [
+    {
+      "text": "A puppy chewed this famous pearl.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl",
+        "size": 560
+      }
+    },
+    {
+      "text": "An enslaved man found it off Panama in the 1500s.",
+      "say": "An enslaved man found it off Panama in the fifteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "sub": "The 1500s",
+        "text": "Gulf of Panama"
+      }
+    },
+    {
+      "text": "It went to the kings of Spain.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The kings of Spain",
+        "role": "Madrid",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#7a1c25",
+            "accent": "#d8b25a",
+            "hat": "crown",
+            "hair": "short",
+            "hairColor": "#3d2a1d",
+            "facial": "fullbeard",
+            "skin": "#e8bb98",
+            "jewel": "pearls",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Napoleon's brother Joseph took it when he left Spain in 1813.",
+      "say": "Napoleon's brother Joseph took it when he left Spain in eighteen thirteen.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Joseph Bonaparte",
+        "role": "Spain, 1813",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2c55",
+            "accent": "#b8913a",
+            "hair": "curly",
+            "hairColor": "#2a1d16",
+            "skin": "#e6bb96",
+            "expression": "sly",
+            "look": 1
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1969 Richard Burton bought it for Elizabeth Taylor for $37,000.",
+      "say": "In nineteen sixty-nine Richard Burton bought it for Elizabeth Taylor for thirty-seven thousand dollars.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Richard Burton and Elizabeth Taylor",
+        "role": "New York, 1969",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#22252d",
+            "hair": "side",
+            "hairColor": "#3b2a1e",
+            "skin": "#e4b38e",
+            "expression": "proud",
+            "look": 1
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#4a1d3a",
+            "hair": "updo",
+            "hairColor": "#17110f",
+            "skin": "#f0cfb4",
+            "jewel": "pearls",
+            "expression": "smile",
+            "look": -1
+          }
+        ]
+      }
+    },
+    {
+      "text": "Soon after, she lost it in their Las Vegas hotel suite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.15,
+        "stamp": "Lost",
+        "stampAt": 0.9,
+        "label": "Las Vegas"
+      }
+    },
+    {
+      "text": "Then she saw a puppy chewing on it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Elizabeth Taylor",
+        "role": "Las Vegas, 1969",
+        "gasp": 0.35,
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#4a1d3a",
+            "hair": "updo",
+            "hairColor": "#17110f",
+            "skin": "#f0cfb4",
+            "expression": "surprised"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It wasn't even scratched.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "drop": "pearl",
+        "metal": "yellow",
+        "label": "Not a scratch"
+      }
+    },
+    {
+      "text": "In 1972 Cartier set it in a necklace with rubies and diamonds.",
+      "say": "In nineteen seventy-two Cartier set it in a necklace with rubies and diamonds.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "pearls": true,
+        "drop": "pearl",
+        "metal": "yellow",
+        "velvet": "#3a1220",
+        "label": "Cartier, 1972"
+      }
+    },
+    {
+      "text": "In 2011 it sold for $11.8 million at Christie's,",
+      "say": "In twenty eleven it sold for eleven point eight million dollars at Christie's,",
+      "scene": {
+        "kind": "title",
+        "sub": "Christie's, New York, 2011",
+        "text": "$11,842,500"
+      }
+    },
+    {
+      "text": "the most ever paid for a pearl at auction.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "openAt": 0.15,
+        "stamp": "Record",
+        "stampAt": 1.0,
+        "label": "La Peregrina"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Elizabeth Taylor lost this pearl in a Las Vegas hotel suite and found a puppy chewing on it. It later sold for $11.8 million.",
+    "hashtags": [
+      "#laperegrina",
+      "#elizabethtaylor",
+      "#pearls",
+      "#famousjewels",
+      "#pearlnecklace"
+    ]
+  },
+  "sources": [
+    "https://www.laestrella.com.pa/nacional/090228/of-one-the-most-celebrated",
+    "https://www.jckonline.com/?p=19923",
+    "https://www.thecourtjeweller.com/2023/06/a-wonderful-wandering-royal-pearl-and-the-movie-star-who-treasured-it.html",
+    "https://rapaport.com/magazine-article/the-137-million-elizabeth-taylor-jewels/",
+    "https://www.barnebys.com/blog/la-peregrina-and-le-pelegrina-the-worlds-most-famous-pearls",
+    "https://www.winterson.co.uk/blog/la-peregrina-famous-pearl-jewels",
+    "https://www.guinnessworldrecords.com/world-records/62550-most-expensive-pearl",
+    "https://www.jckonline.com/editorial-article/elizabeth-taylor-jewelry-auction-earns-115-million-sets-7-world-records/"
+  ]
+}

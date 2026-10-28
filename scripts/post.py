@@ -6,6 +6,7 @@ last one booked and at least 30 minutes from now, in story order. Zernio holds t
 it at that time, so nothing has to run then. posts.json keeps what was booked: id -> at, zernio_id,
 platforms.
 
+Stories listed in schedule.json "now" post the moment they're made instead.
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
 with the new video. Each run also asks Zernio how the posts that were due went out and keeps that in
 posts.json (status, and each platform's link or error); a post that failed anywhere fails the run once.
@@ -152,7 +153,7 @@ def check(z, posts, now):
     return bad
 
 
-def payload(story, url, slot, accounts):
+def payload(story, url, slot, accounts):  # slot None: post right away
     post = story["post"]
     text = post["caption"].strip() + "\n\n" + " ".join(post["hashtags"])
     title = post.get("youtube_title") or story["hook"]["text"]
@@ -163,8 +164,8 @@ def payload(story, url, slot, accounts):
             entry["platformSpecificData"] = {"title": title[:100], "visibility": "public", "madeForKids": False,
                                              "containsSyntheticMedia": False, "categoryId": "27"}  # Education
         platforms.append(entry)
-    body = {"content": text, "mediaItems": [{"url": url, "type": "video"}], "platforms": platforms,
-            "scheduledFor": iso(slot), "timezone": "UTC"}
+    body = {"content": text, "mediaItems": [{"url": url, "type": "video"}], "platforms": platforms}
+    body.update({"publishNow": True} if slot is None else {"scheduledFor": iso(slot), "timezone": "UTC"})
     if "tiktok" in accounts:
         body["tiktokSettings"] = {"privacy_level": "PUBLIC_TO_EVERYONE", "allow_comment": True, "allow_duet": True,
                                   "allow_stitch": True, "content_preview_confirmed": True,
@@ -252,11 +253,14 @@ def main():
     with tempfile.TemporaryDirectory() as tmp:
         for s in stories:
             sid = s["id"]
-            slot, before = keep_slot.get(sid), last
-            if slot is None or slot <= now + LEAD:
+            slot, before, right_away = keep_slot.get(sid), last, sid in sched.get("now", [])
+            if right_away:
+                slot = None
+            elif slot is None or slot <= now + LEAD:
                 slot = last = next_slot(last, sched["times"])
+            when = "now" if right_away else iso(slot)
             if args.dry_run:
-                print(f"Would book {sid} for {iso(slot)} on {', '.join(accounts)}")
+                print(f"Would book {sid} for {when} on {', '.join(accounts)}")
                 continue
             try:
                 subprocess.run(["gh", "release", "download", sid, "-p", f"{sid}.mp4", "-D", tmp, "--clobber"],
@@ -278,14 +282,25 @@ def main():
                     if not zid:
                         raise
                     zid = zid.group(1)
-                posts[sid] = {"at": iso(slot), "zernio_id": zid, "platforms": list(accounts)}
+                posts[sid] = {"at": iso(slot or dt.datetime.now(UTC)), "zernio_id": zid, "platforms": list(accounts)}
                 save(posts)
                 booked.append(sid)
-                print(f"Booked {sid} for {iso(slot)} on {', '.join(accounts)} (Zernio post {zid})")
+                print(f"Booked {sid} for {when} on {', '.join(accounts)} (Zernio post {zid})")
             except Exception as e:  # one story failing mustn't stop the others; it's tried again next run
                 print(f"::error::{sid} wasn't booked: {e}")
                 failed = 1
                 last = before  # its time goes to the next story
+    # Posts that went out right away: wait for Zernio to finish them, so posts.json gets their links in this run.
+    waiting = [sid for sid in booked if sid in sched.get("now", [])]
+    for _ in range(40):
+        if not waiting:
+            break
+        time.sleep(30)
+        failed |= int(bool(check(z, posts, dt.datetime.now(UTC) + dt.timedelta(minutes=21))))
+        save(posts)
+        waiting = [sid for sid in waiting if posts[sid].get("status") not in DONE]
+    for sid in waiting:
+        print(f"::warning::{sid} wasn't done in Zernio after 20 minutes; the next run records it")
     output(booked=" ".join(booked))
     return failed
 

@@ -1,0 +1,220 @@
+{
+  "id": "002-tiffany-diamond",
+  "number": 2,
+  "title": "Four women and one diamond",
+  "topic": "tiffany yellow diamond",
+  "music": "music-002.wav",
+  "hook": {
+    "text": "Only four women ever wore this diamond.",
+    "gold": [
+      "four"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "@trygema"
+  },
+  "lines": [
+    {
+      "text": "Only four women ever wore this diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#f2c14e"
+      }
+    },
+    {
+      "text": "It came out of a South African mine in 1877.",
+      "say": "It came out of a South African mine in eighteen seventy-seven.",
+      "scene": {
+        "kind": "mine",
+        "place": "Kimberley, South Africa",
+        "year": "1877",
+        "carats": 287,
+        "zoomAt": 0.12,
+        "tone": "#e8c25a"
+      }
+    },
+    {
+      "text": "Tiffany bought it the next year for $18,000.",
+      "say": "Tiffany bought it the next year for eighteen thousand dollars.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Charles Lewis Tiffany",
+        "role": "New York, 1878",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2b2f3a",
+            "accent": "#6b1f2a",
+            "hair": "side",
+            "facial": "fullbeard",
+            "old": true,
+            "skin": "#e6b892",
+            "prop": "rough",
+            "propTone": "#e8c25a",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "George Kunz had it cut in Paris to 128 carats.",
+      "say": "George Kunz had it cut in Paris to a hundred and twenty-eight carats.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "pieces": [
+          {
+            "shape": "cushion",
+            "carats": 128.54,
+            "tone": "#f2c14e"
+          }
+        ],
+        "place": "Paris",
+        "note": "128.54 carats"
+      }
+    },
+    {
+      "text": "A woman wore it to a Tiffany ball in 1957.",
+      "say": "A woman wore it to a Tiffany ball in nineteen fifty-seven.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "cushion",
+        "tone": "#f2c14e",
+        "metal": "yellow",
+        "label": "Newport, 1957"
+      }
+    },
+    {
+      "text": "Audrey Hepburn wore it for the Breakfast at Tiffany's photos.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Audrey Hepburn",
+        "role": "1961",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#14141a",
+            "hair": "updo",
+            "hairColor": "#2a1c14",
+            "skin": "#efc9a8",
+            "jewel": "pendant",
+            "jewelTone": "#f2c14e",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Then nobody wore it for 58 years,",
+      "say": "Then nobody wore it for fifty-eight years,",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f2c14e",
+        "openAt": 0.2,
+        "label": "1961 to 2019"
+      }
+    },
+    {
+      "text": "until Lady Gaga wore it to the 2019 Oscars.",
+      "say": "until Lady Gaga wore it to the twenty nineteen Oscars.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Lady Gaga",
+        "role": "Oscars, 2019",
+        "gasp": 0.3,
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#101014",
+            "hair": "updo",
+            "hairColor": "#e9d9a6",
+            "skin": "#f0cdb0",
+            "jewel": "pendant",
+            "jewelTone": "#f2c14e",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Beyoncé wore it in an ad two years later.",
+      "say": "Beyonsay wore it in an ad two years later.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Beyoncé",
+        "role": "2021",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#0f1012",
+            "hair": "curly",
+            "hairColor": "#a8743c",
+            "skin": "#b98260",
+            "jewel": "pendant",
+            "jewelTone": "#f2c14e",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A 1972 newspaper ad offered it for $5 million.",
+      "say": "A nineteen seventy-two newspaper ad offered it for five million dollars.",
+      "scene": {
+        "kind": "title",
+        "sub": "New York, 1972",
+        "text": "$5,000,000"
+      }
+    },
+    {
+      "text": "Nobody bought it, and it's never been sold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f2c14e",
+        "openAt": 0.1,
+        "stamp": "Not sold",
+        "stampAt": 0.9
+      }
+    },
+    {
+      "text": "It sits in the Tiffany store on Fifth Avenue today.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "cushion",
+        "tone": "#f2c14e",
+        "metal": "yellow",
+        "label": "Fifth Avenue, New York"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Only four women have worn the Tiffany Diamond since 1877. Between the second and the third, it sat unworn for 58 years.",
+    "hashtags": [
+      "#tiffanydiamond",
+      "#yellowdiamond",
+      "#tiffanyandco",
+      "#breakfastattiffanys",
+      "#jewelrystories"
+    ]
+  },
+  "sources": [
+    "https://press.tiffany.com/our-story/the-tiffany-diamond/",
+    "https://www.anothermag.com/fashion-beauty/11530/lady-gaga-oscars-2019-jewellery-yellow-diamond-tiffany-and-co-audrey-hepburn",
+    "https://en.wikipedia.org/wiki/Tiffany_Yellow_Diamond",
+    "https://vogue.sg/dua-lipa-met-gala-necklace/",
+    "https://theadventurine.com/jewelry/rocks-my-world/the-tiffany-diamond-has-a-joyful-new-setting"
+  ]
+}

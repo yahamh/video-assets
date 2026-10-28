@@ -4,12 +4,16 @@ import { Silhouette, Stars } from "../art";
 import { SceneProps, num, str } from "./types";
 
 // A figure under a street lamp at night, in fog. For "someone", a thief, a buyer, a guard.
-// Options: hat (bowler, top, cap, none), count (1 to 3 figures), label (gold line at the top), lantern.
+// Options: hat (bowler, top, cap, none), count (1 to 3 figures), label (gold line at the top), lantern,
+// darkAt (seconds: the lamp and the lit windows flicker and go out, for a power cut).
 export const Stranger: React.FC<SceneProps> = ({ t, p }) => {
   const hat = str(p.hat, "bowler");
   const count = Math.max(1, Math.min(3, num(p.count, 1)));
   const label = str(p.label, "");
-  const flicker = 0.85 + 0.15 * Math.sin(t * 13) * Math.sin(t * 7);
+  const darkAt = num(p.darkAt, -1);
+  // after darkAt the lights stutter for a moment, then stay out
+  const out = darkAt < 0 || t < darkAt ? 1 : t < darkAt + 0.35 ? (Math.sin((t - darkAt) * 70) > 0 ? 0.9 : 0.1) : 0;
+  const flicker = (0.85 + 0.15 * Math.sin(t * 13) * Math.sin(t * 7)) * out;
   const walk = eased(t, 0, 3) * 40;
   const fog = (y: number, sp: number, o: number, i: number) => (
     <ellipse key={i} cx={540 + Math.sin(t * sp + i) * 160} cy={y} rx={700} ry={60} fill="#b9c4d6" opacity={o} />
@@ -42,7 +46,7 @@ export const Stranger: React.FC<SceneProps> = ({ t, p }) => {
         const x = 40 + (i % 7) * 150 + rand(i) * 30;
         const y = 700 + Math.floor(i / 7) * 190 + rand(i + 4) * 40;
         const lit = rand(i + 9) > 0.45;
-        return <rect key={i} x={x} y={y} width={46} height={70} fill={lit ? "#e9b95e" : "#141b2d"} opacity={lit ? 0.75 : 1} />;
+        return <rect key={i} x={x} y={y} width={46} height={70} fill={lit && out > 0.5 ? "#e9b95e" : "#141b2d"} opacity={lit && out > 0.5 ? 0.75 : 1} />;
       })}
       {/* wet street */}
       <rect y={1300} width={1080} height={620} fill="#0d121e" />
@@ -54,7 +58,7 @@ export const Stranger: React.FC<SceneProps> = ({ t, p }) => {
       <g>
         <rect x={290} y={760} width={14} height={540} fill="#07090f" stroke={GOLD} strokeOpacity={0.5} strokeWidth={2} />
         <path d="M262 760 H332 L318 712 H276Z" fill="#07090f" stroke={GOLD} strokeOpacity={0.6} strokeWidth={2} />
-        <rect x={278} y={714} width={38} height={44} fill="#ffe2a0" opacity={flicker} />
+        <rect x={278} y={714} width={38} height={44} fill="#ffe2a0" opacity={Math.max(0.08, flicker)} />
         <circle cx={297} cy={736} r={220} fill="url(#stLamp)" opacity={flicker} />
         <polygon points="277,760 317,760 640,1300 -40,1300" fill="url(#stCone)" opacity={flicker} />
       </g>

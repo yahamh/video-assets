@@ -17,6 +17,7 @@ export type Look = {
   jewel?: "none" | "pearls" | "pendant" | "earrings";
   jewelTone?: string;
   old?: boolean;
+  mask?: boolean; // a dark cloth over the nose and mouth
   prop?: "none" | "lantern" | "gem" | "rough" | "blade" | "letter" | "magnifier";
   propTone?: string;
 };
@@ -365,6 +366,12 @@ export const Person: React.FC<{ look: Look; expression: Expression; t: number; i
         <path d="M4 -168 Q14 -138 6 -124 Q-2 -120 -10 -126" stroke={shade(skin, -0.35)} strokeWidth={4} fill="none" strokeLinecap="round" />
         {mouth}
         {stache}
+        {look.mask && (
+          <g>
+            <path d="M-98 -142 Q0 -156 98 -142 L90 -84 Q0 -36 -90 -84Z" fill="#14161b" stroke={OUT} strokeWidth={3} />
+            <path d="M-70 -112 Q0 -122 70 -112" stroke="#2c3038" strokeWidth={4} fill="none" />
+          </g>
+        )}
         {look.glasses === "round" && (
           <g fill="none" stroke="#2a2420" strokeWidth={4}>
             <circle cx={-40} cy={-168} r={26} />

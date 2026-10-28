@@ -3,12 +3,12 @@ import { BG, DISPLAY, GOLD, GOLD_LIGHT, IVORY, SANS, eased, popped, prog, shake 
 import { CutGem, RoughDiamond, Sparkle, Stars } from "../art";
 import { SceneProps, num, str } from "./types";
 
-type Piece = { shape: string; carats: number };
+type Piece = { shape: string; carats: number; tone?: string };
 
 // A cutter's bench at night by a window full of gabled houses. In parts, so a story can hold the tension:
 // phase "blade" (the blade waits over the stone), "snap" (it comes down and the blade breaks, the stone stays whole),
 // "strike" (it comes down and the stone splits), "result" (the cut stones in a row), or "all". Options: pieces
-// ([{shape, carats}] left to right), hitAt (seconds, for snap, strike and all), place, note.
+// ([{shape, carats, tone?}] left to right), hitAt (seconds, for snap, strike and all), place, note.
 export const Cut: React.FC<SceneProps> = ({ t, dur, p }) => {
   const phase = str(p.phase, "all");
   const pieces = (Array.isArray(p.pieces) ? (p.pieces as Piece[]) : []).slice(0, 12);
@@ -112,7 +112,7 @@ export const Cut: React.FC<SceneProps> = ({ t, dur, p }) => {
           if (a <= 0) return null;
           return (
             <g key={g.i} opacity={a} transform={`translate(${g.cx} ${g.cy}) scale(${0.5 + 0.5 * a}) translate(${-g.cx} ${-g.cy})`}>
-              <CutGem x={g.cx} y={g.cy} size={g.w} shape={pieces[g.i].shape} />
+              <CutGem x={g.cx} y={g.cy} size={g.w} shape={pieces[g.i].shape} tone={pieces[g.i].tone} />
             </g>
           );
         })}

@@ -45,7 +45,9 @@ export const sceneSfx = (s: SceneSpec, dur: number): Sfx[] => {
     case "crown":
       return [{ at: 0.15, name: "shimmer", vol: 0.7 }];
     case "stranger":
-      return [{ at: 0.1, name: "steps", vol: 0.7 }];
+      return typeof s.darkAt === "number"
+        ? [{ at: 0.1, name: "steps", vol: 0.7 }, { at: s.darkAt, name: "crack", vol: 0.6 }]
+        : [{ at: 0.1, name: "steps", vol: 0.7 }];
     case "cast":
       return typeof s.gasp === "number" ? [{ at: s.gasp, name: "impact", vol: 0.5 }] : [];
     case "title":
