@@ -52,5 +52,26 @@
       "tiktok": "https://www.tiktok.com/@hey.gema/video/7701799911443975430",
       "youtube": "https://www.youtube.com/watch?v=T8uBMLPyjyo"
     }
+  },
+  "lesson-001-gold-colors": {
+    "at": "2026-10-29T16:00:00Z",
+    "zernio_id": "6ae256ef03d4ff73eafe6a3d",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-002-lost-wax-casting": {
+    "at": "2026-10-30T16:00:00Z",
+    "zernio_id": "6ae25717f5e1f4f4bf8e1d0b",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-003-pave-setting": {
+    "at": "2026-10-31T16:00:00Z",
+    "zernio_id": "6ae25720f5e1f4f4bf8e1d55",
+    "platforms": [
+      "youtube"
+    ]
   }
 }
