@@ -54,24 +54,36 @@
     }
   },
   "lesson-001-gold-colors": {
-    "at": "2026-10-29T16:00:00Z",
-    "zernio_id": "6ae256ef03d4ff73eafe6a3d",
+    "at": "2026-10-28T20:13:08Z",
+    "zernio_id": "6ae2574ced03408e835064b1",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=QI1Hax3yDvo"
+    }
   },
   "lesson-002-lost-wax-casting": {
-    "at": "2026-10-30T16:00:00Z",
-    "zernio_id": "6ae25717f5e1f4f4bf8e1d0b",
+    "at": "2026-10-28T20:13:26Z",
+    "zernio_id": "6ae2575ded03408e83506504",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=FfkhSN83qlY"
+    }
   },
   "lesson-003-pave-setting": {
-    "at": "2026-10-31T16:00:00Z",
-    "zernio_id": "6ae25720f5e1f4f4bf8e1d55",
+    "at": "2026-10-28T20:13:44Z",
+    "zernio_id": "6ae2576e8e4229c50e91c471",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=-D5ODNzAK6k"
+    }
   }
 }
