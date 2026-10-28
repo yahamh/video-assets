@@ -7,7 +7,9 @@ it at that time, so nothing has to run then. posts.json keeps what was booked: i
 platforms.
 
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
-with the new video. Without ZERNIO_API_KEY, or with "paused": true in schedule.json, nothing is booked.
+with the new video. Each run also asks Zernio how the posts that were due went out and keeps that in
+posts.json (status, and each platform's link or error); a post that failed anywhere fails the run once.
+Without ZERNIO_API_KEY, or with "paused": true in schedule.json, nothing is booked or checked.
 
   python3 scripts/post.py [--remade "001-cullinan ..."] [--dry-run]
 """
@@ -28,6 +30,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS = os.path.join(ROOT, "posts.json")
 LEAD = dt.timedelta(minutes=30)
+DONE = {"published", "partial", "failed", "cancelled"}
 UTC = dt.timezone.utc
 
 
@@ -116,6 +119,39 @@ class Zernio:
         return use
 
 
+def check(z, posts, now):
+    """Asks Zernio how each post that was due went out and records it once Zernio has finished with it.
+    Returns the ids of the posts that failed anywhere."""
+    bad = []
+    for sid, p in posts.items():
+        if p.get("status") in DONE or parse(p["at"]) > now - dt.timedelta(minutes=20):
+            continue
+        try:
+            got = z.call("GET", f"/posts/{p['zernio_id']}")
+        except RuntimeError as e:
+            print(f"::warning::couldn't ask Zernio about {sid}: {e}")
+            continue
+        post = got.get("post") or got
+        status, out, wrong = post.get("status") or "unknown", {}, []
+        for e in post.get("platforms") or []:
+            name = e.get("platform") or "?"
+            out[name] = e.get("platformPostUrl") or e.get("status") or ""
+            if status in ("partial", "failed", "cancelled") and e.get("status") not in ("published", "success"):
+                err = e.get("errorMessage") or e.get("error") or e.get("errorDetails") or e.get("status")
+                out[name] = f"{e.get('status')}: {err}"[:300]
+                wrong.append(name)
+        if status not in DONE:
+            if parse(p["at"]) < now - dt.timedelta(hours=6):
+                print(f"::warning::{sid} was due at {p['at']} and is still '{status}' in Zernio")
+            continue
+        p["status"], p["out"] = status, out
+        print(f"{sid} ({p['at']}): {status}; " + ", ".join(f"{k} {v}" for k, v in out.items()))
+        if status != "published" or wrong:
+            print(f"::error::{sid} didn't go out everywhere: {status}, {', '.join(wrong) or 'see Zernio'}")
+            bad.append(sid)
+    return bad
+
+
 def payload(story, url, slot, accounts):
     post = story["post"]
     text = post["caption"].strip() + "\n\n" + " ".join(post["hashtags"])
@@ -167,6 +203,9 @@ def main():
     z = Zernio(key, os.environ.get("ZERNIO_API_URL") or "https://zernio.com/api/v1")
     posts = json.load(open(POSTS)) if os.path.exists(POSTS) else {}
     now = dt.datetime.now(UTC)
+    bad = [] if args.dry_run else check(z, posts, now)
+    if bad or any(p.get("status") for p in posts.values()):
+        save(posts)
 
     # A remade video that hasn't gone out yet replaces the booked one, at the same time.
     keep_slot = {}
@@ -200,7 +239,7 @@ def main():
     stories.sort(key=lambda s: s["number"])
     if not stories:
         print("Every finished video is booked.")
-        return 0
+        return 1 if bad else 0
 
     accounts = z.accounts(sched["platforms"], sched.get("accounts", {})) if not args.dry_run \
         else {p: sched.get("accounts", {}).get(p) or "dry-run" for p in sched["platforms"]}
@@ -208,7 +247,7 @@ def main():
         print("::error::no account to post to is connected in Zernio")
         return 1
     last = max([parse(p["at"]) for p in posts.values()] + list(keep_slot.values()) + [now + LEAD])
-    booked, failed = [], 0
+    booked, failed = [], int(bool(bad))
     run = os.environ.get("GITHUB_RUN_ID") or int(now.timestamp())  # a retry in this run is the same post, a later run isn't
     with tempfile.TemporaryDirectory() as tmp:
         for s in stories:

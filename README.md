@@ -9,6 +9,7 @@ Short animated true stories about jewelry for @trygema: 30 to 40 seconds, 1080 x
 - Everything lives on the `stories` branch of this repo (main holds other videos). `.github/workflows/make.yml` makes every new story and publishes it as a release named after the story.
 - `scripts/post.py` runs at the end of each make run and books every finished video in Zernio for Instagram, TikTok
   and YouTube, three a day at the times in `schedule.json` (UTC). `posts.json` lists what's booked and when.
+  Each run also records in `posts.json` how the posts that were due went out (a failed one fails the run once).
   It needs the `ZERNIO_API_KEY` repository secret; `"paused": true` in `schedule.json` stops new bookings.
 - `.github/workflows/samples.yml` makes the stories in `samples.json` in several voices, to compare them.
 
