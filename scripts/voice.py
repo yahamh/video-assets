@@ -248,8 +248,9 @@ def main():
             s = score(heard, say, line["text"])
             ok = s >= MIN_SCORE and RATE[0] <= rate <= RATE[1]
             print(f"line {i + 1:2d} take {k + 1}: heard {s:.2f}, {rate:.1f} words/s, {secs:.2f} s {'ok' if ok else 'again'}", flush=True)
-            if best is None or (ok, s) > (best["ok"], best["score"]):
-                best = {"ok": ok, "score": s, "wav": wav, "heard": heard, "times": times}
+            miss = max(RATE[0] - rate, rate - RATE[1], 0.0)  # how far outside the allowed speed
+            if best is None or (ok, s, -miss) > (best["ok"], best["score"], -best["miss"]):
+                best = {"ok": ok, "score": s, "miss": miss, "wav": wav, "heard": heard, "times": times}
             if ok:
                 break
         if best is None:
