@@ -3,11 +3,12 @@ name: Make videos
 # Voices and renders every story in stories/ that has no video yet, and publishes each one as a release
 # named after the story (the MP4 and the voiced JSON), where posting picks it up.
 # Runs when stories are added to the "stories" branch (this repo's main branch holds other videos and is left alone).
-# Started by hand with "remake" (story ids, space-separated), it deletes those videos first and makes them again.
+# To make a story again (after a change to the voice or the look), put its id in remake.txt and push: the run
+# deletes that video, makes it again and empties remake.txt. Started by hand, "remake" does the same.
 on:
   push:
     branches: [stories]
-    paths: [stories/**]
+    paths: [stories/**, remake.txt]
   workflow_dispatch:
     inputs:
       remake:
@@ -38,10 +39,12 @@ jobs:
           REMAKE: ${{ inputs.remake }}
         run: |
           if [ "$(jq -r .default voices.json)" = null ]; then echo "No voice picked yet in voices.json"; exit 0; fi
-          for id in $REMAKE; do
+          remake=$(echo $REMAKE $(grep -v '^#' remake.txt 2>/dev/null))
+          for id in $remake; do
             [[ "$id" =~ ^[0-9]{3,4}-[a-z0-9-]+$ ]] || { echo "::error::not a story id: $id"; exit 1; }
             gh release delete "$id" --yes --cleanup-tag || true
           done
+          echo "remake=$remake" >> "$GITHUB_OUTPUT"
           made=$(gh release list --limit 2000 --json tagName --jq '.[].tagName')
           todo=""
           for f in $(ls stories/*.json | sort); do
@@ -105,3 +108,16 @@ jobs:
             echo "::endgroup::"
           done
           exit $failed
+      - name: Empty remake.txt
+        if: always() && steps.todo.outputs.remake != '' && hashFiles('remake.txt') != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          head -n 2 remake.txt | grep '^#' > /tmp/remake.txt || true
+          cp /tmp/remake.txt remake.txt
+          git commit -qam "Remade: ${{ steps.todo.outputs.remake }}" || exit 0
+          for i in 1 2 3; do
+            git fetch -q --depth=50 origin stories && git rebase -q origin/stories && git push -q origin HEAD:stories && exit 0
+            sleep 5
+          done
+          echo "::warning::couldn't empty remake.txt"
