@@ -102,19 +102,19 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 
 | kind | what it shows |
 | --- | --- |
-| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem) |
-| cast | 1 to 3 people of the story in a setting (mine, ship, palace, workshop, street, study, vault, plain), with a name card. Looks in `src/people/Person.tsx` |
+| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl) |
+| cast | 1 to 3 people of the story in a setting (mine, ship, palace, workshop, street, study, vault, plain), with a name card. Looks in `src/people/Person.tsx` (`mask: true` covers nose and mouth) |
 | parcel | a plain parcel under a light; a stamp can slam on |
 | mine | an open mine at night, the rough stone, a carat count |
 | ship | a steamship at night with guards around a chest |
-| reveal | a chest opens on a rough stone, a gem, a fake or nothing |
+| reveal | a chest opens on a rough stone, a gem, a pearl, a fake or nothing |
 | journey | a route drawn across a chart, with a parcel, ship, train or plane |
 | gift | a royal gift on a cushion with a handwritten tag |
-| cut | a cutter's bench: the blade waits, snaps, strikes, or the cut stones in a row |
+| cut | a cutter's bench: the blade waits, snaps, strikes, or the cut stones in a row (each can have a `tone`) |
 | crown | a crown and sceptre with labels |
-| jewel | one piece close up: ring, necklace, earrings, brooch, tiara |
+| jewel | one piece close up: ring, necklace, earrings, brooch, tiara; a necklace can hang a pearl (`drop: "pearl"`) |
 | portrait | a painted portrait in a gilt frame |
-| stranger | a figure under a street lamp in fog |
+| stranger | a figure under a street lamp in fog; `darkAt` puts the lights out |
 | title | words alone, for a date or a line that needs room (never first) |
 
 People carry the story: show them whenever the line is about someone. When a story needs something no scene shows,
