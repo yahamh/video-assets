@@ -1,13 +1,14 @@
 import React, { useEffect, useState } from "react";
 import "@fontsource/inter/700.css";
 import "@fontsource/inter/800.css";
+import "@fontsource/inter/900.css";
 import "@fontsource/playfair-display/400-italic.css";
 import "@fontsource/playfair-display/700.css";
 import "@fontsource/playfair-display/700-italic.css";
 import "@fontsource/playfair-display/900.css";
 import { AbsoluteFill, Audio, Sequence, continueRender, delayRender, interpolate, staticFile, useCurrentFrame } from "remotion";
 import { BG, FPS, clamp, easeOut, prog } from "./look";
-import { Badge, Captions, Overlay, timeWords } from "./Frame";
+import { Badge, Captions, HookText, Overlay, timeWords } from "./Frame";
 import { Story, speakSeconds, timeline } from "./story";
 import { sceneSfx } from "./sfx";
 import { SceneProps } from "./scenes/types";
@@ -25,6 +26,7 @@ import { Title } from "./scenes/Title";
 import { Jewel } from "./scenes/Jewel";
 import { Portrait } from "./scenes/Portrait";
 import { Cast } from "./scenes/Cast";
+import { Hook } from "./scenes/Hook";
 
 export const SCENES: Record<string, React.FC<SceneProps>> = {
   parcel: Parcel,
@@ -40,6 +42,7 @@ export const SCENES: Record<string, React.FC<SceneProps>> = {
   jewel: Jewel,
   portrait: Portrait,
   cast: Cast,
+  hook: Hook,
 };
 
 const f = (s: number) => Math.round(s * FPS);
@@ -83,7 +86,7 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   const [fonts] = useState(() => delayRender("fonts"));
   useEffect(() => {
     Promise.all(
-      ['800 80px "Inter"', '700 30px "Inter"', 'italic 400 50px "Playfair Display"', 'italic 700 50px "Playfair Display"', '700 50px "Playfair Display"', '900 50px "Playfair Display"'].map((x) => document.fonts.load(x)),
+      ['800 80px "Inter"', '900 100px "Inter"', '700 30px "Inter"', 'italic 400 50px "Playfair Display"', 'italic 700 50px "Playfair Display"', '700 50px "Playfair Display"', '900 50px "Playfair Display"'].map((x) => document.fonts.load(x)),
     ).then(() => continueRender(fonts));
   }, [fonts]);
 
@@ -97,6 +100,12 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
     ...(s.line.sfx ?? []).map((x) => ({ ...x, at: s.start + x.at })),
   ]);
   sounds.push({ at: endStart - 0.06, name: "whoosh", vol: 0.5 }, { at: endStart + 0.1, name: "shimmer", vol: 0.6 });
+  // The hook: a hit on the very first frame, the hook words instead of captions for the first line, and the series name
+  // only once the hook has gone.
+  const hook = story.hook;
+  const hookOut = hook ? slots[0].len : 0;
+  if (hook) sounds.push({ at: 0, name: "boom", vol: 0.75 }, { at: 0, name: "shimmer", vol: 0.7 });
+  const badge = Math.min(interpolate(t, [hookOut, hookOut + 0.3], [hook ? 0 : 1, 1], clamp), interpolate(t, [endStart - 0.1, endStart], [1, 0], clamp));
 
   return (
     <AbsoluteFill style={{ background: BG }}>
@@ -109,8 +118,11 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
         <SceneEnd p={story.end ?? {}} />
       </Sequence>
       <Overlay frame={frame} />
-      <Badge number={story.number} opacity={interpolate(t, [endStart - 0.1, endStart], [1, 0], clamp)} />
-      {slots.map((s, i) => (
+      <Badge number={story.number} opacity={badge} />
+      {hook && t < hookOut && (
+        <HookText text={hook.text} gold={hook.gold ?? []} t={t} out={hookOut} words={hook.text === slots[0].line.text ? timeWords(hook.text, speakSeconds(slots[0].line), slots[0].line.words) : undefined} />
+      )}
+      {slots.map((s, i) => (hook && i === 0 ? null :
         <Sequence key={`c${i}`} from={f(s.start)} durationInFrames={f(s.len)} layout="none">
           <CaptionSlot text={s.line.text} speak={speakSeconds(s.line)} len={s.len} words={s.line.words} />
         </Sequence>

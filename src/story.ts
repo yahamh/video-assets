@@ -21,6 +21,7 @@ export type Story = {
   title: string;
   lines: Line[];
   music?: string;
+  hook?: { text: string; gold?: string[] }; // big words on the first frame, shown while the first line is read
   end?: { line?: string; handle?: string };
   post?: { caption: string; hashtags: string[] };
   sources: string[];

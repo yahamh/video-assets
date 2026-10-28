@@ -8,8 +8,16 @@ and every one is a new story. A story is one JSON file in `stories/`; `scripts/c
 - **True, and checked.** Every fact comes from two sources that don't copy each other (a museum, a news outlet, a
   book, an encyclopedia). Put both links in `sources`. When sources disagree, use what both say or leave it out.
   Never make up a quote, a name, a date or a number. A legend (a curse, a myth) is told as a legend: "people said".
-- **The hook is the first line.** Open on the strangest true fact, inside two seconds: "In 1905, someone mailed the
-  biggest gem diamond ever found." Never open on a date alone, a title card or a question to the viewer.
+- **The hook is the first frame.** People decide in about a second, often with the sound off, so the first frame has
+  to say why to keep watching. Three parts, all pointing at the same question:
+  - `hook.text`: the strangest true fact in 7 words or fewer, big at the top from frame one ("They mailed the
+    biggest diamond ever found."). Put the jewel's name or kind in it ("diamond", "pearl", "tiara"): TikTok searches
+    on-screen text. `hook.gold` lists the one or two words that carry the surprise.
+  - The first line is read out as the same words, so voice and text agree. No date first, no "Have you ever", no
+    question the viewer can answer, no greeting.
+  - The first scene is `hook`: the payoff itself, big and already moving (the stone rising out of the parcel), never
+    the setup. Show the most striking thing in the story.
+  - Don't answer the hook until the end. Plant a second, smaller question halfway ("But that wasn't the strange part.").
 - **Open loops.** Raise a question and make people wait for the answer: "And it was no accident." "But their box held
   a fake." "He struck." Close every loop before the end. One or two loops a story, not five.
 - **Fast.** One short line per scene, mostly 4 to 9 words, never more than 12. About 85 to 105 spoken words in all,
@@ -51,6 +59,7 @@ Like a friend telling you something they just read, not like a narrator or an ad
   "title": "Short title for us",
   "topic": "hope diamond",
   "music": "music-014.wav",
+  "hook": { "text": "The hook, seven words or fewer.", "gold": ["word"] },
   "end": { "line": "A new jewelry story every day", "handle": "@trygema" },
   "lines": [
     { "text": "Caption text.", "say": "Optional: what the voice reads.", "hold": 0.3, "scene": { "kind": "parcel", "glow": true } }
@@ -74,6 +83,7 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 
 | kind | what it shows |
 | --- | --- |
+| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem) |
 | cast | 1 to 3 people of the story in a setting (mine, ship, palace, workshop, street, study, vault, plain), with a name card. Looks in `src/people/Person.tsx` |
 | parcel | a plain parcel under a light; a stamp can slam on |
 | mine | an open mine at night, the rough stone, a carat count |

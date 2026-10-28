@@ -46,6 +46,60 @@ export const Overlay: React.FC<{ frame: number }> = ({ frame }) => {
   );
 };
 
+// The hook: a few big words at the top, fully there on the very first frame (it is also the still people see in the
+// feed). Gold words carry the surprise and get a gold underline as they are said. It is gone by `out`, the cut.
+export const HookText: React.FC<{ text: string; gold: string[]; t: number; out: number; words?: Timed[] }> = ({ text, gold, t, out, words }) => {
+  const leave = Math.min(1, Math.max(0, (t - (out - 0.1)) / 0.1));
+  if (leave >= 1) return null;
+  const list = text.split(/\s+/).filter(Boolean);
+  const isGold = (w: string) => gold.some((g) => w.toLowerCase().replace(/[^\p{L}\p{N}']/gu, "") === g.toLowerCase());
+  const size = text.length > 46 ? 88 : text.length > 34 ? 100 : 112;
+  return (
+    <div
+      style={{
+        position: "absolute",
+        left: 70,
+        width: W - 140,
+        top: 250,
+        height: 470,
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        opacity: 1 - leave,
+        transform: `translateY(${-50 * leave}px)`,
+      }}
+    >
+      <div
+        style={{
+          fontFamily: SANS,
+          fontWeight: 900,
+          fontSize: size,
+          lineHeight: 1.06,
+          letterSpacing: -1.5,
+          textAlign: "center",
+          textWrap: "balance",
+          color: "#ffffff",
+          textShadow: "0 6px 28px rgba(0,0,0,0.85), 0 2px 4px rgba(0,0,0,0.9)",
+        }}
+      >
+        {list.map((w, i) => {
+          const gold = isGold(w);
+          const at = words?.[i]?.a ?? 0.3;
+          const line = gold ? Math.min(1, Math.max(0, (t - at) / 0.25)) : 0;
+          return (
+            <span key={i} style={{ display: "inline-block", margin: "0 0.12em", position: "relative", color: gold ? GOLD_LIGHT : "#ffffff" }}>
+              {w}
+              {gold && (
+                <span style={{ position: "absolute", left: 0, bottom: "0.02em", height: "0.09em", width: `${line * 100}%`, background: GOLD, borderRadius: 4, boxShadow: "0 2px 8px rgba(0,0,0,0.6)" }} />
+              )}
+            </span>
+          );
+        })}
+      </div>
+    </div>
+  );
+};
+
 // The series name at the top, small, between two gold rules.
 export const Badge: React.FC<{ number: number; opacity: number }> = ({ number, opacity }) => (
   <div style={{ position: "absolute", top: 168, left: 0, width: W, display: "flex", justifyContent: "center", alignItems: "center", gap: 18, opacity }}>

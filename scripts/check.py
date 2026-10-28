@@ -61,8 +61,19 @@ def check(path, seen):
         total += len(spoken.split()) / READ_WPS + PAD_S + (line.get("hold") or 0)
     if not LENGTH[0] <= total <= LENGTH[1]:
         say(f"runs about {total:.0f} s, aim for {LENGTH[0]:.0f} to {LENGTH[1]:.0f}")
-    if len(s["lines"]) and s["lines"][0].get("scene", {}).get("kind") == "title":
-        say("open on the story, not a title card")
+    hook = s.get("hook") or {}
+    words = len(str(hook.get("text", "")).split())
+    if not 3 <= words <= 7:
+        say(f"hook.text needs 3 to 7 words (has {words})")
+    elif s["lines"] and hook["text"] != s["lines"][0].get("text"):
+        say("the first line should read out the hook text, word for word")
+    for g in hook.get("gold", []):
+        if g.lower() not in hook.get("text", "").lower():
+            say(f"hook.gold word {g!r} isn't in the hook text")
+    if s["lines"] and s["lines"][0].get("scene", {}).get("kind") != "hook":
+        say("the first scene should be kind 'hook': the payoff, big and moving")
+    if any(l.get("scene", {}).get("kind") == "hook" for l in s["lines"][1:]):
+        say("only the first scene is a hook")
     tags = s["post"].get("hashtags", [])
     if not 3 <= len(tags) <= 6:
         say("use 3 to 6 hashtags")

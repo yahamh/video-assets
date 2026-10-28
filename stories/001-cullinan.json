@@ -3,15 +3,19 @@
   "number": 1,
   "title": "The diamond in the mail",
   "topic": "cullinan diamond",
+  "hook": {
+    "text": "They mailed the biggest diamond ever found.",
+    "gold": [
+      "mailed"
+    ]
+  },
   "lines": [
     {
-      "text": "In 1905, someone mailed the biggest gem diamond ever found.",
-      "say": "In nineteen oh five, someone mailed the biggest gem diamond ever found.",
+      "text": "They mailed the biggest diamond ever found.",
       "scene": {
-        "kind": "parcel",
-        "label": "London",
-        "glow": true,
-        "year": "1905"
+        "kind": "hook",
+        "show": "parcel",
+        "label": "London"
       }
     },
     {
@@ -50,7 +54,7 @@
         "kind": "cast",
         "setting": "mine",
         "name": "Frederick Wells",
-        "role": "Mine manager",
+        "role": "Mine manager, 1905",
         "gasp": 0.4,
         "cast": [
           {
@@ -274,6 +278,7 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Cullinan_Diamond",
-    "https://www.worldhistory.org/Cullinan_Diamond/"
+    "https://www.worldhistory.org/Cullinan_Diamond/",
+    "https://www.guinnessworldrecords.com/news/2023/11/how-the-worlds-largest-diamond-came-to-be-part-of-the-uks-crown-jewels-760624"
   ]
 }
