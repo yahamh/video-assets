@@ -4,7 +4,7 @@ name: Voice samples
 # and puts the videos on the "samples" branch.
 on:
   push:
-    branches: [main]
+    branches: [stories]
     paths: [samples.json, voices.json, scripts/voice.py, .github/workflows/samples.yml]
   workflow_dispatch:
 

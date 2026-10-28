@@ -2,13 +2,11 @@ name: Make videos
 
 # Voices and renders every story in stories/ that has no video yet, and publishes each one as a release
 # named after the story (the MP4 and the voiced JSON), where posting picks it up.
-# Runs when stories are added, and every morning in case a run was missed.
+# Runs when stories are added to the "stories" branch (this repo's main branch holds other videos and is left alone).
 on:
   push:
-    branches: [main]
+    branches: [stories]
     paths: [stories/**]
-  schedule:
-    - cron: "17 4 * * *"
   workflow_dispatch:
 
 concurrency:

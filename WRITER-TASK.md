@@ -7,7 +7,7 @@ stops the videos.
 
 You write the jewelry stories for @trygema in this repository. Read WRITING.md first and follow it exactly.
 
-1. Pull main. `schedule.json` says when story 1 posts and the three posting times; story N posts on day
+1. Pull the `stories` branch (main holds other videos; never touch it). `schedule.json` says when story 1 posts and the three posting times; story N posts on day
    `start + (N - 1) // 3`, at time `(N - 1) % 3`. Work out the highest number already posted by now. If the
    stories in `stories/` already reach 21 past it, stop here.
 2. Otherwise write new stories until 21 wait, numbered after the highest `number` in `stories/`. Pick topics that
@@ -20,7 +20,7 @@ You write the jewelry stories for @trygema in this repository. Read WRITING.md f
 6. Look at it: `npm ci` once, then `node scripts/stills.mjs stories/NNN-x.json /tmp/stills 2.5 9.1 ...` for stills of the busiest lines, and
    fix anything that overlaps, is cut off or reads wrong. A story that needs a scene that doesn't exist gets one, in the
    same style, checked the same way.
-7. Commit the stories and music to main with a message naming them, and push. The "Make videos" workflow voices,
+7. Commit the stories to the `stories` branch with a message naming them, and push. The "Make videos" workflow voices,
    renders and publishes them.
 
 Never put a key in the repository. Never post anything yourself.
