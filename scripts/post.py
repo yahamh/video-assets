@@ -7,7 +7,8 @@ video that isn't booked yet goes to the next free time of its series in schedule
 and at least 30 minutes from now, in number order. Zernio holds the post and publishes it at that time, so
 nothing has to run then. posts.json keeps what was booked: id -> at, zernio_id, platforms.
 
-Stories listed in schedule.json "now" post the moment they're made instead.
+Videos listed in schedule.json "now" post the moment they're made instead (one already booked for later comes off
+Zernio and posts right away).
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
 with the new video. Each run also asks Zernio how the posts that were due went out and keeps that in
 posts.json (status, and each platform's link or error); a post that failed anywhere fails the run once.
@@ -243,6 +244,24 @@ def main():
                     print(f"::warning::couldn't take the old {sid} off Zernio, so it stays as booked: {e}")
                     continue
         keep_slot[sid] = parse(old["at"])
+        del posts[sid]
+        save(posts)
+
+    # A video put in "now" after it was booked for later comes off Zernio and posts right away instead.
+    for sid in sched.get("now", []):
+        old = posts.get(sid)
+        if not old or old.get("status") or parse(old["at"]) <= now + dt.timedelta(minutes=10):
+            continue
+        if args.dry_run:
+            print(f"Would take {sid} off Zernio ({old['at']}) and post it now")
+            continue
+        try:
+            z.call("DELETE", f"/posts/{old['zernio_id']}")
+        except RuntimeError as e:
+            if " 404 " not in str(e):
+                print(f"::warning::couldn't take {sid} off Zernio, so it stays booked for {old['at']}: {e}")
+                continue
+        print(f"Took {sid} off Zernio ({old['at']}); it posts now")
         del posts[sid]
         save(posts)
 
