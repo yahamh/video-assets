@@ -1,0 +1,786 @@
+{
+  "id": "001-cullinan",
+  "number": 1,
+  "title": "The diamond in the mail",
+  "topic": "cullinan diamond",
+  "hook": {
+    "text": "They mailed the biggest diamond ever found.",
+    "gold": [
+      "mailed"
+    ]
+  },
+  "lines": [
+    {
+      "text": "They mailed the biggest diamond ever found.",
+      "scene": {
+        "kind": "hook",
+        "show": "parcel",
+        "label": "London"
+      },
+      "audio": "voice/001-cullinan/nora/01.wav",
+      "seconds": 1.94,
+      "words": [
+        {
+          "w": "They",
+          "a": 0.0,
+          "b": 0.16
+        },
+        {
+          "w": "mailed",
+          "a": 0.16,
+          "b": 0.4
+        },
+        {
+          "w": "the",
+          "a": 0.4,
+          "b": 0.58
+        },
+        {
+          "w": "biggest",
+          "a": 0.58,
+          "b": 0.78
+        },
+        {
+          "w": "diamond",
+          "a": 0.78,
+          "b": 1.1
+        },
+        {
+          "w": "ever",
+          "a": 1.1,
+          "b": 1.36
+        },
+        {
+          "w": "found.",
+          "a": 1.36,
+          "b": 1.68
+        }
+      ]
+    },
+    {
+      "text": "In a plain box.",
+      "scene": {
+        "kind": "parcel",
+        "label": "London",
+        "stamp": "Registered",
+        "stampAt": 0.35,
+        "close": true
+      },
+      "audio": "voice/001-cullinan/nora/02.wav",
+      "seconds": 0.87,
+      "words": [
+        {
+          "w": "In",
+          "a": 0.0,
+          "b": 0.14
+        },
+        {
+          "w": "a",
+          "a": 0.14,
+          "b": 0.2
+        },
+        {
+          "w": "plain",
+          "a": 0.2,
+          "b": 0.36
+        },
+        {
+          "w": "box.",
+          "a": 0.36,
+          "b": 0.62
+        }
+      ]
+    },
+    {
+      "text": "And it was no accident.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#1f2638",
+            "accent": "#7a2a24",
+            "hat": "bowler",
+            "facial": "handlebar",
+            "hairColor": "#4a3524",
+            "skin": "#e6b996",
+            "expression": "sly",
+            "look": 1
+          }
+        ]
+      },
+      "audio": "voice/001-cullinan/nora/03.wav",
+      "seconds": 1.65,
+      "words": [
+        {
+          "w": "And",
+          "a": 0.0,
+          "b": 0.32
+        },
+        {
+          "w": "it",
+          "a": 0.32,
+          "b": 0.48
+        },
+        {
+          "w": "was",
+          "a": 0.48,
+          "b": 0.64
+        },
+        {
+          "w": "no",
+          "a": 0.64,
+          "b": 0.9
+        },
+        {
+          "w": "accident.",
+          "a": 0.9,
+          "b": 1.34
+        }
+      ]
+    },
+    {
+      "text": "A mine manager found it in South Africa.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Frederick Wells",
+        "role": "Mine manager, 1905",
+        "gasp": 0.4,
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3226",
+            "accent": "#2f4f6e",
+            "hair": "side",
+            "hairColor": "#5a3d26",
+            "facial": "mustache",
+            "skin": "#e0ad86",
+            "prop": "rough",
+            "expression": "surprised",
+            "look": -1
+          }
+        ]
+      },
+      "audio": "voice/001-cullinan/nora/04.wav",
+      "seconds": 2.03,
+      "words": [
+        {
+          "w": "A",
+          "a": 0.0,
+          "b": 0.16
+        },
+        {
+          "w": "mine",
+          "a": 0.16,
+          "b": 0.4
+        },
+        {
+          "w": "manager",
+          "a": 0.4,
+          "b": 0.78
+        },
+        {
+          "w": "found",
+          "a": 0.78,
+          "b": 0.953
+        },
+        {
+          "w": "it",
+          "a": 0.953,
+          "b": 1.04
+        },
+        {
+          "w": "in",
+          "a": 1.04,
+          "b": 1.26
+        },
+        {
+          "w": "South",
+          "a": 1.26,
+          "b": 1.44
+        },
+        {
+          "w": "Africa.",
+          "a": 1.44,
+          "b": 1.76
+        }
+      ]
+    },
+    {
+      "text": "3,106 carats. The size of a fist.",
+      "say": "Three thousand, one hundred and six carats. The size of a fist.",
+      "scene": {
+        "kind": "mine",
+        "place": "South Africa",
+        "year": "1905",
+        "carats": 3106,
+        "zoomAt": 0.12
+      },
+      "audio": "voice/001-cullinan/nora/05.wav",
+      "seconds": 4.04,
+      "words": [
+        {
+          "w": "3,106",
+          "a": 0.0,
+          "b": 1.52
+        },
+        {
+          "w": "carats.",
+          "a": 1.52,
+          "b": 2.42
+        },
+        {
+          "w": "The",
+          "a": 2.74,
+          "b": 2.78
+        },
+        {
+          "w": "size",
+          "a": 2.78,
+          "b": 3.04
+        },
+        {
+          "w": "of",
+          "a": 3.04,
+          "b": 3.38
+        },
+        {
+          "w": "a",
+          "a": 3.38,
+          "b": 3.5
+        },
+        {
+          "w": "fist.",
+          "a": 3.5,
+          "b": 3.7
+        }
+      ]
+    },
+    {
+      "text": "Detectives guarded a box on a steamship.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#262b33",
+            "hat": "bowler",
+            "facial": "walrus",
+            "hairColor": "#3d2c20",
+            "skin": "#e3b48e",
+            "prop": "lantern",
+            "expression": "focused",
+            "look": 1
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f2a26",
+            "hat": "bowler",
+            "facial": "mustache",
+            "hairColor": "#1f1a16",
+            "skin": "#d9a47c",
+            "expression": "worried",
+            "look": 1
+          }
+        ]
+      },
+      "audio": "voice/001-cullinan/nora/06.wav",
+      "seconds": 1.84,
+      "words": [
+        {
+          "w": "Detectives",
+          "a": 0.0,
+          "b": 0.38
+        },
+        {
+          "w": "guarded",
+          "a": 0.38,
+          "b": 0.72
+        },
+        {
+          "w": "a",
+          "a": 0.72,
+          "b": 0.86
+        },
+        {
+          "w": "box",
+          "a": 0.86,
+          "b": 1.04
+        },
+        {
+          "w": "on",
+          "a": 1.04,
+          "b": 1.24
+        },
+        {
+          "w": "a",
+          "a": 1.24,
+          "b": 1.32
+        },
+        {
+          "w": "steamship.",
+          "a": 1.32,
+          "b": 1.72
+        }
+      ]
+    },
+    {
+      "text": "But their box held a fake.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "shape": "round",
+        "stamp": "Fake",
+        "openAt": 0.15,
+        "stampAt": 0.9
+      },
+      "audio": "voice/001-cullinan/nora/07.wav",
+      "seconds": 1.39,
+      "words": [
+        {
+          "w": "But",
+          "a": 0.0,
+          "b": 0.28
+        },
+        {
+          "w": "their",
+          "a": 0.44,
+          "b": 0.52
+        },
+        {
+          "w": "box",
+          "a": 0.52,
+          "b": 0.74
+        },
+        {
+          "w": "held",
+          "a": 0.74,
+          "b": 0.94
+        },
+        {
+          "w": "a",
+          "a": 0.94,
+          "b": 1.06
+        },
+        {
+          "w": "fake.",
+          "a": 1.06,
+          "b": 1.24
+        }
+      ]
+    },
+    {
+      "text": "The real one was in the mail.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "South Africa",
+          "x": 0.62,
+          "y": 0.95
+        },
+        "to": {
+          "name": "London",
+          "x": 0.38,
+          "y": 0.08
+        },
+        "icon": "parcel"
+      },
+      "audio": "voice/001-cullinan/nora/08.wav",
+      "seconds": 1.43,
+      "words": [
+        {
+          "w": "The",
+          "a": 0.0,
+          "b": 0.14
+        },
+        {
+          "w": "real",
+          "a": 0.14,
+          "b": 0.28
+        },
+        {
+          "w": "one",
+          "a": 0.28,
+          "b": 0.56
+        },
+        {
+          "w": "was",
+          "a": 0.56,
+          "b": 0.8
+        },
+        {
+          "w": "in",
+          "a": 0.8,
+          "b": 0.92
+        },
+        {
+          "w": "the",
+          "a": 0.92,
+          "b": 1.0
+        },
+        {
+          "w": "mail.",
+          "a": 1.0,
+          "b": 1.2
+        }
+      ]
+    },
+    {
+      "text": "It became King Edward VII's birthday gift.",
+      "say": "It became King Edward the Seventh's birthday gift.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "King Edward VII",
+        "role": "9 November 1907",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#8e1f2c",
+            "accent": "#2f4f9e",
+            "hair": "bald",
+            "hairColor": "#8a7a66",
+            "facial": "fullbeard",
+            "skin": "#e8bb98",
+            "old": true,
+            "expression": "proud",
+            "prop": "rough"
+          }
+        ]
+      },
+      "audio": "voice/001-cullinan/nora/09.wav",
+      "seconds": 2.37,
+      "words": [
+        {
+          "w": "It",
+          "a": 0.0,
+          "b": 0.14
+        },
+        {
+          "w": "became",
+          "a": 0.14,
+          "b": 0.4
+        },
+        {
+          "w": "King",
+          "a": 0.4,
+          "b": 0.66
+        },
+        {
+          "w": "Edward",
+          "a": 0.66,
+          "b": 1.02
+        },
+        {
+          "w": "VII's",
+          "a": 1.02,
+          "b": 1.56
+        },
+        {
+          "w": "birthday",
+          "a": 1.56,
+          "b": 1.76
+        },
+        {
+          "w": "gift.",
+          "a": 1.76,
+          "b": 2.14
+        }
+      ]
+    },
+    {
+      "text": "Then Joseph Asscher had to split it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Joseph Asscher",
+        "role": "Amsterdam, 1908",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#5b3f2a",
+            "hair": "short",
+            "hairColor": "#2a1f18",
+            "facial": "mustache",
+            "glasses": "round",
+            "skin": "#e2b08a",
+            "prop": "blade",
+            "expression": "focused",
+            "look": -1
+          }
+        ]
+      },
+      "audio": "voice/001-cullinan/nora/10.wav",
+      "seconds": 2.09,
+      "words": [
+        {
+          "w": "Then",
+          "a": 0.0,
+          "b": 0.42
+        },
+        {
+          "w": "Joseph",
+          "a": 0.72,
+          "b": 0.92
+        },
+        {
+          "w": "Asscher",
+          "a": 0.92,
+          "b": 1.26
+        },
+        {
+          "w": "had",
+          "a": 1.26,
+          "b": 1.44
+        },
+        {
+          "w": "to",
+          "a": 1.44,
+          "b": 1.6
+        },
+        {
+          "w": "split",
+          "a": 1.6,
+          "b": 1.76
+        },
+        {
+          "w": "it.",
+          "a": 1.76,
+          "b": 1.94
+        }
+      ]
+    },
+    {
+      "text": "One wrong blow could shatter it.",
+      "scene": {
+        "kind": "cut",
+        "phase": "blade"
+      },
+      "audio": "voice/001-cullinan/nora/11.wav",
+      "seconds": 1.59,
+      "words": [
+        {
+          "w": "One",
+          "a": 0.0,
+          "b": 0.26
+        },
+        {
+          "w": "wrong",
+          "a": 0.26,
+          "b": 0.5
+        },
+        {
+          "w": "blow",
+          "a": 0.5,
+          "b": 0.76
+        },
+        {
+          "w": "could",
+          "a": 0.76,
+          "b": 0.98
+        },
+        {
+          "w": "shatter",
+          "a": 0.98,
+          "b": 1.24
+        },
+        {
+          "w": "it.",
+          "a": 1.24,
+          "b": 1.46
+        }
+      ]
+    },
+    {
+      "text": "He struck.",
+      "hold": 0.4,
+      "scene": {
+        "kind": "cut",
+        "phase": "strike",
+        "hitAt": 0.35
+      },
+      "audio": "voice/001-cullinan/nora/12.wav",
+      "seconds": 0.67,
+      "words": [
+        {
+          "w": "He",
+          "a": 0.0,
+          "b": 0.14
+        },
+        {
+          "w": "struck.",
+          "a": 0.14,
+          "b": 0.38
+        }
+      ]
+    },
+    {
+      "text": "Nine large stones. 96 small ones.",
+      "say": "Nine large stones. Ninety-six small ones.",
+      "hold": 0.2,
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "pieces": [
+          {
+            "shape": "pear",
+            "carats": 4.39
+          },
+          {
+            "shape": "marquise",
+            "carats": 8.8
+          },
+          {
+            "shape": "heart",
+            "carats": 18.8
+          },
+          {
+            "shape": "pear",
+            "carats": 94.4
+          },
+          {
+            "shape": "pear",
+            "carats": 530.2
+          },
+          {
+            "shape": "cushion",
+            "carats": 317.4
+          },
+          {
+            "shape": "cushion",
+            "carats": 63.6
+          },
+          {
+            "shape": "marquise",
+            "carats": 11.5
+          },
+          {
+            "shape": "cushion",
+            "carats": 6.8
+          }
+        ],
+        "note": "Cullinan I to IX"
+      },
+      "audio": "voice/001-cullinan/nora/13.wav",
+      "seconds": 2.15,
+      "words": [
+        {
+          "w": "Nine",
+          "a": 0.0,
+          "b": 0.26
+        },
+        {
+          "w": "large",
+          "a": 0.26,
+          "b": 0.48
+        },
+        {
+          "w": "stones.",
+          "a": 0.48,
+          "b": 0.8
+        },
+        {
+          "w": "96",
+          "a": 1.14,
+          "b": 1.32
+        },
+        {
+          "w": "small",
+          "a": 1.32,
+          "b": 1.7
+        },
+        {
+          "w": "ones.",
+          "a": 1.7,
+          "b": 1.92
+        }
+      ]
+    },
+    {
+      "text": "The two biggest are in the British Crown Jewels today.",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Cullinan II",
+        "sceptreLabel": "Cullinan I"
+      },
+      "audio": "voice/001-cullinan/nora/14.wav",
+      "seconds": 2.32,
+      "words": [
+        {
+          "w": "The",
+          "a": 0.0,
+          "b": 0.12
+        },
+        {
+          "w": "two",
+          "a": 0.12,
+          "b": 0.26
+        },
+        {
+          "w": "biggest",
+          "a": 0.26,
+          "b": 0.54
+        },
+        {
+          "w": "are",
+          "a": 0.54,
+          "b": 0.7
+        },
+        {
+          "w": "in",
+          "a": 0.7,
+          "b": 0.82
+        },
+        {
+          "w": "the",
+          "a": 0.82,
+          "b": 0.92
+        },
+        {
+          "w": "British",
+          "a": 0.92,
+          "b": 1.14
+        },
+        {
+          "w": "Crown",
+          "a": 1.14,
+          "b": 1.42
+        },
+        {
+          "w": "Jewels",
+          "a": 1.42,
+          "b": 1.76
+        },
+        {
+          "w": "today.",
+          "a": 1.76,
+          "b": 2.08
+        }
+      ]
+    }
+  ],
+  "music": "music-001.wav",
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "@trygema"
+  },
+  "post": {
+    "caption": "The biggest gem diamond ever found went to London in a plain box, by regular mail. Here's why.",
+    "hashtags": [
+      "#jewelryhistory",
+      "#cullinandiamond",
+      "#diamonds",
+      "#crownjewels",
+      "#jewelrylover"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cullinan_Diamond",
+    "https://www.worldhistory.org/Cullinan_Diamond/",
+    "https://www.guinnessworldrecords.com/news/2023/11/how-the-worlds-largest-diamond-came-to-be-part-of-the-uks-crown-jewels-760624"
+  ],
+  "voice": "nora"
+}
