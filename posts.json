@@ -7,5 +7,50 @@
       "tiktok",
       "youtube"
     ]
+  },
+  "002-tiffany-diamond": {
+    "at": "2026-10-28T19:16:59Z",
+    "zernio_id": "6ae24a242b2107949bf01e06",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfDKdfjgIFR/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7701799801918065938",
+      "youtube": "https://www.youtube.com/watch?v=FUZUaCOtsoY"
+    }
+  },
+  "003-la-peregrina": {
+    "at": "2026-10-28T19:17:12Z",
+    "zernio_id": "6ae24a31a6c14c58bdbab9a0",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfDKfD0CObK/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7701799914069691669",
+      "youtube": "https://www.youtube.com/watch?v=iAcLah1y61U"
+    }
+  },
+  "004-green-vault-heist": {
+    "at": "2026-10-28T19:17:24Z",
+    "zernio_id": "6ae24a3f2b2107949bf01fbb",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfDKgmeAUgU/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7701799911443975430",
+      "youtube": "https://www.youtube.com/watch?v=T8uBMLPyjyo"
+    }
   }
 }
