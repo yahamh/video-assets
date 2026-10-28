@@ -25,7 +25,10 @@ applies here too: read it first.
 
 ## Picking lessons
 
-Spread them across: settings (prong, bezel, channel, halo, pavé, tension), metals (gold colors, karats and stamps,
+First, the topics of the jewelry rendering page on heygema.com (the site wants Google's top spot for "jewelry
+rendering" and "jewelry render"): what makes diamonds look real in a render (dark and bright facets), how metal
+reflects, the 5 angles jewelers render, a screenshot or the 3D file (which gives the better render, not a how-to),
+and common mistakes (Rhino's Save Small, wireframe screenshots). Then spread them across: settings (prong, bezel, channel, halo, pavé, tension), metals (gold colors, karats and stamps,
 platinum, rhodium), making (CAD, 3D printing, casting, stone setting, polishing, engraving), stones (cuts, melee,
 lab and mined), and reading a render (views, shadows, what a client checks). Never repeat a `topic`, and never
 remake the tutorials already on YouTube: a Rhino .3dm to a render, a CAD screenshot to a render, refining a render,
@@ -49,7 +52,10 @@ an engagement ring render, KeyShot alternatives, hiring a render artist, render 
 }
 ```
 
-`youtube_title` is 10 to 70 characters, no hashtags: say what the viewer learns. The caption is the YouTube
+`youtube_title` is 10 to 70 characters, no hashtags: say what the viewer learns, with "jewelry rendering" or
+"jewelry render" in it when it fits naturally ("Jewelry render lighting: why gold looks flat"); the same words may
+come in the second spoken line, never forced into the hook. The link to heygema.com's jewelry rendering page goes
+first in every lesson's description by itself (schedule.json `series.lesson.intro`), so captions don't repeat it. The caption is the YouTube
 description: what the lesson taught in two or three sentences, and "The renders in this video were made with
 HeyGema." Brand voice (/mnt/project-files/style/brand-voice.md when you have it): plain, no hype, no exclamation marks.
 

@@ -25,6 +25,9 @@ follow it exactly; for lessons, read WRITING-LESSONS.md too.
    than 7 wait, write new ones until 7 do, at most 3 in one run, in `lessons/`, numbered after the highest `number`
    there, following WRITING-LESSONS.md, with steps 3 to 6 done the same way (`"music": "music-lesson-NNN.wav"`;
    the check covers `lessons/*.json` too).
+   Until schedule.json `series.lesson` has an `intro`: if website PR yahamh/heygema-website#135 is merged
+   (`gh api repos/yahamh/heygema-website/pulls/135 --jq .merged`), set it to
+   `"Jewelry rendering, step by step: https://www.heygema.com/en/jewelry-rendering"`.
 8. Commit the stories and lessons to the `stories` branch with a message naming them, and push. The "Make videos"
    workflow voices, renders and publishes them, and books the lessons on YouTube only.
 

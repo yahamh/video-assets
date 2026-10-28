@@ -155,9 +155,9 @@ def check(z, posts, now):
     return bad
 
 
-def payload(story, url, slot, accounts):  # slot None: post right away
+def payload(story, url, slot, accounts, intro=""):  # slot None: post right away; intro: a first line for the series
     post = story["post"]
-    text = post["caption"].strip() + "\n\n" + " ".join(post["hashtags"])
+    text = (intro.strip() + "\n\n" if intro.strip() else "") + post["caption"].strip() + "\n\n" + " ".join(post["hashtags"])
     title = post.get("youtube_title") or story["hook"]["text"]
     platforms = []
     for name, account in accounts.items():
@@ -314,7 +314,7 @@ def main():
                 with open(path, "rb") as f:
                     digest = hashlib.sha256(f.read()).hexdigest()[:16]
                 url = z.upload(path)
-                body = payload(s, url, slot, accounts)
+                body = payload(s, url, slot, accounts, ((sched.get("series") or {}).get(series) or {}).get("intro", ""))
                 try:
                     res = z.call("POST", "/posts", body, {"Idempotency-Key": f"story-{sid}-{digest}-{run}"})
                     made_post = res.get("post") or res
