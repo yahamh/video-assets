@@ -19,37 +19,8 @@
       }
     },
     {
-      "text": "In a plain box.",
-      "scene": {
-        "kind": "parcel",
-        "label": "London",
-        "stamp": "Registered",
-        "stampAt": 0.35,
-        "close": true
-      }
-    },
-    {
-      "text": "And it was no accident.",
-      "scene": {
-        "kind": "cast",
-        "setting": "study",
-        "cast": [
-          {
-            "outfit": "suit",
-            "outfitColor": "#1f2638",
-            "accent": "#7a2a24",
-            "hat": "bowler",
-            "facial": "handlebar",
-            "hairColor": "#4a3524",
-            "skin": "#e6b996",
-            "expression": "sly",
-            "look": 1
-          }
-        ]
-      }
-    },
-    {
-      "text": "A mine manager found it in South Africa.",
+      "text": "Frederick Wells spotted it 18 feet down a South African mine.",
+      "say": "Frederick Wells spotted it eighteen feet down a South African mine.",
       "scene": {
         "kind": "cast",
         "setting": "mine",
@@ -73,8 +44,8 @@
       }
     },
     {
-      "text": "3,106 carats. The size of a fist.",
-      "say": "Three thousand, one hundred and six carats. The size of a fist.",
+      "text": "It was over 3,000 carats, about four inches long.",
+      "say": "It was over three thousand carats, about four inches long.",
       "scene": {
         "kind": "mine",
         "place": "South Africa",
@@ -84,7 +55,7 @@
       }
     },
     {
-      "text": "Detectives guarded a box on a steamship.",
+      "text": "Detectives guarded a box on a steamship to London,",
       "scene": {
         "kind": "cast",
         "setting": "ship",
@@ -114,7 +85,7 @@
       }
     },
     {
-      "text": "But their box held a fake.",
+      "text": "and it held a fake.",
       "scene": {
         "kind": "reveal",
         "item": "glass",
@@ -125,7 +96,17 @@
       }
     },
     {
-      "text": "The real one was in the mail.",
+      "text": "The real one went in a plain box, by registered mail.",
+      "scene": {
+        "kind": "parcel",
+        "label": "London",
+        "stamp": "Registered",
+        "stampAt": 0.35,
+        "close": true
+      }
+    },
+    {
+      "text": "It got there fine.",
       "scene": {
         "kind": "journey",
         "from": {
@@ -142,8 +123,8 @@
       }
     },
     {
-      "text": "It became King Edward VII's birthday gift.",
-      "say": "It became King Edward the Seventh's birthday gift.",
+      "text": "It became King Edward VII's birthday present.",
+      "say": "It became King Edward the Seventh's birthday present.",
       "scene": {
         "kind": "cast",
         "setting": "palace",
@@ -189,25 +170,24 @@
       }
     },
     {
-      "text": "One wrong blow could shatter it.",
+      "text": "His first blow snapped the steel knife.",
       "scene": {
         "kind": "cut",
-        "phase": "blade"
+        "phase": "snap",
+        "hitAt": 0.8
       }
     },
     {
-      "text": "He struck.",
-      "hold": 0.4,
+      "text": "The second one split it in half.",
       "scene": {
         "kind": "cut",
         "phase": "strike",
-        "hitAt": 0.35
+        "hitAt": 0.8
       }
     },
     {
-      "text": "Nine large stones. 96 small ones.",
-      "say": "Nine large stones. Ninety-six small ones.",
-      "hold": 0.2,
+      "text": "It ended up as nine big stones and 96 small ones.",
+      "say": "It ended up as nine big stones and ninety-six small ones.",
       "scene": {
         "kind": "cut",
         "phase": "result",
@@ -267,7 +247,7 @@
     "handle": "@trygema"
   },
   "post": {
-    "caption": "The biggest gem diamond ever found went to London in a plain box, by regular mail. Here's why.",
+    "caption": "The biggest diamond ever found went to London by registered mail. The ship with the detectives was carrying a fake.",
     "hashtags": [
       "#jewelryhistory",
       "#cullinandiamond",

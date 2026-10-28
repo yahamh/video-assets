@@ -6,23 +6,27 @@ import { SceneProps, num, str } from "./types";
 type Piece = { shape: string; carats: number };
 
 // A cutter's bench at night by a window full of gabled houses. In parts, so a story can hold the tension:
-// phase "blade" (the blade waits over the stone), "strike" (it comes down and the stone splits), "result" (the cut stones
-// in a row), or "all". Options: pieces ([{shape, carats}] left to right), hitAt (seconds, for strike and all), place, note.
+// phase "blade" (the blade waits over the stone), "snap" (it comes down and the blade breaks, the stone stays whole),
+// "strike" (it comes down and the stone splits), "result" (the cut stones in a row), or "all". Options: pieces
+// ([{shape, carats}] left to right), hitAt (seconds, for snap, strike and all), place, note.
 export const Cut: React.FC<SceneProps> = ({ t, dur, p }) => {
   const phase = str(p.phase, "all");
   const pieces = (Array.isArray(p.pieces) ? (p.pieces as Piece[]) : []).slice(0, 12);
   const place = str(p.place, "");
   const note = str(p.note, "");
+  const snap = phase === "snap";
   const hit = phase === "result" ? -10 : phase === "blade" ? 1e9 : num(p.hitAt, phase === "all" ? dur * 0.25 : 0.5);
   const lower = phase === "result" ? 1 : eased(t, 0, Math.min(hit, 0.6));
   const tremble = phase === "blade" ? Math.sin(t * 40) * 1.5 : 0;
   const lift = phase === "blade" ? -40 - 30 * eased(t, 0, dur) : 0;
   const tap = t > hit && t < hit + 0.18 ? Math.sin(prog(t, hit, hit + 0.18) * Math.PI) * 30 : 0;
   const flash = t > hit ? Math.max(0, 1 - (t - hit) / 0.3) : 0;
-  const crack = eased(t, hit + 0.05, hit + 0.2);
-  const apart = eased(t, hit + 0.25, hit + 0.7);
-  const gone = phase === "result" ? 1 : eased(t, hit + 0.65, hit + 0.95);
-  const showAt = phase === "result" ? 0.05 : hit + 0.75;
+  const crack = snap ? 0 : eased(t, hit + 0.05, hit + 0.2);
+  const apart = snap ? 0 : eased(t, hit + 0.25, hit + 0.7);
+  const gone = phase === "result" ? 1 : snap ? 0 : eased(t, hit + 0.65, hit + 0.95);
+  const showAt = phase === "result" ? 0.05 : snap ? 1e9 : hit + 0.75;
+  // the broken tip of the blade flies off to the right and falls
+  const fly = snap ? prog(t, hit, hit + 0.9) : 0;
   const [sx, sy] = shake(t, hit, 20, 0.4);
 
   const sizes = pieces.map((g) => 26 * Math.cbrt(Math.max(0.5, g.carats)));
@@ -90,8 +94,17 @@ export const Cut: React.FC<SceneProps> = ({ t, dur, p }) => {
         </g>
         <g transform={`translate(${tremble} ${-420 * (1 - lower) + tap + lift})`} opacity={1 - gone}>
           <rect x={540} y={630} width={46} height={180} rx={8} fill="#2a1d12" stroke={GOLD} strokeWidth={3} transform="rotate(4 560 720)" />
-          <polygon points="540,810 600,810 568,880" fill="#c9d1d8" stroke={GOLD} strokeWidth={3} strokeLinejoin="round" />
+          {snap && t > hit ? (
+            <polygon points="540,810 600,810 586,836 552,832" fill="#c9d1d8" stroke={GOLD} strokeWidth={3} strokeLinejoin="round" />
+          ) : (
+            <polygon points="540,810 600,810 568,880" fill="#c9d1d8" stroke={GOLD} strokeWidth={3} strokeLinejoin="round" />
+          )}
         </g>
+        {snap && t > hit && (
+          <g transform={`translate(${fly * 330} ${-260 * fly + 620 * fly * fly}) rotate(${fly * 620} 570 856)`} opacity={1 - eased(t, hit + 0.7, hit + 0.9)}>
+            <polygon points="552,832 586,836 568,880" fill="#c9d1d8" stroke={GOLD} strokeWidth={3} strokeLinejoin="round" />
+          </g>
+        )}
         {flash > 0 && <rect width={1080} height={1920} fill="#fff8e1" opacity={flash * 0.85} />}
         {placed.map((g) => {
           const rank = order.indexOf(g.i);

@@ -1,5 +1,5 @@
 {
-  "default": null,
+  "default": "nora",
   "voices": {
     "nora": {
       "label": "Warm woman's voice (Chatterbox's own voice)",

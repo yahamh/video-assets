@@ -9,6 +9,7 @@ export type Line = {
   say?: string; // what the voice reads, when it differs from the caption (numbers spelled out, for example)
   audio?: string; // public/ path of this line's voice
   seconds?: number; // length of that voice, filled in by the voice step
+  pad?: number; // silence after the voice, filled in by the voice step (0 when the next line was read in the same breath)
   words?: Timed[]; // when each caption word is said, filled in by the voice step when it can tell
   hold?: number; // extra seconds on this scene after the line is read
   sfx?: Sfx[]; // extra sound effects, seconds from the line's start
@@ -27,12 +28,12 @@ export type Story = {
   sources: string[];
 };
 
-const READ_WPS = 2.9;
+const READ_WPS = 3.4; // about how fast voice A reads
 export const PAD_S = 0.18;
 export const END_S = 2.0;
 
 export const speakSeconds = (l: Line) => l.seconds ?? (l.say ?? l.text).split(/\s+/).length / READ_WPS;
-export const lineSeconds = (l: Line) => speakSeconds(l) + PAD_S + (l.hold ?? 0);
+export const lineSeconds = (l: Line) => speakSeconds(l) + (l.pad ?? PAD_S) + (l.hold ?? 0);
 
 export type Slot = { line: Line; start: number; len: number };
 

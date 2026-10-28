@@ -1,11 +1,9 @@
 name: Voice samples
 
 # Makes the stories in samples.json once in each voice listed there, so the voices can be compared,
-# and puts the videos on the "samples" branch.
+# and puts the videos on the "samples" branch. Runs only when started by hand now that ali picked voice A
+# (28 Oct); "Make videos" makes the real ones.
 on:
-  push:
-    branches: [stories]
-    paths: [samples.json, voices.json, scripts/**, .github/workflows/samples.yml]
   workflow_dispatch:
 
 concurrency:

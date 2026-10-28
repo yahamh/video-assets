@@ -35,6 +35,7 @@ export const sceneSfx = (s: SceneSpec, dur: number): Sfx[] => {
       if (phase === "blade") return [{ at: 0, name: "heartbeat", vol: 0.9 }];
       if (phase === "result") return [{ at: 0.1, name: "shimmer", vol: 0.8 }];
       const hit = n(s.hitAt, phase === "all" ? dur * 0.25 : 0.5);
+      if (phase === "snap") return [{ at: hit - 0.02, name: "crack" }, { at: hit, name: "impact", vol: 0.6 }];
       return [
         { at: hit - 0.02, name: "crack" },
         { at: hit, name: "impact", vol: 0.9 },

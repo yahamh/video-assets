@@ -17,27 +17,46 @@ and every one is a new story. A story is one JSON file in `stories/`; `scripts/c
     question the viewer can answer, no greeting.
   - The first scene is `hook`: the payoff itself, big and already moving (the stone rising out of the parcel), never
     the setup. Show the most striking thing in the story.
-  - Don't answer the hook until the end. Plant a second, smaller question halfway ("But that wasn't the strange part.").
-- **Open loops.** Raise a question and make people wait for the answer: "And it was no accident." "But their box held
-  a fake." "He struck." Close every loop before the end. One or two loops a story, not five.
-- **Fast.** One short line per scene, mostly 4 to 9 words, never more than 12. About 85 to 105 spoken words in all,
-  12 to 16 lines. No line that only sets the mood.
+  - Don't answer the hook until the end. Halfway, let a fact raise a new question by itself ("His first blow snapped
+    the steel knife."). Never a teaser line that only promises something ("But that wasn't the strange part.").
+- **Keep it moving with facts, not teasers.** Each sentence adds something new: a name, a number, what happened next.
+  Lines like "And it was no accident." or "He struck." are how machine-written stories fake suspense; people hear it.
+- **Pace.** About 95 to 110 spoken words, 11 to 15 lines. A caption line is 12 words at most, and a sentence may run
+  across two lines (end the first on a comma); the voice reads it in one breath. No line that only sets the mood.
 - **A real ending.** The last line pays the story off with a concrete fact people can repeat ("The two biggest are in
-  the British Crown Jewels today."). No "follow for more": the end card already says "A new jewelry story every day".
+  the British Crown Jewels today."). No moral, no lesson, no "follow for more": the end card already says "A new
+  jewelry story every day".
 
 ## How it should sound
 
-Like a friend telling you something they just read, not like a narrator or an ad.
+Like a friend telling you something they just read, not like a narrator, an ad or a machine. ali, 28 Oct: the first
+script "sounds very AI". These rules come from Wikipedia's "Signs of AI writing" guide, tropes.fyi's list of machine
+writing habits, broadcast "write for the ear" rules (IJNet) and voiceover guides (Fliki, Lilach Bullock). The first
+Cullinan script broke most of them; its lines are the "before" examples. `check.py` catches the ones a script can.
 
-- Plain, short sentences. US spelling. Contractions are good.
-- Names, places, numbers. "3,106 carats" beats "enormous".
-- No dashes and no exclamation marks.
-- None of these, ever: imagine, little did they know, in a world, here's the twist, fast forward, delve, tapestry,
-  testament, shrouded, legendary, iconic, stunning, breathtaking, exquisite, timeless, masterpiece, you won't believe,
-  let that sink in, wait for it. No "AI" anywhere, and no sales pitch for HeyGema in the story.
-- `say` is what the voice reads when it differs from the caption: write every number, year and Roman numeral out
-  ("In nineteen oh five", "Edward the Seventh", "three thousand, one hundred and six"), and spell hard names the way
-  they sound.
+1. **No strings of fragments.** "In a plain box." "Nine large stones. 96 small ones." Short punchy fragments for
+   forced drama are the loudest sign of machine writing. Most sentences run 7 to 15 words; a short one now and then
+   lands harder because the others aren't. At most one sentence under four words in a story.
+2. **No teaser lines.** "And it was no accident." "He struck." "Here's the thing." "The result?" Say what happened
+   instead ("His first blow snapped the steel knife."). No question you answer yourself, no question marks at all.
+3. **No "not X, but Y"** and no "it's not just X". Say the thing itself.
+4. **No lists of three** made to sound complete ("rare, old, and priceless"). Keep the real number of things, or
+   pick the one that matters.
+5. **Plain verbs.** "is", "was", "had". Never "serves as", "stands as", "boasts".
+6. **Words people don't say out loud:** imagine, little did they know, in a world, delve, tapestry, testament,
+   shrouded, legendary, iconic, stunning, breathtaking, exquisite, timeless, masterpiece, vibrant, nestled, pivotal,
+   captivating, intricate, crucial, rich history, quietly, you won't believe, let that sink in, wait for it. No "AI"
+   anywhere, and no sales pitch for HeyGema in the story.
+7. **Specific beats grand.** Names, places, numbers people can picture: "eighteen feet down a South African mine",
+   "about four inches long". Round a number when the exact one doesn't matter ("over three thousand carats"). Never
+   "experts say": say who.
+8. **One small human touch.** An understatement or a plain opinion, once: "It got there fine." Not a joke, not a lesson.
+9. **Same name for the same thing.** Once it's "the box", it stays "the box", not "the parcel" and "the package".
+10. **Talk.** Contractions, "so", "then", "and". US spelling. No dashes and no exclamation marks.
+11. **Read it out loud.** If you wouldn't say a line to a friend over coffee, rewrite it.
+
+`say` is what the voice reads when it differs from the caption: write every number, year and Roman numeral out
+("in nineteen oh five", "Edward the Seventh", "three thousand"), and spell hard names the way they sound.
 
 ## Picking stories
 
@@ -62,14 +81,14 @@ Like a friend telling you something they just read, not like a narrator or an ad
   "hook": { "text": "The hook, seven words or fewer.", "gold": ["word"] },
   "end": { "line": "A new jewelry story every day", "handle": "@trygema" },
   "lines": [
-    { "text": "Caption text.", "say": "Optional: what the voice reads.", "hold": 0.3, "scene": { "kind": "parcel", "glow": true } }
+    { "text": "Caption text, a sentence or the first part of one,", "say": "Optional: what the voice reads.", "hold": 0.3, "scene": { "kind": "parcel", "glow": true } }
   ],
   "post": { "caption": "One or two lines that make people want the answer.", "hashtags": ["#jewelryhistory", "..."] },
   "sources": ["https://...", "https://..."]
 }
 ```
 
-- `hold` adds seconds after a line, for a beat after a cliffhanger ("He struck.").
+- `hold` adds seconds of silence after a line. Use it rarely, for a beat the story has earned.
 - `sfx` adds sounds to a line: `[{ "at": 0.4, "name": "impact" }]` with seconds from the line's start. Names: whoosh,
   whoosh2, impact, boom, riser, shimmer, stamp, horn, waves, crack, heartbeat, creak, steps. Scenes already add their
   own sounds.
@@ -91,7 +110,7 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 | reveal | a chest opens on a rough stone, a gem, a fake or nothing |
 | journey | a route drawn across a chart, with a parcel, ship, train or plane |
 | gift | a royal gift on a cushion with a handwritten tag |
-| cut | a cutter's bench: the blade waits, strikes, or the cut stones in a row |
+| cut | a cutter's bench: the blade waits, snaps, strikes, or the cut stones in a row |
 | crown | a crown and sceptre with labels |
 | jewel | one piece close up: ring, necklace, earrings, brooch, tiara |
 | portrait | a painted portrait in a gilt frame |
