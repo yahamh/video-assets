@@ -204,6 +204,11 @@ def main():
     z = Zernio(key, os.environ.get("ZERNIO_API_URL") or "https://zernio.com/api/v1")
     posts = json.load(open(POSTS)) if os.path.exists(POSTS) else {}
     now = dt.datetime.now(UTC)
+    if not args.dry_run:  # the plan and how much of its post limit is used, for the run log
+        try:
+            print("Zernio usage:", json.dumps(z.call("GET", "/usage"))[:600])
+        except Exception as e:
+            print(f"Couldn't read Zernio usage ({e})")
     bad = [] if args.dry_run else check(z, posts, now)
     if bad or any(p.get("status") for p in posts.values()):
         save(posts)
@@ -290,6 +295,9 @@ def main():
                 print(f"::error::{sid} wasn't booked: {e}")
                 failed = 1
                 last = before  # its time goes to the next story
+                if " 403 " in str(e) or " 402 " in str(e):  # the plan's post limit: the rest would fail the same way
+                    print("::error::Zernio refused the post (plan limit?); the rest wait for the next run")
+                    break
     # Posts that went out right away: wait for Zernio to finish them, so posts.json gets their links in this run.
     waiting = [sid for sid in booked if sid in sched.get("now", [])]
     for _ in range(40):
