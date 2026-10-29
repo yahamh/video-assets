@@ -26,31 +26,39 @@ export const Ring = (metal: string, shapeName: string, tone: string | undefined,
   return group(objs, tr);
 };
 
-// An open ring box in velvet, 2.6 wide: the ring sits in its slot.
+// An open ring box in velvet, 2.6 wide, its top at y = 0: a puffed cushion with a slot for the ring, the lid open
+// at the back with a dark puffed lining.
 export const RingBox = (velvet: string, lid: number, tr: Tr = {}): Obj[] => {
-  const outer: Mat = { color: shadeHex(velvet, -0.25), spec: 0.12 };
-  const inner: Mat = { color: velvet, spec: 0.1 };
+  const outer: Mat = { color: shadeHex(velvet, -0.1), spec: 0.45, shine: 14, facets: 0.12 };
+  const inner: Mat = { color: shadeHex(velvet, -0.1), spec: 0.1, facets: 0.25 };
+  const lining: Mat = { color: shadeHex(velvet, -0.35), spec: 0.06, facets: 0.3 };
+  const pad = jitter(lathe([[1.1, 0], [1.15, 0.12], [0.9, 0.24], [0, 0.28]], 4, Math.PI / 4), 0.02, 3);
   const objs: Obj[] = [
     { mesh: box(2.6, 1.3, 2.0), mat: outer, pos: [0, -0.65, 0] },
-    { mesh: jitter(lathe([[1.1, 0], [1.15, 0.12], [0.9, 0.24], [0, 0.28]], 4, Math.PI / 4), 0.02, 3), mat: inner, pos: [0, 0, 0.05], scale: [1.05, 1, 0.78] },
-    { mesh: box(0.12, 0.2, 1.4), mat: { color: shadeHex(velvet, -0.5) }, pos: [0, 0.22, 0.05] },
+    { mesh: box(2.64, 0.05, 2.04), mat: GOLD, pos: [0, -0.03, 0] },
+    { mesh: pad, mat: inner, pos: [0, 0, 0.05], scale: [1.05, 1, 0.78] },
+    { mesh: box(0.12, 0.2, 1.4), mat: { color: shadeHex(velvet, -0.6) }, pos: [0, 0.22, 0.05] },
   ];
-  const lidMesh = paint(shape(box(2.6, 0.7, 2.0), ([x, y, z]) => [x, y + 0.35, z + 1.0]), (n) => (n[1] < -0.9 ? shadeHex(velvet, 0.1) : undefined));
-  objs.push({ mesh: lidMesh, mat: outer, pos: [0, 0, -1.0], rot: [-lid * 1.85, 0, 0] });
+  // the lid, hinged on the back top edge: its own box and lining, then turned open
+  const lidObjs: Obj[] = [
+    { mesh: paint(box(2.6, 0.5, 2.0), (n) => (n[1] < -0.9 ? shadeHex(velvet, -0.45) : undefined)), mat: outer, pos: [0, 0.25, 1.0] },
+    { mesh: pad, mat: lining, pos: [0, -0.01, 1.0], rot: [0, 0, Math.PI], scale: [1.05, 0.8, 0.78] },
+  ];
+  objs.push(...group(lidObjs, { pos: [0, 0, -1.0], rot: [-lid * 1.75, 0, 0] }));
   return group(objs, tr);
 };
 
 // A velvet bust from the waist up with a necklace round its neck. `pearls`: a string of pearls; else a chain of beads.
 export const NecklaceOnBust = (velvet: string, metal: string, shapeName: string, tone: string | undefined, pearls: boolean, drop: string, sway: number, tr: Tr = {}): Obj[] => {
   const prof: [number, number][] = [
-    [2.2, -2.6],
-    [2.15, -1.2],
-    [1.95, -0.2],
-    [1.3, 0.3],
+    [1.5, -2.6],
+    [1.48, -1.4],
+    [1.38, -0.3],
+    [1.0, 0.28],
     [0.62, 0.55],
     [0.5, 1.0],
-    [0.52, 1.7],
-    [0, 1.8],
+    [0.52, 1.45],
+    [0, 1.52],
   ];
   const SZ = 0.55;
   const radius = (y: number) => {
@@ -62,7 +70,7 @@ export const NecklaceOnBust = (velvet: string, metal: string, shapeName: string,
     return 0;
   };
   const front = (x: number, y: number) => SZ * radius(y) * Math.sqrt(Math.max(0, 1 - (x / Math.max(1e-6, radius(y))) ** 2));
-  const objs: Obj[] = [{ mesh: shape(lathe(prof, 16, Math.PI / 2), ([x, y, z]) => [x, y, z * SZ]), mat: { color: velvet, spec: 0.1 } }];
+  const objs: Obj[] = [{ mesh: shape(lathe(prof, 16, Math.PI / 2), ([x, y, z]) => [x, y, z * SZ]), mat: { color: velvet, spec: 0.3, shine: 8, facets: 0.1 } }];
   const M = metalMat(metal);
   const n = pearls ? 21 : 31;
   const pts: V3[] = [];
@@ -96,7 +104,7 @@ export const Earrings = (metal: string, shapeName: string, tone: string | undefi
       { mesh: tube([[0, 0.85, 0], [0, 0.45, 0]], 0.025, 4), mat: M },
       ...Stone(shapeName === "round" ? "pear" : shapeName, tone, { pos: [0, -0.05, 0.05], rot: [0, 0, Math.PI], scale: 0.45 }),
     ];
-    objs.push(...group(one, { pos: [s * 1.3, 0, 0], rot: [0, s * 0.15, sway * s * 0.04] }));
+    objs.push(...group(one, { pos: [s * 0.75, 0, 0], rot: [0, s * 0.15, sway * s * 0.04] }));
   }
   return group(objs, tr);
 };
@@ -118,25 +126,56 @@ export const Brooch = (metal: string, shapeName: string, tone: string | undefine
   return group(objs, tr);
 };
 
-// A tiara: a curved band with seven peaks, a stone on each, the big one in the middle.
+// A tiara, 3.4 wide: a curved band set with small stones, seven pointed loops rising from it (tallest in the middle),
+// scrolls between them, a stone in each loop (the big one in the middle) and a small one on each point.
 export const Tiara = (metal: string, shapeName: string, tone: string | undefined, pearls: boolean, tr: Tr = {}): Obj[] => {
   const M = metalMat(metal);
+  const R = 1.7;
+  const D = 0.9;
+  const arc = (a: number): V3 => [-Math.cos(a) * R, 0, Math.sin(a) * D - D * 0.6];
+  const along = (a: number): V3 => {
+    const v: V3 = [Math.sin(a) * R, 0, Math.cos(a) * D];
+    const l = Math.hypot(v[0], v[2]);
+    return [v[0] / l, 0, v[2] / l];
+  };
   const objs: Obj[] = [];
   const band: V3[] = [];
+  for (let i = 0; i <= 24; i++) band.push(arc(Math.PI * (0.08 + (0.84 * i) / 24)));
+  objs.push({ mesh: tube(band, 0.07, 5), mat: M });
   for (let i = 0; i <= 16; i++) {
-    const a = Math.PI * (0.1 + (0.8 * i) / 16);
-    band.push([-Math.cos(a) * 2.2, -0.2 + Math.sin(a) * 0.2, Math.sin(a) * 1.0 - 0.6]);
+    const [x, y, z] = arc(Math.PI * (0.1 + (0.8 * i) / 16));
+    objs.push(...small(pearls, tone, [x, y, z + 0.07], 0.06));
   }
-  objs.push({ mesh: tube(band, 0.09, 5), mat: M });
-  for (let k = 0; k < 7; k++) {
-    const u = k / 6;
-    const a = Math.PI * (0.18 + 0.64 * u);
-    const base: V3 = [-Math.cos(a) * 2.2, -0.2 + Math.sin(a) * 0.2, Math.sin(a) * 1.0 - 0.6];
-    const h = 0.45 + Math.sin(u * Math.PI) * 0.95;
-    const top: V3 = [base[0], base[1] + h, base[2] + 0.05];
-    objs.push({ mesh: tube([[base[0] - 0.22, base[1], base[2]], [base[0] - 0.05, base[1] + h * 0.6, base[2]], top, [base[0] + 0.05, base[1] + h * 0.6, base[2]], [base[0] + 0.22, base[1], base[2]]], 0.045, 4), mat: M });
-    if (k === 3) objs.push(...Stone(shapeName, tone, { pos: [top[0], top[1] + 0.25, top[2] + 0.1], scale: 0.42 }));
-    else objs.push(...small(pearls, tone, [top[0], top[1] + 0.08, top[2] + 0.05], 0.1 + Math.sin(u * Math.PI) * 0.06));
+  const peaks = 7;
+  const bases: { b: V3; e: V3; w: number }[] = [];
+  for (let k = 0; k < peaks; k++) {
+    const u = k / (peaks - 1);
+    const a = Math.PI * (0.2 + 0.6 * u);
+    const b = arc(a);
+    const e = along(a);
+    const h = 0.55 + 0.75 * Math.sin(u * Math.PI);
+    const w = 0.2 + 0.07 * Math.sin(u * Math.PI);
+    bases.push({ b, e, w });
+    const loop: V3[] = [];
+    for (let j = 0; j <= 18; j++) {
+      const f = (j / 18) * Math.PI * 2;
+      const lx = w * Math.sin(f) * Math.sin(f / 2);
+      const ly = (h * (Math.cos(f) + 1)) / 2;
+      loop.push([b[0] + e[0] * lx, b[1] + ly, b[2] + e[2] * lx]);
+    }
+    objs.push({ mesh: tube(loop, 0.035, 4), mat: M });
+    const mid: V3 = [b[0], b[1] + h * 0.38, b[2] + 0.04];
+    if (k === 3) objs.push(...Stone(shapeName, tone, { pos: mid, rot: [0.1, 0, 0], scale: 0.3 }));
+    else objs.push(...small(pearls, tone, mid, 0.08 + Math.sin(u * Math.PI) * 0.05));
+    objs.push(...small(pearls, tone, [b[0], b[1] + h + 0.05, b[2]], 0.05));
+  }
+  // scrolls joining each loop to the next
+  for (let k = 0; k < peaks - 1; k++) {
+    const p = bases[k];
+    const q = bases[k + 1];
+    const m: V3 = [(p.b[0] + q.b[0]) / 2, 0.32, (p.b[2] + q.b[2]) / 2 + 0.02];
+    objs.push({ mesh: tube([[p.b[0] + p.e[0] * p.w * 0.6, 0.12, p.b[2] + p.e[2] * p.w * 0.6], m, [q.b[0] - q.e[0] * q.w * 0.6, 0.12, q.b[2] - q.e[2] * q.w * 0.6]], 0.025, 4), mat: M });
+    objs.push(...small(pearls, tone, [m[0], m[1] + 0.06, m[2] + 0.03], 0.045));
   }
   return group(objs, tr);
 };
@@ -211,7 +250,8 @@ export const ParcelLp = (tr: Tr = {}, open = false): Obj[] => {
     { mesh: box(0.07, 1.54, 1.84), mat: string, pos: [0.45, 0.75, 0] },
     { mesh: box(2.64, 0.07, 1.84), mat: string, pos: [0, 1.5, 0] },
   ];
-  for (const s of [-1, 1]) objs.push({ mesh: shape(ico(1, 0.22), ([x, y, z]) => [x * 1.4, y * 0.6, z * 0.5]), mat: string, pos: [0.45 + s * 0.26, 1.6, 0], rot: [0, 0, s * 0.35] });
+  for (const s of [-1, 1]) objs.push({ mesh: shape(torus(0.17, 0.035, 12, 4), ([x, y, z]) => [x * 1.3, -z, y]), mat: string, pos: [0.45 + s * 0.24, 1.66, 0.02], rot: [0, s * 0.35, s * 0.55] });
+  objs.push({ mesh: ico(0, 0.07), mat: string, pos: [0.45, 1.57, 0.02] });
   objs.push({ mesh: tube([[0.45, 1.55, 0.05], [0.3, 1.52, 0.5], [0.22, 1.5, 0.92], [0.18, 1.2, 0.93]], 0.03, 4), mat: string });
   return group(objs, tr);
 };
@@ -266,13 +306,3 @@ export const FigureLp = (hat: string, t: number, walk: number, lantern: boolean,
   if (lantern) objs.push({ mesh: box(0.24, 0.32, 0.24), mat: { color: "#ffd98a", glow: 0.9 + 0.1 * Math.sin(t * 9) }, pos: [0.8, 2.05, 0.05] });
   return group(objs, tr);
 };
-
-// Open-pit terrain: a field of facets with stepped rings sinking to a pit at the origin.
-export const pitHeight = (x: number, z: number) => {
-  const r = Math.hypot(x, z * 1.25);
-  const R = 5.5;
-  if (r > R) return 0.15 * Math.sin(x * 0.6) * Math.cos(z * 0.5);
-  const steps = 7;
-  return -Math.floor((1 - r / R) * steps + 0.5) * 0.45;
-};
-

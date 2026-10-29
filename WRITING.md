@@ -76,6 +76,7 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   "id": "014-hope-diamond",
   "number": 14,
   "title": "Short title for us",
+  "style": "lowpoly",
   "topic": "hope diamond",
   "music": "music-014.wav",
   "hook": { "text": "The hook, seven words or fewer.", "gold": ["word"] },
@@ -88,6 +89,8 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
 }
 ```
 
+- `style`: always `"lowpoly"`. Since story 007 (ali, 29 Oct 2026) the stories are low-poly 3D: flat-shaded facets
+  in the same navy and gold, drawn by `src/lp/`. The check refuses a story without it.
 - `hold` adds seconds of silence after a line. Use it rarely, for a beat the story has earned.
 - `sfx` adds sounds to a line: `[{ "at": 0.4, "name": "impact" }]` with seconds from the line's start. Names: whoosh,
   whoosh2, impact, boom, riser, shimmer, stamp, horn, waves, crack, heartbeat, creak, steps. Scenes already add their
@@ -102,7 +105,7 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 
 | kind | what it shows |
 | --- | --- |
-| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl, a gold Easter egg, a half-eaten sandwich; `halo` for a stone that glows) |
+| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl, a gold Easter egg; `halo` for a stone that glows) |
 | cast | 1 to 3 people of the story in a setting (mine, ship, palace, workshop, street, study, vault, plain), with a name card. Looks in `src/people/Person.tsx` (`mask: true` covers nose and mouth) |
 | parcel | a plain parcel under a light; a stamp can slam on |
 | mine | an open mine at night, the rough stone, a carat count |
@@ -117,6 +120,8 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 | stranger | a figure under a street lamp in fog; `darkAt` puts the lights out |
 | title | words alone, for a date or a line that needs room (never first) |
 
-People carry the story: show them whenever the line is about someone. When a story needs something no scene shows,
-add a scene in `src/scenes/` in the same dark and gold style, register it in `src/Story.tsx`, and check it with
+People carry the story: show them whenever the line is about someone. The options are the same in low poly; each
+scene's low-poly version is in `src/lp/` (`scenes.tsx`, `scenes2.tsx`, listed in `registry.ts`). When a story needs
+something no scene shows, add it in `src/lp/` with the 3D pieces there (`models.ts`, `pieces.ts`), register it in
+`src/lp/registry.ts` (and a drawn one in `src/scenes/` and `src/Story.tsx`), and check it with
 `node scripts/stills.mjs` before using it.

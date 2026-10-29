@@ -1,25 +1,16 @@
 import React from "react";
 import { DISPLAY, GOLD, GOLD_LIGHT, IVORY, RED, SANS, eased, popped, prog, shake } from "../look";
 import { SceneProps, num, str } from "../scenes/types";
-import { Cam, Obj, V3, place, project } from "./engine";
-import { box, ground, ico, jitter, paint, part, shape, slab, torus } from "./mesh";
+import { Cam, Obj, V3, onFace, place, project, rnd } from "./engine";
+import { box, ground, ico, jitter, lathe, paint, part, shape, slab, torus } from "./mesh";
 import { LookLp, PersonLp, Rough, SILVER, Stone, Tr, group, shadeHex } from "./models";
-import { Brooch, CrownLp, Earrings, FigureLp, NecklaceOnBust, ParcelLp, Ring, RingBox, SceptreLp, ShipLp, Tiara, pitHeight } from "./pieces";
+import { Brooch, CrownLp, Earrings, FigureLp, NecklaceOnBust, ParcelLp, Ring, RingBox, SceptreLp, ShipLp, Tiara } from "./pieces";
 import { Backdrop, LightCone, Scene3D } from "./Scene3D";
 import { FacetGlow, Frame, LpSparkle, LpStars, Rays, Skyline } from "./scenes";
 
 // More story scenes in low poly (ali, 29 Oct 2026), with the same options as their drawn versions in src/scenes.
 
 const P = (pts: [number, number][]) => pts.map(([x, y]) => `${x.toFixed(1)},${y.toFixed(1)}`).join(" ");
-
-// An SVG transform that lays flat 2D drawing (w by h, y down) onto a face of a 3D object: `o` is the face's top-left
-// corner in the world, `ex` and `ey` the world vectors along its top and down its left side.
-const onFace = (cam: Cam, o: V3, ex: V3, ey: V3, w: number, h: number) => {
-  const p0 = project(o, cam);
-  const p1 = project([o[0] + ex[0], o[1] + ex[1], o[2] + ex[2]], cam);
-  const p2 = project([o[0] + ey[0], o[1] + ey[1], o[2] + ey[2]], cam);
-  return `matrix(${(p1[0] - p0[0]) / w} ${(p1[1] - p0[1]) / w} ${(p2[0] - p0[0]) / h} ${(p2[1] - p0[1]) / h} ${p0[0]} ${p0[1]})`;
-};
 
 // A point given in an object's own space, placed as the object is placed.
 const at = (p: V3, tr: Tr): V3 => place(p, tr as Obj);
@@ -38,9 +29,9 @@ export const LpJewel: React.FC<SceneProps> = ({ t, p }) => {
   const shapeName = str(p.shape, "round");
   const tone = typeof p.tone === "string" && p.tone !== "#e9f1f6" ? p.tone : undefined;
   const metal = str(p.metal, "yellow");
-  const velvet = str(p.velvet, "#1b2647");
+  const velvet = str(p.velvet, "#23306c");
   const label = str(p.label, "");
-  const labelY = piece === "necklace" ? 400 : 1100;
+  const labelY = 236;
   const pearls = p.pearls === true;
   const a = Math.min(1, 0.4 + eased(t, 0, 0.5));
   const sway = Math.sin(t * 1.3);
@@ -49,20 +40,20 @@ export const LpJewel: React.FC<SceneProps> = ({ t, p }) => {
   let objs: Obj[] = [];
   let cam: Cam = { pos: [0, 1.2, 10], target: [0, 0.2, 0], fov: 30 };
   if (piece === "ring") {
-    objs = [...RingBox(velvet, 1, { pos: [0, -0.6, 0], rot: [0, 0.18, 0], scale: 1.15 }), ...Ring(metal, shapeName, tone, { pos: [0, 0.62, 0.15], rot: [0.05, 0.35 + sway * 0.06, 0], scale: 0.62 })];
-    cam = { pos: [0, 3.0, 10.5], target: [0, 0.35, 0], fov: 30 };
+    objs = [...RingBox(velvet, 1, { pos: [0, -0.75, 0], rot: [0, 0.22, 0], scale: 0.85 }), ...Ring(metal, shapeName, tone, { pos: [0, 0.0, 0.05], rot: [0.05, 0.3 + sway * 0.06, 0], scale: 0.6 })];
+    cam = { pos: [0, 3.0, 11.5], target: [0, -0.2, 0], fov: 30 };
   } else if (piece === "necklace") {
-    objs = NecklaceOnBust(velvet, metal, shapeName, tone, pearls, str(p.drop, ""), sway, { pos: [0, -0.4, 0] });
-    cam = { pos: [0, 0.7, 9.5], target: [0, -0.15, 0], fov: 30 };
+    objs = NecklaceOnBust(velvet, metal, shapeName, tone, pearls, str(p.drop, ""), sway, { pos: [0, 0.15, 0], scale: 0.88 });
+    cam = { pos: [0, 0.7, 9.5], target: [0, -0.6, 0], fov: 30 };
   } else if (piece === "earrings") {
-    objs = Earrings(metal, shapeName, tone, pearls, sway, { pos: [0, 0.2, 0], scale: 1.3 });
-    cam = { pos: [0, 0.5, 9], target: [0, 0.4, 0], fov: 30 };
+    objs = Earrings(metal, shapeName, tone, pearls, sway, { pos: [0, 0.2, 0], scale: 1.0 });
+    cam = { pos: [0, 1.2, 9], target: [0, 1.2, 0], fov: 30 };
   } else if (piece === "brooch") {
-    objs = Brooch(metal, shapeName, tone, pearls, { rot: [0.15, sway * 0.12, sway * 0.04], scale: 1.25 });
+    objs = Brooch(metal, shapeName, tone, pearls, { pos: [0, 0.45, 0], rot: [0.15, sway * 0.12, sway * 0.04], scale: 0.72 });
     cam = { pos: [0, 0.6, 9], target: [0, 0.2, 0], fov: 30 };
   } else {
-    objs = Tiara(metal, shapeName, tone, pearls, { pos: [0, -0.3, 0], rot: [0.12, sway * 0.08, 0], scale: 1.3 });
-    cam = { pos: [0, 1.5, 9.5], target: [0, 0.4, 0], fov: 30 };
+    objs = Tiara(metal, shapeName, tone, pearls, { pos: [0, 0.1, 0], rot: [0.18, sway * 0.08, 0], scale: 0.8 });
+    cam = { pos: [0, 1.8, 9.5], target: [0, 0.35, 0], fov: 30 };
   }
   const sx = sweep * 1080;
   return (
@@ -143,18 +134,19 @@ export const LpCut: React.FC<SceneProps> = ({ t, dur, p }) => {
   const showAt = phase === "result" ? 0.05 : snap ? 1e9 : hit + 0.75;
   const fly = snap ? prog(t, hit, hit + 0.9) : 0;
   const [sx, sy] = shake(t, hit, 20, 0.4);
-  const cam: Cam = { pos: [0, 2.2, 9.5], target: [0, 0.2, 0], fov: 30 };
+  const cam: Cam = { pos: [0, 2.2, 9.5], target: [0, -0.7, 0], fov: 30 };
   const objs: Obj[] = [];
+  const R = 0.6;
   if (gone < 1) {
     const rough = jitter(ico(1, 1), 0.35, 4);
     const mat = { color: "#cfdde6", spec: 0.5, shine: 14, sparkle: 0.35, glow: 0.05, double: true, facets: 0.3 };
     const halves = [part(rough, (c) => c[0] < 0.05), part(rough, (c) => c[0] >= 0.05)];
     halves.forEach((h, i) => {
       const s = i ? 1 : -1;
-      objs.push(...group([{ mesh: h, mat }], { pos: [s * apart * 1.1, -0.1 - apart * 0.1, 0], rot: [0.3, 0.3, s * apart * 0.3], scale: 0.85 * (1 - gone * 0.3) }));
+      objs.push(...group([{ mesh: h, mat }], { pos: [s * apart * 0.8, -0.1 - apart * 0.1, 0], rot: [0.3, 0.3, s * apart * 0.3], scale: R * (1 - gone * 0.3) }));
     });
     // the blade: a handle and a steel edge, coming down onto the stone
-    const by = 1.0 + (1 - lower) * 4 - tap + lift;
+    const by = -0.1 + R * 1.05 + 0.12 + (1 - lower) * 4 - tap + lift;
     const steel = { ...SILVER, color: "#c9d1d8" };
     objs.push({ mesh: box(0.24, 1.0, 0.24), mat: { color: "#2a1d12", spec: 0.2 }, pos: [0.05 + tremble, by + 0.75, 0.2], rot: [0, 0, 0.07] });
     if (snap && t > hit) objs.push({ mesh: slab([[-0.16, 0.12], [0.16, 0.12], [0.1, 0], [-0.08, 0.02]], 0.04), mat: steel, pos: [0.03, by + 0.05, 0.2] });
@@ -163,7 +155,7 @@ export const LpCut: React.FC<SceneProps> = ({ t, dur, p }) => {
       objs.push({ mesh: slab([[-0.08, 0.02], [0.1, 0], [0, -0.12]], 0.04), mat: steel, pos: [0.03 + fly * 0.9, by + 0.6 * fly - 1.8 * fly * fly, 0.3], rot: [0, 0, fly * 11] });
   }
   // the cut stones in a row
-  const sizes = pieces.map((g) => 26 * Math.cbrt(Math.max(0.5, g.carats)));
+  const sizes = pieces.map((g) => Math.min(300, 56 * Math.cbrt(Math.max(0.5, g.carats))));
   const gap = 14;
   const total = sizes.reduce((x, y) => x + y, 0) + gap * Math.max(0, sizes.length - 1);
   const k = total > 960 ? 960 / total : 1;
@@ -274,7 +266,7 @@ export const LpParcel: React.FC<SceneProps> = ({ t, p }) => {
   const [sx, sy] = stampText ? shake(t, stampAt + 0.05, 16) : [0, 0];
   const pulse = 0.7 + 0.3 * Math.sin(t * 5);
   const tr: Tr = { pos: [0, (1 - enter) * -0.2, 0], rot: [0, -0.32, 0] };
-  const cam: Cam = close ? { pos: [-1.0, 1.6, 6.0], target: [-0.55, 0.62, 0.6], fov: 30 } : { pos: [0, 3.6, 10.5], target: [0, 0.45, 0], fov: 30 };
+  const cam: Cam = close ? { pos: [-0.35, 2.3, 9.2], target: [-0.05, 0.6, 0.5], fov: 30 } : { pos: [0, 4.4, 13], target: [0, 0.4, 0], fov: 30 };
   const objs: Obj[] = [{ mesh: ground(30, 16, 12, 6, () => 0), mat: { color: "#17110c", spec: 0.05 }, pos: [0, 0, 2] }, ...ParcelLp(tr)];
   // the address label and the postage stamps on the front of the box
   const face = (u: number, v: number): V3 => at([-1.3 + u, 1.5 - v, 0.905], tr);
@@ -363,26 +355,41 @@ export const LpMine: React.FC<SceneProps> = ({ t, dur, p }) => {
   const reveal = popped(t, zoomAt + 0.45, zoomAt + 0.9);
   const count = Math.round(carats * eased(t, zoomAt + 0.6, zoomAt + 1.6));
   const mix = (a: number, b: number) => a + (b - a) * zoom;
-  const cam: Cam = { pos: [mix(0, 0.3), mix(7.5, 1.2), mix(19, 2.6)], target: [0, mix(-0.6, -3.1), mix(-2, 0)], fov: 30 };
-  const land = paint(ground(46, 34, 26, 20, pitHeight), (_, c) => {
-    const d = -c[1];
-    if (Math.hypot(c[0], c[2] * 1.25) > 5.6) return "#121a2c";
-    return shadeHex("#2a3550", -Math.min(0.75, d * 0.22));
+  // an open pit of seven terraces centred at z = 1, the land round it ending at z = -6 with low hills behind
+  const cam: Cam = { pos: [mix(0, 0.3), mix(4.4, 1.2), mix(18, 3.6)], target: [0, mix(-0.9, -3.1), mix(0, 1)], fov: 30 };
+  const prof: [number, number][] = [[6.6, 0.03], [5.5, 0.03]];
+  for (let k = 0; k < 7; k++) {
+    const r = 5.5 - k * 0.72;
+    prof.push([r - 0.2, -(k + 1) * 0.45]);
+    prof.push([k < 6 ? r - 0.72 : 0, -(k + 1) * 0.45]);
+  }
+  const pit = paint(lathe(prof, 26, 0, false), (n, c) => {
+    const depth = Math.min(1, -c[1] / 3.2);
+    return n[1] > 0.9 ? shadeHex("#62759b", -depth * 0.45) : shadeHex("#2c3753", -depth * 0.35);
   });
+  const field = part(
+    paint(ground(44, 14, 30, 10, () => 0), (_, c) => shadeHex("#1f2840", (rnd(Math.round(c[0] * 7 + c[2] * 13)) - 0.5) * 0.25)),
+    (c) => Math.hypot(c[0], (c[2] - 1) / 0.8) > 6.0,
+  );
+  const hills = ground(48, 4, 20, 2, (x, z) => (z < -1 ? 0.55 + 0.35 * Math.sin(x * 0.55) + 0.2 * Math.sin(x * 1.7 + 1) : z < 1 ? 0.2 + 0.1 * Math.sin(x * 1.3) : 0));
   const objs: Obj[] = [
-    { mesh: land, mat: { color: "#121a2c", spec: 0.25, shine: 6 }, pos: [0, 0, -4] },
-    { mesh: box(1.4, 0.9, 1.0), mat: { color: "#0b0f1a", spec: 0.2 }, pos: [7.5, 0.45, -9] },
-    { mesh: box(0.36, 0.3, 0.05), mat: { color: "#e9b95e", glow: 0.9 }, pos: [7.5, 0.5, -8.48] },
-    { mesh: box(1.1, 0.75, 0.9), mat: { color: "#0b0f1a", spec: 0.2 }, pos: [9.2, 0.38, -10] },
-    { mesh: box(0.3, 0.25, 0.05), mat: { color: "#e9b95e", glow: 0.9 }, pos: [9.2, 0.42, -9.53] },
+    { mesh: field, mat: { color: "#1f2840", spec: 0.15, shine: 6 }, pos: [0, 0, 0] },
+    { mesh: pit, mat: { color: "#4a5a7c", spec: 0.2, shine: 6, facets: 0.15 }, pos: [0, 0, 1], scale: [1, 1, 0.8] },
+    { mesh: hills, mat: { color: "#141a2b", spec: 0.1, facets: 0.25 }, pos: [0, 0, -8] },
+    { mesh: box(1.4, 0.9, 1.0), mat: { color: "#0b0f1a", spec: 0.2 }, pos: [7.0, 0.45, -3.6] },
+    { mesh: box(0.36, 0.3, 0.05), mat: { color: "#e9b95e", glow: 0.9 }, pos: [7.0, 0.5, -3.08] },
+    { mesh: box(1.1, 0.75, 0.9), mat: { color: "#0b0f1a", spec: 0.2 }, pos: [8.7, 0.38, -4.6] },
+    { mesh: box(0.3, 0.25, 0.05), mat: { color: "#e9b95e", glow: 0.9 }, pos: [8.7, 0.42, -4.13] },
   ];
-  const glintAt = project([0.5, pitHeight(0.5, -0.2) + 0.1, -4.2], cam);
+  const glintAt = project([0.5, -2.7, -0.4], cam);
+  // the moon half risen behind the hills
+  const moonY = project([0, 0.6, -9.5], cam)[1] + 6;
   return (
     <Frame>
       <Backdrop t={t} top="#04060b" bottom="#1c2742" seed={67} />
-      <LpStars t={t} n={45} top={60} bottom={760} />
-      <polygon points={P(Array.from({ length: 8 }, (_, i) => [790 + Math.cos((i / 8) * Math.PI * 2) * 58, 430 + Math.sin((i / 8) * Math.PI * 2) * 58] as [number, number]))} fill="#f6ecd2" opacity={1 - zoom} />
-      <FacetGlow x={790} y={430} r={170} color="#f6ecd2" t={t} k={0.5 * (1 - zoom)} rings={3} />
+      <LpStars t={t} n={45} top={60} bottom={moonY} />
+      <polygon points={P(Array.from({ length: 8 }, (_, i) => [880 + Math.cos((i / 8) * Math.PI * 2) * 58, moonY + Math.sin((i / 8) * Math.PI * 2) * 58] as [number, number]))} fill="#f6ecd2" opacity={1 - zoom} />
+      <FacetGlow x={880} y={moonY} r={170} color="#f6ecd2" t={t} k={0.5 * (1 - zoom)} rings={3} />
       <Scene3D objs={objs} cam={cam} opts={{ t, fog: { color: "#0a0e18", near: 14, far: 40, max: 0.7 } }} />
       <LpSparkle x={glintAt[0]} y={glintAt[1]} r={40 * (1 + zoom * 0.5)} k={glint * (1 - reveal)} />
       {reveal > 0 && (
@@ -417,15 +424,13 @@ export const LpCrown: React.FC<SceneProps> = ({ t, p }) => {
   const show = Math.min(1, 0.35 + eased(t, 0, 0.5));
   const tags = eased(t, 0.5, 1.0);
   const tw = (ph: number, sp = 2.6) => 0.5 + 0.5 * Math.sin(t * sp + ph);
-  const cam: Cam = { pos: [0, 2.0, 14], target: [0, -0.3, 0], fov: 30 };
-  const crownTr: Tr = { pos: [0, 0.75, 0], rot: [0.12, Math.sin(t * 0.5) * 0.25, 0], scale: 1.55 };
-  const objs: Obj[] = [
-    { mesh: ground(30, 16, 10, 6, () => 0), mat: { color: "#2a1030", spec: 0.1 }, pos: [0, -1.45, 0] },
-    ...CrownLp(crownTr),
-    ...SceptreLp({ pos: [0.2, -0.95, 1.6], rot: [-1.1, 0, 0.12], scale: 1.0 }),
-  ];
+  const cam: Cam = { pos: [0, 2.4, 16], target: [0, 0.1, 0], fov: 30 };
+  const crownTr: Tr = { pos: [0, 0.55, 0], rot: [0.12, Math.sin(t * 0.5) * 0.25, 0], scale: 1.05 };
+  const sceptreTr: Tr = { pos: [-0.6, -1.15, 1.4], rot: [-1.0, 0, 0.1], scale: 0.8 };
+  const objs: Obj[] = [...CrownLp(crownTr), ...SceptreLp(sceptreTr)];
   const crownStone = project(at([0, 0.2, 1.17], crownTr), cam);
-  const sceptreStone = project([2.2, -0.2, 1.9], cam);
+  const sceptreStone = project(at([2.2, 1.33, 0], sceptreTr), cam);
+  const tagX = Math.min(790, sceptreStone[0] + 40);
   return (
     <Frame>
       <Backdrop t={t} top="#06080e" bottom="#1a1030" glow="#3a2d5a" gx={540} gy={820} gr={700} seed={71} />
@@ -447,9 +452,9 @@ export const LpCrown: React.FC<SceneProps> = ({ t, p }) => {
       )}
       {sceptreLabel && (
         <g opacity={tags}>
-          <polyline points={`${sceptreStone[0]},${sceptreStone[1] + 40} ${sceptreStone[0] - 20},${sceptreStone[1] + 150} ${sceptreStone[0] - 60},${sceptreStone[1] + 170}`} stroke={GOLD} strokeWidth={3} fill="none" />
-          <polygon points={P([[sceptreStone[0] - 320, sceptreStone[1] + 142], [sceptreStone[0] - 60, sceptreStone[1] + 142], [sceptreStone[0] - 60, sceptreStone[1] + 202], [sceptreStone[0] - 320, sceptreStone[1] + 202]])} fill="#0a0e18" stroke={GOLD} strokeWidth={2} />
-          <text x={sceptreStone[0] - 190} y={sceptreStone[1] + 183} textAnchor="middle" fontFamily={SANS} fontWeight={700} letterSpacing={2} fontSize={sceptreLabel.length > 14 ? 24 : 30} fill={IVORY}>
+          <polyline points={`${sceptreStone[0] + 30},${sceptreStone[1] + 30} ${sceptreStone[0] + 60},${sceptreStone[1] + 110} ${tagX},${sceptreStone[1] + 110}`} stroke={GOLD} strokeWidth={3} fill="none" />
+          <polygon points={P([[tagX, sceptreStone[1] + 80], [tagX + 240, sceptreStone[1] + 80], [tagX + 240, sceptreStone[1] + 140], [tagX, sceptreStone[1] + 140]])} fill="#0a0e18" stroke={GOLD} strokeWidth={2} />
+          <text x={tagX + 120} y={sceptreStone[1] + 121} textAnchor="middle" fontFamily={SANS} fontWeight={700} letterSpacing={2} fontSize={sceptreLabel.length > 14 ? 24 : 30} fill={IVORY}>
             {sceptreLabel}
           </text>
         </g>
@@ -468,7 +473,7 @@ export const LpJourney: React.FC<SceneProps> = ({ t, dur, p }) => {
   const icon = str(p.icon, "parcel");
   const label = str(p.label, "");
   const X = (u: number | undefined, d: number) => 120 + (u ?? d) * 840;
-  const Y = (u: number | undefined, d: number) => 420 + (u ?? d) * 820;
+  const Y = (u: number | undefined, d: number) => 380 + (u ?? d) * 760;
   const ax = X(from.x, 0.6);
   const ay = Y(from.y, 0.95);
   const bx = X(to.x, 0.4);
@@ -493,11 +498,11 @@ export const LpJourney: React.FC<SceneProps> = ({ t, dur, p }) => {
   );
   // a faceted globe behind the chart, turning slowly
   const globe = ico(2, 1);
-  const sea: Obj = { mesh: paint(globe, (_, c) => (Math.sin(c[0] * 5 + c[1] * 3) + Math.cos(c[2] * 4 - c[1] * 2) > 0.9 ? "#1d2a44" : undefined)), mat: { color: "#121a2e", spec: 0.2, shine: 8 }, rot: [0.3, t * 0.12, 0], scale: 4.2 };
+  const sea: Obj = { mesh: paint(globe, (_, c) => (Math.sin(c[0] * 5 + c[1] * 3) + Math.cos(c[2] * 4 - c[1] * 2) > 0.9 ? "#152038" : undefined)), mat: { color: "#0b1222", spec: 0.15, shine: 8, facets: 0.15 }, rot: [0.3, t * 0.12, 0], scale: 3.1 };
   return (
     <Frame>
       <Backdrop t={t} top="#070a12" bottom="#0d1322" seed={73} />
-      <g opacity={0.9}>
+      <g opacity={0.8}>
         <Scene3D objs={[sea]} cam={{ pos: [0, 0, 16], target: [0, -0.4, 0], fov: 30 }} opts={{ t }} />
       </g>
       <g transform="translate(880 460)" opacity={0.75}>
@@ -544,8 +549,8 @@ export const LpShip: React.FC<SceneProps> = ({ t, p }) => {
   const bob = Math.sin(t * 1.9) * 0.06;
   const roll = Math.sin(t * 1.4) * 0.03;
   const drift = eased(t, 0, 4) * 0.5 - 0.25;
-  const cam: Cam = { pos: [0, 2.2, 15], target: [0, 0.9, 0], fov: 30 };
-  const shipTr: Tr = { pos: [drift, -0.05 + bob, 0], rot: [roll, -0.12, roll * 0.6], scale: 1.0 };
+  const cam: Cam = { pos: [0, 3.0, 24], target: [0, 0.6, 0], fov: 30 };
+  const shipTr: Tr = { pos: [drift, -0.05 + bob, 0], rot: [roll, -0.38, roll * 0.6], scale: 1.0 };
   const water = ground(40, 30, 26, 14, (x, z) => 0.12 * Math.sin(x * 1.1 + t * 2.0 + z * 0.4) + 0.08 * Math.sin(z * 1.7 - t * 1.5));
   const objs: Obj[] = [{ mesh: water, mat: { color: "#0c1830", spec: 0.7, shine: 10 }, pos: [0, -0.3, -4] }, ...ShipLp(t, shipTr)];
   if (guards) {
@@ -608,16 +613,16 @@ export const LpPortrait: React.FC<SceneProps> = ({ t, p }) => {
     jewel: p.pearls === true ? "pearls" : pendant ? "pendant" : "none",
     jewelTone: pendant || undefined,
   };
-  const cam: Cam = { pos: [0, 1.6, 20], target: [0, 0.3, 0], fov: 30 };
+  const cam: Cam = { pos: [0, 1.8, 20], target: [0, 0.52, 0], fov: 30 };
   const person = PersonLp(look, "neutral", t, 0, 0, 5);
-  const frameObj: Obj = { mesh: shape(torus(1, 0.075, 40, 6), ([x, y, z]) => [x * 3.7, -z * 4.9, y]), mat: { color: "#d8a84a", spec: 0.6, shine: 16 }, pos: [0, 0.45, 0.6] };
-  const frameObj2: Obj = { mesh: shape(torus(1, 0.03, 40, 4), ([x, y, z]) => [x * 3.42, -z * 4.62, y]), mat: { color: "#8c6b2b", spec: 0.4 }, pos: [0, 0.45, 0.62] };
+  const frameObj: Obj = { mesh: shape(torus(1, 0.075, 40, 6), ([x, y, z]) => [x * 1.72, -z * 2.28, y]), mat: { color: "#d8a84a", spec: 0.6, shine: 16, facets: 0.15 }, pos: [0, 1.23, 0] };
+  const frameObj2: Obj = { mesh: shape(torus(1, 0.022, 40, 4), ([x, y, z]) => [x * 1.6, -z * 2.15, y]), mat: { color: "#8c6b2b", spec: 0.4 }, pos: [0, 1.23, 0.05] };
   const sweep = ((t * 0.3) % 1.5) - 0.25;
   return (
     <Frame>
       <defs>
         <clipPath id="lpPoOval">
-          <ellipse cx={540} cy={860} rx={300} ry={400} />
+          <ellipse cx={540} cy={820} rx={292} ry={392} />
         </clipPath>
       </defs>
       <rect width={1080} height={1920} fill="#0d1322" />
@@ -628,17 +633,17 @@ export const LpPortrait: React.FC<SceneProps> = ({ t, p }) => {
           return <polygon key={`${r}${c}`} points={P([[x, y - 50], [x + 26, y], [x, y + 50], [x - 26, y]])} fill="none" stroke={GOLD} strokeOpacity={0.14} strokeWidth={2} />;
         }),
       )}
-      <g opacity={a} transform={`translate(540 860) scale(${0.94 + 0.06 * a}) translate(-540 -860)`}>
+      <g opacity={a} transform={`translate(540 820) scale(${0.94 + 0.06 * a}) translate(-540 -820)`}>
         <g clipPath="url(#lpPoOval)">
-          <Backdrop t={t} top={shadeHex(bg, -0.3)} bottom={shadeHex(bg, -0.55)} glow={shadeHex(bg, 0.2)} gx={480} gy={700} gr={400} cell={90} seed={83} />
+          <Backdrop t={t} top={shadeHex(bg, -0.3)} bottom={shadeHex(bg, -0.55)} glow={shadeHex(bg, 0.2)} gx={480} gy={660} gr={400} cell={90} seed={83} />
           <Scene3D objs={person} cam={cam} opts={{ t }} />
           <polygon points={P([[sweep * 1080 - 120, 400], [sweep * 1080 + 40, 400], [sweep * 1080 + 260, 1300], [sweep * 1080 + 100, 1300]])} fill="#fff" opacity={0.08} />
         </g>
         <Scene3D objs={[frameObj, frameObj2]} cam={{ pos: [0, 0.45, 20], target: [0, 0.45, 0], fov: 30 }} opts={{ t }} />
       </g>
-      {(pendant || p.crown === true || p.tiara === true) && <LpSparkle x={570} y={p.crown === true || p.tiara === true ? 640 : 1090} r={30} k={a * (0.5 + 0.5 * Math.sin(t * 2.8))} />}
+      {(pendant || p.crown === true || p.tiara === true) && <LpSparkle x={570} y={p.crown === true || p.tiara === true ? 600 : 1050} r={30} k={a * (0.5 + 0.5 * Math.sin(t * 2.8))} />}
       {(name || years) && (
-        <g opacity={plate} transform="translate(540 1352)">
+        <g opacity={plate} transform="translate(540 1205)">
           <polygon points={P([[-250, -46], [250, -46], [250, years ? 58 : 28], [-250, years ? 58 : 28]])} fill="#d8a84a" />
           <polygon points={P([[-250, -46], [250, -46], [240, -36], [-240, -36]])} fill="#f0cf75" />
           <polygon points={P([[-250, years ? 58 : 28], [250, years ? 58 : 28], [240, years ? 48 : 18], [-240, years ? 48 : 18]])} fill="#8c6b2b" />

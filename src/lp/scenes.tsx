@@ -1,10 +1,11 @@
 import React from "react";
 import { DISPLAY, GOLD, GOLD_LIGHT, IVORY, RED, SANS, eased, popped, shake } from "../look";
 import { SceneProps, num, str } from "../scenes/types";
-import { Cam, Obj, rnd } from "./engine";
+import { Cam, Obj, V3, onFace, place, rnd } from "./engine";
 import { Backdrop, LightCone, Scene3D } from "./Scene3D";
 import { Chest, Cushion, FabergeEgg, GOLD as GOLD_M, GOLD_DARK, LookLp, PearDrop, PersonLp, PearlLp, Rough, Stone, group } from "./models";
 import { box, ground, lathe, prism } from "./mesh";
+import { ParcelLp } from "./pieces";
 
 // The story scenes in low poly (ali, 29 Oct 2026): the same scenes and options as src/scenes, drawn as flat-shaded 3D.
 
@@ -114,18 +115,55 @@ const piece = (show: string, t: number, shape: string, tone: string | undefined,
 
 // ------------------------------------------------------------------ hook
 
-// The opening shot: the payoff, big and already moving. Options as in scenes/Hook.tsx; parcel and sandwich use the drawn scene.
+// The opening shot: the payoff, big and already moving. Options as in scenes/Hook.tsx; sandwich uses the drawn scene.
 export const LpHook: React.FC<SceneProps> = ({ t, p }) => {
   const show = str(p.show, "rough");
   const shape = str(p.shape, "cushion");
   const tone = typeof p.tone === "string" ? p.tone : undefined;
   const halo = str(p.halo, "");
-  const size = num(p.size, show === "chest" ? 470 : 600) / 600;
+  const size = num(p.size, show === "chest" || show === "parcel" ? 470 : 600) / 600;
   const cy = 1090;
   const bob = Math.sin(t * 2.2) * 0.04;
   const cam: Cam = { pos: [0, 1.4, 11.5 / size], target: [0, 0.48 / size, 0], fov: 30 };
   let objs: Obj[];
-  if (show === "chest") {
+  let extra: React.ReactNode = null;
+  if (show === "parcel") {
+    // an open parcel, the stone rising out of it, the address label and a stamp on its front
+    const tr = { pos: [0, -1.75, 0] as V3, rot: [0, -0.3, 0] as V3 };
+    const rise = eased(t, 0, 0.8);
+    const stone = piece(tone ? "gem" : "rough", t, shape, tone, 0.6).map((o) => ({ ...o, mesh: { ...o.mesh, v: o.mesh.v.map(([x, y, z]) => [x * 0.5, y * 0.5 - 1.0 + rise * 1.25 + bob, z * 0.5] as V3) } }));
+    objs = [...ParcelLp(tr, true), ...stone];
+    const face = (u: number, v: number): V3 => place([-1.3 + u, 1.5 - v, 0.905], tr as Obj);
+    const o = face(0, 0);
+    const d = (q: V3, k: number): V3 => [(q[0] - o[0]) * k, (q[1] - o[1]) * k, (q[2] - o[2]) * k];
+    const label = str(p.label, "");
+    const stamp = str(p.stamp, "");
+    extra = (
+      <g>
+        {label && (
+          <g transform={onFace(cam, face(0.14, 0.42), d(face(1, 0), 0.98), d(face(0, 1), 0.6), 196, 120)}>
+            <polygon points="0,0 196,0 196,120 0,120" fill="#f3ead6" />
+            <text x={16} y={36} fontFamily={DISPLAY} fontSize={22} fill="#3b3326" opacity={0.75}>
+              To:
+            </text>
+            <text x={98} y={84} textAnchor="middle" fontFamily={DISPLAY} fontStyle="italic" fontSize={label.length > 9 ? 28 : 38} fill="#1d1712">
+              {label}
+            </text>
+          </g>
+        )}
+        {stamp && (
+          <g transform={onFace(cam, face(1.3, 0.85), d(face(1, 0), 1.15), d(face(0, 1), 0.42), 280, 84)}>
+            <g transform="translate(140 42) rotate(-9)">
+              <polygon points="-140,-42 140,-42 140,42 -140,42" fill="none" stroke={RED} strokeWidth={7} />
+              <text x={0} y={15} textAnchor="middle" fontFamily={DISPLAY} fontWeight={800} fontSize={stamp.length > 10 ? 32 : 40} letterSpacing={4} fill={RED}>
+                {stamp.toUpperCase()}
+              </text>
+            </g>
+          </g>
+        )}
+      </g>
+    );
+  } else if (show === "chest") {
     objs = [...Chest(0.75, { pos: [0, -1.0, 0], rot: [0, -0.25 + Math.sin(t * 0.6) * 0.08, 0], scale: 0.9 }), ...piece(tone ? "gem" : "rough", t, "round", tone, 0.6).map((o) => ({ ...o, mesh: { ...o.mesh, v: o.mesh.v.map(([x, y, z]) => [x * 0.55, y * 0.55 + 0.25 + bob, z * 0.55] as [number, number, number]) } }))];
   } else objs = piece(show, t, shape, tone).map((o) => ({ ...o, mesh: { ...o.mesh, v: o.mesh.v.map(([x, y, z]) => [x, y + bob, z] as [number, number, number]) } }));
   const pulse = 0.85 + 0.15 * Math.sin(t * 5.3);
@@ -136,6 +174,7 @@ export const LpHook: React.FC<SceneProps> = ({ t, p }) => {
       <LightCone x={540} bottom={1500} w={900} k={0.9} />
       <FacetGlow x={540} y={cy} r={440 * pulse} color={halo || "#ffe7a8"} t={t} k={halo ? 1.1 : 0.8} />
       <Scene3D objs={objs} cam={cam} opts={{ t }} />
+      {extra}
       <LpSparkle x={470} y={cy - 250} r={70 + 40 * Math.max(0, Math.sin(t * 5.2))} k={Math.max(0, Math.sin(t * 5.2))} />
       <LpSparkle x={300} y={cy - 160} r={44} k={0.5 + 0.5 * Math.sin(t * 6.1)} />
       <LpSparkle x={760} y={cy - 210} r={34} k={0.5 + 0.5 * Math.sin(t * 4.7 + 2)} />

@@ -168,3 +168,12 @@ export const project = (p: V3, cam: Cam, W = 1080, H = 1920): [number, number, n
   const focal = H / 2 / Math.tan((((cam.fov ?? 35) * Math.PI) / 180) / 2);
   return [W / 2 + (dot(d, r) / z) * focal, H / 2 - (dot(d, u) / z) * focal, z];
 };
+
+// An SVG transform that lays flat 2D drawing (w by h, y down) onto a face of a 3D object: `o` is the face's top-left
+// corner in the world, `ex` and `ey` the world vectors along its top and down its left side.
+export const onFace = (cam: Cam, o: V3, ex: V3, ey: V3, w: number, h: number) => {
+  const p0 = project(o, cam);
+  const p1 = project([o[0] + ex[0], o[1] + ex[1], o[2] + ex[2]], cam);
+  const p2 = project([o[0] + ey[0], o[1] + ey[1], o[2] + ey[2]], cam);
+  return `matrix(${(p1[0] - p0[0]) / w} ${(p1[1] - p0[1]) / w} ${(p2[0] - p0[0]) / h} ${(p2[1] - p0[1]) / h} ${p0[0]} ${p0[1]})`;
+};

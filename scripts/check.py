@@ -55,6 +55,10 @@ def check(path, seen):
     music = f"music-{'lesson-' if series == 'lesson' else ''}{s['number']:03d}.wav"
     if s.get("music") != music:
         say(f"music should be {music} (the workflow makes it)")
+    if series == "story" and s["number"] >= 7 and s.get("style") != "lowpoly":
+        say('style should be "lowpoly" (every story from 007 on)')
+    if s.get("style") == "lowpoly" and any((l.get("scene") or {}).get("show") == "sandwich" for l in s["lines"]):
+        say("the sandwich hook only exists drawn: pick another hook for a low-poly story")
     total = END_S
     spoken = " ".join(l.get("say") or l.get("text", "") for l in s["lines"])
     sentences = [x.split() for x in re.split(r"(?<=[.!?])\s+", spoken.strip()) if x.strip()]
