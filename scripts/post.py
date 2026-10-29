@@ -15,7 +15,8 @@ posts.json (status, and each platform's link or error); a post that failed anywh
 A platform that refused a post over a limit (YouTube's daily upload limit, Zernio's rate limit) gets the video again,
 alone, booked for after the limit lifts, up to three tries and at most RETRY_PER_DAY a day: posts.json keeps the
 latest under "retry". A
-video that can't post now because the account is rate limited is booked for when the limit lifts.
+video that can't post now because the account is rate limited waits for the next run (Zernio refuses even a booking
+for later while the limit lasts); a rate limit doesn't fail the run.
 Without ZERNIO_API_KEY, or with "paused": true in schedule.json, nothing is booked or checked.
 
   python3 scripts/post.py [--remade "001-cullinan ..."] [--dry-run]
@@ -38,7 +39,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS = os.path.join(ROOT, "posts.json")
 LEAD = dt.timedelta(minutes=30)
 DONE = {"published", "partial", "failed", "cancelled"}
-RETRY_PER_DAY = 4  # re-posts after a limit, per UTC day: YouTube's daily upload limit counts every upload
+RETRY_PER_DAY = 3  # re-posts after a limit, per UTC day: YouTube lets an unverified channel upload 10 videos a day
 UTC = dt.timezone.utc
 
 
@@ -361,22 +362,15 @@ def main():
             digest = hashlib.sha256(f.read()).hexdigest()[:16]
         url = z.upload(path)
         intro = ((sched.get("series") or {}).get(series) or {}).get("intro", "")
-        for attempt in range(2):
-            body = payload(s, url, slot, accounts, intro)
-            try:
-                res = z.call("POST", "/posts", body, {"Idempotency-Key": f"story-{sid}{tag}-{digest}-{run}-{attempt}"})
-                made_post = res.get("post") or res
-                return made_post.get("_id") or made_post.get("id") or "", slot
-            except RuntimeError as e:
-                # The same post already went in (a retry Zernio had taken): it's this one.
-                if " 409 " in str(e) and (zid := re.search(r'"existingPostId"\s*:\s*"([0-9a-f]+)"', str(e))):
-                    return zid.group(1), slot
-                # An account that's rate limited right now: book it for when the limit lifts.
-                lift = lifts(dt.datetime.now(UTC), str(e)) if " 429 " in str(e) else None
-                if attempt or not lift:
-                    raise
-                print(f"{sid}: {', '.join(accounts)} is rate limited; booking it for {iso(lift)}")
-                slot = max(lift, slot or lift)
+        try:
+            res = z.call("POST", "/posts", payload(s, url, slot, accounts, intro), {"Idempotency-Key": f"story-{sid}{tag}-{digest}-{run}"})
+            made_post = res.get("post") or res
+            return made_post.get("_id") or made_post.get("id") or "", slot
+        except RuntimeError as e:
+            # The same post already went in (a retry Zernio had taken): it's this one.
+            if " 409 " in str(e) and (zid := re.search(r'"existingPostId"\s*:\s*"([0-9a-f]+)"', str(e))):
+                return zid.group(1), slot
+            raise
 
     with tempfile.TemporaryDirectory() as tmp:
         # Platforms that refused a post over a limit get it once more, alone, after the limit lifts.
@@ -420,6 +414,9 @@ def main():
                 last = when + dt.timedelta(minutes=20)
                 print(f"Booked {sid} again on {', '.join(accounts)} for {iso(when)} (Zernio post {zid})")
             except Exception as e:
+                if " 429 " in str(e):
+                    print(f"::notice::{sid} waits for the rate limit to lift before it's posted again: {e}")
+                    continue
                 print(f"::error::{sid} wasn't booked again: {e}")
                 failed = 1
 
@@ -437,6 +434,9 @@ def main():
                 booked.append(sid)
                 print(f"Booked {sid} for {when} on {', '.join(accounts)} (Zernio post {zid})")
             except Exception as e:  # one video failing mustn't stop the others; it's tried again next run
+                if " 429 " in str(e):
+                    print(f"::notice::{sid} waits for the rate limit to lift: {e}")
+                    continue
                 print(f"::error::{sid} wasn't booked: {e}")
                 failed = 1
                 if " 403 " in str(e) or " 402 " in str(e):  # the plan's post limit: the rest would fail the same way
