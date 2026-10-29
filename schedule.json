@@ -1,5 +1,5 @@
 {
-  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026.",
+  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\". now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026.",
   "paused": false,
   "times": [
     "14:00",
@@ -35,6 +35,16 @@
         "youtube"
       ],
       "intro": "Jewelry rendering, step by step: https://www.heygema.com/en/jewelry-rendering"
+    },
+    "upload": {
+      "times": [
+        "15:00",
+        "20:30"
+      ],
+      "platforms": [
+        "youtube"
+      ],
+      "from": "2026-10-30T14:55:00Z"
     }
   }
 }

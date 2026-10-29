@@ -1,5 +1,6 @@
 """Books every finished video through Zernio: the stories on Instagram, TikTok and YouTube, the render lessons on
-YouTube only.
+YouTube only, and the videos made elsewhere (uploads/: an "yt-" id, its .json and .mp4 side by side, schedule.json
+"series" -> "upload") on their series' platforms.
 
 Runs at the end of every "Make videos" run. A video is finished when its release exists. Each finished
 video that isn't booked yet goes to the next free time of its series in schedule.json (UTC: "times" and
@@ -223,12 +224,21 @@ def payload(story, url, slot, accounts, intro=""):  # slot None: post right away
     return body
 
 
+UPLOADS = os.path.join(ROOT, "uploads")
+
+
 def series_of(sid):
-    return "lesson" if sid.startswith("lesson-") else "story"
+    return "lesson" if sid.startswith("lesson-") else "upload" if sid.startswith("yt-") else "story"
+
+
+def video_jsons():
+    return glob.glob(os.path.join(ROOT, "stories", "*.json")) + glob.glob(os.path.join(ROOT, "lessons", "*.json")) \
+        + glob.glob(os.path.join(UPLOADS, "*.json"))
 
 
 def plan(sched, series):
-    """The posting times and platforms of a series: schedule.json's own for the stories, "series" overrides others."""
+    """The posting times and platforms of a series: schedule.json's own for the stories, "series" overrides others
+    (and may say "from": no booking before that UTC time)."""
     own = (sched.get("series") or {}).get(series) or {}
     return own.get("times") or sched["times"], own.get("platforms") or sched["platforms"]
 
@@ -315,8 +325,9 @@ def main():
 
     made = set(subprocess.run(["gh", "release", "list", "--limit", "2000", "--json", "tagName", "--jq",
                                ".[].tagName"], check=True, capture_output=True, text=True).stdout.split())
+    made |= {os.path.basename(f)[:-4] for f in glob.glob(os.path.join(UPLOADS, "yt-*.mp4"))}  # made elsewhere
     stories = []
-    for f in glob.glob(os.path.join(ROOT, "stories", "*.json")) + glob.glob(os.path.join(ROOT, "lessons", "*.json")):
+    for f in video_jsons():
         s = json.load(open(f))
         if s["id"] in made and s["id"] not in posts:
             stories.append(s)
@@ -324,7 +335,7 @@ def main():
     if not stories:
         print("Every finished video is booked.")
 
-    wanted = sorted({p for series in ("story", "lesson") for p in plan(sched, series)[1]})
+    wanted = sorted({p for series in ("story", "lesson", "upload") for p in plan(sched, series)[1]})
     every = z.accounts(wanted, sched.get("accounts", {})) if not args.dry_run \
         else {p: sched.get("accounts", {}).get(p) or "dry-run" for p in wanted}
     if not every:
@@ -334,6 +345,9 @@ def main():
     lasts = {}
     for sid, p in list(posts.items()) + [(sid, {"at": iso(t)}) for sid, t in keep_slot.items()]:
         lasts[series_of(sid)] = max(lasts.get(series_of(sid), now + LEAD), parse(p["at"]))
+    for series, own in (sched.get("series") or {}).items():  # "from": a series' first booking is no sooner than this
+        if own.get("from"):
+            lasts[series] = max(lasts.get(series, now + LEAD), parse(own["from"]))
     # Every video gets its time first (each series after its own last post), then they're booked soonest first, so
     # when the plan's post limit cuts a run short, the posts that did go in are the next ones due across the series.
     queue = []
@@ -356,8 +370,10 @@ def main():
     def book(s, series, slot, accounts, tmp, tag=""):
         """Uploads a video and books it in Zernio; returns the Zernio post id and the time it posts."""
         sid = s["id"]
-        subprocess.run(["gh", "release", "download", sid, "-p", f"{sid}.mp4", "-D", tmp, "--clobber"], check=True)
-        path = os.path.join(tmp, f"{sid}.mp4")
+        path = os.path.join(UPLOADS, f"{sid}.mp4")
+        if not os.path.exists(path):
+            subprocess.run(["gh", "release", "download", sid, "-p", f"{sid}.mp4", "-D", tmp, "--clobber"], check=True)
+            path = os.path.join(tmp, f"{sid}.mp4")
         with open(path, "rb") as f:
             digest = hashlib.sha256(f.read()).hexdigest()[:16]
         url = z.upload(path)
@@ -380,7 +396,7 @@ def main():
                 day = p["retry"]["at"][:10]
                 retried[day] = retried.get(day, 0) + 1
         found = {}
-        for f in glob.glob(os.path.join(ROOT, "stories", "*.json")) + glob.glob(os.path.join(ROOT, "lessons", "*.json")):
+        for f in video_jsons():
             found[os.path.basename(f)[:-5]] = f
         todo = []
         for sid, p in posts.items():

@@ -1,0 +1,17 @@
+{
+  "id": "yt-rhino-oval-halo",
+  "number": 3,
+  "title": "Oval halo ring: Rhino to render in one click",
+  "hook": {
+    "text": "Oval halo ring: Rhino to render in one click"
+  },
+  "post": {
+    "youtube_title": "Oval halo ring: Rhino to render in one click",
+    "caption": "An oval halo engagement ring, rendered from Rhino with the free HeyGema plug-in: press HeyGema on the toolbar, pick the metal and render.\n\nInstall it in Rhino: type PackageManager, search heygema and click Install.\nHow it works: https://www.heygema.com/en/rhino?utm_source=youtube&utm_medium=shorts&utm_campaign=yt-rhino-oval-halo",
+    "hashtags": [
+      "#shorts",
+      "#rhino3d",
+      "#jewelryrendering"
+    ]
+  }
+}

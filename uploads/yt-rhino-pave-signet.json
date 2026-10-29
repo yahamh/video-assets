@@ -1,0 +1,17 @@
+{
+  "id": "yt-rhino-pave-signet",
+  "number": 5,
+  "title": "Pavé signet ring: Rhino to render in one click",
+  "hook": {
+    "text": "Pavé signet ring: Rhino to render in one click"
+  },
+  "post": {
+    "youtube_title": "Pavé signet ring: Rhino to render in one click",
+    "caption": "A pavé signet ring in white gold, rendered from Rhino with the free HeyGema plug-in: press HeyGema on the toolbar, pick the metal and render.\n\nInstall it in Rhino: type PackageManager, search heygema and click Install.\nHow it works: https://www.heygema.com/en/rhino?utm_source=youtube&utm_medium=shorts&utm_campaign=yt-rhino-pave-signet",
+    "hashtags": [
+      "#shorts",
+      "#rhino3d",
+      "#jewelryrendering"
+    ]
+  }
+}

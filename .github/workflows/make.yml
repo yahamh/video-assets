@@ -2,15 +2,15 @@ name: Make videos
 
 # Voices and renders every story in stories/ and every render lesson in lessons/ that has no video yet, and
 # publishes each one as a release named after it (the MP4 and the voiced JSON). Then scripts/post.py books every
-# finished video that isn't booked yet in Zernio (schedule.json: three stories a day, one lesson a day on YouTube),
-# and posts.json records it.
+# finished video that isn't booked yet in Zernio (schedule.json: three stories a day, one lesson a day on YouTube,
+# and the videos made elsewhere in uploads/ at their own times), and posts.json records it.
 # Runs when stories are added to the "stories" branch (this repo's main branch holds other videos and is left alone).
 # To make a story again (after a change to the voice or the look), put its id in remake.txt and push: the run
 # deletes that video, makes it again and empties remake.txt. Started by hand, "remake" does the same.
 on:
   push:
     branches: [stories]
-    paths: [stories/**, lessons/**, remake.txt, schedule.json, scripts/post.py]
+    paths: [stories/**, lessons/**, uploads/**, remake.txt, schedule.json, scripts/post.py]
   workflow_dispatch:
     inputs:
       remake:

@@ -1,0 +1,17 @@
+{
+  "id": "yt-rhino-plugin-how-to",
+  "number": 1,
+  "title": "Rhino plug-in how-to",
+  "hook": {
+    "text": "Render from Rhino in one click"
+  },
+  "post": {
+    "youtube_title": "Free Rhino Jewelry Rendering Plug-in: Render From Rhino in One Click",
+    "caption": "Rhino jewelry rendering without exporting a file. Press HeyGema on the Rhino toolbar and your piece opens at your viewport's angle, ready to render in the metal and stones you pick.\n\nInstall it in Rhino: type PackageManager, search heygema and click Install.\nOr download it here: https://www.heygema.com/en/rhino?utm_source=youtube&utm_medium=video&utm_campaign=yt-rhino-plugin-how-to\n\nChapters:\n0:00 Send the piece from Rhino\n0:29 Pick the metal and render\n0:43 Changed the model? Press Update\n1:03 Pick a stone in Rhino\n1:28 More pieces from Rhino\n1:55 What changes\n\nIn this video:\n- Press HeyGema and the piece opens in its own window, at the same angle as your Rhino viewport.\n- Pick the metal and click Render this view.\n- Changed the model? Edit or hide it in Rhino and press Update. Your metal, stones and angle stay.\n- Pick in Rhino: select the center stone in your viewport, then give it its own colour.\n\nThe plug-in is free for Rhino 7, 8 and 9, on Windows and Mac. Your .3dm stays on your computer; only pictures of the view you render are sent.\n\nSunburst necklace model: \"Necklace b\" by shah_max (sketchfab.com/shah_max), CC BY 4.0.",
+    "hashtags": [
+      "#rhino3d",
+      "#jewelrycad",
+      "#jewelryrendering"
+    ]
+  }
+}

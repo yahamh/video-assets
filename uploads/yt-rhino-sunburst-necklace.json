@@ -1,0 +1,17 @@
+{
+  "id": "yt-rhino-sunburst-necklace",
+  "number": 8,
+  "title": "Sunburst necklace: Rhino to render in one click",
+  "hook": {
+    "text": "Sunburst necklace: Rhino to render in one click"
+  },
+  "post": {
+    "youtube_title": "Sunburst necklace: Rhino to render in one click",
+    "caption": "A sunburst necklace, rendered from Rhino with the free HeyGema plug-in: press HeyGema on the toolbar, pick the metal and render.\n\nInstall it in Rhino: type PackageManager, search heygema and click Install.\nHow it works: https://www.heygema.com/en/rhino?utm_source=youtube&utm_medium=shorts&utm_campaign=yt-rhino-sunburst-necklace\n\nSunburst necklace model: \"Necklace b\" by shah_max (sketchfab.com/shah_max), CC BY 4.0.",
+    "hashtags": [
+      "#shorts",
+      "#rhino3d",
+      "#jewelryrendering"
+    ]
+  }
+}

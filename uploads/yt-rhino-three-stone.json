@@ -1,0 +1,17 @@
+{
+  "id": "yt-rhino-three-stone",
+  "number": 6,
+  "title": "Three-stone ring: Rhino to render in one click",
+  "hook": {
+    "text": "Three-stone ring: Rhino to render in one click"
+  },
+  "post": {
+    "youtube_title": "Three-stone ring: Rhino to render in one click",
+    "caption": "A three-stone ring with a sapphire center, rendered from Rhino with the free HeyGema plug-in: press HeyGema on the toolbar, pick the metal and render.\n\nInstall it in Rhino: type PackageManager, search heygema and click Install.\nHow it works: https://www.heygema.com/en/rhino?utm_source=youtube&utm_medium=shorts&utm_campaign=yt-rhino-three-stone",
+    "hashtags": [
+      "#shorts",
+      "#rhino3d",
+      "#jewelryrendering"
+    ]
+  }
+}
