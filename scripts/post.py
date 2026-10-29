@@ -1,6 +1,6 @@
 """Books every finished video through Zernio: the stories on Instagram, TikTok and YouTube, the render lessons on
-YouTube only, and the videos made elsewhere (uploads/: an "yt-" id, its .json and .mp4 side by side, schedule.json
-"series" -> "upload") on their series' platforms.
+YouTube only, and the videos made elsewhere (uploads/: an id starting "yt-" or "ft-", its .json and .mp4 side by
+side, schedule.json "series" -> "upload" or "feature") on their series' platforms.
 
 Runs at the end of every "Make videos" run. A video is finished when its release exists. Each finished
 video that isn't booked yet goes to the next free time of its series in schedule.json (UTC: "times" and
@@ -227,8 +227,13 @@ def payload(story, url, slot, accounts, intro=""):  # slot None: post right away
 UPLOADS = os.path.join(ROOT, "uploads")
 
 
+UPLOAD_SERIES = {"yt-": "upload", "ft-": "feature"}  # uploads/ id prefix -> its series in schedule.json
+
+
 def series_of(sid):
-    return "lesson" if sid.startswith("lesson-") else "upload" if sid.startswith("yt-") else "story"
+    if sid.startswith("lesson-"):
+        return "lesson"
+    return next((s for p, s in UPLOAD_SERIES.items() if sid.startswith(p)), "story")
 
 
 def video_jsons():
@@ -325,7 +330,7 @@ def main():
 
     made = set(subprocess.run(["gh", "release", "list", "--limit", "2000", "--json", "tagName", "--jq",
                                ".[].tagName"], check=True, capture_output=True, text=True).stdout.split())
-    made |= {os.path.basename(f)[:-4] for f in glob.glob(os.path.join(UPLOADS, "yt-*.mp4"))}  # made elsewhere
+    made |= {os.path.basename(f)[:-4] for f in glob.glob(os.path.join(UPLOADS, "*.mp4"))}  # made elsewhere
     stories = []
     for f in video_jsons():
         s = json.load(open(f))
@@ -335,7 +340,7 @@ def main():
     if not stories:
         print("Every finished video is booked.")
 
-    wanted = sorted({p for series in ("story", "lesson", "upload") for p in plan(sched, series)[1]})
+    wanted = sorted({p for series in ("story", "lesson", *UPLOAD_SERIES.values()) for p in plan(sched, series)[1]})
     every = z.accounts(wanted, sched.get("accounts", {})) if not args.dry_run \
         else {p: sched.get("accounts", {}).get(p) or "dry-run" for p in wanted}
     if not every:
