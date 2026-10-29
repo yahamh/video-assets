@@ -135,7 +135,9 @@ def main():
         t = json.loads(p.read_text()).get("topic", "").strip().lower()
         if t and t not in seen:
             seen[t] = p.stem
-    problems = [m for arg in sys.argv[1:] for m in check(Path(arg), seen)]
+    # no arguments: check every story and lesson, so a bare run never says "all good" about nothing
+    files = sys.argv[1:] or sorted(str(p) for p in [*(ROOT / "stories").glob("*.json"), *(ROOT / "lessons").glob("*.json")])
+    problems = [m for arg in files for m in check(Path(arg), seen)]
     print("\n".join(problems) or "all good")
     sys.exit(1 if problems else 0)
 
