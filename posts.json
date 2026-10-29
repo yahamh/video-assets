@@ -77,6 +77,15 @@
       "youtube"
     ]
   },
+  "007-third-imperial-egg": {
+    "at": "2026-10-29T23:00:00Z",
+    "zernio_id": "6ae34648d14c048b205ac457",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
   "lesson-001-gold-colors": {
     "at": "2026-10-28T20:13:08Z",
     "zernio_id": "6ae2574ced03408e835064b1",
@@ -113,6 +122,13 @@
   "lesson-004-ring-render-angles": {
     "at": "2026-10-29T16:00:00Z",
     "zernio_id": "6ae2ccee65b1818cdcd6f39b",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-005-metal-reflections": {
+    "at": "2026-10-30T16:00:00Z",
+    "zernio_id": "6ae3464f186f237297e1b561",
     "platforms": [
       "youtube"
     ]
