@@ -4,8 +4,8 @@ YouTube only.
 Runs at the end of every "Make videos" run. A video is finished when its release exists. Each finished
 video that isn't booked yet goes to the next free time of its series in schedule.json (UTC: "times" and
 "platforms" for the stories, "series" -> "lesson" for the lessons), after the last one of that series booked
-and at least 30 minutes from now, in number order. Zernio holds the post and publishes it at that time, so
-nothing has to run then. posts.json keeps what was booked: id -> at, zernio_id, platforms.
+and at least 30 minutes from now, in number order; they're booked soonest first, so if the plan's post limit stops
+a run, the posts due next went in. Zernio holds the post and publishes it at that time, so nothing has to run then. posts.json keeps what was booked: id -> at, zernio_id, platforms.
 
 Videos listed in schedule.json "now" post the moment they're made instead (one already booked for later comes off
 Zernio and posts right away).
@@ -287,23 +287,29 @@ def main():
     lasts = {}
     for sid, p in list(posts.items()) + [(sid, {"at": iso(t)}) for sid, t in keep_slot.items()]:
         lasts[series_of(sid)] = max(lasts.get(series_of(sid), now + LEAD), parse(p["at"]))
+    # Every video gets its time first (each series after its own last post), then they're booked soonest first, so
+    # when the plan's post limit cuts a run short, the posts that did go in are the next ones due across the series.
+    queue = []
+    for s in stories:
+        sid, series = s["id"], series_of(s["id"])
+        times, platforms = plan(sched, series)
+        accounts = {p: a for p, a in every.items() if p in platforms}
+        if not accounts:
+            print(f"::warning::{sid}: none of {', '.join(platforms)} is connected in Zernio; not booked")
+            continue
+        slot, right_away = keep_slot.get(sid), sid in sched.get("now", [])
+        if right_away:
+            slot = None
+        elif slot is None or slot <= now + LEAD:
+            slot = lasts[series] = next_slot(max(lasts.get(series, now + LEAD), now + LEAD), times)
+        queue.append((slot or now, s, series, slot, accounts))
+    queue.sort(key=lambda q: (q[0], q[1]["id"]))
     booked, failed = [], int(bool(bad))
     run = os.environ.get("GITHUB_RUN_ID") or int(now.timestamp())  # a retry in this run is the same post, a later run isn't
     with tempfile.TemporaryDirectory() as tmp:
-        for s in stories:
-            sid, series = s["id"], series_of(s["id"])
-            times, platforms = plan(sched, series)
-            accounts = {p: a for p, a in every.items() if p in platforms}
-            if not accounts:
-                print(f"::warning::{sid}: none of {', '.join(platforms)} is connected in Zernio; not booked")
-                continue
-            last = lasts.get(series, now + LEAD)
-            slot, right_away = keep_slot.get(sid), sid in sched.get("now", [])
-            if right_away:
-                slot = None
-            elif slot is None or slot <= now + LEAD:
-                slot = lasts[series] = next_slot(max(last, now + LEAD), times)
-            when = "now" if right_away else iso(slot)
+        for _, s, series, slot, accounts in queue:
+            sid = s["id"]
+            when = "now" if slot is None else iso(slot)
             if args.dry_run:
                 print(f"Would book {sid} for {when} on {', '.join(accounts)}")
                 continue
@@ -331,10 +337,9 @@ def main():
                 save(posts)
                 booked.append(sid)
                 print(f"Booked {sid} for {when} on {', '.join(accounts)} (Zernio post {zid})")
-            except Exception as e:  # one story failing mustn't stop the others; it's tried again next run
+            except Exception as e:  # one video failing mustn't stop the others; it's tried again next run
                 print(f"::error::{sid} wasn't booked: {e}")
                 failed = 1
-                lasts[series] = last  # its time goes to the next one
                 if " 403 " in str(e) or " 402 " in str(e):  # the plan's post limit: the rest would fail the same way
                     print("::error::Zernio refused the post (plan limit?); the rest wait for the next run")
                     break
