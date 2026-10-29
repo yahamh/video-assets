@@ -188,10 +188,23 @@ export const SceptreLp = (tr: Tr = {}): Obj[] => {
   return group(objs, tr);
 };
 
-// A brown paper parcel tied with string, 2.6 wide, sitting on y = 0.
-export const ParcelLp = (tr: Tr = {}): Obj[] => {
+// A brown paper parcel tied with string, 2.6 wide, sitting on y = 0. `open`: no string on top, the flaps folded back.
+export const ParcelLp = (tr: Tr = {}, open = false): Obj[] => {
   const paper: Mat = { color: "#9a7650", spec: 0.05 };
   const string: Mat = { color: "#efe2c4", spec: 0.05 };
+  if (open) {
+    const objs: Obj[] = [
+      { mesh: paint(box(2.6, 1.5, 1.8), (n) => (n[1] > 0.9 ? "#3a2a18" : undefined)), mat: paper, pos: [0, 0.75, 0] },
+      { mesh: box(0.07, 1.54, 1.84), mat: string, pos: [0.45, 0.75, 0] },
+    ];
+    // four flaps hinged on the top edges, folded out and back
+    const flap = (w: number, d: number): Obj["mesh"] => shape(box(w, 0.04, d), ([x, y, z]) => [x, y, z + d / 2]);
+    objs.push({ mesh: flap(2.6, 0.8), mat: paper, pos: [0, 1.5, 0.9], rot: [0.5, 0, 0] });
+    objs.push({ mesh: flap(2.6, 0.8), mat: paper, pos: [0, 1.5, -0.9], rot: [-0.9, Math.PI, 0] });
+    objs.push({ mesh: flap(1.8, 0.7), mat: { color: "#86643f", spec: 0.05 }, pos: [1.3, 1.5, 0], rot: [0, Math.PI / 2, 0.0] });
+    objs.push({ mesh: flap(1.8, 0.7), mat: { color: "#86643f", spec: 0.05 }, pos: [-1.3, 1.5, 0], rot: [0, -Math.PI / 2, 0.0] });
+    return group(objs, tr);
+  }
   const objs: Obj[] = [
     { mesh: box(2.6, 1.5, 1.8), mat: paper, pos: [0, 0.75, 0] },
     { mesh: box(2.64, 1.54, 0.07), mat: string, pos: [0.45, 0.75, 0] },

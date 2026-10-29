@@ -32,7 +32,8 @@ import { Compare } from "./scenes/Compare";
 import { Grid } from "./scenes/Grid";
 import { Steps } from "./scenes/Steps";
 import { Mix } from "./scenes/Mix";
-import { LpEnd, lowPolyScene } from "./lp/scenes";
+import { LpEnd } from "./lp/scenes";
+import { lowPolyScene } from "./lp/registry";
 
 export const SCENES: Record<string, React.FC<SceneProps>> = {
   parcel: Parcel,

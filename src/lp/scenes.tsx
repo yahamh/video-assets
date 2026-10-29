@@ -8,7 +8,7 @@ import { box, ground, lathe, prism } from "./mesh";
 
 // The story scenes in low poly (ali, 29 Oct 2026): the same scenes and options as src/scenes, drawn as flat-shaded 3D.
 
-const Frame: React.FC<{ children: React.ReactNode }> = ({ children }) => (
+export const Frame: React.FC<{ children: React.ReactNode }> = ({ children }) => (
   <svg width={1080} height={1920} viewBox="0 0 1080 1920">
     {children}
   </svg>
@@ -78,7 +78,7 @@ export const FacetGlow: React.FC<{ x: number; y: number; r: number; color?: stri
 };
 
 // Thin rays turning slowly behind the hero piece.
-const Rays: React.FC<{ x: number; y: number; t: number; color: string; k?: number }> = ({ x, y, t, color, k = 1 }) => (
+export const Rays: React.FC<{ x: number; y: number; t: number; color: string; k?: number }> = ({ x, y, t, color, k = 1 }) => (
   <g opacity={k}>
     {Array.from({ length: 16 }, (_, i) => {
       const a = ((i * 360) / 16 + t * 14) * (Math.PI / 180);
@@ -264,7 +264,7 @@ export const LpGift: React.FC<SceneProps> = ({ t, p }) => {
 type Member = LookLp & { expression?: string; react?: { at: number; expression: string }; look?: number };
 
 // The skyline of a town at night: blocks with pointed roofs and lit windows.
-const Skyline: React.FC<{ y: number; seed: number; t: number; x0?: number; x1?: number; roofs?: boolean; color?: string }> = ({ y, seed, t, x0 = 0, x1 = 1080, roofs = true, color = "#0b1020" }) => {
+export const Skyline: React.FC<{ y: number; seed: number; t: number; x0?: number; x1?: number; roofs?: boolean; color?: string; lights?: number }> = ({ y, seed, t, x0 = 0, x1 = 1080, roofs = true, color = "#0b1020", lights = 1 }) => {
   const out: React.ReactNode[] = [];
   let x = x0 - 20;
   let i = 0;
@@ -282,7 +282,7 @@ const Skyline: React.FC<{ y: number; seed: number; t: number; x0?: number; x1?: 
         const wx = x + w * (0.25 + q * 0.32);
         const wy = top + 40 + r * 70;
         if (wy + 40 > y) continue;
-        out.push(<rect key={`w${i}${r}${q}`} x={wx} y={wy} width={24} height={36} fill="#e9b95e" opacity={on ? 0.55 + 0.15 * Math.sin(t * 0.7 + i + r) : 0.08} />);
+        out.push(<rect key={`w${i}${r}${q}`} x={wx} y={wy} width={24} height={36} fill={on && lights > 0.5 ? "#e9b95e" : "#141b2d"} opacity={on && lights > 0.5 ? 0.55 + 0.15 * Math.sin(t * 0.7 + i + r) : 0.9} />);
       }
     x += w;
     i++;
@@ -290,14 +290,14 @@ const Skyline: React.FC<{ y: number; seed: number; t: number; x0?: number; x1?: 
   return <g>{out}</g>;
 };
 
-const shadeRgb = (c: string, k: number) => {
+export const shadeRgb = (c: string, k: number) => {
   const n = parseInt(c.replace("#", ""), 16);
   const ch = [(n >> 16) & 255, (n >> 8) & 255, n & 255].map((v) => Math.min(255, Math.round(v * k)));
   return `rgb(${ch.join(",")})`;
 };
 
 // Faceted stars: little diamonds that twinkle.
-const LpStars: React.FC<{ t: number; n?: number; top?: number; bottom?: number; x0?: number; x1?: number; seed?: number }> = ({ t, n = 30, top = 80, bottom = 700, x0 = 0, x1 = 1080, seed = 3 }) => (
+export const LpStars: React.FC<{ t: number; n?: number; top?: number; bottom?: number; x0?: number; x1?: number; seed?: number }> = ({ t, n = 30, top = 80, bottom = 700, x0 = 0, x1 = 1080, seed = 3 }) => (
   <g>
     {Array.from({ length: n }, (_, i) => {
       const x = x0 + rnd(i * 7 + seed) * (x1 - x0);
@@ -637,18 +637,4 @@ export const LpEnd: React.FC<SceneProps> = ({ t, p }) => {
       </text>
     </Frame>
   );
-};
-
-export const LP_SCENES: Record<string, React.FC<SceneProps>> = {
-  hook: LpHook,
-  gift: LpGift,
-  cast: LpCast,
-  title: LpTitle,
-  reveal: LpReveal,
-};
-
-// The low-poly scene for a line, or undefined where only the drawn one exists yet.
-export const lowPolyScene = (kind: string, p: Record<string, unknown>): React.FC<SceneProps> | undefined => {
-  if (kind === "hook" && (p.show === "parcel" || p.show === "sandwich")) return undefined;
-  return LP_SCENES[kind];
 };
