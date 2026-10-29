@@ -78,13 +78,19 @@
     ]
   },
   "007-third-imperial-egg": {
-    "at": "2026-10-29T23:00:00Z",
-    "zernio_id": "6ae34648d14c048b205ac457",
+    "at": "2026-10-29T13:35:09Z",
+    "zernio_id": "6ae34b870ac8d144eeb826ba",
     "platforms": [
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "partial",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfFIJjbiguF/",
+      "tiktok": "published",
+      "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+    }
   },
   "lesson-001-gold-colors": {
     "at": "2026-10-28T20:13:08Z",
@@ -127,10 +133,14 @@
     ]
   },
   "lesson-005-metal-reflections": {
-    "at": "2026-10-30T16:00:00Z",
-    "zernio_id": "6ae3464f186f237297e1b561",
+    "at": "2026-10-29T13:35:21Z",
+    "zernio_id": "6ae34b94bd97a2d9896b309f",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "failed",
+    "out": {
+      "youtube": "failed: YouTube upload failed: YouTube daily upload limit reached for this channel. Please try again tomorrow."
+    }
   }
 }
