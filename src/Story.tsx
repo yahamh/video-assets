@@ -32,6 +32,7 @@ import { Compare } from "./scenes/Compare";
 import { Grid } from "./scenes/Grid";
 import { Steps } from "./scenes/Steps";
 import { Mix } from "./scenes/Mix";
+import { LpEnd, lowPolyScene } from "./lp/scenes";
 
 export const SCENES: Record<string, React.FC<SceneProps>> = {
   parcel: Parcel,
@@ -59,9 +60,9 @@ const f = (s: number) => Math.round(s * FPS);
 const PUNCH_S = 0.3;
 
 // One scene. It cuts in hard with a quick zoom settle and a flash, then keeps pushing in slowly.
-const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: number; first: boolean; hook: boolean }> = ({ kind, p, len, first, hook }) => {
+const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: number; first: boolean; hook: boolean; lowPoly: boolean }> = ({ kind, p, len, first, hook, lowPoly }) => {
   const t = useCurrentFrame() / FPS;
-  const Scene = SCENES[kind];
+  const Scene = (lowPoly && lowPolyScene(kind, p)) || SCENES[kind];
   if (!Scene) throw new Error(`Unknown scene "${kind}"`);
   const settle = first ? 1 : easeOut(prog(t, 0, PUNCH_S));
   const scale = (1.14 - 0.14 * settle) * (1 + 0.06 * Math.min(1, t / Math.max(1, len)));
@@ -81,11 +82,12 @@ const CaptionSlot: React.FC<{ text: string; speak: number; len: number; words?: 
   return <Captions words={timeWords(text, speak, words)} t={t} end={len} />;
 };
 
-const SceneEnd: React.FC<{ p: Record<string, unknown> }> = ({ p }) => {
+const SceneEnd: React.FC<{ p: Record<string, unknown>; lowPoly: boolean }> = ({ p, lowPoly }) => {
   const t = useCurrentFrame() / FPS;
+  const Card = lowPoly ? LpEnd : End;
   return (
     <AbsoluteFill>
-      <End t={t} dur={2} p={p} />
+      <Card t={t} dur={2} p={p} />
       <AbsoluteFill style={{ background: "#fff6dd", opacity: interpolate(t, [0, 0.12], [0.5, 0], clamp) }} />
     </AbsoluteFill>
   );
@@ -101,6 +103,7 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   }, [fonts]);
 
   const { slots, endStart, total } = timeline(story);
+  const lowPoly = story.style === "lowpoly";
   const t = frame / FPS;
   const voiced = slots.some((s) => s.line.audio);
   const musicVolume = (fr: number) => interpolate(fr / FPS, [0, 0.3, total - 1.5, total], [0, 1, 1, 0], clamp) * (voiced ? 0.16 : 0.36);
@@ -121,11 +124,11 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
     <AbsoluteFill style={{ background: BG }}>
       {slots.map((s, i) => (
         <Sequence key={i} from={f(s.start)} durationInFrames={f(s.len)} layout="none">
-          <SceneSlot kind={s.line.scene.kind} p={s.line.scene} len={s.len} first={i === 0} hook={i === 0 && !!story.hook} />
+          <SceneSlot kind={s.line.scene.kind} p={s.line.scene} len={s.len} first={i === 0} hook={i === 0 && !!story.hook} lowPoly={lowPoly} />
         </Sequence>
       ))}
       <Sequence from={f(endStart)} layout="none">
-        <SceneEnd p={story.end ?? {}} />
+        <SceneEnd p={story.end ?? {}} lowPoly={lowPoly} />
       </Sequence>
       <Overlay frame={frame} />
       <Badge number={story.number} series={story.series} opacity={badge} />

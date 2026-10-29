@@ -21,6 +21,7 @@ export type Story = {
   series?: string; // "lesson" for the render lessons (lessons/), left out for the jewelry stories
   number: number;
   title: string;
+  style?: string; // "lowpoly" draws the scenes as flat-shaded 3D (src/lp, ali 29 Oct 2026); left out, the drawn look
   lines: Line[];
   music?: string;
   hook?: { text: string; gold?: string[] }; // big words on the first frame, shown while the first line is read
