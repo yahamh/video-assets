@@ -1,10 +1,10 @@
 import React from "react";
 import { BG, DISPLAY, GOLD, GOLD_LIGHT, eased, popped } from "../look";
-import { CutGem, RoughDiamond, Sparkle, Spotlight } from "../art";
+import { CutGem, Egg, RoughDiamond, Sparkle, Spotlight } from "../art";
 import { SceneProps, str } from "./types";
 
 // A royal gift: dark curtains with gold trim, one light, a velvet cushion, the stone, and a handwritten tag.
-// Options: to (first tag line), date (second tag line), stone ("rough" or a cut shape such as "pear"), tone.
+// Options: to (first tag line), date (second tag line), stone ("rough", "egg" or a cut shape such as "pear"), tone.
 export const Gift: React.FC<SceneProps> = ({ t, p }) => {
   const to = str(p.to, "For the King");
   const date = str(p.date, "");
@@ -48,7 +48,13 @@ export const Gift: React.FC<SceneProps> = ({ t, p }) => {
           ))}
         </g>
         <g transform={`translate(0 ${-rise * 40})`}>
-          {stone === "rough" ? <RoughDiamond x={540} y={1100} size={300} turn={Math.sin(t * 1.2)} /> : <CutGem x={540} y={1100} size={240} shape={stone} tone={tone} />}
+          {stone === "rough" ? (
+            <RoughDiamond x={540} y={1100} size={300} turn={Math.sin(t * 1.2)} />
+          ) : stone === "egg" ? (
+            <Egg x={540} y={1010} h={270} turn={t * 0.5} />
+          ) : (
+            <CutGem x={540} y={1100} size={240} shape={stone} tone={tone} />
+          )}
         </g>
         <Sparkle x={470} y={1010} r={38} k={0.5 + 0.5 * Math.sin(t * 3.6)} />
         <Sparkle x={625} y={1110} r={28} k={0.5 + 0.5 * Math.sin(t * 2.9 + 2)} />

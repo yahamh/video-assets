@@ -1,0 +1,181 @@
+{
+  "id": "007-third-imperial-egg",
+  "number": 7,
+  "title": "The egg that was nearly scrap",
+  "topic": "third imperial easter egg",
+  "music": "music-007.wav",
+  "hook": {
+    "text": "This egg was nearly scrap gold.",
+    "gold": [
+      "scrap"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This egg was nearly scrap gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "egg"
+      }
+    },
+    {
+      "text": "In 1887 Alexander III gave it to his wife for Easter.",
+      "say": "In eighteen eighty-seven, Alexander the Third gave it to his wife for Easter.",
+      "scene": {
+        "kind": "gift",
+        "stone": "egg",
+        "to": "For Maria",
+        "date": "Easter 1887"
+      }
+    },
+    {
+      "text": "Fabergé's gold egg opened to show a lady's watch inside.",
+      "say": "Fabber-zhay's gold egg opened to show a lady's watch inside.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Fabergé workshop",
+        "role": "St Petersburg, 1887",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#4a3a2c",
+            "facial": "beard",
+            "skin": "#e6bb96",
+            "glasses": "loupe",
+            "prop": "magnifier",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "By 1964 it was sold in New York as a gold watch,",
+      "say": "By nineteen sixty-four it was sold in New York as a gold watch,",
+      "scene": {
+        "kind": "title",
+        "text": "New York",
+        "sub": "1964"
+      }
+    },
+    {
+      "text": "for $2,450, with no word that it had belonged to the tsars.",
+      "say": "for two thousand four hundred fifty dollars, with no word that it had belonged to the tsars.",
+      "scene": {
+        "kind": "title",
+        "text": "$2,450",
+        "sub": "Sold as a gold watch"
+      }
+    },
+    {
+      "text": "Later a Midwest scrap dealer paid $14,000 for its gold.",
+      "say": "Later a Midwest scrap dealer paid fourteen thousand dollars for its gold.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A scrap dealer",
+        "role": "The American Midwest",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3b3f48",
+            "hat": "cap",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#e6bb96",
+            "prop": "none",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He was told the gold was worth less than he'd paid.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A scrap dealer",
+        "role": "The American Midwest",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3b3f48",
+            "hat": "cap",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#e6bb96",
+            "expression": "worried"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 2012 he read an article online about a missing Fabergé egg.",
+      "say": "In twenty twelve he read an article online about a missing Fabber-zhay egg.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The dealer",
+        "role": "2012",
+        "gasp": 0.6,
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3b3f48",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#e6bb96",
+            "prop": "letter",
+            "expression": "surprised"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A London expert confirmed it was the tsar's lost egg.",
+      "scene": {
+        "kind": "reveal",
+        "item": "egg",
+        "openAt": 0.1,
+        "stamp": "Real",
+        "stampAt": 1.0,
+        "label": "London, 2012"
+      }
+    },
+    {
+      "text": "Seven of the tsars' 50 Fabergé eggs are still missing.",
+      "say": "Seven of the tsars' fifty Fabber-zhay eggs are still missing.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.15,
+        "stamp": "Missing",
+        "stampAt": 1.0,
+        "label": "Seven eggs"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A gold Easter egg the tsar gave his wife in 1887 went missing after the Russian Revolution. Decades later a scrap dealer in the American Midwest bought it for its gold.",
+    "hashtags": [
+      "#faberge",
+      "#fabergeegg",
+      "#lostandfound",
+      "#romanov",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.wartski.com/the-third-imperial-easter-egg/",
+    "https://www.fabergeresearch.com/eggs-faberge-imperial-egg-chronology/",
+    "https://www.cbsnews.com/news/scrap-dealer-finds-faberge-egg-at-midwest-flea-market/",
+    "https://www.britannica.com/art/Faberge-egg",
+    "https://www.themagazineantiques.com/article/faberge-imperial-easter-egg-found/",
+    "https://www.fabergeresearch.com/newsletter-2014-summer/"
+  ]
+}

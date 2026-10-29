@@ -1,0 +1,170 @@
+{
+  "id": "lesson-005-metal-reflections",
+  "series": "lesson",
+  "number": 5,
+  "title": "Why polished metal looks the way it does in a render",
+  "topic": "metal reflections",
+  "music": "music-lesson-005.wav",
+  "hook": {
+    "text": "Polished gold is a mirror.",
+    "gold": [
+      "mirror"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Polished gold is a mirror.",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-yellow-input.webp",
+        "after": "ring-1d-yellow-render.webp"
+      }
+    },
+    {
+      "text": "Its shine is a reflection of whatever is around it,",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-render.webp",
+        "focus": {
+          "x": 0.45,
+          "y": 0.4,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "so in a jewelry render, the lighting decides how metal looks.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-yellow-render.webp",
+        "label": "Lighting"
+      }
+    },
+    {
+      "text": "Lit by small lamps alone, it looks almost black, like shiny plastic.",
+      "scene": {
+        "kind": "title",
+        "text": "Almost black",
+        "sub": "Small lamps only"
+      }
+    },
+    {
+      "text": "In even white light all around, it looks matte instead.",
+      "scene": {
+        "kind": "title",
+        "text": "Matte",
+        "sub": "Even light all around"
+      }
+    },
+    {
+      "text": "Photographers fix this with soft gradients and black and white cards,",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-render.webp",
+        "label": "Gradients",
+        "focus": {
+          "x": 0.4,
+          "y": 0.45,
+          "k": 1.3
+        }
+      }
+    },
+    {
+      "text": "so the metal reflects both light and dark, which shows its shape.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-yellow-render.webp",
+        "marks": [
+          {
+            "x": 0.31,
+            "y": 0.45,
+            "text": "Dark",
+            "at": 0.5
+          },
+          {
+            "x": 0.45,
+            "y": 0.56,
+            "text": "Light",
+            "at": 1.2
+          }
+        ]
+      }
+    },
+    {
+      "text": "Render software does the same with an environment around the piece.",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-input.webp",
+        "after": "ring-1d-render.webp"
+      }
+    },
+    {
+      "text": "Metal also tints every reflection with its own color.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "ring-1d-render.webp",
+          "ring-1d-yellow-render.webp"
+        ],
+        "labels": [
+          "White gold",
+          "Yellow gold"
+        ]
+      }
+    },
+    {
+      "text": "Gold reflects most red light, but only about a third of blue.",
+      "say": "Gold reflects most red light, but only about a third of blue.",
+      "scene": {
+        "kind": "title",
+        "text": "1/3",
+        "sub": "Of blue light reflected"
+      }
+    },
+    {
+      "text": "That missing blue is why gold looks yellow,",
+      "scene": {
+        "kind": "photo",
+        "src": "render-matthew-yellow.webp",
+        "label": "Yellow gold"
+      }
+    },
+    {
+      "text": "and the render shows it before the ring is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-yellow-input.webp",
+        "after": "ring-1d-yellow-render.webp"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render lighting: why gold looks flat",
+    "caption": "Polished metal works like a mirror, so the light around it decides how it looks in a photo or a jewelry render. Small lamps alone make it look almost black, even light all around makes it look matte, and light and dark reflections show its shape. Gold looks yellow because it reflects most red light but only about a third of the blue. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#jewelryrendering",
+      "#goldjewelry",
+      "#jewelryphotography",
+      "#3drendering",
+      "#cadjewelry"
+    ]
+  },
+  "sources": [
+    "https://petapixel.com/how-to-create-gradients-of-light-product-photography/",
+    "https://www.wku.edu/psychological-sciences/labs/vision_and_haptics/downloads/todd_norman2018.pdf",
+    "https://snapshot.asia.canon/en/article/challenges-in-photographing-jewelleries",
+    "https://visualeducation.com/class/shooting-shiny-chrome-objects/comment-page-1/",
+    "https://docs.blender.org/manual/en/3.4/render/shader_nodes/shader/principled.html",
+    "https://manual.keyshot.com/?p=3642",
+    "https://keyshot.com/blog/adding-light-reflections-in-keyshot",
+    "https://threejs.org/docs/pages/MeshStandardMaterial.html",
+    "https://en.wikipedia.org/wiki/Relativistic_quantum_chemistry",
+    "https://link.springer.com/article/10.1007/s13404-013-0124-7",
+    "https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/asm/metal-material-references",
+    "https://dev.epicgames.com/documentation/en-us/unreal-engine/physically-based-materials-in-unreal-engine"
+  ]
+}

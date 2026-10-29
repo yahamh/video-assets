@@ -1,0 +1,163 @@
+{
+  "id": "005-hope-diamond",
+  "number": 5,
+  "title": "The diamond that glows red",
+  "topic": "hope diamond",
+  "music": "music-005.wav",
+  "hook": {
+    "text": "This blue diamond glows red.",
+    "gold": [
+      "red"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This blue diamond glows red.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#1d3c8f",
+        "halo": "#ff5a24"
+      }
+    },
+    {
+      "text": "It's the Hope Diamond, a deep blue stone of 45.52 carats.",
+      "say": "It's the Hope Diamond, a deep blue stone of forty-five point five two carats.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "cushion",
+        "tone": "#1d3c8f",
+        "metal": "white",
+        "label": "45.52 carats"
+      }
+    },
+    {
+      "text": "Shine short-wave ultraviolet light on it, then turn the lamp off,",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#1d3c8f",
+        "openAt": 0.1,
+        "light": "#9b6bff",
+        "label": "Short-wave UV"
+      }
+    },
+    {
+      "text": "and it keeps glowing red-orange for up to about a minute.",
+      "say": "and it keeps glowing red orange for up to about a minute.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#1d3c8f",
+        "openAt": 0,
+        "dark": true,
+        "halo": "#ff5a24",
+        "label": "Lamp off"
+      }
+    },
+    {
+      "text": "Boron makes it blue, and boron with nitrogen makes it glow.",
+      "scene": {
+        "kind": "title",
+        "text": "Boron",
+        "sub": "The blue and the glow"
+      }
+    },
+    {
+      "text": "In 2008 scientists found that each blue diamond glows a little differently,",
+      "say": "In two thousand eight scientists found that each blue diamond glows a little differently,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Smithsonian scientists",
+        "role": "Washington, 2008",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2b2f3a",
+            "hair": "side",
+            "hairColor": "#5a4a3a",
+            "skin": "#e8bf9c",
+            "prop": "magnifier",
+            "expression": "focused",
+            "look": 1
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#3a2f4a",
+            "hair": "bob",
+            "hairColor": "#2a1d16",
+            "skin": "#c98e6a",
+            "expression": "surprised",
+            "look": -1
+          }
+        ]
+      }
+    },
+    {
+      "text": "like a fingerprint that tells natural stones from lab-made ones.",
+      "scene": {
+        "kind": "title",
+        "text": "A fingerprint",
+        "sub": "Every blue diamond"
+      }
+    },
+    {
+      "text": "It was cut from a bigger diamond stolen from the French crown.",
+      "scene": {
+        "kind": "stranger",
+        "count": 2,
+        "hat": "top",
+        "label": "Paris, 1792"
+      }
+    },
+    {
+      "text": "In 1958 Harry Winston gave it to the Smithsonian by registered mail.",
+      "say": "In nineteen fifty-eight Harry Winston gave it to the Smithsonian by registered mail.",
+      "scene": {
+        "kind": "parcel",
+        "label": "Washington",
+        "stamp": "Registered",
+        "stampAt": 1.4
+      }
+    },
+    {
+      "text": "The postage cost $2.44, plus insurance for a million dollars.",
+      "say": "The postage cost two dollars and forty-four cents, plus insurance for a million dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$2.44",
+        "sub": "The postage"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Hope Diamond keeps glowing red-orange for up to about a minute after short-wave ultraviolet light. It came to the Smithsonian in 1958 by registered mail, for $2.44 in postage.",
+    "hashtags": [
+      "#hopediamond",
+      "#bluediamond",
+      "#smithsonian",
+      "#diamonds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://origin.prod.gia.edu/dam/jcr:d822511f-ab14-439b-8c1e-86af4f45e060/Grading-the-Hope-Diamond.pdf",
+    "https://dashboard.si.edu/es/newsdesk/releases/new-research-smithsonians-national-museum-natural-history-reveals-insight-hope-diamonds-fie",
+    "https://www.psu.edu/news/research/story/hope-diamonds-phosphorescence-key-fingerprinting",
+    "https://www.nbcnews.com/id/wbna22544872",
+    "https://about.usps.com/who/profile/history/pdf/hope-diamond.pdf",
+    "https://si.edu/newsdesk/snapshot/hope-diamond-mail-wrapper",
+    "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2025/06/03/how-the-king-of-diamonds-gave-the-national-museum-of-natural-history-its-crown-jewel/",
+    "https://music.si.edu/spotlight/hope-diamond/history",
+    "https://www.britannica.com/topic/Hope-Diamond"
+  ]
+}

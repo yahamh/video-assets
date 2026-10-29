@@ -323,3 +323,104 @@ export const Silhouette: React.FC<{ x: number; y: number; h: number; hat?: strin
     </g>
   );
 };
+
+// A ribbed gold egg on a three-legged stand (a Fabergé-style Easter egg), `h` the egg's height, centred on x, y.
+// A band round its middle carries small blue and white stones.
+export const Egg: React.FC<{ x: number; y: number; h: number; turn?: number }> = ({ x, y, h, turn = 0 }) => {
+  const id = `egg${Math.round(x)}${Math.round(y)}${Math.round(h)}`;
+  const w = h * 0.74;
+  const top = y - h / 2;
+  const bottom = y + h / 2;
+  // wider below the middle, like an egg
+  const d = `M${x} ${top} C${x + w * 0.42} ${top} ${x + w * 0.56} ${y + h * 0.12} ${x + w * 0.5} ${y + h * 0.26}
+    C${x + w * 0.44} ${bottom - h * 0.02} ${x + w * 0.2} ${bottom} ${x} ${bottom}
+    C${x - w * 0.2} ${bottom} ${x - w * 0.44} ${bottom - h * 0.02} ${x - w * 0.5} ${y + h * 0.26}
+    C${x - w * 0.56} ${y + h * 0.12} ${x - w * 0.42} ${top} ${x} ${top}Z`;
+  const ribs = [];
+  for (let i = 0; i < 9; i++) {
+    const a = ((i + 0.5) / 9) * Math.PI + turn * 0.3;
+    const rx = Math.abs(Math.cos(a)) * w * 0.5;
+    ribs.push(<ellipse key={i} cx={x} cy={y + h * 0.04} rx={rx} ry={h * 0.52} fill="none" stroke="#7a5518" strokeOpacity={0.55} strokeWidth={Math.max(1.5, h / 140)} />);
+  }
+  const band = y + h * 0.06;
+  const stones = [];
+  for (let i = -3; i <= 3; i++) {
+    const u = i / 3.6;
+    stones.push(<circle key={i} cx={x + u * w * 0.5} cy={band + Math.abs(u) * -h * 0.01} r={h * (i % 2 ? 0.022 : 0.03)} fill={i % 2 ? "#f4f8fb" : "#2546a8"} stroke="#5b3f12" strokeWidth={1.5} />);
+  }
+  const legY = bottom - h * 0.02;
+  return (
+    <g>
+      <defs>
+        <radialGradient id={`${id}g`} cx="0.36" cy="0.32" r="0.8">
+          <stop offset="0" stopColor="#fff3c4" />
+          <stop offset="0.35" stopColor="#efc764" />
+          <stop offset="0.8" stopColor="#a87b2c" />
+          <stop offset="1" stopColor="#6e4c16" />
+        </radialGradient>
+        <clipPath id={`${id}c`}>
+          <path d={d} />
+        </clipPath>
+      </defs>
+      {/* the stand: a collar under the egg and three curved legs on round feet */}
+      {[-1, 0, 1].map((k) => (
+        <g key={k}>
+          <path d={`M${x + k * w * 0.12} ${legY} Q${x + k * w * 0.44} ${legY + h * 0.12} ${x + k * w * 0.4} ${legY + h * 0.26}`} fill="none" stroke="#c99a3e" strokeWidth={h * 0.06} strokeLinecap="round" />
+          <ellipse cx={x + k * w * 0.4} cy={legY + h * 0.28} rx={h * 0.06} ry={h * 0.04} fill="#e2b85a" stroke="#6e4c16" strokeWidth={2} />
+        </g>
+      ))}
+      <ellipse cx={x} cy={legY} rx={w * 0.2} ry={h * 0.04} fill="#d8ad4f" stroke="#6e4c16" strokeWidth={2} />
+      <path d={d} fill={`url(#${id}g)`} stroke="#5b3f12" strokeWidth={Math.max(2, h / 90)} />
+      <g clipPath={`url(#${id}c)`}>
+        {ribs}
+        <rect x={x - w} y={band - h * 0.035} width={w * 2} height={h * 0.07} fill="#d9b14f" stroke="#6e4c16" strokeWidth={2} />
+        {stones}
+      </g>
+      <ellipse cx={x - w * 0.18} cy={top + h * 0.22} rx={w * 0.08} ry={h * 0.12} fill="#ffffff" opacity={0.45} transform={`rotate(-18 ${x - w * 0.18} ${top + h * 0.22})`} />
+    </g>
+  );
+};
+
+// A sandwich from the side with a bite out of its right end: bread, lettuce, salami, `w` its width.
+export const Sandwich: React.FC<{ x: number; y: number; w: number }> = ({ x, y, w }) => {
+  const id = `sw${Math.round(x)}${Math.round(y)}${Math.round(w)}`;
+  const h = w * 0.42;
+  const l = x - w / 2;
+  const top = y - h / 2;
+  const bites = [
+    [x + w * 0.5, y - h * 0.08, h * 0.34],
+    [x + w * 0.44, y + h * 0.22, h * 0.26],
+  ];
+  return (
+    <g>
+      <defs>
+        <mask id={id}>
+          <rect x={l - 20} y={top - 40} width={w + 40} height={h + 80} fill="#fff" />
+          {bites.map(([cx, cy, r], i) => (
+            <circle key={i} cx={cx} cy={cy} r={r} fill="#000" />
+          ))}
+        </mask>
+      </defs>
+      <ellipse cx={x} cy={y + h * 0.62} rx={w * 0.55} ry={h * 0.12} fill="#000" opacity={0.35} />
+      <g mask={`url(#${id})`}>
+        {/* bottom slice */}
+        <rect x={l} y={y + h * 0.2} width={w} height={h * 0.3} rx={h * 0.1} fill="#d9a35b" stroke="#6b4220" strokeWidth={4} />
+        <rect x={l + 8} y={y + h * 0.24} width={w - 16} height={h * 0.08} rx={6} fill="#f2d39a" />
+        {/* salami */}
+        {[0.1, 0.32, 0.54, 0.76].map((u, i) => (
+          <ellipse key={i} cx={l + w * (u + 0.06)} cy={y + h * 0.12} rx={w * 0.13} ry={h * 0.09} fill="#b23a3a" stroke="#6e1f1f" strokeWidth={3} />
+        ))}
+        {/* lettuce */}
+        <path
+          d={`M${l - 10} ${y + h * 0.02} ${Array.from({ length: 12 }, (_, i) => `Q${l + (w * (i + 0.5)) / 12} ${y + (i % 2 ? h * 0.12 : -h * 0.08)} ${l + (w * (i + 1)) / 12} ${y + h * 0.02}`).join(" ")} L${l + w + 10} ${y + h * 0.1} L${l - 10} ${y + h * 0.1}Z`}
+          fill="#6fae3e"
+          stroke="#3b6b1f"
+          strokeWidth={3}
+        />
+        {/* top slice */}
+        <path d={`M${l} ${y} V${top + h * 0.3} Q${l} ${top} ${l + w * 0.2} ${top} H${l + w * 0.8} Q${l + w} ${top} ${l + w} ${top + h * 0.3} V${y}Z`} fill="#d9a35b" stroke="#6b4220" strokeWidth={4} />
+        <path d={`M${l + 14} ${y - h * 0.05} V${top + h * 0.32} Q${l + 14} ${top + 12} ${l + w * 0.2} ${top + 12} H${l + w * 0.8}`} fill="none" stroke="#f2d39a" strokeWidth={6} opacity={0.6} />
+      </g>
+    </g>
+  );
+};

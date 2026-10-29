@@ -102,14 +102,14 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 
 | kind | what it shows |
 | --- | --- |
-| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl) |
+| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl, a gold Easter egg, a half-eaten sandwich; `halo` for a stone that glows) |
 | cast | 1 to 3 people of the story in a setting (mine, ship, palace, workshop, street, study, vault, plain), with a name card. Looks in `src/people/Person.tsx` (`mask: true` covers nose and mouth) |
 | parcel | a plain parcel under a light; a stamp can slam on |
 | mine | an open mine at night, the rough stone, a carat count |
 | ship | a steamship at night with guards around a chest |
-| reveal | a chest opens on a rough stone, a gem, a pearl, a fake or nothing |
+| reveal | a chest opens on a rough stone, a gem, a pearl, an egg, a fake or nothing; `light` colors the lamp, `dark` turns it off, `halo` makes the item glow |
 | journey | a route drawn across a chart, with a parcel, ship, train or plane |
-| gift | a royal gift on a cushion with a handwritten tag |
+| gift | a royal gift (a stone or an egg) on a cushion with a handwritten tag |
 | cut | a cutter's bench: the blade waits, snaps, strikes, or the cut stones in a row (each can have a `tone`) |
 | crown | a crown and sceptre with labels |
 | jewel | one piece close up: ring, necklace, earrings, brooch, tiara; a necklace can hang a pearl (`drop: "pearl"`) |

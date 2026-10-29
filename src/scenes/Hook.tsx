@@ -1,17 +1,20 @@
 import React from "react";
 import { BG, DISPLAY, GOLD, GOLD_LIGHT, RED } from "../look";
-import { CutGem, PearPearl, RoughDiamond, Sparkle, Spotlight } from "../art";
+import { CutGem, Egg, PearPearl, RoughDiamond, Sandwich, Sparkle, Spotlight } from "../art";
 import { SceneProps, num, str } from "./types";
 
 // The opening shot: the payoff of the story, big, already moving on the very first frame, so the video stops the scroll
 // before a word is heard. The story's hook text sits above it (see HookText in Frame.tsx).
 // Options: show ("parcel": an open parcel with the stone rising out of it, "rough", "gem", "pearl" (a pear-shaped pearl),
-// "chest"), shape and tone (for gem; tone for pearl), label (address on the parcel), stamp (red word on the parcel or chest).
+// "egg" (a ribbed gold Easter egg on a stand), "sandwich" (half eaten), "chest"), shape and tone (for gem; tone for pearl), label (address on the
+// parcel), stamp (red word on the parcel or chest), halo (a colour for the light around the stone instead of gold,
+// for a stone that glows, like "#ff6a2a").
 export const Hook: React.FC<SceneProps> = ({ t, p }) => {
   const show = str(p.show, "rough");
   const shape = str(p.shape, "cushion");
   const tone = str(p.tone, "#e9f1f6");
   const label = str(p.label, "London");
+  const halo = str(p.halo, "");
   const stamp = str(p.stamp, "");
   const size = num(p.size, show === "parcel" || show === "chest" ? 470 : 600);
   const bob = Math.sin(t * 2.2) * 10;
@@ -26,14 +29,18 @@ export const Hook: React.FC<SceneProps> = ({ t, p }) => {
       <polygon
         key={i}
         points={`540,${cy} ${540 + Math.cos(a - 0.05) * len},${cy + Math.sin(a - 0.05) * len} ${540 + Math.cos(a + 0.05) * len},${cy + Math.sin(a + 0.05) * len}`}
-        fill={GOLD_LIGHT}
-        opacity={(i % 2 ? 0.07 : 0.12) * pulse}
+        fill={halo || GOLD_LIGHT}
+        opacity={(i % 2 ? 0.07 : 0.12) * pulse * (halo ? 1.6 : 1)}
       />,
     );
   }
   const stone =
     show === "gem" ? (
       <CutGem x={540} y={cy + bob} size={size} shape={shape} tone={tone} />
+    ) : show === "sandwich" ? (
+      <Sandwich x={540} y={cy + bob * 0.4} w={size * 1.1} />
+    ) : show === "egg" ? (
+      <Egg x={540} y={cy - size * 0.12 + bob * 0.5} h={size * 0.8} turn={t} />
     ) : show === "pearl" ? (
       <g transform={`rotate(${turn * 4} 540 ${cy - size * 0.55})`}>
         <line x1={540} y1={cy - size * 1.1} x2={540} y2={cy - size * 0.5} stroke={GOLD} strokeWidth={6} />
@@ -48,9 +55,9 @@ export const Hook: React.FC<SceneProps> = ({ t, p }) => {
     <svg width={1080} height={1920} viewBox="0 0 1080 1920">
       <defs>
         <radialGradient id="hkGlow" cx="0.5" cy="0.5" r="0.5">
-          <stop offset="0" stopColor="#fff3cf" stopOpacity={0.95} />
-          <stop offset="0.45" stopColor={GOLD} stopOpacity={0.35} />
-          <stop offset="1" stopColor={GOLD} stopOpacity={0} />
+          <stop offset="0" stopColor={halo || "#fff3cf"} stopOpacity={0.95} />
+          <stop offset="0.45" stopColor={halo || GOLD} stopOpacity={halo ? 0.55 : 0.35} />
+          <stop offset="1" stopColor={halo || GOLD} stopOpacity={0} />
         </radialGradient>
       </defs>
       <rect width={1080} height={1920} fill={BG} />

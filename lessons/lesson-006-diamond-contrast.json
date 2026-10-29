@@ -1,0 +1,186 @@
+{
+  "id": "lesson-006-diamond-contrast",
+  "series": "lesson",
+  "number": 6,
+  "title": "Why a diamond needs dark facets",
+  "topic": "diamond contrast",
+  "music": "music-lesson-006.wav",
+  "hook": {
+    "text": "A diamond needs dark to sparkle.",
+    "gold": [
+      "dark"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond needs dark to sparkle.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.49,
+          "y": 0.26,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "Gem labs judge its look by three things, starting with brightness.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Brightness",
+          "Fire",
+          "Scintillation"
+        ],
+        "active": 0,
+        "label": "How labs judge the look"
+      }
+    },
+    {
+      "text": "Fire is white light split into rainbow colors.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Brightness",
+          "Fire",
+          "Scintillation"
+        ],
+        "active": 1,
+        "label": "How labs judge the look"
+      }
+    },
+    {
+      "text": "Scintillation is the sparkle, with its pattern of light and dark.",
+      "say": "Sin-tih-lay-shun is the sparkle, with its pattern of light and dark.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "Scintillation",
+        "marks": [
+          {
+            "x": 0.46,
+            "y": 0.21,
+            "text": "Dark",
+            "at": 0.5
+          },
+          {
+            "x": 0.47,
+            "y": 0.31,
+            "text": "Bright",
+            "at": 1.1
+          }
+        ]
+      }
+    },
+    {
+      "text": "The dark parts are often reflections of your own head.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Your reflection",
+        "role": "The dark in a diamond",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#e2b08a",
+            "glasses": "loupe",
+            "prop": "gem",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "GIA and AGS both count that contrast when they judge a cut.",
+      "say": "G I A and A G S both count that contrast when they judge a cut.",
+      "scene": {
+        "kind": "title",
+        "text": "Contrast",
+        "sub": "Counted by GIA and AGS"
+      }
+    },
+    {
+      "text": "A jewelry render needs bright highlights and darker areas around the stone,",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "label": "Dark and bright",
+        "focus": {
+          "x": 0.49,
+          "y": 0.48,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "or the diamond turns white and plain instead of sparkly.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "shape": "round",
+        "tone": "#eef2f5",
+        "openAt": 0.1,
+        "label": "Even light only"
+      }
+    },
+    {
+      "text": "Photographers add small black cards outside the frame for the same reason.",
+      "scene": {
+        "kind": "title",
+        "text": "Black cards",
+        "sub": "Just out of frame"
+      }
+    },
+    {
+      "text": "Without dark contrast, a diamond loses its sparkle and looks flat.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "focus": {
+          "x": 0.45,
+          "y": 0.35,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "This render gives every stone, even the smallest, dark and bright facets.",
+      "scene": {
+        "kind": "compare",
+        "before": "bridal-cad.webp",
+        "after": "bridal-render.webp"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry rendering: why diamonds need dark facets",
+    "caption": "Gem labs judge a diamond's look by brightness, fire and scintillation, and GIA and AGS both count the contrast between its light and dark areas. In a jewelry render the stone needs bright highlights and darker areas around it, or it turns white and plain. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#jewelryrendering",
+      "#diamonds",
+      "#diamondcut",
+      "#3drendering",
+      "#engagementring"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/diamond-cut/",
+    "https://members.americangemsociety.org/page/performancebasedcut",
+    "https://www.gia.edu/articles/light-affect-diamond-appearance",
+    "https://gia.edu/gems-gemology/fall-2004-grading-cut-quality-brilliant-diamond-moses",
+    "https://docs.ijewel3d.com/playground/faq-materials.html",
+    "https://lighttracer.org/blog/tutorial-jewelry-rendering/",
+    "https://www.artivoxa.com/cgi-jewelry-rendering/",
+    "https://www.wearview.co/blog/how-to-photograph-jewelry",
+    "https://www.photigy.com/school/forums/topic/techniques-for-lighting-to-catch-diamond-sparkles-in-product-videos/",
+    "https://rapaport.com/magazine-article/photographing-a-diamond-how-to-bring-out-the-bling/"
+  ]
+}

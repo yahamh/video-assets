@@ -1,0 +1,145 @@
+{
+  "id": "lesson-004-ring-render-angles",
+  "series": "lesson",
+  "number": 4,
+  "title": "The 5 angles of a jewelry render",
+  "topic": "ring photo angles",
+  "music": "music-lesson-004.wav",
+  "hook": {
+    "text": "High settings leave room for wedding bands.",
+    "gold": [
+      "room"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "High settings leave room for wedding bands.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-side.webp"
+      }
+    },
+    {
+      "text": "Photo guides name five angles, and a jewelry render can show each.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "mix585-render-front.webp",
+          "mix585-render-top.webp",
+          "mix585-render-three-quarter.webp",
+          "mix585-render-back.webp"
+        ]
+      }
+    },
+    {
+      "text": "The front view, straight on, is usually the main photo.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-front.webp",
+        "label": "Front"
+      }
+    },
+    {
+      "text": "The side shows the band's height and the setting's profile.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-side.webp",
+        "label": "Side"
+      }
+    },
+    {
+      "text": "The top shows the stone and how the small stones sit.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "label": "Top"
+      }
+    },
+    {
+      "text": "A three-quarter view adds depth, so you see height and structure.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "label": "Three-quarter"
+      }
+    },
+    {
+      "text": "The back view shows the setting from behind.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-back.webp",
+        "label": "Back"
+      }
+    },
+    {
+      "text": "Etsy lets a listing hold 20 photos and suggests several angles.",
+      "say": "Etsy lets a listing hold twenty photos and suggests several angles.",
+      "scene": {
+        "kind": "title",
+        "text": "20 photos",
+        "sub": "Etsy"
+      }
+    },
+    {
+      "text": "A high setting can catch on clothes,",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-side.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "but it leaves room for a wedding band to sit flush.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-side.webp",
+        "marks": [
+          {
+            "x": 0.46,
+            "y": 0.7,
+            "text": "Wedding band",
+            "at": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "text": "All five views here are renders of one 3D file.",
+      "say": "All five views here are renders of one three D file.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-front-input.webp",
+        "after": "mix585-front-render.webp"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "The 5 angles of a jewelry render",
+    "caption": "Product photo guides name five angles for a ring: front, side, top, three-quarter and back. The front is usually the main photo, the side shows the band's height and the setting's profile, and the top shows the stone. All five views in this video are renders of one 3D file, made with HeyGema.",
+    "hashtags": [
+      "#jewelryrendering",
+      "#jewelryphotography",
+      "#engagementring",
+      "#ringdesign",
+      "#cadjewelry"
+    ]
+  },
+  "sources": [
+    "https://www.practicalecommerce.com/product-photography-part-4-angles-and-viewpoints",
+    "https://www.shopify.com/in/blog/jewelry-photography",
+    "https://www.squareshot.com/post/jewelry-photography-angles-for-clear-detail-rich-shots",
+    "https://branvas.com/blogs/news/jewelry-product-photography-checklist",
+    "https://www.etsy.com/seller-handbook/article/1347574487014",
+    "https://listperfectly.com/selling/etsy-20-images-per-listing-list-perfectly/",
+    "https://www.theknot.com/content/low-profile-engagement-rings",
+    "https://www.diamondnexus.com/blog/high-versus-low-engagement-ring-settings"
+  ]
+}

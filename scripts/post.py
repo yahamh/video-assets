@@ -127,6 +127,17 @@ def check(z, posts, now):
     Returns the ids of the posts that failed anywhere."""
     bad = []
     for sid, p in posts.items():
+        # a published post whose link Zernio didn't have yet (TikTok can lag) is asked about again for two days
+        no_link = p.get("status") == "published" and any(not str(v).startswith("http") for v in (p.get("out") or {}).values())
+        if no_link and parse(p["at"]) > now - dt.timedelta(days=2):
+            try:
+                post = (lambda g: g.get("post") or g)(z.call("GET", f"/posts/{p['zernio_id']}"))
+                for e in post.get("platforms") or []:
+                    if e.get("platformPostUrl"):
+                        p["out"][e.get("platform") or "?"] = e["platformPostUrl"]
+            except RuntimeError as e:
+                print(f"::warning::couldn't ask Zernio about {sid}: {e}")
+            continue
         if p.get("status") in DONE or parse(p["at"]) > now - dt.timedelta(minutes=20):
             continue
         try:

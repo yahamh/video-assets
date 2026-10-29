@@ -1,0 +1,179 @@
+{
+  "id": "006-antwerp-diamond-heist",
+  "number": 6,
+  "title": "The sandwich that solved a heist",
+  "topic": "antwerp diamond heist 2003",
+  "music": "music-006.wav",
+  "hook": {
+    "text": "A half-eaten sandwich caught the diamond thieves.",
+    "gold": [
+      "sandwich"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A half-eaten sandwich caught the diamond thieves.",
+      "scene": {
+        "kind": "hook",
+        "show": "sandwich",
+        "size": 560
+      }
+    },
+    {
+      "text": "In February 2003 they opened a vault two floors under Antwerp.",
+      "say": "In February two thousand three they opened a vault two floors under Antwerp.",
+      "scene": {
+        "kind": "stranger",
+        "count": 3,
+        "hat": "cap",
+        "label": "Antwerp, February 2003"
+      }
+    },
+    {
+      "text": "Its ten layers of security included a seismic alarm and heat sensors.",
+      "scene": {
+        "kind": "title",
+        "text": "10 layers",
+        "sub": "Of security"
+      }
+    },
+    {
+      "text": "Over one weekend they opened more than 100 safe-deposit boxes.",
+      "say": "Over one weekend they opened more than a hundred safe-deposit boxes.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "The gang",
+        "role": "Antwerp, 2003",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#1e2128",
+            "hat": "cap",
+            "hair": "none",
+            "skin": "#e0b28c",
+            "prop": "lantern",
+            "expression": "focused",
+            "look": 1
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#2a2520",
+            "hat": "cap",
+            "hair": "none",
+            "skin": "#d8a882",
+            "prop": "gem",
+            "expression": "sly",
+            "look": -1
+          }
+        ]
+      }
+    },
+    {
+      "text": "Police put the haul at about $100 million.",
+      "say": "Police put the haul at about a hundred million dollars.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "openAt": 0.1,
+        "stamp": "$100M",
+        "stampAt": 0.9,
+        "label": "Police estimate"
+      }
+    },
+    {
+      "text": "The next day a landowner found their trash dumped in his woods.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A landowner",
+        "role": "Near Brussels",
+        "gasp": 0.5,
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3b4a3a",
+            "hat": "cap",
+            "hair": "short",
+            "hairColor": "#8a8580",
+            "old": true,
+            "skin": "#e6bb96",
+            "expression": "surprised"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In it was a half-eaten sandwich with Leonardo Notarbartolo's DNA.",
+      "scene": {
+        "kind": "title",
+        "text": "DNA",
+        "sub": "On the sandwich"
+      }
+    },
+    {
+      "text": "A court found Notarbartolo guilty of leading the gang,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Leonardo Notarbartolo",
+        "role": "Found guilty",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#22252d",
+            "hair": "side",
+            "hairColor": "#4a4440",
+            "facial": "mustache",
+            "old": true,
+            "skin": "#e2b08a",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and he got ten years, while three others got five.",
+      "scene": {
+        "kind": "title",
+        "text": "10 years",
+        "sub": "The sentence"
+      }
+    },
+    {
+      "text": "Almost all of the diamonds have never been found.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.15,
+        "stamp": "Gone",
+        "stampAt": 1.0,
+        "label": "Antwerp, 2003"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 2003 a gang opened more than 100 safe-deposit boxes in a vault under Antwerp's diamond center. A half-eaten sandwich dumped in a wood near Brussels led to its leader's conviction.",
+    "hashtags": [
+      "#antwerp",
+      "#diamondheist",
+      "#truecrime",
+      "#diamonds",
+      "#heist"
+    ]
+  },
+  "sources": [
+    "https://archive.seattletimes.com/archive/20030304/heist04/4-held-in-incredible-diamond-heist",
+    "https://www.dhnet.be/archives-journal/2005/05/20/cambriolage-de-5-a-10-ans-pour-le-casse-du-siecle-a-anvers-57MEUS2LV5ESXMGTRFTYOMEHPQ/",
+    "https://www.theringer.com/2025/01/14/movies/den-of-thieves-2-pantera-antwerp-diamond-heist",
+    "https://jckonline.com/?p=36228",
+    "https://www.aol.com/stolen-heist-century-features-main-203454583.html",
+    "https://www.em.com.br/internacional/2024/08/6915018-o-roubo-do-seculo-desvendado-gracas-a-reclamacao-sobre-lixo-jogado-em-terreno.html",
+    "https://www.dawn.com/news/82896"
+  ]
+}

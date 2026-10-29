@@ -1,10 +1,12 @@
 import React from "react";
 import { BG, DISPLAY, GOLD, GOLD_LIGHT, RED, eased, popped, shake } from "../look";
-import { CutGem, PearPearl, RoughDiamond, Sparkle, Spotlight } from "../art";
+import { CutGem, Egg, PearPearl, RoughDiamond, Sparkle, Spotlight } from "../art";
 import { SceneProps, num, str } from "./types";
 
 // A locked chest under a light. It opens to show what's inside, and a red word can slam on top.
-// Options: item (rough, gem, glass, pearl, empty), shape and tone (for gem or glass), openAt (seconds), stamp, stampAt, label.
+// Options: item (rough, gem, glass, pearl, egg, empty), shape and tone (for gem or glass), openAt (seconds), stamp, stampAt,
+// label, halo (a colour the item glows in, like "#ff6a2a"), light (the lamp's colour, like "#9b6bff" for ultraviolet),
+// dark (true: the lamp is off).
 export const Reveal: React.FC<SceneProps> = ({ t, p }) => {
   const item = str(p.item, "rough");
   const shape = str(p.shape, "round");
@@ -13,6 +15,9 @@ export const Reveal: React.FC<SceneProps> = ({ t, p }) => {
   const stampText = str(p.stamp, "");
   const stampAt = num(p.stampAt, 1.2);
   const label = str(p.label, "");
+  const halo = str(p.halo, "");
+  const light = str(p.light, "");
+  const dark = p.dark === true;
   const open = popped(t, openAt, openAt + 0.45);
   const stampK = stampText ? popped(t, stampAt, stampAt + 0.12) : 0;
   const [sx, sy] = stampText ? shake(t, stampAt + 0.05, 18) : [0, 0];
@@ -21,7 +26,7 @@ export const Reveal: React.FC<SceneProps> = ({ t, p }) => {
     <svg width={1080} height={1920} viewBox="0 0 1080 1920">
       <rect width={1080} height={1920} fill={BG} />
       <g transform={`translate(${sx} ${sy})`}>
-        <Spotlight id="rvSpot" x={540} bottom={1230} w={820} k={0.85} />
+        <Spotlight id="rvSpot" x={540} bottom={1230} w={820} k={dark ? 0.06 : 0.85} color={light || undefined} />
         <rect x={0} y={1240} width={1080} height={700} fill="#120e0a" />
         <line x1={0} y1={1240} x2={1080} y2={1240} stroke={GOLD} strokeWidth={3} opacity={0.5} />
         <ellipse cx={540} cy={1240} rx={360} ry={26} fill="#000" opacity={0.6} />
@@ -31,9 +36,21 @@ export const Reveal: React.FC<SceneProps> = ({ t, p }) => {
         {/* inside, seen when the lid lifts */}
         <path d={`M262 950 H818 L790 ${950 - 120 * open} H290Z`} fill="#3a0f1a" opacity={open} />
         <g opacity={open}>
+          {halo && (
+            <g>
+              <defs>
+                <radialGradient id="rvHalo" cx="0.5" cy="0.5" r="0.5">
+                  <stop offset="0" stopColor={halo} stopOpacity={0.9} />
+                  <stop offset="1" stopColor={halo} stopOpacity={0} />
+                </radialGradient>
+              </defs>
+              <ellipse cx={540} cy={850} rx={300 * (0.85 + 0.15 * Math.sin(t * 5))} ry={260 * (0.85 + 0.15 * Math.sin(t * 5))} fill="url(#rvHalo)" />
+            </g>
+          )}
           {item === "rough" && <RoughDiamond x={540} y={870 - open * 40} size={210} turn={Math.sin(t * 1.5)} />}
           {(item === "gem" || item === "glass") && <CutGem x={540} y={860 - open * 40} size={180} shape={shape} tone={tone} />}
           {item === "pearl" && <PearPearl x={540} y={850 - open * 40} h={190} />}
+          {item === "egg" && <Egg x={540} y={800 - open * 40} h={230} turn={t * 0.5} />}
           {item === "empty" && <ellipse cx={540} cy={900} rx={90} ry={22} fill="#1d0710" />}
           {item !== "empty" && <Sparkle x={500} y={800} r={36} k={(0.5 + 0.5 * Math.sin(t * 4)) * (item === "glass" ? 0.4 : 1)} />}
         </g>
