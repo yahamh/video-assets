@@ -1,0 +1,76 @@
+name: Voiceovers
+
+# Voices each script in voiceovers/ with scripts/voice.py: the voice for screen videos that are cut
+# elsewhere, like the Rhino plug-in videos (29 Oct 2026). The audio, the voiced JSON (each line's file,
+# length and word timings) and the script go on the "voiceovers" branch under the script's id.
+# A script already on that branch with the same text is skipped; change it and push to voice it again.
+on:
+  push:
+    branches: [stories]
+    paths: [voiceovers/**]
+  workflow_dispatch:
+
+concurrency:
+  group: voiceovers
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  voice:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: models-${{ hashFiles('requirements.txt') }}
+      - name: The voiceovers branch
+        run: |
+          mkdir /tmp/vo && cd /tmp/vo && git init -q -b voiceovers
+          git fetch -q "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" voiceovers \
+            && git checkout -q -B voiceovers FETCH_HEAD || echo "No voiceovers branch yet"
+      - name: Scripts to voice
+        id: todo
+        run: |
+          todo=""
+          for f in voiceovers/*.json; do
+            [ -f "$f" ] || continue
+            id=$(jq -r .id "$f")
+            cmp -s "$f" "/tmp/vo/$id/script.json" && { echo "$id: already voiced"; continue; }
+            todo="$todo $f"
+          done
+          echo "files=$(echo $todo)" >> "$GITHUB_OUTPUT"
+          echo "To voice: ${todo:-nothing}"
+      - name: Tools
+        if: steps.todo.outputs.files != ''
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+          pip install -q torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -q -r requirements.txt
+      - name: Reference voices
+        if: steps.todo.outputs.files != ''
+        run: scripts/refs.sh
+      - name: Voice
+        if: steps.todo.outputs.files != ''
+        run: |
+          for f in ${{ steps.todo.outputs.files }}; do
+            id=$(jq -r .id "$f")
+            python scripts/voice.py "$f" --out "out/$id.json"
+            rm -rf "/tmp/vo/$id" && mkdir -p "/tmp/vo/$id"
+            cp "$f" "/tmp/vo/$id/script.json"
+            cp "out/$id.json" "/tmp/vo/$id/voiced.json"
+            cp -r public/voice/"$id"/. "/tmp/vo/$id/"
+          done
+      - name: Push
+        if: steps.todo.outputs.files != ''
+        run: |
+          cd /tmp/vo
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Voiceovers from ${GITHUB_SHA::7}"
+          git push "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" voiceovers

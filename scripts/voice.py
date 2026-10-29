@@ -13,6 +13,8 @@ the story JSON gets each line's audio, seconds, pad (0 inside a group) and words
 from the line's start). A line that ends a sentence gets PAD_S of quiet after it, wherever it falls. Every line is
 then slowed or sped up by the same amount (pitch kept): slowed when the reading runs faster than MAX_WPS or the
 story comes out shorter than MIN_S, sped up when it runs past MAX_S.
+A script with "length": [min, max] (seconds) uses those limits instead, e.g. [0, 9999] to keep the
+reading's own pace (voiceovers in voiceovers/, cut to the voice afterwards).
 """
 import argparse
 import difflib
@@ -297,11 +299,12 @@ def main():
     fixed = sum(t[4] + (t[0].get("hold") or 0) for t in takes) + END_S
     tempo = voice.get("tempo", 1.0)
     rate = sum(len(words_of(t[1])) for t in takes) / max(speak, 0.1)
+    min_s, max_s = story.get("length") or (MIN_S, MAX_S)
     tempo = min(tempo, max(MIN_TEMPO, MAX_WPS / rate))
-    if speak / tempo + fixed < MIN_S:
-        tempo = max(MIN_TEMPO, min(tempo, speak / (MIN_S - fixed)))
-    if speak / tempo + fixed > MAX_S:
-        tempo = min(MAX_TEMPO, speak / (MAX_S - fixed))
+    if speak / tempo + fixed < min_s:
+        tempo = max(MIN_TEMPO, min(tempo, speak / (min_s - fixed)))
+    if speak / tempo + fixed > max_s:
+        tempo = min(MAX_TEMPO, speak / (max_s - fixed))
     print(f"voice {speak:.1f} s at {rate:.1f} words/s, tempo {tempo:.3f}, story {speak / tempo + fixed:.1f} s")
 
     for line, say, path, _, pad, heard_w, heard_t in takes:
