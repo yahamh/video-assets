@@ -6,7 +6,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfDkMEQCqm3/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=PruA7nF_V2o"
+    }
   },
   "002-tiffany-diamond": {
     "at": "2026-10-28T19:16:59Z",
