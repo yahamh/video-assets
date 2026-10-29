@@ -81,7 +81,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "partial",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfFmnsLCUNo/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702151373541870856",
+      "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+    }
   },
   "007-third-imperial-egg": {
     "at": "2026-10-29T13:35:09Z",
@@ -136,7 +142,11 @@
     "zernio_id": "6ae2ccee65b1818cdcd6f39b",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "failed",
+    "out": {
+      "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+    }
   },
   "lesson-005-metal-reflections": {
     "at": "2026-10-29T13:35:21Z",
