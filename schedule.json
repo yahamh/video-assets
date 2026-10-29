@@ -1,5 +1,5 @@
 {
-  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\". now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026.",
+  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026.",
   "paused": false,
   "times": [
     "14:00",
@@ -15,7 +15,8 @@
     "lesson-003-pave-setting",
     "007-third-imperial-egg",
     "lesson-005-metal-reflections",
-    "lesson-006-diamond-contrast"
+    "lesson-006-diamond-contrast",
+    "yt-rhino-plugin-how-to"
   ],
   "platforms": [
     "instagram",
@@ -38,13 +39,12 @@
     },
     "upload": {
       "times": [
-        "15:00",
-        "20:30"
+        "15:00"
       ],
       "platforms": [
         "youtube"
       ],
-      "from": "2026-10-30T14:55:00Z"
+      "from": "2026-10-31T14:55:00Z"
     }
   }
 }
