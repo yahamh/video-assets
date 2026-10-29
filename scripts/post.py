@@ -12,6 +12,10 @@ Zernio and posts right away).
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
 with the new video. Each run also asks Zernio how the posts that were due went out and keeps that in
 posts.json (status, and each platform's link or error); a post that failed anywhere fails the run once.
+A platform that refused a post over a limit (YouTube's daily upload limit, Zernio's rate limit) gets the video again,
+alone, booked for after the limit lifts, up to three tries and at most RETRY_PER_DAY a day: posts.json keeps the
+latest under "retry". A
+video that can't post now because the account is rate limited is booked for when the limit lifts.
 Without ZERNIO_API_KEY, or with "paused": true in schedule.json, nothing is booked or checked.
 
   python3 scripts/post.py [--remade "001-cullinan ..."] [--dry-run]
@@ -34,6 +38,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS = os.path.join(ROOT, "posts.json")
 LEAD = dt.timedelta(minutes=30)
 DONE = {"published", "partial", "failed", "cancelled"}
+RETRY_PER_DAY = 4  # re-posts after a limit, per UTC day: YouTube's daily upload limit counts every upload
 UTC = dt.timezone.utc
 
 
@@ -56,6 +61,20 @@ def next_slot(after, times):
                 return t
         day += dt.timedelta(days=1)
     raise ValueError("schedule.json has no posting times")
+
+
+def lifts(at, text):
+    """When a platform that refused a post at `at` over a limit takes posts again (10 minutes to spare), or None
+    when the refusal wasn't about a limit."""
+    if not re.search(r"limit", text, re.I):
+        return None
+    if m := re.search(r"rateLimitedUntil\W+(\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d)", text):
+        return parse(m.group(1) + "Z") + dt.timedelta(minutes=10)
+    if m := re.search(r"wait (\d+) minutes", text):
+        return at + dt.timedelta(minutes=int(m.group(1)) + 10)
+    if m := re.search(r"wait (\d+)h (\d+)m", text):
+        return at + dt.timedelta(hours=int(m.group(1)), minutes=int(m.group(2)) + 10)
+    return at + dt.timedelta(hours=24, minutes=10)
 
 
 class Zernio:
@@ -127,6 +146,23 @@ def check(z, posts, now):
     Returns the ids of the posts that failed anywhere."""
     bad = []
     for sid, p in posts.items():
+        r = p.get("retry")
+        if r and r.get("status") not in DONE and parse(r["at"]) <= now - dt.timedelta(minutes=20):
+            try:
+                post = (lambda g: g.get("post") or g)(z.call("GET", f"/posts/{r['zernio_id']}"))
+            except RuntimeError as e:
+                print(f"::warning::couldn't ask Zernio about the second try of {sid}: {e}")
+                post = {}
+            if post.get("status") in DONE:
+                r["status"] = post["status"]
+                for e in post.get("platforms") or []:
+                    name = e.get("platform") or "?"
+                    ok = e.get("status") in ("published", "success")
+                    err = e.get("errorMessage") or e.get("error") or e.get("status")
+                    p.setdefault("out", {})[name] = (e.get("platformPostUrl") or "published") if ok else f"{e.get('status')}: {err}"[:300]
+                if all(str(v).startswith("http") or v == "published" for v in p["out"].values()):
+                    p["status"] = "published"
+                print(f"{sid}, second try ({r['at']}): {r['status']}; " + ", ".join(f"{k} {v}" for k, v in p["out"].items()))
         # a published post whose link Zernio didn't have yet (TikTok can lag) is asked about again for two days
         no_link = p.get("status") == "published" and any(not str(v).startswith("http") for v in (p.get("out") or {}).values())
         if no_link and parse(p["at"]) > now - dt.timedelta(days=2):
@@ -286,9 +322,8 @@ def main():
     stories.sort(key=lambda s: (series_of(s["id"]), s["number"]))
     if not stories:
         print("Every finished video is booked.")
-        return 1 if bad else 0
 
-    wanted = sorted({p for s in stories for p in plan(sched, series_of(s["id"]))[1]})
+    wanted = sorted({p for series in ("story", "lesson") for p in plan(sched, series)[1]})
     every = z.accounts(wanted, sched.get("accounts", {})) if not args.dry_run \
         else {p: sched.get("accounts", {}).get(p) or "dry-run" for p in wanted}
     if not every:
@@ -317,7 +352,77 @@ def main():
     queue.sort(key=lambda q: (q[0], q[1]["id"]))
     booked, failed = [], int(bool(bad))
     run = os.environ.get("GITHUB_RUN_ID") or int(now.timestamp())  # a retry in this run is the same post, a later run isn't
+    def book(s, series, slot, accounts, tmp, tag=""):
+        """Uploads a video and books it in Zernio; returns the Zernio post id and the time it posts."""
+        sid = s["id"]
+        subprocess.run(["gh", "release", "download", sid, "-p", f"{sid}.mp4", "-D", tmp, "--clobber"], check=True)
+        path = os.path.join(tmp, f"{sid}.mp4")
+        with open(path, "rb") as f:
+            digest = hashlib.sha256(f.read()).hexdigest()[:16]
+        url = z.upload(path)
+        intro = ((sched.get("series") or {}).get(series) or {}).get("intro", "")
+        for attempt in range(2):
+            body = payload(s, url, slot, accounts, intro)
+            try:
+                res = z.call("POST", "/posts", body, {"Idempotency-Key": f"story-{sid}{tag}-{digest}-{run}-{attempt}"})
+                made_post = res.get("post") or res
+                return made_post.get("_id") or made_post.get("id") or "", slot
+            except RuntimeError as e:
+                # The same post already went in (a retry Zernio had taken): it's this one.
+                if " 409 " in str(e) and (zid := re.search(r'"existingPostId"\s*:\s*"([0-9a-f]+)"', str(e))):
+                    return zid.group(1), slot
+                # An account that's rate limited right now: book it for when the limit lifts.
+                lift = lifts(dt.datetime.now(UTC), str(e)) if " 429 " in str(e) else None
+                if attempt or not lift:
+                    raise
+                print(f"{sid}: {', '.join(accounts)} is rate limited; booking it for {iso(lift)}")
+                slot = max(lift, slot or lift)
+
     with tempfile.TemporaryDirectory() as tmp:
+        # Platforms that refused a post over a limit get it once more, alone, after the limit lifts.
+        retried = {}
+        for p in posts.values():
+            if p.get("retry"):
+                day = p["retry"]["at"][:10]
+                retried[day] = retried.get(day, 0) + 1
+        found = {}
+        for f in glob.glob(os.path.join(ROOT, "stories", "*.json")) + glob.glob(os.path.join(ROOT, "lessons", "*.json")):
+            found[os.path.basename(f)[:-5]] = f
+        todo = []
+        for sid, p in posts.items():
+            r = p.get("retry") or {}
+            if r and (r.get("status") not in DONE or r.get("tries", 1) >= 3):
+                continue
+            if p.get("status") not in ("partial", "failed") or sid not in found:
+                continue
+            at = parse(r.get("at") or p["at"])
+            refused = {k: lifts(at, str(v)) for k, v in (p.get("out") or {}).items() if not str(v).startswith("http") and v != "published"}
+            if refused and all(refused.values()):
+                todo.append((series_of(sid) != "lesson", p["at"], sid, max(refused.values()), sorted(refused), r.get("tries", 0) + 1))
+        todo.sort()  # lessons first (YouTube is their only home), then the oldest
+        last = now + LEAD
+        for _, _, sid, lift, names, tries in todo:
+            when = max(lift, last, now + LEAD)
+            while retried.get(iso(when)[:10], 0) >= RETRY_PER_DAY:
+                when = dt.datetime.combine(when.date() + dt.timedelta(days=1), dt.time(13, 10), UTC)
+            accounts = {k: a for k, a in every.items() if k in names}
+            if not accounts:
+                continue
+            if args.dry_run:
+                print(f"Would post {sid} again on {', '.join(accounts)} at {iso(when)}")
+                continue
+            try:
+                s = json.load(open(found[sid]))
+                zid, when = book(s, series_of(sid), when, accounts, tmp, "-again")
+                posts[sid]["retry"] = {"at": iso(when), "zernio_id": zid, "platforms": list(accounts), "tries": tries}
+                save(posts)
+                retried[iso(when)[:10]] = retried.get(iso(when)[:10], 0) + 1
+                last = when + dt.timedelta(minutes=20)
+                print(f"Booked {sid} again on {', '.join(accounts)} for {iso(when)} (Zernio post {zid})")
+            except Exception as e:
+                print(f"::error::{sid} wasn't booked again: {e}")
+                failed = 1
+
         for _, s, series, slot, accounts in queue:
             sid = s["id"]
             when = "now" if slot is None else iso(slot)
@@ -325,25 +430,8 @@ def main():
                 print(f"Would book {sid} for {when} on {', '.join(accounts)}")
                 continue
             try:
-                subprocess.run(["gh", "release", "download", sid, "-p", f"{sid}.mp4", "-D", tmp, "--clobber"],
-                               check=True)
-                path = os.path.join(tmp, f"{sid}.mp4")
-                with open(path, "rb") as f:
-                    digest = hashlib.sha256(f.read()).hexdigest()[:16]
-                url = z.upload(path)
-                body = payload(s, url, slot, accounts, ((sched.get("series") or {}).get(series) or {}).get("intro", ""))
-                try:
-                    res = z.call("POST", "/posts", body, {"Idempotency-Key": f"story-{sid}-{digest}-{run}"})
-                    made_post = res.get("post") or res
-                    zid = made_post.get("_id") or made_post.get("id") or ""
-                except RuntimeError as e:
-                    # The same post already went in (a retry Zernio had taken): it's this one.
-                    if " 409 " not in str(e):
-                        raise
-                    zid = re.search(r'"existingPostId"\s*:\s*"([0-9a-f]+)"', str(e))
-                    if not zid:
-                        raise
-                    zid = zid.group(1)
+                zid, slot = book(s, series, slot, accounts, tmp)
+                when = "now" if slot is None else iso(slot)
                 posts[sid] = {"at": iso(slot or dt.datetime.now(UTC)), "zernio_id": zid, "platforms": list(accounts)}
                 save(posts)
                 booked.append(sid)
@@ -355,7 +443,7 @@ def main():
                     print("::error::Zernio refused the post (plan limit?); the rest wait for the next run")
                     break
     # Posts that went out right away: wait for Zernio to finish them, so posts.json gets their links in this run.
-    waiting = [sid for sid in booked if sid in sched.get("now", [])]
+    waiting = [sid for sid in booked if sid in sched.get("now", []) and parse(posts[sid]["at"]) <= dt.datetime.now(UTC)]
     for _ in range(40):
         if not waiting:
             break
