@@ -60,10 +60,14 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
 
 ## Picking stories
 
-- Spread them out: famous stones, heists and thefts, royal jewels, the makers (Cartier, Faberge, Tiffany, Lalique,
-  Van Cleef), lost and found, wedding and engagement customs, pearls and the sea, ancient and buried treasure, gems in
-  wars and on ships, science made simple (how a pearl forms, why a ruby is red), and what happened on this day.
-- `topic` names the jewel or event in a few words ("cullinan diamond", "louvre heist 2025"). `check.py` refuses a
+- Bright and positive (ali, 30 Oct 2026: "brighter positive stories"): pick stories that leave people smiling, such as
+  love and gifts, a maker's breakthrough, a lucky find, a lost ring returned, a record stone, a clever craft, a
+  tradition. No heists, thefts, curses or tragedies as the story; hard history still comes up plainly when it's part
+  of a happy story. The last lines land on the warm part (the gift given, the ring back on a finger).
+- Spread them out: famous stones, royal jewels, the makers (Cartier, Faberge, Tiffany, Lalique, Van Cleef), lost and
+  found, wedding and engagement customs, pearls and the sea, ancient and buried treasure, science made simple (how a
+  pearl forms, why a ruby is red), and what happened on this day.
+- `topic` names the jewel or event in a few words ("cullinan diamond", "mikimoto cultured pearl"). `check.py` refuses a
   topic that was told before.
 - People in the story are drawn as simple figures in the clothes of their time, never a likeness. Living private
   people stay unnamed. Nobody is called a thief unless a court said so. Hard history (mines, wars, slavery, deaths)
