@@ -1,0 +1,203 @@
+{
+  "id": "010-koh-i-noor-recut",
+  "number": 10,
+  "title": "The diamond that looked like glass",
+  "style": "lowpoly",
+  "topic": "koh-i-noor diamond",
+  "music": "music-010.wav",
+  "hook": {
+    "text": "Crowds thought this diamond looked like glass.",
+    "gold": [
+      "glass"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Crowds thought this diamond looked like glass.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval"
+      }
+    },
+    {
+      "text": "It was the Koh-i-Noor, at London's Great Exhibition in 1851.",
+      "say": "It was the Koh-ee-noor, at London's Great Exhibition in eighteen fifty-one.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Great Exhibition",
+        "role": "London, 1851",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#5a2a3a",
+            "hair": "updo",
+            "hairColor": "#5a3a24",
+            "skin": "#ecc6a2",
+            "expression": "worried"
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#1f2430",
+            "hat": "top",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "facial": "handlebar",
+            "skin": "#e6bb96",
+            "expression": "neutral"
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#1f2430",
+            "hat": "bowler",
+            "hair": "short",
+            "hairColor": "#6a5040",
+            "facial": "walrus",
+            "skin": "#e6bb96",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Britain took it in 1849, when it annexed the Punjab.",
+      "say": "Britain took it in eighteen forty-nine, when it annexed the Punjab.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Lahore",
+          "x": 0.82,
+          "y": 0.78
+        },
+        "to": {
+          "name": "London",
+          "x": 0.18,
+          "y": 0.12
+        },
+        "icon": "ship",
+        "label": "1849 to 1850"
+      }
+    },
+    {
+      "text": "Queen Victoria didn't like how little it sparkled,",
+      "scene": {
+        "kind": "portrait",
+        "name": "Queen Victoria",
+        "dress": "#2a2f45",
+        "hair": "updo",
+        "hairColor": "#4a3020",
+        "skin": "#f0cfae",
+        "tiara": true,
+        "pearls": true
+      }
+    },
+    {
+      "text": "so Prince Albert had it cut again.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Prince Albert",
+        "dress": "#1d2333",
+        "hair": "short",
+        "hairColor": "#4a3020",
+        "skin": "#ecc6a2",
+        "bg": "#3a2d24"
+      }
+    },
+    {
+      "text": "The Duke of Wellington cut the first facet in July 1852.",
+      "say": "The Duke of Wellington cut the first facet in July eighteen fifty-two.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "The Duke of Wellington",
+        "role": "London, July 1852",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#8e1f2c",
+            "hair": "short",
+            "old": true,
+            "skin": "#e6bb96",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The cutting ran on a steam engine and took 38 days,",
+      "say": "The cutting ran on a steam engine and took thirty-eight days,",
+      "scene": {
+        "kind": "cut",
+        "phase": "blade",
+        "place": "Garrard, London",
+        "note": "38 days"
+      }
+    },
+    {
+      "text": "at a cost of £8,000.",
+      "say": "at a cost of eight thousand pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "£8,000",
+        "sub": "The bill for the cut"
+      }
+    },
+    {
+      "text": "It started at about 186 carats and lost over 40%.",
+      "say": "It started at about one hundred eighty-six carats and lost over forty percent.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "pieces": [
+          {
+            "shape": "oval",
+            "carats": 105.6
+          }
+        ],
+        "place": "London, 1852",
+        "note": "105.6 carats today"
+      }
+    },
+    {
+      "text": "Today it's in the Queen Mother's crown at the Tower of London.",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Koh-i-Noor"
+      }
+    },
+    {
+      "text": "Four countries have claimed it, starting with India in 1947.",
+      "say": "Four countries have claimed it, starting with India in nineteen forty-seven.",
+      "scene": {
+        "kind": "title",
+        "text": "Four countries",
+        "sub": "Have claimed it"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Crowds at London's Great Exhibition in 1851 found the Koh-i-Noor disappointing, so Prince Albert had it cut again. The Duke of Wellington made the first cut.",
+    "hashtags": [
+      "#kohinoor",
+      "#famousdiamonds",
+      "#diamondcutting",
+      "#victorian",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://worldhistory.org/Koh-i-Noor",
+    "https://www.iranicaonline.org/?p=45214",
+    "https://www.vam.ac.uk/blog/caring-for-our-collections/henry-cole-and-the-koh-i-noor-diamond",
+    "https://www.royalcoster.com/en/blogs/how-we-cut-the-koh-i-noor-for-the-queen-of-england",
+    "https://www.gracesguide.co.uk/R._and_S._Garrard_and_Co",
+    "https://rct.uk/collection/31703",
+    "https://www.hrp.org.uk/tower-of-london/history-and-stories/duleep-singh/",
+    "https://en.wikipedia.org/wiki/Koh-i-Noor"
+  ]
+}

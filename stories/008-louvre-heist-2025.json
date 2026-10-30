@@ -1,0 +1,201 @@
+{
+  "id": "008-louvre-heist-2025",
+  "number": 8,
+  "title": "Crown jewels gone in four minutes",
+  "style": "lowpoly",
+  "topic": "louvre heist 2025",
+  "music": "music-008.wav",
+  "hook": {
+    "text": "Crown jewels stolen in under four minutes.",
+    "gold": [
+      "four minutes"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Crown jewels stolen in under four minutes.",
+      "scene": {
+        "kind": "hook",
+        "show": "chest",
+        "tone": "#3fa877"
+      }
+    },
+    {
+      "text": "In October 2025, men dressed as workmen parked by the Louvre.",
+      "say": "In October twenty twenty-five, men dressed as workmen parked by the Louvre.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Dressed as workmen",
+        "role": "Paris, 19 October 2025",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a4f5a",
+            "hat": "cap",
+            "hair": "short",
+            "hairColor": "#2c241e",
+            "skin": "#d9a47c",
+            "expression": "focused"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a5246",
+            "hat": "cap",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#c98e6a",
+            "facial": "beard",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Two rode a truck's lift up to a gallery balcony,",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Apollo Gallery",
+        "role": "9:30 in the morning",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a4f5a",
+            "hat": "cap",
+            "hair": "short",
+            "hairColor": "#2c241e",
+            "skin": "#d9a47c",
+            "expression": "focused",
+            "prop": "blade"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a5246",
+            "hat": "cap",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#c98e6a",
+            "facial": "beard",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "cut the window and broke open two glass cases.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.1,
+        "stamp": "Stolen",
+        "stampAt": 0.9,
+        "label": "Apollo Gallery"
+      }
+    },
+    {
+      "text": "They took eight pieces, among them an emerald necklace of Empress Marie-Louise.",
+      "say": "They took eight pieces, among them an emerald necklace of Empress Mah-ree Loo-eez.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "emerald",
+        "tone": "#2e9e6a",
+        "metal": "yellow",
+        "label": "Marie-Louise"
+      }
+    },
+    {
+      "text": "On the way out they dropped Empress Eugénie's crown.",
+      "say": "On the way out, they dropped Empress Ooh-zhay-nee's crown.",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Eugénie's crown"
+      }
+    },
+    {
+      "text": "It has 1,354 diamonds, and it was found crushed outside.",
+      "say": "It has one thousand three hundred fifty-four diamonds, and it was found crushed outside.",
+      "scene": {
+        "kind": "title",
+        "text": "1,354 diamonds",
+        "sub": "Found crushed outside"
+      }
+    },
+    {
+      "text": "Museum staff stopped them setting the truck on fire.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Museum staff",
+        "role": "Outside the Louvre",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#2c241e",
+            "skin": "#e0ad86",
+            "expression": "worried"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The pieces they took were valued at 88 million euros.",
+      "say": "The pieces they took were valued at eighty-eight million euros.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "pear",
+        "tone": "#2a4fb0",
+        "metal": "white",
+        "label": "€88 million"
+      }
+    },
+    {
+      "text": "A year on, four men have been charged,",
+      "scene": {
+        "kind": "title",
+        "text": "Four men charged",
+        "sub": "Awaiting trial"
+      }
+    },
+    {
+      "text": "and none of the eight pieces has been found.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.1,
+        "stamp": "Missing",
+        "stampAt": 0.8,
+        "label": "A year on"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In October 2025, eight pieces of France's crown jewels were taken from the Louvre in under four minutes. A year on, none of them has been found.",
+    "hashtags": [
+      "#louvre",
+      "#louvreheist",
+      "#crownjewels",
+      "#paris",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.aljazeera.com/news/2025/10/19/four-minute-heist-at-the-louvre-how-priceless-jewels-were-stolen-in-france",
+    "https://www.bostonglobe.com/2025/10/22/world/louvre-heist-timeline/",
+    "https://www.culture.gouv.fr/presse/communiques-de-presse/informations-relatives-au-vol-par-effraction-survenu-ce-dimanche-19-octobre-au-musee-du-louvre",
+    "https://www.pbs.org/newshour/world/louvre-promises-to-restore-imperial-crown-dropped-by-thieves-during-museum-heist",
+    "https://www.smithsonianmag.com/smart-news/jewel-thieves-dropped-this-crushed-crown-as-they-fled-the-louvre-now-the-historic-headdress-will-be-restored-to-its-former-glory-180988151/",
+    "https://www.live5news.com/2025/10/21/stolen-louvre-jewels-worth-an-estimated-102-million-prosecutor-says/",
+    "https://www.thelocal.fr/20251021/latest-louvre-jewellery-heist-losses-estimated-at-e88-million",
+    "https://www.aljazeera.com/news/2025/11/28/fourth-suspect-charged-in-louvre-jewel-heist-investigation",
+    "https://www.manilatimes.net/2026/10/19/world/americas-emea/one-year-after-louvre-heist-where-are-the-missing-jewels/2448845"
+  ]
+}

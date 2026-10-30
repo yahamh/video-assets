@@ -354,17 +354,18 @@ const LpSetting: React.FC<{ kind: string; t: number }> = ({ kind, t }) => {
       return (
         <g>
           <Backdrop t={t} top="#0d0a08" bottom="#1a120c" glow="#5a3a1a" gx={880} gy={1000} gr={520} seed={11} />
-          <svg x={160} y={300} width={760} height={600} viewBox="160 300 760 600" overflow="hidden">
+          {/* the window starts below the name card (30 Oct 2026: its frame ran through the name) */}
+          <svg x={160} y={470} width={760} height={430} viewBox="160 470 760 430" overflow="hidden">
             <Backdrop t={t} top="#04060b" bottom="#1c2742" cell={110} seed={5} />
-            <LpStars t={t} n={18} top={320} bottom={520} x0={170} x1={910} />
+            <LpStars t={t} n={14} top={490} bottom={620} x0={170} x1={910} />
             <Skyline y={900} seed={21} t={t} x0={160} x1={920} />
           </svg>
           {[
-            [160, 300, 760, 12],
+            [160, 470, 760, 12],
             [160, 888, 760, 12],
-            [160, 300, 12, 600],
-            [908, 300, 12, 600],
-            [534, 300, 12, 600],
+            [160, 470, 12, 430],
+            [908, 470, 12, 430],
+            [534, 470, 12, 430],
           ].map(([x, y, w, h], i) => (
             <g key={i}>
               <rect x={x} y={y} width={w} height={h} fill={GOLD_DARK.color} />
@@ -500,8 +501,9 @@ export const LpCast: React.FC<SceneProps> = ({ t, p }) => {
   const n = cast.length;
   const enter = popped(t, 0, 0.45);
   const card = eased(t, 0.25, 0.6);
-  const spots = n === 1 ? [[0, 0]] : n === 2 ? [[-3.3, 0.6], [3.3, 0.6]] : [[-4.6, 1.4], [0, 0.4], [4.6, 1.4]];
-  const dist = n === 1 ? 20 : n === 2 ? 26 : 31;
+  // two or three people stand closer and further off, so nobody is cut by the frame's edge (30 Oct 2026)
+  const spots = n === 1 ? [[0, 0]] : n === 2 ? [[-2.3, 0.6], [2.3, 0.6]] : [[-3.1, 1.2], [0, 0.2], [3.1, 1.2]];
+  const dist = n === 1 ? 20 : n === 2 ? 30 : 36;
   const cam: Cam = { pos: [0, 2.6, dist], target: [0, 1.2 - (1 - enter) * 0.5, 0], fov: 30 };
   const objs: Obj[] = cast.flatMap((m, i) => {
     const [x, z] = spots[i];

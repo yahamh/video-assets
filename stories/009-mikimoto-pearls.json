@@ -1,0 +1,203 @@
+{
+  "id": "009-mikimoto-pearls",
+  "number": 9,
+  "title": "He burned his own pearls",
+  "style": "lowpoly",
+  "topic": "mikimoto cultured pearl",
+  "music": "music-009.wav",
+  "hook": {
+    "text": "He burned his own pearls on purpose.",
+    "gold": [
+      "burned"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He burned his own pearls on purpose.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl",
+        "halo": "#ff6a2a"
+      }
+    },
+    {
+      "text": "Kokichi Mikimoto began farming oysters in Japan in 1888.",
+      "say": "Ko-kee-chee Mee-kee-moh-toh began farming oysters in Japan in eighteen eighty-eight.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "name": "Kokichi Mikimoto",
+        "role": "Japan, 1888",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2a2f3d",
+            "hair": "short",
+            "hairColor": "#16110d",
+            "facial": "mustache",
+            "skin": "#e2b48a",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He slipped tiny irritants into them, hoping they'd make pearls.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Kokichi Mikimoto",
+        "role": "Ago Bay",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2a2f3d",
+            "hair": "short",
+            "hairColor": "#16110d",
+            "facial": "mustache",
+            "skin": "#e2b48a",
+            "prop": "magnifier",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Then a red tide killed most of his oysters.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.1,
+        "dark": true,
+        "label": "Red tide"
+      }
+    },
+    {
+      "text": "In July 1893 he opened one and found a half-round pearl.",
+      "say": "In July eighteen ninety-three he opened one and found a half-round pearl.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "openAt": 0.15,
+        "label": "July 1893"
+      }
+    },
+    {
+      "text": "A fully round one took until 1905.",
+      "say": "A fully round one took until nineteen oh five.",
+      "scene": {
+        "kind": "title",
+        "text": "1905",
+        "sub": "The first fully round pearl"
+      }
+    },
+    {
+      "text": "A cultured pearl starts as a shell bead",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A cultured pearl",
+        "role": "Starts with a shell bead",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#16110d",
+            "skin": "#e2b48a",
+            "glasses": "loupe",
+            "prop": "magnifier",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "that the oyster coats in layer after layer of nacre.",
+      "say": "that the oyster coats in layer after layer of nay-ker.",
+      "scene": {
+        "kind": "title",
+        "text": "Nacre",
+        "sub": "Layer after layer"
+      }
+    },
+    {
+      "text": "In the 1930s he burned piles of poor pearls",
+      "say": "In the nineteen thirties he burned piles of poor pearls",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Kokichi Mikimoto",
+        "role": "Kobe, the 1930s",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "short",
+            "hairColor": "#16110d",
+            "facial": "mustache",
+            "skin": "#e2b48a",
+            "old": true,
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "in front of the Chamber of Commerce in Kobe,",
+      "say": "in front of the Chamber of Commerce in Koh-bay,",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "openAt": 0.1,
+        "halo": "#ff6a2a",
+        "light": "#ff8a3a",
+        "stamp": "Burned",
+        "stampAt": 1.0,
+        "label": "Kobe"
+      }
+    },
+    {
+      "text": "to show that only good pearls should be sold.",
+      "scene": {
+        "kind": "title",
+        "text": "Only good pearls",
+        "sub": "Mikimoto's rule"
+      }
+    },
+    {
+      "text": "Today nearly every pearl sold is cultured.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "pearls": true,
+        "drop": "pearl",
+        "metal": "yellow",
+        "label": "Cultured"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Kokichi Mikimoto spent years getting oysters to grow pearls. Then, in the 1930s, he set a pile of his own pearls on fire.",
+    "hashtags": [
+      "#pearls",
+      "#mikimoto",
+      "#culturedpearls",
+      "#akoyapearls",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.mlit.go.jp/tagengo-db/H30-00747.html",
+    "https://www.mlit.go.jp/tagengo-db/R2-00748.html",
+    "https://robbreport.com.my/style/pearls-of-wisdom/",
+    "https://www.newworldencyclopedia.org/entry/Mikimoto_Kokichi",
+    "https://www.langantiques.com/university/Mikimoto,_K.",
+    "https://en.wikipedia.org/wiki/Kokichi_Mikimoto",
+    "https://www.gia.edu/pearl-description",
+    "https://www.gia.edu/gia-faq-about-gemstones-difference-natural-cultured-pearl"
+  ]
+}

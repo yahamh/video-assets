@@ -180,7 +180,7 @@ export const LpCut: React.FC<SceneProps> = ({ t, dur, p }) => {
     <Frame>
       <Backdrop t={t} top="#0b0a0c" bottom="#16110d" seed={47} />
       <g transform={`translate(${sx} ${sy})`}>
-        <Window t={t} x={40} y={300} w={1000} h={660} seed={7} />
+        <Window t={t} x={40} y={350} w={1000} h={610} seed={7} />
         <polygon points={P([[0, 980], [1080, 980], [1080, 1920], [0, 1920]])} fill="#140f0b" />
         <polygon points={P([[0, 976], [1080, 976], [1080, 984], [0, 984]])} fill={GOLD} opacity={0.7} />
         <FacetGlow x={540} y={1120} r={420} color="#fff3d6" t={t} k={0.25} />
@@ -194,7 +194,7 @@ export const LpCut: React.FC<SceneProps> = ({ t, dur, p }) => {
           </text>
         )}
       </g>
-      <Label x={540} y={280} text={placeName} k={eased(t, 0.05, 0.4)} />
+      <Label x={540} y={295} text={placeName} k={eased(t, 0.05, 0.4)} />
     </Frame>
   );
 };

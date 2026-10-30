@@ -1,0 +1,151 @@
+{
+  "id": "lesson-008-rhino-save-small",
+  "series": "lesson",
+  "number": 8,
+  "title": "Rhino's Save Small and wireframe",
+  "topic": "rhino save small and wireframe",
+  "music": "music-lesson-008.wav",
+  "hook": {
+    "text": "Save Small deletes a ring's render mesh.",
+    "gold": [
+      "Save Small"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Save Small deletes a ring's render mesh.",
+      "scene": {
+        "kind": "compare",
+        "before": "signet-cad.webp",
+        "after": "signet-render.webp"
+      }
+    },
+    {
+      "text": "Before Rhino shades or renders a surface, it makes a mesh.",
+      "scene": {
+        "kind": "title",
+        "text": "Render mesh",
+        "sub": "Surfaces as polygons"
+      }
+    },
+    {
+      "text": "Rhino saves that render mesh inside the .3dm file.",
+      "say": "Rhino saves that render mesh inside the three D M file.",
+      "scene": {
+        "kind": "photo",
+        "src": "signet-cad.webp",
+        "label": "Shaded in Rhino",
+        "focus": {
+          "x": 0.45,
+          "y": 0.4,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "Save Small leaves it out to make the file smaller.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Save",
+          "Save Small"
+        ],
+        "active": 1,
+        "label": "Two ways to save"
+      }
+    },
+    {
+      "text": "Rhino rebuilds it when the file opens, so it shades more slowly.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-cad.webp",
+        "label": "Opened again",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.3
+        }
+      }
+    },
+    {
+      "text": "Other programs that read the saved mesh can find parts missing.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.1,
+        "stamp": "Missing",
+        "stampAt": 0.9,
+        "label": "No render mesh"
+      }
+    },
+    {
+      "text": "A file only ever seen in wireframe has no render mesh either.",
+      "scene": {
+        "kind": "title",
+        "text": "Wireframe",
+        "sub": "No render mesh"
+      }
+    },
+    {
+      "text": "Wireframe draws just curves and edges, with no shaded surface.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Wireframe",
+          "Shaded",
+          "Rendered"
+        ],
+        "active": 0,
+        "label": "Rhino display modes"
+      }
+    },
+    {
+      "text": "The fix is to switch to Shaded, then save the normal way.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Wireframe",
+          "Shaded",
+          "Rendered"
+        ],
+        "active": 1,
+        "label": "Rhino display modes"
+      }
+    },
+    {
+      "text": "With every surface shaded, every stone made it into this render.",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry rendering mistakes: Rhino's Save Small and wireframe",
+    "caption": "Rhino turns surfaces into a render mesh to shade them and saves it in the .3dm file. Save Small leaves that mesh out, and a file only ever seen in wireframe has none, so set a viewport to Shaded and save with plain Save. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#jewelryrendering",
+      "#rhino3d",
+      "#jewelrycad",
+      "#rhinoceros3d",
+      "#3dmodeling"
+    ]
+  },
+  "sources": [
+    "https://docs.mcneel.com/rhino/8/help/en-us/commands/save.htm",
+    "https://www.wiki.mcneel.com/rhino/savesmall",
+    "https://novedge.com/blogs/design-news/rhino-3d-tip-savesmall-reduce-3dm-file-size-by-removing-cached-render-meshes",
+    "https://docs.mcneel.com/rhino/6/help/en-us/documentproperties/mesh.htm",
+    "https://smorgasbord.cdp.arch.columbia.edu/modules/40-rendering-with-blender/251-importing-from-rhino",
+    "https://docs.mcneel.com/rhino/5/help/en-us/commands/clearallmeshes.htm",
+    "https://discourse.mcneel.com/t/opennurbs-public-example-read-render-mesh-nullptr/192062",
+    "https://discourse.mcneel.com/t/no-geometry-in-keyshot/2934",
+    "https://docs.mcneel.com/rhino/mac/help/en-us/options/view_displaymodes_wireframe.htm",
+    "https://en.wikipedia.org/wiki/Wire-frame_model"
+  ]
+}

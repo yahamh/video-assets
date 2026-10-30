@@ -1,0 +1,173 @@
+{
+  "id": "012-cartier-panther",
+  "number": 12,
+  "title": "The panther on a sapphire",
+  "style": "lowpoly",
+  "topic": "cartier panther brooch",
+  "music": "music-012.wav",
+  "hook": {
+    "text": "This panther sits on a 152-carat sapphire.",
+    "gold": [
+      "152-carat"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This panther sits on a 152-carat sapphire.",
+      "say": "This panther sits on a one hundred fifty-two carat sapphire.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2342a8"
+      }
+    },
+    {
+      "text": "Cartier made it in 1949 for the Duchess of Windsor.",
+      "say": "Car-tee-ay made it in nineteen forty-nine for the Duchess of Windsor.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Duchess of Windsor",
+        "dress": "#1c2b4a",
+        "hair": "updo",
+        "hairColor": "#2a1d16",
+        "skin": "#f0cfae",
+        "pendant": "#2342a8",
+        "bg": "#2a3550"
+      }
+    },
+    {
+      "text": "The year before, the Duke ordered a gold one on an emerald.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#2e9e6a",
+        "metal": "yellow",
+        "label": "1948"
+      }
+    },
+    {
+      "text": "The Panther was the nickname of Jeanne Toussaint, who ran Cartier's jewelry.",
+      "say": "The Panther was the nickname of Zhan Too-san, who ran Car-tee-ay's jewelry.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Jeanne Toussaint",
+        "role": "Cartier, from 1933",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#1a1a22",
+            "hair": "updo",
+            "hairColor": "#6a4a30",
+            "skin": "#ecc6a2",
+            "prop": "gem",
+            "propTone": "#2342a8",
+            "expression": "sly"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Louis Cartier had given her that name.",
+      "say": "Loo-ee Car-tee-ay had given her that name.",
+      "scene": {
+        "kind": "title",
+        "text": "La Panthère",
+        "sub": "Louis Cartier's name for her"
+      }
+    },
+    {
+      "text": "In 1987 Sotheby's sold the Duchess's jewels in Geneva.",
+      "say": "In nineteen eighty-seven Sotheby's sold the Duchess's jewels in Geneva.",
+      "scene": {
+        "kind": "title",
+        "text": "Sotheby's Geneva",
+        "sub": "April 1987"
+      }
+    },
+    {
+      "text": "They were estimated at $7 million,",
+      "say": "They were estimated at seven million dollars,",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2342a8",
+        "openAt": 0.1,
+        "label": "Estimate: $7 million"
+      }
+    },
+    {
+      "text": "and made about $50 million.",
+      "say": "and made about fifty million.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2342a8",
+        "openAt": 0.05,
+        "stamp": "Sold",
+        "stampAt": 0.4,
+        "label": "About $50 million"
+      }
+    },
+    {
+      "text": "In 2010 her onyx panther bracelet sold for £4.5 million,",
+      "say": "In twenty ten her onyx panther bracelet sold for four and a half million pounds,",
+      "scene": {
+        "kind": "title",
+        "text": "£4.5 million",
+        "sub": "Onyx bracelet, 2010"
+      }
+    },
+    {
+      "text": "a record at auction for a bracelet.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "round",
+        "tone": "#1a1a1a",
+        "metal": "white",
+        "label": "A bracelet record"
+      }
+    },
+    {
+      "text": "Cartier still makes panther necklaces and watches today.",
+      "say": "Car-tee-ay still makes panther necklaces and watches today.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "pear",
+        "tone": "#2e9e6a",
+        "metal": "yellow",
+        "label": "Panthère"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cartier's panther is named after a woman Louis Cartier called The Panther. Its most famous pieces were made for the Duchess of Windsor, and her jewels sold for about seven times their estimate.",
+    "hashtags": [
+      "#cartier",
+      "#cartierpanthere",
+      "#duchessofwindsor",
+      "#vintagejewelry",
+      "#sapphire"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/auctions/ecatalogue/2010/exceptional-jewels-and-precious-objects-formerly-in-the-collection-of-the-duchess-of-windsor-l10055/lot.19.html",
+    "https://quillandpad.com/2015/08/04/why-is-the-panther-cartiers-pet-animal-thank-jeanne-toussaint/",
+    "https://christies.com.cn/lot/lot-5844903",
+    "https://www.wmagazine.com/fashion/cartier-panthere-jewelry-history",
+    "https://365ayearof.cartier.com/en/article/the-panther-a-timeless-heroine",
+    "https://www.thejewelleryeditor.com/whats-on/auctions/sothebys-duchess-of-windsor-sale-the-panther-is-king/",
+    "https://csmonitor.com/World/Latest-News-Wires/2010/1202/Wallis-Simpson-jewels-sell-big-at-London-auction",
+    "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/life-and-style/homes-and-property/fine-art-and-antiques/duchess-s-bracelet-sets-record-1.685263"
+  ]
+}

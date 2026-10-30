@@ -1,0 +1,208 @@
+{
+  "id": "013-first-diamond-engagement-ring",
+  "number": 13,
+  "title": "When rings had no diamonds",
+  "style": "lowpoly",
+  "topic": "first diamond engagement ring",
+  "music": "music-013.wav",
+  "hook": {
+    "text": "Most engagement rings once had no diamond.",
+    "gold": [
+      "no diamond"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Most engagement rings once had no diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round"
+      }
+    },
+    {
+      "text": "The first diamond one on record is from 1477.",
+      "say": "The first diamond one on record is from fourteen seventy-seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1477",
+        "sub": "The first on record"
+      }
+    },
+    {
+      "text": "Archduke Maximilian of Austria was to marry Mary of Burgundy.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Maximilian and Mary",
+        "role": "1477",
+        "cast": [
+          {
+            "outfit": "royal",
+            "hair": "long",
+            "hairColor": "#6a4a30",
+            "skin": "#ecc6a2",
+            "hat": "crown",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#2a3a6a",
+            "hair": "long",
+            "hairColor": "#8a6a40",
+            "skin": "#f0cfae",
+            "hat": "tiara",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "An adviser wrote that he'd need a ring set with a diamond.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "An adviser",
+        "role": "By letter",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a2a22",
+            "hair": "short",
+            "hairColor": "#2c241e",
+            "old": true,
+            "skin": "#e6bb96",
+            "prop": "letter",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They married in Ghent that August.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "metal": "yellow",
+        "label": "Ghent, 1477"
+      }
+    },
+    {
+      "text": "Mary died five years later, thrown from her horse while hunting.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Mary of Burgundy",
+        "years": "1457 to 1482",
+        "dress": "#2a3a6a",
+        "hair": "long",
+        "hairColor": "#8a6a40",
+        "skin": "#f0cfae",
+        "pearls": true,
+        "bg": "#2a2420"
+      }
+    },
+    {
+      "text": "In America before the Second World War,",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "America",
+        "role": "Before the war",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hat": "bowler",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#e0ad86",
+            "expression": "smile"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#6a2a3a",
+            "hair": "curly",
+            "hairColor": "#4a3020",
+            "skin": "#c98e6a",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "only about 1 in 10 engagement rings had a diamond.",
+      "say": "only about one in ten engagement rings had a diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "1 in 10",
+        "sub": "had a diamond"
+      }
+    },
+    {
+      "text": "In 1947 a copywriter, Frances Gerety, wrote a line for De Beers.",
+      "say": "In nineteen forty-seven a copywriter, Frances Gair-uh-tee, wrote a line for De Beers.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Frances Gerety",
+        "role": "Copywriter, 1947",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#2a3550",
+            "hair": "curly",
+            "hairColor": "#5a3a24",
+            "skin": "#ecc6a2",
+            "prop": "letter",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A diamond is forever.",
+      "scene": {
+        "kind": "title",
+        "text": "A Diamond Is Forever",
+        "sub": "For De Beers"
+      }
+    },
+    {
+      "text": "Within a few decades, about 8 in 10 had a diamond.",
+      "say": "Within a few decades, about eight in ten had a diamond.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "metal": "white",
+        "label": "8 in 10"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Before the Second World War, only about one in ten American engagement rings had a diamond. The first one on record goes back to 1477.",
+    "hashtags": [
+      "#engagementring",
+      "#diamondring",
+      "#weddinghistory",
+      "#debeers",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gia-news-research-engagement-rings-through-ages",
+    "https://www.nationalgeographic.com/premium/article/diamond-engagement-rings-history-marketing",
+    "https://www.thenaturalsapphirecompany.com/education/wedding-engagement-anniversary-and-love-rings/famous-love-rings/",
+    "https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/mary-burgundy-1457-1482",
+    "https://www.ebsco.com/research-starters/history/mary-burgundy",
+    "https://www.habsburger.net/en/chapter/marrying-burgundy-maximilian-i-and-mary-burgundy",
+    "https://americanradioworks.publicradio.org/features/diamonds/mystique2.html",
+    "https://www.jckonline.com/magazine-article/evolution-of-wedding-industry/",
+    "https://www.phillyvoice.com/how-philly-ad-agency-standardized-diamond-engagement-ring/"
+  ]
+}

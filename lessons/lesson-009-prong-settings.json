@@ -1,0 +1,192 @@
+{
+  "id": "lesson-009-prong-settings",
+  "series": "lesson",
+  "number": 9,
+  "title": "What prongs do",
+  "topic": "prong settings",
+  "music": "music-lesson-009.wav",
+  "hook": {
+    "text": "Four thin prongs hold this whole stone.",
+    "gold": [
+      "Four thin prongs"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Four thin prongs hold this whole stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.47,
+          "y": 0.22,
+          "k": 1.6
+        }
+      }
+    },
+    {
+      "text": "A prong is a thin strip of metal rising from the setting,",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "label": "Prongs",
+        "focus": {
+          "x": 0.5,
+          "y": 0.25,
+          "k": 1.8
+        },
+        "marks": [
+          {
+            "x": 0.57,
+            "y": 0.22,
+            "text": "Prong",
+            "at": 0.6
+          }
+        ]
+      }
+    },
+    {
+      "text": "then bends over the stone's edge to hold it in place.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "label": "Over the edge",
+        "focus": {
+          "x": 0.6,
+          "y": 0.2,
+          "k": 2.0
+        },
+        "marks": [
+          {
+            "x": 0.65,
+            "y": 0.18,
+            "text": "Bent over",
+            "at": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "text": "Four prongs show more of the stone and let more light in.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Four prongs",
+        "focus": {
+          "x": 0.4,
+          "y": 0.12,
+          "k": 1.6
+        }
+      }
+    },
+    {
+      "text": "Six hold it more securely, which matters most for large stones.",
+      "scene": {
+        "kind": "title",
+        "text": "Six prongs",
+        "sub": "For large stones"
+      }
+    },
+    {
+      "text": "Tiffany's six-prong setting, from 1886, lifts the diamond into the light.",
+      "say": "Tiffany's six-prong setting, from eighteen eighty-six, lifts the diamond into the light.",
+      "scene": {
+        "kind": "title",
+        "text": "1886",
+        "sub": "The Tiffany Setting"
+      }
+    },
+    {
+      "text": "The tips vary, from round to claws filed to a point.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Round",
+          "Claw",
+          "V",
+          "Tab"
+        ],
+        "active": 1,
+        "label": "Prong tips"
+      }
+    },
+    {
+      "text": "V-prongs guard the fragile points of pear and marquise cuts.",
+      "say": "Vee prongs guard the fragile points of pear and marquise cuts.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Round",
+          "Claw",
+          "V",
+          "Tab"
+        ],
+        "active": 2,
+        "label": "Prong tips"
+      }
+    },
+    {
+      "text": "Flat tab prongs suit square and rectangular stones.",
+      "scene": {
+        "kind": "title",
+        "text": "Tab prongs",
+        "sub": "Square and rectangular"
+      }
+    },
+    {
+      "text": "Prongs wear down, so jewelers suggest checking them every six months.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A prong check",
+        "role": "Every six months",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#e2b08a",
+            "glasses": "loupe",
+            "prop": "magnifier",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A render shows every prong to the client before anything is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Prong settings explained with jewelry renders",
+    "caption": "A prong is a thin strip of metal that rises from the setting and bends over the stone's edge. Four prongs show more of the stone, six hold it more securely, and the tips can be round, claw, V or tab. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#jewelryrendering",
+      "#prongsetting",
+      "#engagementring",
+      "#jewelrydesign",
+      "#solitairering"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/?p=39609",
+    "https://www.bluenile.com/blog/diamonds-jewelry/ring-prong-styles",
+    "https://files.whiteflash.com/blog/four-prong-vs-six-prong-settings",
+    "https://press.tiffany.com/the-collections/the-tiffany-setting/?pdf=3283",
+    "https://www.langantiques.com/university/tiffany-setting/",
+    "https://www.ganoksin.com/article/v-prong-setting-to-v-or-not-to-v/",
+    "https://www.whiteflash.com/blog/tab-prong-settings/",
+    "https://www.jewelers.org/buying-jewelry/jewelry-repair-and-care",
+    "https://www.jewelersmutual.com/the-jewelry-box/guide-to-jewelry-inspections",
+    "https://news.na.chubb.com/personal-risks?item=30110"
+  ]
+}

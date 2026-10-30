@@ -1,0 +1,222 @@
+{
+  "id": "011-why-rubies-are-red",
+  "number": 11,
+  "title": "Why a ruby is red",
+  "style": "lowpoly",
+  "topic": "why a ruby is red",
+  "music": "music-011.wav",
+  "hook": {
+    "text": "Rubies and sapphires are the same stone.",
+    "gold": [
+      "same stone"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rubies and sapphires are the same stone.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#c8143c"
+      }
+    },
+    {
+      "text": "Both are corundum, which is aluminum oxide.",
+      "scene": {
+        "kind": "title",
+        "text": "Corundum",
+        "sub": "Aluminum oxide"
+      }
+    },
+    {
+      "text": "A trace of chromium, about 1% or less,",
+      "say": "A trace of chromium, about one percent or less,",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#ef9ab4",
+        "openAt": 0.1,
+        "label": "A trace of chromium"
+      }
+    },
+    {
+      "text": "turns it red, and more chromium makes the red stronger.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "pieces": [
+          {
+            "shape": "oval",
+            "carats": 10,
+            "tone": "#ef9ab4"
+          },
+          {
+            "shape": "oval",
+            "carats": 10,
+            "tone": "#dc4a74"
+          },
+          {
+            "shape": "oval",
+            "carats": 10,
+            "tone": "#c8143c"
+          },
+          {
+            "shape": "oval",
+            "carats": 10,
+            "tone": "#8a0a24"
+          }
+        ],
+        "note": "More chromium"
+      }
+    },
+    {
+      "text": "Iron and titanium turn it blue instead, and that's a sapphire.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1f4fb0",
+        "openAt": 0.1,
+        "label": "Iron and titanium"
+      }
+    },
+    {
+      "text": "Red corundum is called ruby, and every other color is sapphire.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "pieces": [
+          {
+            "shape": "oval",
+            "carats": 10,
+            "tone": "#c8143c"
+          },
+          {
+            "shape": "cushion",
+            "carats": 10,
+            "tone": "#1f4fb0"
+          },
+          {
+            "shape": "pear",
+            "carats": 10,
+            "tone": "#e8b828"
+          },
+          {
+            "shape": "round",
+            "carats": 10,
+            "tone": "#ef9ab4"
+          },
+          {
+            "shape": "emerald",
+            "carats": 10,
+            "tone": "#2e9e6a"
+          }
+        ],
+        "note": "All corundum"
+      }
+    },
+    {
+      "text": "Labs still argue over where pink ends and ruby begins.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Pink or ruby",
+        "role": "Still argued",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#e2b08a",
+            "glasses": "loupe",
+            "prop": "gem",
+            "propTone": "#d84a72",
+            "expression": "focused"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#3a2f4a",
+            "hair": "long",
+            "hairColor": "#2a1d16",
+            "skin": "#c98e6a",
+            "glasses": "round",
+            "prop": "magnifier",
+            "expression": "worried"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Chromium also makes rubies glow red under ultraviolet light.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c8143c",
+        "openAt": 0.1,
+        "light": "#9b6bff",
+        "halo": "#ff2a4a",
+        "label": "Under UV light"
+      }
+    },
+    {
+      "text": "Burmese rubies have little iron, so they glow even in sunlight.",
+      "scene": {
+        "kind": "mine",
+        "place": "Burma",
+        "tone": "#c8143c",
+        "zoomAt": 0.2
+      }
+    },
+    {
+      "text": "In 2015 the Burmese Sunrise Ruby sold for about $30 million.",
+      "say": "In twenty fifteen the Burmese Sunrise Ruby sold for about thirty million dollars.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#c8143c",
+        "metal": "yellow",
+        "label": "Sunrise Ruby"
+      }
+    },
+    {
+      "text": "It's still the auction record for a ruby, per carat.",
+      "scene": {
+        "kind": "title",
+        "text": "$1.18 million",
+        "sub": "Per carat, a ruby record"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Rubies and sapphires are the same mineral. A trace of chromium is all that makes a ruby red, and it can make one glow in sunlight.",
+    "hashtags": [
+      "#ruby",
+      "#sapphire",
+      "#gemology",
+      "#gemstones",
+      "#corundum"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/corundum",
+    "https://engineering.berkeley.edu/news/2013/11/why-are-rubies-red/",
+    "https://www.gia.edu/ruby-description",
+    "https://www.gia.edu/sapphire-description",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10026674",
+    "https://www.mindat.org/min-3473.html",
+    "https://www.gemsociety.org/article/distinguishing-rubies-pink-sapphires",
+    "https://orchid.ganoksin.com/t/gemlab-report-pink-sapphire-or-pale-ruby/3542",
+    "https://www.ssef.ch/wp-content/uploads/2018/01/SSEF_Pigeonblood_Royalblue_Criteria_2017_HK.pdf",
+    "https://www.guinnessworldrecords.com/world-records/62548-most-expensive-ruby-per-carat-sold-at-auction",
+    "https://www.thelocal.com/20150513/blood-red-ruby-fetches-record-30-million-at-auction/"
+  ]
+}

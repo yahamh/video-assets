@@ -1,0 +1,166 @@
+{
+  "id": "lesson-007-screenshot-or-3d-file",
+  "series": "lesson",
+  "number": 7,
+  "title": "A screenshot or the 3D file",
+  "topic": "screenshot or 3d file",
+  "music": "music-lesson-007.wav",
+  "hook": {
+    "text": "A screenshot can only show one angle.",
+    "gold": [
+      "one angle"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A screenshot can only show one angle.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-input.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "A jewelry render starts from a screenshot or from the 3D file.",
+      "say": "A jewelry render starts from a screenshot or from the three D file.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "matthew-front-white-input.webp",
+          "viewer-matthew-gold.webp"
+        ],
+        "labels": [
+          "Screenshot",
+          "3D file"
+        ]
+      }
+    },
+    {
+      "text": "A screenshot is a flat picture of what's on your screen.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-input.webp",
+        "label": "Screenshot",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.3
+        }
+      }
+    },
+    {
+      "text": "A 3D file can be turned and seen from any angle,",
+      "say": "A three D file can be turned and seen from any angle,",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-still-three-quarter.webp",
+        "label": "3D file",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.3
+        }
+      }
+    },
+    {
+      "text": "so one file can give the render every view of the piece.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "mix585-render-front.webp",
+          "mix585-render-side.webp",
+          "mix585-render-top.webp"
+        ],
+        "labels": [
+          "Front",
+          "Side",
+          "Top"
+        ]
+      }
+    },
+    {
+      "text": "An STL file keeps only the surface, with no materials or units.",
+      "say": "An S T L file keeps only the surface, with no materials or units.",
+      "scene": {
+        "kind": "title",
+        "text": "STL",
+        "sub": "Surface only, no units"
+      }
+    },
+    {
+      "text": "A Rhino .3dm keeps every part on its layer with its material,",
+      "say": "A Rhino three D M keeps every part on its layer with its material,",
+      "scene": {
+        "kind": "photo",
+        "src": "viewer-matthew-gold.webp",
+        "label": "Every part kept",
+        "focus": {
+          "x": 0.5,
+          "y": 0.35,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "and it records the units, millimeters for most jewelry.",
+      "scene": {
+        "kind": "title",
+        "text": "Millimeters",
+        "sub": "The unit of jewelry CAD"
+      }
+    },
+    {
+      "text": "So the 3D file gives a render much more to go on.",
+      "say": "So the three D file gives a render much more to go on.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-front-input.webp",
+        "after": "mix585-front-render.webp"
+      }
+    },
+    {
+      "text": "From one 3D file, this ring was rendered from every side.",
+      "say": "From one three D file, this ring was rendered from every side.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "mix585-render-front.webp",
+          "mix585-render-side.webp",
+          "mix585-render-back.webp",
+          "mix585-render-three-quarter.webp"
+        ]
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry rendering from a screenshot or a 3D file",
+    "caption": "A screenshot is one flat view of a piece, while a 3D file can be turned to any angle. A Rhino .3dm also keeps every part with its material and units, so the 3D file gives a jewelry render more to work with. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#jewelryrendering",
+      "#jewelrycad",
+      "#rhino3d",
+      "#3dmodeling",
+      "#cadjewelry"
+    ]
+  },
+  "sources": [
+    "https://www.newworldencyclopedia.org/entry/Computer-aided_design",
+    "https://en.wikipedia.org/wiki/3D_modeling",
+    "https://en.wikipedia.org/wiki/Screenshot",
+    "https://docs.mcneel.com/rhino/8/help/en-us/commands/viewcapture.htm",
+    "https://loc.gov/preservation/digital/formats/fdd/fdd000504.shtml",
+    "https://en.wikipedia.org/wiki/STL_(file_format)",
+    "https://developer.rhino3d.com/api/rhinocommon/type/rhino.fileio.file3dm/",
+    "https://www.renderhub.com/guides/3d-file-formats/3dm",
+    "https://rhinoartisan.com/docs/6/commands/file/file-controls/",
+    "https://cdn.hackaday.io/files/1657037089437152/CADCAMProductionStandards.pdf"
+  ]
+}
