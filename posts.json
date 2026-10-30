@@ -72,6 +72,14 @@
       "instagram": "https://www.instagram.com/reel/DfFLH3OAJeH/",
       "tiktok": "https://www.tiktok.com/@hey.gema/video/7702090237492694293",
       "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+    },
+    "retry": {
+      "at": "2026-10-31T13:10:00Z",
+      "zernio_id": "6ae49b195be3fee834a58d4e",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
     }
   },
   "006-antwerp-diamond-heist": {
@@ -87,6 +95,14 @@
       "instagram": "https://www.instagram.com/reel/DfFmnsLCUNo/",
       "tiktok": "https://www.tiktok.com/@hey.gema/video/7702151373541870856",
       "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+    },
+    "retry": {
+      "at": "2026-10-31T13:30:00Z",
+      "zernio_id": "6ae49b225be3fee834a58daa",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
     }
   },
   "007-third-imperial-egg": {
@@ -102,7 +118,123 @@
       "instagram": "https://www.instagram.com/reel/DfFIJjbiguF/",
       "tiktok": "published",
       "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+    },
+    "retry": {
+      "at": "2026-10-30T15:56:00Z",
+      "zernio_id": "6ae49b115be3fee834a58d05",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
     }
+  },
+  "008-louvre-heist-2025": {
+    "at": "2026-10-30T14:00:00Z",
+    "zernio_id": "6ae49b3b3bca79ea17157254",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "009-mikimoto-pearls": {
+    "at": "2026-10-30T18:00:00Z",
+    "zernio_id": "6ae49b483bca79ea17157287",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "010-koh-i-noor-recut": {
+    "at": "2026-10-30T23:00:00Z",
+    "zernio_id": "6ae49b503bca79ea171572a5",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "011-why-rubies-are-red": {
+    "at": "2026-10-31T14:00:00Z",
+    "zernio_id": "6ae49b585ff6d4de019b4c50",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "012-cartier-panther": {
+    "at": "2026-10-31T18:00:00Z",
+    "zernio_id": "6ae49b685ff6d4de019b4d56",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "013-first-diamond-engagement-ring": {
+    "at": "2026-10-31T23:00:00Z",
+    "zernio_id": "6ae49b6e5ff6d4de019b4daa",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "ft-prongs-solitaire": {
+    "at": "2026-11-01T20:30:00Z",
+    "zernio_id": "6ae49b7e5ff6d4de019b4e8b",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "ft-prongs-three-stone": {
+    "at": "2026-11-02T20:30:00Z",
+    "zernio_id": "6ae49b835ff6d4de019b4ec7",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "ft-prongs-toi-et-moi": {
+    "at": "2026-11-03T20:30:00Z",
+    "zernio_id": "6ae49b8871f084bb4e4fda8c",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "ft-two-tone-bridal-set": {
+    "at": "2026-11-04T20:30:00Z",
+    "zernio_id": "6ae49b8c71f084bb4e4fda9e",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "ft-two-tone-cushion": {
+    "at": "2026-11-05T20:30:00Z",
+    "zernio_id": "6ae49b905ff6d4de019b4f89",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "ft-two-tone-oval-halo": {
+    "at": "2026-11-06T20:30:00Z",
+    "zernio_id": "6ae49b9471f084bb4e4fdace",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
   },
   "lesson-001-gold-colors": {
     "at": "2026-10-28T20:13:08Z",
@@ -146,6 +278,14 @@
     "status": "failed",
     "out": {
       "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+    },
+    "retry": {
+      "at": "2026-10-30T15:36:00Z",
+      "zernio_id": "6ae49b0a5be3fee834a58cb9",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
     }
   },
   "lesson-005-metal-reflections": {
@@ -157,6 +297,120 @@
     "status": "failed",
     "out": {
       "youtube": "failed: YouTube upload failed: YouTube daily upload limit reached for this channel. Please try again tomorrow."
+    },
+    "retry": {
+      "at": "2026-10-30T13:56:20Z",
+      "zernio_id": "6ae49b015be3fee834a58c86",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
     }
+  },
+  "lesson-006-diamond-contrast": {
+    "at": "2026-10-30T13:27:12Z",
+    "zernio_id": "6ae49b2a71f084bb4e4fd966",
+    "platforms": [
+      "youtube"
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=YwBOWI-hDYk"
+    }
+  },
+  "lesson-007-screenshot-or-3d-file": {
+    "at": "2026-10-30T16:00:00Z",
+    "zernio_id": "6ae49b415be3fee834a58e13",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-008-rhino-save-small": {
+    "at": "2026-10-31T16:00:00Z",
+    "zernio_id": "6ae49b6271f084bb4e4fd9bb",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-009-prong-settings": {
+    "at": "2026-11-01T16:00:00Z",
+    "zernio_id": "6ae49b795ff6d4de019b4e53",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-bridal-set": {
+    "at": "2026-10-31T15:00:00Z",
+    "zernio_id": "6ae49b5c5ff6d4de019b4c8f",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-cushion-solitaire": {
+    "at": "2026-11-05T15:00:00Z",
+    "zernio_id": "6ae49b8e5ff6d4de019b4f67",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-oval-halo": {
+    "at": "2026-11-01T15:00:00Z",
+    "zernio_id": "6ae49b745ff6d4de019b4e0d",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-pave-signet": {
+    "at": "2026-11-03T15:00:00Z",
+    "zernio_id": "6ae49b8571f084bb4e4fda63",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-pear-halo": {
+    "at": "2026-11-08T15:00:00Z",
+    "zernio_id": "6ae49b985ff6d4de019b4ffb",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-pear-sapphire": {
+    "at": "2026-11-02T15:00:00Z",
+    "zernio_id": "6ae49b8171f084bb4e4fda3c",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-plugin-how-to": {
+    "at": "2026-10-30T13:27:20Z",
+    "zernio_id": "6ae49b323bca79ea171571fc",
+    "platforms": [
+      "youtube"
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=B73ooO_SDkk"
+    }
+  },
+  "yt-rhino-sunburst-necklace": {
+    "at": "2026-11-06T15:00:00Z",
+    "zernio_id": "6ae49b925ff6d4de019b4fb5",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-three-stone": {
+    "at": "2026-11-04T15:00:00Z",
+    "zernio_id": "6ae49b8a71f084bb4e4fda95",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-toi-et-moi": {
+    "at": "2026-11-07T15:00:00Z",
+    "zernio_id": "6ae49b9671f084bb4e4fdade",
+    "platforms": [
+      "youtube"
+    ]
   }
 }
