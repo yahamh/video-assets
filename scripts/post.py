@@ -11,7 +11,8 @@ a run, the posts due next went in. Zernio holds the post and publishes it at tha
 Videos listed in schedule.json "now" post the moment they're made instead (one already booked for later comes off
 Zernio and posts right away).
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
-with the new video. Each run also asks Zernio how the posts that were due went out and keeps that in
+with the new video. schedule.json "move" sends booked videos to new times (and platforms), and "skip_youtube" keeps a
+series off YouTube for a while, when YouTube's 10 uploads a day are needed for other videos. Each run also asks Zernio how the posts that were due went out and keeps that in
 posts.json (status, and each platform's link or error); a post that failed anywhere fails the run once.
 A platform that refused a post over a limit (YouTube's daily upload limit, Zernio's rate limit) gets the video again,
 alone, booked for after the limit lifts, up to three tries and at most RETRY_PER_DAY a day: posts.json keeps the
@@ -248,6 +249,13 @@ def plan(sched, series):
     return own.get("times") or sched["times"], own.get("platforms") or sched["platforms"]
 
 
+def no_youtube(sched, series, at):
+    """schedule.json "skip_youtube": {series: [from, until]} leaves YouTube out of that series' posts booked between
+    the two times, so YouTube's 10 uploads a day go to other videos."""
+    span = (sched.get("skip_youtube") or {}).get(series)
+    return bool(span) and parse(span[0]) <= at < parse(span[1])
+
+
 def save(posts):
     with open(POSTS, "w") as f:
         json.dump(dict(sorted(posts.items())), f, indent=2)
@@ -368,6 +376,8 @@ def main():
             slot = None
         elif slot is None or slot <= now + LEAD:
             slot = lasts[series] = next_slot(max(lasts.get(series, now + LEAD), now + LEAD), times)
+        if no_youtube(sched, series, slot or now):
+            accounts = {p: a for p, a in accounts.items() if p != "youtube"}
         queue.append((slot or now, s, series, slot, accounts))
     queue.sort(key=lambda q: (q[0], q[1]["id"]))
     booked, failed = [], int(bool(bad))
@@ -403,6 +413,43 @@ def main():
         found = {}
         for f in video_jsons():
             found[os.path.basename(f)[:-5]] = f
+
+        # Videos in "move" go to a new time (and platforms, when given). The new booking goes in first and the old one
+        # comes off Zernio after, so a refused booking (a rate limit) leaves the old one as it was for the next run.
+        for key, want in (sched.get("move") or {}).items():
+            sid, again = key.split("#")[0], key.endswith("#retry")
+            want = want if isinstance(want, dict) else {"at": want}
+            old = (posts.get(sid) or {}).get("retry") if again else posts.get(sid)
+            if not old or old.get("status") or sid not in found:
+                continue
+            at, platforms = parse(want["at"]), want.get("platforms") or old["platforms"]
+            if old["at"] == want["at"] and sorted(platforms) == sorted(old["platforms"]):
+                continue
+            if min(parse(old["at"]), at) <= now + dt.timedelta(minutes=10):
+                print(f"::warning::{key} is too close to posting to move from {old['at']} to {want['at']}; it stays")
+                continue
+            accounts = {k: a for k, a in every.items() if k in platforms}
+            if args.dry_run:
+                print(f"Would move {key} from {old['at']} to {want['at']} on {', '.join(accounts)}")
+                continue
+            try:
+                zid, _ = book(json.load(open(found[sid])), series_of(sid), at, accounts, tmp, "-again-moved" if again else "-moved")
+            except Exception as e:
+                print(f"::notice::{key} stays at {old['at']} for now: {e}")
+                failed |= int(" 429 " not in str(e))
+                continue
+            try:
+                z.call("DELETE", f"/posts/{old['zernio_id']}")
+            except RuntimeError as e:
+                if " 404 " not in str(e):  # never leave it booked twice: the new one comes off instead
+                    print(f"::error::couldn't take {key} off Zernio at {old['at']}, so it stays there: {e}")
+                    z.call("DELETE", f"/posts/{zid}")
+                    failed = 1
+                    continue
+            old.update({"at": iso(at), "zernio_id": zid, "platforms": list(accounts)})
+            save(posts)
+            print(f"Moved {key} to {iso(at)} on {', '.join(accounts)} (Zernio post {zid})")
+
         todo = []
         for sid, p in posts.items():
             r = p.get("retry") or {}

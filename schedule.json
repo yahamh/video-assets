@@ -1,5 +1,5 @@
 {
-  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026.",
+  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026. move: videos booked but not posted yet that go to a new time (and platforms, when given), booked again there before the old booking comes off Zernio; \"<id>#retry\" moves a re-post. skip_youtube: {series: [from, until]} leaves YouTube out of that series' bookings in that span. 30 Oct, ali chose \"All by Monday\" for the 9 Rhino Shorts and 6 two-tone videos: they're spread so YouTube never gets more than 9 uploads in 24 hours (with the daily Social Short), and the stories skip YouTube on 31 Oct and 1 Nov to make room.",
   "paused": false,
   "times": [
     "14:00",
@@ -49,5 +49,51 @@
       ],
       "from": "2026-11-01T20:25:00Z"
     }
+  },
+  "move": {
+    "yt-rhino-bridal-set": "2026-10-31T13:40:00Z",
+    "ft-prongs-solitaire": "2026-10-31T14:10:00Z",
+    "yt-rhino-oval-halo": "2026-10-31T15:30:00Z",
+    "ft-prongs-three-stone": "2026-10-31T16:20:00Z",
+    "yt-rhino-pear-sapphire": "2026-10-31T16:40:00Z",
+    "ft-prongs-toi-et-moi": "2026-10-31T18:10:00Z",
+    "yt-rhino-pave-signet": "2026-10-31T23:10:00Z",
+    "ft-two-tone-bridal-set": "2026-11-01T13:50:00Z",
+    "yt-rhino-three-stone": "2026-11-01T15:30:00Z",
+    "ft-two-tone-cushion": "2026-11-01T16:20:00Z",
+    "yt-rhino-cushion-solitaire": "2026-11-01T16:40:00Z",
+    "ft-two-tone-oval-halo": "2026-11-01T17:00:00Z",
+    "yt-rhino-sunburst-necklace": "2026-11-01T18:20:00Z",
+    "yt-rhino-toi-et-moi": "2026-11-02T15:30:00Z",
+    "yt-rhino-pear-halo": "2026-11-02T16:20:00Z",
+    "011-why-rubies-are-red": {
+      "at": "2026-10-31T14:00:00Z",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "012-cartier-panther": {
+      "at": "2026-10-31T18:00:00Z",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "013-first-diamond-engagement-ring": {
+      "at": "2026-10-31T23:00:00Z",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "005-hope-diamond#retry": "2026-11-02T16:40:00Z",
+    "006-antwerp-diamond-heist#retry": "2026-11-03T15:30:00Z"
+  },
+  "skip_youtube": {
+    "story": [
+      "2026-10-31T00:00:00Z",
+      "2026-11-02T00:00:00Z"
+    ]
   }
 }
