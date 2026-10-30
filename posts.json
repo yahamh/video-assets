@@ -74,8 +74,8 @@
       "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
     },
     "retry": {
-      "at": "2026-10-31T13:10:00Z",
-      "zernio_id": "6ae49b195be3fee834a58d4e",
+      "at": "2026-11-02T16:40:00Z",
+      "zernio_id": "6ae523bf4ecd91c909df61f7",
       "platforms": [
         "youtube"
       ],
@@ -97,8 +97,8 @@
       "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
     },
     "retry": {
-      "at": "2026-10-31T13:30:00Z",
-      "zernio_id": "6ae49b225be3fee834a58daa",
+      "at": "2026-11-03T15:30:00Z",
+      "zernio_id": "6ae523c84ecd91c909df6227",
       "platforms": [
         "youtube"
       ],
@@ -113,11 +113,11 @@
       "tiktok",
       "youtube"
     ],
-    "status": "partial",
+    "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfFIJjbiguF/",
-      "tiktok": "published",
-      "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702082212325248308",
+      "youtube": "https://www.youtube.com/watch?v=kmRvCMbcxs0"
     },
     "retry": {
       "at": "2026-10-30T15:56:00Z",
@@ -125,7 +125,8 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     }
   },
   "008-louvre-heist-2025": {
@@ -135,7 +136,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfHwIL2AaQ2/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702461194690415892",
+      "youtube": "https://www.youtube.com/watch?v=0MF509Whzjk"
+    }
   },
   "009-mikimoto-pearls": {
     "at": "2026-10-30T18:00:00Z",
@@ -144,7 +151,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfILlx0Dgnu/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702522931234082055",
+      "youtube": "https://www.youtube.com/watch?v=I7s6DDrDiYc"
+    }
   },
   "010-koh-i-noor-recut": {
     "at": "2026-10-30T23:00:00Z",
@@ -157,34 +170,31 @@
   },
   "011-why-rubies-are-red": {
     "at": "2026-10-31T14:00:00Z",
-    "zernio_id": "6ae49b585ff6d4de019b4c50",
+    "zernio_id": "6ae523a94ecd91c909df6162",
     "platforms": [
       "instagram",
-      "tiktok",
-      "youtube"
+      "tiktok"
     ]
   },
   "012-cartier-panther": {
     "at": "2026-10-31T18:00:00Z",
-    "zernio_id": "6ae49b685ff6d4de019b4d56",
+    "zernio_id": "6ae523b4f4847f982e4a982c",
     "platforms": [
       "instagram",
-      "tiktok",
-      "youtube"
+      "tiktok"
     ]
   },
   "013-first-diamond-engagement-ring": {
     "at": "2026-10-31T23:00:00Z",
-    "zernio_id": "6ae49b6e5ff6d4de019b4daa",
+    "zernio_id": "6ae523b92c8a0ab312695052",
     "platforms": [
       "instagram",
-      "tiktok",
-      "youtube"
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
-    "at": "2026-11-01T20:30:00Z",
-    "zernio_id": "6ae49b7e5ff6d4de019b4e8b",
+    "at": "2026-10-31T14:10:00Z",
+    "zernio_id": "6ae52385f8fda9deef37cdfc",
     "platforms": [
       "instagram",
       "tiktok",
@@ -192,8 +202,8 @@
     ]
   },
   "ft-prongs-three-stone": {
-    "at": "2026-11-02T20:30:00Z",
-    "zernio_id": "6ae49b835ff6d4de019b4ec7",
+    "at": "2026-10-31T16:20:00Z",
+    "zernio_id": "6ae5238a98a6b43b6e806822",
     "platforms": [
       "instagram",
       "tiktok",
@@ -201,8 +211,8 @@
     ]
   },
   "ft-prongs-toi-et-moi": {
-    "at": "2026-11-03T20:30:00Z",
-    "zernio_id": "6ae49b8871f084bb4e4fda8c",
+    "at": "2026-10-31T18:10:00Z",
+    "zernio_id": "6ae5238f98a6b43b6e806852",
     "platforms": [
       "instagram",
       "tiktok",
@@ -210,8 +220,8 @@
     ]
   },
   "ft-two-tone-bridal-set": {
-    "at": "2026-11-04T20:30:00Z",
-    "zernio_id": "6ae49b8c71f084bb4e4fda9e",
+    "at": "2026-11-01T13:50:00Z",
+    "zernio_id": "6ae523942c8a0ab312695017",
     "platforms": [
       "instagram",
       "tiktok",
@@ -219,8 +229,8 @@
     ]
   },
   "ft-two-tone-cushion": {
-    "at": "2026-11-05T20:30:00Z",
-    "zernio_id": "6ae49b905ff6d4de019b4f89",
+    "at": "2026-11-01T16:20:00Z",
+    "zernio_id": "6ae523982c8a0ab312695025",
     "platforms": [
       "instagram",
       "tiktok",
@@ -228,8 +238,8 @@
     ]
   },
   "ft-two-tone-oval-halo": {
-    "at": "2026-11-06T20:30:00Z",
-    "zernio_id": "6ae49b9471f084bb4e4fdace",
+    "at": "2026-11-01T17:00:00Z",
+    "zernio_id": "6ae5239df4847f982e4a981a",
     "platforms": [
       "instagram",
       "tiktok",
@@ -275,9 +285,9 @@
     "platforms": [
       "youtube"
     ],
-    "status": "failed",
+    "status": "published",
     "out": {
-      "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+      "youtube": "https://www.youtube.com/watch?v=S7MDHsDltek"
     },
     "retry": {
       "at": "2026-10-30T15:36:00Z",
@@ -285,7 +295,8 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     }
   },
   "lesson-005-metal-reflections": {
@@ -294,9 +305,9 @@
     "platforms": [
       "youtube"
     ],
-    "status": "failed",
+    "status": "published",
     "out": {
-      "youtube": "failed: YouTube upload failed: YouTube daily upload limit reached for this channel. Please try again tomorrow."
+      "youtube": "https://www.youtube.com/watch?v=8-dRU_Ok408"
     },
     "retry": {
       "at": "2026-10-30T13:56:20Z",
@@ -304,7 +315,8 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     }
   },
   "lesson-006-diamond-contrast": {
@@ -323,7 +335,11 @@
     "zernio_id": "6ae49b415be3fee834a58e13",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=Rofek4jfYUA"
+    }
   },
   "lesson-008-rhino-save-small": {
     "at": "2026-10-31T16:00:00Z",
@@ -340,43 +356,43 @@
     ]
   },
   "yt-rhino-bridal-set": {
-    "at": "2026-10-31T15:00:00Z",
-    "zernio_id": "6ae49b5c5ff6d4de019b4c8f",
+    "at": "2026-10-31T13:40:00Z",
+    "zernio_id": "6ae5238316ee5ec4f8810d4e",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-cushion-solitaire": {
-    "at": "2026-11-05T15:00:00Z",
-    "zernio_id": "6ae49b8e5ff6d4de019b4f67",
+    "at": "2026-11-01T16:40:00Z",
+    "zernio_id": "6ae5239b4ecd91c909df60ce",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-oval-halo": {
-    "at": "2026-11-01T15:00:00Z",
-    "zernio_id": "6ae49b745ff6d4de019b4e0d",
+    "at": "2026-10-31T15:30:00Z",
+    "zernio_id": "6ae5238898a6b43b6e80681d",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-pave-signet": {
-    "at": "2026-11-03T15:00:00Z",
-    "zernio_id": "6ae49b8571f084bb4e4fda63",
+    "at": "2026-10-31T23:10:00Z",
+    "zernio_id": "6ae523910afd367d53307db3",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-pear-halo": {
-    "at": "2026-11-08T15:00:00Z",
-    "zernio_id": "6ae49b985ff6d4de019b4ffb",
+    "at": "2026-11-02T16:20:00Z",
+    "zernio_id": "6ae523a54ecd91c909df6133",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-pear-sapphire": {
-    "at": "2026-11-02T15:00:00Z",
-    "zernio_id": "6ae49b8171f084bb4e4fda3c",
+    "at": "2026-10-31T16:40:00Z",
+    "zernio_id": "6ae5238cf8fda9deef37ce1f",
     "platforms": [
       "youtube"
     ]
@@ -393,22 +409,22 @@
     }
   },
   "yt-rhino-sunburst-necklace": {
-    "at": "2026-11-06T15:00:00Z",
-    "zernio_id": "6ae49b925ff6d4de019b4fb5",
+    "at": "2026-11-01T18:20:00Z",
+    "zernio_id": "6ae523a02c8a0ab312695032",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-three-stone": {
-    "at": "2026-11-04T15:00:00Z",
-    "zernio_id": "6ae49b8a71f084bb4e4fda95",
+    "at": "2026-11-01T15:30:00Z",
+    "zernio_id": "6ae523962c8a0ab312695020",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-toi-et-moi": {
-    "at": "2026-11-07T15:00:00Z",
-    "zernio_id": "6ae49b9671f084bb4e4fdade",
+    "at": "2026-11-02T15:30:00Z",
+    "zernio_id": "6ae523a24ecd91c909df610f",
     "platforms": [
       "youtube"
     ]
