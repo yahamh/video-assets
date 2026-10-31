@@ -209,6 +209,11 @@
         "youtube"
       ],
       "tries": 1
+    },
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfKwOpZE3bX/",
+      "tiktok": "published"
     }
   },
   "013-first-diamond-engagement-ring": {
@@ -324,7 +329,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfKkq_tCnev/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702867703035383060",
+      "youtube": "https://www.youtube.com/watch?v=hqtLSGJvWTk"
+    }
   },
   "ft-prongs-toi-et-moi": {
     "at": "2026-10-31T18:10:00Z",
@@ -333,7 +344,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfKxQb3DH6V/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702895994182077714",
+      "youtube": "https://www.youtube.com/watch?v=M7zmTs38STI"
+    }
   },
   "ft-two-tone-bridal-set": {
     "at": "2026-11-01T15:30:00Z",
@@ -552,7 +569,11 @@
     "zernio_id": "6ae5238cf8fda9deef37ce1f",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=9HYsN-tQyfI"
+    }
   },
   "yt-rhino-pick": {
     "at": "2026-11-06T14:10:00Z",
