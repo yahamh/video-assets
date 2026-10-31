@@ -1,0 +1,17 @@
+{
+  "id": "yt-rhino-update",
+  "number": 11,
+  "title": "Changed your Rhino model? Press Update",
+  "hook": {
+    "text": "Changed your Rhino model? Press Update"
+  },
+  "post": {
+    "youtube_title": "Changed your Rhino model? Press Update",
+    "caption": "Hide or change part of your piece in Rhino, then press Update on the HeyGema toolbar. The piece comes back in HeyGema with the same metal, stones and angle, ready to render.\n\nInstall it in Rhino: type PackageManager, search heygema and click Install.\nHow it works: https://www.heygema.com/en/rhino?utm_source=youtube&utm_medium=shorts&utm_campaign=yt-rhino-update",
+    "hashtags": [
+      "#shorts",
+      "#rhino3d",
+      "#jewelryrendering"
+    ]
+  }
+}

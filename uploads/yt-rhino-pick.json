@@ -1,0 +1,17 @@
+{
+  "id": "yt-rhino-pick",
+  "number": 12,
+  "title": "Pick the center stone right in Rhino",
+  "hook": {
+    "text": "Pick the center stone right in Rhino"
+  },
+  "post": {
+    "youtube_title": "Pick the center stone right in Rhino",
+    "caption": "Press Pick on the HeyGema toolbar, choose CenterStone and select the stone in your Rhino viewport. Then give it its own color, here a pink sapphire, and render.\n\nInstall it in Rhino: type PackageManager, search heygema and click Install.\nHow it works: https://www.heygema.com/en/rhino?utm_source=youtube&utm_medium=shorts&utm_campaign=yt-rhino-pick",
+    "hashtags": [
+      "#shorts",
+      "#rhino3d",
+      "#jewelryrendering"
+    ]
+  }
+}

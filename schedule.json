@@ -1,5 +1,5 @@
 {
-  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026. move: videos booked but not posted yet that go to a new time (and platforms, when given), booked again there before the old booking comes off Zernio; \"<id>#retry\" moves a re-post. skip_youtube: {series: [from, until]} leaves YouTube out of that series' bookings in that span. 30 Oct, ali chose \"All by Monday\" for the 9 Rhino Shorts and 6 two-tone videos: they're spread so YouTube never gets more than 9 uploads in 24 hours (with the daily Social Short), and the stories skip YouTube on 31 Oct and 1 Nov to make room. youtube_later: {id: time} puts a video that skipped YouTube up there alone at that time; 31 Oct, ali said we don't post enough on YouTube, so stories 011-016 go up there too. 31 Oct: YouTube refused a 10th upload in 24 hours, and Social puts up 2 a day there, so the Rhino and two-tone YouTube posts and the story re-posts were spread to 1-5 Nov for 9 or fewer a day in all.",
+  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026. move: videos booked but not posted yet that go to a new time (and platforms, when given), booked again there before the old booking comes off Zernio; \"<id>#retry\" moves a re-post. skip_youtube: {series: [from, until]} leaves YouTube out of that series' bookings in that span. 30 Oct, ali chose \"All by Monday\" for the 9 Rhino Shorts and 6 two-tone videos: they're spread so YouTube never gets more than 9 uploads in 24 hours (with the daily Social Short), and the stories skip YouTube on 31 Oct and 1 Nov to make room. youtube_later: {id: time} puts a video that skipped YouTube up there alone at that time; 31 Oct, ali said we don't post enough on YouTube, so stories 011-016 go up there too. 31 Oct: YouTube refused a 10th upload in 24 hours, and Social puts up 2 a day there, so the Rhino and two-tone YouTube posts and the story re-posts were spread to 1-5 Nov for 9 or fewer a day in all. The upload series' next two (yt-rhino-update, yt-rhino-pick, ali 31 Oct \"more videos about the rhino plugin\") go on 5 Nov 20:30 and 6 Nov 14:10 UTC, the first times that keep every 24 hours at 9 or fewer with stories at 14, 18 and 23 and a lesson at 16 every day.",
   "paused": false,
   "times": [
     "14:00",
@@ -31,12 +31,13 @@
     },
     "upload": {
       "times": [
-        "15:00"
+        "14:10",
+        "20:30"
       ],
       "platforms": [
         "youtube"
       ],
-      "from": "2026-10-31T14:55:00Z"
+      "from": "2026-11-05T20:25:00Z"
     },
     "feature": {
       "times": [
