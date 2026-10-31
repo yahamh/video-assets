@@ -1,0 +1,204 @@
+{
+  "id": "018-ring-on-a-carrot",
+  "number": 18,
+  "title": "A carrot grew through her ring",
+  "style": "paper",
+  "topic": "wedding ring found on a carrot",
+  "plate": "The Carrot Ring",
+  "music": "music-018.wav",
+  "hook": {
+    "text": "A carrot grew right through her ring.",
+    "gold": [
+      "carrot"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A carrot grew right through her ring.",
+      "scene": {
+        "kind": "hook",
+        "show": "carrot",
+        "metal": "white",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In 1995, a woman in Sweden was doing her Christmas baking.",
+      "say": "In nineteen ninety-five, a woman in Sweden was doing her Christmas baking.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Near Mora, Sweden",
+        "role": "Christmas 1995",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "updo",
+            "hairColor": "#c9a46a",
+            "skin": "#f0cfae",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She put down her wedding ring, white gold with seven small diamonds,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "halo": true,
+        "metal": "white",
+        "label": "She designed it herself",
+        "velvet": "#f7c23a"
+      }
+    },
+    {
+      "text": "and it disappeared from the kitchen.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "openAt": 0.2,
+        "label": "Gone",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The family even pulled up the kitchen floor looking for it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "color": "#a98be0",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "updo",
+            "hairColor": "#c9a46a",
+            "skin": "#f0cfae",
+            "expression": "worried"
+          },
+          {
+            "outfit": "casual",
+            "outfitColor": "#f0552e",
+            "hair": "short",
+            "hairColor": "#c9a46a",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In October 2011, she was pulling up carrots in the garden.",
+      "say": "In October twenty eleven, she was pulling up carrots in the garden.",
+      "scene": {
+        "kind": "cast",
+        "setting": "garden",
+        "name": "October 2011",
+        "role": "Sixteen years later",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "casual",
+            "hair": "updo",
+            "hairColor": "#c9a46a",
+            "skin": "#f0cfae",
+            "outfitColor": "#ec6a9c",
+            "prop": "carrot",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She almost threw away one small carrot, then she saw the ring.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "carrot",
+        "label": "The last carrots",
+        "velvet": "#c8dc3c"
+      }
+    },
+    {
+      "text": "She screamed, and her daughter came running from the house.",
+      "scene": {
+        "kind": "cast",
+        "setting": "garden",
+        "color": "#f0552e",
+        "gasp": 0.3,
+        "cast": [
+          {
+            "outfit": "casual",
+            "hair": "updo",
+            "hairColor": "#c9a46a",
+            "skin": "#f0cfae",
+            "outfitColor": "#ec6a9c",
+            "prop": "carrot",
+            "expression": "surprised"
+          },
+          {
+            "outfit": "casual",
+            "outfitColor": "#4cc3a8",
+            "hair": "long",
+            "hairColor": "#c9a46a",
+            "skin": "#f0cfae",
+            "expression": "surprised"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She thinks it went out with the peelings to the compost.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Kitchen",
+          "x": 0.2,
+          "y": 0.7
+        },
+        "to": {
+          "name": "Garden",
+          "x": 0.8,
+          "y": 0.25
+        },
+        "icon": "parcel",
+        "label": "Her best guess",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The ring was fine, and she wanted it resized to wear again.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "halo": true,
+        "metal": "white",
+        "label": "Back on her hand",
+        "velvet": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A woman in Sweden lost her wedding ring while baking at Christmas in 1995. Sixteen years later she pulled it out of her garden, around a carrot.",
+    "hashtags": [
+      "#weddingring",
+      "#lostandfound",
+      "#sweden",
+      "#carrot",
+      "#jewelrystories"
+    ]
+  },
+  "sources": [
+    "https://www.sverigesradio.se/artikel/4885650",
+    "https://www.thelocal.se/20111230/38248",
+    "https://abcnews.com/blogs/headlines/2012/01/swedish-woman-finds-lost-wedding-ring-on-a-carrot",
+    "https://www.npr.org/2012/01/02/144573049/lost-wedding-ring-turns-up-with-lots-of-carrots"
+  ]
+}

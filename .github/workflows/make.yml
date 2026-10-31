@@ -83,7 +83,9 @@ jobs:
           for story in ${{ steps.todo.outputs.stories }}; do
             # a lesson's music gets its own seed, so it never repeats a story's
             m=$(jq -r '.music // empty' "$story"); n=$(jq -r '.number + (if .series == "lesson" then 500 else 0 end)' "$story")
-            [ -n "$m" ] && [ ! -f "public/$m" ] && python scripts/music.py "public/$m" 45 "$n"
+            # the paper look gets the bright, major-key music
+            b=$(jq -r 'if .style == "paper" then "bright" else "" end' "$story")
+            [ -n "$m" ] && [ ! -f "public/$m" ] && python scripts/music.py "public/$m" 45 "$n" $b
           done; true
       - name: Reference voices
         if: steps.todo.outputs.stories != ''

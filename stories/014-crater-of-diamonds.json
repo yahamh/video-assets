@@ -1,0 +1,211 @@
+{
+  "id": "014-crater-of-diamonds",
+  "number": 14,
+  "title": "She dug up her own engagement diamond",
+  "style": "paper",
+  "topic": "crater of diamonds",
+  "plate": "Crater of Diamonds",
+  "music": "music-014.wav",
+  "hook": {
+    "text": "She dug up her own engagement diamond.",
+    "gold": [
+      "dug",
+      "own"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "She dug up her own engagement diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Crater of Diamonds State Park in Arkansas sits on an old volcano.",
+      "scene": {
+        "kind": "mine",
+        "ground": "mine",
+        "place": "Arkansas",
+        "zoomAt": 0.5,
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It's the only place in the world where anyone can dig",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "name": "Finders keepers",
+        "role": "The park's rule",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#f0552e",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e62",
+            "prop": "shovel",
+            "expression": "smile"
+          },
+          {
+            "outfit": "casual",
+            "outfitColor": "#a98be0",
+            "hair": "curly",
+            "hairColor": "#2a1e16",
+            "skin": "#8d5a3b",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "for diamonds in their volcanic rock and keep what they find.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "openAt": 0.2,
+        "label": "Yours to keep",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "On average, visitors find one or two diamonds a day.",
+      "scene": {
+        "kind": "title",
+        "text": "1 or 2",
+        "sub": "Diamonds a day",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "In 2025, a woman from New York wanted her engagement ring",
+      "say": "In twenty twenty-five, a woman from New York wanted her engagement ring",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A woman from New York",
+        "role": "2025",
+        "color": "#f0552e",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#5bb4e8",
+            "hair": "long",
+            "hairColor": "#5a3a26",
+            "skin": "#e8b896",
+            "prop": "ringbox",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "to hold a diamond she had dug up herself.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "empty": true,
+        "metal": "white",
+        "label": "Her ring",
+        "velvet": "#a98be0"
+      }
+    },
+    {
+      "text": "She searched the plowed field for three weeks.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#5bb4e8",
+            "hair": "long",
+            "hairColor": "#5a3a26",
+            "skin": "#e8b896",
+            "prop": "shovel",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "On her last day, she saw a glint by her foot",
+      "scene": {
+        "kind": "mine",
+        "ground": "field",
+        "zoomAt": 5,
+        "place": "Her last day",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "and thought it was dew.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "color": "#4cc3a8",
+        "gasp": 0.6,
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#5bb4e8",
+            "hair": "long",
+            "hairColor": "#5a3a26",
+            "skin": "#e8b896",
+            "prop": "none",
+            "expression": "neutral",
+            "react": {
+              "at": 0.6,
+              "expression": "surprised"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was a white diamond of 2.3 carats.",
+      "say": "It was a white diamond of two point three carats.",
+      "scene": {
+        "kind": "mine",
+        "ground": "field",
+        "carats": 2.3,
+        "zoomAt": 0.05,
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "She told her partner, I hunted this for you.",
+      "scene": {
+        "kind": "gift",
+        "stone": "rough",
+        "to": "I hunted this for you",
+        "date": "Arkansas, 2025",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Crater of Diamonds is the only place in the world where anyone can dig for diamonds in their volcanic rock and keep them. One visitor spent three weeks looking for the diamond for her own engagement ring.",
+    "hashtags": [
+      "#craterofdiamonds",
+      "#engagementring",
+      "#diamondhunting",
+      "#arkansas",
+      "#jewelrystories"
+    ]
+  },
+  "sources": [
+    "https://www.arkansas.com/state-parks/explore/parks/crater-of-diamonds-state-park",
+    "https://www.geology.arkansas.gov/docs/pdf/publication/state_park_series/crater-diamond-sps-06-24-8.pdf",
+    "https://www.smithsonianmag.com/smart-news/she-spent-three-weeks-digging-for-a-diamond-for-her-engagement-ring-and-unearthed-a-2-3-carat-stunner-180987254/",
+    "https://www.wlrn.org/npr-breaking-news/2025-08-20/a-new-york-woman-dug-for-3-weeks-to-find-her-own-engagement-ring-diamond"
+  ]
+}

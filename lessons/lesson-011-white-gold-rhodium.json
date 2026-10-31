@@ -1,0 +1,159 @@
+{
+  "id": "lesson-011-white-gold-rhodium",
+  "series": "lesson",
+  "number": 11,
+  "title": "Why white gold is white",
+  "topic": "white gold and rhodium plating",
+  "music": "music-lesson-011.wav",
+  "hook": {
+    "text": "White gold isn't really white.",
+    "gold": [
+      "isn't"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "White gold isn't really white.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "It's gold mixed with whiter metals, such as palladium or nickel.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-front-white-input.webp",
+        "after": "matthew-front-white-render.webp"
+      }
+    },
+    {
+      "text": "On its own, that mix still looks a little yellow or gray.",
+      "scene": {
+        "kind": "title",
+        "text": "A little yellow",
+        "sub": "Unplated white gold"
+      }
+    },
+    {
+      "text": "So most white gold gets a thin coat of rhodium.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-render.webp",
+        "label": "Rhodium",
+        "focus": {
+          "x": 0.45,
+          "y": 0.45,
+          "k": 1.5
+        },
+        "marks": [
+          {
+            "x": 0.42,
+            "y": 0.45,
+            "text": "Rhodium coat",
+            "at": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "text": "Rhodium is a rare metal from the same family as platinum.",
+      "scene": {
+        "kind": "title",
+        "text": "Rhodium",
+        "sub": "Platinum family"
+      }
+    },
+    {
+      "text": "With daily wear the coat wears thin and the warm tint shows.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "label": "Daily wear",
+        "focus": {
+          "x": 0.45,
+          "y": 0.62,
+          "k": 1.6
+        }
+      }
+    },
+    {
+      "text": "A jeweler can plate it again, often every year or two.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Re-plating",
+        "role": "Every year or two",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#e2b08a",
+            "glasses": "loupe",
+            "prop": "magnifier",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Platinum is white by nature, so it doesn't need the coat.",
+      "scene": {
+        "kind": "title",
+        "text": "Platinum",
+        "sub": "White by nature"
+      }
+    },
+    {
+      "text": "So on most white gold rings, the white you see is rhodium.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "label": "White gold",
+        "focus": {
+          "x": 0.3,
+          "y": 0.62,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "A render shows the client that finished white before it's cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-input.webp",
+        "after": "ring-1d-render.webp"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "White gold and rhodium plating in jewelry renders",
+    "caption": "White gold is gold mixed with whiter metals, and on its own it looks a little yellow or gray. Most white gold rings get a thin rhodium coat, which a jeweler can renew every year or two. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#whitegold",
+      "#rhodium",
+      "#jewelryrendering",
+      "#jewelrymaking",
+      "#platinum"
+    ]
+  },
+  "sources": [
+    "https://www.brilliantearth.com/news/rhodium-plating/",
+    "https://cullenjewellery.com/education/engagement-ring-guidance/what-is-rhodium-plating",
+    "https://www.bluenile.com/blog/diamonds-jewelry/white-gold-color",
+    "https://www.bluenile.com/blog/diamonds-jewelry/rhodium-plating-guide",
+    "https://www.livescience.com/36988-rhodium.html",
+    "https://www.royalmint.com/invest/discover/gold-news/how-rare-are-precious-metals",
+    "https://www.ganoksin.com/article/working-white-gold/"
+  ]
+}

@@ -21,7 +21,8 @@ export type Story = {
   series?: string; // "lesson" for the render lessons (lessons/), left out for the jewelry stories
   number: number;
   title: string;
-  style?: string; // "lowpoly" draws the scenes as flat-shaded 3D (src/lp, ali 29 Oct 2026); left out, the drawn look
+  style?: string; // "paper" (src/paper, ali 30 Oct 2026, every story from 014 on), "lowpoly" (src/lp, 007 to 013); left out, the drawn look
+  plate?: string; // paper look: the story's name in italics under the plate header ("Crater of Diamonds")
   lines: Line[];
   music?: string;
   hook?: { text: string; gold?: string[] }; // big words on the first frame, shown while the first line is read

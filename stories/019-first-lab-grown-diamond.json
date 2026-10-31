@@ -1,0 +1,222 @@
+{
+  "id": "019-first-lab-grown-diamond",
+  "number": 19,
+  "title": "He made diamonds in an old press",
+  "style": "paper",
+  "topic": "first lab-grown diamond",
+  "plate": "The First Lab Diamond",
+  "music": "music-019.wav",
+  "hook": {
+    "text": "He made diamonds in an old press.",
+    "gold": [
+      "made",
+      "diamonds"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He made diamonds in an old press.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#d9b98a",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 1954, Tracy Hall worked at GE's lab in Schenectady, New York.",
+      "say": "In nineteen fifty-four, Tracy Hall worked at G E's lab in Skenectady, New York.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "H. Tracy Hall",
+        "role": "General Electric, 1954",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "glasses": "round",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The team's project had a code name, Superpressure.",
+      "scene": {
+        "kind": "title",
+        "text": "Project\nSuperpressure",
+        "sub": "GE, code name",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Hall fitted his own design, the belt, into an old, leaky press.",
+      "scene": {
+        "kind": "cut",
+        "phase": "blade",
+        "place": "The belt press",
+        "pieces": [
+          {
+            "tone": "#d9b98a"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "On December 16, 1954, it reached over 1,500 degrees Celsius,",
+      "say": "On December sixteenth, nineteen fifty-four, it reached over fifteen hundred degrees Celsius,",
+      "scene": {
+        "kind": "title",
+        "text": "1,500°C",
+        "sub": "16 December 1954",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "at about 100,000 times the pressure of the air around us.",
+      "say": "at about a hundred thousand times the pressure of the air around us.",
+      "scene": {
+        "kind": "cut",
+        "phase": "blade",
+        "place": "100,000 times",
+        "pieces": [
+          {
+            "tone": "#d9b98a"
+          }
+        ],
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Inside, he saw dozens of tiny flashing crystals.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "color": "#f7c23a",
+        "pieces": [
+          {
+            "shape": "rough",
+            "tone": "#e6d2a8",
+            "size": 0.3
+          },
+          {
+            "shape": "rough",
+            "tone": "#e6d2a8",
+            "size": 0.5
+          },
+          {
+            "shape": "rough",
+            "tone": "#e6d2a8",
+            "size": 0.35
+          },
+          {
+            "shape": "rough",
+            "tone": "#e6d2a8",
+            "size": 0.45
+          },
+          {
+            "shape": "rough",
+            "tone": "#e6d2a8",
+            "size": 0.3
+          },
+          {
+            "shape": "rough",
+            "tone": "#e6d2a8",
+            "size": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "He later wrote that his hands began to tremble.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "color": "#ec6a9c",
+        "gasp": 0.4,
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "glasses": "round",
+            "expression": "surprised"
+          }
+        ]
+      }
+    },
+    {
+      "text": "GE announced the news in February 1955.",
+      "say": "G E announced the news in February nineteen fifty-five.",
+      "scene": {
+        "kind": "parcel",
+        "label": "Schenectady",
+        "stamp": "News",
+        "stampAt": 0.5,
+        "year": "February 1955",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Those first diamonds were tiny, so they went into cutting tools.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Cutting tools",
+        "role": "The first lab diamonds",
+        "color": "#c8dc3c",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#4a3326",
+            "skin": "#c98e62",
+            "prop": "blade",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1971, GE announced lab diamonds good enough for jewelry.",
+      "say": "In nineteen seventy-one, G E announced lab diamonds good enough for jewelry.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "metal": "white",
+        "label": "Gem quality, 1971",
+        "velvet": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "On 16 December 1954, Tracy Hall at General Electric made diamonds in a press he built himself. The first ones were tiny and went into tools, and gem-quality lab diamonds followed in 1971.",
+    "hashtags": [
+      "#labgrowndiamond",
+      "#diamondhistory",
+      "#science",
+      "#inventors",
+      "#jewelrystories"
+    ]
+  },
+  "sources": [
+    "https://www.invent.org/inductees/h-tracy-hall",
+    "https://www.smithsonianmag.com/science-nature/h-tracy-hall-diamond-pioneer-180940899/",
+    "https://www.sciencefriday.com/articles/diamond-fake-excerpt/",
+    "https://www.gia.edu/gia-news-research-synthetic-diamonds-dark-industrials-bright-gems",
+    "https://www.gemsociety.org/article/brief-history-of-lab-grown-diamonds"
+  ]
+}

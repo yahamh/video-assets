@@ -137,7 +137,7 @@ export const timeWords = (text: string, speak: number, given?: Timed[]): Timed[]
 };
 
 // Groups of up to 3 words (fewer when the words are long), shown one group at a time.
-const chunk = (words: Timed[]) => {
+export const chunk = (words: Timed[]) => {
   const out: Timed[][] = [];
   let cur: Timed[] = [];
   let chars = 0;

@@ -207,4 +207,46 @@ for i in range(4):
     x[s:s + len(step)] += step
 save("steps", verb(x, 0.9, 4, 0.3), 0.7)
 
+# The paper look's light sounds (ali, 30 Oct 2026: brighter stories).
+# pluck: a soft plucked string, two notes a fifth apart (Karplus-Strong)
+def ks(fr, sec, damp=0.996):
+    n = int(sec * SR)
+    p = int(SR / fr)
+    buf = rng.uniform(-1, 1, p)
+    out = np.zeros(n)
+    for i in range(n):
+        out[i] = buf[i % p]
+        buf[i % p] = damp * 0.5 * (buf[i % p] + buf[(i + 1) % p])
+    return out
+
+
+x = ks(659.3, 0.9) + 0.45 * ks(987.8, 0.9, 0.994)
+x = lp(x, 3500) * np.minimum(1, T(0.9) / 0.002)
+save("pluck", verb(x, 0.9, 5, 0.25), 0.6)
+
+# bell: a warm bell chord, C major, ringing out
+d = 3.0
+t = T(d)
+x = np.zeros(len(t))
+for fr, amp in ((1046.5, 1.0), (1318.5, 0.6), (1568.0, 0.5), (523.25, 0.5)):
+    for ratio, pamp, dec in ((1, 1, 1.4), (2.0, 0.35, 2.5), (2.76, 0.25, 4), (5.4, 0.08, 7)):
+        x += amp * pamp * np.sin(2 * np.pi * fr * ratio * t) * np.exp(-t * dec)
+x *= np.minimum(1, t / 0.003)
+save("bell", stereo(verb(x, 2.0, 2.2, 0.35), width=0.0008), 0.6)
+
+# pop: a cork-like pop, a quick upward blip with a click
+d = 0.35
+t = T(d)
+f = 260 + 900 * (1 - np.exp(-t * 60))
+x = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t * 28) * np.minimum(1, t / 0.001)
+x += 0.3 * bp(noise(d), 1500, 6000) * np.exp(-t * 200)
+save("pop", verb(x, 0.4, 9, 0.15), 0.7)
+
+# drip: a water drop, a fast rising blip
+d = 0.6
+t = T(d)
+f = 700 * np.exp(t * 22).clip(1, 3.2)
+x = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t * 30) * np.minimum(1, t / 0.001)
+save("drip", verb(x, 0.6, 6, 0.3), 0.65)
+
 print("made", len(os.listdir(out_dir)), "sounds in", out_dir)

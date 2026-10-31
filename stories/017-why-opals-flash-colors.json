@@ -1,0 +1,170 @@
+{
+  "id": "017-why-opals-flash-colors",
+  "number": 17,
+  "title": "Opal's colors come from tiny balls",
+  "style": "paper",
+  "topic": "why opals flash colors",
+  "plate": "Precious Opal",
+  "music": "music-017.wav",
+  "hook": {
+    "text": "Opal's colors come from tiny balls.",
+    "gold": [
+      "tiny",
+      "balls."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Opal's colors come from tiny balls.",
+      "scene": {
+        "kind": "hook",
+        "show": "opal",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Opal is a hardened gel of silica and water,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "opal",
+        "label": "Silica and water",
+        "velvet": "#5bb4e8"
+      }
+    },
+    {
+      "text": "usually 6 to 10 percent water.",
+      "say": "usually six to ten percent water.",
+      "scene": {
+        "kind": "title",
+        "text": "6 to 10%",
+        "sub": "Water",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In the 1960s, scientists at Australia's CSIRO put opal",
+      "say": "In the nineteen sixties, scientists at Australia's C S I R O put opal",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "CSIRO",
+        "role": "Australia, 1960s",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "side",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "glasses": "round",
+            "prop": "magnifier",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "under an electron microscope and saw neat rows of tiny spheres.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "spheres",
+        "label": "Silica spheres",
+        "velvet": "#ec6a9c"
+      }
+    },
+    {
+      "text": "GIA says they're stacked like Ping-Pong balls in a box.",
+      "say": "G I A says they're stacked like Ping-Pong balls in a box.",
+      "scene": {
+        "kind": "title",
+        "text": "Ping-Pong\nballs",
+        "sub": "Stacked in a box",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The spheres and the gaps between them split white light into colors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "opal",
+        "openAt": 0.2,
+        "label": "Play of color",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Larger spheres can flash every color, red included,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "spheres",
+        "label": "Larger: every color",
+        "velvet": "#f0552e"
+      }
+    },
+    {
+      "text": "while smaller ones only show blues and greens.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "spheres",
+        "size": "small",
+        "label": "Smaller: blue and green",
+        "velvet": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Australia mines about 95 percent of the world's precious opal.",
+      "say": "Australia mines about ninety-five percent of the world's precious opal.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Australia",
+        "role": "About 95% of precious opal",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "miner",
+            "hat": "helmet",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e62",
+            "prop": "shovel",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1993, opal became Australia's national gemstone.",
+      "say": "In nineteen ninety-three, opal became Australia's national gemstone.",
+      "scene": {
+        "kind": "gift",
+        "stone": "opal",
+        "to": "National gemstone",
+        "date": "Australia, 1993",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Precious opal is made of tiny silica spheres in neat rows. The size of the spheres decides which colors flash, and almost all of it comes from Australia.",
+    "hashtags": [
+      "#opal",
+      "#australianopal",
+      "#gemstones",
+      "#octoberbirthstone",
+      "#jewelrystories"
+    ]
+  },
+  "sources": [
+    "https://australian.museum/learn/minerals/gemstones/opal/",
+    "https://www.ga.gov.au/education/minerals-energy/australian-mineral-facts/opal",
+    "https://www.gia.edu/opal",
+    "https://www.iycr2014.org/learn/crystallography365/articles/20141010",
+    "https://www.pmc.gov.au/government/australian-national-symbols/australian-national-gemstone"
+  ]
+}

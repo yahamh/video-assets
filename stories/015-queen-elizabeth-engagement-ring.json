@@ -1,0 +1,232 @@
+{
+  "id": "015-queen-elizabeth-engagement-ring",
+  "number": 15,
+  "title": "Her ring came from a tiara",
+  "style": "paper",
+  "topic": "queen elizabeth engagement ring",
+  "plate": "The Engagement Ring",
+  "music": "music-015.wav",
+  "hook": {
+    "text": "Her ring was made from a tiara.",
+    "gold": [
+      "tiara"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Her ring was made from a tiara.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "metal": "white",
+        "shape": "round",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In July 1947, Princess Elizabeth's engagement to Philip was announced.",
+      "say": "In July nineteen forty-seven, Princess Elizabeth's engagement to Philip was announced.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Elizabeth and Philip",
+        "role": "9 July 1947",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#5bb4e8",
+            "hair": "curly",
+            "hairColor": "#5a3a26",
+            "skin": "#f0cfae",
+            "jewel": "pearls",
+            "expression": "smile"
+          },
+          {
+            "outfit": "uniform",
+            "hair": "side",
+            "hairColor": "#c9a46a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The diamonds came from a tiara of Philip's mother, Princess Alice.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Princess Alice",
+        "years": "Philip's mother",
+        "tiara": true,
+        "pearls": true,
+        "hair": "updo",
+        "hairColor": "#6a4a30",
+        "dress": "#a98be0",
+        "bg": "#f7c23a",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Russia's Tsar and his wife gave her that tiara in 1903.",
+      "say": "Russia's Tsar and his wife gave her that tiara in nineteen oh three.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "pear",
+        "tone": "#8fd3e8",
+        "metal": "white",
+        "label": "A gift from Russia, 1903",
+        "velvet": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Philip helped design it, and the London jeweler Philip Antrobus made it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Philip Antrobus",
+        "role": "Jeweler, London",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#e2b08a",
+            "glasses": "loupe",
+            "prop": "magnifier",
+            "expression": "focused"
+          },
+          {
+            "outfit": "uniform",
+            "hair": "side",
+            "hairColor": "#c9a46a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The middle diamond is about three carats, set in platinum,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "metal": "platinum",
+        "label": "About three carats",
+        "velvet": "#f0552e"
+      }
+    },
+    {
+      "text": "with smaller diamonds on each side.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "color": "#4cc3a8",
+        "pieces": [
+          {
+            "shape": "round",
+            "size": 0.3
+          },
+          {
+            "shape": "round",
+            "size": 0.45
+          },
+          {
+            "shape": "round",
+            "size": 1
+          },
+          {
+            "shape": "round",
+            "size": 0.45
+          },
+          {
+            "shape": "round",
+            "size": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was too big at first, because she couldn't try it on.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#5bb4e8",
+            "hair": "curly",
+            "hairColor": "#5a3a26",
+            "skin": "#f0cfae",
+            "jewel": "pearls",
+            "expression": "smile",
+            "react": {
+              "at": 0.8,
+              "expression": "surprised"
+            }
+          }
+        ],
+        "gasp": 0.8
+      }
+    },
+    {
+      "text": "More stones from the same tiara went into a bracelet,",
+      "scene": {
+        "kind": "gift",
+        "stone": "round",
+        "to": "For Elizabeth",
+        "date": "November 1947",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "his wedding present to her that November.",
+      "say": "his wedding present to her that November.",
+      "scene": {
+        "kind": "title",
+        "text": "20 November\n1947",
+        "sub": "Westminster Abbey",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "She wore the ring for the rest of her life.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Queen Elizabeth II",
+        "years": "1926 to 2022",
+        "crown": true,
+        "pearls": true,
+        "hair": "curly",
+        "hairColor": "#b9b4ab",
+        "dress": "#5bb4e8",
+        "bg": "#ec6a9c",
+        "color": "#c8dc3c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Queen Elizabeth II's engagement ring was made from diamonds in a tiara that belonged to Prince Philip's mother. More stones from the same tiara became his wedding present to her.",
+    "hashtags": [
+      "#queenelizabeth",
+      "#royaljewels",
+      "#engagementring",
+      "#royalwedding",
+      "#jewelrystories"
+    ]
+  },
+  "sources": [
+    "https://www.royal.uk/70-facts-about-queen-and-duke-edinburghs-wedding",
+    "https://www.rct.uk/collection/exhibitions/a-royal-wedding/buckingham-palace/the-engagement",
+    "https://rct.uk/collection/exhibitions/a-royal-wedding/buckingham-palace/the-queens-wedding-bracelet",
+    "https://thecourtjeweller.com/2022/09/the-queen-a-life-in-jewels-the-royal-engagement.html"
+  ]
+}

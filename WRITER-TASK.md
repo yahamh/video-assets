@@ -15,8 +15,9 @@ follow it exactly; for lessons, read WRITING-LESSONS.md too.
    aren't told yet (every story has a `topic`) and spread them across the kinds listed in WRITING.md.
 3. For each story, search the web and confirm every fact in two sources that don't copy each other; put both links in
    `sources`. If a fact can't be confirmed twice, leave it out or pick another story.
-4. Set `"style": "lowpoly"` and `"music": "music-NNN.wav"`. The workflow makes the music itself (from the story number), so never commit it;
-   to hear or render it here, `python3 scripts/music.py public/music-NNN.wav 45 NNN`.
+4. Set `"style": "paper"`, a `"plate"` (the story's name in italics under the plate header) and
+   `"music": "music-NNN.wav"`. The workflow makes the music itself (from the story number, bright for paper), so
+   never commit it; to hear or render it here, `python3 scripts/music.py public/music-NNN.wav 45 NNN bright`.
 5. Run `python3 scripts/check.py stories/*.json lessons/*.json` and fix everything it reports.
 6. Look at it: `npm ci` once, then `node scripts/stills.mjs stories/NNN-x.json /tmp/stills 2.5 9.1 ...` for stills of the busiest lines, and
    fix anything that overlaps, is cut off or reads wrong. A story that needs a scene that doesn't exist gets one, in the

@@ -80,7 +80,8 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   "id": "014-hope-diamond",
   "number": 14,
   "title": "Short title for us",
-  "style": "lowpoly",
+  "style": "paper",
+  "plate": "The Hope Diamond",
   "topic": "hope diamond",
   "music": "music-014.wav",
   "hook": { "text": "The hook, seven words or fewer.", "gold": ["word"] },
@@ -93,8 +94,16 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
 }
 ```
 
-- `style`: always `"lowpoly"`. Since story 007 (ali, 29 Oct 2026) the stories are low-poly 3D: flat-shaded facets
-  in the same navy and gold, drawn by `src/lp/`. The check refuses a story without it.
+- `style`: always `"paper"`. Since story 014 (ali, 30 Oct 2026: "brighter positive stories", from a reel he sent,
+  `/mnt/project-files/revamp/stories/reel-style/`) the stories are drawn on warm cream paper: one big painted shape
+  per scene in a bright color, the subject flat on it, thin white line work, confetti, small typed captions, the hook
+  in big italic capitals, bright plucks and a major-key tune. `src/paper/` draws it. Stories 007 to 013 are low-poly
+  3D (`"lowpoly"`, `src/lp/`) and stay that way. The check refuses a new story without `"paper"`.
+- `plate`: the story's name in italics under the plate header at the top ("JEWELRY STORY XIV"), like a plate in an
+  old science book: a few words, title case ("Crater of Diamonds").
+- `color` on a scene picks its painted shape's color: `#ec6a9c` pink, `#f0552e` coral, `#c8dc3c` lime, `#4cc3a8`
+  mint, `#5bb4e8` sky, `#f7c23a` sun, `#a98be0` lilac. Give neighbouring scenes different ones; left out, the scene
+  picks one from its settings.
 - `hold` adds seconds of silence after a line. Use it rarely, for a beat the story has earned.
 - `sfx` adds sounds to a line: `[{ "at": 0.4, "name": "impact" }]` with seconds from the line's start. Names: whoosh,
   whoosh2, impact, boom, riser, shimmer, stamp, horn, waves, crack, heartbeat, creak, steps. Scenes already add their
@@ -124,8 +133,21 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 | stranger | a figure under a street lamp in fog; `darkAt` puts the lights out |
 | title | words alone, for a date or a line that needs room (never first) |
 
-People carry the story: show them whenever the line is about someone. The options are the same in low poly; each
-scene's low-poly version is in `src/lp/` (`scenes.tsx`, `scenes2.tsx`, listed in `registry.ts`). When a story needs
-something no scene shows, add it in `src/lp/` with the 3D pieces there (`models.ts`, `pieces.ts`), register it in
-`src/lp/registry.ts` (and a drawn one in `src/scenes/` and `src/Story.tsx`), and check it with
-`node scripts/stills.mjs` before using it.
+People carry the story: show them whenever the line is about someone. The options are the same in the paper look;
+each scene's paper version is in `src/paper/scenes.tsx` (listed in `registry.ts`, with the shared pieces in
+`kit.tsx`, the things in `things.tsx` and the people in `people.tsx`). The paper look adds a few options:
+
+- `cast`: whole figures standing in a place; settings palace, workshop, street, study, garden, field, lab, mine,
+  ship, vault or plain; outfit `casual` and props `ringbox`, `shovel`, `carrot` on top of the drawn ones.
+- `hook`: `show` can also be `ring` (with `prongs`, `metal`), `carrot`, `opal` or `round-pearl`.
+- `mine`: `ground: "field"` for a plowed field instead of a hill; leave out `carats` and set `zoomAt` past 1 for
+  the ground alone.
+- `jewel`: `prongs` (4 or 6), `halo` and `empty` (a ring with no stone yet) for a ring; and pieces `spheres` (opal's
+  silica spheres, `size: "small"` for small ones), `opal` and `carrot` (a carrot grown through a ring). It is drawn
+  like a plate in a science book, with the stone again in a square lens.
+- `reveal`, `gift`: items and stones can also be `ring`, `opal`, `carrot`, `round-pearl`.
+- `cut`: a piece can take `size` (0 to 1) when it has no carats, and `shape: "rough"` for an uncut crystal.
+
+When a story needs something no scene shows, add it in `src/paper/` (and register it), and check it with
+`node scripts/stills.mjs` before using it. Low-poly scenes (`src/lp/`) and the drawn ones (`src/scenes/`) stay for
+the older stories and the lessons.

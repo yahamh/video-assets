@@ -1,0 +1,174 @@
+{
+  "id": "016-tiffany-setting",
+  "number": 16,
+  "title": "Six prongs changed the engagement ring",
+  "style": "paper",
+  "topic": "tiffany setting",
+  "plate": "The Tiffany Setting",
+  "music": "music-016.wav",
+  "hook": {
+    "text": "Six prongs changed the engagement ring.",
+    "gold": [
+      "Six"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Six prongs changed the engagement ring.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "prongs": 6,
+        "shape": "round",
+        "metal": "yellow",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Before 1886, diamonds in rings sat low against the band,",
+      "say": "Before eighteen eighty-six, diamonds in rings sat low against the band,",
+      "scene": {
+        "kind": "title",
+        "text": "Before 1886",
+        "sub": "Stones set low",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "in rings covered in decoration.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#d66a8a",
+        "metal": "yellow",
+        "label": "Heavily decorated",
+        "velvet": "#c8dc3c"
+      }
+    },
+    {
+      "text": "That year, Charles Lewis Tiffany brought out a new kind of ring.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Charles Lewis Tiffany",
+        "years": "Tiffany & Co., 1886",
+        "beard": true,
+        "hair": "short",
+        "hairColor": "#b9b4ab",
+        "dress": "#3a4a6a",
+        "bg": "#5bb4e8",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Six thin prongs held the diamond high above the band,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "prongs": 6,
+        "metal": "yellow",
+        "label": "The Tiffany Setting",
+        "velvet": "#4cc3a8"
+      }
+    },
+    {
+      "text": "so much more light could get into the stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "openAt": 0.15,
+        "light": "#f7c23a",
+        "label": "More light",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "The ring came in a small box in the company's blue,",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "to": "Tiffany Blue",
+        "date": "1886",
+        "color": "#81d8d0"
+      }
+    },
+    {
+      "text": "a color first used on its catalog cover in 1845.",
+      "say": "a color first used on its catalog cover in eighteen forty-five.",
+      "scene": {
+        "kind": "title",
+        "text": "1845",
+        "sub": "The Blue Book",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Tiffany had opened as a stationery and fancy goods store in 1837.",
+      "say": "Tiffany had opened as a stationery and fancy goods store in eighteen thirty-seven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Tiffany & Young",
+        "role": "New York, 1837",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "suit",
+            "hat": "top",
+            "hair": "short",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "facial": "mustache",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "That blue now has its own Pantone number, 1837.",
+      "say": "That blue now has its own Pantone number, eighteen thirty-seven.",
+      "scene": {
+        "kind": "title",
+        "text": "No. 1837",
+        "sub": "Pantone",
+        "color": "#81d8d0"
+      }
+    },
+    {
+      "text": "The ring set the standard for how an engagement ring should look.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "prongs": 6,
+        "metal": "platinum",
+        "label": "Since 1886",
+        "velvet": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Before 1886, diamonds sat low in heavily decorated rings. Then Tiffany lifted one stone up on six thin prongs, and it became the standard engagement ring.",
+    "hashtags": [
+      "#tiffanysetting",
+      "#engagementring",
+      "#solitairering",
+      "#tiffanyblue",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://press.tiffany.com/the-collections/the-tiffany-setting/",
+    "https://www.gia.edu/gia-news-research-engagement-rings-through-ages",
+    "https://www.bostonglobe.com/lifestyle/style/2016/02/11/the-glittering-history-engagement-ring/QVHaK3nZ6UBLm3zqoXO2FN/story.html",
+    "https://www.tiffany.com.au/world-of-tiffany/blue-box-story/",
+    "https://www.thejewelleryeditor.com/bridal/article/tiffany-setting-130-year-anniversary-diamond-engagement-rings",
+    "https://www.britannica.com/print/article/595434"
+  ]
+}

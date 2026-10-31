@@ -1,0 +1,166 @@
+{
+  "id": "lesson-010-halo-setting",
+  "series": "lesson",
+  "number": 10,
+  "title": "What a halo setting is",
+  "topic": "halo setting",
+  "music": "music-lesson-010.wav",
+  "hook": {
+    "text": "This sapphire wears a ring of diamonds.",
+    "gold": [
+      "ring"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This sapphire wears a ring of diamonds.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.47,
+          "y": 0.55,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "A ring of small stones around a center stone is a halo.",
+      "scene": {
+        "kind": "compare",
+        "before": "pendant-pear-input.webp",
+        "after": "pendant-pear-render.webp"
+      }
+    },
+    {
+      "text": "Halo stones are melee, tiny diamonds under a fifth of a carat.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Melee",
+        "focus": {
+          "x": 0.6,
+          "y": 0.6,
+          "k": 2.2
+        },
+        "marks": [
+          {
+            "x": 0.63,
+            "y": 0.62,
+            "text": "Melee",
+            "at": 0.6
+          }
+        ]
+      }
+    },
+    {
+      "text": "Sellers say it can look up to half a carat bigger.",
+      "scene": {
+        "kind": "title",
+        "text": "Half a carat",
+        "sub": "Bigger, sellers say"
+      }
+    },
+    {
+      "text": "Halos go back to the Georgian era, from 1714 to 1837.",
+      "say": "Halos go back to the Georgian era, from seventeen fourteen to eighteen thirty-seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1714",
+        "sub": "The Georgian era"
+      }
+    },
+    {
+      "text": "They were a hit with the Victorians, then again in the 1920s.",
+      "say": "They were a hit with the Victorians, then again in the nineteen twenties.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Victorians",
+        "role": "1837 to 1901",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#3a2a5a",
+            "hair": "updo",
+            "hairColor": "#4a3326",
+            "skin": "#f0cfae",
+            "jewel": "pendant",
+            "jewelTone": "#2a3fb0",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A double halo puts a second row around the stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Double halo",
+        "sub": "Two rows"
+      }
+    },
+    {
+      "text": "A colored center works well, like this blue sapphire.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Colored center",
+        "focus": {
+          "x": 0.47,
+          "y": 0.6,
+          "k": 1.8
+        },
+        "marks": [
+          {
+            "x": 0.45,
+            "y": 0.6,
+            "text": "Sapphire",
+            "at": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "text": "Princess Diana's oval sapphire had a halo of fourteen diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "14 diamonds",
+        "sub": "Princess Diana's ring"
+      }
+    },
+    {
+      "text": "A render shows the client every halo stone before anything is set.",
+      "scene": {
+        "kind": "compare",
+        "before": "pendant-pear-input.webp",
+        "after": "pendant-pear-render.webp",
+        "at": 0.4
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Halo setting explained with jewelry renders",
+    "caption": "A halo is a ring of small diamonds, called melee, around a center stone. It goes back to the Georgian era and can make the center stone look bigger. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#halosetting",
+      "#jewelryrendering",
+      "#engagementring",
+      "#jewelrydesign",
+      "#sapphire"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/guide-to-ring-settings/",
+    "https://www.bluenile.com/blog/fashion/halo-vs-hidden-halo",
+    "https://www.brilliantearth.com/news/what-is-a-halo-engagement-ring/",
+    "https://4cs.gia.edu/en-us/blog/melee-diamonds-tiny-diamonds-big-impact/",
+    "https://www.revediamonds.com/us/blog/a-guide-to-halo-engagement-rings",
+    "https://theknot.com/content/princess-diana-engagement-ring",
+    "https://www.antiquejewellerycompany.com/princess-dianas-engagement-ring/"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "lesson-012-emerald-cut",
+  "series": "lesson",
+  "number": 12,
+  "title": "What an emerald cut is",
+  "topic": "emerald cut",
+  "music": "music-lesson-012.wav",
+  "hook": {
+    "text": "This diamond has steps instead of sparkle.",
+    "gold": [
+      "steps"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This diamond has steps instead of sparkle.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.48,
+          "k": 1.3
+        }
+      }
+    },
+    {
+      "text": "It's an emerald cut, a rectangle with its corners cut off.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-front-input.webp",
+        "after": "mix585-front-render.webp"
+      }
+    },
+    {
+      "text": "Its facets run in flat rows like stairs, a step cut.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "label": "Step cut",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 2.2
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.38,
+            "text": "Steps",
+            "at": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "text": "Instead of tiny sparkles, it shows broad flashes of light.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "label": "Broad flashes",
+        "focus": {
+          "x": 0.57,
+          "y": 0.16,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "People call that look a hall of mirrors.",
+      "scene": {
+        "kind": "title",
+        "text": "Hall of mirrors",
+        "sub": "Broad flashes"
+      }
+    },
+    {
+      "text": "The cut was first made for emeralds in the 1500s.",
+      "say": "The cut was first made for emeralds in the fifteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "1500s",
+        "sub": "First for emeralds"
+      }
+    },
+    {
+      "text": "The cut corners help keep a stone from chipping.",
+      "scene": {
+        "kind": "photo",
+        "src": "refine-after.webp",
+        "label": "Cut corners",
+        "focus": {
+          "x": 0.48,
+          "y": 0.12,
+          "k": 2.4
+        },
+        "marks": [
+          {
+            "x": 0.4,
+            "y": 0.07,
+            "text": "Cut corner",
+            "at": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "text": "Open facets show inclusions, so clarity matters more.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-front.webp",
+        "label": "Clarity",
+        "focus": {
+          "x": 0.5,
+          "y": 0.12,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "Most are about one and a half times as long as wide.",
+      "scene": {
+        "kind": "title",
+        "text": "1.5 : 1",
+        "sub": "Length to width"
+      }
+    },
+    {
+      "text": "Its square sister, the Asscher cut, dates from 1902.",
+      "say": "Its square sister, the Asscher cut, dates from nineteen oh two.",
+      "scene": {
+        "kind": "title",
+        "text": "Asscher",
+        "sub": "Square, 1902"
+      }
+    },
+    {
+      "text": "So those steps are the facets, lined up in rows.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "label": "The facets",
+        "focus": {
+          "x": 0.5,
+          "y": 0.48,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "A render shows a client those steps before the stone is set.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-still-three-quarter.webp",
+        "after": "mix585-render-three-quarter.webp"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Emerald cut diamonds explained with jewelry renders",
+    "caption": "An emerald cut is a rectangle with cut corners and long step facets, so it shows broad flashes instead of sparkle. It was first made for emeralds, and its square sister is the Asscher cut. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#emeraldcut",
+      "#jewelryrendering",
+      "#diamondcuts",
+      "#engagementring",
+      "#stepcut"
+    ]
+  },
+  "sources": [
+    "https://www.gemsociety.org/article/emerald-asscher-cut-diamonds/",
+    "https://4cs.gia.edu/en-us/blog/diamond-emerald-cut-engagement-ring/",
+    "https://www.bluenile.com/blog/diamonds-jewelry/what-is-emerald-cut-diamond",
+    "https://www.gemsociety.org/lesson/step-cuts-and-emerald-cuts-the-art-of-understated-elegance/",
+    "https://www.emeralds.com/education/the-emerald-cut/",
+    "https://www.jckonline.com/magazine-article/the-rise-of-the-house-of-asscher/"
+  ]
+}
