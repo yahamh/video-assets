@@ -187,8 +187,8 @@
       "tiktok": "https://www.tiktok.com/@hey.gema/video/7702831806327934209"
     },
     "retry": {
-      "at": "2026-11-03T12:00:00Z",
-      "zernio_id": "6ae614b4429bcc123329e052",
+      "at": "2026-11-04T14:10:00Z",
+      "zernio_id": "6ae61685ea7ec36acdd724fc",
       "platforms": [
         "youtube"
       ],
@@ -203,8 +203,8 @@
       "tiktok"
     ],
     "retry": {
-      "at": "2026-11-03T20:30:00Z",
-      "zernio_id": "6ae614bcd71b3974eefce2be",
+      "at": "2026-11-04T15:30:00Z",
+      "zernio_id": "6ae6168cea7ec36acdd72519",
       "platforms": [
         "youtube"
       ],
@@ -219,8 +219,8 @@
       "tiktok"
     ],
     "retry": {
-      "at": "2026-11-03T21:30:00Z",
-      "zernio_id": "6ae614c3429bcc123329e0c0",
+      "at": "2026-11-04T16:40:00Z",
+      "zernio_id": "6ae61695f46ee92431813f69",
       "platforms": [
         "youtube"
       ],
@@ -235,8 +235,8 @@
       "tiktok"
     ],
     "retry": {
-      "at": "2026-11-04T12:00:00Z",
-      "zernio_id": "6ae614d0429bcc123329e100",
+      "at": "2026-11-05T14:10:00Z",
+      "zernio_id": "6ae616a0ea7ec36acdd725c3",
       "platforms": [
         "youtube"
       ],
@@ -251,8 +251,8 @@
       "tiktok"
     ],
     "retry": {
-      "at": "2026-11-04T20:30:00Z",
-      "zernio_id": "6ae614e1429bcc123329e161",
+      "at": "2026-11-05T15:20:00Z",
+      "zernio_id": "6ae616b4ea7ec36acdd7265b",
       "platforms": [
         "youtube"
       ],
@@ -267,8 +267,8 @@
       "tiktok"
     ],
     "retry": {
-      "at": "2026-11-04T21:30:00Z",
-      "zernio_id": "6ae614f5d71b3974eefce387",
+      "at": "2026-11-05T15:30:00Z",
+      "zernio_id": "6ae616c3ea7ec36acdd726b2",
       "platforms": [
         "youtube"
       ],
@@ -336,8 +336,8 @@
     ]
   },
   "ft-two-tone-bridal-set": {
-    "at": "2026-11-01T13:50:00Z",
-    "zernio_id": "6ae523942c8a0ab312695017",
+    "at": "2026-11-01T15:30:00Z",
+    "zernio_id": "6ae6166cf46ee92431813ee8",
     "platforms": [
       "instagram",
       "tiktok",
@@ -345,8 +345,8 @@
     ]
   },
   "ft-two-tone-cushion": {
-    "at": "2026-11-01T16:20:00Z",
-    "zernio_id": "6ae523982c8a0ab312695025",
+    "at": "2026-11-01T16:40:00Z",
+    "zernio_id": "6ae61673ea7ec36acdd72436",
     "platforms": [
       "instagram",
       "tiktok",
@@ -354,8 +354,8 @@
     ]
   },
   "ft-two-tone-oval-halo": {
-    "at": "2026-11-01T17:00:00Z",
-    "zernio_id": "6ae5239df4847f982e4a981a",
+    "at": "2026-11-02T14:10:00Z",
+    "zernio_id": "6ae61678ea7ec36acdd7247b",
     "platforms": [
       "instagram",
       "tiktok",
@@ -462,7 +462,11 @@
     "zernio_id": "6ae49b6271f084bb4e4fd9bb",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=DVlrerPE1iI"
+    }
   },
   "lesson-009-prong-settings": {
     "at": "2026-11-01T16:00:00Z",
@@ -501,11 +505,19 @@
     "status": "failed",
     "out": {
       "youtube": "failed: YouTube upload session initialization failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\n        \"domain\": \"youtube"
+    },
+    "retry": {
+      "at": "2026-11-01T14:10:00Z",
+      "zernio_id": "6ae616cdea7ec36acdd726f0",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
     }
   },
   "yt-rhino-cushion-solitaire": {
-    "at": "2026-11-01T16:40:00Z",
-    "zernio_id": "6ae5239b4ecd91c909df60ce",
+    "at": "2026-11-01T18:10:00Z",
+    "zernio_id": "6ae61675ea7ec36acdd7244e",
     "platforms": [
       "youtube"
     ]
@@ -529,8 +541,8 @@
     ]
   },
   "yt-rhino-pear-halo": {
-    "at": "2026-11-02T16:20:00Z",
-    "zernio_id": "6ae523a54ecd91c909df6133",
+    "at": "2026-11-03T16:40:00Z",
+    "zernio_id": "6ae61680ea7ec36acdd724cb",
     "platforms": [
       "youtube"
     ]
@@ -554,22 +566,22 @@
     }
   },
   "yt-rhino-sunburst-necklace": {
-    "at": "2026-11-01T18:20:00Z",
-    "zernio_id": "6ae523a02c8a0ab312695032",
+    "at": "2026-11-02T15:30:00Z",
+    "zernio_id": "6ae6167aea7ec36acdd724a4",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-three-stone": {
-    "at": "2026-11-01T15:30:00Z",
-    "zernio_id": "6ae523962c8a0ab312695020",
+    "at": "2026-11-01T16:20:00Z",
+    "zernio_id": "6ae61670ea7ec36acdd72421",
     "platforms": [
       "youtube"
     ]
   },
   "yt-rhino-toi-et-moi": {
-    "at": "2026-11-02T15:30:00Z",
-    "zernio_id": "6ae523a24ecd91c909df610f",
+    "at": "2026-11-03T14:10:00Z",
+    "zernio_id": "6ae6167dea7ec36acdd724ac",
     "platforms": [
       "youtube"
     ]
