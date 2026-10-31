@@ -70,6 +70,8 @@ def next_slot(after, times):
 def lifts(at, text):
     """When a platform that refused a post at `at` over a limit takes posts again (10 minutes to spare), or None
     when the refusal wasn't about a limit."""
+    if re.search(r"exceeded the number of videos", text, re.I):  # YouTube's daily upload limit, in its own words
+        return at + dt.timedelta(hours=24, minutes=10)
     if not re.search(r"limit", text, re.I):
         return None
     if m := re.search(r"rateLimitedUntil\W+(\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d)", text):
@@ -477,11 +479,14 @@ def main():
             save(posts)
             print(f"Moved {key} to {iso(at)} on {', '.join(accounts)} (Zernio post {zid})")
 
-        # "youtube_later": {id: time}: a video that went out without YouTube (skip_youtube kept it off) goes up there
-        # alone at that time. It's kept and checked like a second try.
+        # "youtube_later": {id: time}: a video that went out without YouTube (skip_youtube kept it off), or that YouTube
+        # refused, goes up there alone at that time. It's kept and checked like a second try.
         for sid, want in (sched.get("youtube_later") or {}).items():
             p = posts.get(sid)
-            if not p or sid not in found or "youtube" in p["platforms"] or p.get("retry") or "youtube" not in every:
+            if not p or sid not in found or p.get("retry") or "youtube" not in every:
+                continue
+            refused = p.get("status") in DONE and not str((p.get("out") or {}).get("youtube", "")).startswith("http")
+            if "youtube" in p["platforms"] and not refused:
                 continue
             at = parse(want)
             if at <= now + LEAD:
