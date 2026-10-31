@@ -13,7 +13,8 @@ Zernio and posts right away).
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
 with the new video. schedule.json "move" sends booked videos to new times (and platforms), and "skip_youtube" keeps a
 series off YouTube for a while, when YouTube's 10 uploads a day are needed for other videos; "youtube_later" then
-puts such a video up on YouTube alone at a later time. Each run also asks Zernio how the posts that were due went out and keeps that in
+puts such a video up on YouTube alone at a later time. "youtube_text" swaps one sentence of a live YouTube video's
+description (Zernio's edit for our posts, its direct mode for videos uploaded elsewhere). Each run also asks Zernio how the posts that were due went out and keeps that in
 posts.json (status, and each platform's link or error); a post that failed anywhere fails the run once.
 A platform that refused a post over a limit (YouTube's daily upload limit, Zernio's rate limit) gets the video again,
 alone, booked for after the limit lifts, up to three tries and at most RETRY_PER_DAY a day: posts.json keeps the
@@ -297,6 +298,78 @@ def output(**kw):
                 f.write(f"{k}={v}\n")
 
 
+CATEGORY_IDS = {"Howto & Style": "26", "Education": "27", "Science & Technology": "28", "People & Blogs": "22"}
+
+
+def live_youtube(vid):
+    """A YouTube video's description, title, tags and category as its public page shows them now, or None."""
+    req = urllib.request.Request(f"https://www.youtube.com/watch?v={vid}&hl=en", headers={
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9", "Cookie": "CONSENT=YES+1; SOCS=CAI"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            page = r.read().decode("utf-8", "replace")
+        mark = "ytInitialPlayerResponse = "
+        d, _ = json.JSONDecoder().raw_decode(page, page.index(mark) + len(mark))
+    except Exception as e:
+        print(f"  couldn't read youtube.com/watch?v={vid} ({str(e)[:200]})")
+        return None
+    v = d.get("videoDetails") or {}
+    if "shortDescription" not in v:
+        print(f"  youtube.com/watch?v={vid} shows no description ({(d.get('playabilityStatus') or {}).get('status')})")
+        return None
+    cat = ((d.get("microformat") or {}).get("playerMicroformatRenderer") or {}).get("category")
+    return dict(description=v["shortDescription"], title=v.get("title"), tags=v.get("keywords") or [], category=cat)
+
+
+def youtube_text(z, sched, posts, dry_run):
+    """schedule.json "youtube_text": [{video, post?, old, new}] swaps one sentence of a YouTube video's description, as
+    it reads on YouTube now, and keeps the rest. A video posted through Zernio ("post": its id in posts.json) is edited
+    as that post; one uploaded elsewhere goes through Zernio's direct mode, with its current title and tags sent back
+    unchanged. Once the old sentence is gone, the entry does nothing. Never fails the run."""
+    yt = None
+    for it in sched.get("youtube_text") or []:
+        vid, old, new = it["video"], it["old"], it["new"]
+        zid = (posts.get(it.get("post") or "") or {}).get("zernio_id")
+        live = live_youtube(vid)
+        desc = live and live["description"]
+        if desc is None and zid:  # the page didn't load: the text Zernio posted
+            try:
+                got = z.call("GET", f"/posts/{zid}")
+                desc = (got.get("post") or got).get("content")
+            except Exception as e:
+                print(f"  couldn't read Zernio post {zid} ({e})")
+        if desc is None:
+            print(f"::warning::couldn't read the description of youtube.com/watch?v={vid}; not edited this run")
+            continue
+        if old not in desc:
+            print(f"YouTube {vid}: the old sentence is gone; the new one is " + ("there" if new in desc else "NOT there"))
+            continue
+        text = desc.replace(old, new)
+        if dry_run:
+            print(f"Would edit the description of youtube.com/watch?v={vid}:\n{text}")
+            continue
+        try:
+            if zid:
+                res = z.call("POST", f"/posts/{zid}/edit", {"platform": "youtube", "content": text})
+            elif live:
+                if yt is None:
+                    yt = z.accounts(["youtube"], sched.get("accounts", {})).get("youtube")
+                body = {"platform": "youtube", "videoId": vid, "accountId": yt, "description": text}
+                if live["title"]:
+                    body["title"] = live["title"]
+                if live["tags"]:
+                    body["tags"] = live["tags"]
+                if CATEGORY_IDS.get(live["category"]):
+                    body["categoryId"] = CATEGORY_IDS[live["category"]]
+                res = z.call("POST", "/posts/_/update-metadata", body)
+            else:
+                continue
+            print(f"Edited the description of youtube.com/watch?v={vid}: {json.dumps(res)[:300]}")
+        except Exception as e:
+            print(f"::warning::couldn't edit the description of youtube.com/watch?v={vid}: {e}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--remade", default="")
@@ -321,6 +394,7 @@ def main():
         except Exception as e:
             print(f"Couldn't read Zernio usage ({e})")
         stats(z)
+    youtube_text(z, sched, posts, args.dry_run)
     bad = [] if args.dry_run else check(z, posts, now)
     if bad or any(p.get("status") for p in posts.values()):
         save(posts)
