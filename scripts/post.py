@@ -326,7 +326,9 @@ def youtube_text(z, sched, posts, dry_run):
     """schedule.json "youtube_text": [{video, post?, old, new}] swaps one sentence of a YouTube video's description, as
     it reads on YouTube now, and keeps the rest. A video posted through Zernio ("post": its id in posts.json) is edited
     as that post; one uploaded elsewhere goes through Zernio's direct mode, with its current title and tags sent back
-    unchanged. Once the old sentence is gone, the entry does nothing. Never fails the run."""
+    unchanged. An entry with "description" (and "title", "tags", "categoryId") is for a video YouTube won't show us
+    and Zernio didn't post: that whole description goes up as it is. Once the old sentence is gone, the entry does
+    nothing. Never fails the run."""
     yt = None
     for it in sched.get("youtube_text") or []:
         vid, old, new = it["video"], it["old"], it["new"]
@@ -339,6 +341,25 @@ def youtube_text(z, sched, posts, dry_run):
                 desc = (got.get("post") or got).get("content")
             except Exception as e:
                 print(f"  couldn't read Zernio post {zid} ({e})")
+        if desc is None and it.get("description"):
+            # YouTube can't be read from here and Zernio didn't post it: our own copy of the whole description, with
+            # the new sentence, goes up as it is, with the title, tags and category it was uploaded with.
+            text = it["description"]
+            if old in text or new not in text:
+                print(f"::warning::youtube_text {vid}: its description must have the new sentence and not the old one")
+                continue
+            body = {"platform": "youtube", "videoId": vid, "description": text}
+            body.update({k: it[k] for k in ("title", "tags", "categoryId") if it.get(k)})
+            if dry_run:
+                print(f"Would set the description of youtube.com/watch?v={vid} to our copy:\n{text}")
+                continue
+            try:
+                body["accountId"] = yt = yt or z.accounts(["youtube"], sched.get("accounts", {})).get("youtube")
+                res = z.call("POST", "/posts/_/update-metadata", body)
+                print(f"Set the description of youtube.com/watch?v={vid} from our copy: {json.dumps(res)[:300]}")
+            except Exception as e:
+                print(f"::warning::couldn't edit the description of youtube.com/watch?v={vid}: {e}")
+            continue
         if desc is None:
             print(f"::warning::couldn't read the description of youtube.com/watch?v={vid}; not edited this run")
             continue

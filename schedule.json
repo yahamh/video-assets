@@ -122,7 +122,27 @@
     {
       "video": "JB5HZUoo52c",
       "old": "The 3D file stays on your computer; only pictures of the view you pick are sent.",
-      "new": "Your file is never stored. It's only used to make your render."
+      "new": "Your file is never stored. It's only used to make your render.",
+      "description": "Rhino jewelry rendering without KeyShot or a plugin: I open a .3dm file of a cushion solitaire in the browser and render it in rose gold.\nTry it free: https://heygema.com/en/render?utm_source=youtube&utm_medium=video&utm_campaign=l1-rhino-3dm-render\n\nDrop the .3dm on the page, turn the model or click a preset view (front, side, top, ¾, or back), pick the center stone and the metal, and click Render this view. Files saved by MatrixGold and RhinoGold are .3dm files too. Your file is never stored. It's only used to make your render.\n\nNo rendering skills needed, and there's nothing to learn. No freelancer to find and wait on. A free plan, and about $1 a render on Pro.\n\nStep-by-step guide, with the Rhino save settings: https://heygema.com/en/guides/render-rhino-3dm-file-online?utm_source=youtube&utm_medium=video&utm_campaign=l1-rhino-3dm-render\n\nChapters\n0:00 Upload the .3dm and pick the view\n0:30 Before you upload: check the Rhino file\n0:44 Rhino jewelry render examples\n1:00 What it saves you\n\nHeyGema turns jewelry CAD into photorealistic renders in your browser.\n\n#rhino3d #jewelrycad #jewelryrendering",
+      "title": "Rhino Jewelry Rendering: Render a .3dm File Online, Free",
+      "tags": [
+        "rhino jewelry rendering",
+        "rhino jewelry render",
+        "3dm file render online",
+        "render 3dm file",
+        "how to render jewelry in rhino",
+        "rhino 3dm",
+        "matrixgold rendering",
+        "rhinogold",
+        "jewelry cad rendering",
+        "jewelry rendering",
+        "render jewelry online",
+        "keyshot alternative",
+        "jewellery rendering",
+        "heygema",
+        "hey gemma"
+      ],
+      "categoryId": "26"
     }
   ]
 }
