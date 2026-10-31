@@ -554,6 +554,13 @@
       "youtube"
     ]
   },
+  "yt-rhino-pick": {
+    "at": "2026-11-06T14:10:00Z",
+    "zernio_id": "6ae617a93520829bafc67c4d",
+    "platforms": [
+      "youtube"
+    ]
+  },
   "yt-rhino-plugin-how-to": {
     "at": "2026-10-30T13:27:20Z",
     "zernio_id": "6ae49b323bca79ea171571fc",
@@ -582,6 +589,13 @@
   "yt-rhino-toi-et-moi": {
     "at": "2026-11-03T14:10:00Z",
     "zernio_id": "6ae6167dea7ec36acdd724ac",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "yt-rhino-update": {
+    "at": "2026-11-05T20:30:00Z",
+    "zernio_id": "6ae617a7bf5ded40f04aab75",
     "platforms": [
       "youtube"
     ]
