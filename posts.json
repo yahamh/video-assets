@@ -180,7 +180,20 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfKUutOD4UP/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702831806327934209"
+    },
+    "retry": {
+      "at": "2026-11-03T12:00:00Z",
+      "zernio_id": "6ae614b4429bcc123329e052",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
+    }
   },
   "012-cartier-panther": {
     "at": "2026-10-31T18:00:00Z",
@@ -188,7 +201,15 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "retry": {
+      "at": "2026-11-03T20:30:00Z",
+      "zernio_id": "6ae614bcd71b3974eefce2be",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
+    }
   },
   "013-first-diamond-engagement-ring": {
     "at": "2026-10-31T23:00:00Z",
@@ -196,7 +217,15 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "retry": {
+      "at": "2026-11-03T21:30:00Z",
+      "zernio_id": "6ae614c3429bcc123329e0c0",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
+    }
   },
   "014-crater-of-diamonds": {
     "at": "2026-11-01T14:00:00Z",
@@ -204,7 +233,15 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "retry": {
+      "at": "2026-11-04T12:00:00Z",
+      "zernio_id": "6ae614d0429bcc123329e100",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
+    }
   },
   "015-queen-elizabeth-engagement-ring": {
     "at": "2026-11-01T18:00:00Z",
@@ -212,7 +249,15 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "retry": {
+      "at": "2026-11-04T20:30:00Z",
+      "zernio_id": "6ae614e1429bcc123329e161",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
+    }
   },
   "016-tiffany-setting": {
     "at": "2026-11-01T23:00:00Z",
@@ -220,7 +265,15 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "retry": {
+      "at": "2026-11-04T21:30:00Z",
+      "zernio_id": "6ae614f5d71b3974eefce387",
+      "platforms": [
+        "youtube"
+      ],
+      "tries": 1
+    }
   },
   "017-why-opals-flash-colors": {
     "at": "2026-11-02T14:00:00Z",
@@ -256,7 +309,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfKVyqnlBi8/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702834175761566983",
+      "youtube": "https://www.youtube.com/watch?v=D926C7wVXOU"
+    }
   },
   "ft-prongs-three-stone": {
     "at": "2026-10-31T16:20:00Z",
@@ -438,7 +497,11 @@
     "zernio_id": "6ae5238316ee5ec4f8810d4e",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "failed",
+    "out": {
+      "youtube": "failed: YouTube upload session initialization failed: 400 {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number of videos they may upload.\",\n        \"domain\": \"youtube"
+    }
   },
   "yt-rhino-cushion-solitaire": {
     "at": "2026-11-01T16:40:00Z",
@@ -452,7 +515,11 @@
     "zernio_id": "6ae5238898a6b43b6e80681d",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=98IgTFpxfkY"
+    }
   },
   "yt-rhino-pave-signet": {
     "at": "2026-10-31T23:10:00Z",
