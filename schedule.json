@@ -1,5 +1,5 @@
 {
-  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026. move: videos booked but not posted yet that go to a new time (and platforms, when given), booked again there before the old booking comes off Zernio; \"<id>#retry\" moves a re-post. skip_youtube: {series: [from, until]} leaves YouTube out of that series' bookings in that span. 30 Oct, ali chose \"All by Monday\" for the 9 Rhino Shorts and 6 two-tone videos: they're spread so YouTube never gets more than 9 uploads in 24 hours (with the daily Social Short), and the stories skip YouTube on 31 Oct and 1 Nov to make room.",
+  "note": "Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026. move: videos booked but not posted yet that go to a new time (and platforms, when given), booked again there before the old booking comes off Zernio; \"<id>#retry\" moves a re-post. skip_youtube: {series: [from, until]} leaves YouTube out of that series' bookings in that span. 30 Oct, ali chose \"All by Monday\" for the 9 Rhino Shorts and 6 two-tone videos: they're spread so YouTube never gets more than 9 uploads in 24 hours (with the daily Social Short), and the stories skip YouTube on 31 Oct and 1 Nov to make room. youtube_later: {id: time} puts a video that skipped YouTube up there alone at that time; 31 Oct, ali said we don't post enough on YouTube, so stories 011-016 go up on 3 and 4 Nov, still 9 or fewer YouTube uploads in any 24 hours.",
   "paused": false,
   "times": [
     "14:00",
@@ -95,5 +95,13 @@
       "2026-10-31T00:00:00Z",
       "2026-11-02T00:00:00Z"
     ]
+  },
+  "youtube_later": {
+    "011-why-rubies-are-red": "2026-11-03T12:00:00Z",
+    "012-cartier-panther": "2026-11-03T20:30:00Z",
+    "013-first-diamond-engagement-ring": "2026-11-03T21:30:00Z",
+    "014-crater-of-diamonds": "2026-11-04T12:00:00Z",
+    "015-queen-elizabeth-engagement-ring": "2026-11-04T20:30:00Z",
+    "016-tiffany-setting": "2026-11-04T21:30:00Z"
   }
 }

@@ -12,7 +12,8 @@ Videos listed in schedule.json "now" post the moment they're made instead (one a
 Zernio and posts right away).
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
 with the new video. schedule.json "move" sends booked videos to new times (and platforms), and "skip_youtube" keeps a
-series off YouTube for a while, when YouTube's 10 uploads a day are needed for other videos. Each run also asks Zernio how the posts that were due went out and keeps that in
+series off YouTube for a while, when YouTube's 10 uploads a day are needed for other videos; "youtube_later" then
+puts such a video up on YouTube alone at a later time. Each run also asks Zernio how the posts that were due went out and keeps that in
 posts.json (status, and each platform's link or error); a post that failed anywhere fails the run once.
 A platform that refused a post over a limit (YouTube's daily upload limit, Zernio's rate limit) gets the video again,
 alone, booked for after the limit lifts, up to three tries and at most RETRY_PER_DAY a day: posts.json keeps the
@@ -165,6 +166,8 @@ def check(z, posts, now):
                     p.setdefault("out", {})[name] = (e.get("platformPostUrl") or "published") if ok else f"{e.get('status')}: {err}"[:300]
                 if all(str(v).startswith("http") or v == "published" for v in p["out"].values()):
                     p["status"] = "published"
+                else:
+                    p["status"] = "partial"
                 print(f"{sid}, second try ({r['at']}): {r['status']}; " + ", ".join(f"{k} {v}" for k, v in p["out"].items()))
         # a published post whose link Zernio didn't have yet (TikTok can lag) is asked about again for two days
         no_link = p.get("status") == "published" and any(not str(v).startswith("http") for v in (p.get("out") or {}).values())
@@ -203,6 +206,29 @@ def check(z, posts, now):
             print(f"::error::{sid} didn't go out everywhere: {status}, {', '.join(wrong) or 'see Zernio'}")
             bad.append(sid)
     return bad
+
+
+def stats(z):
+    """Prints how the latest posts did (views, likes and so on, as Zernio reports them), for the run log. Best effort:
+    Zernio may not have numbers for every platform, or may want its analytics add-on."""
+    try:
+        got = z.call("GET", "/analytics?limit=60")
+    except Exception as e:
+        print(f"Couldn't read Zernio analytics ({e})")
+        return
+    rows = got if isinstance(got, list) else next((got[k] for k in ("posts", "data", "items", "analytics") if isinstance(got.get(k), list)), None)
+    if rows is None:
+        print("Zernio analytics:", json.dumps(got)[:3000])
+        return
+    print(f"Zernio analytics, {len(rows)} posts:")
+    keys = ("views", "impressions", "reach", "likes", "comments", "shares", "saves", "engagementRate")
+    for r in rows:
+        nums = r.get("analytics") or r.get("metrics") or r
+        line = ", ".join(f"{k} {nums[k]}" for k in keys if isinstance(nums, dict) and nums.get(k) not in (None, 0, ""))
+        where = r.get("platform") or ",".join(sorted({str(x.get("platform")) for x in r.get("platforms") or [] if isinstance(x, dict)}))
+        when = str(r.get("publishedAt") or r.get("scheduledFor") or "")[:16]
+        text = " ".join(str(r.get("content") or "").split())[:50]
+        print(f"  {when} {where}: {line or json.dumps(nums)[:200]} | {text} | {r.get('platformPostUrl') or r.get('_id') or ''}")
 
 
 def payload(story, url, slot, accounts, intro=""):  # slot None: post right away; intro: a first line for the series
@@ -292,6 +318,7 @@ def main():
             print("Zernio usage:", json.dumps(z.call("GET", "/usage"))[:600])
         except Exception as e:
             print(f"Couldn't read Zernio usage ({e})")
+        stats(z)
     bad = [] if args.dry_run else check(z, posts, now)
     if bad or any(p.get("status") for p in posts.values()):
         save(posts)
@@ -449,6 +476,30 @@ def main():
             old.update({"at": iso(at), "zernio_id": zid, "platforms": list(accounts)})
             save(posts)
             print(f"Moved {key} to {iso(at)} on {', '.join(accounts)} (Zernio post {zid})")
+
+        # "youtube_later": {id: time}: a video that went out without YouTube (skip_youtube kept it off) goes up there
+        # alone at that time. It's kept and checked like a second try.
+        for sid, want in (sched.get("youtube_later") or {}).items():
+            p = posts.get(sid)
+            if not p or sid not in found or "youtube" in p["platforms"] or p.get("retry") or "youtube" not in every:
+                continue
+            at = parse(want)
+            if at <= now + LEAD:
+                print(f"::warning::{sid} can't go up on YouTube at {want}, that's too soon; give it a later time")
+                continue
+            if args.dry_run:
+                print(f"Would post {sid} on youtube at {want}")
+                continue
+            try:
+                zid, _ = book(json.load(open(found[sid])), series_of(sid), at, {"youtube": every["youtube"]}, tmp, "-youtube")
+            except Exception as e:
+                print(f"::notice::{sid} isn't booked on YouTube yet: {e}")
+                failed |= int(" 429 " not in str(e))
+                continue
+            p["retry"] = {"at": iso(at), "zernio_id": zid, "platforms": ["youtube"], "tries": 1}
+            save(posts)
+            retried[iso(at)[:10]] = retried.get(iso(at)[:10], 0) + 1
+            print(f"Booked {sid} on youtube for {iso(at)} (Zernio post {zid})")
 
         todo = []
         for sid, p in posts.items():
