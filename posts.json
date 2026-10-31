@@ -166,7 +166,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfIt4pMkQc2/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702600185544805652",
+      "youtube": "https://www.youtube.com/watch?v=7ANvFij40fw"
+    }
   },
   "011-why-rubies-are-red": {
     "at": "2026-10-31T14:00:00Z",
@@ -190,6 +196,57 @@
     "platforms": [
       "instagram",
       "tiktok"
+    ]
+  },
+  "014-crater-of-diamonds": {
+    "at": "2026-11-01T14:00:00Z",
+    "zernio_id": "6ae579bb0d57ececf76bcb96",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "015-queen-elizabeth-engagement-ring": {
+    "at": "2026-11-01T18:00:00Z",
+    "zernio_id": "6ae579cd1c41d0d3f42322a1",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "016-tiffany-setting": {
+    "at": "2026-11-01T23:00:00Z",
+    "zernio_id": "6ae579dd0d57ececf76bcc4d",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "017-why-opals-flash-colors": {
+    "at": "2026-11-02T14:00:00Z",
+    "zernio_id": "6ae579f5454cb392a44e3a5b",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "018-ring-on-a-carrot": {
+    "at": "2026-11-02T18:00:00Z",
+    "zernio_id": "6ae57a0c0d4549b26bf671f5",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "019-first-lab-grown-diamond": {
+    "at": "2026-11-02T23:00:00Z",
+    "zernio_id": "6ae57a1e0d4549b26bf67291",
+    "platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -351,6 +408,27 @@
   "lesson-009-prong-settings": {
     "at": "2026-11-01T16:00:00Z",
     "zernio_id": "6ae49b795ff6d4de019b4e53",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-010-halo-setting": {
+    "at": "2026-11-02T16:00:00Z",
+    "zernio_id": "6ae579fe1c41d0d3f42322e4",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-011-white-gold-rhodium": {
+    "at": "2026-11-03T16:00:00Z",
+    "zernio_id": "6ae57a290d4549b26bf672fc",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-012-emerald-cut": {
+    "at": "2026-11-04T16:00:00Z",
+    "zernio_id": "6ae57a2f0d4549b26bf67347",
     "platforms": [
       "youtube"
     ]
