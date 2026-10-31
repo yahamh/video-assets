@@ -230,6 +230,11 @@
         "youtube"
       ],
       "tries": 1
+    },
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfLSwU8Ex-k/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702971457814498580"
     }
   },
   "014-crater-of-diamonds": {
@@ -555,7 +560,11 @@
     "zernio_id": "6ae523910afd367d53307db3",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=5TPo00mjQjk"
+    }
   },
   "yt-rhino-pear-halo": {
     "at": "2026-11-03T16:40:00Z",
