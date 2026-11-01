@@ -1,0 +1,100 @@
+{
+  "id": "025-staffordshire-hoard",
+  "number": 25,
+  "title": "A farmer's field hid Anglo-Saxon gold",
+  "style": "paper",
+  "plate": "The Staffordshire Hoard",
+  "topic": "staffordshire hoard",
+  "music": "music-025.wav",
+  "hook": { "text": "A farmer's field hid Anglo-Saxon gold.", "gold": ["field", "gold"] },
+  "end": { "line": "A new jewelry story every day", "handle": "HeyGema" },
+  "lines": [
+    {
+      "text": "A farmer's field hid Anglo-Saxon gold.",
+      "scene": { "kind": "hook", "show": "chest", "shape": "cushion", "tone": "#a3202e", "color": "#f7c23a" }
+    },
+    {
+      "text": "In 2009, in Staffordshire,",
+      "say": "In two thousand nine, in Staffordshire,",
+      "scene": { "kind": "mine", "ground": "field", "zoomAt": 2, "place": "Hammerwich, Staffordshire", "year": 2009, "color": "#5bb4e8" }
+    },
+    {
+      "text": "a man searched a farmer's field with a metal detector.",
+      "scene": {
+        "kind": "cast", "setting": "field", "color": "#c8dc3c",
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#3a6a4a", "hair": "short", "hairColor": "#8a8a8a", "hat": "cap", "skin": "#efc9a6", "expression": "focused", "prop": "shovel", "old": true }
+        ]
+      }
+    },
+    {
+      "text": "He kept finding pieces for five days before archaeologists took over.",
+      "scene": { "kind": "mine", "ground": "field", "zoomAt": 0.25, "tone": "#e2b33c", "place": "Five days", "color": "#f0552e" }
+    },
+    {
+      "text": "It was the biggest hoard of Anglo-Saxon gold and silver ever found.",
+      "scene": { "kind": "title", "text": "4,000 pieces", "sub": "Biggest Anglo-Saxon hoard", "color": "#a98be0" }
+    },
+    {
+      "text": "Over 3,500 garnets sit in tiny gold cells, each cut to fit.",
+      "say": "Over thirty-five hundred garnets sit in tiny gold cells, each cut to fit.",
+      "scene": {
+        "kind": "cut", "phase": "result", "place": "3,500+ garnets", "color": "#4cc3a8",
+        "pieces": [
+          { "shape": "pear", "size": 0.4, "tone": "#a3202e" },
+          { "shape": "marquise", "size": 0.35, "tone": "#a3202e" },
+          { "shape": "cushion", "size": 0.6, "tone": "#a3202e" },
+          { "shape": "heart", "size": 0.35, "tone": "#a3202e" },
+          { "shape": "oval", "size": 0.4, "tone": "#a3202e" }
+        ]
+      }
+    },
+    {
+      "text": "Behind each garnet is a gold foil, stamped like a waffle,",
+      "scene": { "kind": "jewel", "piece": "brooch", "shape": "cushion", "tone": "#a3202e", "metal": "yellow", "label": "Stamped gold foil", "color": "#ec6a9c" }
+    },
+    {
+      "text": "so light bounces back through the stone and makes it glow.",
+      "scene": { "kind": "reveal", "item": "gem", "shape": "cushion", "tone": "#a3202e", "halo": "#ff8a7a", "label": "Light bounces back", "color": "#f7c23a" }
+    },
+    {
+      "text": "The biggest garnets came all the way from India and Sri Lanka.",
+      "scene": {
+        "kind": "journey", "icon": "ship", "label": "The biggest garnets", "color": "#5bb4e8",
+        "from": { "name": "Sri Lanka", "x": 0.85, "y": 0.85 },
+        "to": { "name": "Staffordshire", "x": 0.15, "y": 0.15 }
+      }
+    },
+    {
+      "text": "The finder and the farmer split the £3.3 million reward.",
+      "say": "The finder and the farmer split the three point three million pound reward.",
+      "scene": { "kind": "gift", "stone": "cushion", "tone": "#a3202e", "to": "£3.3 million", "date": "Split two ways", "color": "#f0552e" }
+    },
+    {
+      "text": "Today, it's on show in museums in Birmingham and Stoke-on-Trent.",
+      "scene": {
+        "kind": "cast", "setting": "plain", "name": "Birmingham and Stoke-on-Trent", "role": "On show today", "color": "#c8dc3c",
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#ec6a9c", "hair": "curly", "hairColor": "#2e2420", "skin": "#8a5636", "expression": "surprised" },
+          { "outfit": "casual", "outfitColor": "#5bb4e8", "hair": "short", "hairColor": "#c08a4a", "skin": "#f1cfb0", "expression": "smile", "prop": "magnifier" }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "A man with a metal detector, a farmer's field, and over 3,500 garnets set in gold.",
+    "hashtags": ["#staffordshirehoard", "#anglosaxon", "#garnet", "#metaldetecting", "#buriedtreasure"]
+  },
+  "sources": [
+    "https://www.birminghammuseums.org.uk/resources/discovering-the-staffordshire-hoard",
+    "https://research.birmingham.ac.uk/files/17448596/HookeS0003581510000107a.pdf",
+    "https://www.nationalgeographic.com/magazine/article/staffordshire-gold-hoard-treasure-discovery",
+    "https://live.historicengland.org.uk/whats-new/research/staffordshire-hoard-update",
+    "https://birminghammuseums.org.uk/resources/the-science-behind-the-staffordshire-hoard",
+    "https://popular-archaeology.com/article/conserving-the-staffordshire-hoard/",
+    "https://www.gemporia.com/en-gb/gemology-hub/article/655/",
+    "https://heritagecalling.com/2023/01/20/what-does-the-staffordshire-hoard-tell-us/",
+    "https://www.medievalists.net/2009/11/how-the-staffordshire-hoard-was-discovered/",
+    "https://en.wikipedia.org/wiki/Staffordshire_Hoard"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "024-purple-quahog-pearl",
+  "number": 24,
+  "title": "A purple pearl in a plate of clams",
+  "style": "paper",
+  "plate": "The Purple Pearl",
+  "topic": "purple quahog pearl",
+  "music": "music-024.wav",
+  "hook": { "text": "His dinner clams held a purple pearl.", "gold": ["purple", "pearl"] },
+  "end": { "line": "A new jewelry story every day", "handle": "HeyGema" },
+  "lines": [
+    {
+      "text": "His dinner clams held a purple pearl.",
+      "scene": { "kind": "hook", "show": "clam", "tone": "#9a7cc9", "color": "#f7c23a" }
+    },
+    {
+      "text": "In Delaware, a family on vacation ordered a $14 clam starter.",
+      "say": "In Delaware, a family on vacation ordered a fourteen dollar clam starter.",
+      "scene": {
+        "kind": "cast", "setting": "street", "name": "Rehoboth Beach, Delaware", "role": "August 2022", "color": "#5bb4e8",
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#4cc3a8", "hair": "short", "hairColor": "#4a3324", "skin": "#efc9a6", "expression": "smile" },
+          { "outfit": "casual", "outfitColor": "#ec6a9c", "hair": "long", "hairColor": "#7a4a2a", "skin": "#f1cfb0", "expression": "smile" }
+        ]
+      }
+    },
+    {
+      "text": "They nearly sent it back over the peppers on top.",
+      "scene": { "kind": "title", "text": "$14 clams", "sub": "Nearly sent back", "color": "#ec6a9c" }
+    },
+    {
+      "text": "Near the end of the plate, he found something small and purple.",
+      "scene": {
+        "kind": "cast", "setting": "plain", "color": "#f0552e", "gasp": 0.4,
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#4cc3a8", "hair": "short", "hairColor": "#4a3324", "skin": "#efc9a6", "expression": "surprised", "prop": "pearl", "propTone": "#9a7cc9" }
+        ]
+      }
+    },
+    {
+      "text": "His wife thought it was a candy or a bead.",
+      "scene": {
+        "kind": "cast", "setting": "plain", "color": "#c8dc3c",
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#ec6a9c", "hair": "long", "hairColor": "#7a4a2a", "skin": "#f1cfb0", "expression": "focused" },
+          { "outfit": "casual", "outfitColor": "#4cc3a8", "hair": "short", "hairColor": "#4a3324", "skin": "#efc9a6", "expression": "smile", "prop": "pearl", "propTone": "#9a7cc9" }
+        ]
+      }
+    },
+    {
+      "text": "GIA confirmed it was a natural pearl,",
+      "say": "G I A confirmed it was a natural pearl,",
+      "scene": {
+        "kind": "cast", "setting": "lab", "name": "GIA gem lab", "role": "Natural pearl, 1.49 carats", "color": "#4cc3a8",
+        "cast": [
+          { "outfit": "coat", "outfitColor": "#eef2f4", "hair": "updo", "hairColor": "#2e2420", "skin": "#c98e6a", "glasses": "loupe", "expression": "focused", "prop": "pearl", "propTone": "#9a7cc9" }
+        ]
+      }
+    },
+    {
+      "text": "from a northern quahog farmed in Virginia's Chesapeake Bay.",
+      "say": "from a northern ko-hog farmed in Virginia's Chesapeake Bay.",
+      "scene": {
+        "kind": "journey", "icon": "parcel", "label": "Northern quahog", "color": "#5bb4e8",
+        "from": { "name": "Chesapeake Bay, Virginia", "x": 0.2, "y": 0.8 },
+        "to": { "name": "Rehoboth Beach", "x": 0.8, "y": 0.2 }
+      }
+    },
+    {
+      "text": "Native Americans made wampum from this clam's purple shell.",
+      "scene": { "kind": "title", "text": "Wampum", "sub": "Purple quahog shell", "color": "#a98be0" }
+    },
+    {
+      "text": "Quahog pearls shine like porcelain, and they're very rare.",
+      "say": "Ko-hog pearls shine like porcelain, and they're very rare.",
+      "scene": { "kind": "reveal", "item": "round-pearl", "tone": "#9a7cc9", "label": "Like porcelain", "light": "#f6e7ff", "color": "#ec6a9c" }
+    },
+    {
+      "text": "An appraiser later valued it at $4,071,",
+      "say": "An appraiser later valued it at four thousand and seventy-one dollars,",
+      "scene": { "kind": "gift", "stone": "round-pearl", "tone": "#9a7cc9", "to": "$4,071", "date": "Appraisal", "color": "#f7c23a" }
+    },
+    {
+      "text": "not bad for a $14 starter.",
+      "say": "not bad for a fourteen dollar starter.",
+      "scene": { "kind": "gift", "stone": "clam", "tone": "#9a7cc9", "to": "$14 starter", "color": "#f0552e" }
+    },
+    {
+      "text": "The family said they'd likely keep it.",
+      "scene": {
+        "kind": "cast", "setting": "street", "color": "#c8dc3c",
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#ec6a9c", "hair": "long", "hairColor": "#7a4a2a", "skin": "#f1cfb0", "expression": "smile", "jewel": "pendant", "jewelTone": "#9a7cc9" },
+          { "outfit": "casual", "outfitColor": "#4cc3a8", "hair": "short", "hairColor": "#4a3324", "skin": "#efc9a6", "expression": "proud", "prop": "pearl", "propTone": "#9a7cc9" }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "They nearly sent back a $14 plate of clams. Near the end, he found a purple pearl.",
+    "hashtags": ["#purplepearl", "#quahog", "#naturalpearl", "#pearlstory", "#rehobothbeach"]
+  },
+  "sources": [
+    "https://phillyvoice.com/pearl-clam-rehoboth-beach-purple-salt-air-restaurant-appraisal-delaware",
+    "https://phillyvoice.com/purple-pearl-clam-restaurant-phoenixville-philadelphia-appraisal-rehoboth-beach",
+    "https://chesapeakebaymagazine.com/rehoboth-diner-finds-purple-pearl-in-va-sourced-clam",
+    "https://www.nbcphiladelphia.com/news/local/delaware-diner-discovers-rare-purple-pearl-inside-his-clam/3336761/",
+    "https://www.foodnetwork.com/fn-dish/news/couple-finds-rare-purple-pearl-restaurant-clam",
+    "https://www.fox29.com/news/man-finds-rare-purple-pearl-inside-order-of-clams-at-delaware-restaurant-rehoboth-beach-phoenixville-pennsylvania",
+    "https://www.mahoningmatters.com/news/nation-world/article266805156.html",
+    "https://www.gia.edu/gems-gemology/spring-2015-labnotes-large-natural-quahog-pearl",
+    "https://www.gemsociety.org/lesson/introduction-to-quahog-pearls/",
+    "https://www.penn.museum/collections/object/266604",
+    "https://fashionhistory.fitnyc.edu/wampum/"
+  ]
+}

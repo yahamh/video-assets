@@ -138,14 +138,19 @@ each scene's paper version is in `src/paper/scenes.tsx` (listed in `registry.ts`
 `kit.tsx`, the things in `things.tsx` and the people in `people.tsx`). The paper look adds a few options:
 
 - `cast`: whole figures standing in a place; settings palace, workshop, street, study, garden, field, lab, mine,
-  ship, vault or plain; outfit `casual` and props `ringbox`, `shovel`, `carrot` on top of the drawn ones.
-- `hook`: `show` can also be `ring` (with `prongs`, `metal`), `carrot`, `opal` or `round-pearl`.
+  ship, vault or plain; outfit `casual` and props `ringbox`, `shovel`, `carrot`, `pearl` (with `propTone`) on top of
+  the drawn ones.
+- `hook`: `show` can also be `ring` (with `prongs`, `metal`), `carrot`, `opal`, `round-pearl`, `clam`, `hen` (a gold
+  hen on a nest), `tiara` or `coronet` (a stone on every peak); `shape: "plain"` for a plain egg; `toneTo` makes the
+  stone change color from `tone` to `toneTo` and back (alexandrite). `reveal` takes `toneTo` too.
+- `crown`: `sceptre: false` shows the crown alone.
 - `mine`: `ground: "field"` for a plowed field instead of a hill; leave out `carats` and set `zoomAt` past 1 for
   the ground alone.
 - `jewel`: `prongs` (4 or 6), `halo` and `empty` (a ring with no stone yet) for a ring; and pieces `spheres` (opal's
   silica spheres, `size: "small"` for small ones), `opal` and `carrot` (a carrot grown through a ring). It is drawn
   like a plate in a science book, with the stone again in a square lens.
-- `reveal`, `gift`: items and stones can also be `ring`, `opal`, `carrot`, `round-pearl`.
+- `reveal`, `gift`: items and stones can also be `ring`, `opal`, `carrot`, `round-pearl`, `clam`, `hen`, `tiara`,
+  `coronet`; `shape` picks a plain egg or a tiara's stones. `jewel` tiara takes `coronet: true`.
 - `cut`: a piece can take `size` (0 to 1) when it has no carats, and `shape: "rough"` for an uncut crystal.
 
 When a story needs something no scene shows, add it in `src/paper/` (and register it), and check it with

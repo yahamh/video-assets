@@ -6,9 +6,10 @@ import { Gem, Pearl, Rough, Carrot } from "./things";
 
 // People in the paper look: whole figures cut from flat colored paper, standing on the ground at (0, 0), about
 // 600 tall. Simple friendly faces, never a likeness: clothes, hair and hats say who they are. The options are the
-// ones the drawn people take (src/people/Person.tsx), plus outfit "casual" and props "ringbox", "shovel", "carrot".
+// ones the drawn people take (src/people/Person.tsx), plus outfit "casual" and props "ringbox", "shovel", "carrot",
+// "pearl" (a round pearl held up, propTone its color).
 
-export type PLook = Omit<Look, "outfit" | "prop"> & { outfit?: Look["outfit"] | "casual"; prop?: Look["prop"] | "ringbox" | "shovel" | "carrot" };
+export type PLook = Omit<Look, "outfit" | "prop"> & { outfit?: Look["outfit"] | "casual"; prop?: Look["prop"] | "ringbox" | "shovel" | "carrot" | "pearl" };
 
 export const PaperPerson: React.FC<{ look: PLook; expression: Expression; t: number; seed?: number; gasp?: number; flip?: boolean; id?: string }> = ({
   look,
@@ -189,6 +190,8 @@ export const PaperPerson: React.FC<{ look: PLook; expression: Expression; t: num
         return <g transform={`translate(${x + 4} ${y - 44})`}><Gem shape="oval" tone={look.propTone} s={34} t={t} /></g>;
       case "rough":
         return <g transform={`translate(${x + 4} ${y - 40})`}><Rough s={34} tone={look.propTone} /></g>;
+      case "pearl":
+        return <g transform={`translate(${x + 4} ${y - 40})`}><Pearl s={30} tone={look.propTone} id={`${id}-pp`} /></g>;
       case "letter":
         return (
           <g transform={`translate(${x + 10} ${y - 40}) rotate(${-8 + Math.sin(t * 1.5) * 3})`}>

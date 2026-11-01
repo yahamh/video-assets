@@ -1,0 +1,91 @@
+{
+  "id": "021-faberge-hen-egg",
+  "number": 21,
+  "title": "A white egg with a gold hen inside",
+  "style": "paper",
+  "plate": "The Hen Egg",
+  "topic": "faberge hen egg",
+  "music": "music-021.wav",
+  "hook": { "text": "A white egg hid a gold hen.", "gold": ["gold", "hen"] },
+  "end": { "line": "A new jewelry story every day", "handle": "HeyGema" },
+  "lines": [
+    {
+      "text": "A white egg hid a gold hen.",
+      "scene": { "kind": "hook", "show": "hen", "color": "#5bb4e8" }
+    },
+    {
+      "text": "For Easter 1885, the Tsar ordered a gift for his wife.",
+      "say": "For Easter eighteen eighty-five, the Tsar ordered a gift for his wife.",
+      "scene": {
+        "kind": "cast", "setting": "palace", "name": "Empress Maria Feodorovna", "role": "Born Princess Dagmar of Denmark", "color": "#ec6a9c",
+        "cast": [
+          { "outfit": "royal", "outfitColor": "#2f4f8a", "hair": "bald", "hairColor": "#6b4a2e", "facial": "fullbeard", "skin": "#efc9a6", "expression": "smile" },
+          { "outfit": "gown", "outfitColor": "#a98be0", "hair": "updo", "hairColor": "#3a2a1e", "hat": "tiara", "jewel": "pearls", "skin": "#f3d6bd", "expression": "smile" }
+        ]
+      }
+    },
+    {
+      "text": "Fabergé likely based it on a French egg her parents owned.",
+      "say": "Fabber-zhay likely based it on a French egg her parents owned.",
+      "scene": {
+        "kind": "journey", "icon": "ship", "label": "A French egg, about 1720", "color": "#4cc3a8",
+        "from": { "name": "Copenhagen", "x": 0.15, "y": 0.75 },
+        "to": { "name": "Saint Petersburg", "x": 0.85, "y": 0.25 }
+      }
+    },
+    {
+      "text": "Its shell was white enamel on gold, made to look real.",
+      "scene": { "kind": "reveal", "item": "egg", "shape": "plain", "tone": "#f7f2ea", "label": "White enamel", "color": "#f0552e" }
+    },
+    {
+      "text": "The egg is just 2.5 inches tall.",
+      "say": "The egg is just two and a half inches tall.",
+      "scene": { "kind": "title", "text": "2.5 inches", "sub": "About 6.4 cm tall", "color": "#f7c23a" }
+    },
+    {
+      "text": "It twisted open to a yolk of yellow gold,",
+      "scene": { "kind": "gift", "stone": "round-pearl", "tone": "#e9b83a", "to": "The yolk", "color": "#a98be0" }
+    },
+    {
+      "text": "and the yolk held a hen in several colors of gold.",
+      "scene": { "kind": "reveal", "item": "hen", "label": "Colored golds", "light": "#fff2c4", "color": "#5bb4e8" }
+    },
+    {
+      "text": "Inside the hen was a diamond crown with a ruby pendant.",
+      "scene": { "kind": "crown", "sceptre": false, "crownLabel": "Diamond crown", "color": "#c8dc3c" }
+    },
+    {
+      "text": "The Tsar asked for that pendant in place of a ring.",
+      "scene": {
+        "kind": "cast", "setting": "palace", "name": "Tsar Alexander III", "role": "Russia, 1885", "color": "#ec6a9c",
+        "cast": [
+          { "outfit": "royal", "outfitColor": "#2f4f8a", "hair": "bald", "hairColor": "#6b4a2e", "facial": "fullbeard", "skin": "#efc9a6", "expression": "proud", "prop": "letter" }
+        ]
+      }
+    },
+    {
+      "text": "Fabergé made fifty imperial eggs in all, the last in 1916.",
+      "say": "Fabber-zhay made fifty imperial eggs in all, the last in nineteen sixteen.",
+      "scene": { "kind": "title", "text": "50 eggs", "sub": "1885 to 1916", "color": "#4cc3a8" }
+    },
+    {
+      "text": "It's in the Fabergé Museum in Saint Petersburg today.",
+      "say": "It's in the Fabber-zhay Museum in Saint Petersburg today.",
+      "scene": { "kind": "gift", "stone": "egg", "shape": "plain", "tone": "#f7f2ea", "to": "Fabergé Museum", "date": "Saint Petersburg", "color": "#f7c23a" }
+    }
+  ],
+  "post": {
+    "caption": "Easter 1885: a plain white egg for the Empress of Russia. Twist it open and the surprises start.",
+    "hashtags": ["#faberge", "#fabergeegg", "#henegg", "#easteregg", "#russianhistory"]
+  },
+  "sources": [
+    "https://fabergemuseum.ru/en/collections/collection-highlights/hen-easter-egg",
+    "https://www.britannica.com/art/Faberge-egg",
+    "https://www.faberge.com/blogs/news/celebrating-the-140th-anniversary-of-the-hen-egg-1885",
+    "https://en.wikipedia.org/wiki/First_Hen_(Faberg%C3%A9_egg)",
+    "https://denkongeligesamling.dk/en/the-collection/objects/golden-egg-with-hen/",
+    "https://www.history.com/articles/romanov-family-russia-mystery-faberge-easter-eggs",
+    "https://www.metmuseum.org/exhibitions/faberge",
+    "https://www.antiquetrader.com/art/faberg%C3%A9-easter-eggs-are-renowned-masterpieces"
+  ]
+}

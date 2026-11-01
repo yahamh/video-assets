@@ -189,7 +189,7 @@ export const Opal: React.FC<{ s: number; t: number; dark?: boolean }> = ({ s, t,
 };
 
 // A jewelled Easter egg: enamel with gold bands and dots.
-export const Egg: React.FC<{ s: number; tone?: string; t?: number; id?: string }> = ({ s, tone = CORAL, t = 0, id = "eg" }) => {
+export const Egg: React.FC<{ s: number; tone?: string; t?: number; id?: string; plain?: boolean }> = ({ s, tone = CORAL, t = 0, id = "eg", plain }) => {
   const [g, gd] = metal("yellow");
   const egg = smooth(Array.from({ length: 28 }, (_, i) => {
     const a = (i / 28) * Math.PI * 2;
@@ -206,13 +206,13 @@ export const Egg: React.FC<{ s: number; tone?: string; t?: number; id?: string }
       </defs>
       <path d={egg} fill={tone} />
       <path d={egg} fill={tint(tone, -0.3)} opacity={0.25} transform={`translate(${s * 0.12} 0) scale(0.85 1)`} />
-      {[-0.35, 0.3].map((y, i) => (
+      {!plain && [-0.35, 0.3].map((y, i) => (
         <rect key={i} x={-s} y={y * s - s * 0.05} width={s * 2} height={s * 0.1} fill={g} clipPath={`url(#${clip})`} />
       ))}
-      {Array.from({ length: 7 }, (_, i) => (
+      {!plain && Array.from({ length: 7 }, (_, i) => (
         <circle key={i} cx={(i - 3) * s * 0.2} cy={-0.35 * s} r={s * 0.04} fill={gd} />
       ))}
-      <path d={`M0 ${-s * 0.15} l${s * 0.12} ${s * 0.12} l${-s * 0.12} ${s * 0.12} l${-s * 0.12} ${-s * 0.12}Z`} fill={CREAM} opacity={0.6 + 0.4 * Math.sin(t * 3)} />
+      {!plain && <path d={`M0 ${-s * 0.15} l${s * 0.12} ${s * 0.12} l${-s * 0.12} ${s * 0.12} l${-s * 0.12} ${-s * 0.12}Z`} fill={CREAM} opacity={0.6 + 0.4 * Math.sin(t * 3)} />}
       <ellipse cx={-s * 0.3} cy={-s * 0.55} rx={s * 0.14} ry={s * 0.08} transform={`rotate(-30 ${-s * 0.3} ${-s * 0.55})`} fill="#ffffff" opacity={0.6} />
     </g>
   );
@@ -393,19 +393,25 @@ export const Brooch: React.FC<{ s: number; shape?: string; tone?: string; metalN
 };
 
 // A tiara: a band rising to points, a stone or a pearl at each.
-export const Tiara: React.FC<{ s: number; shape?: string; tone?: string; metalName?: string; t?: number; id?: string }> = ({ s, shape = "pear", tone, metalName = "white", t = 0, id = "ti" }) => {
+// A tiara: five peaks with stones and pearls. `coronet`: a stone on every peak and small diamonds along the band, no
+// pearls (Queen Victoria's sapphire coronet).
+export const Tiara: React.FC<{ s: number; shape?: string; tone?: string; metalName?: string; t?: number; id?: string; coronet?: boolean }> = ({ s, shape = "pear", tone, metalName = "white", t = 0, id = "ti", coronet }) => {
   const [m, md] = metal(metalName);
   const peaks = [-0.8, -0.4, 0, 0.4, 0.8];
   return (
     <g>
       <path d={`M${-s} ${s * 0.4} Q0 ${s * 0.05} ${s} ${s * 0.4}`} fill="none" stroke={md} strokeWidth={s * 0.08} />
+      {coronet && Array.from({ length: 11 }, (_, i) => {
+        const x = -0.9 + i * 0.18;
+        return <g key={`d${i}`} transform={`translate(${x * s} ${s * 0.4 - (1 - x * x) * s * 0.35 + s * 0.02})`}><Gem s={s * 0.045} t={t + i * 0.3} /></g>;
+      })}
       {peaks.map((x, i) => {
         const h = (1 - Math.abs(x) * 0.6) * s * 0.75;
         const by = s * 0.4 - (1 - x * x) * s * 0.3;
         return (
           <g key={i}>
             <path d={`M${(x - 0.17) * s} ${by} Q${x * s} ${by - h * 0.4} ${x * s} ${by - h} Q${x * s} ${by - h * 0.4} ${(x + 0.17) * s} ${by}`} fill={m} stroke={md} strokeWidth={3} />
-            <g transform={`translate(${x * s} ${by - h - s * 0.08})`}>{i % 2 ? <Pearl s={s * 0.07} id={`${id}${i}`} /> : <Gem shape={shape} tone={tone} s={s * (i === 2 ? 0.15 : 0.09)} t={t + i} />}</g>
+            <g transform={`translate(${x * s} ${by - h - s * 0.08})`}>{i % 2 && !coronet ? <Pearl s={s * 0.07} id={`${id}${i}`} /> : <Gem shape={shape} tone={tone} s={s * (i === 2 ? 0.15 : coronet ? 0.11 : 0.09)} t={t + i} />}</g>
           </g>
         );
       })}
@@ -570,7 +576,47 @@ export const Clam: React.FC<{ s: number; tone?: string; id?: string }> = ({ s, t
   );
 };
 
-// One of the things a story shows, by name: gem, glass, rough, pearl, round-pearl, egg, opal, ring, carrot, clam, empty.
+// A little hen of colored golds sitting on a nest of gold straw, like the surprise in Faberge's first egg (1885).
+export const Hen: React.FC<{ s: number; t?: number }> = ({ s, t = 0 }) => {
+  const [y, yd] = metal("yellow");
+  const [r, rd] = metal("rose");
+  const [w, wd] = metal("white");
+  const body = smooth([
+    [-s * 0.55, -s * 0.05], [-s * 0.3, -s * 0.38], [s * 0.05, -s * 0.42], [s * 0.3, -s * 0.55], [s * 0.42, -s * 0.48],
+    [s * 0.45, -s * 0.2], [s * 0.4, s * 0.12], [0, s * 0.22], [-s * 0.42, s * 0.14],
+  ]);
+  const peck = Math.sin(t * 2.4) * 3;
+  return (
+    <g>
+      {/* the nest: a bowl of gold straw */}
+      <path d={`M${-s * 0.72} ${s * 0.12} Q0 ${s * 0.62} ${s * 0.72} ${s * 0.12} Z`} fill={yd} />
+      {Array.from({ length: 9 }, (_, i) => {
+        const x = -0.6 + i * 0.12;
+        return <path key={i} d={`M${x * s} ${s * 0.14} q${s * 0.12} ${s * (0.12 + (i % 3) * 0.04)} ${s * 0.26} ${s * 0.02}`} stroke={y} strokeWidth={s * 0.035} fill="none" strokeLinecap="round" />;
+      })}
+      {/* tail feathers */}
+      {[-0.5, -0.3, -0.1].map((a, i) => (
+        <path key={i} d={`M${-s * 0.4} ${-s * 0.05} Q${-s * 0.75} ${-s * (0.35 + i * 0.12)} ${-s * (0.62 - i * 0.04)} ${-s * (0.62 + i * 0.1)} Q${-s * 0.45} ${-s * (0.32 + i * 0.08)} ${-s * 0.3} ${-s * 0.1}Z`} fill={i === 1 ? r : y} transform={`rotate(${a * 6})`} />
+      ))}
+      <path d={body} fill={y} />
+      {/* the wing, in rose gold */}
+      <path d={`M${-s * 0.28} ${-s * 0.12} Q${-s * 0.05} ${-s * 0.32} ${s * 0.2} ${-s * 0.1} Q${s * 0.05} ${s * 0.12} ${-s * 0.28} ${-s * 0.12}Z`} fill={r} />
+      {[-0.12, 0, 0.1].map((x, i) => <path key={i} d={`M${x * s} ${-s * 0.16} q${s * 0.05} ${s * 0.08} ${s * 0.12} ${s * 0.06}`} stroke={rd} strokeWidth={3} fill="none" />)}
+      <g transform={`translate(${s * 0.36} ${-s * 0.5}) rotate(${peck})`}>
+        {/* comb and wattle */}
+        {[-0.08, 0, 0.08].map((x, i) => <circle key={i} cx={x * s} cy={-s * 0.13} r={s * 0.06} fill={rd} />)}
+        <circle cx={0} cy={0} r={s * 0.14} fill={y} />
+        <path d={`M${s * 0.12} ${-s * 0.02} L${s * 0.26} ${s * 0.03} L${s * 0.12} ${s * 0.07}Z`} fill={w} stroke={wd} strokeWidth={2} />
+        <ellipse cx={s * 0.09} cy={s * 0.12} rx={s * 0.04} ry={s * 0.06} fill={r} />
+        <circle cx={s * 0.05} cy={-s * 0.03} r={s * 0.025} fill={INK} />
+      </g>
+      <ellipse cx={-s * 0.1} cy={-s * 0.3} rx={s * 0.12} ry={s * 0.05} fill="#ffffff" opacity={0.45} transform={`rotate(-20 ${-s * 0.1} ${-s * 0.3})`} />
+    </g>
+  );
+};
+
+// One of the things a story shows, by name: gem, glass, rough, pearl, round-pearl, egg (shape "plain" for no gold
+// bands), opal, ring, carrot, clam, hen, tiara, coronet (a tiara with a stone on every peak), empty.
 export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string; tone?: string; metalName?: string; id?: string; prongs?: number }> = ({ kind, s, t, shape, tone, metalName, id, prongs }) => {
   switch (kind) {
     case "gem":
@@ -581,7 +627,12 @@ export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string
     case "round-pearl":
       return <Pearl s={s * 0.75} tone={tone} id={id} />;
     case "egg":
-      return <Egg s={s} tone={tone} t={t} id={id} />;
+      return <Egg s={s} tone={tone} t={t} id={id} plain={shape === "plain"} />;
+    case "hen":
+      return <Hen s={s * 1.3} t={t} />;
+    case "tiara":
+    case "coronet":
+      return <g transform={`translate(0 ${-s * 0.1})`}><Tiara s={s * 1.15} shape={shape && shape !== kind ? shape : "oval"} tone={tone} metalName={metalName ?? "white"} t={t} id={id} coronet={kind === "coronet"} /></g>;
     case "opal":
       return <Opal s={s * 0.9} t={t} dark={tone === "dark"} />;
     case "ring":

@@ -2,7 +2,7 @@ import React from "react";
 import { prog, rand } from "../look";
 import { SceneProps, num, str } from "../scenes/types";
 import type { Expression } from "../people/Person";
-import { Blob, Card, Confetti, CORAL, CREAM, Doodles, Glow, INK, INK_SOFT, LILAC, LIME, MINT, MONO, PINK, Ripples, SERIF, SKY, SUN, Shadow, Sheet, Sparkle, Stamp, blobPath, pick, tint } from "./kit";
+import { Blob, Card, Confetti, CORAL, CREAM, Doodles, Glow, INK, INK_SOFT, LILAC, LIME, MINT, MONO, PINK, Ripples, SERIF, SKY, SUN, Shadow, Sheet, Sparkle, Stamp, blobPath, mix, pick, tint } from "./kit";
 import { Brooch, Carrot, Chest, Crown, Earrings, Gem, Item, Necklace, Opal, Parcel, Ring, Rough, Sceptre, Spheres, Tiara } from "./things";
 import { PLook, PaperPerson, Setting } from "./people";
 
@@ -84,12 +84,14 @@ const other = (color: string, list = [SUN, CREAM, MINT, PINK]) => list.find((c) 
 // ------------------------------------------------------------------ hook
 
 // The opening shot: the payoff, big and already moving on the first frame, under the hook words. Options as in
-// scenes/Hook.tsx (show: parcel, chest, rough, gem, glass, pearl, round-pearl, egg, opal, ring, carrot, clam).
+// scenes/Hook.tsx (show: parcel, chest, rough, gem, glass, pearl, round-pearl, egg, opal, ring, carrot, clam, hen;
+// tiara, coronet; shape "plain" for a plain egg; toneTo makes the stone change color, from tone to toneTo and back).
 export const PHook: React.FC<SceneProps> = ({ t, p }) => {
   const id = "pHook";
   const show = str(p.show, "rough");
   const shape = str(p.shape, "cushion");
-  const tn = tone(p);
+  // toneTo: the stone turns from tone to this color and back (a color-change stone such as alexandrite)
+  const tn = tone(p) && typeof p.toneTo === "string" ? mix(tone(p) as string, p.toneTo, 0.5 - 0.5 * Math.cos(Math.max(0, t - 0.6) * 1.6)) : tone(p);
   const halo = str(p.halo, "");
   const size = num(p.size, 600) / 600;
   const color = pick(p);
@@ -369,7 +371,7 @@ export const PShip: React.FC<SceneProps> = ({ t, p }) => {
 
 // A chest opens and what's inside rises out of it in a burst of confetti. Options as in scenes/Reveal.tsx: item (rough,
 // gem, glass, pearl, round-pearl, egg, opal, ring, carrot, empty), shape, tone, openAt, stamp, stampAt, label, halo,
-// light (the glow's color), dark (true: the scene dims).
+// light (the glow's color), dark (true: the scene dims), toneTo (the stone changes color, as in the hook).
 export const PReveal: React.FC<SceneProps> = ({ t, p }) => {
   const id = "pReveal";
   const item = str(p.item, "rough");
@@ -382,6 +384,8 @@ export const PReveal: React.FC<SceneProps> = ({ t, p }) => {
   const bob = Math.sin(t * 2.2) * 10 * k;
   const iy = 1010 - 280 * k + bob;
   const glow = str(p.halo, "") || str(p.light, "") || CREAM;
+  // toneTo: the stone turns from tone to this color and back, as in the hook
+  const tn = tone(p) && typeof p.toneTo === "string" ? mix(tone(p) as string, p.toneTo, 0.5 - 0.5 * Math.cos(Math.max(0, t - openAt - 0.6) * 1.6)) : tone(p);
   return (
     <Sheet id={id}>
       <Stage id={id} t={t} color={color} seed={29}>
@@ -392,7 +396,7 @@ export const PReveal: React.FC<SceneProps> = ({ t, p }) => {
       <g transform={`translate(540 1100)`}>
         <Chest s={280} open={open} inside={k > 0.01 ? (
           <g transform={`translate(0 ${iy - 1100}) scale(${0.4 + 0.6 * Math.min(1, k)})`}>
-            <Item kind={item} s={170} t={t} shape={str(p.shape, "round")} tone={tone(p) ?? (item === "glass" ? "#dcebe4" : undefined)} id="pRevealIt" metalName={str(p.metal, "yellow")} />
+            <Item kind={item} s={170} t={t} shape={str(p.shape, "round")} tone={tn ?? (item === "glass" ? "#dcebe4" : undefined)} id="pRevealIt" metalName={str(p.metal, "yellow")} />
           </g>
         ) : null} />
       </g>
@@ -490,10 +494,11 @@ export const PJourney: React.FC<SceneProps> = ({ t, dur, p }) => {
 
 // ------------------------------------------------------------------ gift
 
-const KINDS = ["rough", "egg", "pearl", "round-pearl", "opal", "ring", "carrot", "glass"];
+const KINDS = ["rough", "egg", "pearl", "round-pearl", "opal", "ring", "carrot", "glass", "clam", "hen", "tiara", "coronet"];
 
 // A gift on a cushion with a handwritten tag. Options as in scenes/Gift.tsx: to and date (the tag's two lines), stone
-// ("rough", "egg", "ring", "pearl" or a cut shape such as "pear"), tone.
+// ("rough", "egg", "ring", "pearl", "clam", "hen", "tiara", "coronet" or a cut shape such as "pear"), tone; shape
+// "plain" for a plain egg, or the stones' cut for a tiara.
 export const PGift: React.FC<SceneProps> = ({ t, p }) => {
   const id = "pGift";
   const color = pick(p);
@@ -525,7 +530,7 @@ export const PGift: React.FC<SceneProps> = ({ t, p }) => {
         ))}
       </g>
       <g transform={`translate(540 ${880 + bob}) scale(${0.4 + 0.6 * k})`}>
-        <Item kind={kind} s={170} t={t} shape={stone} tone={tone(p)} id="pGiftIt" />
+        <Item kind={kind} s={170} t={t} shape={str(p.shape, "") || stone} tone={tone(p)} id="pGiftIt" />
       </g>
       <Twinkles x={540} y={880} r={220} t={t} seed={38} />
       {tag > 0.01 && (
@@ -644,33 +649,38 @@ export const PCut: React.FC<SceneProps> = ({ t, dur, p }) => {
 
 // ------------------------------------------------------------------ crown
 
-// A crown and a sceptre with typed labels. Options as in scenes/Crown.tsx: crownLabel, sceptreLabel.
+// A crown and a sceptre with typed labels. Options as in scenes/Crown.tsx: crownLabel, sceptreLabel; sceptre: false
+// shows the crown alone, in the middle.
 export const PCrown: React.FC<SceneProps> = ({ t, p }) => {
   const id = "pCrown";
   const color = pick(p);
   const k = popIn(t, 0, 0.5);
   const k2 = popIn(t, 0.15, 0.5);
   const cl = str(p.crownLabel, "");
-  const sl = str(p.sceptreLabel, "");
+  const alone = p.sceptre === false;
+  const sl = alone ? "" : str(p.sceptreLabel, "");
+  const cx = alone ? 540 : 430;
   return (
     <Sheet id={id}>
       <Stage id={id} t={t} color={color} seed={45}>
-        <Ripples x={430} y={1010} t={t} r={360} flat={0.3} every={1.8} />
+        <Ripples x={cx} y={1010} t={t} r={360} flat={0.3} every={1.8} />
       </Stage>
-      <Glow id={id} x={430} y={800} r={230} color={CREAM} k={k} />
-      <Shadow id={id} x={430} y={1010} rx={260} k={k} />
-      <ellipse cx={430} cy={980} rx={250} ry={50} fill={tint(other(color, [LILAC, PINK]), -0.2)} />
-      <g transform={`translate(430 ${840 + Math.sin(t * 1.8) * 6}) scale(${0.4 + 0.6 * k})`}>
+      <Glow id={id} x={cx} y={800} r={230} color={CREAM} k={k} />
+      <Shadow id={id} x={cx} y={1010} rx={260} k={k} />
+      <ellipse cx={cx} cy={980} rx={250} ry={50} fill={tint(other(color, [LILAC, PINK]), -0.2)} />
+      <g transform={`translate(${cx} ${840 + Math.sin(t * 1.8) * 6}) scale(${0.4 + 0.6 * k})`}>
         <Crown s={240} t={t} id="pCrownC" />
       </g>
-      <g transform={`translate(820 ${880 + Math.sin(t * 1.5 + 1) * 6}) rotate(${12 + Math.sin(t) * 2}) scale(${0.4 + 0.6 * k2})`}>
-        <Sceptre s={290} t={t} />
-      </g>
+      {!alone && (
+        <g transform={`translate(820 ${880 + Math.sin(t * 1.5 + 1) * 6}) rotate(${12 + Math.sin(t) * 2}) scale(${0.4 + 0.6 * k2})`}>
+          <Sceptre s={290} t={t} />
+        </g>
+      )}
       <Twinkles x={540} y={760} r={300} t={t} seed={46} />
       {cl && (
         <g opacity={ease(t, 0.5, 0.8)}>
-          <path d="M430 930 Q380 1020 330 1060" stroke={INK} strokeWidth={3} fill="none" strokeDasharray="8 8" />
-          <Note x={330} y={1100} text={cl} size={28} k={popIn(t, 0.55, 0.4)} />
+          <path d={`M${cx} 930 Q${cx - 50} 1020 ${cx - 100} 1060`} stroke={INK} strokeWidth={3} fill="none" strokeDasharray="8 8" />
+          <Note x={cx - 100} y={1100} text={cl} size={28} k={popIn(t, 0.55, 0.4)} />
         </g>
       )}
       {sl && (
@@ -689,7 +699,8 @@ export const PCrown: React.FC<SceneProps> = ({ t, p }) => {
 // One piece close up, drawn like a plate in an old science book: a thin frame and grid, construction circles, the
 // piece on a painted shape and its stone again in a square lens. Options as in scenes/Jewel.tsx: piece (ring,
 // necklace, earrings, brooch, tiara), shape, tone, metal, velvet (the painted shape's color), pearls, drop, label;
-// prongs (4 or 6), halo and empty (no stone yet) for a ring; and three pieces only the paper look has: "spheres"
+// prongs (4 or 6), halo and empty (no stone yet) for a ring; coronet (true: a stone on every peak, no pearls) for a
+// tiara; and three pieces only the paper look has: "spheres"
 // (opal's silica spheres; size "small" for small ones), "opal" (a polished opal), "carrot" (a carrot grown through a
 // ring).
 export const PJewel: React.FC<SceneProps> = ({ t, p }) => {
@@ -719,7 +730,7 @@ export const PJewel: React.FC<SceneProps> = ({ t, p }) => {
       focus = [cx, cy];
       break;
     case "tiara":
-      node = <g transform={`translate(${cx} ${cy + 60})`}><Tiara s={320} shape={shape} tone={tn} metalName={mt} t={t} id="pJewelT" /></g>;
+      node = <g transform={`translate(${cx} ${cy + 60})`}><Tiara s={320} shape={shape} tone={tn} metalName={mt} t={t} id="pJewelT" coronet={!!p.coronet} /></g>;
       focus = [cx, cy + 60 + 320 * (0.4 - 0.3 - 0.75 - 0.08)];
       break;
     case "spheres":

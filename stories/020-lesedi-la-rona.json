@@ -1,0 +1,102 @@
+{
+  "id": "020-lesedi-la-rona",
+  "number": 20,
+  "title": "A whole country named this diamond",
+  "style": "paper",
+  "plate": "Lesedi La Rona",
+  "topic": "lesedi la rona diamond",
+  "music": "music-020.wav",
+  "hook": { "text": "A whole country named this diamond.", "gold": ["named", "diamond"] },
+  "end": { "line": "A new jewelry story every day", "handle": "HeyGema" },
+  "lines": [
+    {
+      "text": "A whole country named this diamond.",
+      "scene": { "kind": "hook", "show": "rough", "tone": "#ece8da", "color": "#5bb4e8" }
+    },
+    {
+      "text": "In 2015, Botswana's Karowe mine found a rough diamond of 1,109 carats.",
+      "say": "In twenty fifteen, Botswana's Kah-roh-way mine found a rough diamond of eleven hundred and nine carats.",
+      "scene": { "kind": "mine", "carats": 1109, "place": "Karowe mine, Botswana", "year": 2015, "tone": "#ece8da", "color": "#f7c23a" }
+    },
+    {
+      "text": "It was about the size of a tennis ball,",
+      "scene": { "kind": "reveal", "item": "rough", "tone": "#ece8da", "label": "Tennis-ball size", "color": "#ec6a9c" }
+    },
+    {
+      "text": "the biggest gem diamond found since 1905.",
+      "say": "the biggest gem diamond found since nineteen oh five.",
+      "scene": { "kind": "title", "text": "Since 1905", "sub": "Biggest gem diamond", "color": "#4cc3a8" }
+    },
+    {
+      "text": "The mining company asked the people of Botswana to name it.",
+      "scene": {
+        "kind": "cast", "setting": "street", "name": "Botswana", "role": "Name the diamond", "color": "#a98be0",
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#f7c23a", "hair": "short", "hairColor": "#1e1612", "skin": "#7a4a30", "expression": "smile" },
+          { "outfit": "dress", "outfitColor": "#4cc3a8", "hair": "updo", "hairColor": "#1e1612", "skin": "#6a3e28", "expression": "surprised" },
+          { "outfit": "suit", "outfitColor": "#2f4f8a", "hair": "short", "hairColor": "#1e1612", "skin": "#8a5636", "expression": "smile", "old": true }
+        ]
+      }
+    },
+    {
+      "text": "Over 11,000 names came in.",
+      "say": "Over eleven thousand names came in.",
+      "scene": { "kind": "title", "text": "11,000+", "sub": "Names sent in", "color": "#f0552e" }
+    },
+    {
+      "text": "The winner, a man from Mmadikola, picked Lesedi La Rona.",
+      "say": "The winner, a man from Mah-dee-koh-lah, picked Leh-seh-dee La Roh-nah.",
+      "scene": {
+        "kind": "cast", "setting": "plain", "name": "Lesedi La Rona", "role": "The winning name", "color": "#f7c23a", "gasp": 0.5,
+        "cast": [
+          { "outfit": "casual", "outfitColor": "#5bb4e8", "hair": "short", "hairColor": "#1e1612", "skin": "#6e4129", "expression": "proud", "prop": "letter" }
+        ]
+      }
+    },
+    {
+      "text": "In Setswana, it means our light.",
+      "say": "In Set-swah-nah, it means our light.",
+      "scene": { "kind": "title", "text": "Our Light", "sub": "In Setswana", "color": "#5bb4e8" }
+    },
+    {
+      "text": "The jeweler Graff bought it in 2017 for $53 million.",
+      "say": "The jeweler Graff bought it in twenty seventeen for fifty-three million dollars.",
+      "scene": { "kind": "gift", "stone": "rough", "tone": "#ece8da", "to": "$53 million", "date": "Graff, 2017", "color": "#ec6a9c" }
+    },
+    {
+      "text": "Cutting took about 18 months and gave 67 diamonds.",
+      "say": "Cutting took about eighteen months and gave sixty-seven diamonds.",
+      "scene": {
+        "kind": "cut", "phase": "result", "place": "67 diamonds", "color": "#4cc3a8",
+        "pieces": [
+          { "shape": "pear", "size": 0.35, "tone": "#eef4f7" },
+          { "shape": "marquise", "size": 0.3, "tone": "#eef4f7" },
+          { "shape": "cushion", "size": 1, "tone": "#eef4f7" },
+          { "shape": "oval", "size": 0.3, "tone": "#eef4f7" },
+          { "shape": "heart", "size": 0.35, "tone": "#eef4f7" }
+        ]
+      }
+    },
+    {
+      "text": "The biggest one, 302 carats, kept the name Lesedi La Rona.",
+      "say": "The biggest one, three hundred and two carats, kept the name Leh-seh-dee La Roh-nah.",
+      "scene": { "kind": "gift", "stone": "cushion", "tone": "#eef4f7", "to": "Lesedi La Rona", "date": "302.37 carats", "color": "#f0552e" }
+    }
+  ],
+  "post": {
+    "caption": "A 1,109-carat diamond, and over 11,000 people in Botswana sent in a name for it.",
+    "hashtags": ["#lesedilarona", "#botswana", "#roughdiamond", "#diamondhistory", "#graff"]
+  },
+  "sources": [
+    "https://lucaradiamond.com/newsroom/news-releases/lucara-names-1-111-carat-diamond-lesedi-la-rona-122549/",
+    "https://www.fin24.com/Companies/Mining/largest-diamond-found-in-100-years-named-20160209",
+    "https://www.engineeringnews.co.za/article/second-largest-diamond-ever-recorded-named-our-light-2016-02-09",
+    "https://bc.ctvnews.ca/vancouver-company-s-1-109-carat-diamond-fails-to-sell-at-auction-1.2967159",
+    "https://www.gia.edu/gia-news-research/why-didnt-that-1109-carat-diamond-sell",
+    "https://dailynews.gov.bw/news-detail/26143",
+    "https://lucaradiamond.com/newsroom/news-releases/lucara-announces-sale-of-1-109-carat-lesedi-la-rona-122502/",
+    "https://rapaport.com/news/graff-buys-iconic-1109ct-diamond-for-53m/",
+    "https://www.forbes.com/sites/anthonydemarco/2019/04/10/graff-unveils-worlds-largest-square-emerald-cut-diamond-at-302-37-carats/",
+    "https://www.nationaljeweler.com/articles/5566-graff-cut-this-302-carat-diamond-from-lesedi-la-rona"
+  ]
+}

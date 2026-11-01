@@ -42,6 +42,16 @@ export const pick = (p: Record<string, unknown>, avoid?: string) => {
 };
 
 // Mixes a hex color toward white (k > 0) or toward ink (k < 0).
+// A color between two others: k 0 is `a`, 1 is `b`.
+export const mix = (a: string, b: string, k: number) => {
+  const c = (hex: string) => {
+    const n = parseInt(hex.replace("#", ""), 16);
+    return [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+  };
+  const [x, y] = [c(a), c(b)];
+  return "#" + x.map((v, i) => Math.round(v + (y[i] - v) * Math.max(0, Math.min(1, k))).toString(16).padStart(2, "0")).join("");
+};
+
 export const tint = (hex: string, k: number) => {
   const n = parseInt(hex.replace("#", ""), 16);
   const c = [(n >> 16) & 255, (n >> 8) & 255, n & 255];

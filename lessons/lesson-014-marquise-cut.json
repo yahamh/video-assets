@@ -1,0 +1,182 @@
+{
+  "id": "lesson-014-marquise-cut",
+  "series": "lesson",
+  "number": 14,
+  "title": "What a marquise cut is",
+  "topic": "marquise cut",
+  "music": "music-lesson-014.wav",
+  "hook": {
+    "text": "These diamonds are shaped like a boat.",
+    "gold": [
+      "boat"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "These diamonds are shaped like a boat.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.4,
+          "y": 0.45,
+          "k": 1.9
+        }
+      }
+    },
+    {
+      "text": "It's a marquise cut, with curved sides that meet in two points.",
+      "say": "It's a mar-keez cut, with curved sides that meet in two points.",
+      "scene": {
+        "kind": "compare",
+        "before": "bridal-cad.webp",
+        "after": "bridal-render.webp"
+      }
+    },
+    {
+      "text": "Legend says Louis XV had it cut like Madame de Pompadour's lips.",
+      "say": "Legend says Louis the Fifteenth had it cut like Madame de Pom-pa-door's lips.",
+      "scene": {
+        "kind": "title",
+        "text": "Her lips",
+        "sub": "Madame de Pompadour"
+      }
+    },
+    {
+      "text": "It's about twice as long as it is wide,",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "Long and narrow",
+        "focus": {
+          "x": 0.45,
+          "y": 0.47,
+          "k": 2.6
+        }
+      }
+    },
+    {
+      "text": "and usually has 58 facets, 33 on top and 25 below.",
+      "say": "and usually has fifty-eight facets, thirty-three on top and twenty-five below.",
+      "scene": {
+        "kind": "title",
+        "text": "58 facets",
+        "sub": "33 on top, 25 below"
+      }
+    },
+    {
+      "text": "It looks bigger than a round diamond of the same weight.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "Looks bigger",
+        "focus": {
+          "x": 0.45,
+          "y": 0.38,
+          "k": 1.7
+        },
+        "marks": [
+          {
+            "x": 0.36,
+            "y": 0.43,
+            "text": "Marquise",
+            "at": 0.3
+          },
+          {
+            "x": 0.49,
+            "y": 0.27,
+            "text": "Round",
+            "at": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "text": "Like a pear, it can show a dark bow tie.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "bridal-render.webp",
+          "pendant-pear-render.webp"
+        ],
+        "labels": [
+          "Marquise",
+          "Pear"
+        ],
+        "label": "Bow tie"
+      }
+    },
+    {
+      "text": "The points chip most easily, so V-shaped prongs often wrap them.",
+      "say": "The points chip most easily, so vee-shaped prongs often wrap them.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "The points",
+        "focus": {
+          "x": 0.37,
+          "y": 0.42,
+          "k": 3.0
+        }
+      }
+    },
+    {
+      "text": "Jackie Kennedy's engagement ring from Aristotle Onassis was a 40-carat marquise.",
+      "say": "Jackie Kennedy's engagement ring from Aristotle Onassis was a forty-carat mar-keez.",
+      "scene": {
+        "kind": "title",
+        "text": "40 carats",
+        "sub": "Jackie Kennedy Onassis"
+      }
+    },
+    {
+      "text": "The French call it navette, which means little boat.",
+      "say": "The French call it na-vet, which means little boat.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "Navette",
+        "focus": {
+          "x": 0.66,
+          "y": 0.32,
+          "k": 2.6
+        }
+      }
+    },
+    {
+      "text": "A render shows the client each point before anything is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "bridal-cad.webp",
+        "after": "bridal-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "What a marquise cut is: the boat-shaped diamond",
+    "caption": "A marquise has curved sides that meet in two points, is about twice as long as it is wide and usually has 58 facets. It looks bigger than a round diamond of the same weight, and its points are usually guarded by V-shaped prongs. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#marquisecut",
+      "#marquisediamond",
+      "#diamondcuts",
+      "#engagementring",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/?p=9484",
+    "https://www.gemsociety.org/article/history-marquise-diamonds/",
+    "https://www.sothebys.com/en/articles/a-luxury-buyers-guide-to-marquise-diamonds?locale=en",
+    "https://www.leibish.com/marquise-diamonds-explained-article-1476",
+    "https://www.jewellermagazine.com/Article/244/SearchArticle.aspx?c=157",
+    "https://4cs.gia.edu/?p=3242",
+    "https://leibish.com/the-bow-tie-effect-article-1477",
+    "https://www.langantiques.com/university/?p=72870"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "023-victoria-sapphire-coronet",
+  "number": 23,
+  "title": "Albert designed her coronet himself",
+  "style": "paper",
+  "plate": "The Sapphire Coronet",
+  "topic": "queen victoria sapphire coronet",
+  "music": "music-023.wav",
+  "hook": { "text": "Her husband designed this sapphire coronet himself.", "gold": ["designed", "coronet"] },
+  "end": { "line": "A new jewelry story every day", "handle": "HeyGema" },
+  "lines": [
+    {
+      "text": "Her husband designed this sapphire coronet himself.",
+      "scene": { "kind": "hook", "show": "coronet", "shape": "oval", "tone": "#2a4fb0", "metal": "white", "color": "#ec6a9c" }
+    },
+    {
+      "text": "Queen Victoria married Prince Albert in February 1840.",
+      "say": "Queen Victoria married Prince Albert in February eighteen forty.",
+      "scene": {
+        "kind": "cast", "setting": "palace", "name": "Victoria and Albert", "role": "Married 10 February 1840", "color": "#5bb4e8",
+        "cast": [
+          { "outfit": "gown", "outfitColor": "#f6efe4", "hair": "updo", "hairColor": "#5a3a22", "skin": "#f6dcc6", "expression": "smile", "jewel": "pendant", "jewelTone": "#2a4fb0" },
+          { "outfit": "uniform", "outfitColor": "#1f2a44", "hair": "side", "hairColor": "#3a2a1e", "facial": "mustache", "skin": "#f1cfb0", "expression": "smile" }
+        ]
+      }
+    },
+    {
+      "text": "The day before, he gave her a sapphire and diamond brooch.",
+      "scene": { "kind": "gift", "stone": "oval", "tone": "#2a4fb0", "to": "From Albert", "date": "9 February 1840", "color": "#f7c23a" }
+    },
+    {
+      "text": "That same year, he designed a coronet to match it.",
+      "scene": {
+        "kind": "cast", "setting": "study", "name": "Prince Albert", "role": "Designer, 1840", "color": "#4cc3a8",
+        "cast": [
+          { "outfit": "suit", "outfitColor": "#1f2a44", "hair": "side", "hairColor": "#3a2a1e", "facial": "mustache", "skin": "#f1cfb0", "expression": "focused", "prop": "letter" }
+        ]
+      }
+    },
+    {
+      "text": "It has 11 sapphires set in gold, and diamonds set in silver.",
+      "say": "It has eleven sapphires set in gold, and diamonds set in silver.",
+      "scene": { "kind": "jewel", "piece": "tiara", "coronet": true, "shape": "oval", "tone": "#2a4fb0", "metal": "white", "label": "11 sapphires", "color": "#f0552e" }
+    },
+    {
+      "text": "Its 23 hinged parts let it open out like a tiara.",
+      "say": "Its twenty-three hinged parts let it open out like a tiara.",
+      "scene": { "kind": "title", "text": "23 parts", "sub": "All hinged", "color": "#a98be0" }
+    },
+    {
+      "text": "She wore it at the back of her head, around her bun.",
+      "scene": { "kind": "portrait", "name": "Queen Victoria", "years": "Painted in it, 1842", "hair": "updo", "hairColor": "#5a3a22", "tiara": true, "dress": "#f6efe4", "color": "#c8dc3c" }
+    },
+    {
+      "text": "In 1866, she opened Parliament,",
+      "say": "In eighteen sixty-six, she opened Parliament,",
+      "scene": {
+        "kind": "cast", "setting": "palace", "name": "Opening of Parliament", "role": "1866", "color": "#ec6a9c",
+        "cast": [
+          { "outfit": "gown", "outfitColor": "#2b2b33", "hair": "updo", "hairColor": "#5a3a22", "skin": "#f6dcc6", "hat": "tiara", "expression": "proud", "old": true }
+        ]
+      }
+    },
+    {
+      "text": "and wore the coronet in place of her crown.",
+      "scene": { "kind": "crown", "sceptre": false, "crownLabel": "On a cushion", "color": "#5bb4e8" }
+    },
+    {
+      "text": "A family later bought it and gave it to the V&A.",
+      "say": "A family later bought it and gave it to the V and A.",
+      "scene": { "kind": "gift", "stone": "coronet", "shape": "oval", "tone": "#2a4fb0", "to": "For the V&A", "date": "A gift, 2017", "color": "#f7c23a" }
+    },
+    {
+      "text": "It's been on show in London since 2019.",
+      "say": "It's been on show in London since twenty nineteen.",
+      "scene": { "kind": "jewel", "piece": "tiara", "coronet": true, "shape": "oval", "tone": "#2a4fb0", "metal": "white", "label": "V&A, London", "color": "#4cc3a8" }
+    }
+  ],
+  "post": {
+    "caption": "Prince Albert designed it for Queen Victoria in 1840, to match the brooch he gave her the day before their wedding.",
+    "hashtags": ["#queenvictoria", "#sapphirecoronet", "#royaljewels", "#princealbert", "#vamuseum"]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O1389071",
+    "https://www.gov.uk/government/news/export-bar-to-save-queen-victorias-coronet",
+    "https://www.vam.ac.uk/articles/queen-victorias-sapphire-and-diamond-coronet",
+    "https://col.rct.uk/collection/401413/queen-victoria-1819-1901",
+    "https://www.ianvisits.co.uk/articles/queen-victorias-sapphire-and-diamond-coronet-goes-on-display-30697/",
+    "https://www.rct.uk/collection/exhibitions/victoria-albert-art-love/the-queens-gallery-buckingham-palace/queen-victorias-wedding-brooch",
+    "https://royalcentral.co.uk/features/queen-victorias-sapphire-brooch-126609/",
+    "https://artlawandmore.com/2017/09/01/queen-victorias-coronet-saved-for-the-nation/",
+    "https://www.vam.ac.uk/blog/museum-life/queen-victorias-sapphire-and-diamond-coronet-to-go-on-permanent-display-from-april-2019"
+  ]
+}

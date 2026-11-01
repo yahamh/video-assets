@@ -1,0 +1,182 @@
+{
+  "id": "lesson-013-eternity-band",
+  "series": "lesson",
+  "number": 13,
+  "title": "What an eternity band is",
+  "topic": "eternity band",
+  "music": "music-lesson-013.wav",
+  "hook": {
+    "text": "This diamond band is hard to resize.",
+    "gold": [
+      "hard",
+      "resize"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This diamond band is hard to resize.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "focus": {
+          "x": 0.6,
+          "y": 0.5,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "It's a full eternity band, with stones all the way around.",
+      "scene": {
+        "kind": "compare",
+        "before": "eternity-cad.webp",
+        "after": "eternity-render.webp"
+      }
+    },
+    {
+      "text": "A half eternity band has stones across the top only.",
+      "scene": {
+        "kind": "photo",
+        "src": "signet-render.webp",
+        "label": "Stones on top only",
+        "focus": {
+          "x": 0.5,
+          "y": 0.3,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "The stones can sit in shared prongs, a channel, bezels or pavé.",
+      "say": "The stones can sit in shared prongs, a channel, bezels or pah-vay.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Shared prong",
+          "Channel",
+          "Bezel",
+          "Pavé"
+        ],
+        "active": 0,
+        "label": "Settings"
+      }
+    },
+    {
+      "text": "A bigger finger needs more stones to go all the way around.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "label": "More stones",
+        "focus": {
+          "x": 0.62,
+          "y": 0.45,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "It stands for love that never ends,",
+      "scene": {
+        "kind": "title",
+        "text": "Eternity",
+        "sub": "Love that never ends"
+      }
+    },
+    {
+      "text": "and it's often given for a tenth anniversary or a first child.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "label": "10 years, or a first child",
+        "focus": {
+          "x": 0.55,
+          "y": 0.35,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "Marilyn Monroe's band from Joe DiMaggio had 36 baguette diamonds.",
+      "say": "Marilyn Monroe's band from Joe DiMaggio had thirty-six baguette diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "36 baguettes",
+        "sub": "Marilyn Monroe's band"
+      }
+    },
+    {
+      "text": "A full band has no plain metal at the back to resize,",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "label": "Stones all around",
+        "focus": {
+          "x": 0.6,
+          "y": 0.68,
+          "k": 2.0
+        },
+        "marks": [
+          {
+            "x": 0.58,
+            "y": 0.72,
+            "text": "No plain metal",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "so the finger size has to be right before it's made.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Size",
+          "Design",
+          "Render",
+          "Make"
+        ],
+        "active": 0,
+        "label": "Size first"
+      }
+    },
+    {
+      "text": "A render shows the client every stone around it before it's made.",
+      "scene": {
+        "kind": "compare",
+        "before": "eternity-cad.webp",
+        "after": "eternity-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "What an eternity band is, and why it's hard to resize",
+    "caption": "A full eternity band has stones all the way around, so there's no plain metal at the back to resize, and the finger size has to be right first. A half eternity band has stones across the top only. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#eternityband",
+      "#eternityring",
+      "#jewelrymaking",
+      "#diamondband",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eternity_ring",
+    "https://www.jewelersmutual.com/the-jewelry-box/types-of-eternity-rings",
+    "https://4cs.gia.edu/en-us/blog/how-to-determine-ring-size-tips-and-ring-size-chart/",
+    "https://stuller.com/diamond-wedding-band-resource-center",
+    "https://www.bluenile.com/blog/diamonds-jewelry/non-resizable-rings",
+    "https://www.gemsociety.org/article/eternity-band-buying-guide/",
+    "https://www.michaelhill.com.au/connected/eternity-rings",
+    "https://rennieco.com/blogs/education/when-do-you-give-an-eternity-ring",
+    "https://debebians.com/blogs/debebians-fine-jewelry-blog/stone-sizes-for-a-round-diamond-eternity-ring",
+    "https://www.jewelerstouch.com/blogs/news/1-carat-eternity-band",
+    "https://www.1stdibs.com/blogs/the-study/de/eternity-bands",
+    "https://theadventurine.com/bridal/engagement-rings/the-mystery-of-marilyn-monroes-eternity-band-from-joe-dimaggio"
+  ]
+}

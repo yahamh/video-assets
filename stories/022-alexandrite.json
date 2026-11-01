@@ -1,0 +1,192 @@
+{
+  "id": "022-alexandrite",
+  "number": 22,
+  "title": "The green gem that turns red",
+  "style": "paper",
+  "plate": "Alexandrite",
+  "topic": "alexandrite",
+  "music": "music-022.wav",
+  "hook": {
+    "text": "This green gem turns red by candlelight.",
+    "gold": [
+      "red",
+      "candlelight"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This green gem turns red by candlelight.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2f9a78",
+        "toneTo": "#c0305a",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Miners found it in Russia's emerald mines in the early 1830s.",
+      "say": "Miners found it in Russia's emerald mines in the early eighteen thirties.",
+      "scene": {
+        "kind": "mine",
+        "place": "Ural Mountains, Russia",
+        "year": "1830s",
+        "tone": "#2f9a78",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "A Finnish mineralogist, Nils Nordenskiöld, first took one for an emerald.",
+      "say": "A Finnish mineralogist, Nils Noor-den-shold, first took one for an emerald.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Nils Gustaf Nordenskiöld",
+        "role": "Finnish mineralogist",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a4a6a",
+            "hair": "side",
+            "hairColor": "#8a6a4a",
+            "facial": "mustache",
+            "skin": "#f1cfb0",
+            "expression": "focused",
+            "prop": "gem",
+            "propTone": "#2f9a78"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Its hardness puzzled him,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "color": "#c8dc3c",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a4a6a",
+            "hair": "side",
+            "hairColor": "#8a6a4a",
+            "facial": "mustache",
+            "skin": "#f1cfb0",
+            "expression": "worried",
+            "glasses": "loupe",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and that evening, by candlelight, the stone turned red.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c0305a",
+        "light": "#ffb347",
+        "dark": true,
+        "label": "By candlelight",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It was a new kind of chrysoberyl, colored by a little chromium.",
+      "say": "It was a new kind of kriss-oh-berrill, colored by a little chromium.",
+      "scene": {
+        "kind": "title",
+        "text": "Chromium",
+        "sub": "In a new chrysoberyl",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It soaks up yellow light, so the lamp decides its color.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2f9a78",
+        "toneTo": "#c0305a",
+        "label": "Daylight and lamplight",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It was named for the future Tsar Alexander II.",
+      "say": "It was named for the future Tsar Alexander the Second.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Alexander II",
+        "years": "The future Tsar",
+        "hair": "side",
+        "hairColor": "#6b4a2e",
+        "dress": "#2f4f8a",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Legend says it was given to him on his sixteenth birthday.",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#2f9a78",
+        "to": "For Alexander",
+        "date": "Legend, 1834",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Its red and green were imperial Russia's military colors.",
+      "scene": {
+        "kind": "title",
+        "text": "Red and\ngreen",
+        "sub": "Imperial Russia's colors",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Since 1952, it's been a birthstone for June.",
+      "say": "Since nineteen fifty-two, it's been a birthstone for June.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#2f9a78",
+        "metal": "yellow",
+        "label": "June birthstone",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Green in daylight, red by candlelight. The gem a mineralogist first took for an emerald.",
+    "hashtags": [
+      "#alexandrite",
+      "#junebirthstone",
+      "#colorchange",
+      "#gemstones",
+      "#chrysoberyl"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/alexandrite",
+    "https://www.gia.edu/articles/alexandrite-history-lore",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002774",
+    "https://www.americangemsociety.org/the-folklore-of-alexandrite/",
+    "https://gemsociety.org/article/alexandrite-jewelry-and-gemstone-information",
+    "https://gia.edu/gems-gemology/winter-2019-alexandrite-geographic-origin-determination",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7145866/",
+    "https://www.lotusgemology.com/resources/articles/298-emeralds-from-russia-a-closer-look",
+    "https://www.gemsociety.org/article/history-of-birthstones/",
+    "https://www.nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "lesson-015-3d-printing-jewelry",
+  "series": "lesson",
+  "number": 15,
+  "title": "How 3D printing makes jewelry",
+  "topic": "3d printing jewelry",
+  "music": "music-lesson-015.wav",
+  "hook": {
+    "text": "Many gold rings start as a print.",
+    "gold": [
+      "print"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Many gold rings start as a print.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "First, the ring is drawn in CAD as a 3D file.",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp",
+        "beforeLabel": "CAD file"
+      },
+      "say": "First, the ring is drawn in CAD as a three D file."
+    },
+    {
+      "text": "Jewelers used to carve these models by hand in wax.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Carved by hand",
+        "role": "Before 3D printers",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#c8743a",
+            "hair": "short",
+            "hairColor": "#4a3324",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "prop": "blade"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Now a printer builds the model from the file, layer by layer.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "CAD file",
+          "Print",
+          "Cast"
+        ],
+        "active": 1,
+        "label": "Layer by layer"
+      }
+    },
+    {
+      "text": "Each layer is often about 30 microns thick.",
+      "say": "Each layer is often about thirty microns thick.",
+      "scene": {
+        "kind": "title",
+        "text": "30 microns",
+        "sub": "Each layer, often"
+      }
+    },
+    {
+      "text": "Some printers jet pure wax, and others harden liquid resin with light.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Pure wax",
+          "Resin"
+        ],
+        "active": 0,
+        "label": "Two kinds of printer"
+      }
+    },
+    {
+      "text": "Many ring models can print together on one plate, in hours.",
+      "scene": {
+        "kind": "title",
+        "text": "In hours",
+        "sub": "Many rings on one plate"
+      }
+    },
+    {
+      "text": "Jewelers also print resin copies for clients to try on first.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A try-on copy",
+        "role": "Printed in resin",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#4a3324",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#5b7fa8",
+            "hair": "long",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "smile",
+            "jewel": "earrings"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Printing straight in gold exists, but it's still rare.",
+      "scene": {
+        "kind": "title",
+        "text": "Gold printers",
+        "sub": "Still rare"
+      }
+    },
+    {
+      "text": "The print is then cast, and the gold takes its exact shape.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "CAD file",
+          "Print",
+          "Cast"
+        ],
+        "active": 2,
+        "label": "Lost-wax casting"
+      }
+    },
+    {
+      "text": "A render shows the ring to the client before anything is printed.",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "How 3D printing makes jewelry: from CAD file to gold ring",
+    "caption": "Jewelers once carved every wax model by hand. Now a printer builds it from the CAD file in thin layers, often about 30 microns each, in wax or in resin, and the print is cast in gold. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#3dprinting",
+      "#cadjewelry",
+      "#jewelrymaking",
+      "#jewelrycasting",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://formlabs.com/global/blog/3d-printed-jewelry/",
+    "https://rapaport.com/magazine-article/the-good-the-cad-and-the-ugly/",
+    "https://www.gia.edu/gia-news-research/3-D-printing-GIA-equips-students-technology-revolution",
+    "https://www.3dsystems.com/jewelry/mold-making",
+    "https://www.hubs.com/knowledge-base/jewelry-3d-printing-applications",
+    "https://solidscape.com/s3duo",
+    "https://www.stuller.com/benchjeweler/resources/bencharticles/view/a-jeweler-s-buying-guide-for-3d-printing-solutions/",
+    "https://formlabs.com/applications/jewelry/",
+    "https://rapaport.com/news/how-jewelers-achieve-the-perfect-custom-engagement-ring/",
+    "https://news.jewellerynet.com/tk/jnanews/features/25501/100323-"
+  ]
+}
