@@ -312,6 +312,66 @@
       "youtube"
     ]
   },
+  "020-lesedi-la-rona": {
+    "at": "2026-11-03T14:00:00Z",
+    "zernio_id": "6ae6d2b6cb39ad3c9081857a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "021-faberge-hen-egg": {
+    "at": "2026-11-03T18:00:00Z",
+    "zernio_id": "6ae6d2c7cb39ad3c908185bc",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "022-alexandrite": {
+    "at": "2026-11-03T23:00:00Z",
+    "zernio_id": "6ae6d2d6167c8d8ebe4e5549",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "023-victoria-sapphire-coronet": {
+    "at": "2026-11-04T14:00:00Z",
+    "zernio_id": "6ae6d2e7cb39ad3c9081862a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "024-purple-quahog-pearl": {
+    "at": "2026-11-04T18:00:00Z",
+    "zernio_id": "6ae6d2f8cb39ad3c90818656",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "025-staffordshire-hoard": {
+    "at": "2026-11-04T23:00:00Z",
+    "zernio_id": "6ae6d30de705a44ce10d3f50",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -514,6 +574,27 @@
   "lesson-012-emerald-cut": {
     "at": "2026-11-04T16:00:00Z",
     "zernio_id": "6ae57a2f0d4549b26bf67347",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-013-eternity-band": {
+    "at": "2026-11-05T16:00:00Z",
+    "zernio_id": "6ae6d317cb39ad3c908186ac",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-014-marquise-cut": {
+    "at": "2026-11-06T16:00:00Z",
+    "zernio_id": "6ae6d322e705a44ce10d3f73",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-015-3d-printing-jewelry": {
+    "at": "2026-11-07T16:00:00Z",
+    "zernio_id": "6ae6d32acb39ad3c908186d5",
     "platforms": [
       "youtube"
     ]
