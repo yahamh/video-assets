@@ -84,7 +84,7 @@ const other = (color: string, list = [SUN, CREAM, MINT, PINK]) => list.find((c) 
 // ------------------------------------------------------------------ hook
 
 // The opening shot: the payoff, big and already moving on the first frame, under the hook words. Options as in
-// scenes/Hook.tsx (show: parcel, chest, rough, gem, glass, pearl, round-pearl, egg, opal, ring, carrot).
+// scenes/Hook.tsx (show: parcel, chest, rough, gem, glass, pearl, round-pearl, egg, opal, ring, carrot, clam).
 export const PHook: React.FC<SceneProps> = ({ t, p }) => {
   const id = "pHook";
   const show = str(p.show, "rough");

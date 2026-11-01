@@ -546,7 +546,31 @@ export const Spheres: React.FC<{ s: number; t: number; big?: boolean }> = ({ s, 
   return <g>{out}</g>;
 };
 
-// One of the things a story shows, by name: gem, glass, rough, pearl, round-pearl, egg, opal, ring, carrot, empty.
+// An open clam: the top shell tipped back, the bottom shell's white inside with a purple rim (a quahog's), and a pearl
+// in tone on it.
+export const Clam: React.FC<{ s: number; tone?: string; id?: string }> = ({ s, tone = "#a98bc9", id = "cl" }) => {
+  const shellOut = "#cfc4b6", rim = "#7d4f9e", inside = "#f6f1f6";
+  const top = `M${-s * 0.95} ${-s * 0.02} C${-s * 1.0} ${-s * 0.7} ${-s * 0.45} ${-s * 1.05} 0 ${-s * 1.05} C${s * 0.45} ${-s * 1.05} ${s * 1.0} ${-s * 0.7} ${s * 0.95} ${-s * 0.02} Z`;
+  const bowl = `M${-s} 0 C${-s * 0.95} ${s * 0.55} ${-s * 0.5} ${s * 0.82} 0 ${s * 0.82} C${s * 0.5} ${s * 0.82} ${s * 0.95} ${s * 0.55} ${s} 0 Z`;
+  return (
+    <g>
+      <path d={top} fill={rim} />
+      <path d={top} fill={inside} transform={`translate(0 ${s * 0.03}) scale(0.86 0.84)`} />
+      <path d={`M${-s * 0.25} ${-s * 0.55} Q0 ${-s * 0.75} ${s * 0.25} ${-s * 0.55}`} fill="none" stroke={rim} strokeWidth={s * 0.05} opacity={0.35} strokeLinecap="round" />
+      <path d={bowl} fill={shellOut} />
+      {[0.25, 0.45, 0.65].map((k, i) => (
+        <path key={i} d={`M${-s * (1 - k * 0.35)} ${s * k * 0.5} Q0 ${s * (0.32 + k * 0.62)} ${s * (1 - k * 0.35)} ${s * k * 0.5}`} fill="none" stroke={CREAM} strokeWidth={4} opacity={0.75} />
+      ))}
+      <ellipse cx={0} cy={0} rx={s} ry={s * 0.24} fill={rim} />
+      <ellipse cx={0} cy={s * 0.01} rx={s * 0.86} ry={s * 0.18} fill={inside} />
+      <g transform={`translate(0 ${-s * 0.12})`}>
+        <Pearl s={s * 0.27} tone={tone} id={`${id}-cl`} />
+      </g>
+    </g>
+  );
+};
+
+// One of the things a story shows, by name: gem, glass, rough, pearl, round-pearl, egg, opal, ring, carrot, clam, empty.
 export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string; tone?: string; metalName?: string; id?: string; prongs?: number }> = ({ kind, s, t, shape, tone, metalName, id, prongs }) => {
   switch (kind) {
     case "gem":
@@ -564,6 +588,8 @@ export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string
       return <Ring s={s * 1.1} shape={shape ?? "round"} tone={tone} metalName={metalName} t={t} prongs={prongs} />;
     case "carrot":
       return <Carrot s={s} ring metalName={metalName} />;
+    case "clam":
+      return <Clam s={s} tone={tone} id={id} />;
     case "empty":
       return null;
     default:
