@@ -1,0 +1,212 @@
+{
+  "id": "028-wedding-ring-lost-55-years",
+  "number": 28,
+  "title": "His wedding ring returned after 55 years",
+  "style": "paper",
+  "plate": "The Lost Ring",
+  "topic": "wedding ring lost 55 years tennessee",
+  "music": "music-028.wav",
+  "hook": {
+    "text": "His wedding ring returned after 55 years.",
+    "gold": [
+      "55",
+      "years"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "His wedding ring returned after 55 years.",
+      "say": "His wedding ring returned after fifty-five years.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A man in Tennessee lost his wedding ring in his parents' yard.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "name": "Murfreesboro, Tennessee",
+        "role": "Almost 55 years ago",
+        "color": "#c8dc3c",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#4cc3a8",
+            "hair": "short",
+            "hairColor": "#4a3324",
+            "skin": "#efc9a6",
+            "expression": "worried"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He was scattering shavings when the ring came off with them.",
+      "scene": {
+        "kind": "title",
+        "text": "Shavings",
+        "sub": "The ring came off with them",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A new family bought the house in 2006,",
+      "say": "A new family bought the house in two thousand six,",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "The house",
+        "role": "Sold in 2006",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#ec6a9c",
+            "hair": "long",
+            "hairColor": "#7a4a2a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          },
+          {
+            "outfit": "casual",
+            "outfitColor": "#a98be0",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e6a",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and the old owner mentioned his lost ring on the walkthrough.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#4cc3a8",
+            "hair": "short",
+            "hairColor": "#4a3324",
+            "skin": "#efc9a6",
+            "expression": "worried"
+          },
+          {
+            "outfit": "casual",
+            "outfitColor": "#a98be0",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e6a",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Years later, bored in the pandemic, he took up metal detecting.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "color": "#4cc3a8",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#a98be0",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "prop": "shovel"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In April 2021, one of his first signals led to a ring.",
+      "say": "In April twenty twenty-one, one of his first signals led to a ring.",
+      "scene": {
+        "kind": "title",
+        "text": "April 2021",
+        "sub": "A signal in the yard",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "The initials inside told him it was the one.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "label": "The initials",
+        "light": "#fff2c4",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "His wife asked if he still wanted to marry her,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#4cc3a8",
+            "hair": "short",
+            "hairColor": "#4a3324",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "old": true
+          },
+          {
+            "outfit": "casual",
+            "outfitColor": "#ec6a9c",
+            "hair": "curly",
+            "hairColor": "#b9b4ab",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "old": true
+          }
+        ]
+      }
+    },
+    {
+      "text": "and he said he would do it all over again.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "Back on his finger",
+        "velvet": "#c8dc3c",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "He lost his wedding ring in his parents' yard. 55 years later, the man who bought the house found it with a metal detector.",
+    "hashtags": [
+      "#weddingring",
+      "#lostandfound",
+      "#metaldetecting",
+      "#lovestory",
+      "#jewelry"
+    ]
+  },
+  "sources": [
+    "https://www.newsweek.com/metal-detector-hobbyist-reunites-man-wedding-ring-lost-55-years-ago-1595119",
+    "https://kvia.com/news/regional-news/2021/05/29/man-returns-wedding-ring-to-owner-almost-55-years-later/"
+  ]
+}

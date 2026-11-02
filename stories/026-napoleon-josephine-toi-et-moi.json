@@ -1,0 +1,226 @@
+{
+  "id": "026-napoleon-josephine-toi-et-moi",
+  "number": 26,
+  "title": "Napoleon's ring sold for fifty times its estimate",
+  "style": "paper",
+  "plate": "Toi et Moi",
+  "topic": "josephine toi et moi ring",
+  "music": "music-026.wav",
+  "hook": {
+    "text": "Napoleon's ring fetched fifty times its estimate.",
+    "gold": [
+      "fifty",
+      "times"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Napoleon's ring fetched fifty times its estimate.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "pear",
+        "tone": "#2a4fb0",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Napoleon Bonaparte and Josephine married on 9 March 1796.",
+      "say": "Napoleon Bonaparte and Josephine married on the ninth of March, seventeen ninety-six.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Napoleon and Josephine",
+        "role": "Married 9 March 1796",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#f6efe4",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pendant",
+            "jewelTone": "#2a4fb0"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Family tradition says he gave her this toi et moi ring.",
+      "say": "Family tradition says he gave her this twah ay mwah ring.",
+      "scene": {
+        "kind": "gift",
+        "stone": "pear",
+        "tone": "#2a4fb0",
+        "to": "Josephine",
+        "date": "From Napoleon",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The name means you and me.",
+      "scene": {
+        "kind": "title",
+        "text": "Toi et moi",
+        "sub": "You and me",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A pear-shaped sapphire and a pear-shaped diamond sit side by side.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Side by side",
+        "color": "#4cc3a8",
+        "pieces": [
+          {
+            "shape": "pear",
+            "size": 0.8,
+            "tone": "#2a4fb0"
+          },
+          {
+            "shape": "pear",
+            "size": 0.8
+          }
+        ]
+      }
+    },
+    {
+      "text": "Each is about a carat, set on a slim gold band.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "pear",
+        "tone": "#2a4fb0",
+        "metal": "yellow",
+        "label": "A slim gold band",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "It went to her daughter Hortense, then to Hortense's son,",
+      "scene": {
+        "kind": "portrait",
+        "name": "Hortense",
+        "years": "Josephine's daughter",
+        "hair": "updo",
+        "hairColor": "#3a2a1e",
+        "pearls": true,
+        "dress": "#a98be0",
+        "bg": "#f7c23a",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "who became Napoleon the Third.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Napoleon the Third",
+        "role": "Hortense's son",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#2f4f8a",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 2013, the Osenat auction house in Fontainebleau offered it.",
+      "say": "In twenty thirteen, the Oh-zuh-nah auction house in Fontainebleau offered it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Osenat",
+        "role": "Fontainebleau, 2013",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e6a",
+            "expression": "smile",
+            "prop": "letter"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was expected to bring about $20,000.",
+      "say": "It was expected to bring about twenty thousand dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$20,000",
+        "sub": "The estimate",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Osenat said the estimate left out Napoleon and Josephine.",
+      "say": "Oh-zuh-nah said the estimate left out Napoleon and Josephine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "pear",
+        "tone": "#2a4fb0",
+        "label": "The Napoleon part",
+        "light": "#fff2c4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The winning bid was $949,000, almost fifty times that.",
+      "say": "The winning bid was nine hundred forty-nine thousand dollars, almost fifty times that.",
+      "scene": {
+        "kind": "title",
+        "text": "$949,000",
+        "sub": "The winning bid",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Napoleon gave Josephine a toi et moi ring, a sapphire and a diamond side by side. In 2013 it was expected to sell for about $20,000.",
+    "hashtags": [
+      "#napoleon",
+      "#josephine",
+      "#toietmoi",
+      "#engagementring",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.thejewelleryeditor.com/whats-on/auctions/napoleons-engagement-ring-goes-under-the-hammer/",
+    "https://www.forbes.com/sites/anthonydemarco/2013/03/24/napoleons-engagement-ring-to-josephine-fetches-948000-at-auction/",
+    "https://newsfeed.time.com/?p=201048",
+    "https://www.jckonline.com/?p=15716",
+    "https://historynewsnetwork.org/article/151227",
+    "https://www.rapaport.com/jewelry/the-romantic-trend-of-contemporary-toi-et-moi-rings/",
+    "https://www.thejewelleryeditor.com/jewellery/article/true-romance-toi-et-moi-rings/"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "029-emerald-garden",
+  "number": 29,
+  "title": "Most emeralds have a garden inside",
+  "style": "paper",
+  "plate": "The Emerald Garden",
+  "topic": "emerald jardin inclusions",
+  "music": "music-029.wav",
+  "hook": {
+    "text": "Most emeralds have a garden inside.",
+    "gold": [
+      "garden"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Most emeralds have a garden inside.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#1f9d62",
+        "garden": true,
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Gem dealers call it the jardin, French for garden.",
+      "say": "Gem dealers call it the zhar-dan, French for garden.",
+      "scene": {
+        "kind": "title",
+        "text": "Jardin",
+        "sub": "French for garden",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It's the pattern of inclusions and fractures inside the stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#1f9d62",
+        "halo": "#d7ffe3",
+        "garden": true,
+        "label": "Inside the stone",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "GIA says emeralds usually show inclusions to the unaided eye.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "GIA gem lab",
+        "role": "Emerald, under a loupe",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "updo",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "glasses": "loupe",
+            "prop": "gem",
+            "propTone": "#1f9d62"
+          }
+        ]
+      }
+    },
+    {
+      "text": "An eye-clean emerald is rare, so it's especially valuable.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "emerald",
+        "tone": "#1f9d62",
+        "metal": "yellow",
+        "label": "Eye-clean",
+        "velvet": "#ec6a9c",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Most are treated by filling the cracks with oil or resin.",
+      "scene": {
+        "kind": "cut",
+        "phase": "blade",
+        "place": "Filled with oil",
+        "pieces": [
+          {
+            "tone": "#1f9d62"
+          }
+        ],
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The emerald cut was developed for emeralds,",
+      "scene": {
+        "kind": "gift",
+        "stone": "emerald",
+        "tone": "#1f9d62",
+        "to": "The emerald cut",
+        "date": "For emeralds",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "with its corners cut off to prevent chipping.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "emerald",
+        "tone": "#1f9d62",
+        "metal": "white",
+        "label": "Corners cut off",
+        "velvet": "#5bb4e8",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Some Colombian emeralds hold a gas bubble and a salt crystal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#1f9d62",
+        "light": "#d7ffe3",
+        "garden": true,
+        "label": "Bubble and crystal",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Labs use that garden to tell natural emeralds from lab-grown ones.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A fingerprint",
+        "role": "The garden inside",
+        "color": "#c8dc3c",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "glasses": "loupe",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "Almost every emerald has a garden inside: the jardin, a web of inclusions and fractures. It decides how the stone is treated, how it's cut and how labs tell it's natural.",
+    "hashtags": [
+      "#emerald",
+      "#emeraldcut",
+      "#gemstones",
+      "#maybirthstone",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/emerald",
+    "https://phillips.com/detail/HK060120/601",
+    "https://my.gia.edu/emerald-quality-factor",
+    "https://www.gemsociety.org/article/emerald-jewelry-and-gemstone-information/",
+    "https://4cs.gia.edu/en-us/blog/gia-green-gemstones-buying-guide/",
+    "https://4cs.gia.edu/en-us/blog/the-elegant-emerald-cut-diamond/",
+    "https://gem-a.com/?p=7199",
+    "https://gem-a.com/gem-hub/may-birthstone-emerald",
+    "https://laboratoire-francais-gemmologie.fr/en/what-is-the-difference-between-emeralds-from-colombia-and-those-from-zambia/"
+  ]
+}

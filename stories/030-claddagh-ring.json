@@ -1,0 +1,228 @@
+{
+  "id": "030-claddagh-ring",
+  "number": 30,
+  "title": "This Irish ring says whether you're single",
+  "style": "paper",
+  "plate": "The Claddagh",
+  "topic": "claddagh ring",
+  "music": "music-030.wav",
+  "hook": {
+    "text": "This Irish ring says whether you're single.",
+    "gold": [
+      "single"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This Irish ring says whether you're single.",
+      "scene": {
+        "kind": "hook",
+        "show": "claddagh",
+        "metal": "yellow",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It's the Claddagh ring, named for a fishing village by Galway.",
+      "scene": {
+        "kind": "title",
+        "text": "Claddagh",
+        "sub": "A fishing village by Galway",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The design is two hands holding a crowned heart.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "claddagh",
+        "metal": "yellow",
+        "label": "Two hands, one crowned heart",
+        "velvet": "#ec6a9c",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The hands are said to stand for friendship,",
+      "scene": {
+        "kind": "title",
+        "text": "Friendship",
+        "sub": "The hands",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "the heart for love and the crown for loyalty.",
+      "scene": {
+        "kind": "title",
+        "text": "Love and loyalty",
+        "sub": "The heart and the crown",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Legend says a Galway goldsmith, Richard Joyce, made the first one.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Richard Joyce",
+        "role": "Galway goldsmith",
+        "color": "#a98be0",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#5bb4e8",
+            "hair": "long",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "beard",
+            "prop": "gem",
+            "propTone": "#f7c23a"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In the tale, Algerian pirates sold him to a goldsmith.",
+      "scene": {
+        "kind": "journey",
+        "icon": "ship",
+        "label": "Captured at sea",
+        "color": "#5bb4e8",
+        "from": {
+          "name": "Galway",
+          "x": 0.15,
+          "y": 0.2
+        },
+        "to": {
+          "name": "Algiers",
+          "x": 0.8,
+          "y": 0.8
+        }
+      }
+    },
+    {
+      "text": "King William the Third later ordered his release,",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "King William the Third",
+        "role": "Ordered his release",
+        "color": "#f0552e",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#c8314a",
+            "hair": "curly",
+            "hairColor": "#6a4a30",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "hat": "crown",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and back in Galway, he gave the ring to his sweetheart.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "color": "#c8dc3c",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a2a22",
+            "hair": "long",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "beard"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#ec6a9c",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The oldest ring, from about 1700, is in a Galway museum.",
+      "say": "The oldest ring, from about seventeen hundred, is in a Galway museum.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "claddagh",
+        "metal": "yellow",
+        "label": "About 1700",
+        "velvet": "#f7c23a",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "By tradition, heart out on the right hand means single.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "claddagh",
+        "metal": "yellow",
+        "label": "Right hand, heart out",
+        "velvet": "#a98be0",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Heart in means taken, and on the left hand it means married.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#ec6a9c",
+            "hair": "long",
+            "hairColor": "#7a4a2a",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pendant",
+            "jewelTone": "#f7c23a"
+          },
+          {
+            "outfit": "casual",
+            "outfitColor": "#4cc3a8",
+            "hair": "short",
+            "hairColor": "#4a3324",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "A fishing village by Galway gave its name to the Claddagh ring: two hands, a heart and a crown. Heart out on the right hand, by tradition, means single.",
+    "hashtags": [
+      "#claddaghring",
+      "#irishjewelry",
+      "#galway",
+      "#irishtradition",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.museum.ie/en-IE/Collections-Research/Folklife-Collections/Folklife-Collections-List-(1)/Other/Curators-Choice/Claddagh-Rings",
+    "https://www.ireland.com/en/magazine/culture/claddagh-ring/",
+    "https://www.go-to-ireland.com/culture/claddagh-ring/",
+    "https://www.nationalgeographic.com/history/article/claddagh-rings-ireland-barbary-pirates-corsairs",
+    "https://www.irishtimes.com/life-and-style/homes-and-property/fine-art-antiques/eternal-love-oldest-known-claddagh-ring-comes-home-to-galway-1.4235299",
+    "https://en.wikipedia.org/wiki/Richard_Joyce_(goldsmith)"
+  ]
+}

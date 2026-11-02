@@ -1,0 +1,159 @@
+{
+ "id": "lesson-016-pearl-luster",
+ "series": "lesson",
+ "number": 16,
+ "title": "Why a pearl glows",
+ "topic": "pearl luster",
+ "music": "music-lesson-016.wav",
+ "hook": {
+  "text": "A pearl glows because of its layers.",
+  "gold": [
+   "layers"
+  ]
+ },
+ "end": {
+  "line": "Renders made with",
+  "handle": "HeyGema"
+ },
+ "lines": [
+  {
+   "text": "A pearl glows because of its layers.",
+   "scene": {
+    "kind": "photo",
+    "src": "earrings-render.webp",
+    "focus": {
+     "x": 0.46,
+     "y": 0.74,
+     "k": 1.7
+    }
+   }
+  },
+  {
+   "text": "A pearl is made of nacre, which is layered aragonite crystal.",
+   "say": "A pearl is made of nay-ker, which is layered uh-rag-uh-nite crystal.",
+   "scene": {
+    "kind": "photo",
+    "src": "earrings-render.webp",
+    "label": "Nacre",
+    "focus": {
+     "x": 0.46,
+     "y": 0.75,
+     "k": 2.4
+    }
+   }
+  },
+  {
+   "text": "In a cultured pearl, the nacre grows over a shell bead.",
+   "scene": {
+    "kind": "photo",
+    "src": "earrings-render.webp",
+    "label": "A cultured pearl",
+    "focus": {
+     "x": 0.45,
+     "y": 0.72,
+     "k": 1.4
+    }
+   }
+  },
+  {
+   "text": "Each crystal plate is about half a micrometer thick.",
+   "say": "Each crystal plate is about half a micrometer thick.",
+   "scene": {
+    "kind": "title",
+    "text": "0.5 µm",
+    "sub": "One crystal plate"
+   }
+  },
+  {
+   "text": "Light bounces off the surface and off the layers beneath it.",
+   "scene": {
+    "kind": "photo",
+    "src": "earrings-render.webp",
+    "label": "Light in the layers",
+    "focus": {
+     "x": 0.44,
+     "y": 0.72,
+     "k": 3.0
+    }
+   }
+  },
+  {
+   "text": "That glow is called luster.",
+   "scene": {
+    "kind": "compare",
+    "before": "earrings-input.webp",
+    "after": "earrings-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Luster"
+   }
+  },
+  {
+   "text": "Jewelers judge it by how sharp and bright its reflections are.",
+   "scene": {
+    "kind": "photo",
+    "src": "earrings-render.webp",
+    "label": "Sharp reflection",
+    "focus": {
+     "x": 0.42,
+     "y": 0.7,
+     "k": 3.4
+    }
+   }
+  },
+  {
+   "text": "An Akoya pearl needs at least ten months to grow those layers.",
+   "say": "An Ah-koh-yah pearl needs at least ten months to grow those layers.",
+   "scene": {
+    "kind": "title",
+    "text": "10 months",
+    "sub": "An Akoya pearl, at least"
+   }
+  },
+  {
+   "text": "So the glow is built one thin layer at a time.",
+   "scene": {
+    "kind": "photo",
+    "src": "earrings-render.webp",
+    "label": "One layer at a time",
+    "focus": {
+     "x": 0.47,
+     "y": 0.76,
+     "k": 1.9
+    }
+   }
+  },
+  {
+   "text": "A render shows the client that glow before the piece is made.",
+   "scene": {
+    "kind": "compare",
+    "before": "earrings-input.webp",
+    "after": "earrings-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  }
+ ],
+ "post": {
+  "youtube_title": "Why a pearl glows: nacre and luster in a jewelry render",
+  "caption": "A pearl is built from layers of aragonite crystal, each about half a micrometer thick. Light bounces off the surface and the layers beneath it, and jewelers judge that glow, called luster, by how sharp and bright the reflections are. The renders in this video were made with HeyGema.",
+  "hashtags": [
+   "#pearls",
+   "#pearljewelry",
+   "#pearlluster",
+   "#jewelrymaking",
+   "#jewelryrendering"
+  ]
+ },
+ "sources": [
+  "https://nature.berkeley.edu/classes/eps2/wisc/Lect17.html",
+  "https://www.nhm.ac.uk/discover/quick-questions/how-do-oysters-make-pearls.html",
+  "https://www.gia.edu/pearl",
+  "https://www.gia.edu/articles/pearl-quality-factor",
+  "https://en.wikipedia.org/wiki/Pearl",
+  "https://en.wikipedia.org/wiki/Nacre",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8545470",
+  "https://guildgemlab.com/landing/standards/guild-pearl-standard/",
+  "https://www.gia.edu/gia-news-research/differences-between-pearl-types",
+  "https://www.winterson.co.uk/blog/how-long-does-it-take-to-grow-a-real-cultured-pearl"
+ ]
+}

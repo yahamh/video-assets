@@ -52,7 +52,7 @@ const stepOutline = (w: number, h: number, cut: number): Pt[] => [
 ];
 
 // One cut stone, seen from above.
-export const Gem: React.FC<{ shape?: string; tone?: string; s: number; t?: number; glint?: number }> = ({ shape = "round", tone, s, t = 0, glint = 1 }) => {
+export const Gem: React.FC<{ shape?: string; tone?: string; s: number; t?: number; glint?: number; garden?: boolean }> = ({ shape = "round", tone, s, t = 0, glint = 1, garden }) => {
   const base = tone ?? DIAMOND;
   const clear = !tone;
   const flash = [PINK, SKY, LIME, SUN, LILAC];
@@ -99,10 +99,43 @@ export const Gem: React.FC<{ shape?: string; tone?: string; s: number; t?: numbe
     lines.push("M" + table.map(([x, y]) => `${(x * s).toFixed(1)} ${(y * s).toFixed(1)}`).join("L") + "Z");
   }
   const edgePts = pts(edge.map(([x, y]) => [x * s, y * s] as Pt));
+  // An emerald's "garden": fern-like fractures and inclusions inside the stone, clipped to its outline.
+  const gid = `gdn-${Math.round(s)}-${shape}`;
+  const sprigs: React.ReactNode[] = [];
+  if (garden) {
+    const starts: [number, number, number, number][] = [
+      [-0.5, 0.62, -62, 0.78], [0.42, 0.7, -112, 0.72], [-0.1, -0.78, 82, 0.62], [0.6, -0.3, 168, 0.56], [-0.62, -0.1, 8, 0.5],
+    ];
+    starts.forEach(([x0, y0, ang, len], k) => {
+      const a = (ang * Math.PI) / 180;
+      const dx = Math.cos(a), dy = Math.sin(a);
+      const col = k % 2 === 0 ? "#e9fff0" : tint(base, -0.55);
+      const sw = Math.max(1.5, s * 0.018);
+      const tipX = x0 + dx * len, tipY = y0 + dy * len;
+      sprigs.push(<path key={`g${k}`} d={`M${x0 * s} ${y0 * s}Q${(x0 + dx * len * 0.5 + dy * 0.06) * s} ${(y0 + dy * len * 0.5 - dx * 0.06) * s} ${tipX * s} ${tipY * s}`} fill="none" stroke={col} strokeWidth={sw * 1.4} strokeLinecap="round" />);
+      for (let j = 1; j <= 5; j++) {
+        const f = j / 6, px = x0 + dx * len * f, py = y0 + dy * len * f, ll = len * 0.3 * (1 - f * 0.6);
+        for (const side of [-1, 1]) {
+          const la = a + side * 0.9;
+          sprigs.push(<path key={`g${k}-${j}-${side}`} d={`M${px * s} ${py * s}L${(px + Math.cos(la) * ll) * s} ${(py + Math.sin(la) * ll) * s}`} stroke={col} strokeWidth={sw} strokeLinecap="round" />);
+        }
+      }
+    });
+  }
   return (
     <g>
       <polygon points={edgePts} fill={tint(base, -0.4)} transform={`translate(${s * 0.05} ${s * 0.07})`} opacity={0.3} />
       {faces}
+      {garden ? (
+        <>
+          <defs>
+            <clipPath id={gid}>
+              <polygon points={edgePts} />
+            </clipPath>
+          </defs>
+          <g clipPath={`url(#${gid})`} opacity={0.9}>{sprigs}</g>
+        </>
+      ) : null}
       <path d={lines.join("")} fill="none" stroke={CREAM} strokeWidth={Math.max(1.5, s * 0.012)} strokeLinejoin="round" opacity={0.85} />
       <polygon points={edgePts} fill="none" stroke={CREAM} strokeWidth={Math.max(2, s * 0.02)} strokeLinejoin="round" />
       <ellipse cx={-s * 0.28} cy={-s * 0.42} rx={s * 0.16} ry={s * 0.07} transform={`rotate(-30 ${-s * 0.28} ${-s * 0.42})`} fill={CREAM} opacity={0.7 * glint} />
@@ -248,7 +281,7 @@ export const Carrot: React.FC<{ s: number; ring?: boolean; metalName?: string }>
 };
 
 // A ring seen from a little above the front: the band, the head and its stone. `prongs` 4 or 6.
-export const Ring: React.FC<{ s: number; shape?: string; tone?: string; metalName?: string; t?: number; prongs?: number; halo?: boolean; noStone?: boolean }> = ({
+export const Ring: React.FC<{ s: number; shape?: string; tone?: string; metalName?: string; t?: number; prongs?: number; halo?: boolean; noStone?: boolean; plain?: boolean }> = ({
   s,
   shape = "round",
   tone,
@@ -257,9 +290,21 @@ export const Ring: React.FC<{ s: number; shape?: string; tone?: string; metalNam
   prongs = 4,
   halo,
   noStone,
+  plain,
 }) => {
   const [m, md] = metal(metalName);
-  const rx = s * 0.78, ry = s * 0.3, cy = s * 0.42, w = s * 0.13;
+  const rx = s * 0.78, ry = s * 0.3, cy = s * 0.42, w = s * (plain ? 0.2 : 0.13);
+  if (plain) {
+    // a plain wedding band: no setting, no stone
+    return (
+      <g transform={`translate(0 ${-s * 0.34})`}>
+        <ellipse cx={0} cy={cy} rx={rx} ry={ry} fill="none" stroke={md} strokeWidth={w} />
+        <path d={`M${-rx} ${cy} A${rx} ${ry} 0 0 0 ${rx} ${cy}`} fill="none" stroke={m} strokeWidth={w} />
+        <path d={`M${-rx * 0.8} ${cy + ry * 0.55} A${rx} ${ry} 0 0 0 ${rx * 0.35} ${cy + ry * 0.97}`} fill="none" stroke={CREAM} strokeWidth={w * 0.14} opacity={0.6} strokeLinecap="round" />
+        <path d={`M${-rx * 0.55} ${cy - ry * 0.98} A${rx} ${ry} 0 0 1 ${rx * 0.2} ${cy - ry * 1.02}`} fill="none" stroke={CREAM} strokeWidth={w * 0.12} opacity={0.5} strokeLinecap="round" />
+      </g>
+    );
+  }
   const stone = s * (shape === "emerald" || shape === "oval" || shape === "pear" ? 0.36 : 0.33);
   const top = cy - ry - stone * 0.55;
   return (
@@ -304,10 +349,43 @@ export const Ring: React.FC<{ s: number; shape?: string; tone?: string; metalNam
   );
 };
 
+// A Claddagh ring: a band with two hands holding a crowned heart.
+export const Claddagh: React.FC<{ s: number; metalName?: string; t?: number }> = ({ s, metalName = "yellow", t = 0 }) => {
+  const [m, md] = metal(metalName);
+  const rx = s * 0.78, ry = s * 0.3, cy = s * 0.42, w = s * 0.14;
+  const h = s * 0.4;
+  const top = cy - ry - h * 0.55;
+  const pulse = 1 + 0.03 * Math.sin(t * 3);
+  const heart = `M0 ${h * 0.62} C${-h * 1.05} ${-h * 0.02} ${-h * 0.78} ${-h * 0.8} ${-h * 0.36} ${-h * 0.7} C${-h * 0.16} ${-h * 0.65} 0 ${-h * 0.5} 0 ${-h * 0.32} C0 ${-h * 0.5} ${h * 0.16} ${-h * 0.65} ${h * 0.36} ${-h * 0.7} C${h * 0.78} ${-h * 0.8} ${h * 1.05} ${-h * 0.02} 0 ${h * 0.62}Z`;
+  const crown = `M${-h * 0.34} ${-h * 0.62} L${-h * 0.4} ${-h * 1.12} L${-h * 0.17} ${-h * 0.92} L0 ${-h * 1.24} L${h * 0.17} ${-h * 0.92} L${h * 0.4} ${-h * 1.12} L${h * 0.34} ${-h * 0.62}Z`;
+  const hand = (side: number) => (
+    <g transform={`scale(${side} 1)`}>
+      <path d={`M${h * 0.5} ${h * 0.5} L${h * 1.45} ${h * 0.6} L${h * 1.5} ${h * 0.05} Q${h * 1.5} ${-h * 0.18} ${h * 1.28} ${-h * 0.16} L${h * 0.78} ${-h * 0.1} Q${h * 0.62} ${h * 0.08} ${h * 0.5} ${h * 0.12}Z`} fill={m} stroke={md} strokeWidth={3} strokeLinejoin="round" />
+      {[0, 1, 2].map((i) => <path key={i} d={`M${h * (0.86 + i * 0.16)} ${-h * 0.1} V${h * 0.12}`} stroke={md} strokeWidth={3} strokeLinecap="round" />)}
+    </g>
+  );
+  return (
+    <g>
+      <ellipse cx={0} cy={cy} rx={rx} ry={ry} fill="none" stroke={md} strokeWidth={w} />
+      <path d={`M${-rx} ${cy} A${rx} ${ry} 0 0 0 ${rx} ${cy}`} fill="none" stroke={m} strokeWidth={w} />
+      <path d={`M${-rx * 0.8} ${cy + ry * 0.55} A${rx} ${ry} 0 0 0 ${rx * 0.35} ${cy + ry * 0.97}`} fill="none" stroke={CREAM} strokeWidth={w * 0.18} opacity={0.6} strokeLinecap="round" />
+      <g transform={`translate(0 ${top}) scale(${pulse})`}>
+        {hand(1)}
+        {hand(-1)}
+        <path d={heart} fill={tint(m, 0.12)} stroke={md} strokeWidth={4} strokeLinejoin="round" />
+        <path d={`M${-h * 0.5} ${-h * 0.5} Q${-h * 0.62} ${-h * 0.2} ${-h * 0.4} ${h * 0.05}`} stroke={CREAM} strokeWidth={5} fill="none" opacity={0.7} strokeLinecap="round" />
+        <path d={crown} fill={m} stroke={md} strokeWidth={4} strokeLinejoin="round" />
+        {[-0.4, 0, 0.4].map((x, i) => <circle key={i} cx={x * h} cy={-h * (x === 0 ? 1.24 : 1.12)} r={h * 0.07} fill={CREAM} stroke={md} strokeWidth={2} />)}
+      </g>
+    </g>
+  );
+};
+
 // A necklace hanging from the top corners: a chain or a row of pearls, and a pendant stone or pearl.
-export const Necklace: React.FC<{ s: number; pearls?: boolean; drop?: string; shape?: string; tone?: string; metalName?: string; t?: number; id?: string }> = ({
+export const Necklace: React.FC<{ s: number; pearls?: boolean; drop?: string; shape?: string; tone?: string; metalName?: string; t?: number; id?: string; strands?: number }> = ({
   s,
   pearls,
+  strands = 1,
   drop,
   shape = "pear",
   tone,
@@ -323,8 +401,22 @@ export const Necklace: React.FC<{ s: number; pearls?: boolean; drop?: string; sh
     return [Math.cos(a) * s, -s * 0.55 + Math.sin(a) * s * 1.05];
   });
   const bottom: Pt = [0, s * 0.5];
+  // A second, shorter strand inside the first (a two-strand necklace).
+  const inner: Pt[] =
+    strands > 1
+      ? Array.from({ length: 17 }, (_, i) => {
+          const u = i / 16;
+          const a = Math.PI * (1 - u);
+          return [Math.cos(a) * s * 0.82, -s * 0.55 + Math.sin(a) * s * 0.78] as Pt;
+        })
+      : [];
   return (
     <g>
+      {inner.map(([x, y], i) => (
+        <g key={`in${i}`} transform={`translate(${x} ${y})`}>
+          <Pearl s={s * 0.065} id={`${id}in${i}`} />
+        </g>
+      ))}
       {beads.map(([x, y], i) =>
         pearls ? (
           <g key={i} transform={`translate(${x} ${y})`}>
@@ -376,8 +468,44 @@ export const Earrings: React.FC<{ s: number; shape?: string; tone?: string; pear
 };
 
 // A brooch: a big stone with a ring of small ones and petals of metal.
-export const Brooch: React.FC<{ s: number; shape?: string; tone?: string; metalName?: string; t?: number }> = ({ s, shape = "oval", tone, metalName = "yellow", t = 0 }) => {
+// A flower brooch: petals in metal with a ring of small diamonds and a stone in the middle. `mystery`: every petal is
+// covered in small cut stones set edge to edge, so no metal shows (Van Cleef & Arpels' Mystery Set).
+export const Brooch: React.FC<{ s: number; shape?: string; tone?: string; metalName?: string; t?: number; mystery?: boolean }> = ({ s, shape = "oval", tone, metalName = "yellow", t = 0, mystery }) => {
   const [m, md] = metal(metalName);
+  if (mystery) {
+    const base = tone ?? "#d2223c";
+    const rx = s * 0.22, ry = s * 0.5, cw = s * 0.062, ch = s * 0.062;
+    const cells: React.ReactNode[] = [];
+    for (let i = 0; i < 8; i++)
+      for (let r = -9; r <= 9; r++)
+        for (let c = -4; c <= 4; c++) {
+          const x = c * cw, y = r * ch;
+          if ((x / (rx - cw * 0.3)) ** 2 + (y / (ry - ch * 0.3)) ** 2 > 1) continue;
+          const k = rand(i * 131 + r * 17 + c * 7 + 3);
+          const shine = 0.5 + 0.5 * Math.sin(t * 2.2 + i * 1.3 + r * 0.9 + c * 0.6);
+          cells.push(
+            <rect
+              key={`${i}-${r}-${c}`}
+              x={x - cw * 0.47 + i * 0}
+              y={y - ch * 0.47}
+              width={cw * 0.94}
+              height={ch * 0.94}
+              rx={cw * 0.12}
+              fill={k < 0.25 ? tint(base, -0.3) : k < 0.55 ? tint(base, 0.12 + 0.22 * shine) : tint(base, -0.08)}
+              transform={`rotate(${i * 45 + Math.sin(t) * 3}) translate(0 ${-s * 0.45})`}
+            />,
+          );
+        }
+    return (
+      <g>
+        {Array.from({ length: 8 }, (_, i) => (
+          <ellipse key={i} rx={rx} ry={ry} transform={`rotate(${i * 45 + Math.sin(t) * 3}) translate(0 ${-s * 0.45})`} fill={tint(base, -0.35)} />
+        ))}
+        {cells}
+        <Gem shape="round" s={s * 0.36} t={t} />
+      </g>
+    );
+  }
   return (
     <g>
       {Array.from({ length: 8 }, (_, i) => (
@@ -616,12 +744,13 @@ export const Hen: React.FC<{ s: number; t?: number }> = ({ s, t = 0 }) => {
 };
 
 // One of the things a story shows, by name: gem, glass, rough, pearl, round-pearl, egg (shape "plain" for no gold
-// bands), opal, ring, carrot, clam, hen, tiara, coronet (a tiara with a stone on every peak), empty.
-export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string; tone?: string; metalName?: string; id?: string; prongs?: number }> = ({ kind, s, t, shape, tone, metalName, id, prongs }) => {
+// bands), opal, ring (shape "plain" for a plain wedding band), claddagh, brooch (shape "mystery": a flower covered in stones), carrot, clam, hen, tiara, coronet (a tiara
+// with a stone on every peak), empty.
+export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string; tone?: string; metalName?: string; id?: string; prongs?: number; garden?: boolean }> = ({ kind, s, t, shape, tone, metalName, id, prongs, garden }) => {
   switch (kind) {
     case "gem":
     case "glass":
-      return <Gem shape={shape ?? "cushion"} tone={tone} s={s} t={t} />;
+      return <Gem shape={shape ?? "cushion"} tone={tone} s={s} t={t} garden={garden} />;
     case "pearl":
       return <Pearl s={s * 0.8} drop tone={tone} id={id} />;
     case "round-pearl":
@@ -636,7 +765,11 @@ export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string
     case "opal":
       return <Opal s={s * 0.9} t={t} dark={tone === "dark"} />;
     case "ring":
-      return <Ring s={s * 1.1} shape={shape ?? "round"} tone={tone} metalName={metalName} t={t} prongs={prongs} />;
+      return <Ring s={s * 1.1} shape={shape === "plain" ? "round" : shape ?? "round"} tone={tone} metalName={metalName} t={t} prongs={prongs} plain={shape === "plain"} />;
+    case "claddagh":
+      return <Claddagh s={s * 1.1} metalName={metalName} t={t} />;
+    case "brooch":
+      return <Brooch s={s * 0.9} shape={shape === "mystery" ? "round" : shape ?? "oval"} tone={tone} metalName={metalName} t={t} mystery={shape === "mystery"} />;
     case "carrot":
       return <Carrot s={s} ring metalName={metalName} />;
     case "clam":

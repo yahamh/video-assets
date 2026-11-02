@@ -142,11 +142,16 @@ each scene's paper version is in `src/paper/scenes.tsx` (listed in `registry.ts`
   the drawn ones.
 - `hook`: `show` can also be `ring` (with `prongs`, `metal`), `carrot`, `opal`, `round-pearl`, `clam`, `hen` (a gold
   hen on a nest), `tiara` or `coronet` (a stone on every peak); `shape: "plain"` for a plain egg; `toneTo` makes the
-  stone change color from `tone` to `toneTo` and back (alexandrite). `reveal` takes `toneTo` too.
+  stone change color from `tone` to `toneTo` and back (alexandrite). `reveal` takes `toneTo` too. `show` can also
+  be `claddagh` (the Irish ring) or `brooch` (`shape: "mystery"` for a flower covered in stones with no metal showing);
+  `show: "ring"` with `shape: "plain"` is a plain wedding band; `garden: true` on a `gem` (hook or reveal) draws
+  fern-like inclusions inside the stone (an emerald's garden).
 - `crown`: `sceptre: false` shows the crown alone.
 - `mine`: `ground: "field"` for a plowed field instead of a hill; leave out `carats` and set `zoomAt` past 1 for
   the ground alone.
-- `jewel`: `prongs` (4 or 6), `halo` and `empty` (a ring with no stone yet) for a ring; and pieces `spheres` (opal's
+- `jewel`: `prongs` (4 or 6), `halo`, `empty` (a ring with no stone yet) and `plain` (a plain wedding band) for a
+  ring; `mystery: true` for a brooch covered in stones; `strands: 2` for a necklace of pearls with a second
+  strand; piece `claddagh`; and pieces `spheres` (opal's
   silica spheres, `size: "small"` for small ones), `opal` and `carrot` (a carrot grown through a ring). It is drawn
   like a plate in a science book, with the stone again in a square lens.
 - `reveal`, `gift`: items and stones can also be `ring`, `opal`, `carrot`, `round-pearl`, `clam`, `hen`, `tiara`,

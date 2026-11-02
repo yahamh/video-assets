@@ -1,0 +1,206 @@
+{
+  "id": "031-cartier-pearl-mansion",
+  "number": 31,
+  "title": "A pearl necklace paid for a mansion",
+  "style": "paper",
+  "plate": "Pearls for a House",
+  "topic": "cartier pearl necklace mansion",
+  "music": "music-031.wav",
+  "hook": {
+    "text": "A pearl necklace paid for a mansion.",
+    "gold": [
+      "pearl",
+      "mansion"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pearl necklace paid for a mansion.",
+      "scene": {
+        "kind": "hook",
+        "show": "round-pearl",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In 1917, Pierre Cartier wanted a bigger shop on Fifth Avenue.",
+      "say": "In nineteen seventeen, Pierre Cartier wanted a bigger shop on Fifth Avenue.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Pierre Cartier",
+        "role": "New York, 1917",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "mustache",
+            "hat": "top"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He liked a mansion built for Morton Plant in 1905.",
+      "say": "He liked a mansion built for Morton Plant in nineteen oh five.",
+      "scene": {
+        "kind": "title",
+        "text": "1905",
+        "sub": "Morton Plant's mansion",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "But Plant's wife, Maisie, had fallen for a Cartier pearl necklace.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Maisie Plant",
+        "role": "Mrs. Morton Plant",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#a98be0",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pearls"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It had two strands, one with 55 pearls and one with 73.",
+      "say": "It had two strands, one with fifty-five pearls and one with seventy-three.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "pearls": true,
+        "strands": 2,
+        "drop": "none",
+        "label": "Two strands",
+        "velvet": "#5bb4e8",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Cartier had gathered the pearls over several years,",
+      "scene": {
+        "kind": "gift",
+        "stone": "round-pearl",
+        "to": "Matched pearls",
+        "date": "Over years",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "and the necklace was valued at about a million dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$1 million",
+        "sub": "The necklace",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "So Plant gave Cartier the mansion, and Maisie got the necklace.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The trade",
+        "role": "1917",
+        "color": "#f0552e",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache",
+            "hat": "top"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#a98be0",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "jewel": "pearls"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Cultured pearls later made natural pearls far cheaper,",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "label": "Natural pearls",
+        "light": "#f6e7ff",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "while the house more than held its value.",
+      "scene": {
+        "kind": "title",
+        "text": "A house",
+        "sub": "More than held its value",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Cartier did well out of that trade.",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "shape": "round",
+        "to": "Cartier",
+        "date": "Fifth Avenue",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Its New York flagship is still in that house today.",
+      "scene": {
+        "kind": "title",
+        "text": "Fifth Avenue",
+        "sub": "Cartier's flagship, still",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1917 Cartier traded a two-strand natural pearl necklace for a Fifth Avenue mansion. Cartier's New York flagship is still in that house.",
+    "hashtags": [
+      "#cartier",
+      "#pearls",
+      "#fifthavenue",
+      "#jewelryhistory",
+      "#newyork"
+    ]
+  },
+  "sources": [
+    "https://www.cartier.com/en-us/clp-MAISON_story_temples_mansion.html",
+    "https://www.wmagazine.com/story/cartier-new-york-flagship-store",
+    "https://fastly.cigaraficionado.com/article/pearls-gems-of-the-ocean-7516",
+    "https://doyle.com/story/mrs-plants-pearls/",
+    "https://news.artnet.com/art-world/cartier-mansion-new-york-640385",
+    "https://thejewelleryeditor.com/jewellery/article/cartier-new-york-mansion-restored-to-former-glory",
+    "https://en.wikipedia.org/wiki/Cartier_Building"
+  ]
+}

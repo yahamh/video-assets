@@ -3,7 +3,7 @@ import { prog, rand } from "../look";
 import { SceneProps, num, str } from "../scenes/types";
 import type { Expression } from "../people/Person";
 import { Blob, Card, Confetti, CORAL, CREAM, Doodles, Glow, INK, INK_SOFT, LILAC, LIME, MINT, MONO, PINK, Ripples, SERIF, SKY, SUN, Shadow, Sheet, Sparkle, Stamp, blobPath, mix, pick, tint } from "./kit";
-import { Brooch, Carrot, Chest, Crown, Earrings, Gem, Item, Necklace, Opal, Parcel, Ring, Rough, Sceptre, Spheres, Tiara } from "./things";
+import { Brooch, Carrot, Chest, Claddagh, Crown, Earrings, Gem, Item, Necklace, Opal, Parcel, Ring, Rough, Sceptre, Spheres, Tiara } from "./things";
 import { PLook, PaperPerson, Setting } from "./people";
 
 // The story scenes in the paper look (ali, 30 Oct 2026): each scene is one big painted shape on cream paper with its
@@ -117,7 +117,7 @@ export const PHook: React.FC<SceneProps> = ({ t, p }) => {
     const turn = show === "rough" ? t * 14 : spin;
     subject = (
       <g transform={`translate(540 ${cy + bob}) rotate(${turn})`}>
-        <Item kind={show} s={(show === "ring" ? 340 : 270) * size} t={t} shape={shape} tone={tn} id="pHookIt" metalName={str(p.metal, "yellow")} prongs={num(p.prongs, 4)} />
+        <Item kind={show} s={(show === "ring" ? 340 : 270) * size} t={t} shape={shape} tone={tn} id="pHookIt" metalName={str(p.metal, "yellow")} prongs={num(p.prongs, 4)} garden={!!p.garden} />
       </g>
     );
   }
@@ -396,7 +396,7 @@ export const PReveal: React.FC<SceneProps> = ({ t, p }) => {
       <g transform={`translate(540 1100)`}>
         <Chest s={280} open={open} inside={k > 0.01 ? (
           <g transform={`translate(0 ${iy - 1100}) scale(${0.4 + 0.6 * Math.min(1, k)})`}>
-            <Item kind={item} s={170} t={t} shape={str(p.shape, "round")} tone={tn ?? (item === "glass" ? "#dcebe4" : undefined)} id="pRevealIt" metalName={str(p.metal, "yellow")} />
+            <Item kind={item} s={170} t={t} shape={str(p.shape, "round")} tone={tn ?? (item === "glass" ? "#dcebe4" : undefined)} id="pRevealIt" metalName={str(p.metal, "yellow")} garden={!!p.garden} />
           </g>
         ) : null} />
       </g>
@@ -494,7 +494,7 @@ export const PJourney: React.FC<SceneProps> = ({ t, dur, p }) => {
 
 // ------------------------------------------------------------------ gift
 
-const KINDS = ["rough", "egg", "pearl", "round-pearl", "opal", "ring", "carrot", "glass", "clam", "hen", "tiara", "coronet"];
+const KINDS = ["rough", "egg", "pearl", "round-pearl", "opal", "ring", "claddagh", "brooch", "carrot", "glass", "clam", "hen", "tiara", "coronet"];
 
 // A gift on a cushion with a handwritten tag. Options as in scenes/Gift.tsx: to and date (the tag's two lines), stone
 // ("rough", "egg", "ring", "pearl", "clam", "hen", "tiara", "coronet" or a cut shape such as "pear"), tone; shape
@@ -698,8 +698,8 @@ export const PCrown: React.FC<SceneProps> = ({ t, p }) => {
 
 // One piece close up, drawn like a plate in an old science book: a thin frame and grid, construction circles, the
 // piece on a painted shape and its stone again in a square lens. Options as in scenes/Jewel.tsx: piece (ring,
-// necklace, earrings, brooch, tiara), shape, tone, metal, velvet (the painted shape's color), pearls, drop, label;
-// prongs (4 or 6), halo and empty (no stone yet) for a ring; coronet (true: a stone on every peak, no pearls) for a
+// necklace, earrings, brooch, tiara, claddagh), shape, tone, metal, velvet (the painted shape's color), pearls, drop, label;
+// prongs (4 or 6), halo and empty (no stone yet) for a ring, plain (a plain wedding band); mystery (a brooch covered in stones, no metal showing); coronet (true: a stone on every peak, no pearls) for a
 // tiara; and three pieces only the paper look has: "spheres"
 // (opal's silica spheres; size "small" for small ones), "opal" (a polished opal), "carrot" (a carrot grown through a
 // ring).
@@ -718,7 +718,7 @@ export const PJewel: React.FC<SceneProps> = ({ t, p }) => {
   let focus: [number, number] | null = null;
   switch (piece) {
     case "necklace":
-      node = <g transform={`translate(${cx} ${cy - 40})`}><Necklace s={290} pearls={!!p.pearls} drop={str(p.drop, "")} shape={shape} tone={tn} metalName={mt} t={t} id="pJewelN" /></g>;
+      node = <g transform={`translate(${cx} ${cy - 40})`}><Necklace s={290} pearls={!!p.pearls} drop={str(p.drop, "")} shape={shape} tone={tn} metalName={mt} t={t} id="pJewelN" strands={Number(p.strands) || 1} /></g>;
       focus = p.drop === "none" ? null : [cx, cy - 40 + 290 * 0.77];
       break;
     case "earrings":
@@ -726,12 +726,16 @@ export const PJewel: React.FC<SceneProps> = ({ t, p }) => {
       focus = [cx + 300 * 0.53, cy + 40 + 300 * 0.05];
       break;
     case "brooch":
-      node = <g transform={`translate(${cx} ${cy}) rotate(${Math.sin(t * 0.8) * 4})`}><Brooch s={230} shape={shape} tone={tn} metalName={mt} t={t} /></g>;
+      node = <g transform={`translate(${cx} ${cy}) rotate(${Math.sin(t * 0.8) * 4})`}><Brooch s={230} shape={shape} tone={tn} metalName={mt} t={t} mystery={!!p.mystery} /></g>;
       focus = [cx, cy];
       break;
     case "tiara":
       node = <g transform={`translate(${cx} ${cy + 60})`}><Tiara s={320} shape={shape} tone={tn} metalName={mt} t={t} id="pJewelT" coronet={!!p.coronet} /></g>;
       focus = [cx, cy + 60 + 320 * (0.4 - 0.3 - 0.75 - 0.08)];
+      break;
+    case "claddagh":
+      node = <g transform={`translate(${cx} ${cy - 40})`}><Claddagh s={290} metalName={mt} t={t} /></g>;
+      focus = null;
       break;
     case "spheres":
       node = <g transform={`translate(${cx} ${cy})`}><Spheres s={300} t={t} big={p.size !== "small"} /></g>;
@@ -745,8 +749,8 @@ export const PJewel: React.FC<SceneProps> = ({ t, p }) => {
       focus = [cx - 10, cy + 20];
       break;
     default:
-      node = <g transform={`translate(${cx} ${cy - 30})`}><Ring s={270} shape={shape} tone={tn} metalName={mt} t={t} prongs={num(p.prongs, 4)} halo={!!p.halo} noStone={!!p.empty} /></g>;
-      focus = p.empty ? null : [cx, cy - 30 - 270 * 0.06];
+      node = <g transform={`translate(${cx} ${cy - 30})`}><Ring s={270} shape={shape} tone={tn} metalName={mt} t={t} prongs={num(p.prongs, 4)} halo={!!p.halo} noStone={!!p.empty} plain={!!p.plain} /></g>;
+      focus = p.empty || p.plain ? null : [cx, cy - 30 - 270 * 0.06];
   }
   const lx = 820, ly = 480, lw = 210;
   return (

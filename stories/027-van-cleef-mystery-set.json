@@ -1,0 +1,215 @@
+{
+  "id": "027-van-cleef-mystery-set",
+  "number": 27,
+  "title": "No metal shows between these ruby petals",
+  "style": "paper",
+  "plate": "The Mystery Set",
+  "topic": "van cleef mystery setting",
+  "music": "music-027.wav",
+  "hook": {
+    "text": "No metal shows between these ruby petals.",
+    "gold": [
+      "No metal"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "No metal shows between these ruby petals.",
+      "scene": {
+        "kind": "hook",
+        "show": "brooch",
+        "shape": "mystery",
+        "tone": "#d2223c",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Van Cleef and Arpels patented a new setting in 1933.",
+      "say": "Van Cleef and Arpels patented a new setting in nineteen thirty-three.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Van Cleef & Arpels",
+        "role": "A patent, 1933",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#5bb4e8",
+            "hair": "short",
+            "hairColor": "#3a2c22",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "glasses": "loupe"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They called it the Mystery Set.",
+      "scene": {
+        "kind": "title",
+        "text": "Mystery Set",
+        "sub": "Serti mystérieux",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Each stone has a groove cut along its sides,",
+      "scene": {
+        "kind": "cut",
+        "phase": "blade",
+        "place": "A groove in each stone",
+        "pieces": [
+          {
+            "tone": "#d2223c"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "so it can slide onto thin rails of gold.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Rails of gold",
+        "color": "#a98be0",
+        "pieces": [
+          {
+            "shape": "princess",
+            "size": 0.5,
+            "tone": "#d2223c"
+          },
+          {
+            "shape": "princess",
+            "size": 0.5,
+            "tone": "#d2223c"
+          },
+          {
+            "shape": "princess",
+            "size": 0.5,
+            "tone": "#d2223c"
+          },
+          {
+            "shape": "princess",
+            "size": 0.5,
+            "tone": "#d2223c"
+          }
+        ]
+      }
+    },
+    {
+      "text": "From the front, no metal shows at all.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "mystery": true,
+        "shape": "round",
+        "tone": "#d2223c",
+        "label": "No metal shows",
+        "velvet": "#5bb4e8",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "At first, it covered flat objects like compacts.",
+      "scene": {
+        "kind": "title",
+        "text": "Compacts",
+        "sub": "Its first use",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "One piece takes about 300 hours,",
+      "say": "One piece takes about three hundred hours,",
+      "scene": {
+        "kind": "title",
+        "text": "300 hours",
+        "sub": "For one piece",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "and each stone can take up to eight hours to prepare.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Eight hours",
+        "role": "For one stone",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#ec6a9c",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "glasses": "loupe",
+            "prop": "gem",
+            "propTone": "#d2223c"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1937, the house made a peony clip of Mystery Set rubies.",
+      "say": "In nineteen thirty-seven, the house made a peony clip of Mystery Set rubies.",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#d2223c",
+        "to": "The peony clip",
+        "date": "1937",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "That's a lot of patience for one petal.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "mystery": true,
+        "shape": "round",
+        "tone": "#d2223c",
+        "label": "One petal",
+        "velvet": "#ec6a9c",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Only a few Mystery Set jewels are made each year.",
+      "scene": {
+        "kind": "title",
+        "text": "A few a year",
+        "sub": "Mystery Set jewels",
+        "color": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1933 Van Cleef and Arpels patented a setting with no visible metal. Each ruby is cut with a groove and slid onto a gold rail.",
+    "hashtags": [
+      "#vancleefarpels",
+      "#mysteryset",
+      "#highjewelry",
+      "#jewelrycraft",
+      "#rubies"
+    ]
+  },
+  "sources": [
+    "https://www.vancleefarpels.com/en/the-maison/timeline/1930s.html",
+    "https://www.vancleefarpels.com/en/the-maison/articles/the-mystery-set--a-jewelry-making-feat.html",
+    "https://www.sothebys.com/buy/925792ee-882c-43a8-98b0-685730115fb4/lots/30f756c6-c96a-4cb3-8ec6-cf519db9a557",
+    "https://www.berganza.com/knowledge/stories/the-most-mysterious-of-settings",
+    "https://understanding-jewellery.com/?p=1931",
+    "https://www.1stdibs.com/blogs/the-study/de/van-cleef-and-arpels-mystery-setting/",
+    "https://highjewellerydream.com/vcas-mystery-setting/"
+  ]
+}
