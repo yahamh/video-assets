@@ -1,0 +1,170 @@
+{
+  "id": "032-pink-star-diamond",
+  "number": 32,
+  "title": "A pink diamond sold for $71 million",
+  "topic": "pink star diamond",
+  "style": "lowpoly",
+  "music": "music-032.wav",
+  "hook": {
+    "text": "A pink diamond sold for $71 million.",
+    "gold": [
+      "pink",
+      "$71 million"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pink diamond sold for $71 million.",
+      "say": "A pink diamond sold for seventy-one million dollars.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#f08fb4"
+      }
+    },
+    {
+      "text": "De Beers mined the rough stone in Africa in 1999.",
+      "say": "De Beers mined the rough stone in Africa in nineteen ninety-nine.",
+      "scene": {
+        "kind": "mine",
+        "place": "De Beers, Africa",
+        "year": 1999,
+        "tone": "#e9b3c6"
+      }
+    },
+    {
+      "text": "It weighed 132.5 carats before anyone cut it.",
+      "say": "It weighed one hundred thirty-two and a half carats before anyone cut it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#e9b3c6",
+        "label": "132.5 carats"
+      }
+    },
+    {
+      "text": "Two years of cutting and polishing made it a 59.6-carat oval.",
+      "say": "Two years of cutting and polishing made it an oval of fifty-nine point six carats.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Two years of polishing",
+        "pieces": [
+          {
+            "shape": "oval",
+            "carats": 59.6,
+            "tone": "#f08fb4"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The Gemological Institute of America had never graded",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "GIA",
+        "role": "The graders",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "glasses": "round",
+            "prop": "gem",
+            "propTone": "#f08fb4"
+          }
+        ]
+      }
+    },
+    {
+      "text": "a larger internally flawless, vivid pink diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "Internally flawless",
+        "sub": "Fancy Vivid Pink"
+      }
+    },
+    {
+      "text": "On April 4, 2017, Sotheby's offered it in Hong Kong.",
+      "say": "On the fourth of April, twenty seventeen, Sotheby's offered it in Hong Kong.",
+      "scene": {
+        "kind": "title",
+        "text": "Hong Kong",
+        "sub": "April 4, 2017"
+      }
+    },
+    {
+      "text": "The chairman of Chow Tai Fook, a Hong Kong jewelry company,",
+      "say": "The chairman of Chow Tie Fook, a Hong Kong jewelry company,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Chow Tai Fook",
+        "role": "A Hong Kong jeweler",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#1e1612",
+            "skin": "#c98e6a",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "phoned in the winning bid.",
+      "scene": {
+        "kind": "title",
+        "text": "By phone",
+        "sub": "The winning bid"
+      }
+    },
+    {
+      "text": "It paid $71.2 million, the most ever for a diamond at auction.",
+      "say": "It paid seventy-one point two million dollars, the most ever for a diamond at auction.",
+      "scene": {
+        "kind": "title",
+        "text": "$71.2 million",
+        "sub": "A record"
+      }
+    },
+    {
+      "text": "It became the CTF Pink Star, in memory of the company's founder.",
+      "say": "It became the C T F Pink Star, in memory of the company's founder.",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#f08fb4",
+        "to": "CTF Pink Star",
+        "date": "2017"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A pink diamond that began as a 132.5-carat rough stone sold for $71.2 million in Hong Kong, the most ever paid for a diamond at auction.",
+    "hashtags": [
+      "#pinkdiamond",
+      "#pinkstar",
+      "#diamonds",
+      "#jewelryhistory",
+      "#sothebys"
+    ]
+  },
+  "sources": [
+    "https://www.npr.org/sections/thetwo-way/2017/04/05/522739361/pink-star-diamond-sells-for-71-million-smashing-auction-record",
+    "https://www.guinnessworldrecords.com/world-records/most-expensive-diamond",
+    "https://nationaljeweler.com/articles/8112-the-pink-star-sells-for-71m-at-sothebys",
+    "https://money.cnn.com/2017/04/04/luxury/pink-star-diamond-auction-sothebys/"
+  ]
+}

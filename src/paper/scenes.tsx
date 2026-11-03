@@ -566,7 +566,7 @@ export const PCut: React.FC<SceneProps> = ({ t, dur, p }) => {
   const color = pick(p);
   const phase = str(p.phase, "all");
   const hit = num(p.hitAt, phase === "all" ? dur * 0.25 : 0.5);
-  const pieces = (Array.isArray(p.pieces) ? (p.pieces as CutPiece[]) : [{ shape: "pear" }]).slice(0, 6);
+  const pieces = (Array.isArray(p.pieces) ? (p.pieces as CutPiece[]) : [{ shape: "pear" }]).slice(0, 12);
   const resultAt = phase === "result" ? 0.1 : phase === "all" ? hit + 1.0 : Infinity;
   const showBench = t < resultAt;
   const down = phase === "blade" ? 0 : ease(t, hit - 0.12, hit);
@@ -578,9 +578,11 @@ export const PCut: React.FC<SceneProps> = ({ t, dur, p }) => {
   const by = 760 + down * 150 + tremble;
   const maxC = Math.max(1, ...pieces.map((x) => num(x.carats, 1)));
   const n = pieces.length;
+  const rows = n > 6 ? 2 : 1; // more than six stones go in two rows (twelve birthstones)
+  const perRow = Math.ceil(n / rows);
   // sizes follow the carats (or size), then all shrink together so no two neighbors touch
   const raw = pieces.map((pc) => 40 + 85 * (pc.size ?? Math.sqrt(num(pc.carats, maxC) / maxC)));
-  const spacing = n > 1 ? 740 / (n - 1) : 740;
+  const spacing = perRow > 1 ? 740 / (perRow - 1) : 740;
   const fit = Math.min(1, ...raw.slice(1).map((r, i) => (spacing * 0.85) / (r + raw[i])));
   return (
     <Sheet id={id}>
@@ -621,15 +623,16 @@ export const PCut: React.FC<SceneProps> = ({ t, dur, p }) => {
         pieces.map((pc, i) => {
           const kk = popIn(t, resultAt + i * 0.22, 0.45);
           const s = raw[i] * fit;
-          const x = n === 1 ? 540 : 170 + i * spacing;
+          const x = perRow === 1 ? 540 : 170 + (i % perRow) * spacing;
+          const rowY = rows === 2 ? (i < perRow ? 760 : 1020) : 900;
           return (
             <g key={i} opacity={Math.min(1, kk * 2)}>
-              <Shadow id={id} x={x} y={1000} rx={s * 0.9} k={kk} />
-              <g transform={`translate(${x} ${900 + Math.sin(t * 2 + i) * 6}) scale(${kk})`}>
+              <Shadow id={id} x={x} y={rowY + 100} rx={s * 0.9} k={kk} />
+              <g transform={`translate(${x} ${rowY + Math.sin(t * 2 + i) * 6}) scale(${kk})`}>
                 {pc.shape === "rough" ? <Rough s={s * 0.9} tone={pc.tone} seed={i + 2} /> : <Gem shape={pc.shape ?? "round"} tone={pc.tone} s={s} t={t + i} />}
               </g>
               {pc.carats !== undefined && (
-                <text x={x} y={1080} textAnchor="middle" fontFamily={MONO} fontWeight={700} fontSize={n > 4 ? 22 : 28} letterSpacing={2} fill={INK} opacity={Math.min(1, kk)}>
+                <text x={x} y={rowY + 180} textAnchor="middle" fontFamily={MONO} fontWeight={700} fontSize={n > 4 ? 22 : 28} letterSpacing={2} fill={INK} opacity={Math.min(1, kk)}>
                   {`${pc.carats} CT`}
                 </text>
               )}

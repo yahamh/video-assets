@@ -1,0 +1,169 @@
+{
+  "id": "036-pearl-of-puerto",
+  "number": 36,
+  "title": "A giant pearl sat under his bed",
+  "plate": "The Giant Pearl",
+  "topic": "pearl of puerto palawan",
+  "style": "paper",
+  "theme": "riso",
+  "music": "music-036.wav",
+  "hook": {
+    "text": "A giant pearl sat under his bed.",
+    "gold": [
+      "giant pearl",
+      "bed"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A giant pearl sat under his bed.",
+      "scene": {
+        "kind": "hook",
+        "show": "round-pearl",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It came out of a giant clam near Palawan in the Philippines.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "name": "A fisherman",
+        "role": "Palawan, Philippines",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#5bb4e8",
+            "hair": "short",
+            "hairColor": "#1e1612",
+            "skin": "#c98e6a",
+            "expression": "surprised",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He found it about ten years before anyone else heard of it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "clam",
+        "label": "A giant clam",
+        "light": "#fff2c4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "He kept it under his bed as a good luck charm.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "label": "A good luck charm",
+        "light": "#fff2c4",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It weighs 34 kilograms, about 75 pounds,",
+      "say": "It weighs thirty-four kilograms, about seventy-five pounds,",
+      "scene": {
+        "kind": "title",
+        "text": "75 pounds",
+        "sub": "34 kilograms",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "and it's more than two feet long.",
+      "scene": {
+        "kind": "title",
+        "text": "2 feet",
+        "sub": "More than",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In 2016, a relative in tourism asked him to show it.",
+      "say": "In twenty sixteen, a relative in tourism asked him to show it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A relative",
+        "role": "In tourism",
+        "color": "#4cc3a8",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#ec6a9c",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e6a",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Officials said it may be the biggest natural pearl ever found,",
+      "scene": {
+        "kind": "gift",
+        "stone": "round-pearl",
+        "to": "The biggest?",
+        "date": "Puerto Princesa",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "and invited gemologists to come and check.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Gemologists",
+        "role": "Invited to check",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "glasses": "loupe",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It went on display in the city hall of Puerto Princesa.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "label": "On display",
+        "light": "#fff2c4",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A fisherman in Palawan kept a pearl from a giant clam under his bed as a good luck charm for about ten years. It weighs 34 kilograms.",
+    "hashtags": [
+      "#pearl",
+      "#giantpearl",
+      "#palawan",
+      "#philippines",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.npr.org/sections/thetwo-way/2016/08/24/491191461/filipino-fisherman-reveals-75-pound-pearl-he-kept-hidden-for-a-decade",
+    "https://gulfnews.com/amp/story/world%2Fasia%2Fphilippines%2Fis-this-the-worlds-biggest-natural-pearl-1.1884253",
+    "https://en.wikipedia.org/wiki/Pearl_of_Puerto"
+  ]
+}

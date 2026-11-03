@@ -1,0 +1,192 @@
+{
+  "id": "037-lalique-horn-jewels",
+  "number": 37,
+  "title": "He built jewels from horn and glass",
+  "topic": "rene lalique jeweler",
+  "music": "music-037.wav",
+  "hook": {
+    "text": "He built jewels from horn and glass.",
+    "gold": [
+      "horn",
+      "glass"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He built jewels from horn and glass.",
+      "say": "He built jewels from horn and glass.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear",
+        "tone": "#c58a3a"
+      }
+    },
+    {
+      "text": "René Lalique was born in 1860 in Ay, in the Champagne region.",
+      "say": "Ren-ay Lah-leek was born in eighteen sixty in Ah-ee, in the Champagne region.",
+      "scene": {
+        "kind": "title",
+        "text": "1860",
+        "sub": "Ay, in Champagne"
+      }
+    },
+    {
+      "text": "In 1876, he became an apprentice to the Paris goldsmith Louis Aucoc.",
+      "say": "In eighteen seventy-six, he became an apprentice to the Paris goldsmith Louis Oh-cock.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Louis Aucoc",
+        "role": "A Paris goldsmith",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#d8c9a8",
+            "hair": "short",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "glasses": "round"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He studied art in Paris and spent two years in London.",
+      "scene": {
+        "kind": "journey",
+        "icon": "ship",
+        "label": "Two years in London",
+        "from": {
+          "name": "Paris",
+          "x": 0.55,
+          "y": 0.8
+        },
+        "to": {
+          "name": "London",
+          "x": 0.4,
+          "y": 0.2
+        }
+      }
+    },
+    {
+      "text": "By 1885, he had opened his own workshop in Paris.",
+      "say": "By eighteen eighty-five, he had opened his own workshop in Paris.",
+      "scene": {
+        "kind": "title",
+        "text": "1885",
+        "sub": "His own firm"
+      }
+    },
+    {
+      "text": "He worked in horn and enamel, and used few precious stones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "pear",
+        "tone": "#c58a3a",
+        "label": "Horn and enamel"
+      }
+    },
+    {
+      "text": "To him the design counted more than the price of the stones.",
+      "scene": {
+        "kind": "title",
+        "text": "The design",
+        "sub": "Over the price"
+      }
+    },
+    {
+      "text": "The French actress Sarah Bernhardt became a customer.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Sarah Bernhardt",
+        "role": "A customer",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a3a5a",
+            "hair": "updo",
+            "hairColor": "#6a4a30",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pearls"
+          }
+        ]
+      }
+    },
+    {
+      "text": "So did the oil magnate Calouste Gulbenkian.",
+      "say": "So did the oil magnate Calouste Gool-ben-kee-an.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Calouste Gulbenkian",
+        "role": "Another customer",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#cfcfcf",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "His brooches and combs drew great attention",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "pear",
+        "tone": "#c58a3a",
+        "label": "Combs and brooches"
+      }
+    },
+    {
+      "text": "at the 1900 world's fair in Paris,",
+      "say": "at the nineteen hundred world's fair in Paris,",
+      "scene": {
+        "kind": "title",
+        "text": "1900",
+        "sub": "The world's fair, Paris"
+      }
+    },
+    {
+      "text": "and he became a celebrated jeweler.",
+      "scene": {
+        "kind": "gift",
+        "stone": "pear",
+        "tone": "#c58a3a",
+        "to": "A celebrated jeweler",
+        "date": "After 1900"
+      }
+    }
+  ],
+  "post": {
+    "caption": "René Lalique built jewelry from horn, enamel and glass instead of leaning on diamonds. After the 1900 world's fair in Paris, he was a celebrated jeweler.",
+    "hashtags": [
+      "#lalique",
+      "#reneLalique",
+      "#artnouveau",
+      "#hornjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/biography/Rene-Lalique",
+    "https://www.musee-lalique.com/en/discover/lalique-more-than-a-name/rene-lalique/",
+    "https://www.langantiques.com/university/lalique/",
+    "https://gulbenkian.pt/museu/en/works/cockerel-diadem/",
+    "https://metmuseum.org/art/collection/search/483898"
+  ]
+}

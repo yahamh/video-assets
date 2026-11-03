@@ -1,0 +1,188 @@
+{
+  "id": "035-tutankhamun-desert-glass-scarab",
+  "number": 35,
+  "title": "Tut's scarab is glass a meteorite made",
+  "plate": "The Scarab",
+  "topic": "tutankhamun scarab desert glass",
+  "style": "paper",
+  "theme": "oldprint",
+  "music": "music-035.wav",
+  "hook": {
+    "text": "Tut's scarab is glass a meteorite made.",
+    "gold": [
+      "scarab",
+      "meteorite"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tut's scarab is glass a meteorite made.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#e8c53a",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "King Tutankhamun wore a pectoral, an ornament for the chest.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "drop": "none",
+        "label": "A pectoral",
+        "velvet": "#5bb4e8",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Its central scarab beetle is carved from yellow glass.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8c53a",
+        "label": "Canary-yellow glass",
+        "light": "#fff2c4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "At first, it was listed as the mineral chalcedony.",
+      "scene": {
+        "kind": "title",
+        "text": "Chalcedony",
+        "sub": "The first guess",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Later, it was identified as Libyan Desert Glass.",
+      "scene": {
+        "kind": "title",
+        "text": "Libyan Desert Glass",
+        "sub": "The answer",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "That glass lies scattered across the sand dunes of Egypt's western desert.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Western desert",
+        "role": "Egypt",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#c9b48a",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "helmet"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1932, an Englishman named Patrick Clayton",
+      "say": "In nineteen thirty-two, an Englishman named Patrick Clayton",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Patrick Clayton",
+        "role": "1932",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a7a5a",
+            "hair": "short",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "helmet",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "found pieces of it in the Libyan desert.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#e8c53a",
+        "label": "Found in the sand",
+        "light": "#fff2c4",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Scientists say it formed about 29 million years ago",
+      "say": "Scientists say it formed about twenty-nine million years ago",
+      "scene": {
+        "kind": "title",
+        "text": "29 million",
+        "sub": "About",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "when a meteorite hit the desert and melted the sand.",
+      "scene": {
+        "kind": "title",
+        "text": "Sand melted",
+        "sub": "A meteorite hit the desert",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Nobody has found the crater.",
+      "scene": {
+        "kind": "title",
+        "text": "No crater yet",
+        "sub": "In the desert",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Tutankhamun wore the scarab more than 3,000 years ago.",
+      "say": "Tutankhamun wore the scarab more than three thousand years ago.",
+      "scene": {
+        "kind": "portrait",
+        "name": "Tutankhamun",
+        "years": "About 1332 to 1323 BC",
+        "hair": "short",
+        "hairColor": "#1e1612",
+        "dress": "#f7c23a",
+        "bg": "#5bb4e8",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The scarab on King Tut's pectoral is carved from Libyan Desert Glass, formed about 29 million years ago when a meteorite hit the desert.",
+    "hashtags": [
+      "#tutankhamun",
+      "#scarab",
+      "#ancientegypt",
+      "#meteorite",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://stardate.org/?p=8263",
+    "https://archaeology.org/news/2019/05/20/190520-egypt-meteor-glass/",
+    "https://egypt-museum.com/winged-scarab-pendant-of-tutankhamun/",
+    "https://www.scientificamerican.com/blog/history-of-geology/geological-treasures-in-ancient-egypt/",
+    "https://world-archaeology.com/world/africa/egypt/in-search-of-desert-glass"
+  ]
+}

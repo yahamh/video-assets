@@ -1,0 +1,159 @@
+{
+  "id": "lesson-017-pear-cut",
+  "series": "lesson",
+  "number": 17,
+  "title": "What a pear cut is",
+  "topic": "pear cut",
+  "music": "music-lesson-017.wav",
+  "hook": {
+    "text": "This stone is cut like a teardrop.",
+    "gold": [
+      "teardrop"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This stone is cut like a teardrop.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.52,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "It's a pear cut, with one rounded end and one point.",
+      "scene": {
+        "kind": "compare",
+        "before": "pendant-pear-input.webp",
+        "after": "pendant-pear-render.webp"
+      }
+    },
+    {
+      "text": "It blends a round brilliant with a marquise.",
+      "scene": {
+        "kind": "title",
+        "text": "Round + marquise",
+        "sub": "A pear blends"
+      }
+    },
+    {
+      "text": "It usually has 58 facets.",
+      "say": "It usually has fifty-eight facets.",
+      "scene": {
+        "kind": "title",
+        "text": "58 facets",
+        "sub": "Usually"
+      }
+    },
+    {
+      "text": "A Flemish cutter in Bruges is credited with it in the 1400s.",
+      "say": "A Flemish cutter in Bruges is credited with it in the fourteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "1400s",
+        "sub": "Bruges"
+      }
+    },
+    {
+      "text": "Light often leaves a dark bow tie across the middle.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "The middle",
+        "focus": {
+          "x": 0.52,
+          "y": 0.66,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "A pear is usually 1.45 to 1.75 times longer than wide.",
+      "say": "A pear is usually one point four five to one point seven five times longer than wide.",
+      "scene": {
+        "kind": "title",
+        "text": "1.45 to 1.75",
+        "sub": "Length to width"
+      }
+    },
+    {
+      "text": "The point is fragile, so a prong usually covers it.",
+      "say": "The point is fragile, so a prong usually covers it.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "The point",
+        "focus": {
+          "x": 0.45,
+          "y": 0.42,
+          "k": 3.0
+        },
+        "marks": [
+          {
+            "x": 0.45,
+            "y": 0.43,
+            "text": "Tip prong",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "On a ring, the point usually faces the fingernail.",
+      "scene": {
+        "kind": "title",
+        "text": "The fingernail",
+        "sub": "On a ring, the point faces"
+      }
+    },
+    {
+      "text": "Jewelers also call a pear cut a teardrop.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Teardrop",
+        "focus": {
+          "x": 0.5,
+          "y": 0.55,
+          "k": 1.3
+        }
+      }
+    },
+    {
+      "text": "A render shows the client the point before anything is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "pendant-pear-input.webp",
+        "after": "pendant-pear-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "What a pear cut is: the teardrop-shaped stone",
+    "caption": "A pear cut has one rounded end and one point, usually 58 facets, and often a dark bow tie across the middle. Its point is the fragile part, so jewelers usually protect it with a prong. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#pearcut",
+      "#pearshapediamond",
+      "#diamondcuts",
+      "#teardrop",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://www.revediamonds.com/us/diamond-education/pear-shape-diamonds",
+    "https://rarecarat.com/education/shape/the-pear-cut",
+    "https://www.middiamonds.com/blog/the-shape-of-things-pear-shapes/",
+    "https://www.langerman-diamonds.com/blogs/blog/diamond-shapes-the-pear-cut",
+    "https://thediamondprice.com/learn/shapes/pear/"
+  ]
+}

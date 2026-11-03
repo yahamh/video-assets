@@ -1,0 +1,208 @@
+{
+  "id": "034-diana-sapphire-ring",
+  "number": 34,
+  "title": "Diana chose her ring from a catalog",
+  "plate": "The Sapphire Ring",
+  "topic": "diana sapphire engagement ring",
+  "style": "paper",
+  "music": "music-034.wav",
+  "hook": {
+    "text": "Diana chose her ring from a catalog.",
+    "gold": [
+      "Diana",
+      "catalog"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diana chose her ring from a catalog.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "oval",
+        "tone": "#2a4fb0",
+        "metal": "white",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Prince Charles and Diana got engaged in February 1981.",
+      "say": "Prince Charles and Diana got engaged in February nineteen eighty-one.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Charles and Diana",
+        "role": "February 1981",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#f6efe4",
+            "hair": "short",
+            "hairColor": "#c9a76a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The royal jeweler Garrard brought a selection of rings.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Garrard",
+        "role": "The royal jeweler",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Diana picked an oval sapphire circled by 14 diamonds.",
+      "say": "Diana picked an oval sapphire circled by fourteen diamonds.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#2a4fb0",
+        "metal": "white",
+        "halo": true,
+        "prongs": 6,
+        "label": "14 diamonds",
+        "velvet": "#5bb4e8",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The sapphire weighs about 12 carats and comes from Ceylon,",
+      "say": "The sapphire weighs about twelve carats and comes from Ceylon,",
+      "scene": {
+        "kind": "title",
+        "text": "12 carats",
+        "sub": "A Ceylon sapphire",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "the old name for Sri Lanka.",
+      "scene": {
+        "kind": "title",
+        "text": "Ceylon",
+        "sub": "The old name",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It cost about 28,000 pounds and was set in white gold.",
+      "say": "It cost about twenty-eight thousand pounds and was set in white gold.",
+      "scene": {
+        "kind": "title",
+        "text": "£28,000",
+        "sub": "In 1981",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It wasn't designed for her, so anyone could buy the same ring.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "oval",
+        "tone": "#2a4fb0",
+        "metal": "white",
+        "label": "From the catalog",
+        "light": "#fff2c4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In 2010, Prince William gave that ring to Catherine Middleton.",
+      "say": "In twenty ten, Prince William gave that ring to Catherine Middleton.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "William and Catherine",
+        "role": "2010",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#2a4fb0",
+            "hair": "long",
+            "hairColor": "#4a3326",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They announced their engagement in November 2010,",
+      "say": "They announced their engagement in November twenty ten,",
+      "scene": {
+        "kind": "title",
+        "text": "November 2010",
+        "sub": "The engagement",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "with Diana's sapphire on Catherine's hand.",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "shape": "oval",
+        "tone": "#2a4fb0",
+        "to": "Catherine",
+        "date": "November 2010",
+        "color": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Diana picked her sapphire engagement ring from a Garrard selection in 1981. In 2010, Prince William gave the same ring to Catherine Middleton.",
+    "hashtags": [
+      "#princessdiana",
+      "#sapphire",
+      "#engagementring",
+      "#royaljewels",
+      "#garrard"
+    ]
+  },
+  "sources": [
+    "https://www.thecourtjeweller.com/2024/04/the-iconic-sapphire-engagement-ring-treasured-by-two-princesses-of-wales.html",
+    "https://vrai.com/journal/post/princess-diana-engagement-ring",
+    "https://www.marieclaire.com/celebrity/royals/princess-kate-diana-engagement-ring-value/",
+    "https://www.yorkshirepost.co.uk/news/bride-be-gets-dianas-engagement-ring-1950259"
+  ]
+}

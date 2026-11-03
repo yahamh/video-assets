@@ -1,0 +1,249 @@
+{
+  "id": "033-birthstones-1912",
+  "number": 33,
+  "title": "Jewelers made your birthstone official in 1912",
+  "plate": "Birthstones",
+  "topic": "modern birthstone list",
+  "style": "paper",
+  "theme": "watercolor",
+  "music": "music-033.wav",
+  "hook": {
+    "text": "Jewelers made your birthstone official in 1912.",
+    "gold": [
+      "birthstone",
+      "1912"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Jewelers made your birthstone official in 1912.",
+      "say": "Jewelers made your birthstone official in nineteen twelve.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#a98be0",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In the first century, the historian Josephus saw a link",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Josephus",
+        "role": "A historian, first century",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a6a3a",
+            "hair": "long",
+            "hairColor": "#4a3326",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "facial": "beard",
+            "prop": "letter"
+          }
+        ]
+      }
+    },
+    {
+      "text": "between twelve stones on Aaron's breastplate and the twelve months.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Twelve stones",
+        "color": "#f7c23a",
+        "pieces": [
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#a8233c"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#a98be0"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#7fd1e0"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#eef4f7"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#2f9d62"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#f2efe6"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#d2223c"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#b4d84a"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#2a4fb0"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#ec8fb4"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#f2b53a"
+          },
+          {
+            "shape": "round",
+            "size": 0.27,
+            "tone": "#4a5bd6"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Saint Jerome later suggested Christians wear a different stone each month.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Saint Jerome",
+        "role": "A stone for each month",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a3a2a",
+            "hair": "bald",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "fullbeard",
+            "old": true
+          }
+        ]
+      }
+    },
+    {
+      "text": "Tiffany and Company printed a pamphlet of birthstone poems in 1870.",
+      "say": "Tiffany and Company printed a pamphlet of birthstone poems in eighteen seventy.",
+      "scene": {
+        "kind": "title",
+        "text": "1870",
+        "sub": "Tiffany's birthstone poems",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Then in 1912, the National Association of Jewelers met in Kansas City",
+      "say": "Then in nineteen twelve, the National Association of Jewelers met in Kansas City",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Kansas City",
+        "role": "National Association of Jewelers",
+        "color": "#f0552e",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "facial": "mustache"
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a3f55",
+            "hair": "side",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and adopted one official list of stones for the months.",
+      "scene": {
+        "kind": "title",
+        "text": "One list",
+        "sub": "A stone for each month",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "That group is now called Jewelers of America.",
+      "scene": {
+        "kind": "title",
+        "text": "Jewelers of America",
+        "sub": "Then the National Association",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In 1952, jewelers added alexandrite and citrine to the list.",
+      "say": "In nineteen fifty-two, jewelers added alexandrite and citrine to the list.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2f9d62",
+        "toneTo": "#c83a5a",
+        "label": "Alexandrite",
+        "light": "#fff2c4",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "And in 2002, tanzanite became a December birthstone.",
+      "say": "And in two thousand two, tanzanite became a December birthstone.",
+      "scene": {
+        "kind": "gift",
+        "stone": "gem",
+        "shape": "oval",
+        "tone": "#4a5bd6",
+        "to": "December",
+        "date": "2002",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Birthstones go back to a first-century historian, and the official list came from jewelers meeting in Kansas City in 1912.",
+    "hashtags": [
+      "#birthstones",
+      "#birthstone",
+      "#gemstones",
+      "#jewelryhistory",
+      "#tanzanite"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Birthstone",
+    "https://farmersalmanac.com/birthstones-by-month-meanings-history-folklore",
+    "https://www.charlesandcolvard.com/blog/the-history-of-birthstones/"
+  ]
+}
