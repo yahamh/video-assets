@@ -67,11 +67,11 @@
       "tiktok",
       "youtube"
     ],
-    "status": "partial",
+    "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfFLH3OAJeH/",
       "tiktok": "https://www.tiktok.com/@hey.gema/video/7702090237492694293",
-      "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+      "youtube": "https://www.youtube.com/watch?v=PheWiuVsa8g"
     },
     "retry": {
       "at": "2026-11-02T16:40:00Z",
@@ -79,7 +79,8 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     }
   },
   "006-antwerp-diamond-heist": {
@@ -307,7 +308,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfPeqL2FfFS/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703574789826301191",
+      "youtube": "https://www.youtube.com/watch?v=wYQ_0ZjSfe8"
+    }
   },
   "018-ring-on-a-carrot": {
     "at": "2026-11-02T18:00:00Z",
@@ -316,7 +323,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfP6KNakaI6/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=ZkMZNLFpn0k"
+    }
   },
   "019-first-lab-grown-diamond": {
     "at": "2026-11-02T23:00:00Z",
@@ -325,11 +338,17 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfQcQ5nEgAP/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703713433782439189",
+      "youtube": "https://www.youtube.com/watch?v=P7DEF-XRONM"
+    }
   },
   "020-lesedi-la-rona": {
     "at": "2026-11-03T14:00:00Z",
-    "zernio_id": "6ae6d2b6cb39ad3c9081857a",
+    "zernio_id": "6ae96636db4767c813850a12",
     "platforms": [
       "facebook",
       "instagram",
@@ -339,7 +358,7 @@
   },
   "021-faberge-hen-egg": {
     "at": "2026-11-03T18:00:00Z",
-    "zernio_id": "6ae6d2c7cb39ad3c908185bc",
+    "zernio_id": "6ae96645db4767c813850a61",
     "platforms": [
       "facebook",
       "instagram",
@@ -349,7 +368,7 @@
   },
   "022-alexandrite": {
     "at": "2026-11-03T23:00:00Z",
-    "zernio_id": "6ae6d2d6167c8d8ebe4e5549",
+    "zernio_id": "6ae9664edb4767c813850a9f",
     "platforms": [
       "facebook",
       "instagram",
@@ -529,7 +548,13 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DfPfYKoDQK0/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703576371548654868",
+      "youtube": "https://www.youtube.com/watch?v=k6GSxZH3mGM"
+    }
   },
   "lesson-001-gold-colors": {
     "at": "2026-10-28T20:13:08Z",
@@ -653,46 +678,50 @@
     "zernio_id": "6ae579fe1c41d0d3f42322e4",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=ESA7hzM8f-Q"
+    }
   },
   "lesson-011-white-gold-rhodium": {
     "at": "2026-11-03T16:00:00Z",
-    "zernio_id": "6ae57a290d4549b26bf672fc",
+    "zernio_id": "6ae9663cdb4767c813850a42",
     "platforms": [
       "youtube"
     ]
   },
   "lesson-012-emerald-cut": {
     "at": "2026-11-04T16:00:00Z",
-    "zernio_id": "6ae57a2f0d4549b26bf67347",
+    "zernio_id": "6ae96654db4767c813850ab8",
     "platforms": [
       "youtube"
     ]
   },
   "lesson-013-eternity-band": {
     "at": "2026-11-05T16:00:00Z",
-    "zernio_id": "6ae6d317cb39ad3c908186ac",
+    "zernio_id": "6ae96659db4767c813850ac7",
     "platforms": [
       "youtube"
     ]
   },
   "lesson-014-marquise-cut": {
     "at": "2026-11-06T16:00:00Z",
-    "zernio_id": "6ae6d322e705a44ce10d3f73",
+    "zernio_id": "6ae96660aec4d7f72adc0bfe",
     "platforms": [
       "youtube"
     ]
   },
   "lesson-015-3d-printing-jewelry": {
     "at": "2026-11-07T16:00:00Z",
-    "zernio_id": "6ae6d32acb39ad3c908186d5",
+    "zernio_id": "6ae96665db4767c813850b0a",
     "platforms": [
       "youtube"
     ]
   },
   "lesson-016-pearl-luster": {
     "at": "2026-11-08T16:00:00Z",
-    "zernio_id": "6ae819cffc406e68de13906c",
+    "zernio_id": "6ae9666bdb4767c813850b3b",
     "platforms": [
       "youtube"
     ]
@@ -791,7 +820,11 @@
     "zernio_id": "6ae6167aea7ec36acdd724a4",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=WcW0xNZjzTU"
+    }
   },
   "yt-rhino-three-stone": {
     "at": "2026-11-01T16:20:00Z",
