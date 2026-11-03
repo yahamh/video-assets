@@ -2,9 +2,9 @@
   "id": "029-emerald-garden",
   "number": 29,
   "title": "Most emeralds have a garden inside",
-  "style": "paper",
   "plate": "The Emerald Garden",
   "topic": "emerald jardin inclusions",
+  "style": "paper",
   "music": "music-029.wav",
   "hook": {
     "text": "Most emeralds have a garden inside.",

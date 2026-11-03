@@ -40,6 +40,7 @@ import { paperScene } from "./paper/registry";
 import { PaperEnd } from "./paper/scenes";
 import { PaperBadge, PaperCaptions, PaperHook, PaperOverlay } from "./paper/frame";
 import { CREAM, PAPER } from "./paper/kit";
+import { ThemeDefs, ThemeOverlay, ThemedScenes, ThemedUi } from "./paper/themes";
 
 export const SCENES: Record<string, React.FC<SceneProps>> = {
   parcel: Parcel,
@@ -115,13 +116,17 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   const { slots, endStart, total } = timeline(story);
   const look = story.style ?? "drawn";
   const paper = look === "paper";
+  const theme = paper ? story.theme ?? "cream" : "cream";
   // the paper look trades the dark hits for light ones: a bell for the boom, a pop for an impact or a crack
   const BRIGHT: Record<string, string> = { boom: "bell", impact: "pop", crack: "pop", heartbeat: "pluck", creak: "drip", horn: "bell", steps: "pluck" };
   const t = frame / FPS;
   const voiced = slots.some((s) => s.line.audio);
   const musicVolume = (fr: number) => interpolate(fr / FPS, [0, 0.3, total - 1.5, total], [0, 1, 1, 0], clamp) * (voiced ? 0.16 : 0.36);
+  // the sound between two scenes changes from one to the next, and from one video to the next
+  const TRANS = paper ? ["whoosh", "page", "swish", "whoosh2", "zip", "flutter"] : ["whoosh", "whoosh2", "swish", "flutter", "zip"];
+  const trans = (i: number) => TRANS[(i * (TRANS.length - 1) + story.number) % TRANS.length];
   const sounds = slots.flatMap((s, i) => [
-    ...(i > 0 ? [{ at: s.start - 0.06, name: i % 2 ? "whoosh" : "whoosh2", vol: 0.55 }] : []),
+    ...(i > 0 ? [{ at: s.start - 0.06, name: trans(i), vol: 0.55 }] : []),
     ...sceneSfx(s.line.scene, s.len).map((x) => ({ ...x, at: s.start + x.at })),
     ...(s.line.sfx ?? []).map((x) => ({ ...x, at: s.start + x.at })),
   ]);
@@ -140,12 +145,34 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   const hookOut = hook ? slots[0].len : 0;
   if (hook) sounds.push({ at: 0, name: "boom", vol: 0.75 }, { at: 0, name: "shimmer", vol: 0.7 });
   if (paper) sounds.forEach((x) => (x.name = BRIGHT[x.name] ?? x.name));
+  // Which file each sound plays. With the key of the music known (story.tonal), the notes are notes of the chord that is
+  // playing: caption plucks walk up and down the chord, bells ring on its root, the shimmer is in the key.
+  const tonal = story.tonal;
+  let note = 0;
+  const played = sounds
+    .filter((x) => x.at >= 0 && x.at < total)
+    .sort((a, b) => a.at - b.at)
+    .map((x) => {
+      if (!tonal) return { x, src: `sfx/${x.name}.wav` };
+      const bar = Math.floor(x.at / tonal.bar) % tonal.prog.length;
+      if (x.name === "pluck" || x.name === "drip") {
+        const notes = tonal.prog[bar];
+        const per = Math.max(1, 2 * notes.length - 2);
+        const j = note++ % per;
+        return { x, src: `${tonal.dir}/n${notes[j < notes.length ? j : per - j]}.wav` };
+      }
+      if (x.name === "bell") return { x, src: `${tonal.dir}/bell-${tonal.roots[bar]}.wav` };
+      if (x.name === "shimmer") return { x, src: `${tonal.dir}/shimmer.wav` };
+      return { x, src: `sfx/${x.name}.wav` };
+    });
   // the paper plate header stays from the first frame, like the top of a book's plate
   const Hook = paper ? PaperHook : HookText;
   const badge = Math.min(paper ? 1 : interpolate(t, [hookOut, hookOut + 0.3], [hook ? 0 : 1, 1], clamp), interpolate(t, [endStart - 0.1, endStart], [1, 0], clamp));
 
   return (
     <AbsoluteFill style={{ background: paper ? PAPER : BG }}>
+      {paper && theme !== "cream" ? <ThemeDefs /> : null}
+      <ThemedScenes theme={theme}>
       {slots.map((s, i) => (
         <Sequence key={i} from={f(s.start)} durationInFrames={f(s.len)} layout="none">
           <SceneSlot kind={s.line.scene.kind} p={s.line.scene} len={s.len} first={i === 0} hook={i === 0 && !!story.hook} look={look} />
@@ -154,6 +181,8 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
       <Sequence from={f(endStart)} layout="none">
         <SceneEnd p={story.end ?? {}} look={look} />
       </Sequence>
+      </ThemedScenes>
+      <ThemedUi theme={theme}>
       {paper ? <PaperOverlay frame={frame} /> : <Overlay frame={frame} />}
       {paper ? <PaperBadge number={story.number} plate={story.plate} opacity={badge} /> : <Badge number={story.number} series={story.series} opacity={badge} />}
       {hook && t < hookOut && (
@@ -164,6 +193,8 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
           <CaptionSlot text={s.line.text} speak={speakSeconds(s.line)} len={s.len} words={s.line.words} paper={paper} />
         </Sequence>
       ))}
+      </ThemedUi>
+      <ThemeOverlay theme={theme} />
       {slots.map((s, i) =>
         s.line.audio ? (
           <Sequence key={`v${i}`} from={f(s.start)} layout="none">
@@ -171,13 +202,11 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
           </Sequence>
         ) : null,
       )}
-      {sounds
-        .filter((x) => x.at >= 0 && x.at < total)
-        .map((x, i) => (
-          <Sequence key={`s${i}`} from={f(x.at)} layout="none">
-            <Audio src={staticFile(`sfx/${x.name}.wav`)} volume={(x.vol ?? 1) * (voiced ? 0.5 : 0.62)} />
-          </Sequence>
-        ))}
+      {played.map(({ x, src }, i) => (
+        <Sequence key={`s${i}`} from={f(x.at)} layout="none">
+          <Audio src={staticFile(src)} volume={(x.vol ?? 1) * (voiced ? 0.5 : 0.62)} />
+        </Sequence>
+      ))}
       {story.music ? <Audio src={staticFile(story.music)} volume={musicVolume} /> : null}
     </AbsoluteFill>
   );

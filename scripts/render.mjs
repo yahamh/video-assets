@@ -9,6 +9,15 @@ import path from "node:path";
 const [storyPath, outPath] = process.argv.slice(2);
 const story = JSON.parse(fs.readFileSync(storyPath, "utf8"));
 fs.mkdirSync(path.dirname(outPath), { recursive: true });
+// The caption notes, bells and shimmer in this story's own key and chords (scripts/tones.py); the old dark and low-poly
+// stories have none and keep the old sounds.
+if (story.music) {
+  const r = spawnSync("python3", ["scripts/tones.py", storyPath, "public/tones"], { encoding: "utf8" });
+  if (r.status === 0) {
+    const plan = JSON.parse(r.stdout.trim().split("\n").pop());
+    if (plan) story.tonal = plan;
+  } else console.log(`::warning::tones.py failed for ${story.id}, using the old sounds: ${r.stderr.slice(-300)}`);
+}
 const serveUrl = await bundle({ entryPoint: path.resolve("src/index.ts") });
 const shell = process.env.REMOTION_CHROME ?? "/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell";
 const browserExecutable = fs.existsSync(shell) ? shell : null;

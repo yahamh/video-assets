@@ -2,9 +2,10 @@
   "id": "030-claddagh-ring",
   "number": 30,
   "title": "This Irish ring says whether you're single",
-  "style": "paper",
   "plate": "The Claddagh",
   "topic": "claddagh ring",
+  "style": "paper",
+  "theme": "blueprint",
   "music": "music-030.wav",
   "hook": {
     "text": "This Irish ring says whether you're single.",

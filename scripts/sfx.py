@@ -249,4 +249,42 @@ f = 700 * np.exp(t * 22).clip(1, 3.2)
 x = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t * 30) * np.minimum(1, t / 0.001)
 save("drip", verb(x, 0.6, 6, 0.3), 0.65)
 
+# More ways to move from one scene to the next (ali, 3 Nov 2026: not always the same sound). None has a pitch, so they
+# fit any key. They come last so the sounds above stay exactly as they were.
+# page: a page turning, paper rustling
+d = 0.6
+t = T(d)
+x = bp(noise(d), 1500, 7500) * np.exp(-((t - 0.16) / 0.09) ** 2)
+for i in range(14):
+    s0 = int(rng.uniform(0.02, 0.4) * SR)
+    c = hp(noise(0.012), 2500) * np.exp(-T(0.012) * 260) * rng.uniform(0.2, 0.7)
+    x[s0:s0 + len(c)] += c[: len(x) - s0]
+x += 0.35 * bp(noise(d), 300, 1500) * np.exp(-((t - 0.3) / 0.12) ** 2)
+save("page", stereo(x, pan=np.linspace(-0.4, 0.5, len(x))), 0.7)
+
+# swish: short, bright, rising
+d = 0.35
+t = T(d)
+x = sweep_bp(noise(d), 1800, 9000, q=3) * np.exp(-((t - 0.18) / 0.07) ** 2)
+save("swish", stereo(x, pan=np.linspace(-0.6, 0.6, len(x))), 0.7)
+
+# zip: a quick ratchet, noise gated faster and faster
+d = 0.4
+t = T(d)
+gate = (np.sin(2 * np.pi * np.cumsum(25 + 160 * (t / d) ** 2) / SR) > 0).astype(float)
+x = bp(noise(d), 2500, 9000) * gate * np.minimum(1, t / 0.02) * np.minimum(1, (d - t) / 0.06)
+save("zip", stereo(x, pan=np.linspace(0.5, -0.5, len(x))), 0.6)
+
+# flutter: a soft breath of high noise, like a shaken leaf
+d = 0.7
+t = T(d)
+x = hp(noise(d), 3500) * (np.sin(np.pi * t / d) ** 2) * (0.6 + 0.4 * np.sin(2 * np.pi * 22 * t))
+save("flutter", stereo(x, width=0.0006), 0.55)
+
+# thump: a soft low tap, as if someone pressed a pillow
+d = 0.35
+t = T(d)
+x = np.sin(2 * np.pi * (140 * np.exp(-t * 18) + 70) * t) * np.exp(-t * 16) + 0.3 * lp(noise(d), 600) * np.exp(-t * 40)
+save("thump", verb(x, 0.4, 9, 0.1), 0.7)
+
 print("made", len(os.listdir(out_dir)), "sounds in", out_dir)

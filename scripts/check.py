@@ -29,6 +29,62 @@ BANNED = [
 ]
 
 
+THEMES = {"cream", "midnight", "blueprint", "riso", "oldprint", "sunset", "watercolor"}
+# Things only the paper style draws (WRITING.md, "The paper look adds a few options"): a story in the low-poly or the
+# dark gold line look can't use them.
+_THINGS = {"ring", "carrot", "opal", "round-pearl", "clam", "hen", "tiara", "coronet", "claddagh", "brooch"}
+_PAPER_VALUES = {
+    "show": _THINGS, "item": _THINGS, "stone": _THINGS, "setting": {"garden", "field", "lab"},
+    "piece": {"claddagh", "spheres", "opal", "carrot"}, "outfit": {"casual"}, "prop": {"ringbox", "shovel", "carrot", "pearl"},
+}
+_PAPER_KEYS = {"toneTo", "garden", "mystery", "strands", "plain", "coronet", "sceptre", "ground", "prongs", "empty"}
+
+
+def paper_only(scene):
+    """What in one scene only the paper style can draw."""
+    out = []
+    for k, v in scene.items():
+        if k in _PAPER_KEYS:
+            out.append(f'"{k}"')
+        if k == "shape" and v in ("plain", "rough") and scene.get("kind") in ("hook", "cut"):
+            out.append(f'shape "{v}"')
+        if k in _PAPER_VALUES and v in _PAPER_VALUES[k]:
+            out.append(f'{k} "{v}"')
+    for p in scene.get("cast") or []:
+        for k in ("outfit", "prop"):
+            if p.get(k) in _PAPER_VALUES[k]:
+                out.append(f'{k} "{p[k]}"')
+    for p in scene.get("pieces") or []:
+        if p.get("shape") == "rough" and scene.get("kind") == "cut":
+            out.append('piece shape "rough"')
+    return out
+
+
+def look(s):
+    """The look a story is drawn in: the dark gold line drawing, low poly, or the paper style in one of its themes."""
+    if s.get("style") == "paper":
+        return "paper-" + (s.get("theme") or "cream")
+    return s.get("style") or "drawn"
+
+
+def rotation():
+    """From story 020 on, no story looks like either of the two before it (ali, 3 Nov 2026: rotate the looks)."""
+    by = {}
+    for p in (ROOT / "stories").glob("*.json"):
+        s = json.loads(p.read_text())
+        if s.get("number") is not None:
+            by[s["number"]] = look(s)
+    out = []
+    for n in sorted(by):
+        if n < 20:
+            continue
+        for back in (1, 2):
+            if by.get(n - back) == by[n]:
+                out.append(f"story {n} looks like story {n - back} ({by[n]}): rotate the looks, never the same one twice in three stories")
+                break
+    return out
+
+
 def check(path, seen):
     problems = []
     say = lambda m: problems.append(f"{path.name}: {m}")
@@ -55,12 +111,21 @@ def check(path, seen):
     music = f"music-{'lesson-' if series == 'lesson' else ''}{s['number']:03d}.wav"
     if s.get("music") != music:
         say(f"music should be {music} (the workflow makes it)")
-    if series == "story" and s["number"] >= 14 and s.get("style") != "paper":
-        say('style should be "paper" (every story from 014 on, ali 30 Oct 2026)')
-    elif series == "story" and 7 <= s["number"] < 14 and s.get("style") != "lowpoly":
-        say('style should be "lowpoly" (stories 007 to 013)')
-    if s.get("style") in ("lowpoly", "paper") and any((l.get("scene") or {}).get("show") == "sandwich" for l in s["lines"]):
-        say(f"the sandwich hook only exists drawn: pick another hook for a {s['style']} story")
+    if series == "story":
+        if s["number"] < 7 and s.get("style") is not None:
+            say("stories 001 to 006 are the dark gold line drawing: no style")
+        elif 7 <= s["number"] < 14 and s.get("style") != "lowpoly":
+            say('style should be "lowpoly" (stories 007 to 013)')
+        elif s["number"] >= 14 and s.get("style") not in (None, "paper", "lowpoly", "drawn"):
+            say('style should be "paper", "lowpoly" or "drawn" (the dark gold line drawing)')
+        if s.get("theme") is not None and (s.get("style") != "paper" or s["theme"] not in THEMES):
+            say(f"theme is only for the paper style and one of {', '.join(sorted(THEMES))}")
+        if s.get("style") in ("lowpoly", "paper") and any((l.get("scene") or {}).get("show") == "sandwich" for l in s["lines"]):
+            say(f"the sandwich hook only exists drawn: pick another hook for a {s['style']} story")
+        if s.get("style") != "paper":
+            for l in s["lines"]:
+                for what in paper_only(l.get("scene") or {}):
+                    say(f"{what} only exists in the paper style: change it or use the paper style for this story")
     total = END_S
     spoken = " ".join(l.get("say") or l.get("text", "") for l in s["lines"])
     sentences = [x.split() for x in re.split(r"(?<=[.!?])\s+", spoken.strip()) if x.strip()]
@@ -144,6 +209,8 @@ def main():
     # no arguments: check every story and lesson, so a bare run never says "all good" about nothing
     files = sys.argv[1:] or sorted(str(p) for p in [*(ROOT / "stories").glob("*.json"), *(ROOT / "lessons").glob("*.json")])
     problems = [m for arg in files for m in check(Path(arg), seen)]
+    if any("/stories/" in str(Path(a).resolve()) for a in files):
+        problems += rotation()
     print("\n".join(problems) or "all good")
     sys.exit(1 if problems else 0)
 

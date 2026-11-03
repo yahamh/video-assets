@@ -2,9 +2,10 @@
   "id": "031-cartier-pearl-mansion",
   "number": 31,
   "title": "A pearl necklace paid for a mansion",
-  "style": "paper",
   "plate": "Pearls for a House",
   "topic": "cartier pearl necklace mansion",
+  "style": "paper",
+  "theme": "midnight",
   "music": "music-031.wav",
   "hook": {
     "text": "A pearl necklace paid for a mansion.",

@@ -22,9 +22,13 @@ export type Story = {
   number: number;
   title: string;
   style?: string; // "paper" (src/paper, ali 30 Oct 2026, every story from 014 on), "lowpoly" (src/lp, 007 to 013); left out, the drawn look
+  theme?: string; // paper look only (src/paper/themes.tsx, ali 3 Nov 2026): cream (the default), midnight, blueprint, riso, oldprint, sunset or watercolor
   plate?: string; // paper look: the story's name in italics under the plate header ("Crater of Diamonds")
   lines: Line[];
   music?: string;
+  // The key and chords of the music, set by scripts/render.mjs (from scripts/tones.py), so the caption notes, the bells and
+  // the shimmer are notes of the chord that is playing. Left out for the old dark and low-poly stories.
+  tonal?: { dir: string; style: string; cap: string; bar: number; beats: number; bpm: number; key: number; mode: string; prog: number[][]; roots: number[] };
   hook?: { text: string; gold?: string[] }; // big words on the first frame, shown while the first line is read
   end?: { line?: string; handle?: string };
   post?: { caption: string; hashtags: string[] };

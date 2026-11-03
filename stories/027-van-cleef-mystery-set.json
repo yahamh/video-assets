@@ -2,9 +2,10 @@
   "id": "027-van-cleef-mystery-set",
   "number": 27,
   "title": "No metal shows between these ruby petals",
-  "style": "paper",
   "plate": "The Mystery Set",
   "topic": "van cleef mystery setting",
+  "style": "paper",
+  "theme": "watercolor",
   "music": "music-027.wav",
   "hook": {
     "text": "No metal shows between these ruby petals.",

@@ -94,11 +94,23 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
 }
 ```
 
-- `style`: always `"paper"`. Since story 014 (ali, 30 Oct 2026: "brighter positive stories", from a reel he sent,
-  `/mnt/project-files/revamp/stories/reel-style/`) the stories are drawn on warm cream paper: one big painted shape
-  per scene in a bright color, the subject flat on it, thin white line work, confetti, small typed captions, the hook
-  in big italic capitals, bright plucks and a major-key tune. `src/paper/` draws it. Stories 007 to 013 are low-poly
-  3D (`"lowpoly"`, `src/lp/`) and stay that way. The check refuses a new story without `"paper"`.
+- `style` and `theme` (the look): **rotate the looks** (ali, 3 Nov 2026: "rotate, don't use only one style"). Never one
+  look only, and a story never looks like either of the two stories before it (`check.py` refuses it). The looks:
+  - `"style": "paper"`, no theme: the cut-paper look (since story 014: warm cream paper, one big painted shape per scene,
+    thin white line work, confetti, small typed captions, the hook in big italic capitals; `src/paper/`).
+  - `"style": "paper"` with a `"theme"` that prints the same drawings another way (`src/paper/themes.tsx`):
+    `midnight` (gold ink on a deep indigo night), `blueprint` (white drawing on blueprint blue with a grid), `riso`
+    (two inks, indigo and pink, with halftone dots), `oldprint` (sepia ink on aged paper), `sunset` (plum, coral and
+    peach), `watercolor` (the colors kept, edges that wobble like wet paint). All but watercolor map light and dark onto
+    a few colors, so a story about the color of a stone (a ruby, an emerald, a sapphire) uses plain cream, `watercolor`,
+    low poly or drawn instead.
+  - `"style": "lowpoly"`: flat-shaded 3D (`src/lp/`, stories 007 to 013 and again from 020).
+  - no `style`: the dark gold line drawing (`src/scenes/`, stories 001 to 006 and again from 026).
+  Low poly and the dark drawing share the basic scenes and options; everything under "The paper look adds a few options"
+  below is paper only, and `check.py` says so when a low-poly or dark story uses one. How to pick: take the look that
+  has gone unused longest among those that can draw the story (look at the last few stories' `style` and `theme`).
+  Roughly one story in three should be low poly or the dark drawing, so write those stories with basic scenes.
+  The music, the caption notes and the sounds are the same whatever the look.
 - `plate`: the story's name in italics under the plate header at the top ("JEWELRY STORY XIV"), like a plate in an
   old science book: a few words, title case ("Crater of Diamonds").
 - `color` on a scene picks its painted shape's color: `#ec6a9c` pink, `#f0552e` coral, `#c8dc3c` lime, `#4cc3a8`
@@ -106,10 +118,14 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   picks one from its settings.
 - `hold` adds seconds of silence after a line. Use it rarely, for a beat the story has earned.
 - `sfx` adds sounds to a line: `[{ "at": 0.4, "name": "impact" }]` with seconds from the line's start. Names: whoosh,
-  whoosh2, impact, boom, riser, shimmer, stamp, horn, waves, crack, heartbeat, creak, steps. Scenes already add their
+  whoosh2, page, swish, zip, flutter, thump, impact, boom, riser, shimmer, stamp, horn, waves, crack, heartbeat, creak, steps. Scenes already add their
   own sounds.
-- Music: always `"music-NNN.wav"` with the story's number. The workflow makes it from the number, so each story gets
-  its own; it's never committed.
+- Music: always `"music-NNN.wav"` with the story's number. The workflow makes it from the number (`scripts/musiclib.py`,
+  ali 3 Nov 2026: harmonious, a wider range of sounds): ten styles (marimba pop, music box, folk guitar, lo-fi keys,
+  bossa, strings and piano, synth arp, ukulele, harp, pizzicato), each built from a key and chords so every note belongs,
+  and the style and key change from one video to the next. It's never committed. The caption notes, the bells and the
+  shimmer are played in that key and chord (`scripts/tones.py`), and the sound between scenes changes too. To hear one:
+  `python3 scripts/music.py public/music-NNN.wav 45 NNN bright`; `python3 scripts/check_music.py` checks the engine.
 - Hashtags: 3 to 6, specific to the story, different from the last few stories.
 
 ## Scenes

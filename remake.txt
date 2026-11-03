@@ -1,2 +1,11 @@
 # Story ids to make again, one per line (like 001-cullinan). "Make videos" deletes their videos, makes them again
 # and empties this list. Only for stories not posted yet.
+lesson-011-white-gold-rhodium
+lesson-012-emerald-cut
+lesson-013-eternity-band
+lesson-014-marquise-cut
+lesson-015-3d-printing-jewelry
+lesson-016-pearl-luster
+020-lesedi-la-rona
+021-faberge-hen-egg
+022-alexandrite

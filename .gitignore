@@ -4,3 +4,4 @@ public/voice/
 __pycache__/
 *.raw.mp4
 public/music-*.wav
+public/tones/

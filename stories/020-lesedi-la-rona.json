@@ -2,7 +2,7 @@
   "id": "020-lesedi-la-rona",
   "number": 20,
   "title": "A whole country named this diamond",
-  "style": "paper",
+  "style": "lowpoly",
   "plate": "Lesedi La Rona",
   "topic": "lesedi la rona diamond",
   "music": "music-020.wav",
@@ -32,7 +32,7 @@
       "scene": {
         "kind": "cast", "setting": "street", "name": "Botswana", "role": "Name the diamond", "color": "#a98be0",
         "cast": [
-          { "outfit": "casual", "outfitColor": "#f7c23a", "hair": "short", "hairColor": "#1e1612", "skin": "#7a4a30", "expression": "smile" },
+          { "outfit": "coat", "outfitColor": "#f7c23a", "hair": "short", "hairColor": "#1e1612", "skin": "#7a4a30", "expression": "smile" },
           { "outfit": "dress", "outfitColor": "#4cc3a8", "hair": "updo", "hairColor": "#1e1612", "skin": "#6a3e28", "expression": "surprised" },
           { "outfit": "suit", "outfitColor": "#2f4f8a", "hair": "short", "hairColor": "#1e1612", "skin": "#8a5636", "expression": "smile", "old": true }
         ]
@@ -49,7 +49,7 @@
       "scene": {
         "kind": "cast", "setting": "plain", "name": "Lesedi La Rona", "role": "The winning name", "color": "#f7c23a", "gasp": 0.5,
         "cast": [
-          { "outfit": "casual", "outfitColor": "#5bb4e8", "hair": "short", "hairColor": "#1e1612", "skin": "#6e4129", "expression": "proud", "prop": "letter" }
+          { "outfit": "coat", "outfitColor": "#5bb4e8", "hair": "short", "hairColor": "#1e1612", "skin": "#6e4129", "expression": "proud", "prop": "letter" }
         ]
       }
     },

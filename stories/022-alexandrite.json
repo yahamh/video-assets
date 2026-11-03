@@ -2,9 +2,10 @@
   "id": "022-alexandrite",
   "number": 22,
   "title": "The green gem that turns red",
-  "style": "paper",
   "plate": "Alexandrite",
   "topic": "alexandrite",
+  "style": "paper",
+  "theme": "watercolor",
   "music": "music-022.wav",
   "hook": {
     "text": "This green gem turns red by candlelight.",

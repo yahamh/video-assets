@@ -2,7 +2,6 @@
   "id": "026-napoleon-josephine-toi-et-moi",
   "number": 26,
   "title": "Napoleon's ring sold for fifty times its estimate",
-  "style": "paper",
   "plate": "Toi et Moi",
   "topic": "josephine toi et moi ring",
   "music": "music-026.wav",
@@ -22,7 +21,7 @@
       "text": "Napoleon's ring fetched fifty times its estimate.",
       "scene": {
         "kind": "hook",
-        "show": "ring",
+        "show": "gem",
         "shape": "pear",
         "tone": "#2a4fb0",
         "metal": "yellow",
@@ -185,7 +184,7 @@
       "say": "Oh-zuh-nah said the estimate left out Napoleon and Josephine.",
       "scene": {
         "kind": "reveal",
-        "item": "ring",
+        "item": "gem",
         "shape": "pear",
         "tone": "#2a4fb0",
         "label": "The Napoleon part",
