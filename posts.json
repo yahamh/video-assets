@@ -466,6 +466,66 @@
       "youtube"
     ]
   },
+  "032-pink-star-diamond": {
+    "at": "2026-11-07T14:00:00Z",
+    "zernio_id": "6ae9790c3075ea58c468fa75",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "033-birthstones-1912": {
+    "at": "2026-11-07T18:00:00Z",
+    "zernio_id": "6ae97913776e9428a6ed8b1f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "034-diana-sapphire-ring": {
+    "at": "2026-11-07T23:00:00Z",
+    "zernio_id": "6ae97922776e9428a6ed8b80",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "035-tutankhamun-desert-glass-scarab": {
+    "at": "2026-11-08T14:00:00Z",
+    "zernio_id": "6ae9793523f6cdb61c00c5ee",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "036-pearl-of-puerto": {
+    "at": "2026-11-08T18:00:00Z",
+    "zernio_id": "6ae9794323f6cdb61c00c64d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "037-lalique-horn-jewels": {
+    "at": "2026-11-08T23:00:00Z",
+    "zernio_id": "6ae97950e83469266fefe76e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -722,6 +782,13 @@
   "lesson-016-pearl-luster": {
     "at": "2026-11-08T16:00:00Z",
     "zernio_id": "6ae9666bdb4767c813850b3b",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-017-pear-cut": {
+    "at": "2026-11-09T16:00:00Z",
+    "zernio_id": "6ae97959e83469266fefe7a5",
     "platforms": [
       "youtube"
     ]
