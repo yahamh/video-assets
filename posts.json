@@ -91,11 +91,11 @@
       "tiktok",
       "youtube"
     ],
-    "status": "partial",
+    "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfFmnsLCUNo/",
       "tiktok": "https://www.tiktok.com/@hey.gema/video/7702151373541870856",
-      "youtube": "failed: Rate limit hit. Please wait 1406 minutes before posting again."
+      "youtube": "https://www.youtube.com/watch?v=Go6N8pjvpiI"
     },
     "retry": {
       "at": "2026-11-03T15:30:00Z",
@@ -103,7 +103,8 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     }
   },
   "007-third-imperial-egg": {
@@ -354,7 +355,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1277264404563353",
+      "instagram": "https://www.instagram.com/reel/DfSDTyUgJgc/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703945125310827828",
+      "youtube": "https://www.youtube.com/watch?v=THNlzU_mveM"
+    }
   },
   "021-faberge-hen-egg": {
     "at": "2026-11-03T18:00:00Z",
@@ -364,7 +372,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1486804360216842",
+      "instagram": "https://www.instagram.com/reel/DfSe0DajBlz/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704007378878024980",
+      "youtube": "https://www.youtube.com/watch?v=LIv75zZoFmI"
+    }
   },
   "022-alexandrite": {
     "at": "2026-11-03T23:00:00Z",
@@ -374,7 +389,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1606657244476372",
+      "instagram": "https://www.instagram.com/reel/DfTBNMUDPZ3/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704083384770858246",
+      "youtube": "https://www.youtube.com/watch?v=vJUzcwfd34s"
+    }
   },
   "023-victoria-sapphire-coronet": {
     "at": "2026-11-04T14:00:00Z",
@@ -519,6 +541,66 @@
   "037-lalique-horn-jewels": {
     "at": "2026-11-08T23:00:00Z",
     "zernio_id": "6ae97950e83469266fefe76e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "038-elizabeth-taylor-diamond": {
+    "at": "2026-11-09T14:00:00Z",
+    "zernio_id": "6aeac08e31d404218c679384",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "039-eureka-diamond": {
+    "at": "2026-11-09T18:00:00Z",
+    "zernio_id": "6aeac09931a7991810a0d5ff",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "040-tolkowsky-brilliant-cut": {
+    "at": "2026-11-09T23:00:00Z",
+    "zernio_id": "6aeac0a331a7991810a0d658",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "041-welsh-gold-royal-rings": {
+    "at": "2026-11-10T14:00:00Z",
+    "zernio_id": "6aeac0b031d404218c6793c1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "042-black-princes-ruby": {
+    "at": "2026-11-10T18:00:00Z",
+    "zernio_id": "6aeac0c231d404218c6793f6",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "043-oldest-pearl-abu-dhabi": {
+    "at": "2026-11-10T23:00:00Z",
+    "zernio_id": "6aeac0cf31d404218c67942d",
     "platforms": [
       "facebook",
       "instagram",
@@ -749,7 +831,11 @@
     "zernio_id": "6ae9663cdb4767c813850a42",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=AOfFrH2OOPE"
+    }
   },
   "lesson-012-emerald-cut": {
     "at": "2026-11-04T16:00:00Z",
@@ -789,6 +875,13 @@
   "lesson-017-pear-cut": {
     "at": "2026-11-09T16:00:00Z",
     "zernio_id": "6ae97959e83469266fefe7a5",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-018-cathedral-setting": {
+    "at": "2026-11-10T16:00:00Z",
+    "zernio_id": "6aeac0ba31a7991810a0d6da",
     "platforms": [
       "youtube"
     ]
@@ -851,7 +944,11 @@
     "zernio_id": "6ae61680ea7ec36acdd724cb",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=JlSoW8Un1yc"
+    }
   },
   "yt-rhino-pear-sapphire": {
     "at": "2026-10-31T16:40:00Z",
@@ -909,7 +1006,11 @@
     "zernio_id": "6ae6167dea7ec36acdd724ac",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=-jUN2aVc2lg"
+    }
   },
   "yt-rhino-update": {
     "at": "2026-11-05T20:30:00Z",
