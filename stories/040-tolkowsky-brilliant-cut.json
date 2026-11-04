@@ -1,0 +1,195 @@
+{
+  "id": "040-tolkowsky-brilliant-cut",
+  "number": 40,
+  "title": "A teenager calculated the ideal diamond cut",
+  "plate": "The Ideal Cut",
+  "topic": "tolkowsky brilliant cut",
+  "style": "paper",
+  "theme": "blueprint",
+  "music": "music-040.wav",
+  "hook": {
+    "text": "A teenager calculated the ideal diamond cut.",
+    "gold": [
+      "teenager",
+      "diamond cut"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A teenager calculated the ideal diamond cut.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Marcel Tolkowsky came from a family of Antwerp diamond cutters,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Marcel Tolkowsky",
+        "role": "Antwerp",
+        "color": "#4cc3a8",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3f5d",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "but he trained as an engineer.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Marcel Tolkowsky",
+        "role": "An engineer",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#e8e2d2",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1919, at age 19, he published Diamond Design in London.",
+      "say": "In nineteen nineteen, at age nineteen, he published Diamond Design in London.",
+      "scene": {
+        "kind": "title",
+        "text": "Diamond Design",
+        "sub": "London, 1919",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It worked out how light reflects and bends inside a diamond.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "label": "Light inside",
+        "light": "#fff2c4",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "He wanted the proportions that give a stone the most brilliance.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "metal": "white",
+        "prongs": 6,
+        "label": "Proportions",
+        "velvet": "#5bb4e8",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "His ideal table is 53 percent as wide as the stone.",
+      "say": "His ideal table is fifty-three percent as wide as the stone.",
+      "scene": {
+        "kind": "title",
+        "text": "53%",
+        "sub": "Table width",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The top slopes at 34.5 degrees and the bottom at 40.75.",
+      "say": "The top slopes at thirty-four point five degrees and the bottom at forty point seven five.",
+      "scene": {
+        "kind": "title",
+        "text": "34.5° and 40.75°",
+        "sub": "Top and bottom slopes",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The modern round brilliant has 58 facets.",
+      "say": "The modern round brilliant has fifty-eight facets.",
+      "scene": {
+        "kind": "title",
+        "text": "58 facets",
+        "sub": "Round brilliant",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Jewelers still call it the Tolkowsky cut.",
+      "scene": {
+        "kind": "gift",
+        "stone": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "to": "The Tolkowsky cut",
+        "date": "1919",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It became the benchmark for cutting round diamonds.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Round brilliants",
+        "color": "#5bb4e8",
+        "pieces": [
+          {
+            "shape": "round",
+            "size": 0.5,
+            "tone": "#eef4f7"
+          },
+          {
+            "shape": "round",
+            "size": 0.7,
+            "tone": "#eef4f7"
+          },
+          {
+            "shape": "round",
+            "size": 0.9,
+            "tone": "#eef4f7"
+          }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "Marcel Tolkowsky was 19 when he published Diamond Design in 1919. His proportions for a round brilliant, a 53% table and slopes of 34.5 and 40.75 degrees, became the benchmark for cutting round diamonds.",
+    "hashtags": [
+      "#tolkowsky",
+      "#brilliantcut",
+      "#diamondcut",
+      "#roundbrilliant",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcel_Tolkowsky",
+    "https://www.gia.edu/doc/Modeling-the-Appearance-of-the-Round-Brilliant-Cut-Diamond-An-Analysis-of-Brilliance.pdf",
+    "https://www.gemsociety.org/lesson/round-brilliant-cut-the-crown-jewel-of-faceted-gemstone-design/",
+    "https://4cs.gia.edu/en-us/blog/how-diamonds-shape-up/",
+    "https://www.briangavindiamonds.com/news/marcel-tolkowskys-diamond-design-of-1919"
+  ]
+}

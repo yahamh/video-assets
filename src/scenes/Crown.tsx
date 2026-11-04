@@ -7,10 +7,13 @@ const GOLD = "#d9b45f";
 const GOLD_DARK = "#8a6420";
 
 // A crown and a sceptre on dark velvet, with small labels for the named stones.
-// Options: crownLabel (points at the stone on the crown's band), sceptreLabel (points at the sceptre's big stone).
+// Options: crownLabel (points at the stone on the crown's band, or with crownTarget "cross" at the red stone on the
+// front cross above it), sceptreLabel (points at the sceptre's big stone). A label's box grows with its words.
 export const Crown: React.FC<SceneProps> = ({ t, p }) => {
   const crownLabel = str(p.crownLabel, "");
   const sceptreLabel = str(p.sceptreLabel, "");
+  const onCross = str(p.crownTarget, "band") === "cross";
+  const boxW = (s: string, min: number) => Math.max(min, s.length * (s.length > 14 ? 17 : 21) + 36);
   const show = Math.min(1, 0.35 + eased(t, 0, 0.5));
   const tags = eased(t, 0.5, 1.0);
   const tw = (ph: number, sp = 2.6) => 0.5 + 0.5 * Math.sin(t * sp + ph);
@@ -111,15 +114,24 @@ export const Crown: React.FC<SceneProps> = ({ t, p }) => {
       <Sparkle x={540} y={868} r={22} k={show * tw(3.1)} />
       <Sparkle x={410} y={700} r={18} k={show * tw(4.2, 3.3)} />
 
-      {crownLabel && (
-        <g opacity={tags}>
-          <path d="M520 950 Q430 1060 300 1060" stroke={GOLD} strokeWidth={3} fill="none" />
-          <rect x={80} y={1030} width={240} height={60} fill="#0a0e18" stroke={GOLD} strokeWidth={2} />
-          <text x={200} y={1071} textAnchor="middle" fontFamily={SANS} fontWeight={700} letterSpacing={2} fontSize={crownLabel.length > 14 ? 24 : 30} fill={IVORY}>
-            {crownLabel}
-          </text>
-        </g>
-      )}
+      {crownLabel && (() => {
+        const w = boxW(crownLabel, 240);
+        const x = onCross ? 70 : 80;
+        const y = onCross ? 760 : 1030;
+        return (
+          <g opacity={tags}>
+            {onCross ? (
+              <path d={`M${x + w} ${y + 30} Q440 ${y + 20} 526 858`} stroke={GOLD} strokeWidth={3} fill="none" />
+            ) : (
+              <path d={`M520 950 Q430 1060 ${x + w} 1060`} stroke={GOLD} strokeWidth={3} fill="none" />
+            )}
+            <rect x={x} y={y} width={w} height={60} fill="#0a0e18" stroke={GOLD} strokeWidth={2} />
+            <text x={x + w / 2} y={y + 41} textAnchor="middle" fontFamily={SANS} fontWeight={700} letterSpacing={2} fontSize={crownLabel.length > 14 ? 24 : 30} fill={IVORY}>
+              {crownLabel}
+            </text>
+          </g>
+        );
+      })()}
       {sceptreLabel && (
         <g opacity={tags}>
           <path d="M770 1190 Q760 1290 720 1320" stroke={GOLD} strokeWidth={3} fill="none" />

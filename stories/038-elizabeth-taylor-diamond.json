@@ -1,0 +1,202 @@
+{
+  "id": "038-elizabeth-taylor-diamond",
+  "number": 38,
+  "title": "He bought her a 33-carat diamond",
+  "plate": "The Taylor Diamond",
+  "topic": "elizabeth taylor diamond",
+  "style": "paper",
+  "theme": "sunset",
+  "music": "music-038.wav",
+  "hook": {
+    "text": "He bought her a 33-carat diamond.",
+    "gold": [
+      "33-carat",
+      "diamond"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He bought her a 33-carat diamond.",
+      "say": "He bought her a thirty-three-carat diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "asscher",
+        "tone": "#eef4f7",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Richard Burton gave it to Elizabeth Taylor in 1968.",
+      "say": "Richard Burton gave it to Elizabeth Taylor in nineteen sixty-eight.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Burton and Taylor",
+        "role": "1968",
+        "color": "#f0552e",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#7a3a5a",
+            "hair": "long",
+            "hairColor": "#1e1612",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pendant"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It had belonged to Vera Krupp, the wife of a German industrialist.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Vera Krupp",
+        "role": "An early owner",
+        "color": "#a98be0",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#4a3f55",
+            "hair": "updo",
+            "hairColor": "#c9a76a",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "jewel": "pearls"
+          }
+        ]
+      }
+    },
+    {
+      "text": "After Vera died in 1967, her estate sold it in New York.",
+      "say": "After Vera died in nineteen sixty-seven, her estate sold it in New York.",
+      "scene": {
+        "kind": "title",
+        "text": "New York",
+        "sub": "May 1968",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Burton paid more than $300,000 at the auction.",
+      "say": "Burton paid more than three hundred thousand dollars at the auction.",
+      "scene": {
+        "kind": "title",
+        "text": "Over $300,000",
+        "sub": "What Burton paid",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It's an Asscher cut and weighs 33.19 carats.",
+      "say": "It's an Asher cut and weighs thirty-three point one nine carats.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "asscher",
+        "tone": "#eef4f7",
+        "metal": "white",
+        "prongs": 4,
+        "label": "33.19 carats",
+        "velvet": "#4cc3a8",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "She wore it almost every day for the rest of her life.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Elizabeth Taylor",
+        "role": "Wore it almost daily",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#7a3a5a",
+            "hair": "long",
+            "hairColor": "#1e1612",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pendant"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She died in March 2011, and Christie's sold the ring that December.",
+      "say": "She died in March twenty eleven, and Christie's sold the ring that December.",
+      "scene": {
+        "kind": "title",
+        "text": "December 2011",
+        "sub": "Christie's, New York",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It sold for $8.8 million,",
+      "say": "It sold for eight point eight million dollars,",
+      "scene": {
+        "kind": "title",
+        "text": "$8.8 million",
+        "sub": "It sold for",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "a record price per carat for a colorless diamond.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "asscher",
+        "tone": "#eef4f7",
+        "label": "A record per carat",
+        "light": "#fff2c4",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A South Korean company bought it to show in a theme park.",
+      "scene": {
+        "kind": "gift",
+        "stone": "gem",
+        "shape": "asscher",
+        "tone": "#eef4f7",
+        "to": "Daegu, South Korea",
+        "date": "A theme park",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Richard Burton gave Elizabeth Taylor a 33.19-carat Asscher-cut diamond in 1968. After she died, Christie's sold it for $8.8 million, a record price per carat for a colorless diamond.",
+    "hashtags": [
+      "#elizabethtaylor",
+      "#richardburton",
+      "#diamondring",
+      "#asschercut",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://text-message.blogs.archives.gov/2025/02/13/glimmer-of-justice-the-krupp-diamond-an-fbi-investigation-turned-hollywood-romance",
+    "https://4cs.gia.edu/?p=3405",
+    "https://www.thecourtjeweller.com/2024/02/dame-elizabeth-taylors-incredible-iconic-diamond-ring.html",
+    "https://globalnews.ca/news/189340/elizabeth-taylors-diamond-ring-fetches-8-8m",
+    "https://www.aljazeera.com/features/2011/12/14/elizabeth-taylors-jewelry-sells-for-115m"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "043-oldest-pearl-abu-dhabi",
+  "number": 43,
+  "title": "The oldest pearl is 8,000 years old",
+  "plate": "The Oldest Pearl",
+  "topic": "oldest natural pearl abu dhabi",
+  "style": "paper",
+  "theme": "oldprint",
+  "music": "music-043.wav",
+  "hook": {
+    "text": "The oldest pearl is 8,000 years old.",
+    "gold": [
+      "oldest",
+      "8,000"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The oldest pearl is 8,000 years old.",
+      "say": "The oldest pearl is eight thousand years old.",
+      "scene": {
+        "kind": "hook",
+        "show": "round-pearl",
+        "tone": "#eac4cf",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Archaeologists found it on Marawah Island, off Abu Dhabi.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Marawah Island",
+        "role": "Off Abu Dhabi",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a7a5a",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "hat": "helmet",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It lay in the floor of a room at a Neolithic site.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#eac4cf",
+        "label": "Found in a floor",
+        "light": "#fff2c4",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Carbon dating puts that layer at 5800 to 5600 BC.",
+      "say": "Carbon dating puts that layer at fifty-eight hundred to fifty-six hundred B C.",
+      "scene": {
+        "kind": "title",
+        "text": "5800 to 5600 BC",
+        "sub": "Carbon dated",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "The pearl is pink and about three millimeters wide.",
+      "say": "The pearl is pink and about three millimeters wide.",
+      "scene": {
+        "kind": "title",
+        "text": "3 mm",
+        "sub": "Pale pink",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The site also held flint arrowheads and a vase from Mesopotamia.",
+      "scene": {
+        "kind": "title",
+        "text": "A vase from Mesopotamia",
+        "sub": "Found at the site",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Archaeologists think the pearl may have been worn as jewelry.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "pearls": true,
+        "label": "Maybe worn",
+        "velvet": "#a98be0",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Abu Dhabi announced it in October 2019.",
+      "say": "Abu Dhabi announced it in October twenty nineteen.",
+      "scene": {
+        "kind": "title",
+        "text": "October 2019",
+        "sub": "Announced",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "They call it the Abu Dhabi Pearl.",
+      "scene": {
+        "kind": "gift",
+        "stone": "round-pearl",
+        "tone": "#eac4cf",
+        "to": "The Abu Dhabi Pearl",
+        "date": "Marawah Island",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "That month, the Louvre Abu Dhabi put it on display",
+      "scene": {
+        "kind": "title",
+        "text": "Louvre Abu Dhabi",
+        "sub": "On display",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "in an exhibition called 10,000 Years of Luxury.",
+      "say": "in an exhibition called ten thousand years of luxury.",
+      "scene": {
+        "kind": "title",
+        "text": "10,000 Years of Luxury",
+        "sub": "The exhibition",
+        "color": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A tiny pink pearl found in the floor of a room at a Neolithic site on Marawah Island, off Abu Dhabi, is about 8,000 years old, the oldest known natural pearl. It went on display at the Louvre Abu Dhabi in October 2019.",
+    "hashtags": [
+      "#oldestpearl",
+      "#abudhabi",
+      "#pearls",
+      "#archaeology",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.livescience.com/worlds-oldest-pearl-discovered-marawah-island.html",
+    "https://www.smithsonianmag.com/smart-news/worlds-oldest-pearl-goes-display-abu-dhabi-180973390/",
+    "https://www.artnews.com/art-news/news/louvre-abu-dhabi-pearl-13434/",
+    "https://www.thenationalnews.com/uae/heritage/world-s-oldest-natural-pearl-found-in-abu-dhabi-1.925967",
+    "https://www.thejakartapost.com/life/2019/10/21/worlds-oldest-pearl-found-in-abu-dhabi.html"
+  ]
+}

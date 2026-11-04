@@ -1,0 +1,198 @@
+{
+  "id": "lesson-018-cathedral-setting",
+  "series": "lesson",
+  "number": 18,
+  "title": "What a cathedral setting is",
+  "topic": "cathedral setting",
+  "music": "music-lesson-018.wav",
+  "hook": {
+    "text": "This ring's band rises like a cathedral.",
+    "gold": [
+      "cathedral"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This ring's band rises like a cathedral.",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "That shape is a cathedral setting, named for cathedral arches.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "A cathedral setting",
+        "focus": {
+          "x": 0.5,
+          "y": 0.3,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "Arches of metal rise from the band toward the center stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "The arches",
+        "focus": {
+          "x": 0.5,
+          "y": 0.3,
+          "k": 2.0
+        },
+        "marks": [
+          {
+            "x": 0.51,
+            "y": 0.3,
+            "text": "Arch",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "They lift the stone higher above the band.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "A higher stone",
+        "focus": {
+          "x": 0.5,
+          "y": 0.12,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "A higher stone looks bigger and takes in light from more angles.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "More light",
+        "focus": {
+          "x": 0.5,
+          "y": 0.1,
+          "k": 2.6
+        }
+      }
+    },
+    {
+      "text": "The arches also add support around the stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Support",
+        "focus": {
+          "x": 0.45,
+          "y": 0.28,
+          "k": 2.4
+        }
+      }
+    },
+    {
+      "text": "Jewelers often set small pavé diamonds along the arches.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Pavé on the arches",
+        "focus": {
+          "x": 0.68,
+          "y": 0.4,
+          "k": 2.0
+        },
+        "marks": [
+          {
+            "x": 0.73,
+            "y": 0.35,
+            "text": "Pavé",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "The high profile can snag on clothing.",
+      "scene": {
+        "kind": "title",
+        "text": "It can snag",
+        "sub": "A high profile"
+      }
+    },
+    {
+      "text": "Open spaces under the stone collect dirt, so it needs regular cleaning.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Open spaces",
+        "focus": {
+          "x": 0.6,
+          "y": 0.4,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "It's also harder to resize than a plain band.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Harder to resize",
+        "focus": {
+          "x": 0.5,
+          "y": 0.6,
+          "k": 1.3
+        }
+      }
+    },
+    {
+      "text": "A render shows a client how high the stone sits,",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before anything is cast.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Cathedral setting in a jewelry render: what the arches do",
+    "caption": "A cathedral setting has arches of metal that rise from the band toward the center stone. They lift the stone, add support and can carry pavé diamonds, but the high profile can catch on clothing and the open spaces collect dirt. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#cathedralsetting",
+      "#engagementring",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#ringsettings"
+    ]
+  },
+  "sources": [
+    "https://www.bluenile.com/blog/diamonds-jewelry/cathedral-engagement-rings-guide",
+    "https://www.brilliantearth.com/news/types-of-cathedral-ring-settings/",
+    "https://pricescope.com/blog/cathedral-engagement-ring-settings",
+    "https://quickjewelryrepairs.com/glossary/cathedral-setting/",
+    "https://www.kobelli.com/blogs/jewelry/this-is-the-no-brainer-guide-to-cathedral-setting"
+  ]
+}

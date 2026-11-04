@@ -1,0 +1,180 @@
+{
+  "id": "042-black-princes-ruby",
+  "number": 42,
+  "title": "The Black Prince's Ruby isn't a ruby",
+  "topic": "black prince's ruby",
+  "music": "music-042.wav",
+  "hook": {
+    "text": "The Black Prince's Ruby isn't a ruby.",
+    "gold": [
+      "isn't",
+      "ruby"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Black Prince's Ruby isn't a ruby.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#c8283a"
+      }
+    },
+    {
+      "text": "It's a red spinel of about 170 carats,",
+      "say": "It's a red spinel of about one hundred seventy carats,",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c8283a",
+        "label": "A red spinel"
+      }
+    },
+    {
+      "text": "about the size of a hen's egg.",
+      "scene": {
+        "kind": "gift",
+        "stone": "cushion",
+        "tone": "#c8283a",
+        "to": "A hen's egg",
+        "date": "About the size"
+      }
+    },
+    {
+      "text": "Chemists only learned to tell spinel from ruby in 1783.",
+      "say": "Chemists only learned to tell spinel from ruby in seventeen eighty-three.",
+      "scene": {
+        "kind": "title",
+        "text": "1783",
+        "sub": "Spinel told from ruby"
+      }
+    },
+    {
+      "text": "Legend says a king of Castile, Pedro the Cruel,",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Pedro the Cruel",
+        "role": "King of Castile",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#8e1f2c",
+            "hair": "long",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "proud",
+            "hat": "crown",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "gave it to the Black Prince in 1367.",
+      "say": "gave it to the Black Prince in thirteen sixty-seven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Black Prince",
+        "role": "Edward, 1367",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "hat": "helmet"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Henry V is said to have worn it on his helmet",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Henry V",
+        "role": "Agincourt, 1415",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#8e1f2c",
+            "hair": "short",
+            "hairColor": "#5a3a26",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "helmet"
+          }
+        ]
+      }
+    },
+    {
+      "text": "at the Battle of Agincourt in 1415.",
+      "say": "at the Battle of Agincourt in fourteen fifteen.",
+      "scene": {
+        "kind": "title",
+        "text": "Agincourt",
+        "sub": "1415"
+      }
+    },
+    {
+      "text": "A hole drilled through it is plugged with a small ruby.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c8283a",
+        "label": "A small ruby plugs the hole"
+      }
+    },
+    {
+      "text": "Today it sits at the front of the Imperial State Crown,",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Red spinel",
+        "crownTarget": "cross"
+      }
+    },
+    {
+      "text": "above the Cullinan II diamond.",
+      "say": "above the Cullinan Two diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "Cullinan II",
+        "sub": "The stone below it"
+      }
+    },
+    {
+      "text": "It's on display in the Tower of London's Jewel House.",
+      "scene": {
+        "kind": "crown"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Black Prince's Ruby in Britain's Imperial State Crown is really a red spinel of about 170 carats. Spinels and rubies weren't told apart until 1783.",
+    "hashtags": [
+      "#blackprincesruby",
+      "#crownjewels",
+      "#spinel",
+      "#toweroflondon",
+      "#gemstones"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/topic/Black-Princes-Ruby",
+    "https://www.hrp.org.uk/tower-of-london/history-and-stories/the-crown-jewels/",
+    "https://en.wikipedia.org/wiki/Black_Prince%27s_Ruby",
+    "https://www.jewellerybusiness.com/?p=35783",
+    "https://www.ganoksin.com/article/story-of-red-spinel/"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "id": "039-eureka-diamond",
+  "number": 39,
+  "title": "A 15-year-old found a 21-carat diamond",
+  "topic": "eureka diamond",
+  "style": "lowpoly",
+  "music": "music-039.wav",
+  "hook": {
+    "text": "A 15-year-old found a 21-carat diamond.",
+    "gold": [
+      "15-year-old",
+      "21-carat"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A 15-year-old found a 21-carat diamond.",
+      "say": "A fifteen-year-old found a twenty-one-carat diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#d9e6ea"
+      }
+    },
+    {
+      "text": "Erasmus Jacobs found it on his family's farm near Hopetown.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Erasmus Jacobs",
+        "role": "Age 15",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a7a5a",
+            "hair": "short",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "cap",
+            "prop": "rough",
+            "propTone": "#d9e6ea"
+          }
+        ]
+      }
+    },
+    {
+      "text": "His mother gave it to a neighbor, Schalk van Niekerk.",
+      "say": "His mother gave it to a neighbor, Schalk van Neekirk.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Schalk van Niekerk",
+        "role": "A neighbor",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#6a5a7a",
+            "hair": "updo",
+            "hairColor": "#6a4a30",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a4a3a",
+            "hair": "short",
+            "hairColor": "#4a3326",
+            "skin": "#c98e6a",
+            "expression": "smile",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A trader named John O'Reilly took it to Colesberg.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "John O'Reilly",
+        "role": "A trader",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a5a3a",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "bowler"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In Colesberg, an official named Lorenzo Boyes scratched glass with it.",
+      "scene": {
+        "kind": "title",
+        "text": "It scratched glass",
+        "sub": "Lorenzo Boyes, Colesberg"
+      }
+    },
+    {
+      "text": "He sent it by mail to Dr. W. G. Atherstone in Grahamstown,",
+      "say": "He sent it by mail to Doctor W. G. Atherstone in Grahamstown,",
+      "scene": {
+        "kind": "parcel",
+        "label": "Dr. Atherstone"
+      }
+    },
+    {
+      "text": "who confirmed it was a 21.25-carat diamond.",
+      "say": "who confirmed it was a twenty-one point two five carat diamond.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Dr. Atherstone",
+        "role": "Grahamstown",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "short",
+            "hairColor": "#b9b4ab",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "glasses": "round",
+            "old": true,
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The governor, Sir Philip Wodehouse, bought it for 500 pounds.",
+      "say": "The governor, Sir Philip Wodehouse, bought it for five hundred pounds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Sir Philip Wodehouse",
+        "role": "The governor of Cape Colony",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Cut, it became a 10.73-carat cushion brilliant.",
+      "say": "Cut, it became a ten point seven three carat cushion brilliant.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Cut and polished",
+        "pieces": [
+          {
+            "shape": "cushion",
+            "carats": 10.73,
+            "tone": "#e4eef2"
+          }
+        ]
+      }
+    },
+    {
+      "text": "De Beers bought it and donated it to the South African people.",
+      "scene": {
+        "kind": "gift",
+        "stone": "cushion",
+        "tone": "#e4eef2",
+        "to": "South Africa",
+        "date": "De Beers"
+      }
+    },
+    {
+      "text": "It's on show in the Kimberley Mine Museum today.",
+      "scene": {
+        "kind": "title",
+        "text": "Kimberley",
+        "sub": "Mine Museum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A 15-year-old picked up a 21.25-carat rough diamond on his family's farm in South Africa. It went from a neighbor to a trader to a doctor who confirmed it, and it is now in the Kimberley Mine Museum.",
+    "hashtags": [
+      "#eurekadiamond",
+      "#southafrica",
+      "#diamonds",
+      "#kimberley",
+      "#gemstones"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eureka_Diamond",
+    "https://thesolomon.co.za/eureka-diamond",
+    "https://www.grahamstown.co.za/news/grahamstown_and_the_eureka_diamond",
+    "https://4cs.gia.edu/en-us/blog/south-african-diamonds/",
+    "https://www.miningweekly.com/article/setting-the-record-straight-on-the-discovery-of-diamonds-2017-02-24"
+  ]
+}

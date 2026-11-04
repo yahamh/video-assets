@@ -1,0 +1,215 @@
+{
+  "id": "041-welsh-gold-royal-rings",
+  "number": 41,
+  "title": "One nugget made five royal wedding rings",
+  "plate": "Welsh Gold",
+  "topic": "welsh gold royal wedding rings",
+  "style": "paper",
+  "theme": "midnight",
+  "music": "music-041.wav",
+  "hook": {
+    "text": "One nugget made five royal wedding rings.",
+    "gold": [
+      "nugget",
+      "five"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One nugget made five royal wedding rings.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The tradition began in 1923, when Lady Elizabeth Bowes-Lyon",
+      "say": "The tradition began in nineteen twenty-three, when Lady Elizabeth Bowes-Lyon",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Lady Elizabeth Bowes-Lyon",
+        "role": "1923",
+        "color": "#ec6a9c",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#f6efe4",
+            "hair": "short",
+            "hairColor": "#6a4a30",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          },
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "married the Duke of York with a ring of Welsh gold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "plain": true,
+        "label": "Welsh gold",
+        "velvet": "#a98be0",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The nugget came from the Clogau St David's mine in Wales.",
+      "say": "The nugget came from the Clog-eye Saint David's mine in Wales.",
+      "scene": {
+        "kind": "mine",
+        "place": "Clogau St David's, Wales",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The Queen's ring in 1947 came from that same nugget.",
+      "say": "The Queen's ring in nineteen forty-seven came from that same nugget.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Queen",
+        "role": "1947",
+        "color": "#f0552e",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#f6efe4",
+            "hair": "short",
+            "hairColor": "#6a4a30",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "So did the rings of Princess Margaret and Princess Anne,",
+      "scene": {
+        "kind": "title",
+        "text": "The same nugget",
+        "sub": "Margaret and Anne",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "and Diana's ring when she married Prince Charles.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Diana",
+        "role": "Princess of Wales",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#f6efe4",
+            "hair": "short",
+            "hairColor": "#c9a76a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          },
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f2a44",
+            "hair": "short",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Today only a sliver of that nugget is left.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#f7c23a",
+        "label": "A sliver",
+        "light": "#fff2c4",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In 1981, the Royal British Legion gave the Queen more Welsh gold",
+      "say": "In nineteen eighty-one, the Royal British Legion gave the Queen more Welsh gold",
+      "scene": {
+        "kind": "title",
+        "text": "1981",
+        "sub": "The Royal British Legion",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "for future royal wedding rings.",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "tone": "#f7c23a",
+        "to": "Royal wedding rings",
+        "date": "Welsh gold",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Catherine Middleton's ring in 2011 was Welsh gold too,",
+      "say": "Catherine Middleton's ring in twenty eleven was Welsh gold too,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "plain": true,
+        "label": "2011",
+        "velvet": "#5bb4e8",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "and so was Meghan Markle's band in 2018.",
+      "say": "and so was Meghan Markle's band in twenty eighteen.",
+      "scene": {
+        "kind": "title",
+        "text": "2018",
+        "sub": "Meghan Markle's band",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The royal Welsh gold ring tradition began in 1923. One nugget from the Clogau St David's mine made the wedding rings of the Queen Mother, the Queen, Princess Margaret, Princess Anne and Diana.",
+    "hashtags": [
+      "#welshgold",
+      "#royalwedding",
+      "#weddingring",
+      "#royaljewels",
+      "#gold"
+    ]
+  },
+  "sources": [
+    "https://www.royal.uk/royal-wedding-traditions",
+    "https://www.royal.uk/70-facts-about-queen-and-duke-edinburghs-wedding",
+    "https://en.wikipedia.org/wiki/Welsh_gold",
+    "https://www.mining.com/meghan-markles-wedding-band-made-welsh-gold-historic-mine/",
+    "https://www.odt.co.nz/news/world/kates-ring-of-rare-welsh-gold-dnexkc61"
+  ]
+}
