@@ -103,9 +103,24 @@ jobs:
             if python3 scripts/check.py "$story" \
               && python scripts/voice.py "$story" --out "out/$id.json" \
               && node scripts/render.mjs "out/$id.json" "out/$id.mp4"; then
-              gh release create "$id" "out/$id.mp4" "out/$id.json" \
-                --title "$(jq -r 'if .series == "lesson" then "Lesson \(.number). \(.title)" else "\(.number). \(.title)" end' "$story")" \
-                --notes "$(jq -r '.post.caption' "$story")"
+              # GitHub now and then answers a release upload with a 500 (run 46, 5 Nov 2026): that used to stop the
+              # whole loop, so the rest of the batch was never made. Try three times, then go on to the next one.
+              published=""
+              for attempt in 1 2 3; do
+                if gh release create "$id" "out/$id.mp4" "out/$id.json" \
+                  --title "$(jq -r 'if .series == "lesson" then "Lesson \(.number). \(.title)" else "\(.number). \(.title)" end' "$story")" \
+                  --notes "$(jq -r '.post.caption' "$story")"; then
+                  published=1
+                  break
+                fi
+                echo "::warning::$id: GitHub refused the release (try $attempt of 3)"
+                gh release delete "$id" --yes --cleanup-tag || true  # a failed create can leave a draft behind
+                sleep 30
+              done
+              if [ -z "$published" ]; then
+                echo "::error::$id was made but couldn't be published"
+                failed=1
+              fi
             else
               echo "::error::$id failed"
               failed=1

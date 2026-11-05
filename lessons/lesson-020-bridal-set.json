@@ -1,0 +1,183 @@
+{
+  "id": "lesson-020-bridal-set",
+  "series": "lesson",
+  "number": 20,
+  "title": "What a bridal set is",
+  "topic": "bridal set",
+  "music": "music-lesson-020.wav",
+  "hook": {
+    "text": "This pair is called a bridal set.",
+    "gold": [
+      "bridal",
+      "set"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This pair is called a bridal set.",
+      "scene": {
+        "kind": "compare",
+        "before": "bridal-cad.webp",
+        "after": "bridal-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "It's an engagement ring and a matching wedding band.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "A bridal set",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    },
+    {
+      "text": "Some sets add a third ring.",
+      "scene": {
+        "kind": "title",
+        "text": "Three rings",
+        "sub": "In some sets"
+      }
+    },
+    {
+      "text": "The rings usually share a metal, so they look like a pair.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "label": "The same metal",
+        "focus": {
+          "x": 0.45,
+          "y": 0.45,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "The same metal also wears evenly where the rings rub.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-side.webp",
+        "label": "Where they touch",
+        "focus": {
+          "x": 0.5,
+          "y": 0.55,
+          "k": 1.6
+        }
+      }
+    },
+    {
+      "text": "Some couples mix metals on purpose.",
+      "scene": {
+        "kind": "title",
+        "text": "Mixed metals",
+        "sub": "On purpose"
+      }
+    },
+    {
+      "text": "The wedding band often curves to fit around the center stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "label": "A curved band",
+        "focus": {
+          "x": 0.42,
+          "y": 0.4,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "That shape is called a contour band, or a curved band.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "label": "A contour band",
+        "focus": {
+          "x": 0.5,
+          "y": 0.65,
+          "k": 1.6
+        }
+      }
+    },
+    {
+      "text": "It sits flush against the ring, with no gap between them.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "label": "No gap",
+        "focus": {
+          "x": 0.5,
+          "y": 0.72,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "Tradition puts the wedding band on first, closest to the heart.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "Worn together",
+        "focus": {
+          "x": 0.5,
+          "y": 0.72,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "Two rings, one design: that is a bridal set.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "bridal-render.webp",
+          "mix585-render-three-quarter.webp"
+        ],
+        "labels": [
+          "Round and marquise",
+          "Emerald and pavé"
+        ],
+        "label": "Bridal sets"
+      }
+    },
+    {
+      "text": "A render shows both rings together before anything is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-still-three-quarter.webp",
+        "after": "mix585-render-three-quarter.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "What a bridal set is, shown with jewelry renders",
+    "caption": "A bridal set is an engagement ring and a matching wedding band designed to be worn together. The rings usually share a metal, which helps them wear evenly, and the wedding band often curves to sit flush against the center stone. Tradition puts the wedding band on first, closest to the heart. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#bridalset",
+      "#engagementring",
+      "#weddingband",
+      "#jewelrymaking",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://website.ritani.com/blogs/education/what-is-a-bridal-set",
+    "https://www.bluenile.com/jewelry/collections/engagement-wedding-sets",
+    "https://www.queensmith.co.uk/ring-guides/engagement-ring-buying-guide/ultimate-guide-to-bridal-sets",
+    "https://www.diamonds.pro/education/bridal-sets/",
+    "https://www.brilliantearth.com/news/how-to-match-a-wedding-band-to-your-engagement-ring/",
+    "https://robinsonsjewelers.com/blogs/news/what-is-a-contour-wedding-band-the-gap-free-secret-to-a-perfectly-stacked-bridal-set",
+    "https://www.theknot.com/content/bridal-ring-sets"
+  ]
+}
