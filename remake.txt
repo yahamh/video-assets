@@ -1,2 +1,9 @@
 # Story ids to make again, one per line (like 001-cullinan). "Make videos" deletes their videos, makes them again
 # and empties this list. Only for stories not posted yet.
+036-pearl-of-puerto
+037-lalique-horn-jewels
+038-elizabeth-taylor-diamond
+lesson-017-pear-cut
+039-eureka-diamond
+040-tolkowsky-brilliant-cut
+041-welsh-gold-royal-rings
