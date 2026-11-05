@@ -1,9 +1,2 @@
 # Story ids to make again, one per line (like 001-cullinan). "Make videos" deletes their videos, makes them again
 # and empties this list. Only for stories not posted yet.
-026-napoleon-josephine-toi-et-moi
-lesson-013-eternity-band
-027-van-cleef-mystery-set
-028-wedding-ring-lost-55-years
-029-emerald-garden
-lesson-014-marquise-cut
-030-claddagh-ring
