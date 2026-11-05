@@ -1,0 +1,151 @@
+{
+  "id": "070-poesy-rings",
+  "number": 70,
+  "title": "A secret verse hides inside this ring",
+  "topic": "poesy ring",
+  "style": "paper",
+  "plate": "The Poesy Ring",
+  "theme": "sky",
+  "music": "music-070.wav",
+  "hook": {
+    "text": "A secret verse hides inside this ring.",
+    "gold": [
+      "secret",
+      "verse"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A secret verse hides inside this ring.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "A poesy ring has a short verse engraved inside the band.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "A poesy ring"
+      }
+    },
+    {
+      "text": "Only the wearer can read it.",
+      "scene": {
+        "kind": "title",
+        "text": "Hidden inside",
+        "sub": "Only the wearer reads it"
+      }
+    },
+    {
+      "text": "People gave them as love tokens from the 1400s to the 1600s.",
+      "say": "People gave them as love tokens from the fourteen hundreds to the sixteen hundreds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "garden",
+        "name": "A love token",
+        "role": "The 1400s to the 1600s",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a4a3a",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#a85a6a",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "One reads, \"God above increase our love.\"",
+      "scene": {
+        "kind": "title",
+        "text": "Increase our love",
+        "sub": "\"God above increase our love\""
+      }
+    },
+    {
+      "text": "Another says, \"I am yours.\"",
+      "scene": {
+        "kind": "title",
+        "text": "I am yours",
+        "sub": "A ring in London's V&A"
+      }
+    },
+    {
+      "text": "A third promises, \"United hearts death only parts.\"",
+      "scene": {
+        "kind": "title",
+        "text": "United hearts",
+        "sub": "\"Death only parts\""
+      }
+    },
+    {
+      "text": "The word poesy comes from the French word for poetry.",
+      "say": "The word poesy comes from the French word for poetry.",
+      "scene": {
+        "kind": "title",
+        "text": "Poésie",
+        "sub": "French for poetry"
+      }
+    },
+    {
+      "text": "In Hamlet, Shakespeare mentions \"the posy of a ring\" as something brief.",
+      "scene": {
+        "kind": "title",
+        "text": "Hamlet",
+        "sub": "\"The posy of a ring\""
+      }
+    },
+    {
+      "text": "Couples still engrave words inside their rings today.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "Still engraved today"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A poesy ring has a short verse engraved inside the band, where only the wearer can read it. People gave them as love tokens from the 1400s to the 1600s, with lines like \"God above increase our love\" and \"I am yours.\" Couples still engrave words inside their rings today.",
+    "hashtags": [
+      "#poesyring",
+      "#posyring",
+      "#weddingring",
+      "#jewelryhistory",
+      "#lovetoken"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Posie_ring",
+    "https://artsandculture.google.com/asset/gold-posy-ring/CwFNRw5eR90jdg",
+    "https://collections.vam.ac.uk/item/O78629/ring-unknown",
+    "https://www.metmuseum.org/perspectives/binding-together-past-and-present",
+    "https://museumsandcastles.wakefield.gov.uk/discover/collections/archaeology/ackworth-hoard/posy-ring/",
+    "https://www.folger.edu/blogs/collation/elizabethan-posy-rings/",
+    "https://lesenluminures.com/posy-ring-inscription-god-above-increase-our-love",
+    "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/2/",
+    "https://etc.usf.edu/lit2go/94/hamlet/1675/act-3-scene-2/",
+    "https://cullenjewellery.com/education/wedding-ring-guidance/what-to-engrave-on-your-wedding-ring"
+  ]
+}

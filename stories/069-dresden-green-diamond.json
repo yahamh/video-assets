@@ -1,0 +1,144 @@
+{
+  "id": "069-dresden-green-diamond",
+  "number": 69,
+  "title": "Radiation made this diamond green",
+  "topic": "dresden green diamond",
+  "style": "lowpoly",
+  "music": "music-069.wav",
+  "hook": {
+    "text": "Radiation made this diamond green.",
+    "gold": [
+      "radiation",
+      "green"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Radiation made this diamond green.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear",
+        "tone": "#2faa63"
+      }
+    },
+    {
+      "text": "Deep in the earth, natural radiation tinted the stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Natural radiation",
+        "sub": "Deep in the earth"
+      }
+    },
+    {
+      "text": "It's a natural diamond of about 41 carats.",
+      "say": "It's a natural diamond of about forty-one carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#2faa63",
+        "label": "About 41 carats"
+      }
+    },
+    {
+      "text": "It most likely came from India, near Golconda.",
+      "scene": {
+        "kind": "title",
+        "text": "India",
+        "sub": "Most likely near Golconda"
+      }
+    },
+    {
+      "text": "Augustus III bought it at the Leipzig fair in the early 1740s.",
+      "say": "Augustus the Third bought it at the Leipzig fair in the early seventeen forties.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Augustus III",
+        "role": "Elector of Saxony",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#2a3a5a",
+            "hair": "side",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "hat": "crown",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1768, it was set in a hat ornament with other diamonds.",
+      "say": "In seventeen sixty-eight, it was set in a hat ornament with other diamonds.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "pear",
+        "tone": "#2faa63",
+        "label": "A hat ornament"
+      }
+    },
+    {
+      "text": "In 1945, the Soviet Union took it to Moscow.",
+      "say": "In nineteen forty-five, the Soviet Union took it to Moscow.",
+      "scene": {
+        "kind": "title",
+        "text": "Moscow",
+        "sub": "1945"
+      }
+    },
+    {
+      "text": "It came home to Dresden in 1958.",
+      "say": "It came home to Dresden in nineteen fifty-eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1958",
+        "sub": "Home to Dresden"
+      }
+    },
+    {
+      "text": "It is the largest known natural green diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "Largest known",
+        "sub": "Natural green diamond"
+      }
+    },
+    {
+      "text": "You can see it in the New Green Vault in Dresden.",
+      "scene": {
+        "kind": "title",
+        "text": "New Green Vault",
+        "sub": "Royal Palace, Dresden"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Dresden Green is a natural green diamond of about 41 carats. Natural radiation in the earth tinted it, and it most likely came from India. Augustus III of Saxony bought it in the early 1740s. It was taken to Moscow in 1945, came home in 1958 and is in the New Green Vault in Dresden.",
+    "hashtags": [
+      "#dresdengreen",
+      "#greendiamond",
+      "#diamond",
+      "#dresden",
+      "#royaljewels"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dresden_Green_Diamond",
+    "https://www.metmuseum.org/articles/dresden-green-diamond",
+    "https://gruenes-gewoelbe.skd.museum/en/exhibitions/new-green-vault/the-green-diamond-in-the-neues-gruenes-gewoelbe/",
+    "https://www.gia.edu/doc/The-Legendary-Dresden-Green-Diamond.pdf",
+    "https://jckonline.com/?p=43316",
+    "https://iaja.com/2023/09/27/the-quiet-life-of-the-dresden-green-diamond",
+    "https://artsandculture.google.com/asset/diamond-hat-garniture-featuring-the-dresden-green-diamond/awHWRfwk-tSSdw"
+  ]
+}

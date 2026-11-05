@@ -1,0 +1,140 @@
+{
+  "id": "072-sunrise-ruby",
+  "number": 72,
+  "title": "This ruby sold for 30 million dollars",
+  "topic": "sunrise ruby",
+  "style": "lowpoly",
+  "music": "music-072.wav",
+  "hook": {
+    "text": "This ruby sold for 30 million dollars.",
+    "gold": [
+      "ruby",
+      "30"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This ruby sold for 30 million dollars.",
+      "say": "This ruby sold for thirty million dollars.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#c8102e"
+      }
+    },
+    {
+      "text": "It's a cushion-shaped ruby of 25.59 carats.",
+      "say": "It's a cushion-shaped ruby of twenty-five point five nine carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c8102e",
+        "label": "25.59 carats"
+      }
+    },
+    {
+      "text": "Gem labs say it came from Burma, now Myanmar.",
+      "scene": {
+        "kind": "title",
+        "text": "Burma",
+        "sub": "Now Myanmar"
+      }
+    },
+    {
+      "text": "Its deep red is called pigeon's blood, the most prized ruby red.",
+      "scene": {
+        "kind": "title",
+        "text": "Pigeon's blood",
+        "sub": "The most prized ruby red"
+      }
+    },
+    {
+      "text": "Labs found no sign it was ever heated.",
+      "scene": {
+        "kind": "title",
+        "text": "Not heated",
+        "sub": "No signs, say two labs"
+      }
+    },
+    {
+      "text": "Cartier set it in a platinum ring between two diamonds.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "white",
+        "shape": "cushion",
+        "tone": "#c8102e",
+        "label": "The Cartier ring"
+      }
+    },
+    {
+      "text": "Sotheby's sold it in Geneva on May 12, 2015.",
+      "say": "Sotheby's sold it in Geneva on May twelfth, twenty fifteen.",
+      "scene": {
+        "kind": "title",
+        "text": "Geneva",
+        "sub": "12 May 2015"
+      }
+    },
+    {
+      "text": "The price was 28.25 million Swiss francs.",
+      "say": "The price was twenty-eight point two five million Swiss francs.",
+      "scene": {
+        "kind": "title",
+        "text": "28.25 million",
+        "sub": "Swiss francs"
+      }
+    },
+    {
+      "text": "That was a record for any ruby at the time.",
+      "scene": {
+        "kind": "title",
+        "text": "A record",
+        "sub": "For any ruby, at the time"
+      }
+    },
+    {
+      "text": "Its name comes from a poem by the poet Rumi.",
+      "scene": {
+        "kind": "title",
+        "text": "Rumi",
+        "sub": "A 13th-century poet"
+      }
+    },
+    {
+      "text": "One line reads, \"The ruby and the sunrise are one.\"",
+      "scene": {
+        "kind": "title",
+        "text": "The ruby and the sunrise are one",
+        "sub": "From the poem"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Sunrise Ruby is a 25.59-carat cushion-shaped ruby that gem labs say came from Burma and found no sign of heating. Cartier set it in a platinum ring, and Sotheby's sold it in Geneva in May 2015 for 28.25 million Swiss francs, a record for any ruby at the time. Its name comes from a poem by Rumi.",
+    "hashtags": [
+      "#sunriseruby",
+      "#ruby",
+      "#cartier",
+      "#gemstone",
+      "#rumi"
+    ]
+  },
+  "sources": [
+    "https://sothebys.com/en/auctions/ecatalogue/2014/magnificent-jewels-noble-jewels-ge1502/lot.502.html",
+    "https://www.christies.com.cn/lot/lot-6425718",
+    "https://www.guinnessworldrecords.com/world-records/62548-most-expensive-ruby-per-carat-sold-at-auction",
+    "https://en.wikipedia.org/wiki/Sunrise_Ruby",
+    "https://www.washingtontimes.com/news/2015/may/13/rare-burmese-ruby-sells-for-303-million-at-auction/",
+    "https://pricescope.com/blog/25-carat-sunrise-ruby-sets-new-world-auction-records-sothebys-geneva",
+    "https://4cs.gia.edu/en-us/blog/spring-auction-showcase-historic-rare-gemstones/",
+    "https://www.gulf-times.com/story/434562/tiaras-pearls-and-sunrise-ruby-to-go-on-show-in-doha/amp",
+    "https://antiquesandartireland.com/2015/04/ruby-geneva-sothebys/"
+  ]
+}

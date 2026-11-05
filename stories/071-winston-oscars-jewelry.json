@@ -1,0 +1,149 @@
+{
+  "id": "071-winston-oscars-jewelry",
+  "number": 71,
+  "title": "She borrowed diamonds and won an Oscar",
+  "topic": "harry winston oscar jewelry loan",
+  "music": "music-071.wav",
+  "hook": {
+    "text": "She borrowed diamonds and won an Oscar.",
+    "gold": [
+      "borrowed",
+      "Oscar"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "She borrowed diamonds and won an Oscar.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round"
+      }
+    },
+    {
+      "text": "In March 1944, Jennifer Jones won Best Actress.",
+      "say": "In March nineteen forty-four, Jennifer Jones won Best Actress.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Jennifer Jones",
+        "role": "Best Actress, 1944",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#6a3a5a",
+            "hair": "updo",
+            "hairColor": "#4a2e22",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She won for The Song of Bernadette.",
+      "scene": {
+        "kind": "title",
+        "text": "The Song of Bernadette",
+        "sub": "Her winning film"
+      }
+    },
+    {
+      "text": "That night she wore diamonds lent by Harry Winston.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Harry Winston",
+        "role": "A New York jeweler",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3f",
+            "hair": "slick",
+            "hairColor": "#2a2a2a",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He is credited with starting the Oscar jewelry loan.",
+      "scene": {
+        "kind": "title",
+        "text": "Jewelry loans",
+        "sub": "Credited to Winston"
+      }
+    },
+    {
+      "text": "He became known as the Jeweler to the Stars.",
+      "scene": {
+        "kind": "title",
+        "text": "Jeweler to the Stars",
+        "sub": "His nickname"
+      }
+    },
+    {
+      "text": "Others called him the King of Diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "King of Diamonds",
+        "sub": "Another nickname"
+      }
+    },
+    {
+      "text": "His New York company began in 1932.",
+      "say": "His New York company began in nineteen thirty-two.",
+      "scene": {
+        "kind": "title",
+        "text": "1932",
+        "sub": "Harry Winston, Inc."
+      }
+    },
+    {
+      "text": "In 1958 he mailed the Hope Diamond to the Smithsonian.",
+      "say": "In nineteen fifty-eight he mailed the Hope Diamond to the Smithsonian.",
+      "scene": {
+        "kind": "parcel",
+        "label": "Smithsonian",
+        "stamp": "Registered",
+        "year": "1958"
+      }
+    },
+    {
+      "text": "Today, many stars still wear borrowed jewels on the red carpet.",
+      "scene": {
+        "kind": "title",
+        "text": "Still borrowed",
+        "sub": "On the red carpet"
+      }
+    }
+  ],
+  "post": {
+    "caption": "At the Academy Awards in March 1944, Jennifer Jones won Best Actress wearing diamonds lent by Harry Winston, who is credited with starting the Oscar jewelry loan. He later mailed the Hope Diamond to the Smithsonian, and stars still borrow jewels for the red carpet.",
+    "hashtags": [
+      "#harrywinston",
+      "#oscars",
+      "#jenniferjones",
+      "#redcarpet",
+      "#diamonds"
+    ]
+  },
+  "sources": [
+    "https://www.oscars.org/oscars/ceremonies/1944",
+    "https://en.wikipedia.org/wiki/16th_Academy_Awards",
+    "https://www.cbsnews.com/news/harry-winston-jeweler-to-the-stars",
+    "https://www.sothebys.com/en/articles/icons-of-jewelry-design-harry-winston",
+    "https://www.philstar.com/sunday-life/2014/01/26/1282960/harry-winston-setting-stage-legendary-gems",
+    "https://money.cnn.com/2003/03/04/news/oscars_diamonds/",
+    "https://postalmuseum.si.edu/collections/object-spotlight/hope-diamond-package",
+    "https://torch.si.edu/2019/11/november-10-1958-2",
+    "https://www.marketplace.org/2024/03/08/stars-invest-in-their-red-carpet-look-with-a-loan-from-a-jeweler",
+    "https://www.catawiki.com/en/stories/5907-the-oscars-a-glittering-history-of-necklaces"
+  ]
+}
