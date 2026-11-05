@@ -1,0 +1,148 @@
+{
+  "id": "066-golden-jubilee-diamond",
+  "number": 66,
+  "title": "A brown rough became a 545-carat diamond",
+  "topic": "golden jubilee diamond",
+  "style": "lowpoly",
+  "music": "music-066.wav",
+  "hook": {
+    "text": "A brown rough became a 545-carat diamond.",
+    "gold": [
+      "brown",
+      "545-carat"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A brown rough became a 545-carat diamond.",
+      "say": "A brown rough became a five hundred forty-five carat diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#9a6a3a"
+      }
+    },
+    {
+      "text": "The rough stone came from De Beers' Premier Mine in the mid-1980s.",
+      "say": "The rough stone came from De Beers' Premier Mine in the mid nineteen eighties.",
+      "scene": {
+        "kind": "title",
+        "text": "Premier Mine",
+        "sub": "South Africa, mid-1980s"
+      }
+    },
+    {
+      "text": "It was a brown rough of 755.5 carats.",
+      "say": "It was a brown rough of seven hundred fifty-five point five carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#9a6a3a",
+        "label": "755.5 carats"
+      }
+    },
+    {
+      "text": "De Beers gave it to the master cutter Gabi Tolkowsky.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Gabi Tolkowsky",
+        "role": "Master cutter",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#ece2cc",
+            "hair": "side",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "glasses": "loupe"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He cut it into a yellow-brown cushion of about 545 carats.",
+      "say": "He cut it into a yellow-brown cushion of about five hundred forty-five carats.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Cut and polished",
+        "pieces": [
+          {
+            "shape": "cushion",
+            "carats": 545,
+            "tone": "#c8903a"
+          }
+        ]
+      }
+    },
+    {
+      "text": "That is about 15 carats heavier than the Cullinan I.",
+      "say": "That is about fifteen carats heavier than the Cullinan the First.",
+      "scene": {
+        "kind": "title",
+        "text": "15 carats heavier",
+        "sub": "Than the Cullinan I"
+      }
+    },
+    {
+      "text": "It's named Golden Jubilee for King Bhumibol's 50th year on the throne.",
+      "say": "It's named Golden Jubilee for King Bhumibol's fiftieth year on the throne.",
+      "scene": {
+        "kind": "title",
+        "text": "Golden Jubilee",
+        "sub": "King Bhumibol's 50th year"
+      }
+    },
+    {
+      "text": "Thai businessmen bought it and gave it to him as a gift.",
+      "scene": {
+        "kind": "gift",
+        "stone": "gem",
+        "shape": "cushion",
+        "tone": "#c8903a",
+        "to": "King Bhumibol",
+        "date": "From his subjects"
+      }
+    },
+    {
+      "text": "Pope John Paul II and Thailand's Supreme Patriarch blessed it.",
+      "say": "Pope John Paul the Second and Thailand's Supreme Patriarch blessed it.",
+      "scene": {
+        "kind": "title",
+        "text": "Blessed",
+        "sub": "By a pope and a patriarch"
+      }
+    },
+    {
+      "text": "It's kept in the Royal Thai Palace with the crown jewels.",
+      "scene": {
+        "kind": "title",
+        "text": "Royal Thai Palace",
+        "sub": "With the crown jewels"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A 755.5-carat brown rough from De Beers' Premier Mine was cut by Gabi Tolkowsky into a yellow-brown cushion of about 545 carats, about 15 carats heavier than the Cullinan I. Thai businessmen gave it to King Bhumibol for his 50th year on the throne.",
+    "hashtags": [
+      "#goldenjubileediamond",
+      "#diamond",
+      "#thailand",
+      "#gabitolkowsky",
+      "#debeers"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Golden_Jubilee_Diamond",
+    "https://www.mining-technology.com/features/featurethe-ten-biggest-diamonds-ever-found-4757140/",
+    "https://petragems.com/golden-jubilee-diamond",
+    "https://www.antiquecut.com/",
+    "https://en.israelidiamond.co.il/"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "065-olympic-australis-opal",
+  "number": 65,
+  "title": "A miner found a loaf-sized opal in 1956",
+  "topic": "olympic australis opal",
+  "music": "music-065.wav",
+  "hook": {
+    "text": "A miner found a loaf-sized opal.",
+    "gold": [
+      "loaf-sized",
+      "opal"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A miner found a loaf-sized opal.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#8fd0e6"
+      }
+    },
+    {
+      "text": "In 1956, miner Frank Titheradge was digging at Coober Pedy, South Australia,",
+      "say": "In nineteen fifty-six, miner Frank Titheradge was digging at Coober Pedy, South Australia,",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Frank Titheradge",
+        "role": "Coober Pedy, 1956",
+        "cast": [
+          {
+            "outfit": "miner",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "in the Eight Mile opal field, when he found a huge opal.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Frank Titheradge",
+        "role": "The Eight Mile field",
+        "cast": [
+          {
+            "outfit": "miner",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "surprised",
+            "hat": "cap"
+          }
+        ],
+        "gasp": 0.3
+      }
+    },
+    {
+      "text": "It weighs about 17,000 carats, roughly 3.4 kilograms.",
+      "say": "It weighs about seventeen thousand carats, roughly three point four kilograms.",
+      "scene": {
+        "kind": "title",
+        "text": "17,000 carats",
+        "sub": "About 3.4 kilograms"
+      }
+    },
+    {
+      "text": "It is about 28 centimeters long, like a loaf of bread.",
+      "say": "It is about twenty-eight centimeters long, like a loaf of bread.",
+      "scene": {
+        "kind": "title",
+        "text": "28 centimeters",
+        "sub": "About a loaf of bread"
+      }
+    },
+    {
+      "text": "The Melbourne firm Altmann and Cherny got the stone,",
+      "scene": {
+        "kind": "title",
+        "text": "Altmann and Cherny",
+        "sub": "A Melbourne firm"
+      }
+    },
+    {
+      "text": "and it was never cut.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "John Altmann and Rudi Cherny",
+        "role": "The owners",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3a4a",
+            "hair": "side",
+            "hairColor": "#4a3a2e",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was named for the Olympic Games held in Melbourne that year.",
+      "scene": {
+        "kind": "title",
+        "text": "Olympic Australis",
+        "sub": "Named for the 1956 Games"
+      }
+    },
+    {
+      "text": "Guinness once called it the largest and most valuable gem opal found.",
+      "scene": {
+        "kind": "title",
+        "text": "A Guinness title",
+        "sub": "Once the largest gem opal"
+      }
+    },
+    {
+      "text": "It sits whole in a showroom on Pitt Street in Sydney,",
+      "scene": {
+        "kind": "title",
+        "text": "Pitt Street, Sydney",
+        "sub": "By Circular Quay"
+      }
+    },
+    {
+      "text": "and visitors can ask to see it.",
+      "scene": {
+        "kind": "title",
+        "text": "Ask to see it",
+        "sub": "Olympic Australis"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1956 a miner at Coober Pedy, South Australia, found an opal about the size of a loaf of bread. At about 17,000 carats it was never cut. Named the Olympic Australis for the Melbourne Games, it now sits in a showroom in Sydney.",
+    "hashtags": [
+      "#opal",
+      "#olympicaustralis",
+      "#cooberpedy",
+      "#australia",
+      "#gemstone"
+    ]
+  },
+  "sources": [
+    "https://altmanncherny.com.au/famous",
+    "https://www.altmanncherny.com.au/our-store",
+    "https://gem-a.com/?p=7247",
+    "https://www.opalauctions.com/learn/did-you-know/olympic-australis-worlds-most-famous-opal",
+    "https://en.wikipedia.org/wiki/Olympic_Australis",
+    "https://cooberpedytimes.com/wp-content/uploads/2013/10/coober-pedy-regional-times-24-04-2014.pdf"
+  ]
+}

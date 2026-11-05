@@ -1,0 +1,153 @@
+{
+  "id": "068-star-of-adam-sapphire",
+  "number": 68,
+  "title": "This blue sapphire weighs 1,404 carats",
+  "topic": "star of adam sapphire",
+  "music": "music-068.wav",
+  "hook": {
+    "text": "This blue sapphire weighs 1,404 carats.",
+    "gold": [
+      "sapphire",
+      "1,404"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This blue sapphire weighs 1,404 carats.",
+      "say": "This blue sapphire weighs fourteen hundred four carats.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2a56c6"
+      }
+    },
+    {
+      "text": "In 2015, a gem pit in Ratnapura, Sri Lanka,",
+      "say": "In twenty fifteen, a gem pit in Ratnapura, Sri Lanka,",
+      "scene": {
+        "kind": "title",
+        "text": "Ratnapura",
+        "sub": "Sri Lanka's gem capital"
+      }
+    },
+    {
+      "text": "produced a blue sapphire with a star inside.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a56c6",
+        "label": "Star of Adam"
+      }
+    },
+    {
+      "text": "A local gem trader bought it that September,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The owner",
+        "role": "Stays anonymous",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a4a5a",
+            "hair": "slick",
+            "hairColor": "#1e1a18",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and he has asked to stay anonymous.",
+      "scene": {
+        "kind": "title",
+        "text": "Unnamed",
+        "sub": "The owner's request"
+      }
+    },
+    {
+      "text": "The Gemmological Institute of Colombo certified it at 1,404.49 carats.",
+      "say": "The Gemmological Institute of Colombo certified it at fourteen hundred four point four nine carats.",
+      "scene": {
+        "kind": "title",
+        "text": "1,404.49 carats",
+        "sub": "Certified in Colombo"
+      }
+    },
+    {
+      "text": "Its gemologists say it may be the largest blue star sapphire.",
+      "scene": {
+        "kind": "title",
+        "text": "The largest?",
+        "sub": "Its gemologists' view"
+      }
+    },
+    {
+      "text": "Tiny needle-like crystals inside reflect light into a star.",
+      "scene": {
+        "kind": "title",
+        "text": "Asterism",
+        "sub": "A star made of light"
+      }
+    },
+    {
+      "text": "The owner named it Star of Adam, after a legend",
+      "scene": {
+        "kind": "title",
+        "text": "Star of Adam",
+        "sub": "Named for a legend"
+      }
+    },
+    {
+      "text": "that Adam's tears turned into Sri Lanka's blue sapphires.",
+      "scene": {
+        "kind": "title",
+        "text": "Adam's tears",
+        "sub": "The legend"
+      }
+    },
+    {
+      "text": "At last report, in January 2016, it was still unsold.",
+      "say": "At last report, in January twenty sixteen, it was still unsold.",
+      "scene": {
+        "kind": "title",
+        "text": "Still unsold",
+        "sub": "As of January 2016"
+      }
+    },
+    {
+      "text": "Its seller and the lab's gemologist say it belongs in a museum.",
+      "scene": {
+        "kind": "title",
+        "text": "A museum piece",
+        "sub": "Its seller and the lab"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 2015 a gem pit in Ratnapura, Sri Lanka, produced a blue star sapphire certified at 1,404.49 carats. Its gemologists say it may be the largest blue star sapphire. It's named Star of Adam after a legend that Adam's tears turned into Sri Lanka's blue sapphires.",
+    "hashtags": [
+      "#starofadam",
+      "#sapphire",
+      "#srilanka",
+      "#bluesapphire",
+      "#gemstone"
+    ]
+  },
+  "sources": [
+    "https://www.wptv.com/news/world/sri-lanka-merchant-claims-to-have-biggest-star-blue-sapphire",
+    "https://archives.sundayobserver.lk/2016/01/24/spe01.asp",
+    "https://www.malaymail.com/news/life/2016/01/07/stone-believed-to-be-worlds-largest-blue-star-sapphire-found-in-sri-lanka-v/1036361",
+    "https://www.cam.ac.uk/research/news/opinion-what-science-can-tell-us-about-the-worlds-largest-sapphire",
+    "https://www.gia.edu/gems-gemology/summer-2025-phenomenal-gemstones",
+    "https://ft.lk/Front-Page/sri-lankan-seeks-300-million-for-rare-blue-star-sapphire/44-518221"
+  ]
+}

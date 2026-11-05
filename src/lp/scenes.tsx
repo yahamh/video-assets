@@ -109,7 +109,7 @@ const piece = (show: string, t: number, shape: string, tone: string | undefined,
     case "round-pearl":
       return PearlLp({ scale: 0.9 }, tone);
     default:
-      return Rough({ rot: [t * 0.25 * spin, t * 0.45 * spin, 0.2], scale: 1.05 });
+      return Rough({ rot: [t * 0.25 * spin, t * 0.45 * spin, 0.2], scale: 1.05 }, tone);
   }
 };
 
@@ -624,7 +624,7 @@ export const LpReveal: React.FC<SceneProps> = ({ t, p }) => {
               ? PearDrop({ rot: [0, t * 0.5, 0], scale: 0.55 }, tone)
               : item === "gem" || item === "glass"
                 ? Stone(shape, tone, { rot: [0.25, Math.sin(t) * 0.4, 0], scale: 0.55 })
-                : Rough({ rot: [t * 0.3, t * 0.5, 0.2], scale: 0.6 }),
+                : Rough({ rot: [t * 0.3, t * 0.5, 0.2], scale: 0.6 }, tone),
           { pos: [0, 0.2 + rise, 0.1] },
         );
   if (item === "glass") inside.forEach((o) => (o.mat = { ...o.mat, sparkle: 0.2 }));

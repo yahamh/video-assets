@@ -1,0 +1,192 @@
+{
+  "id": "067-mood-ring-1975",
+  "number": 67,
+  "title": "Mood rings sold $20 million in 1975",
+  "topic": "mood ring 1975",
+  "style": "paper",
+  "plate": "The Mood Ring",
+  "music": "music-067.wav",
+  "hook": {
+    "text": "Mood rings sold $20 million in 1975.",
+    "gold": [
+      "Mood rings",
+      "$20 million"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mood rings sold $20 million in 1975.",
+      "say": "Mood rings sold twenty million dollars in nineteen seventy-five.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "round",
+        "tone": "#1c1f3a",
+        "toneTo": "#2a8fd8",
+        "metal": "white",
+        "prongs": 4,
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Josh Reynolds and Maris Ambats of New York",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Reynolds and Ambats",
+        "role": "New York, 1975",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#5a4a3a",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a5a6a",
+            "hair": "short",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "are credited with launching the mood ring in 1975.",
+      "say": "are credited with launching the mood ring in nineteen seventy-five.",
+      "scene": {
+        "kind": "title",
+        "text": "The mood ring",
+        "sub": "Launched in 1975",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Reynolds was a stressed Wall Street worker studying biofeedback.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Josh Reynolds",
+        "role": "A stressed Wall Street worker",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#5a4a3a",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "worried"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The stone was heat-sensitive liquid crystal sealed in quartz or glass.",
+      "scene": {
+        "kind": "title",
+        "text": "Liquid crystal",
+        "sub": "Sealed in quartz or glass",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "It reacted to the warmth of a finger.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "round",
+        "tone": "#1c1f3a",
+        "toneTo": "#2a8fd8",
+        "metal": "white",
+        "label": "Warmer, bluer",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Black was said to mean stress, and blue meant calm.",
+      "scene": {
+        "kind": "title",
+        "text": "Black or blue",
+        "sub": "Stress or calm, it was said",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "The first rings were silver-plated and cost $45.",
+      "say": "The first rings were silver-plated and cost forty-five dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$45",
+        "sub": "Silver-plated, 1975",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Shoppers stormed the jewelry counter at Bonwit Teller in New York.",
+      "scene": {
+        "kind": "title",
+        "text": "Bonwit Teller",
+        "sub": "New York, 1975",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "By the end of the year, $20 million worth had sold.",
+      "say": "By the end of the year, twenty million dollars worth had sold.",
+      "scene": {
+        "kind": "title",
+        "text": "$20 million",
+        "sub": "By the end of 1975",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The fad faded within two years.",
+      "scene": {
+        "kind": "title",
+        "text": "1977",
+        "sub": "The craze had faded",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 2006, Google even added a mood ring button to its toolbar.",
+      "say": "In two thousand six, Google even added a mood ring button to its toolbar.",
+      "scene": {
+        "kind": "title",
+        "text": "Google, 2006",
+        "sub": "A mood ring button",
+        "color": "#c8dc3c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1975 Josh Reynolds and Maris Ambats of New York are credited with launching the mood ring: heat-sensitive liquid crystal that reacted to a finger's warmth. The $45 rings sold $20 million worth by the end of the year, and the fad faded within two years.",
+    "hashtags": [
+      "#moodring",
+      "#1970s",
+      "#jewelryhistory",
+      "#fadjewelry",
+      "#liquidcrystal"
+    ]
+  },
+  "sources": [
+    "https://www.atlasobscura.com/articles/was-the-mood-ring-a-gateway-drug-to-an-era-of-self-obsession",
+    "https://www.history.com/articles/mood-ring-colors-1970s",
+    "https://en.wikipedia.org/wiki/Mood_ring",
+    "https://www.encyclopedia.com/history/culture-magazines/mood-rings",
+    "https://www.grandforksherald.com/lifestyle/why-this-might-be-the-perfect-christmas-gift-50-years-later",
+    "https://googleblog.blogspot.com/2006/01/all-buttoned-up.html"
+  ]
+}
