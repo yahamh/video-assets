@@ -5,7 +5,7 @@ import { Cam, Obj, V3, onFace, place, rnd } from "./engine";
 import { Backdrop, LightCone, Scene3D } from "./Scene3D";
 import { Chest, Cushion, FabergeEgg, GOLD as GOLD_M, GOLD_DARK, LookLp, PearDrop, PersonLp, PearlLp, Rough, Stone, group } from "./models";
 import { box, ground, lathe, prism } from "./mesh";
-import { ParcelLp } from "./pieces";
+import { GiftBox, ParcelLp } from "./pieces";
 
 // The story scenes in low poly (ali, 29 Oct 2026): the same scenes and options as src/scenes, drawn as flat-shaded 3D.
 
@@ -116,6 +116,7 @@ const piece = (show: string, t: number, shape: string, tone: string | undefined,
 // ------------------------------------------------------------------ hook
 
 // The opening shot: the payoff, big and already moving. Options as in scenes/Hook.tsx; sandwich uses the drawn scene.
+// Also show "box": a closed gift box with a ribbon and bow (tone is its color).
 export const LpHook: React.FC<SceneProps> = ({ t, p }) => {
   const show = str(p.show, "rough");
   const shape = str(p.shape, "cushion");
@@ -165,6 +166,9 @@ export const LpHook: React.FC<SceneProps> = ({ t, p }) => {
     );
   } else if (show === "chest") {
     objs = [...Chest(0.75, { pos: [0, -1.0, 0], rot: [0, -0.25 + Math.sin(t * 0.6) * 0.08, 0], scale: 0.9 }), ...piece(tone ? "gem" : "rough", t, "round", tone, 0.6).map((o) => ({ ...o, mesh: { ...o.mesh, v: o.mesh.v.map(([x, y, z]) => [x * 0.55, y * 0.55 + 0.25 + bob, z * 0.55] as [number, number, number]) } }))];
+  } else if (show === "box") {
+    // a closed gift box with a ribbon and a bow, turning (tone is the box's color)
+    objs = GiftBox(tone ?? "#81d8d0", { pos: [0, -0.1 + bob, 0], rot: [0.3, Math.sin(t * 0.9) * 0.35, 0], scale: 0.8 });
   } else objs = piece(show, t, shape, tone).map((o) => ({ ...o, mesh: { ...o.mesh, v: o.mesh.v.map(([x, y, z]) => [x, y + bob, z] as [number, number, number]) } }));
   const pulse = 0.85 + 0.15 * Math.sin(t * 5.3);
   return (

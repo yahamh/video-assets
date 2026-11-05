@@ -349,6 +349,59 @@ export const Ring: React.FC<{ s: number; shape?: string; tone?: string; metalNam
   );
 };
 
+// Cartier's Trinity: three plain bands linked together, one in white gold or platinum, one in rose gold and one in yellow gold.
+export const Trinity: React.FC<{ s: number; t?: number }> = ({ s, t = 0 }) => {
+  const rx = s * 0.7, ry = s * 0.26, w = s * 0.12;
+  const bands: [string, number][] = [["white", -62], ["rose", 0], ["yellow", 62]];
+  const sway = Math.sin(t * 1.6) * 4;
+  const arc = (rot: number, light: string, dark: string, over: boolean) => (
+    <g transform={`rotate(${rot + sway})`}>
+      {!over && <ellipse cx={0} cy={0} rx={rx} ry={ry} fill="none" stroke={dark} strokeWidth={w} />}
+      {over && <path d={`M${-rx} 0 A${rx} ${ry} 0 0 0 ${rx} 0`} fill="none" stroke={light} strokeWidth={w} />}
+      {over && <path d={`M${-rx * 0.78} ${ry * 0.55} A${rx} ${ry} 0 0 0 ${rx * 0.3} ${ry * 0.98}`} fill="none" stroke={CREAM} strokeWidth={w * 0.14} opacity={0.6} strokeLinecap="round" />}
+    </g>
+  );
+  return (
+    <g transform={`translate(0 ${-s * 0.05})`}>
+      {bands.map(([m, r]) => {
+        const [l, d] = metal(m);
+        return <g key={`b${r}`}>{arc(r, l, d, false)}</g>;
+      })}
+      {bands.map(([m, r]) => {
+        const [l, d] = metal(m);
+        return <g key={`f${r}`}>{arc(r, l, d, true)}</g>;
+      })}
+    </g>
+  );
+};
+
+// A bangle bracelet seen from a little above the front: a wide flat band with screw heads round it (Cartier's Love).
+export const Bracelet: React.FC<{ s: number; metalName?: string; t?: number }> = ({ s, metalName = "yellow", t = 0 }) => {
+  const [m, md] = metal(metalName);
+  const rx = s * 0.8, ry = s * 0.42, w = s * 0.26;
+  const screws = [-0.78, -0.45, -0.15, 0.15, 0.45, 0.78];
+  return (
+    <g transform={`translate(0 ${-s * 0.05})`}>
+      <ellipse cx={0} cy={0} rx={rx} ry={ry} fill="none" stroke={md} strokeWidth={w} />
+      <path d={`M${-rx} 0 A${rx} ${ry} 0 0 0 ${rx} 0`} fill="none" stroke={m} strokeWidth={w} />
+      <path d={`M${-rx * 0.8} ${ry * 0.55} A${rx} ${ry} 0 0 0 ${rx * 0.3} ${ry * 0.98}`} fill="none" stroke={CREAM} strokeWidth={w * 0.12} opacity={0.6} strokeLinecap="round" />
+      {screws.map((k, i) => {
+        const a = Math.PI / 2 + k * 1.15;
+        const x = Math.cos(a) * rx, y = Math.sin(a) * ry;
+        const big = Math.abs(k) < 0.2 ? 1.18 : 1;
+        return (
+          <g key={i} transform={`translate(${x.toFixed(1)} ${y.toFixed(1)}) rotate(${(a * 180) / Math.PI - 90 + (i % 2 ? 24 : -18)})`}>
+            <circle r={w * 0.4 * big} fill={md} />
+            <circle r={w * 0.3 * big} fill={m} />
+            <rect x={-w * 0.3 * big} y={-w * 0.035} width={w * 0.6 * big} height={w * 0.07} fill={md} />
+          </g>
+        );
+      })}
+      <circle cx={-rx * 0.2} cy={-ry * 0.96} r={w * 0.07 + Math.sin(t * 3) * 0.5} fill={CREAM} opacity={0.5} />
+    </g>
+  );
+};
+
 // A Claddagh ring: a band with two hands holding a crowned heart.
 export const Claddagh: React.FC<{ s: number; metalName?: string; t?: number }> = ({ s, metalName = "yellow", t = 0 }) => {
   const [m, md] = metal(metalName);
@@ -744,7 +797,7 @@ export const Hen: React.FC<{ s: number; t?: number }> = ({ s, t = 0 }) => {
 };
 
 // One of the things a story shows, by name: gem, glass, rough, pearl, round-pearl, egg (shape "plain" for no gold
-// bands), opal, ring (shape "plain" for a plain wedding band), claddagh, brooch (shape "mystery": a flower covered in stones), carrot, clam, hen, tiara, coronet (a tiara
+// bands), opal, ring (shape "plain" for a plain wedding band, "trinity" for three linked bands in three golds), bracelet, claddagh, brooch (shape "mystery": a flower covered in stones), carrot, clam, hen, tiara, coronet (a tiara
 // with a stone on every peak), empty.
 export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string; tone?: string; metalName?: string; id?: string; prongs?: number; garden?: boolean }> = ({ kind, s, t, shape, tone, metalName, id, prongs, garden }) => {
   switch (kind) {
@@ -765,7 +818,10 @@ export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string
     case "opal":
       return <Opal s={s * 0.9} t={t} dark={tone === "dark"} />;
     case "ring":
+      if (shape === "trinity") return <Trinity s={s * 0.95} t={t} />;
       return <Ring s={s * 1.1} shape={shape === "plain" ? "round" : shape ?? "round"} tone={tone} metalName={metalName} t={t} prongs={prongs} plain={shape === "plain"} />;
+    case "bracelet":
+      return <Bracelet s={s * 0.95} metalName={metalName} t={t} />;
     case "claddagh":
       return <Claddagh s={s * 1.1} metalName={metalName} t={t} />;
     case "brooch":

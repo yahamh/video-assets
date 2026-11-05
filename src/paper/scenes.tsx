@@ -494,7 +494,7 @@ export const PJourney: React.FC<SceneProps> = ({ t, dur, p }) => {
 
 // ------------------------------------------------------------------ gift
 
-const KINDS = ["rough", "egg", "pearl", "round-pearl", "opal", "ring", "claddagh", "brooch", "carrot", "glass", "clam", "hen", "tiara", "coronet"];
+const KINDS = ["rough", "egg", "pearl", "round-pearl", "opal", "ring", "bracelet", "claddagh", "brooch", "carrot", "glass", "clam", "hen", "tiara", "coronet"];
 
 // A gift on a cushion with a handwritten tag. Options as in scenes/Gift.tsx: to and date (the tag's two lines), stone
 // ("rough", "egg", "ring", "pearl", "clam", "hen", "tiara", "coronet" or a cut shape such as "pear"), tone; shape

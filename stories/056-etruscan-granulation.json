@@ -1,0 +1,163 @@
+{
+  "id": "056-etruscan-granulation",
+  "number": 56,
+  "title": "Etruscan gold grains were under a millimeter",
+  "topic": "etruscan granulation",
+  "music": "music-056.wav",
+  "hook": {
+    "text": "Etruscan gold grains were under one millimeter.",
+    "gold": [
+      "grains",
+      "millimeter"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Etruscan gold grains were under one millimeter.",
+      "scene": {
+        "kind": "hook",
+        "show": "granules"
+      }
+    },
+    {
+      "text": "Etruscan goldsmiths fused them onto gold with no visible solder.",
+      "say": "Etruscan goldsmiths fused them onto gold with no visible solder.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "An Etruscan goldsmith",
+        "role": "About 650 BC",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#8a6a4a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "glasses": "loupe"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A brooch from about 650 BC has lions framed in tiny grains.",
+      "say": "A brooch from about six fifty B C has lions framed in tiny grains.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "tone": "#f4dc9b",
+        "label": "Parade brooch"
+      }
+    },
+    {
+      "text": "It came from an Etruscan tomb at Cerveteri, near Rome.",
+      "scene": {
+        "kind": "title",
+        "text": "Cerveteri",
+        "sub": "An Etruscan tomb near Rome"
+      }
+    },
+    {
+      "text": "Modern goldsmiths were baffled by how the Etruscans did it,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A modern goldsmith",
+        "role": "Baffled",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a5a6a",
+            "hair": "side",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "worried",
+            "glasses": "round"
+          }
+        ]
+      }
+    },
+    {
+      "text": "until about 1919, when Johann Michael Wilm got it working again.",
+      "say": "until about nineteen nineteen, when Johann Michael Wilm got it working again.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Johann Michael Wilm",
+        "role": "About 1919",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#ece2cc",
+            "hair": "short",
+            "hairColor": "#4a3a2e",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache",
+            "glasses": "loupe"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The usual explanation is a copper glue that fuses when heated.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper glue",
+        "sub": "The usual explanation"
+      }
+    },
+    {
+      "text": "Another German goldsmith, Elisabeth Treskow, mastered it around 1930.",
+      "say": "Another German goldsmith, Elisabeth Treskow, mastered it around nineteen thirty.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Elisabeth Treskow",
+        "role": "About 1930",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#d8c8b0",
+            "hair": "updo",
+            "hairColor": "#5a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "glasses": "loupe"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The Etruscan brooch is on view in the Vatican today.",
+      "scene": {
+        "kind": "title",
+        "text": "Vatican Museums",
+        "sub": "Gregorian Etruscan Museum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Etruscan goldsmiths fused gold grains under a millimeter wide onto gold with no visible solder. Modern goldsmiths were baffled until about 1919. A brooch from about 650 BC with lions framed in grains is in the Vatican.",
+    "hashtags": [
+      "#etruscan",
+      "#granulation",
+      "#goldsmith",
+      "#ancientjewelry",
+      "#vatican"
+    ]
+  },
+  "sources": [
+    "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-gregoriano-etrusco/sala-ii--tomba-regolini-galassi/grande-fibula-da-parata.html",
+    "https://smarthistory.org/regolini-galassi-tomb-and-parade-fibula",
+    "https://makk.de/en/visit/exhibitions/the-fascination-of-jewellery/the-allure-of-granulation",
+    "https://collections.vam.ac.uk/item/O73756/brooch-treskow-elizabeth",
+    "https://www.jckonline.com/magazine-article/granulation-reviving-an-ancient-technique/"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "063-tiffany-blue-box",
+  "number": 63,
+  "title": "You can't buy a Tiffany Blue Box",
+  "topic": "tiffany blue box",
+  "style": "lowpoly",
+  "music": "music-063.wav",
+  "hook": {
+    "text": "You can't buy a Tiffany Blue Box.",
+    "gold": [
+      "buy",
+      "Blue Box"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "You can't buy a Tiffany Blue Box.",
+      "scene": {
+        "kind": "hook",
+        "show": "box",
+        "tone": "#81d8d0"
+      }
+    },
+    {
+      "text": "Charles Tiffany and John Young opened a New York store in 1837.",
+      "say": "Charles Tiffany and John Young opened a New York store in eighteen thirty-seven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Tiffany and Young",
+        "role": "New York, 1837",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#4a3a2e",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a3a2e",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It sold stationery and fancy goods.",
+      "scene": {
+        "kind": "title",
+        "text": "Stationery",
+        "sub": "And fancy goods"
+      }
+    },
+    {
+      "text": "In 1845, Tiffany published its first mail order catalogue, the Blue Book.",
+      "say": "In eighteen forty-five, Tiffany published its first mail order catalogue, the Blue Book.",
+      "scene": {
+        "kind": "title",
+        "text": "The Blue Book",
+        "sub": "The first catalogue, 1845"
+      }
+    },
+    {
+      "text": "Tiffany says its founder chose a robin's-egg blue for the cover.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "white",
+        "shape": "round",
+        "velvet": "#81d8d0",
+        "label": "Robin's-egg blue"
+      }
+    },
+    {
+      "text": "Nobody knows for sure why he picked that color.",
+      "scene": {
+        "kind": "title",
+        "text": "Why blue",
+        "sub": "Nobody knows for sure"
+      }
+    },
+    {
+      "text": "Tiffany Blue was registered as a color trademark in 1998.",
+      "say": "Tiffany Blue was registered as a color trademark in nineteen ninety-eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1998",
+        "sub": "A color trademark"
+      }
+    },
+    {
+      "text": "In 2001, Pantone made a custom shade for Tiffany,",
+      "say": "In two thousand one, Pantone made a custom shade for Tiffany,",
+      "scene": {
+        "kind": "title",
+        "text": "2001",
+        "sub": "Made by Pantone"
+      }
+    },
+    {
+      "text": "named 1837 Blue, after the year the store opened.",
+      "say": "named eighteen thirty-seven Blue, after the year the store opened.",
+      "scene": {
+        "kind": "title",
+        "text": "1837 Blue",
+        "sub": "For the founding year"
+      }
+    },
+    {
+      "text": "Tiffany says the box comes only with a purchase.",
+      "scene": {
+        "kind": "title",
+        "text": "Only with a purchase",
+        "sub": "Tiffany's own rule"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tiffany says a Blue Box is provided only with a purchase. The robin's-egg blue was chosen for the cover of its 1845 Blue Book catalogue. Tiffany Blue became a registered color trademark in 1998, and Pantone made its custom shade, 1837 Blue, in 2001.",
+    "hashtags": [
+      "#tiffany",
+      "#tiffanyblue",
+      "#bluebox",
+      "#jewelryhistory",
+      "#tiffanyandco"
+    ]
+  },
+  "sources": [
+    "https://www.tiffany.com/world-of-tiffany/blue-box-story/",
+    "https://press.tiffany.com/?p=197",
+    "https://press.tiffany.com/our-story/tiffanys-legacy-pioneer-of-american-luxury/?pdf=231",
+    "https://findingaids.library.nyu.edu/nyhs/pr433_tiffany_stationery",
+    "https://www.tiffany.com/faq/shopping-faq/is-the-tiffany-blue-box-available-for-purchase",
+    "https://www.irishtimes.com/life-and-style/homes-and-property/interiors/design-moment-tiffany-blue-1845-1.3773501"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "059-snettisham-hoard",
+  "number": 59,
+  "title": "Plowed-up gold looked like a brass bedstead",
+  "topic": "snettisham hoard",
+  "music": "music-059.wav",
+  "hook": {
+    "text": "Plowed-up gold looked like a brass bedstead.",
+    "gold": [
+      "gold",
+      "bedstead"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Plowed-up gold looked like a brass bedstead.",
+      "scene": {
+        "kind": "hook",
+        "show": "torc"
+      }
+    },
+    {
+      "text": "In November 1948, Ray Williamson was plowing a hill in Norfolk,",
+      "say": "In November nineteen forty-eight, Ray Williamson was plowing a hill in Norfolk,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Ray Williamson",
+        "role": "Snettisham, Norfolk",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and turned up what he took for a brass bedstead.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Ray Williamson",
+        "role": "A brass bedstead",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "surprised",
+            "hat": "cap"
+          }
+        ],
+        "gasp": 0.3
+      }
+    },
+    {
+      "text": "Experts at the Norwich museum saw that it was Iron Age gold.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A Norwich museum expert",
+        "role": "Iron Age gold",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a5a6a",
+            "hair": "side",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "glasses": "round",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was four gold neck rings, called torcs.",
+      "scene": {
+        "kind": "title",
+        "text": "Torcs",
+        "sub": "Gold neck rings"
+      }
+    },
+    {
+      "text": "In 1950, another plowman, Tom Rout, found the Great Torc.",
+      "say": "In nineteen fifty, another plowman, Tom Rout, found the Great Torc.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Tom Rout",
+        "role": "1950",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a6a5a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "proud",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It weighs over a kilogram and is twisted from 64 wires.",
+      "say": "It weighs over a kilogram and is twisted from sixty-four wires.",
+      "scene": {
+        "kind": "title",
+        "text": "64 wires",
+        "sub": "Eight coils, over a kilogram"
+      }
+    },
+    {
+      "text": "In 1990, metal detectorist Charles Hodder found more on the same hill.",
+      "say": "In nineteen ninety, metal detectorist Charles Hodder found more on the same hill.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Charles Hodder",
+        "role": "Metal detectorist, 1990",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a5a6a",
+            "hair": "short",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "hat": "cap",
+            "prop": "lantern"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The site has at least 14 hoards and over 60 complete torcs.",
+      "say": "The site has at least fourteen hoards and over sixty complete torcs.",
+      "scene": {
+        "kind": "title",
+        "text": "14 hoards",
+        "sub": "Over 60 complete torcs"
+      }
+    },
+    {
+      "text": "The Great Torc is on display at the British Museum today.",
+      "scene": {
+        "kind": "title",
+        "text": "British Museum",
+        "sub": "The Great Torc, Room 50"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1948 a man plowing a hill at Snettisham, in Norfolk, turned up what he took for a brass bedstead. It was Iron Age gold. The site now has at least 14 hoards and over 60 complete torcs, and the Great Torc is in the British Museum.",
+    "hashtags": [
+      "#snettisham",
+      "#ironage",
+      "#goldtorc",
+      "#britishmuseum",
+      "#archaeology"
+    ]
+  },
+  "sources": [
+    "https://archaeology.co.uk/articles/features/fields-of-gold-understanding-the-snettisham-hoards.htm",
+    "https://bigbookoftorcs.com/2020/09/22/thoughts-on-the-grotesque-torc/",
+    "https://www.explorewestnorfolk.co.uk/trails/ken-hill-snettisham-walk-39/",
+    "https://museumcrush.org/torcs-from-the-snettisham-hoard-return-home-to-north-norfolk/",
+    "https://www.britishmuseum.org/collection/object/H_1951-0402-2",
+    "https://www.arch.cam.ac.uk/node/2051429"
+  ]
+}

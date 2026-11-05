@@ -7,8 +7,8 @@ import { SceneProps, num, str } from "./types";
 // before a word is heard. The story's hook text sits above it (see HookText in Frame.tsx).
 // Options: show ("parcel": an open parcel with the stone rising out of it, "rough", "gem", "pearl" (a pear-shaped pearl),
 // "egg" (a ribbed gold Easter egg on a stand), "sandwich" (half eaten), "coins" (three stacks of gold coins growing, one
-// spinning above them), "nugget" (a lumpy gold nugget turning slowly), "granules" (a gold disc that fills with tiny gold
-// grains, ring by ring: granulation), "chest"), shape and tone (for gem; tone for pearl), label (address on the
+// spinning above them), "nugget" (a lumpy gold nugget turning slowly; tone "platinum" makes it a pale platinum one), "granules" (a gold disc that fills with tiny gold
+// grains, ring by ring: granulation), "torc" (a twisted gold neck ring, open at the front, turning slowly), "chest"), shape and tone (for gem; tone for pearl), label (address on the
 // parcel), stamp (red word on the parcel or chest), halo (a colour for the light around the stone instead of gold,
 // for a stone that glows, like "#ff6a2a").
 export const Hook: React.FC<SceneProps> = ({ t, p }) => {
@@ -60,19 +60,23 @@ export const Hook: React.FC<SceneProps> = ({ t, p }) => {
     </g>
   );
   // A gold nugget: a lumpy outline cut into light and dark planes, turning a little.
+  const plat = tone === "platinum";
+  const NG = plat ? "#b9c4cd" : GOLD;
+  const NL = plat ? "#e8eef2" : GOLD_LIGHT;
+  const ND = plat ? "#7b8791" : GOLD_DARK;
   const nuggetPlanes: [string, string][] = [
-    ["-300,60 -250,-80 -130,-160 -90,-20 -200,70", GOLD],
-    ["-250,-80 -130,-160 20,-200 -20,-60 -90,-20", GOLD_LIGHT],
-    ["20,-200 170,-150 150,-30 -20,-60", GOLD],
-    ["170,-150 290,-50 310,80 150,-30", GOLD_DARK],
-    ["-90,-20 -20,-60 150,-30 120,110 -60,100", GOLD_LIGHT],
-    ["-200,70 -90,-20 -60,100 -150,180 -260,150", GOLD_DARK],
-    ["-60,100 120,110 40,200 -150,180", GOLD],
-    ["150,-30 310,80 220,170 120,110", GOLD],
+    ["-300,60 -250,-80 -130,-160 -90,-20 -200,70", NG],
+    ["-250,-80 -130,-160 20,-200 -20,-60 -90,-20", NL],
+    ["20,-200 170,-150 150,-30 -20,-60", NG],
+    ["170,-150 290,-50 310,80 150,-30", ND],
+    ["-90,-20 -20,-60 150,-30 120,110 -60,100", NL],
+    ["-200,70 -90,-20 -60,100 -150,180 -260,150", ND],
+    ["-60,100 120,110 40,200 -150,180", NG],
+    ["150,-30 310,80 220,170 120,110", NG],
   ];
   const nugget = (
     <g transform={`translate(540 ${cy - 10 + bob}) rotate(${turn * 4}) scale(${size / 560})`}>
-      <path d="M-300 60 L-250 -80 L-130 -160 L20 -200 L170 -150 L290 -50 L310 80 L220 170 L40 200 L-150 180 L-260 150Z" fill={GOLD} />
+      <path d="M-300 60 L-250 -80 L-130 -160 L20 -200 L170 -150 L290 -50 L310 80 L220 170 L40 200 L-150 180 L-260 150Z" fill={NG} />
       {nuggetPlanes.map(([pts, c], i) => (
         <polygon key={i} points={pts} fill={c} stroke="#0a0705" strokeWidth={3} strokeLinejoin="round" opacity={0.96} />
       ))}
@@ -112,8 +116,48 @@ export const Hook: React.FC<SceneProps> = ({ t, p }) => {
       <g transform={`translate(0 ${bob * 0.4})`}>{grains}</g>
     </g>
   );
+  // A torc: a twisted gold neck ring, open at the front with a ball at each end, turning slowly.
+  const torcTilt = 0.84 + 0.16 * Math.cos(t * 1.1);
+  const torcRx = 330;
+  const torcRy = 300 * torcTilt;
+  const torcGap = 0.3;
+  const torcAt = (a: number): [number, number] => [540 + torcRx * Math.cos(a), cy + 20 + bob * 0.5 + torcRy * Math.sin(a)];
+  const torcA0 = -Math.PI / 2 + torcGap;
+  const torcA1 = (3 * Math.PI) / 2 - torcGap;
+  const torcPts = Array.from({ length: 73 }, (_, i) => torcAt(torcA0 + ((torcA1 - torcA0) * i) / 72));
+  const torcPath = "M" + torcPts.map(([x, y]) => `${x.toFixed(1)} ${y.toFixed(1)}`).join(" L");
+  const torcTwist = Array.from({ length: 56 }, (_, i) => {
+    const a = torcA0 + ((torcA1 - torcA0) * (i + 0.5)) / 56;
+    const [x, y] = torcAt(a);
+    const tx = -torcRx * Math.sin(a), ty = torcRy * Math.cos(a);
+    const tl = Math.hypot(tx, ty);
+    const nx = ty / tl, ny = -tx / tl;
+    const ux = tx / tl, uy = ty / tl;
+    return <line key={i} x1={x - nx * 34 - ux * 10} y1={y - ny * 34 - uy * 10} x2={x + nx * 34 + ux * 10} y2={y + ny * 34 + uy * 10} stroke={GOLD_DARK} strokeWidth={5} strokeLinecap="round" />;
+  });
+  const torcEnds = [torcA0, torcA1].map((a, i) => {
+    const [x, y] = torcAt(a);
+    return (
+      <g key={i}>
+        <circle cx={x} cy={y} r={56} fill={GOLD} stroke="#0a0705" strokeWidth={5} />
+        <circle cx={x} cy={y} r={36} fill="none" stroke={GOLD_DARK} strokeWidth={5} />
+        <circle cx={x - 14} cy={y - 16} r={11} fill="#fff6dc" opacity={0.9} />
+      </g>
+    );
+  });
+  const torc = (
+    <g>
+      <path d={torcPath} fill="none" stroke="#0a0705" strokeWidth={90} strokeLinecap="round" />
+      <path d={torcPath} fill="none" stroke={GOLD} strokeWidth={76} strokeLinecap="round" />
+      <path d={torcPath} fill="none" stroke={GOLD_LIGHT} strokeWidth={22} strokeLinecap="round" opacity={0.75} transform="translate(-6 -10)" />
+      {torcTwist}
+      {torcEnds}
+    </g>
+  );
   const stone =
-    show === "granules" ? (
+    show === "torc" ? (
+      torc
+    ) : show === "granules" ? (
       granules
     ) : show === "nugget" ? (
       nugget

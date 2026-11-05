@@ -138,7 +138,7 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 
 | kind | what it shows |
 | --- | --- |
-| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl, a gold Easter egg; `halo` for a stone that glows; in the dark drawing also `coins` (stacks of gold coins), `nugget` and `granules` (a gold disc filling with tiny grains)) |
+| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl, a gold Easter egg; `halo` for a stone that glows; in the dark drawing also `coins` (stacks of gold coins), `nugget` (`tone: "platinum"` for a pale one), `granules` (a gold disc filling with tiny grains) and `torc` (a twisted gold neck ring); in low poly also `box` (a closed gift box with ribbon and bow, `tone` its color)) |
 | cast | 1 to 3 people of the story in a setting (mine, ship, palace, workshop, street, study, vault, plain), with a name card. Looks in `src/people/Person.tsx` (`mask: true` covers nose and mouth) |
 | parcel | a plain parcel under a light; a stamp can slam on |
 | mine | an open mine at night, the rough stone, a carat count |
@@ -164,7 +164,7 @@ each scene's paper version is in `src/paper/scenes.tsx` (listed in `registry.ts`
   hen on a nest), `tiara` or `coronet` (a stone on every peak); `shape: "plain"` for a plain egg; `toneTo` makes the
   stone change color from `tone` to `toneTo` and back (alexandrite). `reveal` takes `toneTo` too. `show` can also
   be `claddagh` (the Irish ring) or `brooch` (`shape: "mystery"` for a flower covered in stones with no metal showing);
-  `show: "ring"` with `shape: "plain"` is a plain wedding band; `garden: true` on a `gem` (hook or reveal) draws
+  `show: "ring"` with `shape: "plain"` is a plain wedding band and `shape: "trinity"` three linked bands in white, rose and yellow gold; `bracelet` (a wide gold bangle with screw heads; also an item in `reveal` and `gift`); `garden: true` on a `gem` (hook or reveal) draws
   fern-like inclusions inside the stone (an emerald's garden).
 - `crown`: `sceptre: false` shows the crown alone.
 - `mine`: `ground: "field"` for a plowed field instead of a hill; leave out `carats` and set `zoomAt` past 1 for

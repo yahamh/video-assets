@@ -1,0 +1,179 @@
+{
+  "id": "061-cartier-trinity",
+  "number": 61,
+  "title": "Cartier's Trinity ring was named by Vogue",
+  "topic": "cartier trinity ring",
+  "style": "paper",
+  "plate": "Cartier Trinity",
+  "theme": "mint",
+  "music": "music-061.wav",
+  "hook": {
+    "text": "Cartier's Trinity ring was named by Vogue.",
+    "gold": [
+      "Trinity",
+      "Vogue"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier's Trinity ring was named by Vogue.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "trinity",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Louis Cartier designed the ring in 1924 as three linked bands,",
+      "say": "Louis Cartier designed the ring in nineteen twenty-four as three linked bands,",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Louis Cartier",
+        "role": "1924",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "one in platinum, one in rose gold and one in yellow gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "trinity",
+        "label": "Three linked bands",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Cartier's archive called it the three-band, three-gold ring.",
+      "scene": {
+        "kind": "title",
+        "text": "Three-band, three-gold",
+        "sub": "Cartier's own name for it",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The name Trinity first appeared in American Vogue.",
+      "scene": {
+        "kind": "title",
+        "text": "Trinity",
+        "sub": "Named by American Vogue",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Jean Cocteau became its most famous wearer,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Jean Cocteau",
+        "role": "Poet and artist",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3a46",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "sly"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "with two stacked on his left little finger.",
+      "scene": {
+        "kind": "title",
+        "text": "Left little finger",
+        "sub": "Two Trinity rings stacked",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Some say he asked Cartier to make it,",
+      "scene": {
+        "kind": "title",
+        "text": "A commission",
+        "sub": "What some say",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "but Cartier's heritage director says it was a stock design,",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Cartier's heritage director",
+        "role": "Pierre Rainero",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a5a6a",
+            "hair": "side",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "glasses": "round"
+          }
+        ],
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "with no record of Cocteau buying one before the early 1930s.",
+      "say": "with no record of Cocteau buying one before the early nineteen thirties.",
+      "scene": {
+        "kind": "title",
+        "text": "Early 1930s",
+        "sub": "The first record of Cocteau",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Cartier celebrated its 100th birthday in 2024.",
+      "say": "Cartier celebrated its hundredth birthday in twenty twenty-four.",
+      "scene": {
+        "kind": "title",
+        "text": "100 years",
+        "sub": "Celebrated in 2024",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Louis Cartier designed the Trinity ring in 1924 as three linked bands. Cartier's own archive called it the three-band, three-gold ring, and the name Trinity first appeared in American Vogue. Cartier celebrated its 100th birthday in 2024.",
+    "hashtags": [
+      "#cartier",
+      "#trinityring",
+      "#louiscartier",
+      "#jeancocteau",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.cijintl.com/jewellery-highlights/cartier-s-trinity-still-modern-after-100-years.html",
+    "https://www.tatlerasia.com/style/jewellery/cartier-centennial-anniversary-trinity-ring",
+    "https://galeriemagazine.com/cartier-celebrates-jean-cocteau-link/",
+    "https://www.cartier.com/en-us/trinity.html",
+    "https://www.grazia.my/?p=50402",
+    "https://www.voguescandinavia.com/articles/100-years-trinity-cartier-collection-new-releases"
+  ]
+}

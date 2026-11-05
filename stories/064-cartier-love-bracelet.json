@@ -1,0 +1,176 @@
+{
+  "id": "064-cartier-love-bracelet",
+  "number": 64,
+  "title": "The Cartier Love bracelet closes with a screwdriver",
+  "topic": "cartier love bracelet",
+  "style": "paper",
+  "plate": "The Love Bracelet",
+  "theme": "blush",
+  "music": "music-064.wav",
+  "hook": {
+    "text": "Cartier's Love bracelet needs a screwdriver.",
+    "gold": [
+      "Love",
+      "screwdriver"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier's Love bracelet needs a screwdriver.",
+      "scene": {
+        "kind": "hook",
+        "show": "bracelet",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Aldo Cipullo, an Italian designer, drew the Love bracelet in 1969.",
+      "say": "Aldo Cipullo, an Italian designer, drew the Love bracelet in nineteen sixty-nine.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Aldo Cipullo",
+        "role": "Designer, 1969",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a3a5a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "He had worked at Tiffany and at David Webb before that.",
+      "scene": {
+        "kind": "title",
+        "text": "Tiffany",
+        "sub": "And David Webb",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "His idea was to leave the screws showing,",
+      "scene": {
+        "kind": "title",
+        "text": "Visible screws",
+        "sub": "The whole idea",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "and lock them with a screwdriver that comes with the bracelet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "label": "Comes with a screwdriver",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The screws were meant to stand for permanence.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Aldo Cipullo",
+        "role": "A symbol of permanence",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a3a5a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#f3d6bd",
+            "expression": "worried"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Tiffany passed on the design, so he took it to Cartier.",
+      "scene": {
+        "kind": "title",
+        "text": "Tiffany passed",
+        "sub": "So he went to Cartier",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Cartier New York, then independent of Paris, backed it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Michael Thomas",
+        "role": "Head of Cartier New York",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3a4a",
+            "hair": "slick",
+            "hairColor": "#6a5a4a",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          }
+        ],
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "It first sold for about $250.",
+      "say": "It first sold for about two hundred fifty dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "About $250",
+        "sub": "The first price",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Cartier gave it to couples like Elizabeth Taylor and Richard Burton.",
+      "scene": {
+        "kind": "title",
+        "text": "Taylor and Burton",
+        "sub": "Among the first couples",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The classic one takes someone else's help to close.",
+      "scene": {
+        "kind": "title",
+        "text": "Two screws",
+        "sub": "Someone else tightens them",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Aldo Cipullo designed the Cartier Love bracelet in 1969 with visible screws and a screwdriver that comes with it. Tiffany passed on the design, so he took it to Cartier New York, where it first sold for about $250.",
+    "hashtags": [
+      "#cartier",
+      "#lovebracelet",
+      "#aldocipullo",
+      "#jewelryhistory",
+      "#screwdriver"
+    ]
+  },
+  "sources": [
+    "https://www.cartier.com/en-my/love-cartier.html",
+    "https://www.sothebys.com/en/articles/the-story-behind-cartiers-iconic-love-bracelet",
+    "https://www.phillips.com/article/71082497/aldo-cipullo-the-man-behind-the-cartier-love-bracelet-jewels-new-york",
+    "https://au.lifestyle.yahoo.com/brief-history-cartier-love-fine-162948147.html",
+    "https://theadventurine.com/culture/books-exhibitions/the-man-who-invented-modern-love-in-jewelry",
+    "https://www.cartier.com/en-us/jewelry/bracelets/love-bracelet-B6035417.html"
+  ]
+}

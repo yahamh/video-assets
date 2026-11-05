@@ -1,0 +1,169 @@
+{
+  "id": "060-victoria-sapphire-brooch",
+  "number": 60,
+  "title": "Victoria wore Albert's sapphire brooch on her wedding day",
+  "topic": "queen victoria sapphire brooch",
+  "style": "lowpoly",
+  "music": "music-060.wav",
+  "hook": {
+    "text": "Queen Victoria proposed, then Albert sent brooches.",
+    "gold": [
+      "proposed",
+      "brooches"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Queen Victoria proposed, then Albert sent brooches.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2a56c6"
+      }
+    },
+    {
+      "text": "Queen Victoria proposed to Prince Albert on October 15, 1839,",
+      "say": "Queen Victoria proposed to Prince Albert on October fifteenth, eighteen thirty-nine,",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Victoria and Albert",
+        "role": "15 October 1839",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#4a6ab0",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "hat": "tiara"
+          },
+          {
+            "outfit": "royal",
+            "outfitColor": "#2a3a5a",
+            "hair": "side",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "at Windsor Castle, and he said yes.",
+      "scene": {
+        "kind": "title",
+        "text": "Windsor Castle",
+        "sub": "The engagement"
+      }
+    },
+    {
+      "text": "In November he sent her orange blossom brooches from Germany.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "tone": "#fff3e0",
+        "label": "Orange blossom brooches"
+      }
+    },
+    {
+      "text": "They were gold leaves with white porcelain flowers.",
+      "scene": {
+        "kind": "title",
+        "text": "Porcelain flowers",
+        "sub": "On gold leaves"
+      }
+    },
+    {
+      "text": "On February 9, 1840, the night before the wedding,",
+      "say": "On February ninth, eighteen forty, the night before the wedding,",
+      "scene": {
+        "kind": "title",
+        "text": "9 February 1840",
+        "sub": "The night before"
+      }
+    },
+    {
+      "text": "Albert gave her a sapphire brooch.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#2a56c6",
+        "label": "Sapphire brooch"
+      }
+    },
+    {
+      "text": "They married the next day at St James's Palace,",
+      "say": "They married the next day at Saint James's Palace,",
+      "scene": {
+        "kind": "title",
+        "text": "10 February 1840",
+        "sub": "Chapel Royal, St James's"
+      }
+    },
+    {
+      "text": "and she wore the sapphire brooch on the day.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Victoria",
+        "role": "10 February 1840",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#f4efe6",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "proud",
+            "hat": "tiara"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Her wedding-day journal mentions Albert's beautiful sapphire brooch.",
+      "scene": {
+        "kind": "title",
+        "text": "Her journal",
+        "sub": "Albert's beautiful brooch"
+      }
+    },
+    {
+      "text": "The brooch is still in the Royal Collection today.",
+      "scene": {
+        "kind": "title",
+        "text": "Royal Collection",
+        "sub": "The sapphire brooch"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Queen Victoria proposed to Prince Albert in 1839. He sent her orange blossom brooches, and the night before the wedding he gave her a sapphire brooch. She wore it on her wedding day, and it is still in the Royal Collection.",
+    "hashtags": [
+      "#queenvictoria",
+      "#princealbert",
+      "#sapphirebrooch",
+      "#royaljewels",
+      "#royalweddings"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/stories/royal-writing-throughout-the-ages/note-from-prince-albert-to-queen-victoria-on-the-day-of-their-engagement",
+    "https://en.wikipedia.org/wiki/Wedding_of_Queen_Victoria_and_Prince_Albert",
+    "https://www.rct.uk/collection/65306/pair-of-brooches-from-the-orange-blossom-parure",
+    "https://rapaport.com/magazine-article/a-royal-love-story/",
+    "https://rct.uk/collection/exhibitions/victoria-albert-art-love/the-queens-gallery-buckingham-palace/queen-victorias-wedding-brooch",
+    "https://royalcentral.co.uk/features/queen-victorias-sapphire-brooch-126609/"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "062-la-tolita-platinum",
+  "number": 62,
+  "title": "Ecuador jewelers worked platinum 2,000 years ago",
+  "topic": "la tolita platinum jewelry",
+  "music": "music-062.wav",
+  "hook": {
+    "text": "Ecuador jewelers worked platinum 2,000 years ago.",
+    "gold": [
+      "platinum",
+      "2,000"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ecuador jewelers worked platinum 2,000 years ago.",
+      "say": "Ecuador jewelers worked platinum two thousand years ago.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget",
+        "tone": "platinum"
+      }
+    },
+    {
+      "text": "Smiths of the La Tolita culture, on Ecuador's Pacific coast,",
+      "say": "Smiths of the La Tolita culture, on Ecuador's Pacific coast,",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A La Tolita smith",
+        "role": "About 2,000 years ago",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#8a6a4a",
+            "hair": "long",
+            "hairColor": "#1e1a18",
+            "skin": "#c98e6a",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "worked with platinum, which melts at about 1,768 degrees Celsius,",
+      "say": "worked with platinum, which melts at about seventeen sixty-eight degrees Celsius,",
+      "scene": {
+        "kind": "title",
+        "text": "1,768 degrees",
+        "sub": "Where platinum melts"
+      }
+    },
+    {
+      "text": "so they never melted it.",
+      "scene": {
+        "kind": "title",
+        "text": "Never melted",
+        "sub": "Platinum stayed solid"
+      }
+    },
+    {
+      "text": "They used gold to join grains of platinum,",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A La Tolita smith",
+        "role": "Gold and platinum",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#8a6a4a",
+            "hair": "long",
+            "hairColor": "#1e1a18",
+            "skin": "#c98e6a",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "then hammered the lump and reheated it again and again.",
+      "scene": {
+        "kind": "title",
+        "text": "Hammer and heat",
+        "sub": "Again and again"
+      }
+    },
+    {
+      "text": "The result was alloys in a range of colors.",
+      "scene": {
+        "kind": "title",
+        "text": "A range of colors",
+        "sub": "Gold and platinum alloys"
+      }
+    },
+    {
+      "text": "On many pieces, the platinum was a thin layer over gold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "earrings",
+        "metal": "yellow",
+        "tone": "#e4e9ee",
+        "label": "Platinum over gold"
+      }
+    },
+    {
+      "text": "Spanish miners later called it platina, meaning little silver.",
+      "scene": {
+        "kind": "title",
+        "text": "Platina",
+        "sub": "Spanish for little silver"
+      }
+    },
+    {
+      "text": "Pieces are in the Smithsonian and Houston's Museum of Fine Arts.",
+      "scene": {
+        "kind": "title",
+        "text": "Smithsonian",
+        "sub": "And a Houston museum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "About 2,000 years ago, smiths of the La Tolita culture in Ecuador worked platinum without ever melting it. They joined grains of platinum with gold and hammered the lump again and again. Pieces are in the Smithsonian and the Museum of Fine Arts in Houston.",
+    "hashtags": [
+      "#platinum",
+      "#ecuador",
+      "#latolita",
+      "#ancientjewelry",
+      "#metalsmith"
+    ]
+  },
+  "sources": [
+    "https://mci.si.edu/node/1202581",
+    "https://www.cambridge.org/core/journals/latin-american-antiquity/article/abs/la-tolitatumaco-culture-master-metalsmiths-in-gold-and-platinum/93BD10270762B074913EBBD01F44C610",
+    "https://collections.si.edu/search/detail/edanmdm:NMAI_18660",
+    "https://emuseum.mfah.org/objects/95497/visit",
+    "https://www.rsc.org/periodic-table/element/78/platinum",
+    "https://www.metmuseum.org/art/collection/search/318636"
+  ]
+}

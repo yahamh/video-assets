@@ -306,3 +306,20 @@ export const FigureLp = (hat: string, t: number, walk: number, lantern: boolean,
   if (lantern) objs.push({ mesh: box(0.24, 0.32, 0.24), mat: { color: "#ffd98a", glow: 0.9 + 0.1 * Math.sin(t * 9) }, pos: [0.8, 2.05, 0.05] });
   return group(objs, tr);
 };
+
+// A closed gift box about 2.2 wide with a ribbon crossed over the lid and a bow, in any color (a blue jeweler's box).
+export const GiftBox = (color: string, tr: Tr = {}): Obj[] => {
+  const body: Mat = { color, spec: 0.35, shine: 14, facets: 0.1 };
+  const lid: Mat = { color: shadeHex(color, 0.06), spec: 0.4, shine: 16, facets: 0.1 };
+  const ribbon: Mat = { color: "#f6f5f0", spec: 0.5, shine: 20, facets: 0.1 };
+  const objs: Obj[] = [
+    { mesh: box(2.2, 1.3, 2.2), mat: body, pos: [0, -0.35, 0] },
+    { mesh: box(2.34, 0.34, 2.34), mat: lid, pos: [0, 0.47, 0] },
+    { mesh: box(0.28, 1.74, 2.4), mat: ribbon, pos: [0, -0.18, 0] },
+    { mesh: box(2.4, 1.74, 0.28), mat: ribbon, pos: [0, -0.18, 0] },
+    { mesh: ico(1, 0.42), mat: ribbon, pos: [-0.36, 0.86, 0], rot: [0, 0, 0.5], scale: [1.5, 0.75, 0.8] },
+    { mesh: ico(1, 0.42), mat: ribbon, pos: [0.36, 0.86, 0], rot: [0, 0, -0.5], scale: [1.5, 0.75, 0.8] },
+    { mesh: ico(1, 0.2), mat: ribbon, pos: [0, 0.82, 0] },
+  ];
+  return group(objs, tr);
+};

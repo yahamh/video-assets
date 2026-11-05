@@ -1,0 +1,184 @@
+{
+  "id": "058-lincoln-love-is-eternal",
+  "number": 58,
+  "title": "Lincoln's wedding ring said Love Is Eternal",
+  "topic": "lincoln wedding ring mary todd",
+  "style": "paper",
+  "plate": "Love Is Eternal",
+  "theme": "watercolor",
+  "music": "music-058.wav",
+  "hook": {
+    "text": "Lincoln's wedding ring said Love Is Eternal.",
+    "gold": [
+      "Love",
+      "Eternal"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lincoln's wedding ring said Love Is Eternal.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Abraham Lincoln married Mary Todd on November 4, 1842,",
+      "say": "Abraham Lincoln married Mary Todd on November fourth, eighteen forty-two,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Abraham and Mary",
+        "role": "4 November 1842",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "side",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#e8b8c8",
+            "hair": "updo",
+            "hairColor": "#5a3a2a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "in her sister's house in Springfield, Illinois.",
+      "scene": {
+        "kind": "title",
+        "text": "Springfield",
+        "sub": "Illinois",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The Reverend Charles Dresser performed the ceremony.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Charles Dresser",
+        "role": "The minister",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2a2a2e",
+            "hair": "bald",
+            "hairColor": "#4a4a4a",
+            "skin": "#f3d6bd",
+            "expression": "neutral",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The ring was a plain gold band,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "A plain gold band",
+        "velvet": "#5bb4e8",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "engraved inside with the words Love Is Eternal.",
+      "scene": {
+        "kind": "title",
+        "text": "Love Is Eternal",
+        "sub": "Engraved inside",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It also had his initials and the date, the Park Service says.",
+      "say": "It also had his initials and the date, the Park Service says.",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "shape": "plain",
+        "to": "Mary",
+        "date": "4 Nov 1842",
+        "metal": "yellow",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "She died in July 1882, in the same house where she married.",
+      "say": "She died in July eighteen eighty-two, in the same house where she married.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Mary Todd Lincoln",
+        "role": "July 1882",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#4a4650",
+            "hair": "updo",
+            "hairColor": "#b8b0a8",
+            "skin": "#f3d6bd",
+            "expression": "neutral",
+            "old": true
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Mourners at the viewing saw the ring still on her hand.",
+      "scene": {
+        "kind": "title",
+        "text": "Still on her hand",
+        "sub": "Seen by mourners",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "She was buried with it beside Lincoln in Springfield.",
+      "scene": {
+        "kind": "title",
+        "text": "Lincoln Tomb",
+        "sub": "Oak Ridge Cemetery",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Abraham Lincoln married Mary Todd on November 4, 1842. Her plain gold wedding band was engraved Love Is Eternal. Mourners saw it still on her hand in 1882, and she was buried with it beside Lincoln.",
+    "hashtags": [
+      "#abrahamlincoln",
+      "#marytodd",
+      "#weddingring",
+      "#lincoln",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nps.gov/liho/learn/historyculture/ring.htm",
+    "https://home.nps.gov/liho/learn/historyculture/lincolnchronology.htm",
+    "https://rogerjnorton.com/Lincoln76.html",
+    "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/lincoln-mary-todd-1818-1882",
+    "https://friendsofthelincolncollection.org/lore-archive/ll_1981-11",
+    "https://marylincolnscoterie.com/about/mary-lincolns-story/marys-death-and-funeral/"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "057-varna-gold",
+  "number": 57,
+  "title": "A cable dig found 6,500-year-old gold",
+  "topic": "varna necropolis gold",
+  "style": "lowpoly",
+  "music": "music-057.wav",
+  "hook": {
+    "text": "A cable dig found 6,500-year-old gold.",
+    "gold": [
+      "cable",
+      "gold"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A cable dig found 6,500-year-old gold.",
+      "say": "A cable dig found sixty-five hundred year old gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#f0bd45"
+      }
+    },
+    {
+      "text": "In October 1972, excavator operator Raycho Marinov was digging in Varna,",
+      "say": "In October nineteen seventy-two, excavator operator Raycho Marinov was digging in Varna,",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Raycho Marinov",
+        "role": "Excavator operator",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a7a5a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "on Bulgaria's Black Sea coast, for an underground cable,",
+      "scene": {
+        "kind": "title",
+        "text": "Varna",
+        "sub": "Bulgaria's Black Sea coast"
+      }
+    },
+    {
+      "text": "when he came across an ancient cemetery by accident.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Raycho Marinov",
+        "role": "An accident",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a7a5a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "surprised",
+            "hat": "cap"
+          }
+        ],
+        "gasp": 0.3
+      }
+    },
+    {
+      "text": "It had 294 graves, with more than 3,000 gold objects.",
+      "say": "It had two hundred ninety-four graves, with more than three thousand gold objects.",
+      "scene": {
+        "kind": "title",
+        "text": "3,000 gold objects",
+        "sub": "In 294 graves"
+      }
+    },
+    {
+      "text": "The gold weighed more than 6 kilograms in all.",
+      "say": "The gold weighed more than six kilograms in all.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "tone": "#f0bd45",
+        "label": "Gold from Varna"
+      }
+    },
+    {
+      "text": "Grave 43 was the richest in the cemetery.",
+      "say": "Grave forty-three was the richest in the cemetery.",
+      "scene": {
+        "kind": "title",
+        "text": "Grave 43",
+        "sub": "The richest grave"
+      }
+    },
+    {
+      "text": "The man buried there held a stone axe-sceptre,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "The man in grave 43",
+        "role": "Around 4500 BC",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#8a2a2a",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "its handle fitted with gold tubes and rings.",
+      "scene": {
+        "kind": "title",
+        "text": "Axe-sceptre",
+        "sub": "Gold tubes and rings"
+      }
+    },
+    {
+      "text": "Radiocarbon dating puts the burials around 4500 BC.",
+      "say": "Radiocarbon dating puts the burials around forty-five hundred B C.",
+      "scene": {
+        "kind": "title",
+        "text": "About 4500 BC",
+        "sub": "Radiocarbon dating"
+      }
+    },
+    {
+      "text": "That makes it among the oldest worked gold ever found.",
+      "say": "That makes it among the oldest worked gold ever found.",
+      "scene": {
+        "kind": "title",
+        "text": "6,500 years old",
+        "sub": "Among the oldest gold"
+      }
+    },
+    {
+      "text": "The gold is on show at the Varna Archaeological Museum.",
+      "scene": {
+        "kind": "title",
+        "text": "Varna Archaeological Museum",
+        "sub": "On show today"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1972 an excavator operator digging for an underground cable in Varna, Bulgaria, found a cemetery with 294 graves and more than 3,000 gold objects, about 6,500 years old. The gold is in the Varna Archaeological Museum.",
+    "hashtags": [
+      "#varnagold",
+      "#bulgaria",
+      "#ancientgold",
+      "#archaeology",
+      "#goldjewelry"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Varna_Necropolis",
+    "https://outr.bulgariatravel.org/node/392",
+    "https://visit.varna.bg/en/za-otkritieto.html",
+    "https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Bosphorus-BlackSea/Varna-Chapman2006.pdf",
+    "https://www.cambridge.org/core/journals/antiquity/article/abs/new-perspectives-on-the-varna-cemetery-bulgaria-ams-dates-and-social-implications/0D02E895D9732774C4ED192C4D199417",
+    "https://img.bnr.bg/en/post/101730418/the-varna-gold-treasure-brings-together-scientists-from-six-countries"
+  ]
+}
