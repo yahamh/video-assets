@@ -186,7 +186,8 @@
     "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfKUutOD4UP/",
-      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702831806327934209"
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702831806327934209",
+      "youtube": "https://www.youtube.com/watch?v=SkuEj1CtV8s"
     },
     "retry": {
       "at": "2026-11-04T14:10:00Z",
@@ -194,7 +195,8 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     }
   },
   "012-cartier-panther": {
@@ -210,12 +212,14 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     },
     "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfKwOpZE3bX/",
-      "tiktok": "published"
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=XML_6X7FtGk"
     }
   },
   "013-first-diamond-engagement-ring": {
@@ -231,12 +235,14 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     },
     "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfLSwU8Ex-k/",
-      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702971457814498580"
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7702971457814498580",
+      "youtube": "https://www.youtube.com/watch?v=S97iY_1yNGg"
     }
   },
   "014-crater-of-diamonds": {
@@ -406,7 +412,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=900958899672988",
+      "instagram": "https://www.instagram.com/reel/DfUoItSlOen/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=3BiCylqFjao"
+    }
   },
   "024-purple-quahog-pearl": {
     "at": "2026-11-04T18:00:00Z",
@@ -416,7 +429,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1131979792889031",
+      "instagram": "https://www.instagram.com/reel/DfVDqopjyiT/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704378614468414738",
+      "youtube": "https://www.youtube.com/watch?v=opY-6gmbf5M"
+    }
   },
   "025-staffordshire-hoard": {
     "at": "2026-11-04T23:00:00Z",
@@ -426,7 +446,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1644704037048569",
+      "instagram": "https://www.instagram.com/reel/DfVl39PDIeL/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704455665099509012",
+      "youtube": "https://www.youtube.com/watch?v=sBHRo7xDcRo"
+    }
   },
   "026-napoleon-josephine-toi-et-moi": {
     "at": "2026-11-05T14:00:00Z",
@@ -601,6 +628,36 @@
   "043-oldest-pearl-abu-dhabi": {
     "at": "2026-11-10T23:00:00Z",
     "zernio_id": "6aeac0cf31d404218c67942d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "044-tanzanite": {
+    "at": "2026-11-11T14:00:00Z",
+    "zernio_id": "6aec0982bcfb8ab607697b01",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "045-carat-carob-seed": {
+    "at": "2026-11-11T18:00:00Z",
+    "zernio_id": "6aec09adfdb535de051b5acd",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "046-moissanite-meteorite": {
+    "at": "2026-11-11T23:00:00Z",
+    "zernio_id": "6aec09bafdb535de051b5b04",
     "platforms": [
       "facebook",
       "instagram",
@@ -842,7 +899,11 @@
     "zernio_id": "6ae96654db4767c813850ab8",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=5LFGsol_y-g"
+    }
   },
   "lesson-013-eternity-band": {
     "at": "2026-11-05T16:00:00Z",
@@ -882,6 +943,13 @@
   "lesson-018-cathedral-setting": {
     "at": "2026-11-10T16:00:00Z",
     "zernio_id": "6aeac0ba31a7991810a0d6da",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-019-hidden-halo": {
+    "at": "2026-11-11T16:00:00Z",
+    "zernio_id": "6aec098cd585200f3e586d87",
     "platforms": [
       "youtube"
     ]
