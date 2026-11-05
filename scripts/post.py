@@ -225,6 +225,12 @@ def stats(z):
         return
     print(f"Zernio analytics, {len(rows)} posts:")
     keys = ("views", "impressions", "reach", "likes", "comments", "shares", "saves", "engagementRate")
+    # Zernio has had no numbers for TikTok posts (every metric 0): once per run, show one whole row to see what it does say
+    # (a status, a sync time) so the reason can be found (ali, 5 Nov 2026: "what has performed best on TikTok?").
+    for r in rows:
+        if str(r.get("platform")) == "tiktok":
+            print("  TikTok row as Zernio sends it:", json.dumps({k: v for k, v in r.items() if k not in ("content", "thumbnailUrl")})[:900])
+            break
     for r in rows:
         nums = r.get("analytics") or r.get("metrics") or r
         line = ", ".join(f"{k} {nums[k]}" for k in keys if isinstance(nums, dict) and nums.get(k) not in (None, 0, ""))

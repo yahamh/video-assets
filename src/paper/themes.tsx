@@ -10,10 +10,12 @@ import { AbsoluteFill } from "remotion";
 //   oldprint    sepia ink on aged paper, heavier grain and a darker edge
 //   sunset      plum, coral and peach, like a screen print
 //   watercolor  the colors kept, edges that wobble and bleed like wet paint
-// All but cream and watercolor map the picture's light and dark onto a few colors, so a story where the color of a
-// stone matters (a ruby, an emerald) should stay cream or watercolor.
+//   mint, blush, sky   the colors kept, on pale green, pink or blue paper
+// ali, 5 Nov 2026: "stop doing one color ink". midnight, blueprint, riso, oldprint and sunset map the picture's light and
+// dark onto a few colors (one or two inks), so new stories don't use them any more (scripts/check.py refuses them); they
+// stay here for the videos already posted. cream, watercolor, mint, blush and sky keep every color of the picture.
 
-export const THEMES = ["cream", "midnight", "blueprint", "riso", "oldprint", "sunset", "watercolor"] as const;
+export const THEMES = ["cream", "midnight", "blueprint", "riso", "oldprint", "sunset", "watercolor", "mint", "blush", "sky"] as const;
 export type Theme = (typeof THEMES)[number];
 
 // From the darkest part of the picture (the ink) to the lightest (the paper).
@@ -65,6 +67,10 @@ export const ThemedScenes: React.FC<{ theme: string; children: React.ReactNode }
 export const ThemedUi: React.FC<{ theme: string; children: React.ReactNode }> = ({ theme, children }) => (
   <AbsoluteFill style={{ filter: uiFilter(theme) }}>{children}</AbsoluteFill>
 );
+
+// The paper of the mint, blush and sky themes: only the paper behind the scenes changes color (PaperTone in kit.tsx), the
+// drawings keep their colors.
+export const PAPER_TONES: Record<string, string> = { mint: "#d4ecdd", blush: "#f6d6da", sky: "#d3e5f4" };
 
 // What a theme adds on top of everything: a drafting grid, halftone dots, an aged edge.
 export const ThemeOverlay: React.FC<{ theme: string }> = ({ theme }) => {

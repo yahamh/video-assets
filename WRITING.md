@@ -98,18 +98,22 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   look only, and a story never looks like either of the two stories before it (`check.py` refuses it). The looks:
   - `"style": "paper"`, no theme: the cut-paper look (since story 014: warm cream paper, one big painted shape per scene,
     thin white line work, confetti, small typed captions, the hook in big italic capitals; `src/paper/`).
-  - `"style": "paper"` with a `"theme"` that prints the same drawings another way (`src/paper/themes.tsx`):
-    `midnight` (gold ink on a deep indigo night), `blueprint` (white drawing on blueprint blue with a grid), `riso`
-    (two inks, indigo and pink, with halftone dots), `oldprint` (sepia ink on aged paper), `sunset` (plum, coral and
-    peach), `watercolor` (the colors kept, edges that wobble like wet paint). All but watercolor map light and dark onto
-    a few colors, so a story about the color of a stone (a ruby, an emerald, a sapphire) uses plain cream, `watercolor`,
-    low poly or drawn instead.
+  - `"style": "paper"` with a `"theme"` (`src/paper/themes.tsx`): `watercolor` (the colors kept, edges that wobble like
+    wet paint), or `mint`, `blush` or `sky` (the colors kept, on pale green, pink or blue paper). **Never one color of
+    ink** (ali, 5 Nov 2026: "stop doing one color ink"): `midnight`, `blueprint`, `riso`, `oldprint` and `sunset` print
+    the picture in one or two inks, `check.py` refuses them from story 026 on, and they stay in the code only for the
+    videos already posted. Every look keeps the real colors of the stones and metals.
   - `"style": "lowpoly"`: flat-shaded 3D (`src/lp/`, stories 007 to 013 and again from 020).
   - no `style`: the dark gold line drawing (`src/scenes/`, stories 001 to 006 and again from 026).
   Low poly and the dark drawing share the basic scenes and options; everything under "The paper look adds a few options"
   below is paper only, and `check.py` says so when a low-poly or dark story uses one. How to pick: take the look that
   has gone unused longest among those that can draw the story (look at the last few stories' `style` and `theme`).
-  Roughly one story in three should be low poly or the dark drawing, so write those stories with basic scenes.
+  **Two stories in three should be low poly or the dark drawing** (ali, 5 Nov 2026: "do more of the style that performs
+  best"). The views Zernio reports for the posts from 28 Oct to 4 Nov: on Instagram the dark drawing averaged about 1,300
+  views a reel (3 stories), low poly 900 (8), paper 560 (6); on YouTube the dark drawing and low poly both about 125 a
+  video, paper 23. (Zernio gives no numbers for TikTok or, mostly, Facebook.) So the order is low poly, dark drawing,
+  paper, and again, which `check.py` allows; write those stories with basic scenes, and use paper for the story that needs
+  its things (a ring, pearls, a claddagh). Read the numbers again (the run log, "Zernio analytics") every week.
   The music, the caption notes and the sounds are the same whatever the look.
 - `plate`: the story's name in italics under the plate header at the top ("JEWELRY STORY XIV"), like a plate in an
   old science book: a few words, title case ("Crater of Diamonds").

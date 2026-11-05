@@ -29,7 +29,11 @@ BANNED = [
 ]
 
 
-THEMES = {"cream", "midnight", "blueprint", "riso", "oldprint", "sunset", "watercolor"}
+THEMES = {"cream", "watercolor", "mint", "blush", "sky"}
+# ali, 5 Nov 2026: "Stop doing one color ink". These print the picture in one or two inks; the renderer still has them for the
+# videos already posted, but no story uses them any more.
+ONE_INK = {"midnight", "blueprint", "riso", "oldprint", "sunset"}
+ONE_INK_FROM = 26  # stories 001-025 were posted before that, in the looks they have
 # Things only the paper style draws (WRITING.md, "The paper look adds a few options"): a story in the low-poly or the
 # dark gold line look can't use them.
 _THINGS = {"ring", "carrot", "opal", "round-pearl", "clam", "hen", "tiara", "coronet", "claddagh", "brooch"}
@@ -118,8 +122,10 @@ def check(path, seen):
             say('style should be "lowpoly" (stories 007 to 013)')
         elif s["number"] >= 14 and s.get("style") not in (None, "paper", "lowpoly", "drawn"):
             say('style should be "paper", "lowpoly" or "drawn" (the dark gold line drawing)')
-        if s.get("theme") is not None and (s.get("style") != "paper" or s["theme"] not in THEMES):
-            say(f"theme is only for the paper style and one of {', '.join(sorted(THEMES))}")
+        if s.get("theme") is not None and (s.get("style") != "paper" or s["theme"] not in THEMES) and not (s["number"] < ONE_INK_FROM and s["theme"] in ONE_INK):
+            say(("theme " + str(s["theme"]) + " prints the picture in one or two inks, which ali ruled out (5 Nov 2026): use ") if s.get("theme") in ONE_INK
+                else "theme is only for the paper style and one of " if s.get("style") == "paper" else "theme is only for the paper style, one of ")
+            problems[-1] += ", ".join(sorted(THEMES))
         if s.get("style") in ("lowpoly", "paper") and any((l.get("scene") or {}).get("show") == "sandwich" for l in s["lines"]):
             say(f"the sandwich hook only exists drawn: pick another hook for a {s['style']} story")
         if s.get("style") != "paper":

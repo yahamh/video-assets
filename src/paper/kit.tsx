@@ -5,6 +5,8 @@ import { rand } from "../look";
 // bright color, thin white line work, confetti, small typed captions. Everything keeps moving gently.
 
 export const PAPER = "#f1e7d5";
+// The color of the paper behind a scene: cream, or one of the pale tints of the mint, blush and sky themes (themes.tsx).
+export const PaperTone = React.createContext<string>(PAPER);
 export const PAPER_DARK = "#e3d3b8";
 export const INK = "#2b211b";
 export const INK_SOFT = "#6a5848";
@@ -122,7 +124,9 @@ export const Defs: React.FC<{ id: string }> = ({ id }) => (
 );
 
 // The cream paper behind everything, with its grain and a few faint stains.
-export const PaperBg: React.FC<{ id: string }> = ({ id }) => (
+export const PaperBg: React.FC<{ id: string }> = ({ id }) => {
+  const tone = React.useContext(PaperTone);
+  return (
   <g>
     <defs>
       <filter id={`${id}-grain`} x="0" y="0" width="100%" height="100%">
@@ -134,11 +138,12 @@ export const PaperBg: React.FC<{ id: string }> = ({ id }) => (
         <feColorMatrix type="matrix" values="0 0 0 0 0.62  0 0 0 0 0.5  0 0 0 0 0.34  1.4 0 0 0 -0.62" />
       </filter>
     </defs>
-    <rect width={1080} height={1920} fill={PAPER} />
+    <rect width={1080} height={1920} fill={tone} />
     <rect width={1080} height={1920} filter={`url(#${id}-stain)`} opacity={0.35} />
     <rect width={1080} height={1920} filter={`url(#${id}-grain)`} opacity={0.5} />
   </g>
-);
+  );
+};
 
 // One big painted shape in a bright color: the stage of a scene.
 export const Blob: React.FC<{ id: string; cx: number; cy: number; rx: number; ry: number; color: string; seed: number; t: number; wobble?: number; opacity?: number }> = ({

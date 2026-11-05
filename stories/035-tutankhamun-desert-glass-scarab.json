@@ -2,10 +2,8 @@
   "id": "035-tutankhamun-desert-glass-scarab",
   "number": 35,
   "title": "Tut's scarab is glass a meteorite made",
-  "plate": "The Scarab",
   "topic": "tutankhamun scarab desert glass",
-  "style": "paper",
-  "theme": "oldprint",
+  "style": "lowpoly",
   "music": "music-035.wav",
   "hook": {
     "text": "Tut's scarab is glass a meteorite made.",

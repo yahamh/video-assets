@@ -13,6 +13,7 @@ import { BG, FPS, clamp, easeOut, prog } from "./look";
 import { Badge, Captions, HookText, Overlay, chunk, timeWords } from "./Frame";
 import { Story, speakSeconds, timeline } from "./story";
 import { sceneSfx } from "./sfx";
+import { TRIM, duck, musicDuck } from "./mix";
 import { SceneProps } from "./scenes/types";
 import { Parcel } from "./scenes/Parcel";
 import { Mine } from "./scenes/Mine";
@@ -39,8 +40,8 @@ import { lowPolyScene } from "./lp/registry";
 import { paperScene } from "./paper/registry";
 import { PaperEnd } from "./paper/scenes";
 import { PaperBadge, PaperCaptions, PaperHook, PaperOverlay } from "./paper/frame";
-import { CREAM, PAPER } from "./paper/kit";
-import { ThemeDefs, ThemeOverlay, ThemedScenes, ThemedUi } from "./paper/themes";
+import { CREAM, PAPER, PaperTone } from "./paper/kit";
+import { PAPER_TONES, ThemeDefs, ThemeOverlay, ThemedScenes, ThemedUi } from "./paper/themes";
 
 export const SCENES: Record<string, React.FC<SceneProps>> = {
   parcel: Parcel,
@@ -72,13 +73,14 @@ const PUNCH_S = 0.3;
 const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: number; first: boolean; hook: boolean; look: string }> = ({ kind, p, len, first, hook, look }) => {
   const t = useCurrentFrame() / FPS;
   const paper = look === "paper";
+  const tone = React.useContext(PaperTone);
   const Scene = (paper && paperScene(kind, p)) || (look === "lowpoly" && lowPolyScene(kind, p)) || SCENES[kind];
   if (!Scene) throw new Error(`Unknown scene "${kind}"`);
   const settle = first ? 1 : easeOut(prog(t, 0, PUNCH_S));
   const scale = paper ? (1.05 - 0.05 * settle) * (1 + 0.03 * Math.min(1, t / Math.max(1, len))) : (1.14 - 0.14 * settle) * (1 + 0.06 * Math.min(1, t / Math.max(1, len)));
   const flash = first ? 0 : interpolate(t, [0, 0.12], [paper ? 0.4 : 0.55, 0], clamp);
   return (
-    <AbsoluteFill style={paper ? { background: PAPER } : undefined}>
+    <AbsoluteFill style={paper ? { background: tone } : undefined}>
       <AbsoluteFill style={{ transform: `scale(${scale})` }}>
         <Scene t={t} dur={len} p={p} hook={hook} />
       </AbsoluteFill>
@@ -114,6 +116,8 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   }, [fonts]);
 
   const { slots, endStart, total } = timeline(story);
+  // where a voice is speaking, for the sounds to duck under (src/mix.ts)
+  const spoken = slots.filter((s) => s.line.audio).map((s) => [s.start, s.start + speakSeconds(s.line)] as const);
   const look = story.style ?? "drawn";
   const paper = look === "paper";
   const theme = paper ? story.theme ?? "cream" : "cream";
@@ -121,7 +125,8 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   const BRIGHT: Record<string, string> = { boom: "bell", impact: "pop", crack: "pop", heartbeat: "pluck", creak: "drip", horn: "bell", steps: "pluck" };
   const t = frame / FPS;
   const voiced = slots.some((s) => s.line.audio);
-  const musicVolume = (fr: number) => interpolate(fr / FPS, [0, 0.3, total - 1.5, total], [0, 1, 1, 0], clamp) * (voiced ? 0.16 : 0.36);
+  // the music sits 10 dB under the voice and a little lower still while it speaks (src/mix.ts)
+  const musicVolume = (fr: number) => interpolate(fr / FPS, [0, 0.3, total - 1.5, total], [0, 1, 1, 0], clamp) * (voiced ? 0.16 * musicDuck(fr / FPS, spoken) : 0.36);
   // the sound between two scenes changes from one to the next, and from one video to the next
   const TRANS = paper ? ["whoosh", "page", "swish", "whoosh2", "zip", "flutter"] : ["whoosh", "whoosh2", "swish", "flutter", "zip"];
   const trans = (i: number) => TRANS[(i * (TRANS.length - 1) + story.number) % TRANS.length];
@@ -170,7 +175,8 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   const badge = Math.min(paper ? 1 : interpolate(t, [hookOut, hookOut + 0.3], [hook ? 0 : 1, 1], clamp), interpolate(t, [endStart - 0.1, endStart], [1, 0], clamp));
 
   return (
-    <AbsoluteFill style={{ background: paper ? PAPER : BG }}>
+    <PaperTone.Provider value={PAPER_TONES[theme] ?? PAPER}>
+    <AbsoluteFill style={{ background: paper ? PAPER_TONES[theme] ?? PAPER : BG }}>
       {paper && theme !== "cream" ? <ThemeDefs /> : null}
       <ThemedScenes theme={theme}>
       {slots.map((s, i) => (
@@ -202,12 +208,17 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
           </Sequence>
         ) : null,
       )}
-      {played.map(({ x, src }, i) => (
-        <Sequence key={`s${i}`} from={f(x.at)} layout="none">
-          <Audio src={staticFile(src)} volume={(x.vol ?? 1) * (voiced ? 0.5 : 0.62)} />
-        </Sequence>
-      ))}
+      {played.map(({ x, src }, i) => {
+        // quieter than the voice: the loud files trimmed, and all of them ducked while a line is read (src/mix.ts)
+        const level = (x.vol ?? 1) * (TRIM[x.name] ?? 1) * (voiced ? 0.5 : 0.62);
+        return (
+          <Sequence key={`s${i}`} from={f(x.at)} layout="none">
+            <Audio src={staticFile(src)} volume={voiced ? (fr: number) => level * duck(x.at + fr / FPS, spoken) : level} />
+          </Sequence>
+        );
+      })}
       {story.music ? <Audio src={staticFile(story.music)} volume={musicVolume} /> : null}
     </AbsoluteFill>
+    </PaperTone.Provider>
   );
 };
