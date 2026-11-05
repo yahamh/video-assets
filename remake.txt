@@ -1,2 +1,9 @@
 # Story ids to make again, one per line (like 001-cullinan). "Make videos" deletes their videos, makes them again
 # and empties this list. Only for stories not posted yet.
+031-cartier-pearl-mansion
+032-pink-star-diamond
+lesson-015-3d-printing-jewelry
+033-birthstones-1912
+034-diana-sapphire-ring
+035-tutankhamun-desert-glass-scarab
+lesson-016-pearl-luster
