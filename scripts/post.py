@@ -506,7 +506,8 @@ def main():
             slot = None
         elif slot is None or slot <= now + LEAD:
             slot = lasts[series] = next_slot(max(lasts.get(series, now + LEAD), now + LEAD), times)
-        if no_youtube(sched, series, slot or now):
+        if (series == "story" and sched.get("youtube_times") and slot
+                and slot.strftime("%H:%M") not in sched["youtube_times"]) or no_youtube(sched, series, slot or now):
             accounts = {p: a for p, a in accounts.items() if p != "youtube"}
         queue.append((slot or now, s, series, slot, accounts))
     queue.sort(key=lambda q: (q[0], q[1]["id"]))

@@ -1,6 +1,6 @@
 # Daily writer (the prompt for the scheduled Claude task)
 
-Runs once a day. It keeps 21 stories (7 days) and 7 render lessons (7 days) written ahead of posting, so a
+Runs once a day. It keeps 40 stories (4 days at 10 a day since 5 Nov) and 7 render lessons (7 days) written ahead of posting, so a
 missed day never stops the videos.
 
 ---
@@ -10,8 +10,8 @@ follow it exactly; for lessons, read WRITING-LESSONS.md too.
 
 1. Pull the `stories` branch (main holds other videos; never touch it). A story is still waiting when
    `posts.json` has no entry for it, or its `at` is still in the future (posts.json lists every video booked to
-   post, three a day). If 21 stories or more are waiting, stop here.
-2. Otherwise write new stories until 21 wait, at most 6 in one run (quality over speed), numbered after the highest `number` in `stories/`. Pick topics that
+   post, three a day). If 40 stories or more are waiting, stop here.
+2. Otherwise write new stories until 40 wait, at most 10 in one run (stories post at 10 times a day now, ali 5 Nov; the quality rules don't loosen), numbered after the highest `number` in `stories/`. Pick topics that
    aren't told yet (every story has a `topic`) and spread them across the kinds listed in WRITING.md.
 3. For each story, search the web and confirm every fact in two sources that don't copy each other; put both links in
    `sources`. If a fact can't be confirmed twice, leave it out or pick another story.
