@@ -1,2 +1,9 @@
 # Story ids to make again, one per line (like 001-cullinan). "Make videos" deletes their videos, makes them again
 # and empties this list. Only for stories not posted yet.
+lesson-018-cathedral-setting
+042-black-princes-ruby
+043-oldest-pearl-abu-dhabi
+044-tanzanite
+045-carat-carob-seed
+046-moissanite-meteorite
+lesson-019-hidden-halo
