@@ -515,7 +515,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1737740531029272",
+      "instagram": "https://www.instagram.com/reel/DfXeIdymZ37/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704726462443654418"
+    }
   },
   "030-claddagh-ring": {
     "at": "2026-11-05T18:00:00Z",
@@ -852,6 +858,34 @@
       "tiktok"
     ]
   },
+  "066-golden-jubilee-diamond": {
+    "at": "2026-11-09T11:30:00Z",
+    "zernio_id": "6aecb983f2e6052fe77a8493",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "067-mood-ring-1975": {
+    "at": "2026-11-09T13:00:00Z",
+    "zernio_id": "6aecb998a8c6073fecd56af5",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "068-star-of-adam-sapphire": {
+    "at": "2026-11-09T14:00:00Z",
+    "zernio_id": "6aecb9ac72dc12dfdcdabf03",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -1097,7 +1131,11 @@
     "zernio_id": "6aec155544d3e58a7a58858b",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=9-K0LiKbAqo"
+    }
   },
   "lesson-014-marquise-cut": {
     "at": "2026-11-06T16:00:00Z",
@@ -1137,6 +1175,13 @@
   "lesson-019-hidden-halo": {
     "at": "2026-11-11T16:00:00Z",
     "zernio_id": "6aec386acf1045d2dfe68438",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-020-bridal-set": {
+    "at": "2026-11-12T16:00:00Z",
+    "zernio_id": "6aecb9b7a0422830e2f354ba",
     "platforms": [
       "youtube"
     ]
