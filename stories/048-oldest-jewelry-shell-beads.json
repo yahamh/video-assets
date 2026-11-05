@@ -1,0 +1,150 @@
+{
+  "id": "048-oldest-jewelry-shell-beads",
+  "number": 48,
+  "title": "The oldest jewelry is 142,000 years old",
+  "topic": "oldest known jewelry shell beads",
+  "style": "lowpoly",
+  "music": "music-048.wav",
+  "hook": {
+    "text": "The oldest jewelry is 142,000 years old.",
+    "gold": [
+      "oldest",
+      "142,000"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The oldest jewelry is 142,000 years old.",
+      "say": "The oldest jewelry is one hundred forty-two thousand years old.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl",
+        "tone": "#e8dccb"
+      }
+    },
+    {
+      "text": "In a Moroccan cave, archaeologists found 33 shells with holes in them.",
+      "say": "In a Moroccan cave, archaeologists found thirty-three shells with holes in them.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Bizmoune Cave",
+        "role": "Morocco",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a7a5a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "glasses": "round"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a7a6a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#8a5a3c",
+            "expression": "surprised"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Wear around the holes suggests the shells hung from strings or clothes.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "pearls": true,
+        "tone": "#e8dccb",
+        "metal": "yellow",
+        "velvet": "#3a2a1e",
+        "label": "Shell beads"
+      }
+    },
+    {
+      "text": "Some shells still carry traces of red ochre.",
+      "scene": {
+        "kind": "title",
+        "text": "Red ochre",
+        "sub": "Traces on some shells"
+      }
+    },
+    {
+      "text": "The sea is under ten miles away, so people carried them there.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "The sea",
+          "x": 0.15,
+          "y": 0.8
+        },
+        "to": {
+          "name": "Bizmoune Cave",
+          "x": 0.8,
+          "y": 0.25
+        },
+        "icon": "parcel",
+        "label": "A shell"
+      }
+    },
+    {
+      "text": "A mineral crust over them dates to about 142,000 years ago,",
+      "say": "A mineral crust over them dates to about one hundred forty-two thousand years ago,",
+      "scene": {
+        "kind": "title",
+        "text": "142,000 years",
+        "sub": "Uranium dating"
+      }
+    },
+    {
+      "text": "so the beads are at least that old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#e8dccb",
+        "label": "At least 142,000 years"
+      }
+    },
+    {
+      "text": "The old record was beads from Israel, up to 135,000 years old.",
+      "say": "The old record was beads from Israel, up to one hundred thirty-five thousand years old.",
+      "scene": {
+        "kind": "gift",
+        "stone": "round",
+        "tone": "#e8dccb",
+        "to": "Skhul, Israel",
+        "date": "Up to 135,000 years"
+      }
+    },
+    {
+      "text": "Researchers think people wore them to show who they were.",
+      "scene": {
+        "kind": "title",
+        "text": "Identity",
+        "sub": "What the researchers think"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Archaeologists found 33 sea snail shells with holes in Bizmoune Cave in Morocco. A mineral crust over them is about 142,000 years old, so they are the oldest shell beads known. Researchers think people wore them to show who they were.",
+    "hashtags": [
+      "#oldestjewelry",
+      "#shellbeads",
+      "#archaeology",
+      "#morocco",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8457661",
+    "https://www.smithsonianmag.com/smart-news/worlds-oldest-jewelry-discovered-in-moroccan-cave-180978766/",
+    "https://archaeology.org/news/2021/09/24/210927-morocco-shell-beads/",
+    "https://www.ucl.ac.uk/news/2006/jun/earliest-known-bling-revealed-0"
+  ]
+}

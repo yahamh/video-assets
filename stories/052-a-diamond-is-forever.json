@@ -1,0 +1,201 @@
+{
+  "id": "052-a-diamond-is-forever",
+  "number": 52,
+  "title": "A late-night scribble became the diamond slogan",
+  "topic": "a diamond is forever slogan",
+  "style": "paper",
+  "plate": "A Diamond Is Forever",
+  "theme": "sky",
+  "music": "music-052.wav",
+  "hook": {
+    "text": "A late-night scribble became the diamond slogan.",
+    "gold": [
+      "scribble",
+      "diamond"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A late-night scribble became the diamond slogan.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e9f1f6",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 1938, De Beers hired a Philadelphia agency to sell diamond rings.",
+      "say": "In nineteen thirty-eight, De Beers hired a Philadelphia agency to sell diamond rings.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "N. W. Ayer and Son",
+        "role": "1938",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3a4a",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "mustache"
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a3a2e",
+            "hair": "side",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "neutral",
+            "old": true
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "In 1947, copywriter Frances Gerety finished a set of De Beers ads",
+      "say": "In nineteen forty-seven, copywriter Frances Gerety finished a set of De Beers ads",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Frances Gerety",
+        "role": "Copywriter, 1947",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a9cc4",
+            "hair": "updo",
+            "hairColor": "#6a4a30",
+            "skin": "#f3d6bd",
+            "expression": "focused"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "and found she had no closing line.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Frances Gerety",
+        "role": "Late at night",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a9cc4",
+            "hair": "updo",
+            "hairColor": "#6a4a30",
+            "skin": "#f3d6bd",
+            "expression": "worried"
+          }
+        ],
+        "color": "#c8dc3c",
+        "gasp": 0.3
+      }
+    },
+    {
+      "text": "So she scribbled one on a slip of paper.",
+      "scene": {
+        "kind": "title",
+        "text": "A slip of paper",
+        "sub": "Late at night",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A diamond is forever.",
+      "scene": {
+        "kind": "title",
+        "text": "A diamond is forever",
+        "sub": "The line",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "At the agency the next morning, nobody was impressed.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The agency",
+        "role": "The next morning",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3a4a",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#5a4a3a",
+            "hair": "short",
+            "hairColor": "#4a3a2e",
+            "skin": "#c98e6a",
+            "expression": "neutral",
+            "glasses": "round"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "De Beers used it in an ad in 1948.",
+      "say": "De Beers used it in an ad in nineteen forty-eight.",
+      "scene": {
+        "kind": "gift",
+        "stone": "round",
+        "tone": "#e9f1f6",
+        "to": "A diamond is forever",
+        "date": "First ad, 1948",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 1999, Ad Age named it the best slogan of the century.",
+      "say": "In nineteen ninety-nine, Ad Age named it the best slogan of the century.",
+      "scene": {
+        "kind": "title",
+        "text": "No. 1 slogan",
+        "sub": "Advertising Age, 1999",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "De Beers brought the line back in a holiday campaign in 2024.",
+      "say": "De Beers brought the line back in a holiday campaign in twenty twenty-four.",
+      "scene": {
+        "kind": "title",
+        "text": "Back in 2024",
+        "sub": "A holiday campaign",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1947 copywriter Frances Gerety had no closing line for a set of De Beers ads, so she scribbled one on a slip of paper: A diamond is forever. Her colleagues weren't impressed. Ad Age ranked it the best slogan of the 20th century.",
+    "hashtags": [
+      "#adiamondisforever",
+      "#debeers",
+      "#diamonds",
+      "#francesgerety",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.npr.org/transcripts/205839105",
+    "https://www.sothebys.com/en/articles/how-de-beers-changed-the-diamond-market-with-one-simple-tagline",
+    "https://www.rubel-menasche.com/en/how-diamonds-became-forever/",
+    "https://nationaljeweler.com/articles/13440-de-beers-stays-with-a-diamond-is-forever-for-2024-holiday-campaign"
+  ]
+}

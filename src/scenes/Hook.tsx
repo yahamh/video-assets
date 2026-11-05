@@ -1,12 +1,14 @@
 import React from "react";
-import { BG, DISPLAY, GOLD, GOLD_LIGHT, RED } from "../look";
+import { BG, DISPLAY, GOLD, GOLD_DARK, GOLD_LIGHT, RED } from "../look";
 import { CutGem, Egg, PearPearl, RoughDiamond, Sandwich, Sparkle, Spotlight } from "../art";
 import { SceneProps, num, str } from "./types";
 
 // The opening shot: the payoff of the story, big, already moving on the very first frame, so the video stops the scroll
 // before a word is heard. The story's hook text sits above it (see HookText in Frame.tsx).
 // Options: show ("parcel": an open parcel with the stone rising out of it, "rough", "gem", "pearl" (a pear-shaped pearl),
-// "egg" (a ribbed gold Easter egg on a stand), "sandwich" (half eaten), "chest"), shape and tone (for gem; tone for pearl), label (address on the
+// "egg" (a ribbed gold Easter egg on a stand), "sandwich" (half eaten), "coins" (three stacks of gold coins growing, one
+// spinning above them), "nugget" (a lumpy gold nugget turning slowly), "granules" (a gold disc that fills with tiny gold
+// grains, ring by ring: granulation), "chest"), shape and tone (for gem; tone for pearl), label (address on the
 // parcel), stamp (red word on the parcel or chest), halo (a colour for the light around the stone instead of gold,
 // for a stone that glows, like "#ff6a2a").
 export const Hook: React.FC<SceneProps> = ({ t, p }) => {
@@ -34,8 +36,93 @@ export const Hook: React.FC<SceneProps> = ({ t, p }) => {
       />,
     );
   }
+  // Gold coins: three stacks that grow a coin at a time and a coin spinning above them.
+  const coinAt = (x: number, y: number, rx: number, k: number) => (
+    <g key={`${x}-${y}`}>
+      <ellipse cx={x} cy={y + 14} rx={rx} ry={rx * 0.26} fill={GOLD_DARK} stroke="#0a0705" strokeWidth={4} />
+      <ellipse cx={x} cy={y} rx={rx} ry={rx * 0.26} fill={k % 2 ? GOLD : GOLD_LIGHT} stroke="#0a0705" strokeWidth={4} />
+      <ellipse cx={x} cy={y} rx={rx * 0.7} ry={rx * 0.17} fill="none" stroke={GOLD_DARK} strokeWidth={3} />
+    </g>
+  );
+  const coinStacks = [
+    { x: 380, n: 7, r: 112 },
+    { x: 700, n: 9, r: 118 },
+    { x: 540, n: 12, r: 128 },
+  ].map(({ x, n, r }) => {
+    const shown = Math.max(2, Math.floor(n * Math.min(1, 0.55 + t * 0.45)));
+    return <g key={x}>{Array.from({ length: shown }, (_, i) => coinAt(x, cy + 330 - i * 26, r, i))}</g>;
+  });
+  const flip = Math.cos(t * 3.4);
+  const spinning = (
+    <g>
+      <ellipse cx={540} cy={cy - 120 + bob} rx={Math.max(10, 150 * Math.abs(flip))} ry={150} fill={flip > 0 ? GOLD_LIGHT : GOLD} stroke="#0a0705" strokeWidth={5} />
+      <ellipse cx={540} cy={cy - 120 + bob} rx={Math.max(6, 110 * Math.abs(flip))} ry={110} fill="none" stroke={GOLD_DARK} strokeWidth={5} />
+    </g>
+  );
+  // A gold nugget: a lumpy outline cut into light and dark planes, turning a little.
+  const nuggetPlanes: [string, string][] = [
+    ["-300,60 -250,-80 -130,-160 -90,-20 -200,70", GOLD],
+    ["-250,-80 -130,-160 20,-200 -20,-60 -90,-20", GOLD_LIGHT],
+    ["20,-200 170,-150 150,-30 -20,-60", GOLD],
+    ["170,-150 290,-50 310,80 150,-30", GOLD_DARK],
+    ["-90,-20 -20,-60 150,-30 120,110 -60,100", GOLD_LIGHT],
+    ["-200,70 -90,-20 -60,100 -150,180 -260,150", GOLD_DARK],
+    ["-60,100 120,110 40,200 -150,180", GOLD],
+    ["150,-30 310,80 220,170 120,110", GOLD],
+  ];
+  const nugget = (
+    <g transform={`translate(540 ${cy - 10 + bob}) rotate(${turn * 4}) scale(${size / 560})`}>
+      <path d="M-300 60 L-250 -80 L-130 -160 L20 -200 L170 -150 L290 -50 L310 80 L220 170 L40 200 L-150 180 L-260 150Z" fill={GOLD} />
+      {nuggetPlanes.map(([pts, c], i) => (
+        <polygon key={i} points={pts} fill={c} stroke="#0a0705" strokeWidth={3} strokeLinejoin="round" opacity={0.96} />
+      ))}
+      <path d="M-300 60 L-250 -80 L-130 -160 L20 -200 L170 -150 L290 -50 L310 80 L220 170 L40 200 L-150 180 L-260 150Z" fill="none" stroke="#0a0705" strokeWidth={6} strokeLinejoin="round" />
+    </g>
+  );
+  // Granulation: a gold disc whose rings of tiny grains appear one after another, a few grains at a time.
+  const grains: React.ReactNode[] = [];
+  if (show === "granules") {
+    const rings = [
+      { r: 90, n: 8 },
+      { r: 165, n: 15 },
+      { r: 240, n: 22 },
+      { r: 315, n: 29 },
+    ];
+    rings.forEach(({ r, n }, ri) => {
+      for (let i = 0; i < n; i++) {
+        const k = Math.max(0, Math.min(1, t * 1.4 + 0.5 - (ri * n + i) / 74));
+        if (k <= 0) continue;
+        const a = (i / n) * Math.PI * 2 + ri * 0.4;
+        const gx = 540 + Math.cos(a) * r;
+        const gy = cy + Math.sin(a) * r;
+        grains.push(
+          <g key={`${ri}-${i}`} opacity={k}>
+            <circle cx={gx} cy={gy} r={19 * (0.6 + 0.4 * k)} fill={GOLD_LIGHT} stroke="#0a0705" strokeWidth={3} />
+            <circle cx={gx - 5} cy={gy - 6} r={5} fill="#fff6dc" opacity={0.9} />
+          </g>,
+        );
+      }
+    });
+  }
+  const granules = (
+    <g>
+      <circle cx={540} cy={cy + bob * 0.4} r={370} fill={GOLD_DARK} stroke="#0a0705" strokeWidth={6} />
+      <circle cx={540} cy={cy + bob * 0.4} r={352} fill={GOLD} stroke="#0a0705" strokeWidth={4} />
+      <circle cx={540} cy={cy + bob * 0.4} r={30} fill={GOLD_LIGHT} stroke="#0a0705" strokeWidth={3} />
+      <g transform={`translate(0 ${bob * 0.4})`}>{grains}</g>
+    </g>
+  );
   const stone =
-    show === "gem" ? (
+    show === "granules" ? (
+      granules
+    ) : show === "nugget" ? (
+      nugget
+    ) : show === "coins" ? (
+      <g>
+        {coinStacks}
+        {spinning}
+      </g>
+    ) : show === "gem" ? (
       <CutGem x={540} y={cy + bob} size={size} shape={shape} tone={tone} />
     ) : show === "sandwich" ? (
       <Sandwich x={540} y={cy + bob * 0.4} w={size * 1.1} />

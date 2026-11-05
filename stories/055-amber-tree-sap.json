@@ -1,0 +1,154 @@
+{
+  "id": "055-amber-tree-sap",
+  "number": 55,
+  "title": "Amber jewelry is 45-million-year-old tree sap",
+  "topic": "amber tree sap",
+  "style": "paper",
+  "plate": "Amber",
+  "music": "music-055.wav",
+  "hook": {
+    "text": "Amber jewelry is 45-million-year-old tree sap.",
+    "gold": [
+      "45-million-year-old"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Amber jewelry is 45-million-year-old tree sap.",
+      "say": "Amber jewelry is forty-five million year old tree sap.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#e0891a",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Amber is sap from ancient trees that hardened into a fossil,",
+      "scene": {
+        "kind": "title",
+        "text": "Fossil tree sap",
+        "sub": "That's amber",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "and Baltic amber is about 45 million years old.",
+      "say": "and Baltic amber is about forty-five million years old.",
+      "scene": {
+        "kind": "title",
+        "text": "45 million years",
+        "sub": "Baltic amber",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Sometimes a leaf or an insect landed in the sticky sap,",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0891a",
+        "garden": true,
+        "label": "Trapped inside",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "and it hardened around them.",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#e0891a",
+        "to": "Trapped for good",
+        "date": "Millions of years",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "People have worn amber for more than 10,000 years.",
+      "say": "People have worn amber for more than ten thousand years.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#e0891a",
+        "metal": "yellow",
+        "velvet": "#f0552e",
+        "label": "Amber beads",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "A Spanish cave held a Baltic amber bead from about 3500 BC.",
+      "say": "A Spanish cave held a Baltic amber bead from about thirty-five hundred B C.",
+      "scene": {
+        "kind": "title",
+        "text": "Near Barcelona",
+        "sub": "About 3500 BC",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It's the earliest sign of Baltic amber reaching western Europe.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Baltic Sea",
+          "x": 0.62,
+          "y": 0.15
+        },
+        "to": {
+          "name": "Barcelona",
+          "x": 0.3,
+          "y": 0.8
+        },
+        "icon": "parcel",
+        "label": "An amber bead",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Rub amber on cloth and it pulls up bits of paper.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0891a",
+        "light": "#fff2c4",
+        "label": "Static charge",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The Greek word for amber, elektron, gave us electricity.",
+      "scene": {
+        "kind": "title",
+        "text": "elektron",
+        "sub": "The Greek word for amber",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Baltic amber is fossilized tree sap about 45 million years old, and people have worn it for more than 10,000 years. Rub it on cloth and it picks up bits of paper, which is why the Greek word for amber, elektron, gave us electricity.",
+    "hashtags": [
+      "#amber",
+      "#balticamber",
+      "#amberjewelry",
+      "#fossil",
+      "#gemstones"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/amber-description",
+    "https://kids.britannica.com/students/article/amber/272829",
+    "https://uwaterloo.ca/earth-sciences-museum/educational-resources/articles/baltic-amber",
+    "https://hamburg.leibniz-lib.de/en/sammlungen/palaeontologie/bernsteinsammlung.html",
+    "https://doaj.org/article/2de7196f74a94c1894da2494922bf4cb"
+  ]
+}

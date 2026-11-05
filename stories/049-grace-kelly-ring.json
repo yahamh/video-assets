@@ -1,0 +1,181 @@
+{
+  "id": "049-grace-kelly-ring",
+  "number": 49,
+  "title": "Grace Kelly wore her real ring on screen",
+  "topic": "grace kelly engagement ring",
+  "style": "paper",
+  "plate": "Grace Kelly's Ring",
+  "theme": "blush",
+  "music": "music-049.wav",
+  "hook": {
+    "text": "Grace Kelly filmed wearing her own ring.",
+    "gold": [
+      "Grace Kelly",
+      "ring"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Grace Kelly filmed wearing her own ring.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "emerald",
+        "tone": "#e9f1f6",
+        "metal": "white",
+        "prongs": 4,
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Prince Rainier of Monaco proposed to Grace Kelly at Christmas in 1955.",
+      "say": "Prince Rainier of Monaco proposed to Grace Kelly at Christmas in nineteen fifty-five.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Rainier and Grace Kelly",
+        "role": "Christmas 1955",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#e8b8c8",
+            "hair": "updo",
+            "hairColor": "#e6c888",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pearls"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The first ring was rubies and diamonds, the colors of Monaco's flag.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#d8283c",
+        "metal": "yellow",
+        "prongs": 4,
+        "label": "Rubies and diamonds",
+        "velvet": "#5bb4e8",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The engagement was announced on January 5, 1956,",
+      "say": "The engagement was announced on January fifth, nineteen fifty-six,",
+      "scene": {
+        "kind": "title",
+        "text": "5 January 1956",
+        "sub": "Philadelphia",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "and a second ring came from Cartier.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Prince Rainier",
+        "role": "A ring from Cartier",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#2e2420",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "prop": "ringbox"
+          }
+        ],
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "It was platinum, with an emerald-cut diamond of over ten carats,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "emerald",
+        "tone": "#e9f1f6",
+        "metal": "white",
+        "prongs": 4,
+        "label": "Over ten carats",
+        "velvet": "#ec6a9c",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "with a diamond baguette on each side.",
+      "scene": {
+        "kind": "title",
+        "text": "Two baguettes",
+        "sub": "One on each side",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "That same month she began filming High Society, her last movie,",
+      "say": "That same month she began filming High Society, her last movie,",
+      "scene": {
+        "kind": "title",
+        "text": "High Society",
+        "sub": "Filming began in January 1956",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "and she wore the real ring on screen, not a prop.",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "shape": "emerald",
+        "tone": "#e9f1f6",
+        "to": "Grace Kelly",
+        "date": "In High Society",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It still belongs to Monaco's princely family today.",
+      "scene": {
+        "kind": "title",
+        "text": "Monaco",
+        "sub": "Still in the family",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Prince Rainier proposed to Grace Kelly at Christmas 1955, and a Cartier ring with an emerald-cut diamond of over ten carats followed in January 1956. She wore the real ring in her last film, High Society. It still belongs to the Monaco family.",
+    "hashtags": [
+      "#gracekelly",
+      "#engagementring",
+      "#cartier",
+      "#monaco",
+      "#highsociety"
+    ]
+  },
+  "sources": [
+    "https://www.thejewelleryeditor.com/bridal/article/grace-kellys-engagement-ring/",
+    "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+    "https://thecourtjeweller.com/2025/04/cartiers-bains-de-mer-tiara-sparkles-at-the-va-in-london.html",
+    "https://www.phillymag.com/news/2007/07/02/the-wedding-of-the-century",
+    "https://royalcentral.co.uk/features/princess-graces-two-engagements-rings-combined-royal-history-and-hollywood-glamour-206896/"
+  ]
+}

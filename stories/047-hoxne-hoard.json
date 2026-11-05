@@ -1,0 +1,235 @@
+{
+  "id": "047-hoxne-hoard",
+  "number": 47,
+  "title": "A lost hammer led to the Hoxne Hoard",
+  "topic": "hoxne hoard",
+  "music": "music-047.wav",
+  "hook": {
+    "text": "A lost hammer led to Roman gold.",
+    "gold": [
+      "hammer",
+      "gold"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A lost hammer led to Roman gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "coins"
+      }
+    },
+    {
+      "text": "In 1992, a Suffolk farmer named Peter Whatling lost a hammer.",
+      "say": "In nineteen ninety-two, a Suffolk farmer named Peter Whatling lost a hammer.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Peter Whatling",
+        "role": "A farmer in Suffolk",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a3a",
+            "hair": "short",
+            "hairColor": "#6b5a48",
+            "skin": "#efc9a6",
+            "expression": "worried",
+            "old": true
+          }
+        ]
+      }
+    },
+    {
+      "text": "So Eric Lawes brought a metal detector to help him look.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Eric Lawes",
+        "role": "With a metal detector",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a3a",
+            "hair": "short",
+            "hairColor": "#6b5a48",
+            "skin": "#efc9a6",
+            "expression": "worried",
+            "old": true
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a5a4a",
+            "hair": "short",
+            "hairColor": "#4a3a2e",
+            "skin": "#f3d6bd",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It found a Roman hoard instead, and he stopped digging at once.",
+      "say": "It found a Roman hoard instead, and he stopped digging at once.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Eric Lawes",
+        "role": "16 November 1992",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a5a4a",
+            "hair": "short",
+            "hairColor": "#4a3a2e",
+            "skin": "#f3d6bd",
+            "expression": "surprised"
+          }
+        ],
+        "gasp": 0.4
+      }
+    },
+    {
+      "text": "He called the county council,",
+      "scene": {
+        "kind": "title",
+        "text": "He called the council",
+        "sub": "Suffolk County Council"
+      }
+    },
+    {
+      "text": "and archaeologists dug out the rest the next day.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Archaeologists",
+        "role": "The next day",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a5a6a",
+            "hair": "side",
+            "hairColor": "#5a4a3a",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "glasses": "round"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a5a3a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#8a5a3c",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It held nearly 15,000 coins, 569 of them gold,",
+      "say": "It held nearly fifteen thousand coins, five hundred sixty-nine of them gold,",
+      "scene": {
+        "kind": "title",
+        "text": "Nearly 15,000 coins",
+        "sub": "569 of them gold"
+      }
+    },
+    {
+      "text": "and 29 pieces of gold jewelry.",
+      "say": "and twenty-nine pieces of gold jewelry.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "tone": "#e8c25a",
+        "velvet": "#3a2a14",
+        "label": "29 pieces of gold jewelry"
+      }
+    },
+    {
+      "text": "One gold bracelet reads, \"Use this happily, lady Juliane.\"",
+      "scene": {
+        "kind": "title",
+        "text": "Use this happily",
+        "sub": "Lady Juliane's bracelet"
+      }
+    },
+    {
+      "text": "Lawes was rewarded with 1.75 million pounds,",
+      "say": "Lawes was rewarded with one point seven five million pounds,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Eric Lawes",
+        "role": "Rewarded 1.75 million pounds",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a5a4a",
+            "hair": "short",
+            "hairColor": "#4a3a2e",
+            "skin": "#f3d6bd",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and he split it 50-50 with the farmer, which no law required.",
+      "say": "and he split it fifty-fifty with the farmer, which no law required.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Lawes and Whatling",
+        "role": "Fifty-fifty",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a5a4a",
+            "hair": "short",
+            "hairColor": "#4a3a2e",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a3a",
+            "hair": "short",
+            "hairColor": "#6b5a48",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "old": true
+          }
+        ]
+      }
+    },
+    {
+      "text": "The hoard and the lost hammer are both in the British Museum.",
+      "scene": {
+        "kind": "title",
+        "text": "British Museum",
+        "sub": "Hoard and hammer"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1992 Eric Lawes went to help a farmer look for a lost hammer in a Suffolk field. His metal detector found a Roman hoard of nearly 15,000 coins and 29 pieces of gold jewelry. He split the reward with the farmer.",
+    "hashtags": [
+      "#hoxnehoard",
+      "#romangold",
+      "#metaldetecting",
+      "#britishmuseum",
+      "#ancientjewelry"
+    ]
+  },
+  "sources": [
+    "https://archaeology.co.uk/articles/news/hoxne.htm",
+    "https://www.worldhistory.org/article/932/the-roman-hoxne-hoard/",
+    "https://www.britishmuseum.org/collection/object/H_1994-0408-30",
+    "https://www.inkl.com/news/eric-lawes-obituary"
+  ]
+}

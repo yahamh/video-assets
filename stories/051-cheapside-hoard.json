@@ -1,0 +1,210 @@
+{
+  "id": "051-cheapside-hoard",
+  "number": 51,
+  "title": "A London cellar hid nearly 500 jewels",
+  "topic": "cheapside hoard",
+  "style": "lowpoly",
+  "music": "music-051.wav",
+  "hook": {
+    "text": "A London cellar hid nearly 500 jewels.",
+    "gold": [
+      "500",
+      "jewels"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A London cellar hid nearly 500 jewels.",
+      "say": "A London cellar hid nearly five hundred jewels.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#2f9e6b"
+      }
+    },
+    {
+      "text": "In June 1912, workmen were breaking up a cellar floor in London,",
+      "say": "In June nineteen twelve, workmen were breaking up a cellar floor in London,",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Cheapside, London",
+        "role": "June 1912",
+        "cast": [
+          {
+            "outfit": "miner",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "cap"
+          },
+          {
+            "outfit": "miner",
+            "outfitColor": "#5a6a5a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "when something glinted in the soil below.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Cheapside, London",
+        "role": "A cellar floor",
+        "cast": [
+          {
+            "outfit": "miner",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "surprised",
+            "hat": "cap"
+          },
+          {
+            "outfit": "miner",
+            "outfitColor": "#5a6a5a",
+            "hair": "curly",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "surprised",
+            "hat": "cap"
+          }
+        ],
+        "gasp": 0.3
+      }
+    },
+    {
+      "text": "They took the finds to a dealer nicknamed Stony Jack,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Stony Jack",
+        "role": "A jewelry dealer",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a3a2e",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#f3d6bd",
+            "expression": "sly",
+            "facial": "mustache",
+            "glasses": "monocle"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The jewels included emeralds from Colombia and diamonds from India.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Colombia",
+          "x": 0.18,
+          "y": 0.75
+        },
+        "to": {
+          "name": "London",
+          "x": 0.82,
+          "y": 0.25
+        },
+        "icon": "ship",
+        "label": "Emeralds"
+      }
+    },
+    {
+      "text": "One Colombian emerald was carved out to hold a tiny watch.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#2f9e6b",
+        "label": "An emerald with a watch"
+      }
+    },
+    {
+      "text": "It was buried between 1640 and 1666,",
+      "say": "It was buried between sixteen forty and sixteen sixty-six,",
+      "scene": {
+        "kind": "title",
+        "text": "1640 to 1666",
+        "sub": "Buried"
+      }
+    },
+    {
+      "text": "and it stayed there for over 240 years.",
+      "say": "and it stayed there for over two hundred forty years.",
+      "scene": {
+        "kind": "title",
+        "text": "240 years",
+        "sub": "Underground"
+      }
+    },
+    {
+      "text": "Nobody knows who hid it.",
+      "scene": {
+        "kind": "stranger",
+        "darkAt": 0.5
+      }
+    },
+    {
+      "text": "The best guess is a jeweler's stock, hidden during the Civil War.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A London jeweler",
+        "role": "The Civil War",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#ece2cc",
+            "hair": "side",
+            "hairColor": "#4a3a2e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "glasses": "loupe",
+            "old": true
+          }
+        ]
+      }
+    },
+    {
+      "text": "Almost all of it belongs to the London Museum today.",
+      "scene": {
+        "kind": "title",
+        "text": "London Museum",
+        "sub": "The Cheapside Hoard"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1912 workmen breaking up a cellar floor on Cheapside in London found nearly 500 jewels and gems, buried between 1640 and 1666. Nobody knows who hid them. Almost all of them are in the London Museum today.",
+    "hashtags": [
+      "#cheapsidehoard",
+      "#londonhistory",
+      "#hiddentreasure",
+      "#emeralds",
+      "#londonmuseum"
+    ]
+  },
+  "sources": [
+    "https://www.londonmuseum.org.uk/collections/london-stories/cheapside-hoard/",
+    "https://www.gia.edu/doc/1495295553823/GG-FA13-Weldon.pdf",
+    "https://www.ksl.com/article/news/world/cheapside-hoard-puts-17th-century-bling-on-display/27200619",
+    "https://www.ianvisits.co.uk/articles/hidden-for-100-years-the-cheapside-hoard-goes-on-display-again-8595/"
+  ]
+}

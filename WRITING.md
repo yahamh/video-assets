@@ -138,7 +138,7 @@ Each line shows one scene. The options are at the top of each file in `src/scene
 
 | kind | what it shows |
 | --- | --- |
-| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl, a gold Easter egg; `halo` for a stone that glows) |
+| hook | the opening shot only: the payoff, big and moving from frame one (a stone rising out of a parcel or a chest, a rough stone, a cut gem, a pear-shaped pearl, a gold Easter egg; `halo` for a stone that glows; in the dark drawing also `coins` (stacks of gold coins), `nugget` and `granules` (a gold disc filling with tiny grains)) |
 | cast | 1 to 3 people of the story in a setting (mine, ship, palace, workshop, street, study, vault, plain), with a name card. Looks in `src/people/Person.tsx` (`mask: true` covers nose and mouth) |
 | parcel | a plain parcel under a light; a stamp can slam on |
 | mine | an open mine at night, the rough stone, a carat count |

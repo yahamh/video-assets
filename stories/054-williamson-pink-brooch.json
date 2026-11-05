@@ -1,0 +1,163 @@
+{
+  "id": "054-williamson-pink-brooch",
+  "number": 54,
+  "title": "A geologist's wedding gift was a pink diamond",
+  "topic": "williamson pink diamond brooch",
+  "style": "lowpoly",
+  "music": "music-054.wav",
+  "hook": {
+    "text": "The Queen's wedding gift: a pink diamond.",
+    "gold": [
+      "wedding",
+      "pink"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Queen's wedding gift: a pink diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#f3a6c2"
+      }
+    },
+    {
+      "text": "In 1947, John Williamson's mine in Tanganyika produced a pink diamond.",
+      "say": "In nineteen forty-seven, John Williamson's mine in Tanganyika produced a pink diamond.",
+      "scene": {
+        "kind": "mine",
+        "place": "Mwadui, Tanganyika",
+        "year": "1947",
+        "tone": "#f3a6c2"
+      }
+    },
+    {
+      "text": "Williamson, a Canadian geologist, gave it to Princess Elizabeth",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "John Williamson",
+        "role": "A Canadian geologist",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#5a4a3a",
+            "hair": "side",
+            "hairColor": "#b9b4ab",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "old": true,
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "as a wedding present for her and Prince Philip.",
+      "scene": {
+        "kind": "gift",
+        "stone": "round",
+        "tone": "#f3a6c2",
+        "to": "Princess Elizabeth",
+        "date": "1947"
+      }
+    },
+    {
+      "text": "It was 54.5 carats in the rough,",
+      "say": "It was fifty-four point five carats in the rough,",
+      "scene": {
+        "kind": "title",
+        "text": "54.5 carats",
+        "sub": "Uncut"
+      }
+    },
+    {
+      "text": "and two London cutters made it a 23.6-carat round brilliant.",
+      "say": "and two London cutters made it a twenty-three point six carat round brilliant.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Clerkenwell, London",
+        "pieces": [
+          {
+            "shape": "round",
+            "carats": 23.6,
+            "tone": "#f3a6c2"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Cartier set it in a platinum brooch shaped like a jonquil flower,",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "tone": "#f3a6c2",
+        "label": "Cartier brooch"
+      }
+    },
+    {
+      "text": "with 203 small white diamonds around it.",
+      "say": "with two hundred three small white diamonds around it.",
+      "scene": {
+        "kind": "title",
+        "text": "203 diamonds",
+        "sub": "Around the pink center"
+      }
+    },
+    {
+      "text": "The brooch was finished in 1953, her coronation year.",
+      "say": "The brooch was finished in nineteen fifty-three, her coronation year.",
+      "scene": {
+        "kind": "title",
+        "text": "1953",
+        "sub": "Her coronation year"
+      }
+    },
+    {
+      "text": "In 2024, Queen Camilla wore it to a Buckingham Palace garden party.",
+      "say": "In twenty twenty-four, Queen Camilla wore it to a Buckingham Palace garden party.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Camilla",
+        "role": "May 2024",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#9cc3e6",
+            "hair": "curly",
+            "hairColor": "#c9c1b6",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pendant",
+            "jewelTone": "#f3a6c2"
+          }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1947 Canadian geologist John Williamson gave Princess Elizabeth a pink diamond from his Tanganyika mine as a wedding present. Cut to 23.6 carats and set by Cartier as a jonquil brooch, it was worn by Queen Camilla in 2024.",
+    "hashtags": [
+      "#williamsonpink",
+      "#pinkdiamond",
+      "#royaljewels",
+      "#cartier",
+      "#brooch"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/exhibitions/a-royal-wedding/buckingham-palace/williamson-diamond-brooch",
+    "https://www.thecourtjeweller.com/2022/05/platinum-jubilee-jewel-countdown-the-williamson-pink-diamond-brooch.html",
+    "https://www.historyofroyalwomen.com/royal-jewels/queen-elizabeth-iis-williamson-diamond-brooch/",
+    "https://www.sothebys.com/en/articles/life-in-pink-historys-famous-multimillion-dollar-diamonds",
+    "https://royalwatcherblog.com/2024/05/15/garden-party-at-buckingham-palace-24-3/"
+  ]
+}

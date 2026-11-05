@@ -1,0 +1,210 @@
+{
+  "id": "053-welcome-stranger-nugget",
+  "number": 53,
+  "title": "A pick struck a 72-kilogram gold nugget",
+  "topic": "welcome stranger gold nugget",
+  "music": "music-053.wav",
+  "hook": {
+    "text": "A pick struck a 72-kilogram gold nugget.",
+    "gold": [
+      "pick",
+      "72-kilogram"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pick struck a 72-kilogram gold nugget.",
+      "say": "A pick struck a seventy-two kilogram gold nugget.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "In 1869, two Cornish miners named John Deason and Richard Oates",
+      "say": "In eighteen sixty-nine, two Cornish miners named John Deason and Richard Oates",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Deason and Oates",
+        "role": "5 February 1869",
+        "cast": [
+          {
+            "outfit": "miner",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "cap"
+          },
+          {
+            "outfit": "miner",
+            "outfitColor": "#4a5a6a",
+            "hair": "curly",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "were working round the roots of a tree in Victoria, Australia.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Moliagul",
+        "role": "Victoria, Australia",
+        "cast": [
+          {
+            "outfit": "miner",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "hat": "cap"
+          },
+          {
+            "outfit": "miner",
+            "outfitColor": "#4a5a6a",
+            "hair": "curly",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Deason's pick hit something hard, just below the surface.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "John Deason",
+        "role": "A pick hit something hard",
+        "cast": [
+          {
+            "outfit": "miner",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#efc9a6",
+            "expression": "surprised",
+            "hat": "cap"
+          }
+        ],
+        "gasp": 0.3
+      }
+    },
+    {
+      "text": "The gold in it weighed about 72 kilograms, or 160 pounds.",
+      "say": "The gold in it weighed about seventy-two kilograms, or one hundred sixty pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "72 kilograms",
+        "sub": "About 160 pounds of gold"
+      }
+    },
+    {
+      "text": "A blacksmith in Dunolly broke it into three pieces on an anvil.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A Dunolly blacksmith",
+        "role": "Three pieces",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#8a7a6a",
+            "hair": "bald",
+            "hairColor": "#3a2a1e",
+            "skin": "#c98e6a",
+            "expression": "proud",
+            "facial": "fullbeard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They sold it to a bank in Dunolly for about 9,400 pounds.",
+      "say": "They sold it to a bank in Dunolly for about nine thousand four hundred pounds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The bank at Dunolly",
+        "role": "About 9,400 pounds",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3a4a",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Nobody photographed or cast it before it was melted down.",
+      "scene": {
+        "kind": "title",
+        "text": "No photo exists",
+        "sub": "Only drawings of the nugget"
+      }
+    },
+    {
+      "text": "Oates bought an 800-acre farm with his share and had four children.",
+      "say": "Oates bought an eight hundred acre farm with his share and had four children.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Richard Oates",
+        "role": "An 800-acre farm",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a5a6a",
+            "hair": "curly",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It's still the biggest nugget ever found in loose ground.",
+      "scene": {
+        "kind": "title",
+        "text": "Welcome Stranger",
+        "sub": "The biggest alluvial nugget"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1869 two Cornish miners in Victoria, Australia, hit a gold nugget with a pick just below the surface. The gold in it weighed about 72 kilograms. It's still the biggest nugget ever found in loose ground.",
+    "hashtags": [
+      "#welcomestranger",
+      "#goldnugget",
+      "#goldrush",
+      "#australia",
+      "#gold"
+    ]
+  },
+  "sources": [
+    "https://dynamic-rsnz.natlib.govt.nz/newspapers/WEST18690306.2.16",
+    "https://moneyweek.com/378724/5-february-1869-worlds-biggest-gold-nugget-is-found",
+    "https://monumentaustralia.org.au/themes/technology/industry/display/32657-welcome-stranger-obelisk",
+    "https://www.iflscience.com/largest-gold-nugget-ever-found-weighed-the-same-as-an-adult-man-72778"
+  ]
+}

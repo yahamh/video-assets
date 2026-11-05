@@ -1,0 +1,177 @@
+{
+  "id": "050-patiala-necklace",
+  "number": 50,
+  "title": "Cartier rebuilt the Patiala Necklace",
+  "topic": "patiala necklace",
+  "music": "music-050.wav",
+  "hook": {
+    "text": "Cartier rebuilt a lost 2,930-diamond necklace.",
+    "gold": [
+      "rebuilt",
+      "2,930-diamond"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier rebuilt a lost 2,930-diamond necklace.",
+      "say": "Cartier rebuilt a lost two thousand nine hundred thirty diamond necklace.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#f2e08a"
+      }
+    },
+    {
+      "text": "In 1928, the Maharaja of Patiala ordered a Cartier necklace.",
+      "say": "In nineteen twenty-eight, the Maharaja of Patiala ordered a Cartier necklace.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Maharaja of Patiala",
+        "role": "The order, 1928",
+        "cast": [
+          {
+            "outfit": "royal",
+            "outfitColor": "#8e1f2c",
+            "hair": "short",
+            "hairColor": "#1e1814",
+            "skin": "#c98e6a",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It held 2,930 diamonds, set in platinum.",
+      "say": "It held two thousand nine hundred thirty diamonds, set in platinum.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "label": "2,930 diamonds"
+      }
+    },
+    {
+      "text": "Its center was a pale yellow diamond of about 234 carats.",
+      "say": "Its center was a pale yellow diamond of about two hundred thirty-four carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f2e08a",
+        "label": "De Beers diamond"
+      }
+    },
+    {
+      "text": "Around 1948, it was reported missing from the royal treasury,",
+      "say": "Around nineteen forty-eight, it was reported missing from the royal treasury,",
+      "scene": {
+        "kind": "title",
+        "text": "About 1948",
+        "sub": "Missing from the treasury"
+      }
+    },
+    {
+      "text": "and no one knows how.",
+      "scene": {
+        "kind": "title",
+        "text": "Nobody knows how",
+        "sub": "Where it went"
+      }
+    },
+    {
+      "text": "In 1982 the big diamond alone turned up at a Geneva auction.",
+      "say": "In nineteen eighty-two the big diamond alone turned up at a Geneva auction.",
+      "scene": {
+        "kind": "title",
+        "text": "Geneva, 1982",
+        "sub": "The diamond alone"
+      }
+    },
+    {
+      "text": "In 1998, its platinum frame turned up in a London shop.",
+      "say": "In nineteen ninety-eight, its platinum frame turned up in a London shop.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A London shop",
+        "role": "1998",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a4a3a",
+            "hair": "side",
+            "hairColor": "#4a3a2e",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "glasses": "round",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Cartier bought it and rebuilt it by 2002,",
+      "say": "Cartier bought it and rebuilt it by two thousand two,",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Cartier",
+        "role": "Rebuilt by 2002",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#ece2cc",
+            "hair": "short",
+            "hairColor": "#6a5a4a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "glasses": "loupe"
+          }
+        ]
+      }
+    },
+    {
+      "text": "using stand-ins, such as zirconia and topaz, for the lost stones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "tone": "#cfe6f0",
+        "label": "Stand-in stones"
+      }
+    },
+    {
+      "text": "In 2025, it was shown at the V&A in London.",
+      "say": "In twenty twenty-five, it was shown at the V and A in London.",
+      "scene": {
+        "kind": "title",
+        "text": "V&A, London",
+        "sub": "Shown in 2025"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cartier made the Patiala Necklace in 1928 with 2,930 diamonds. It went missing around 1948, and in 1998 its platinum frame turned up in a London shop. Cartier bought it and rebuilt it with stand-in stones. It was shown at the V&A in 2025.",
+    "hashtags": [
+      "#patialanecklace",
+      "#cartier",
+      "#highjewelry",
+      "#diamonds",
+      "#vamuseum"
+    ]
+  },
+  "sources": [
+    "https://www.vam.ac.uk/exhibitions/cartier",
+    "https://www.tribuneindia.com/news/arts/patiala-necklace-shimmers-at-londons-va",
+    "https://jckonline.com/?p=40248",
+    "https://www.hellomagazine.com/fashion/457337/cartier/",
+    "https://www.tribuneindia.com/news/features/trail-of-a-treasure-lost-44556"
+  ]
+}
