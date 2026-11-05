@@ -1,0 +1,182 @@
+{
+  "id": "045-carat-carob-seed",
+  "number": 45,
+  "title": "Diamond weight is named for a seed",
+  "topic": "carat carob seed",
+  "style": "lowpoly",
+  "music": "music-045.wav",
+  "hook": {
+    "text": "Diamond weight is named for a seed.",
+    "gold": [
+      "seed"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond weight is named for a seed.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e4eef2"
+      }
+    },
+    {
+      "text": "Long ago, traders weighed gems against carob seeds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A gem trader",
+        "role": "Long ago",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a5a3a",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The word comes from the Greek name for the seed.",
+      "scene": {
+        "kind": "title",
+        "text": "Kerátion",
+        "sub": "Greek for the carob seed"
+      }
+    },
+    {
+      "text": "But each gem center had its own carat.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Florence",
+          "x": 0.2,
+          "y": 0.7
+        },
+        "to": {
+          "name": "Amsterdam",
+          "x": 0.75,
+          "y": 0.25
+        },
+        "icon": "parcel",
+        "label": "Two carats"
+      }
+    },
+    {
+      "text": "In Florence it weighed about 197 milligrams, and in Amsterdam about 206.",
+      "say": "In Florence it weighed about one hundred ninety-seven milligrams, and in Amsterdam about two hundred six.",
+      "scene": {
+        "kind": "title",
+        "text": "197 and 206",
+        "sub": "Milligrams"
+      }
+    },
+    {
+      "text": "In 1907 a conference in Paris fixed it at 200 milligrams.",
+      "say": "In nineteen oh seven a conference in Paris fixed it at two hundred milligrams.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Paris",
+        "role": "1907",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "slick",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3a4a",
+            "hair": "short",
+            "hairColor": "#b9b4ab",
+            "skin": "#f3d6bd",
+            "expression": "focused",
+            "old": true
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3a2f",
+            "hair": "side",
+            "hairColor": "#4a3326",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "That's one fifth of a gram, split into 100 points.",
+      "say": "That's one fifth of a gram, split into one hundred points.",
+      "scene": {
+        "kind": "title",
+        "text": "100 points",
+        "sub": "In every carat"
+      }
+    },
+    {
+      "text": "So a half-carat diamond is 50 points.",
+      "say": "So a half-carat diamond is fifty points.",
+      "scene": {
+        "kind": "gift",
+        "stone": "round",
+        "tone": "#e4eef2",
+        "to": "Half a carat",
+        "date": "50 points"
+      }
+    },
+    {
+      "text": "The karat that measures gold purity is the same word.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#e4eef2",
+        "metal": "yellow",
+        "label": "Karat, with a K"
+      }
+    },
+    {
+      "text": "So every diamond is still weighed in the name of a seed.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e4eef2",
+        "label": "Named for a seed",
+        "light": "#fff2c4"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The word carat goes back to the Greek name for the carob seed. Every gem center once had its own carat until 1907, when a conference in Paris fixed it at 200 milligrams.",
+    "hashtags": [
+      "#carat",
+      "#diamonds",
+      "#gemology",
+      "#jewelryfacts",
+      "#caratweight"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carat_(mass)",
+    "https://www.etymonline.com/word/carat",
+    "https://www.britannica.com/topic/carat",
+    "https://bigenc.ru/c/karat-1faff5",
+    "https://4cs.gia.edu/en-us/diamond-carat-weight/",
+    "https://www.etymonline.com/word/karat"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "044-tanzanite",
+  "number": 44,
+  "title": "Only one place on Earth has tanzanite",
+  "plate": "Tanzanite",
+  "topic": "tanzanite",
+  "style": "paper",
+  "music": "music-044.wav",
+  "hook": {
+    "text": "Only one place on Earth has tanzanite.",
+    "gold": [
+      "one place",
+      "tanzanite"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Only one place on Earth has tanzanite.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#4a52c9",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It comes from the hills of Merelani, near Mount Kilimanjaro.",
+      "say": "It comes from the hills of Merelahnee, near Mount Kilimanjaro.",
+      "scene": {
+        "kind": "title",
+        "text": "Merelani",
+        "sub": "Near Mount Kilimanjaro",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Prospectors first dug up crystals there in 1967.",
+      "say": "Prospectors first dug up crystals there in nineteen sixty-seven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "name": "Merelani Hills",
+        "role": "1967",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#c0763a",
+            "hair": "short",
+            "hairColor": "#2e2420",
+            "skin": "#c98e6a",
+            "expression": "focused",
+            "prop": "shovel"
+          }
+        ]
+      }
+    },
+    {
+      "text": "One story says a lightning strike started a wildfire,",
+      "scene": {
+        "kind": "title",
+        "text": "Lightning",
+        "sub": "One story says",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "and Maasai herders then noticed bright blue crystals.",
+      "say": "and Mahsigh herders then noticed bright blue crystals.",
+      "scene": {
+        "kind": "mine",
+        "ground": "field",
+        "place": "Merelani Hills",
+        "tone": "#4a52c9",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Tiffany & Co. introduced it in 1968 and named it after Tanzania.",
+      "say": "Tiffany and Company introduced it in nineteen sixty-eight and named it after Tanzania.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#4a52c9",
+        "metal": "white",
+        "prongs": 4,
+        "label": "Tanzanite",
+        "velvet": "#ec6a9c",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Turn it in the light and it shows three different colors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4a52c9",
+        "toneTo": "#7b45b4",
+        "label": "Different angles",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Nearly all tanzanite on sale has been heated first.",
+      "scene": {
+        "kind": "title",
+        "text": "Heated",
+        "sub": "Nearly all tanzanite",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "In 2002 it became a December birthstone,",
+      "say": "In two thousand two it became a December birthstone,",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#4a52c9",
+        "to": "December",
+        "date": "Since 2002",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "and it is still found only in those hills.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4a52c9",
+        "label": "Still one source",
+        "light": "#fff2c4",
+        "color": "#5bb4e8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tanzanite was first dug up in 1967 in the hills of Merelani, near Mount Kilimanjaro, and that is still the only place it is found. Tiffany & Co. named it for Tanzania in 1968.",
+    "hashtags": [
+      "#tanzanite",
+      "#gemstones",
+      "#decemberbirthstone",
+      "#tiffany",
+      "#jewelryfacts"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/tanzanite",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002693",
+    "https://agta.org/?p=332",
+    "https://www.ganoksin.com/article/the-blue-miracle/",
+    "https://www.tiffany.com/high-jewelry/tiffany-gemstones/",
+    "https://www.jckonline.com/editorial-article/tanzanite-becomes-a-december-birthstone/"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "lesson-019-hidden-halo",
+  "series": "lesson",
+  "number": 19,
+  "title": "What a hidden halo is",
+  "topic": "hidden halo",
+  "music": "music-lesson-019.wav",
+  "hook": {
+    "text": "A halo hides under this stone.",
+    "gold": [
+      "halo"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A halo hides under this stone.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-front-input.webp",
+        "after": "mix585-front-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "That's a hidden halo: small diamonds set under the center stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-front.webp",
+        "label": "A hidden halo",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 2.4
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.215,
+            "text": "Halo",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "It's also called a secret halo or an under halo.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "label": "A secret halo",
+        "focus": {
+          "x": 0.57,
+          "y": 0.25,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "Nearly any center stone shape can have one.",
+      "scene": {
+        "kind": "photo",
+        "src": "refine-after.webp",
+        "label": "Any shape",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "Its small diamonds catch light and add a subtle sparkle.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-front.webp",
+        "label": "Subtle sparkle",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 3.2
+        }
+      }
+    },
+    {
+      "text": "It can cost a little more than a plain solitaire.",
+      "scene": {
+        "kind": "photo",
+        "src": "render-matthew-yellow.webp",
+        "label": "A plain solitaire",
+        "focus": {
+          "x": 0.5,
+          "y": 0.35,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "Lotion and dust can collect under the stone, so clean it often.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-back.webp",
+        "label": "Under the stone",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 2.2
+        }
+      }
+    },
+    {
+      "text": "A jeweler should also check the prongs now and then.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-front.webp",
+        "label": "The prongs",
+        "focus": {
+          "x": 0.5,
+          "y": 0.18,
+          "k": 2.8
+        },
+        "marks": [
+          {
+            "x": 0.44,
+            "y": 0.16,
+            "text": "Prong",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "From above, the ring looks like a plain solitaire,",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "label": "From above",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "because the diamonds sit below the stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-side.webp",
+        "label": "From the side",
+        "focus": {
+          "x": 0.5,
+          "y": 0.22,
+          "k": 2.4
+        },
+        "marks": [
+          {
+            "x": 0.49,
+            "y": 0.24,
+            "text": "Halo",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "A side render shows a client the halo before anything is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "mix585-still-three-quarter.webp",
+        "after": "mix585-render-three-quarter.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Hidden halo in a jewelry render: what it looks like",
+    "caption": "A hidden halo is a ring of small diamonds set under the center stone, so it shows from the side but not from above. It adds a subtle sparkle, can cost a little more than a plain solitaire and needs regular cleaning. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#hiddenhalo",
+      "#engagementring",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#ringsettings"
+    ]
+  },
+  "sources": [
+    "https://www.whiteflash.com/blog/hidden-halo-vs-under-rail-engagement-ring/",
+    "https://www.stienhardt.com/blogs/education/what-is-a-hidden-halo-setting",
+    "https://www.brilliantearth.com/news/hidden-halo-vs-halo/",
+    "https://www.peternorman.com/hidden-halo-vs-solitaire-engagement-rings/",
+    "https://www.frankjewelers.com/blogs/blog/hidden-halo-engagement-rings",
+    "https://www.theknot.com/content/hidden-halo-engagement-rings"
+  ]
+}

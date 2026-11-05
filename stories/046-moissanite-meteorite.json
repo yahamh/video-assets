@@ -1,0 +1,189 @@
+{
+  "id": "046-moissanite-meteorite",
+  "number": 46,
+  "title": "Moissanite was first found in a meteorite",
+  "plate": "Moissanite",
+  "topic": "moissanite",
+  "style": "paper",
+  "theme": "riso",
+  "music": "music-046.wav",
+  "hook": {
+    "text": "Moissanite was first found in a meteorite.",
+    "gold": [
+      "meteorite"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Moissanite was first found in a meteorite.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A French chemist, Henri Moissan, found tiny crystals,",
+      "say": "A French chemist, Henri Mwahssahn, found tiny crystals,",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Henri Moissan",
+        "role": "French chemist",
+        "color": "#5bb4e8",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#eef2f4",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "beard",
+            "prop": "magnifier"
+          }
+        ]
+      }
+    },
+    {
+      "text": "at a meteorite crater in Arizona.",
+      "scene": {
+        "kind": "title",
+        "text": "Arizona",
+        "sub": "A meteorite crater",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "In 1904 he worked out that they were silicon carbide.",
+      "say": "In nineteen oh four he worked out that they were silicon carbide.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "label": "Silicon carbide",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In 1905 George Kunz, a Tiffany gemologist, named it moissanite for Moissan.",
+      "say": "In nineteen oh five George Kunz, a Tiffany gemologist, named it moissanite for Moissan.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "George Kunz",
+        "role": "Tiffany gemologist",
+        "color": "#f7c23a",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3d",
+            "hair": "side",
+            "hairColor": "#6a4a30",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1906 Moissan won the Nobel Prize in Chemistry for isolating fluorine.",
+      "say": "In nineteen oh six Moissan won the Nobel Prize in Chemistry for isolating fluorine.",
+      "scene": {
+        "kind": "title",
+        "text": "Nobel Prize",
+        "sub": "Chemistry, 1906",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Natural moissanite is so rare that jewelry stones are grown in labs.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "Grown in a lab",
+        "pieces": [
+          {
+            "shape": "round",
+            "size": 0.7,
+            "tone": "#eef4f7"
+          },
+          {
+            "shape": "round",
+            "size": 0.7,
+            "tone": "#eef4f7"
+          },
+          {
+            "shape": "round",
+            "size": 0.7,
+            "tone": "#eef4f7"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Lab-grown moissanite gems reached jewelry stores in 1998.",
+      "say": "Lab-grown moissanite gems reached jewelry stores in nineteen ninety-eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1998",
+        "sub": "Gems reach jewelry stores",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It bends light more than a diamond does.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#eef4f7",
+        "label": "Bends light more",
+        "light": "#fff2c4",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Today, a stone first spotted at a meteorite crater sits in rings.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "metal": "white",
+        "prongs": 6,
+        "label": "Moissanite",
+        "velvet": "#f7c23a",
+        "color": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Henri Moissan found tiny crystals at a meteorite crater in Arizona, and in 1905 George Kunz named the mineral moissanite for him. Natural moissanite is so rare that the stones in jewelry are grown in labs.",
+    "hashtags": [
+      "#moissanite",
+      "#meteorite",
+      "#gemstones",
+      "#jewelryscience",
+      "#diamondalternative"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/diamond-alternatives-engagement-rings/",
+    "https://en.wikipedia.org/wiki/Moissanite",
+    "https://www.gia.edu/dam/migrated-assets/docs/doc1/Winter-1997-Gems-Gemology-Synthetic-Moissanite-Diamond-Substitute.pdf",
+    "https://rruff.info/uploads/kunz1905.pdf",
+    "https://www.nobelprize.org/prizes/chemistry/1906/moissan/facts/",
+    "https://www.britannica.com/biography/Henri-Moissan",
+    "https://www.jckonline.com/?p=7873"
+  ]
+}
