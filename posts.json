@@ -258,12 +258,14 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     },
     "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfM5yjSDX6l/",
-      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703203496127991048"
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703203496127991048",
+      "youtube": "https://www.youtube.com/watch?v=w64Jp7i80mk"
     }
   },
   "015-queen-elizabeth-engagement-ring": {
@@ -279,12 +281,14 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     },
     "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfNVET2kofx/",
-      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703264906157591809"
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703264906157591809",
+      "youtube": "https://www.youtube.com/watch?v=TwoZ5CsJ3A8"
     }
   },
   "016-tiffany-setting": {
@@ -300,12 +304,14 @@
       "platforms": [
         "youtube"
       ],
-      "tries": 1
+      "tries": 1,
+      "status": "published"
     },
     "status": "published",
     "out": {
       "instagram": "https://www.instagram.com/reel/DfN3U1XjvCd/",
-      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703341938711317781"
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7703341938711317781",
+      "youtube": "https://www.youtube.com/watch?v=WNSvmWNWimQ"
     }
   },
   "017-why-opals-flash-colors": {
@@ -462,7 +468,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1145252024610200",
+      "instagram": "https://www.instagram.com/reel/DfW7l1RDtS0/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704648647669058817"
+    }
   },
   "027-van-cleef-mystery-set": {
     "at": "2026-11-05T13:00:00Z",
@@ -471,7 +483,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=28703703145997906",
+      "instagram": "https://www.instagram.com/reel/DfXF_C_k4Xr/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704671915671113012"
+    }
   },
   "028-wedding-ring-lost-55-years": {
     "at": "2026-11-05T14:00:00Z",
@@ -481,7 +499,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1144001104837296",
+      "instagram": "https://www.instagram.com/reel/DfXM_WdAUVU/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704687777153109266",
+      "youtube": "https://www.youtube.com/watch?v=-DWNsw_4pa4"
+    }
   },
   "029-emerald-garden": {
     "at": "2026-11-05T16:30:00Z",
@@ -812,6 +837,15 @@
   "064-cartier-love-bracelet": {
     "at": "2026-11-09T00:30:00Z",
     "zernio_id": "6aec625bdd0b59aa68a124c1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "065-olympic-australis-opal": {
+    "at": "2026-11-09T02:00:00Z",
+    "zernio_id": "6aecaa44f555701d25e5e9de",
     "platforms": [
       "facebook",
       "instagram",
