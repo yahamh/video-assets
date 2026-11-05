@@ -531,7 +531,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1747843046763070",
+      "instagram": "https://www.instagram.com/reel/DfXoZsriHQq/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=VW9Xtz-jVS0"
+    }
   },
   "031-cartier-pearl-mansion": {
     "at": "2026-11-05T19:30:00Z",
@@ -540,7 +547,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4573746809612584",
+      "instagram": "https://www.instagram.com/reel/DfXyiCWETwb/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7704772376575118598"
+    }
   },
   "032-pink-star-diamond": {
     "at": "2026-11-05T21:00:00Z",
@@ -549,7 +562,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1426413902804005",
+      "instagram": "https://www.instagram.com/reel/DfX87BVif8L/",
+      "tiktok": "published"
+    }
   },
   "033-birthstones-1912": {
     "at": "2026-11-05T23:00:00Z",
@@ -884,6 +903,43 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "069-dresden-green-diamond": {
+    "at": "2026-11-09T16:30:00Z",
+    "zernio_id": "6aed01dc9c193035f439a619",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "070-poesy-rings": {
+    "at": "2026-11-09T18:00:00Z",
+    "zernio_id": "6aed01e79c193035f439a67c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "071-winston-oscars-jewelry": {
+    "at": "2026-11-09T19:30:00Z",
+    "zernio_id": "6aed01f49c193035f439a6c4",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "072-sunrise-ruby": {
+    "at": "2026-11-09T21:00:00Z",
+    "zernio_id": "6aed01fa9c193035f439a6f4",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
@@ -1317,6 +1373,10 @@
     "zernio_id": "6ae617a7bf5ded40f04aab75",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=HYL1hNcYGck"
+    }
   }
 }
