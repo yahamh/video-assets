@@ -1,0 +1,150 @@
+{
+  "id": "078-kashmir-sapphire-landslide",
+  "number": 78,
+  "title": "A landslide uncovered the sapphires of Kashmir",
+  "topic": "kashmir sapphire discovery",
+  "style": "lowpoly",
+  "music": "music-078.wav",
+  "hook": {
+    "text": "A landslide in the Himalayas uncovered sapphires.",
+    "gold": [
+      "landslide",
+      "sapphires"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A landslide in the Himalayas uncovered sapphires.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#2f56c8"
+      }
+    },
+    {
+      "text": "Around 1881, a landslide struck Paddar, in the Zanskar range of Kashmir.",
+      "say": "Around eighteen eighty-one, a landslide struck Paddar, in the Zanskar range of Kashmir.",
+      "scene": {
+        "kind": "mine",
+        "place": "Paddar, Kashmir",
+        "year": "1881",
+        "tone": "#2f56c8",
+        "zoomAt": 0.25
+      }
+    },
+    {
+      "text": "Traders reportedly swapped salt for the blue stones, weight for weight.",
+      "scene": {
+        "kind": "title",
+        "text": "Salt for sapphires",
+        "sub": "Reportedly, by weight"
+      }
+    },
+    {
+      "text": "By 1883, the Maharaja's government had claimed the mines.",
+      "say": "By eighteen eighty-three, the Maharaja's government had claimed the mines.",
+      "scene": {
+        "kind": "title",
+        "text": "1883",
+        "sub": "The Maharaja's claim"
+      }
+    },
+    {
+      "text": "The main pocket was worked from 1882 to 1887.",
+      "say": "The main pocket was worked from eighteen eighty-two to eighteen eighty-seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1882 to 1887",
+        "sub": "The main pocket was worked"
+      }
+    },
+    {
+      "text": "The mine sits over 4,000 meters up.",
+      "say": "The mine sits over four thousand meters up.",
+      "scene": {
+        "kind": "title",
+        "text": "Over 4,000 meters",
+        "sub": "High in the Himalayas"
+      }
+    },
+    {
+      "text": "Its season lasted about three months.",
+      "scene": {
+        "kind": "title",
+        "text": "About 3 months",
+        "sub": "A season in the cold"
+      }
+    },
+    {
+      "text": "Kashmir sapphires are known for a velvety, cornflower blue.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2f56c8",
+        "label": "Cornflower blue"
+      }
+    },
+    {
+      "text": "Tiny inclusions give them a soft, sleepy look.",
+      "scene": {
+        "kind": "title",
+        "text": "Sleepy",
+        "sub": "Tiny inclusions inside"
+      }
+    },
+    {
+      "text": "In 2025, a 35.09 carat Kashmir sapphire sold in Hong Kong.",
+      "say": "In twenty twenty-five, a thirty-five point zero nine carat Kashmir sapphire sold in Hong Kong.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2f56c8",
+        "label": "35.09 carats"
+      }
+    },
+    {
+      "text": "The price was about 9.5 million dollars,",
+      "say": "The price was about nine point five million dollars,",
+      "scene": {
+        "kind": "title",
+        "text": "About 9.5 million",
+        "sub": "US dollars"
+      }
+    },
+    {
+      "text": "an auction record per carat for any sapphire.",
+      "scene": {
+        "kind": "title",
+        "text": "A record",
+        "sub": "Per carat at auction"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Around 1881, a landslide in the Zanskar range of Kashmir uncovered sapphires that traders reportedly swapped for salt. The main pocket was worked from 1882 to 1887. In 2025, a 35.09 carat Kashmir sapphire sold for about 9.5 million dollars, an auction record per carat for any sapphire.",
+    "hashtags": [
+      "#kashmirsapphire",
+      "#sapphire",
+      "#bluesapphire",
+      "#gemstones",
+      "#christies"
+    ]
+  },
+  "sources": [
+    "https://cms.gia.edu/dam/jcr:14ffa273-3244-4c28-a324-3f0ff388c57e/Kashmir-Sapphire.pdf",
+    "https://www.phillips.com/article/67277318/the-sapphire-mines-of-kashmir-jewelry-new-york-auction",
+    "https://www.christies.com.cn/en/stories/collecting-guide-to-kashmir-sapphires-9d8de78ef58048e59a0f25ba35aae910",
+    "https://www.sothebys.com/en/buy/auction/2026/high-jewelry-5/sapphire-and-diamond-ring-20-84ke-la-tian-ran-ka",
+    "https://www.forbes.com/sites/laiafarrangraves/2025/05/30/3509-carat-regent-kashmir-sapphire-makes-history-by-reaching-95-million/",
+    "https://www.idexonline.com/FullArticle?Id=50483",
+    "https://www.dawsonsauctions.co.uk/news-item/how-rare-is-a-kashmir-sapphire/",
+    "https://cires1.colorado.edu/~bilham/Oldham/LaToucheSupplement/SaphireMinesKashmirLaTouche.html"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "076-ring-finger-vein",
+  "number": 76,
+  "title": "The ring finger's love vein isn't real",
+  "topic": "ring finger vena amoris",
+  "style": "paper",
+  "plate": "The Ring Finger",
+  "theme": "mint",
+  "music": "music-076.wav",
+  "hook": {
+    "text": "The ring finger's love vein isn't real.",
+    "gold": [
+      "love",
+      "vein"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The ring finger's love vein isn't real.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The Roman writer Aulus Gellius quoted Apion's Egyptian History.",
+      "say": "The Roman writer Aulus Jellius quoted Apion's Egyptian History.",
+      "scene": {
+        "kind": "title",
+        "text": "Aulus Gellius",
+        "sub": "Quoting Apion's history"
+      }
+    },
+    {
+      "text": "Apion wrote that cutting open bodies showed a very fine nerve.",
+      "scene": {
+        "kind": "title",
+        "text": "A very fine nerve",
+        "sub": "Said Apion"
+      }
+    },
+    {
+      "text": "It ran from that finger to the heart.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "white",
+        "label": "The ring finger"
+      }
+    },
+    {
+      "text": "Later writers called it a vein.",
+      "scene": {
+        "kind": "title",
+        "text": "A vein",
+        "sub": "Said later writers"
+      }
+    },
+    {
+      "text": "A medieval English wedding rite said a vein there reaches the heart.",
+      "scene": {
+        "kind": "cast",
+        "setting": "garden",
+        "name": "A medieval wedding",
+        "role": "An English rite",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a4a6a",
+            "hair": "short",
+            "hairColor": "#4a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#d9c7a6",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Britannica and Visible Body both say no such vein exists.",
+      "scene": {
+        "kind": "title",
+        "text": "No such vein",
+        "sub": "Britannica, Visible Body"
+      }
+    },
+    {
+      "text": "England's 1549 Prayer Book puts the ring on the left fourth finger.",
+      "say": "England's fifteen forty-nine Prayer Book puts the ring on the left fourth finger.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "rose",
+        "label": "Left hand, fourth finger"
+      }
+    },
+    {
+      "text": "In Germany and Russia, wedding rings mostly go on the right hand.",
+      "scene": {
+        "kind": "title",
+        "text": "The right hand",
+        "sub": "Germany and Russia"
+      }
+    },
+    {
+      "text": "Counting the thumb, the ring finger is the fourth finger.",
+      "scene": {
+        "kind": "title",
+        "text": "Fourth finger",
+        "sub": "Counting the thumb"
+      }
+    },
+    {
+      "text": "It was once called the leech finger and the medical finger.",
+      "scene": {
+        "kind": "title",
+        "text": "Leech finger",
+        "sub": "And the medical finger"
+      }
+    }
+  ],
+  "post": {
+    "caption": "People have long said a vein runs from the ring finger to the heart. The Roman writer Aulus Gellius quoted a nerve instead, a medieval English wedding rite said vein, and Britannica says no such vein exists. The finger was once called the leech finger and the medical finger.",
+    "hashtags": [
+      "#ringfinger",
+      "#weddingring",
+      "#jewelryhistory",
+      "#romanhistory",
+      "#symbolism"
+    ]
+  },
+  "sources": [
+    "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Gellius/10*.html",
+    "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Annulus.html",
+    "https://strangehistory.net/2015/05/15/the-vein-of-love-and-the-ring-finger",
+    "https://en.wikipedia.org/wiki/Vena_amoris",
+    "https://tradmag.substack.com/p/a-marriage-ceremony-from-the-sarum",
+    "https://anglicanhistory.org/sparrow/rationale/matrimony.html",
+    "https://www.britannica.com/topic/How-Did-the-Tradition-of-Wedding-Rings-Start",
+    "https://www.visiblebody.com/blog/anatomy-and-physiology-5-medical-myths-demythified",
+    "https://justus.anglican.org/resources/bcp/1549/Marriage_1549.htm",
+    "https://justus.anglican.org/resources/bcp/Procter&Frere/ch15.htm",
+    "https://words.fromoldbooks.org/Brewer-DictionaryOfPhraseAndFable/r/ring-finger.html",
+    "https://en.wikipedia.org/wiki/Ring_finger",
+    "https://bigthink.com/strange-maps/wedding-rings/",
+    "https://www.deseret.com/1996/4/14/19236606/old-terms-for-ring-finger-have-heartfelt-meanings/",
+    "https://merriam-webster.com/wordplay/how-the-ring-finger-got-its-name"
+  ]
+}

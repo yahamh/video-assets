@@ -1,0 +1,181 @@
+{
+  "id": "077-sutton-hoo-gold-coins",
+  "number": 77,
+  "title": "A buried ship held 37 gold coins",
+  "topic": "sutton hoo ship burial",
+  "music": "music-077.wav",
+  "hook": {
+    "text": "A buried ship held 37 gold coins.",
+    "gold": [
+      "ship",
+      "37"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A buried ship held 37 gold coins.",
+      "say": "A buried ship held thirty-seven gold coins.",
+      "scene": {
+        "kind": "hook",
+        "show": "coins"
+      }
+    },
+    {
+      "text": "Edith Pretty owned the land at Sutton Hoo, in Suffolk, England.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Edith Pretty",
+        "role": "A landowner in Suffolk",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#5a4a6a",
+            "hair": "updo",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She hired Basil Brown, a self-taught local archaeologist, to dig the mounds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Basil Brown",
+        "role": "A self-taught archaeologist",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1939, his dig reached a buried ship about 27 meters long.",
+      "say": "In nineteen thirty-nine, his dig reached a buried ship about twenty-seven meters long.",
+      "scene": {
+        "kind": "title",
+        "text": "27 meters",
+        "sub": "A buried ship, 1939"
+      }
+    },
+    {
+      "text": "Inside was a purse with 37 gold coins,",
+      "say": "Inside was a purse with thirty-seven gold coins,",
+      "scene": {
+        "kind": "title",
+        "text": "37 gold coins",
+        "sub": "In one purse"
+      }
+    },
+    {
+      "text": "three blank coins and two small ingots.",
+      "say": "three blank coins and two small ingots.",
+      "scene": {
+        "kind": "title",
+        "text": "3 blank coins",
+        "sub": "And 2 small ingots"
+      }
+    },
+    {
+      "text": "The gold belt buckle weighs over 400 grams.",
+      "say": "The gold belt buckle weighs over four hundred grams.",
+      "scene": {
+        "kind": "title",
+        "text": "Over 400 grams",
+        "sub": "The gold belt buckle"
+      }
+    },
+    {
+      "text": "A coroner's inquest in August 1939 ruled the treasure was hers.",
+      "say": "A coroner's inquest in August nineteen thirty-nine ruled the treasure was hers.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The inquest",
+        "role": "August 1939",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3f",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She gave all of it to the British Museum.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Edith Pretty",
+        "role": "Gave it all, 1939",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#5a4a6a",
+            "hair": "updo",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3d6bd",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The Museum and the National Trust call it an act of generosity.",
+      "scene": {
+        "kind": "title",
+        "text": "Generosity",
+        "sub": "Museum and National Trust"
+      }
+    },
+    {
+      "text": "The treasure is now in Room 41 of the British Museum.",
+      "say": "The treasure is now in Room forty-one of the British Museum.",
+      "scene": {
+        "kind": "title",
+        "text": "Room 41",
+        "sub": "The British Museum, London"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1939, a buried ship about 27 meters long came out of the ground at Sutton Hoo in Suffolk. One purse held 37 gold coins. The landowner, Edith Pretty, gave all of the finds to the British Museum.",
+    "hashtags": [
+      "#suttonhoo",
+      "#goldcoins",
+      "#anglosaxon",
+      "#britishmuseum",
+      "#archaeology"
+    ]
+  },
+  "sources": [
+    "https://www.britishmuseum.org/about-us/british-museum-story/people-behind-collection/edith-pretty",
+    "https://www.nationaltrust.org.uk/visit/suffolk/sutton-hoo/history-of-archaeology-at-sutton-hoo",
+    "https://www.nationaltrust.org.uk/visit/suffolk/sutton-hoo/digging-the-dirt-at-sutton-hoo-the-true-story-behind-the-dig",
+    "https://www.britannica.com/place/Sutton-Hoo",
+    "https://www.britishmuseum.org/collection/galleries/sutton-hoo-and-europe",
+    "https://www.britishmuseum.org/sites/default/files/2021-05/large_print_guide_room_41.pdf",
+    "https://carlanayland.org/essays/sutton_hoo_coins.htm",
+    "https://digventures.com/2021/01/16-brilliant-discoveries-from-the-sutton-hoo-ship-burial/",
+    "https://www.nature.com/articles/144410c0"
+  ]
+}
