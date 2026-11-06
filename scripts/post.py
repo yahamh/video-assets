@@ -21,6 +21,9 @@ alone, booked for after the limit lifts, up to three tries and at most RETRY_PER
 latest under "retry". A
 video that can't post now because the account is rate limited waits for the next run (Zernio refuses even a booking
 for later while the limit lasts); a rate limit doesn't fail the run.
+schedule.json "drop" lists Zernio post ids booked by mistake (a video booked twice); they come off Zernio, and a post that
+posts.json holds is never dropped. A run in GitHub Actions first moves its checkout up to the tip of stories (a run that
+waited behind another one starts from an older commit and would book the same videos again).
 Without ZERNIO_API_KEY, or with "paused": true in schedule.json, nothing is booked or checked.
 
   python3 scripts/post.py [--remade "001-cullinan ..."] [--dry-run]
@@ -397,12 +400,52 @@ def youtube_text(z, sched, posts, dry_run):
             print(f"::warning::couldn't edit the description of youtube.com/watch?v={vid}: {e}")
 
 
+def catch_up():
+    """Moves a GitHub Actions checkout up to the tip of the stories branch before anything is read or booked.
+
+    A run that waited behind another one (the "make" concurrency group) checks out the commit that started it, not the
+    branch's tip, so its posts.json lacks what the run before it just saved and it books those videos a second time
+    (run 53, 6 Nov 2026: 073 to 075 went into Zernio twice and its own Save then conflicted). Returns False when the tip
+    can't be reached or the checkout can't move up to it: then nothing is booked this run (the next run books it)."""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return True
+    try:
+        subprocess.run(["git", "fetch", "-q", "--depth=50", "origin", "stories"], check=True, cwd=ROOT)
+        subprocess.run(["git", "merge", "-q", "--ff-only", "origin/stories"], check=True, cwd=ROOT)
+    except (subprocess.CalledProcessError, OSError) as e:
+        print(f"::error::couldn't move this checkout up to the tip of stories, so nothing is booked in this run: {e}")
+        return False
+    return True
+
+
+def drop_booked_twice(z, sched, posts, dry_run):
+    """schedule.json "drop": Zernio post ids that were booked by mistake (a video booked twice) come off Zernio. A post
+    that posts.json holds is never dropped; one that is already gone (404) is fine, so the list can stay."""
+    held = {p.get("zernio_id") for p in posts.values()}
+    for zid in sched.get("drop", []):
+        if zid in held:
+            print(f"::warning::{zid} is the booking posts.json holds; not taken off Zernio")
+        elif dry_run:
+            print(f"Would take post {zid} off Zernio")
+        else:
+            try:
+                z.call("DELETE", f"/posts/{zid}")
+                print(f"Took post {zid} off Zernio (booked twice)")
+            except RuntimeError as e:
+                if " 404 " in str(e):
+                    print(f"Post {zid} is already off Zernio")
+                else:
+                    print(f"::warning::couldn't take post {zid} off Zernio: {e}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--remade", default="")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
+    if not catch_up():
+        return 1
     with open(os.path.join(ROOT, "schedule.json")) as f:
         sched = json.load(f)
     if sched.get("paused"):
@@ -425,6 +468,7 @@ def main():
     bad = [] if args.dry_run else check(z, posts, now)
     if bad or any(p.get("status") for p in posts.values()):
         save(posts)
+    drop_booked_twice(z, sched, posts, args.dry_run)
 
     # A remade video that hasn't gone out yet replaces the booked one, at the same time.
     keep_slot = {}
