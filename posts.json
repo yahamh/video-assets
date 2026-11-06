@@ -671,7 +671,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1188545623730831",
+      "instagram": "https://www.instagram.com/reel/DfaCnNnjl7h/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705096845952945460"
+    }
   },
   "040-tolkowsky-brilliant-cut": {
     "at": "2026-11-06T18:00:00Z",
@@ -681,7 +687,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1389317683008957",
+      "instagram": "https://www.instagram.com/reel/DfaNSg8oAi_/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=35ieK0tVYg8"
+    }
   },
   "041-welsh-gold-royal-rings": {
     "at": "2026-11-06T19:30:00Z",
@@ -690,7 +703,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3024495401220828",
+      "instagram": "https://www.instagram.com/reel/DfaXTffDW5F/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705143396100328712"
+    }
   },
   "042-black-princes-ruby": {
     "at": "2026-11-06T21:00:00Z",
@@ -699,7 +718,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1336183091870192",
+      "instagram": "https://www.instagram.com/reel/DfahhSYARCR/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705166383381777672"
+    }
   },
   "043-oldest-pearl-abu-dhabi": {
     "at": "2026-11-06T23:00:00Z",
@@ -1036,6 +1061,43 @@
       "youtube"
     ]
   },
+  "079-padparadscha-sapphire": {
+    "at": "2026-11-10T16:30:00Z",
+    "zernio_id": "6aee555bec68a5230fee2a28",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "080-paraiba-tourmaline": {
+    "at": "2026-11-10T18:00:00Z",
+    "zernio_id": "6aee5568f8f6b16bfe63ef75",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "081-cleopatra-pearl-vinegar": {
+    "at": "2026-11-10T19:30:00Z",
+    "zernio_id": "6aee556fec68a5230fee2a9f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "082-gimmel-ring": {
+    "at": "2026-11-10T21:00:00Z",
+    "zernio_id": "6aee557bf8f6b16bfe63efa0",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -1131,7 +1193,11 @@
     "zernio_id": "6aed410696f5603e00ccd51a",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=ffa0z_6xNIU"
+    }
   },
   "gs-02-round": {
     "at": "2026-11-07T17:00:00Z",
@@ -1427,6 +1493,13 @@
   "lesson-020-bridal-set": {
     "at": "2026-11-12T16:00:00Z",
     "zernio_id": "6aecb9b7a0422830e2f354ba",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-021-solitaire-ring": {
+    "at": "2026-11-13T16:00:00Z",
+    "zernio_id": "6aee5590ec68a5230fee2b70",
     "platforms": [
       "youtube"
     ]
