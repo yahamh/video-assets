@@ -1,0 +1,164 @@
+{
+  "id": "075-star-of-south-africa",
+  "number": 75,
+  "title": "This diamond reportedly cost 500 sheep",
+  "topic": "star of south africa diamond",
+  "style": "lowpoly",
+  "music": "music-075.wav",
+  "hook": {
+    "text": "This diamond reportedly cost 500 sheep.",
+    "gold": [
+      "500",
+      "sheep"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This diamond reportedly cost 500 sheep.",
+      "say": "This diamond reportedly cost five hundred sheep.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear"
+      }
+    },
+    {
+      "text": "A shepherd is said to have found it in 1869, near Hopetown.",
+      "say": "A shepherd is said to have found it in eighteen sixty-nine, near Hopetown.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A shepherd",
+        "role": "Orange River, 1869",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a6a50",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#c98e6a",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The rough stone weighed 83.5 carats.",
+      "say": "The rough stone weighed eighty-three point five carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "label": "83.5 carats"
+      }
+    },
+    {
+      "text": "A farmer, Schalk van Niekerk, got it for 500 sheep,",
+      "say": "A farmer, Skalk van Neekerk, got it for five hundred sheep,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Schalk van Niekerk",
+        "role": "A farmer",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a4a",
+            "hair": "short",
+            "hairColor": "#6a4a3a",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "10 oxen and a horse, so the story goes.",
+      "say": "ten oxen and a horse, so the story goes.",
+      "scene": {
+        "kind": "title",
+        "text": "500 sheep",
+        "sub": "10 oxen and a horse"
+      }
+    },
+    {
+      "text": "He sold it for 11,200 pounds.",
+      "say": "He sold it for eleven thousand two hundred pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "11,200 pounds",
+        "sub": "His sale price"
+      }
+    },
+    {
+      "text": "Later, the Dudley family in England paid about 25,000 pounds.",
+      "say": "Later, the Dudley family in England paid about twenty-five thousand pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "25,000 pounds",
+        "sub": "The Dudley family"
+      }
+    },
+    {
+      "text": "It was cut into a pear shape of 47.69 carats.",
+      "say": "It was cut into a pear shape of forty-seven point six nine carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "label": "47.69 carats"
+      }
+    },
+    {
+      "text": "It was set in a head ornament with 95 smaller diamonds.",
+      "say": "It was set in a head ornament with ninety-five smaller diamonds.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "pear",
+        "label": "A head ornament"
+      }
+    },
+    {
+      "text": "Some credit it with sparking South Africa's diamond rush.",
+      "scene": {
+        "kind": "title",
+        "text": "Diamond rush",
+        "sub": "Some credit this stone"
+      }
+    },
+    {
+      "text": "In 2005, it went on show at London's Natural History Museum.",
+      "say": "In two thousand five, it went on show at London's Natural History Museum.",
+      "scene": {
+        "kind": "title",
+        "text": "2005",
+        "sub": "Natural History Museum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A shepherd is said to have found it near Hopetown, South Africa, in 1869. The farmer who got it reportedly paid 500 sheep, 10 oxen and a horse. Cut to 47.69 carats, the pear-shaped Star of South Africa was shown at London's Natural History Museum in 2005.",
+    "hashtags": [
+      "#starofsouthafrica",
+      "#diamond",
+      "#southafrica",
+      "#diamondhistory",
+      "#pearshapediamond"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Star_of_South_Africa_(diamond)",
+    "https://www.britannica.com/EBchecked/topic/563530/Star-of-South-Africa",
+    "https://4cs.gia.edu/?p=14608",
+    "https://www.miningweekly.com/article/setting-the-record-straight-on-the-discovery-of-diamonds-2017-02-24",
+    "https://www.thesolomon.co.za/star-of-south-africa-diamond",
+    "https://www.idexonline.com/FullArticle?Id=24072",
+    "https://internetstones.com/Star-of-south-africa-diamond-famous-jewelry.html"
+  ]
+}

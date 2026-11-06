@@ -1,0 +1,178 @@
+{
+  "id": "073-chanel-bijoux-de-diamants",
+  "number": 73,
+  "title": "Chanel filled her home with diamond stars",
+  "topic": "chanel bijoux de diamants",
+  "style": "paper",
+  "plate": "Bijoux de Diamants",
+  "theme": "watercolor",
+  "music": "music-073.wav",
+  "hook": {
+    "text": "Chanel filled her home with diamond stars.",
+    "gold": [
+      "diamond",
+      "stars"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Chanel filled her home with diamond stars.",
+      "say": "Shanel filled her home with diamond stars.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round"
+      }
+    },
+    {
+      "text": "In November 1932,",
+      "say": "In November nineteen thirty-two,",
+      "scene": {
+        "kind": "title",
+        "text": "November 1932",
+        "sub": "29 rue du Faubourg Saint-Honoré"
+      }
+    },
+    {
+      "text": "Coco Chanel opened her Paris home to visitors.",
+      "say": "Coco Shanel opened her Paris home to visitors.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Coco Chanel",
+        "role": "Paris, 1932",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#1b1b22",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "jewel": "pearls"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The diamond industry had asked her for a collection.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The diamond industry",
+        "role": "Asked for a collection",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2f3f",
+            "hair": "slick",
+            "hairColor": "#2a2a2a",
+            "skin": "#f3d6bd",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was meant to revive diamond sales after the 1929 crash.",
+      "say": "It was meant to revive diamond sales after the nineteen twenty-nine crash.",
+      "scene": {
+        "kind": "title",
+        "text": "1929 crash",
+        "sub": "Reviving diamond demand"
+      }
+    },
+    {
+      "text": "She made about 50 pieces, all diamonds set in platinum and gold.",
+      "say": "She made about fifty pieces, all diamonds set in platinum and gold.",
+      "scene": {
+        "kind": "title",
+        "text": "About 50 pieces",
+        "sub": "Diamonds in platinum and gold"
+      }
+    },
+    {
+      "text": "One necklace was a comet of diamonds with no clasp.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "label": "The Comet necklace"
+      }
+    },
+    {
+      "text": "The pieces were shown on wax mannequins with real hair and eyelashes.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Wax mannequins",
+        "role": "Real hair and eyelashes",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#e8e2d4",
+            "hair": "updo",
+            "hairColor": "#8a6a4a",
+            "skin": "#efd9c3",
+            "expression": "neutral",
+            "jewel": "pendant",
+            "jewelTone": "#e9f1f6"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Visitors paid 20 francs, and the money went to two charities.",
+      "say": "Visitors paid twenty francs, and the money went to two charities.",
+      "scene": {
+        "kind": "title",
+        "text": "20 francs",
+        "sub": "For two charities"
+      }
+    },
+    {
+      "text": "She said, \"I wanted to cover women in constellations.\"",
+      "scene": {
+        "kind": "title",
+        "text": "Constellations",
+        "sub": "Her words"
+      }
+    },
+    {
+      "text": "In 2012, Chanel showed an 80th anniversary collection of 80 pieces.",
+      "say": "In twenty twelve, Shanel showed an eightieth anniversary collection of eighty pieces.",
+      "scene": {
+        "kind": "title",
+        "text": "2012",
+        "sub": "80 pieces for the 80th year"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In November 1932, Coco Chanel opened her Paris home to show a collection made only of diamonds, after the diamond industry asked her for one. She made about 50 pieces, showed them on wax mannequins and gave the 20 franc entry money to two charities. \"I wanted to cover women in constellations,\" she said.",
+    "hashtags": [
+      "#chanel",
+      "#cocochanel",
+      "#highjewelry",
+      "#diamonds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.chanel.com/hr/high-jewellery/bijoux-de-diamants/",
+    "https://www.chanel.com/ro/about-chanel/the-house-of-chanel/1930",
+    "https://www.countrylife.co.uk/lifestyle/jewellery/how-did-chanels-spectacular-diamond-exhibition-almost-cure-the-great-depression",
+    "https://www.europastar.com/1004093678.html",
+    "https://www.tatlerasia.com/style/jewellery/story-behind-chanel-1932-high-jewellery-collection",
+    "https://www.countryandtownhouse.com/style/jewellery-and-watches/chanel-1932",
+    "https://www.fzine.com/watches-and-jewellery/how-gabrielle-chanel-reinvented-high-jewellery-diamonds-in-1932",
+    "https://www.thenationalnews.com/lifestyle/chanel-celebrates-depression-collection-that-kept-diamonds-fashionable-1.471885",
+    "https://www.katerinaperez.com/articles/chanel-1932-high-jewellery-collection-review",
+    "https://en.wikipedia.org/wiki/Chanel"
+  ]
+}

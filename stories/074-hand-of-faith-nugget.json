@@ -1,0 +1,186 @@
+{
+  "id": "074-hand-of-faith-nugget",
+  "number": 74,
+  "title": "A metal detector found a 27 kilo gold nugget",
+  "topic": "hand of faith nugget",
+  "music": "music-074.wav",
+  "hook": {
+    "text": "He found a 27 kilo gold nugget.",
+    "gold": [
+      "27",
+      "gold"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He found a 27 kilo gold nugget.",
+      "say": "He found a twenty-seven kilo gold nugget.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "Kevin Hillier's metal detector led him to it,",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Kevin Hillier",
+        "role": "A new metal detector",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a6a52",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "near Kingower, in Victoria, Australia.",
+      "scene": {
+        "kind": "title",
+        "text": "Kingower",
+        "sub": "Victoria, Australia"
+      }
+    },
+    {
+      "text": "It happened on September 26, 1980, with a brand new detector.",
+      "say": "It happened on September twenty-sixth, nineteen eighty, with a brand new detector.",
+      "scene": {
+        "kind": "title",
+        "text": "26 Sept 1980",
+        "sub": "A brand new detector"
+      }
+    },
+    {
+      "text": "The nugget stood upright in the ground, not far below the surface.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Kevin Hillier",
+        "role": "Not far below the surface",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a6a52",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#efc9a6",
+            "expression": "surprised",
+            "hat": "cap"
+          }
+        ],
+        "gasp": 0.3
+      }
+    },
+    {
+      "text": "It weighed 875 troy ounces, or 27.2 kilograms.",
+      "say": "It weighed eight hundred seventy-five troy ounces, or twenty-seven point two kilograms.",
+      "scene": {
+        "kind": "title",
+        "text": "27.2 kilograms",
+        "sub": "875 troy ounces"
+      }
+    },
+    {
+      "text": "To the Hilliers, it looked like a hand giving a blessing.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "The Hilliers",
+        "role": "Kevin and his wife",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a6a52",
+            "hair": "short",
+            "hairColor": "#5a4a3a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#8a5a6a",
+            "hair": "side",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It's known as the Hand of Faith.",
+      "scene": {
+        "kind": "title",
+        "text": "Hand of Faith",
+        "sub": "Its name"
+      }
+    },
+    {
+      "text": "In early 1981, the Golden Nugget casino in Las Vegas bought it.",
+      "say": "In early nineteen eighty-one, the Golden Nugget casino in Las Vegas bought it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "The Golden Nugget",
+        "role": "Las Vegas, early 1981",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a2a4a",
+            "hair": "slick",
+            "hairColor": "#2a2a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Reports put the price at about a million dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "About a million",
+        "sub": "US dollars"
+      }
+    },
+    {
+      "text": "It's still the largest nugget ever found with a metal detector.",
+      "scene": {
+        "kind": "title",
+        "text": "Still the record",
+        "sub": "With a metal detector"
+      }
+    }
+  ],
+  "post": {
+    "caption": "On September 26, 1980, Kevin Hillier's brand new metal detector found a gold nugget near Kingower, Australia. It weighed 27.2 kilograms. Reports put the price at about a million dollars when the Golden Nugget casino bought it in 1981. It's still the largest nugget found with a metal detector.",
+    "hashtags": [
+      "#handoffaith",
+      "#goldnugget",
+      "#metaldetecting",
+      "#goldprospecting",
+      "#australia"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hand_of_Faith",
+    "https://catholicweekly.com.au/the-hand-of-faith/",
+    "https://www.todayifoundout.com/index.php/2017/01/story-hand-faith-golden-nugget/",
+    "https://www.bendigoadvertiser.com.au/story/5704525/hand-of-faith-replica-given-to-central-deborah-gold-mine/",
+    "https://www.lasvegasadvisor.com/amp/question/2006-03-23/",
+    "https://www.atlasobscura.com/places/golden-nugget-hand-of-faith",
+    "https://www.casino.org/news/vegas-myths-re-busted-the-worlds-largest-golden-nugget-is-real/"
+  ]
+}
