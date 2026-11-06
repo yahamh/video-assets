@@ -624,7 +624,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1372440348111615",
+      "instagram": "https://www.instagram.com/reel/DfZgWvzHO-q/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705019719975259412"
+    }
   },
   "037-lalique-horn-jewels": {
     "at": "2026-11-06T13:00:00Z",
@@ -633,7 +639,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1506298781351086",
+      "instagram": "https://www.instagram.com/reel/DfZqy7anA9e/",
+      "tiktok": "published"
+    }
   },
   "038-elizabeth-taylor-diamond": {
     "at": "2026-11-06T14:00:00Z",
@@ -643,7 +655,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2113529276705899",
+      "instagram": "https://www.instagram.com/reel/DfZx7NuCSQW/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=oEOLDazJa08"
+    }
   },
   "039-eureka-diamond": {
     "at": "2026-11-06T16:30:00Z",
@@ -987,6 +1006,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "076-ring-finger-vein": {
+    "at": "2026-11-10T11:30:00Z",
+    "zernio_id": "6aedffc927806ddcf7e8a2ed",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "077-sutton-hoo-gold-coins": {
+    "at": "2026-11-10T13:00:00Z",
+    "zernio_id": "6aedffdbf55215b84626157a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "078-kashmir-sapphire-landslide": {
+    "at": "2026-11-10T14:00:00Z",
+    "zernio_id": "6aedffe6c21ce8037de25ef3",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -1336,7 +1383,11 @@
     "zernio_id": "6aec1580a6237d65a988b8e0",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=lF9yy4POLDU"
+    }
   },
   "lesson-015-3d-printing-jewelry": {
     "at": "2026-11-07T16:00:00Z",
@@ -1460,7 +1511,11 @@
     "zernio_id": "6ae617a93520829bafc67c4d",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=TmUMbHuHTE0"
+    }
   },
   "yt-rhino-plugin-how-to": {
     "at": "2026-10-30T13:27:20Z",
