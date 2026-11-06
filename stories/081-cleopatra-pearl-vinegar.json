@@ -1,0 +1,172 @@
+{
+  "id": "081-cleopatra-pearl-vinegar",
+  "number": 81,
+  "title": "Cleopatra reportedly drank a pearl in vinegar",
+  "topic": "cleopatra pearl vinegar legend",
+  "style": "lowpoly",
+  "music": "music-081.wav",
+  "hook": {
+    "text": "Cleopatra reportedly drank a pearl in vinegar.",
+    "gold": [
+      "pearl",
+      "vinegar"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cleopatra reportedly drank a pearl in vinegar.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl"
+      }
+    },
+    {
+      "text": "The Roman writer Pliny the Elder tells the story.",
+      "scene": {
+        "kind": "title",
+        "text": "Pliny the Elder",
+        "sub": "A Roman writer"
+      }
+    },
+    {
+      "text": "He says Cleopatra owned the two largest pearls in history.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Cleopatra",
+        "role": "Owned two giant pearls",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#2f6aa8",
+            "hair": "updo",
+            "hairColor": "#1e1a16",
+            "skin": "#d9a77a",
+            "expression": "smile",
+            "jewel": "pearls"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She wagered that one dinner would cost ten million sesterces.",
+      "scene": {
+        "kind": "title",
+        "text": "10 million",
+        "sub": "Sesterces for one dinner"
+      }
+    },
+    {
+      "text": "Antony laughed and asked for the bill.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Mark Antony",
+        "role": "Asked for the bill",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a3a3a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#e8bf96",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "She dropped one pearl into vinegar and swallowed it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "label": "Into the vinegar"
+      }
+    },
+    {
+      "text": "The judge, Lucius Plancus, stopped her there.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Lucius Plancus",
+        "role": "The judge of the wager",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a6a52",
+            "hair": "side",
+            "hairColor": "#7a7a7a",
+            "skin": "#efc9a6",
+            "expression": "neutral",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He ruled that Antony had lost the wager.",
+      "scene": {
+        "kind": "title",
+        "text": "Antony lost",
+        "sub": "The judge ruled"
+      }
+    },
+    {
+      "text": "Pliny says the other pearl was cut in half for Venus.",
+      "scene": {
+        "kind": "title",
+        "text": "Cut in half",
+        "sub": "For Venus, says Pliny"
+      }
+    },
+    {
+      "text": "Modern tests show vinegar can dissolve a pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "Modern tests",
+        "sub": "Vinegar dissolves a pearl"
+      }
+    },
+    {
+      "text": "A whole pearl takes many hours to dissolve.",
+      "scene": {
+        "kind": "title",
+        "text": "Many hours",
+        "sub": "Not minutes"
+      }
+    },
+    {
+      "text": "A pearl is layers of calcium carbonate, which acid dissolves.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "halo": true,
+        "label": "Calcium carbonate"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Roman writer Pliny the Elder tells a story: Cleopatra wagered Mark Antony that one dinner would cost ten million sesterces, then dropped a pearl into vinegar and swallowed it. Modern tests show vinegar can dissolve a pearl, but a whole one takes many hours. A pearl is layers of calcium carbonate, which acid dissolves.",
+    "hashtags": [
+      "#cleopatra",
+      "#pearls",
+      "#pearljewelry",
+      "#romanhistory",
+      "#jewelrystories"
+    ]
+  },
+  "sources": [
+    "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/9*.html",
+    "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=9:chapter=58",
+    "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Macrobius/Saturnalia/3*.html",
+    "https://penelope.uchicago.edu/Thayer/E/Journals/CJ/52/5/Cleopatras_Pearls%2A.html",
+    "https://digitalcommons.montclair.edu/classics-gnrl-hmnties-facpubs/2",
+    "https://www.nbcnews.com/id/wbna38536846",
+    "https://www.jewellerybusiness.com/features/the-acid-test-preserving-pearls-fragile-beauty/4/",
+    "https://www.britannica.com/topic/pearl-gemstone"
+  ]
+}

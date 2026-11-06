@@ -1,0 +1,194 @@
+{
+  "id": "lesson-021-solitaire-ring",
+  "series": "lesson",
+  "number": 21,
+  "title": "What a solitaire ring is",
+  "topic": "solitaire ring",
+  "music": "music-lesson-021.wav",
+  "hook": {
+    "text": "Solitaire just means alone.",
+    "gold": [
+      "alone"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Solitaire just means alone.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "A solitaire is a single gem set alone.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "label": "A solitaire",
+        "focus": {
+          "x": 0.45,
+          "y": 0.3,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "The word comes from French, and from the Latin for alone.",
+      "scene": {
+        "kind": "title",
+        "text": "Solus",
+        "sub": "Latin for alone"
+      }
+    },
+    {
+      "text": "Four or six prongs can hold the stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "label": "Prongs",
+        "focus": {
+          "x": 0.45,
+          "y": 0.2,
+          "k": 2.2
+        },
+        "marks": [
+          {
+            "x": 0.65,
+            "y": 0.16,
+            "text": "Prong",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "A bezel can hold one too.",
+      "scene": {
+        "kind": "title",
+        "text": "A bezel",
+        "sub": "Can hold a solitaire too"
+      }
+    },
+    {
+      "text": "Prongs lift the stone to show its size and let in light.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "label": "A lifted stone",
+        "focus": {
+          "x": 0.5,
+          "y": 0.26,
+          "k": 2.2
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.33,
+            "text": "Light",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "With nothing else on the ring, the stone gets all the attention.",
+      "scene": {
+        "kind": "photo",
+        "src": "render-matthew-yellow.webp",
+        "label": "One stone",
+        "focus": {
+          "x": 0.55,
+          "y": 0.2,
+          "k": 1.7
+        }
+      }
+    },
+    {
+      "text": "Its band can be plain, or arched like a cathedral.",
+      "scene": {
+        "kind": "title",
+        "text": "The band",
+        "sub": "Plain or cathedral"
+      }
+    },
+    {
+      "text": "Nearly any wedding band style can sit beside it.",
+      "scene": {
+        "kind": "title",
+        "text": "A wedding band",
+        "sub": "Nearly any style fits"
+      }
+    },
+    {
+      "text": "A high setting can catch on clothing.",
+      "scene": {
+        "kind": "title",
+        "text": "Can snag",
+        "sub": "A high setting"
+      }
+    },
+    {
+      "text": "So the name fits, one stone set alone.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "label": "One stone, set alone",
+        "focus": {
+          "x": 0.45,
+          "y": 0.3,
+          "k": 1.1
+        }
+      }
+    },
+    {
+      "text": "A render shows a client the gold before anything is cast.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "matthew-rose-render.webp",
+          "render-matthew-yellow.webp",
+          "matthew-front-white-render.webp"
+        ],
+        "labels": [
+          "Rose gold",
+          "Yellow gold",
+          "White gold"
+        ]
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Solitaire ring in a jewelry render: why the stone is lifted",
+    "caption": "A solitaire is a single gem set alone, from the Latin solus. Prongs, often four or six, lift the stone above the band to show its size and let in light, and with nothing else on the ring the stone gets all the attention. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#solitairering",
+      "#engagementring",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#ringsettings"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/solitaire",
+    "https://www.merriam-webster.com/dictionary/solitary",
+    "https://www.etymonline.com/word/solitaire",
+    "https://BlueNile.com/jewelry/rings/solitaire-rings",
+    "https://www.brilliantearth.com/engagement-rings/solitaire/",
+    "https://www.brilliantearth.com/guides/engagement-ring-styles/",
+    "https://4cs.gia.edu/?p=7260",
+    "https://www.ritani.com/blogs/education/engagement-ring-settings",
+    "https://www.bluenile.com/blog/diamonds-jewelry/types-of-ring-settings",
+    "https://www.bluenile.com/blog/diamonds-jewelry/best-engagement-ring-styles",
+    "https://www.brilliantearth.com/guides/how-to-stack-solitaire-engagement-ring-with-wedding-band/",
+    "https://www.bluenile.com/engagement-rings/styles/solitaire",
+    "https://www.bluenile.com/blog/diamonds-jewelry/cathedral-engagement-rings-guide",
+    "https://www.25karats.com/education/glossary/Cathedral%20Setting"
+  ]
+}

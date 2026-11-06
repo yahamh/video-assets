@@ -1,0 +1,167 @@
+{
+  "id": "080-paraiba-tourmaline",
+  "number": 80,
+  "title": "This neon blue gem's price rose tenfold",
+  "topic": "paraiba tourmaline discovery",
+  "music": "music-080.wav",
+  "hook": {
+    "text": "This neon blue gem's price rose tenfold.",
+    "gold": [
+      "neon",
+      "tenfold"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This neon blue gem's price rose tenfold.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#19b5d6"
+      }
+    },
+    {
+      "text": "Heitor Barbosa was a Brazilian miner.",
+      "say": "Aytor Barbosa was a Brazilian miner.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Heitor Barbosa",
+        "role": "A Brazilian miner",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a42",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a77a",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He dug for years near São José da Batalha, in Paraíba.",
+      "say": "He dug for years near Sao Jose da Batalha, in Paraiba.",
+      "scene": {
+        "kind": "title",
+        "text": "Paraíba, Brazil",
+        "sub": "Near São José da Batalha"
+      }
+    },
+    {
+      "text": "The digging began in the early 1980s.",
+      "say": "The digging began in the early nineteen eighties.",
+      "scene": {
+        "kind": "title",
+        "text": "Early 1980s",
+        "sub": "The digging begins"
+      }
+    },
+    {
+      "text": "In 1989, the first gem quality stones reached the market.",
+      "say": "In nineteen eighty-nine, the first gem quality stones reached the market.",
+      "scene": {
+        "kind": "title",
+        "text": "1989",
+        "sub": "Gems reach the market"
+      }
+    },
+    {
+      "text": "They glowed neon blue to green.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#19b5d6",
+        "label": "Neon blue to green"
+      }
+    },
+    {
+      "text": "Copper makes the color, a first documented in tourmaline.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper",
+        "sub": "A documented first"
+      }
+    },
+    {
+      "text": "At the 1990 Tucson show, the price rose about tenfold.",
+      "say": "At the nineteen ninety Tucson show, the price rose about tenfold.",
+      "scene": {
+        "kind": "title",
+        "text": "About tenfold",
+        "sub": "At Tucson, 1990"
+      }
+    },
+    {
+      "text": "Copper tourmaline later turned up in Nigeria and Mozambique.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#19b5d6",
+        "label": "Later finds in Africa"
+      }
+    },
+    {
+      "text": "Labs allow the Paraíba name for them, wherever they come from.",
+      "say": "Labs allow the Paraiba name for them, wherever they come from.",
+      "scene": {
+        "kind": "title",
+        "text": "The Paraíba name",
+        "sub": "Whatever the origin"
+      }
+    },
+    {
+      "text": "His son Sergio now runs the mine.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Sergio",
+        "role": "Heitor's son, runs the mine",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a6a5a",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#d9a77a",
+            "expression": "smile"
+          }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "A Brazilian miner, Heitor Barbosa, dug for years in Paraíba, and neon blue tourmaline reached the market in 1989. Copper makes the color, a first documented in tourmaline, and at the 1990 Tucson show the price rose about tenfold. Copper tourmaline later turned up in Nigeria and Mozambique.",
+    "hashtags": [
+      "#paraibatourmaline",
+      "#tourmaline",
+      "#gemstones",
+      "#heitorbarbosa",
+      "#coloredgemstones"
+    ]
+  },
+  "sources": [
+    "https://www.idexonline.com/Memo?id=50987",
+    "http://jornaldaparaiba.com.br/economia/turmalina-paraiba",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002897",
+    "https://www.gia.edu/gems-gemology/fall-1990-tourmaline-brazil-fritsch",
+    "https://www.gia.edu/doc/Gem-Quality-Cuprian-Elbaite-Tourmalines-from-Sao-Jose-Da-Batalha-Paraiba-Brazil.pdf",
+    "https://rapaport.com/?p=45138",
+    "https://www.istitutogemmologico.com/en/libro-di-gemmologia/tourmaline-paraiba-samba-among-gems/",
+    "https://www.gemstone.org/paraiba-tourmaline",
+    "https://www.lmhc-gemmology.org/wp-content/uploads/2023/06/LMHC-Information-Sheet_6_V8_2023.pdf",
+    "https://www.gemstonemagnetism.com/uploads/Laurs_Copper-Bearing-_Para%c3%adba-Type_-Tourmaline-from-Mozambique-1.pdf",
+    "https://gubelin.com/pages/gemstone-paraiba-tourmaline",
+    "https://www.gia.edu/gems-gemology/winter-2023-gemnews-in-memoriam-heitor-barbosa",
+    "https://roskingemnewsreport.com/the-man-who-discovered-paraiba-tourmaline/"
+  ]
+}

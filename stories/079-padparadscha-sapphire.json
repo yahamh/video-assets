@@ -1,0 +1,185 @@
+{
+  "id": "079-padparadscha-sapphire",
+  "number": 79,
+  "title": "Some padparadscha sapphires fade to pink",
+  "topic": "padparadscha sapphire",
+  "style": "paper",
+  "plate": "Padparadscha",
+  "theme": "blush",
+  "music": "music-079.wav",
+  "hook": {
+    "text": "Some padparadscha sapphires fade to pink.",
+    "gold": [
+      "padparadscha",
+      "pink"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some padparadscha sapphires fade to pink.",
+      "say": "Some padparadsha sapphires fade to pink.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#f39a62",
+        "toneTo": "#ec7fa6",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "A pinkish orange sapphire is called padparadscha.",
+      "say": "A pinkish orange sapphire is called padparadsha.",
+      "scene": {
+        "kind": "title",
+        "text": "Padparadscha",
+        "sub": "A pinkish orange sapphire",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In some stones, the orange fades in light.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f39a62",
+        "toneTo": "#ec7fa6",
+        "label": "Fading in light",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Ultraviolet light can bring the orange back.",
+      "scene": {
+        "kind": "title",
+        "text": "Ultraviolet",
+        "sub": "Brings the orange back",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "So labs now test whether the color is stable.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Gem labs",
+        "role": "A color stability test",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#f4f1ea",
+            "hair": "updo",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Its name comes from a Sinhalese word for lotus blossom.",
+      "scene": {
+        "kind": "title",
+        "text": "Lotus blossom",
+        "sub": "From a Sinhalese word",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "For many years, only Sri Lankan stones carried the name.",
+      "scene": {
+        "kind": "mine",
+        "place": "Sri Lanka",
+        "year": "For many years",
+        "tone": "#f39a62",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Madagascar and Vietnam also produce it today.",
+      "scene": {
+        "kind": "title",
+        "text": "Also produced",
+        "sub": "Madagascar and Vietnam",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The du Pont Padparadscha weighs over 24 carats.",
+      "say": "The du Pont Padparadsha weighs over twenty-four carats.",
+      "scene": {
+        "kind": "title",
+        "text": "Over 24 carats",
+        "sub": "The du Pont Padparadscha",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "A family member bought it in Ceylon, now Sri Lanka, in 1937.",
+      "say": "A family member bought it in Ceylon, now Sri Lanka, in nineteen thirty-seven.",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#f39a62",
+        "to": "A family member",
+        "date": "Ceylon, 1937",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It sold at Christie's in New York in December 2020.",
+      "say": "It sold at Christie's in New York in December twenty twenty.",
+      "scene": {
+        "kind": "title",
+        "text": "December 2020",
+        "sub": "Christie's, New York",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Princess Eugenie's engagement ring has an oval padparadscha.",
+      "say": "Princess Eugenie's engagement ring has an oval padparadsha.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#f39a62",
+        "metal": "yellow",
+        "halo": true,
+        "label": "An oval padparadscha",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A pinkish orange sapphire is called padparadscha, from a Sinhalese word for lotus blossom. In some stones the orange fades in light, and ultraviolet light can bring it back, so labs now test whether the color is stable. Princess Eugenie's engagement ring has an oval padparadscha.",
+    "hashtags": [
+      "#padparadscha",
+      "#sapphire",
+      "#gemstones",
+      "#sapphirering",
+      "#princesseugenie"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/sapphire-description",
+    "https://www.lmhc-gemmology.org/wp-content/uploads/2025/09/LMHC-Information-Sheet_4_V11_2025.pdf",
+    "https://www.ssef.ch/padparadscha-like-fancy-sapphires-with-unstable-colours/",
+    "https://gia.edu/gia-news-research/unstable-color-sapphires",
+    "https://www.igc-gemmology.org/wp-content/uploads/2024/01/2023-Palke-et-al-Additional-observations-on-unstable-color-in-padparadscha-sapphires.pdf",
+    "https://www.sothebys.com/en/articles/ceylon-sapphires-a-detailed-guide-for-collectors-and-enthusiasts",
+    "https://www.lotusgemology.com/resources/articles/132-padparadscha-sapphire-the-ownership-of-words",
+    "https://gubelin.com/pages/gemstone-padparadscha-sapphire",
+    "https://gia.edu/UK-EN/sapphire-history-lore",
+    "https://www.christies.com.cn/lot/lot-6296108",
+    "https://rapaport.com/?p=42654",
+    "https://www.nationaljeweler.com/articles/884-see-princess-eugenie-s-padparadscha-engagement-ring",
+    "https://www.phillips.com/detail/116090"
+  ]
+}

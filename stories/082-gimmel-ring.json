@@ -1,0 +1,168 @@
+{
+  "id": "082-gimmel-ring",
+  "number": 82,
+  "title": "This ring is built to come apart",
+  "topic": "gimmel ring",
+  "style": "paper",
+  "plate": "The Gimmel Ring",
+  "music": "music-082.wav",
+  "hook": {
+    "text": "This ring is built to come apart.",
+    "gold": [
+      "ring",
+      "apart"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This ring is built to come apart.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "It is called a gimmel ring, from the Latin word for twin.",
+      "scene": {
+        "kind": "title",
+        "text": "Gimmel ring",
+        "sub": "From the Latin for twin",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Two hoops fit together to make one ring.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "label": "Two hoops, one ring",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Many show two clasped hands holding a small heart.",
+      "scene": {
+        "kind": "title",
+        "text": "Clasped hands",
+        "sub": "Holding a small heart",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Some hide a message that appears only when the hoops come apart.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "A hidden message",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "One gold ring in London reads, \"As hands do shut,\"",
+      "scene": {
+        "kind": "title",
+        "text": "One in London",
+        "sub": "\"As hands do shut\"",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "\"so heart be knit.\"",
+      "scene": {
+        "kind": "title",
+        "text": "\"So heart be knit\"",
+        "sub": "A hidden verse",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "By tradition, a betrothed couple each received one hoop.",
+      "scene": {
+        "kind": "cast",
+        "setting": "garden",
+        "name": "A betrothed couple",
+        "role": "One hoop each",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3f5a6a",
+            "hair": "short",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#a8506a",
+            "hair": "side",
+            "hairColor": "#2e2420",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "They were especially popular in the 1500s.",
+      "say": "They were especially popular in the fifteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "The 1500s",
+        "sub": "Especially popular",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The poet Robert Herrick wrote a poem about one in 1648.",
+      "say": "The poet Robert Herrick wrote a poem about one in sixteen forty-eight.",
+      "scene": {
+        "kind": "title",
+        "text": "The Jimmall Ring",
+        "sub": "Herrick, 1648",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Some gimmel rings have three hoops instead of two.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "trinity",
+        "label": "Three hoops",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A gimmel ring is made of two hoops that fit together, from the Latin word for twin. Many show two clasped hands holding a small heart, and some hide a message that appears only when the hoops come apart. By tradition, a betrothed couple each received one hoop.",
+    "hashtags": [
+      "#gimmelring",
+      "#antiquejewelry",
+      "#renaissance",
+      "#betrothal",
+      "#vintagejewelry"
+    ]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O77755/gimmel-ring-unknown",
+    "https://www.societyofjewelleryhistorians.ac.uk/JSO_2023_2.pdf",
+    "https://collections.vam.ac.uk/item/O115572",
+    "https://www.britishmuseum.org/collection/object/H_1959-0209-40",
+    "https://www.londonmuseum.org.uk/collections/v/object-69234/posy-ring-fede-ring-gimmel-ring/",
+    "https://collections.vam.ac.uk/item/O72588/ring-unknown",
+    "https://www.londonmuseum.org.uk/collections/v/object-119219/fede-ring-gimmel-ring",
+    "https://human-touch.fitzmuseum.cam.ac.uk/exhibition/labels/italian-gimmel-ring-with-fede-motif",
+    "https://www.lesenluminures.com/artworks/10170-gimmel-ring-with-love-motifs-ring-western-europe-17th-century-intaglio-probably",
+    "https://www.luminarium.org/sevenlit/herrick/jimmall.htm"
+  ]
+}
