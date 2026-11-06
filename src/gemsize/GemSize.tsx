@@ -33,6 +33,8 @@ export type GemShort = {
   shape: string; // key in numbers.json (oval, emerald...)
   label: string; // "oval", "emerald cut"
   kind: "ratio" | "depth"; // what the fourth picture says: the length to width ratio, or the depth that hides weight
+  variant?: "versus"; // the 13th Short: 1 carat against 2 carat, side by side on a size 6 finger
+  versus?: { longer: string; widerPct: number }; // "1.6" mm, "25" %
   hook: { text: string; lines?: string[]; gold: string[] };
   dims: Record<"1ct" | "2ct" | "3ct", Dim>;
   fingerMm: number;
@@ -124,6 +126,31 @@ const Words: React.FC<{ lines: { text: string; size: number; color?: string; fon
 const share = (s: GemShort, k: "1ct" | "2ct") => s.dims[k].finger_share_pct;
 
 const PanelContent: React.FC<{ s: GemShort; k: GemLine["key"]; t: number }> = ({ s, k, t }) => {
+  if (s.variant === "versus" && k !== "hook") {
+    const v = s.versus!;
+    if (k === "finger") {
+      const e = (to: number) => Math.round(interpolate(t, [0.4, 1.8], [0, to], { ...clamp, easing: easeOut }));
+      return (
+        <Words
+          lines={[
+            { text: "On a size 6 finger they cover", size: 56, weight: 800, color: LILAC },
+            { text: `${e(share(s, "1ct"))}% and ${e(share(s, "2ct"))}%`, size: 124, font: SERIF, color: GOLD, gap: 14 },
+            { text: "of the finger's width", size: 58, weight: 800, color: LILAC, gap: 6 },
+          ]}
+        />
+      );
+    }
+    if (k === "stones") return <Words lines={[{ text: "Twice the carat,", size: 118 }, { text: `only ${v.longer} mm wider`, size: 118 }]} gold={[v.longer]} />;
+    return (
+      <Words
+        lines={[
+          { text: `A 2 carat ${s.label} looks about`, size: 58, weight: 800, color: LILAC },
+          { text: `${v.widerPct}% wider`, size: 200, font: SERIF, color: GOLD, gap: 10 },
+          { text: "than a 1 carat", size: 64, weight: 800, gap: 22 },
+        ]}
+      />
+    );
+  }
   switch (k) {
     case "hook": {
       const lines = s.hook.lines ?? [s.hook.text];
@@ -197,19 +224,95 @@ const shadow = { filter: "drop-shadow(0 14px 22px rgba(124,90,197,0.30))" };
 // The finger: the artwork's own SVG with a skin-coloured body under it (the file leaves the body empty) and the finger
 // carried on below the picture's end.
 const FINGER = { S: 42, ring: 1080 }; // px per mm, and the screen y of the ring's centre
-const FingerBody: React.FC = () => {
-  const { S, ring } = FINGER;
+type FingerPos = { S?: number; ring?: number; cx?: number }; // the finger's scale, ring height and centre line
+const pos = (p: FingerPos) => ({ S: p.S ?? FINGER.S, ring: p.ring ?? FINGER.ring, cx: p.cx ?? W / 2 });
+const FingerBody: React.FC<FingerPos> = (p) => {
+  const { S, ring, cx } = pos(p);
   const y0 = 38 - ring / S;
   return (
-    <svg width={38.51 * S} height={H} viewBox={`0 ${y0} 38.51 ${H / S}`} style={{ position: "absolute", left: (W - 38.51 * S) / 2, top: 0 }}>
+    <svg width={38.51 * S} height={H} viewBox={`0 ${y0} 38.51 ${H / S}`} style={{ position: "absolute", left: cx - (38.51 * S) / 2, top: 0 }}>
       <path d="M11.76 9 A7.5 9 0 0 1 26.75 9 L27.51 39 L27.51 80 L11 80 L11 39 Z" fill="#f4d3b8" />
       <path d="M27.51 55 L27.51 80 M11 55 L11 80" stroke="#cf9a77" strokeWidth={0.5} fill="none" />
     </svg>
   );
 };
-const FingerArt: React.FC<{ s: GemShort; n: 1 | 2; opacity: number }> = ({ s, n, opacity }) => {
-  const { S, ring } = FINGER;
-  return <img src={staticFile(`gemsize/finger-${s.shape}-${n}ct.svg`)} style={{ position: "absolute", left: (W - 38.51 * S) / 2, top: ring - 38 * S, width: 38.51 * S, height: 58 * S, opacity }} />;
+const FingerArt: React.FC<{ s: GemShort; n: 1 | 2; opacity: number } & FingerPos> = ({ s, n, opacity, ...p }) => {
+  const { S, ring, cx } = pos(p);
+  return <img src={staticFile(`gemsize/finger-${s.shape}-${n}ct.svg`)} style={{ position: "absolute", left: cx - (38.51 * S) / 2, top: ring - 38 * S, width: 38.51 * S, height: 58 * S, opacity }} />;
+};
+
+// 1 carat and 2 carat on two size 6 fingers side by side (the 13th Short)
+const TwoFingers: React.FC<{ s: GemShort; t: number; len: number; numbers: boolean }> = ({ s, t, len, numbers }) => {
+  const S = 24, ring = 1060;
+  const xs = [290, 790];
+  const push = 1 + 0.05 * prog(t, 0, len + 1);
+  const sy = (y: number) => ring + (y - 38) * S;
+  return (
+    <AbsoluteFill style={{ transform: `scale(${push})`, transformOrigin: `540px ${ring}px` }}>
+      {xs.map((cx, i) => (
+        <React.Fragment key={i}>
+          <FingerBody S={S} ring={ring} cx={cx} />
+          <FingerArt s={s} n={(i + 1) as 1 | 2} opacity={1} S={S} ring={ring} cx={cx} />
+        </React.Fragment>
+      ))}
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        {xs.map((cx, i) => {
+          const a = easeOut(prog(t, 0.1 + i * 0.25, 0.5 + i * 0.25));
+          const pct = Math.round(interpolate(t, [0.4 + i * 0.3, 1.8 + i * 0.3], [0, share(s, i ? "2ct" : "1ct")], { ...clamp, easing: easeOut }));
+          return (
+            <g key={i} opacity={a}>
+              <text x={cx} y={sy(30)} textAnchor="middle" fontFamily={SANS} fontWeight={900} fontSize={58} fill={INK}>
+                {i + 1} carat
+              </text>
+              {numbers ? (
+                <text x={cx} y={sy(57)} textAnchor="middle" fontFamily={SERIF} fontWeight={900} fontSize={104} fill={GOLD_DARK}>
+                  {pct}%
+                </text>
+              ) : null}
+            </g>
+          );
+        })}
+        <Glint x={xs[0] - 15} y={sy(38) - 20} t={t} size={22} at={0.3} every={1.3} />
+        <Glint x={xs[1] - 18} y={sy(38) - 24} t={t} size={26} at={0.8} every={1.3} />
+      </svg>
+    </AbsoluteFill>
+  );
+};
+
+// the 2 carat face with the 1 carat outline inside it, and what each measures (the 13th Short's answer)
+const WiderScene: React.FC<{ s: GemShort; t: number }> = ({ s, t }) => {
+  const big = STONES[stoneKey(s, 2)], one = STONES[stoneKey(s, 1)];
+  const k = Math.min(2.2, 540 / big.h, 560 / big.w);
+  const cx = 540, cy = 950;
+  const a = easeOut(prog(t, 0, 0.45));
+  const d1 = s.dims["1ct"], d2 = s.dims["2ct"];
+  const row = (y: number, dash: boolean, label: string, at: number) => (
+    <g opacity={fade(t, at, at + 0.4)}>
+      <path d={`M300 ${y - 14} H400`} stroke={dash ? GOLD_DARK : PURPLE} strokeWidth={8} strokeLinecap="round" strokeDasharray={dash ? "16 12" : undefined} />
+      <text x={430} y={y} fontFamily={SANS} fontWeight={900} fontSize={58} fill={INK}>
+        {label}
+      </text>
+    </g>
+  );
+  const bottom = cy + (big.h * k) / 2;
+  return (
+    <AbsoluteFill>
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}>
+        <Defs />
+        <g opacity={a} transform={`translate(0 ${(1 - a) * 50})`}>
+          <g transform={`translate(${cx - (big.w * k) / 2} ${cy - (big.h * k) / 2}) scale(${k})`} style={shadow}>
+            <Inner stone={big} />
+            <g transform={`translate(${big.cx} ${big.cy})`}>
+              <path d={one.outline} fill="none" stroke={GOLD_DARK} strokeWidth={4} strokeDasharray="14 10" opacity={fade(t, 0.6, 1.0)} vectorEffect="non-scaling-stroke" />
+            </g>
+          </g>
+        </g>
+        {row(bottom + 90, true, `1 ct  ${d1.length_mm.toFixed(1)} mm`, 1.0)}
+        {row(bottom + 170, false, `2 ct  ${d2.length_mm.toFixed(1)} mm`, 1.5)}
+        <Glint x={cx - big.w * k * 0.2} y={cy - big.h * k * 0.27} t={t} size={36} at={0.5} every={1.4} />
+      </svg>
+    </AbsoluteFill>
+  );
 };
 
 const FingerScene: React.FC<{ s: GemShort; t: number; len: number; two: boolean }> = ({ s, t, len, two }) => {
@@ -240,16 +343,16 @@ const FingerScene: React.FC<{ s: GemShort; t: number; len: number; two: boolean 
   );
 };
 
-const StonesScene: React.FC<{ s: GemShort; t: number; len: number; say: string; speakS: number }> = ({ s, t, len, say, speakS }) => {
-  const keys = [1, 2, 3].map((n) => STONES[stoneKey(s, n as 1 | 2 | 3)]);
+const StonesScene: React.FC<{ s: GemShort; t: number; len: number; say: string; speakS: number; count?: 2 | 3 }> = ({ s, t, len, say, speakS, count = 3 }) => {
+  const keys = [1, 2, 3].slice(0, count).map((n) => STONES[stoneKey(s, n as 1 | 2 | 3)]);
   const round = s.shape === "round";
   const gap = 30;
   const base = 1290;
-  const k = Math.min(1.15, (940 - 2 * gap) / keys.reduce((a, b) => a + b.w, 0), (base - PANEL_H - 70) / Math.max(...keys.map((x) => x.h)));
-  const total = keys.reduce((a, b) => a + b.w * k, 0) + 2 * gap;
+  const k = Math.min(count === 2 ? 1.6 : 1.15, (940 - (count - 1) * gap) / keys.reduce((a, b) => a + b.w, 0), (base - PANEL_H - 70) / Math.max(...keys.map((x) => x.h)));
+  const total = keys.reduce((a, b) => a + b.w * k, 0) + (count - 1) * gap;
   const words = timeWords(say, speakS);
   const at = (w: string) => words.find((x) => x.w.toLowerCase().startsWith(w))?.a ?? 1;
-  const cues = [0.05, Math.max(0.3, at("two") - 0.15), Math.max(0.9, at("three") - 0.15)];
+  const cues = count === 2 ? [0.05, 0.75] : [0.05, Math.max(0.3, at("two") - 0.15), Math.max(0.9, at("three") - 0.15)];
   let x = (W - total) / 2;
   return (
     <AbsoluteFill>
@@ -434,11 +537,21 @@ const SceneSlot: React.FC<{ s: GemShort; line: GemLine; first: boolean; len: num
   return (
     <AbsoluteFill style={{ opacity: inn }}>
       <Backdrop t={t + (first ? 0 : 0)} />
-      {line.key === "hook" ? <FingerScene s={s} t={t} len={len} two={false} /> : null}
-      {line.key === "stones" ? <StonesScene s={s} t={t} len={len} say={line.say} speakS={speakS} /> : null}
-      {line.key === "finger" ? <FingerScene s={s} t={t} len={len} two /> : null}
-      {line.key === "why" ? <WhyScene s={s} t={t} /> : null}
-      {line.key === "answer" ? <AnswerScene s={s} t={t} say={line.say} speakS={speakS} /> : null}
+      {s.variant === "versus" ? (
+        <>
+          {line.key === "hook" || line.key === "finger" ? <TwoFingers s={s} t={t} len={len} numbers={line.key === "finger"} /> : null}
+          {line.key === "stones" ? <StonesScene s={s} t={t} len={len} say={line.say} speakS={speakS} count={2} /> : null}
+          {line.key === "answer" ? <WiderScene s={s} t={t} /> : null}
+        </>
+      ) : (
+        <>
+          {line.key === "hook" ? <FingerScene s={s} t={t} len={len} two={false} /> : null}
+          {line.key === "stones" ? <StonesScene s={s} t={t} len={len} say={line.say} speakS={speakS} /> : null}
+          {line.key === "finger" ? <FingerScene s={s} t={t} len={len} two /> : null}
+          {line.key === "why" ? <WhyScene s={s} t={t} /> : null}
+          {line.key === "answer" ? <AnswerScene s={s} t={t} say={line.say} speakS={speakS} /> : null}
+        </>
+      )}
     </AbsoluteFill>
   );
 };

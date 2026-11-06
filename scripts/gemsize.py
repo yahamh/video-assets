@@ -129,6 +129,52 @@ def build(key, hook="A"):
     return short
 
 
+def build_versus():
+    """The 13th Short: "1 carat vs 2 carat on a size 6 finger", on round stones (the most searched shape)."""
+    data = json.loads((ROOT / "gemsize" / "numbers.json").read_text())
+    shape = data["shapes"]["round"]
+    d1, d2, d3 = shape["1ct"], shape["2ct"], shape["3ct"]
+    longer = f"{shape['double_the_carat_longer_by_mm']:.1f}"
+    pct = round((d2["length_mm"] / d1["length_mm"] - 1) * 100)
+    p1, p2 = d1["finger_share_pct"], d2["finger_share_pct"]
+    lines = [
+        {"key": "hook", "text": "1 vs 2 carat on a finger", "say": "One versus two carat, on a finger."},
+        {
+            "key": "finger",
+            "text": f"On a size 6 finger, a 1 carat round covers {p1}% of the width. A 2 carat covers {p2}%.",
+            "say": f"On a size six finger, a one carat round covers {words(p1)} percent of the width. A two carat covers {words(p2)}.",
+        },
+        {"key": "stones", "text": f"Twice the carat is only {longer} mm wider.", "say": f"Twice the carat is only {spoken_mm(float(longer))} millimeters wider."},
+        {"key": "answer", "text": f"So a 2 carat round looks about {pct}% wider than a 1 carat.", "say": f"So a two carat round looks about {words(pct)} percent wider than a one carat."},
+    ]
+    url = f"{SITE}/round-diamond-size-chart?utm_source=youtube&utm_medium=shorts&utm_campaign=gem_size_shorts"
+    return {
+        "id": "gs-13-versus",
+        "number": 13,
+        "series": "gemsize",
+        "variant": "versus",
+        "shape": "round",
+        "label": "round",
+        "kind": "depth",
+        "hookVariant": "A",
+        "hook": {"text": "1 vs 2 carat on a finger", "lines": ["1 vs 2 carat", "on a finger"], "gold": ["2"]},
+        "versus": {"longer": longer, "widerPct": pct},
+        "dims": {"1ct": d1, "2ct": d2, "3ct": d3},
+        "fingerMm": data["finger_size_6_mm"],
+        "answer": {"length": f"{d1['length_mm']:.1f}", "width": f"{d1['width_mm']:.1f}", "same": True},
+        "lines": lines,
+        "music": "music-gemsize-13.wav",
+        "post": {
+            "youtube_title": "1 carat vs 2 carat on a size 6 finger",
+            "caption": (
+                f"On a size 6 finger, a 1 carat round covers {p1}% of the width and a 2 carat covers {p2}%. "
+                f"Twice the carat is only {longer} mm wider.\n\nRound diamond size chart: {url}\n\nEstimates for a well-cut stone."
+            ),
+            "hashtags": ["#shorts", "#diamondsize", "#1caratdiamond", "#2caratdiamond", "#engagementring"],
+        },
+    }
+
+
 def read_aloud(short, out_dir, model_dir):
     import numpy as np
     import pyloudnorm
@@ -162,12 +208,12 @@ def read_aloud(short, out_dir, model_dir):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("shape", choices=[s[0] for s in SHAPES])
+    ap.add_argument("shape", choices=[s[0] for s in SHAPES] + ["versus"])
     ap.add_argument("--out", required=True)
     ap.add_argument("--hook", default="A", choices=["A", "B"])
     ap.add_argument("--no-voice", action="store_true")
     args = ap.parse_args()
-    short = build(args.shape, args.hook)
+    short = build_versus() if args.shape == "versus" else build(args.shape, args.hook)
     if not args.no_voice:
         read_aloud(short, ROOT / "public" / "voice" / short["id"] / VOICE, os.environ.get("KOKORO_MODEL", "/tmp/kokoro-model"))
     for line in short["lines"]:
