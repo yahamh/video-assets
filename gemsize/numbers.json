@@ -1,0 +1,416 @@
+{
+  "note": "Estimates for a well-cut stone. mm, face-up. Share = short side divided by the width of a size 6 finger (stone lengthwise).",
+  "finger_size_6_mm": 16.5,
+  "pixels_per_mm_stones": 40,
+  "pixels_per_mm_finger": 24,
+  "shapes": {
+    "round": {
+      "label": "Round",
+      "0.5ct": {
+        "length_mm": 5.1,
+        "width_mm": 5.1,
+        "finger_share_pct": 31
+      },
+      "0.75ct": {
+        "length_mm": 5.9,
+        "width_mm": 5.9,
+        "finger_share_pct": 36
+      },
+      "1ct": {
+        "length_mm": 6.5,
+        "width_mm": 6.5,
+        "finger_share_pct": 39
+      },
+      "1.5ct": {
+        "length_mm": 7.4,
+        "width_mm": 7.4,
+        "finger_share_pct": 45
+      },
+      "2ct": {
+        "length_mm": 8.1,
+        "width_mm": 8.1,
+        "finger_share_pct": 49
+      },
+      "3ct": {
+        "length_mm": 9.3,
+        "width_mm": 9.3,
+        "finger_share_pct": 56
+      },
+      "double_the_carat_longer_by_mm": 1.6
+    },
+    "oval": {
+      "label": "Oval",
+      "0.5ct": {
+        "length_mm": 6.3,
+        "width_mm": 4.4,
+        "finger_share_pct": 26
+      },
+      "0.75ct": {
+        "length_mm": 7.3,
+        "width_mm": 5,
+        "finger_share_pct": 30
+      },
+      "1ct": {
+        "length_mm": 8,
+        "width_mm": 5.5,
+        "finger_share_pct": 33
+      },
+      "1.5ct": {
+        "length_mm": 9.2,
+        "width_mm": 6.3,
+        "finger_share_pct": 38
+      },
+      "2ct": {
+        "length_mm": 10.1,
+        "width_mm": 6.9,
+        "finger_share_pct": 42
+      },
+      "3ct": {
+        "length_mm": 11.5,
+        "width_mm": 7.9,
+        "finger_share_pct": 48
+      },
+      "double_the_carat_longer_by_mm": 2.1
+    },
+    "cushion": {
+      "label": "Cushion",
+      "0.5ct": {
+        "length_mm": 4.4,
+        "width_mm": 4.4,
+        "finger_share_pct": 27
+      },
+      "0.75ct": {
+        "length_mm": 5.1,
+        "width_mm": 5.1,
+        "finger_share_pct": 31
+      },
+      "1ct": {
+        "length_mm": 5.6,
+        "width_mm": 5.6,
+        "finger_share_pct": 34
+      },
+      "1.5ct": {
+        "length_mm": 6.4,
+        "width_mm": 6.4,
+        "finger_share_pct": 39
+      },
+      "2ct": {
+        "length_mm": 7.1,
+        "width_mm": 7.1,
+        "finger_share_pct": 43
+      },
+      "3ct": {
+        "length_mm": 8.1,
+        "width_mm": 8.1,
+        "finger_share_pct": 49
+      },
+      "double_the_carat_longer_by_mm": 1.5
+    },
+    "princess": {
+      "label": "Princess",
+      "0.5ct": {
+        "length_mm": 4.4,
+        "width_mm": 4.4,
+        "finger_share_pct": 26
+      },
+      "0.75ct": {
+        "length_mm": 5,
+        "width_mm": 5,
+        "finger_share_pct": 30
+      },
+      "1ct": {
+        "length_mm": 5.5,
+        "width_mm": 5.5,
+        "finger_share_pct": 33
+      },
+      "1.5ct": {
+        "length_mm": 6.3,
+        "width_mm": 6.3,
+        "finger_share_pct": 38
+      },
+      "2ct": {
+        "length_mm": 6.9,
+        "width_mm": 6.9,
+        "finger_share_pct": 42
+      },
+      "3ct": {
+        "length_mm": 7.9,
+        "width_mm": 7.9,
+        "finger_share_pct": 48
+      },
+      "double_the_carat_longer_by_mm": 1.4
+    },
+    "emerald": {
+      "label": "Emerald cut",
+      "0.5ct": {
+        "length_mm": 5.6,
+        "width_mm": 4,
+        "finger_share_pct": 24
+      },
+      "0.75ct": {
+        "length_mm": 6.4,
+        "width_mm": 4.5,
+        "finger_share_pct": 28
+      },
+      "1ct": {
+        "length_mm": 7,
+        "width_mm": 5,
+        "finger_share_pct": 30
+      },
+      "1.5ct": {
+        "length_mm": 8,
+        "width_mm": 5.7,
+        "finger_share_pct": 35
+      },
+      "2ct": {
+        "length_mm": 8.8,
+        "width_mm": 6.3,
+        "finger_share_pct": 38
+      },
+      "3ct": {
+        "length_mm": 10.1,
+        "width_mm": 7.2,
+        "finger_share_pct": 44
+      },
+      "double_the_carat_longer_by_mm": 1.8
+    },
+    "asscher": {
+      "label": "Asscher",
+      "0.5ct": {
+        "length_mm": 4.4,
+        "width_mm": 4.4,
+        "finger_share_pct": 26
+      },
+      "0.75ct": {
+        "length_mm": 5,
+        "width_mm": 5,
+        "finger_share_pct": 30
+      },
+      "1ct": {
+        "length_mm": 5.5,
+        "width_mm": 5.5,
+        "finger_share_pct": 33
+      },
+      "1.5ct": {
+        "length_mm": 6.3,
+        "width_mm": 6.3,
+        "finger_share_pct": 38
+      },
+      "2ct": {
+        "length_mm": 6.9,
+        "width_mm": 6.9,
+        "finger_share_pct": 42
+      },
+      "3ct": {
+        "length_mm": 7.9,
+        "width_mm": 7.9,
+        "finger_share_pct": 48
+      },
+      "double_the_carat_longer_by_mm": 1.4
+    },
+    "radiant": {
+      "label": "Radiant",
+      "0.5ct": {
+        "length_mm": 5.2,
+        "width_mm": 4,
+        "finger_share_pct": 24
+      },
+      "0.75ct": {
+        "length_mm": 5.9,
+        "width_mm": 4.5,
+        "finger_share_pct": 28
+      },
+      "1ct": {
+        "length_mm": 6.5,
+        "width_mm": 5,
+        "finger_share_pct": 30
+      },
+      "1.5ct": {
+        "length_mm": 7.4,
+        "width_mm": 5.7,
+        "finger_share_pct": 35
+      },
+      "2ct": {
+        "length_mm": 8.2,
+        "width_mm": 6.3,
+        "finger_share_pct": 38
+      },
+      "3ct": {
+        "length_mm": 9.4,
+        "width_mm": 7.2,
+        "finger_share_pct": 44
+      },
+      "double_the_carat_longer_by_mm": 1.7
+    },
+    "pear": {
+      "label": "Pear",
+      "0.5ct": {
+        "length_mm": 6.7,
+        "width_mm": 4.4,
+        "finger_share_pct": 26
+      },
+      "0.75ct": {
+        "length_mm": 7.7,
+        "width_mm": 5,
+        "finger_share_pct": 30
+      },
+      "1ct": {
+        "length_mm": 8.5,
+        "width_mm": 5.5,
+        "finger_share_pct": 33
+      },
+      "1.5ct": {
+        "length_mm": 9.7,
+        "width_mm": 6.3,
+        "finger_share_pct": 38
+      },
+      "2ct": {
+        "length_mm": 10.7,
+        "width_mm": 6.9,
+        "finger_share_pct": 42
+      },
+      "3ct": {
+        "length_mm": 12.3,
+        "width_mm": 7.9,
+        "finger_share_pct": 48
+      },
+      "double_the_carat_longer_by_mm": 2.2
+    },
+    "marquise": {
+      "label": "Marquise",
+      "0.5ct": {
+        "length_mm": 8.3,
+        "width_mm": 4.1,
+        "finger_share_pct": 25
+      },
+      "0.75ct": {
+        "length_mm": 9.4,
+        "width_mm": 4.7,
+        "finger_share_pct": 29
+      },
+      "1ct": {
+        "length_mm": 10.4,
+        "width_mm": 5.2,
+        "finger_share_pct": 32
+      },
+      "1.5ct": {
+        "length_mm": 11.9,
+        "width_mm": 6,
+        "finger_share_pct": 36
+      },
+      "2ct": {
+        "length_mm": 13.1,
+        "width_mm": 6.6,
+        "finger_share_pct": 40
+      },
+      "3ct": {
+        "length_mm": 15,
+        "width_mm": 7.5,
+        "finger_share_pct": 45
+      },
+      "double_the_carat_longer_by_mm": 2.7
+    },
+    "heart": {
+      "label": "Heart",
+      "0.5ct": {
+        "length_mm": 5.2,
+        "width_mm": 5.2,
+        "finger_share_pct": 31
+      },
+      "0.75ct": {
+        "length_mm": 5.9,
+        "width_mm": 5.9,
+        "finger_share_pct": 36
+      },
+      "1ct": {
+        "length_mm": 6.5,
+        "width_mm": 6.5,
+        "finger_share_pct": 39
+      },
+      "1.5ct": {
+        "length_mm": 7.4,
+        "width_mm": 7.4,
+        "finger_share_pct": 45
+      },
+      "2ct": {
+        "length_mm": 8.2,
+        "width_mm": 8.2,
+        "finger_share_pct": 50
+      },
+      "3ct": {
+        "length_mm": 9.4,
+        "width_mm": 9.4,
+        "finger_share_pct": 57
+      },
+      "double_the_carat_longer_by_mm": 1.7
+    },
+    "trillion": {
+      "label": "Trillion",
+      "0.5ct": {
+        "length_mm": 5.6,
+        "width_mm": 5.6,
+        "finger_share_pct": 34
+      },
+      "0.75ct": {
+        "length_mm": 6.4,
+        "width_mm": 6.4,
+        "finger_share_pct": 39
+      },
+      "1ct": {
+        "length_mm": 7,
+        "width_mm": 7,
+        "finger_share_pct": 42
+      },
+      "1.5ct": {
+        "length_mm": 8,
+        "width_mm": 8,
+        "finger_share_pct": 49
+      },
+      "2ct": {
+        "length_mm": 8.8,
+        "width_mm": 8.8,
+        "finger_share_pct": 53
+      },
+      "3ct": {
+        "length_mm": 10.1,
+        "width_mm": 10.1,
+        "finger_share_pct": 61
+      },
+      "double_the_carat_longer_by_mm": 1.8
+    },
+    "baguette": {
+      "label": "Baguette",
+      "0.5ct": {
+        "length_mm": 6.3,
+        "width_mm": 3.2,
+        "finger_share_pct": 19
+      },
+      "0.75ct": {
+        "length_mm": 7.3,
+        "width_mm": 3.6,
+        "finger_share_pct": 22
+      },
+      "1ct": {
+        "length_mm": 8,
+        "width_mm": 4,
+        "finger_share_pct": 24
+      },
+      "1.5ct": {
+        "length_mm": 9.2,
+        "width_mm": 4.6,
+        "finger_share_pct": 28
+      },
+      "2ct": {
+        "length_mm": 10.1,
+        "width_mm": 5,
+        "finger_share_pct": 31
+      },
+      "3ct": {
+        "length_mm": 11.5,
+        "width_mm": 5.8,
+        "finger_share_pct": 35
+      },
+      "double_the_carat_longer_by_mm": 2.1
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "gs-01-oval",
+  "number": 1,
+  "series": "gemsize",
+  "shape": "oval",
+  "label": "oval",
+  "kind": "ratio",
+  "hookVariant": "A",
+  "hook": {
+    "text": "How big is a 1 carat oval?",
+    "lines": [
+      "How big is a",
+      "1 carat oval?"
+    ],
+    "gold": [
+      "oval"
+    ]
+  },
+  "dims": {
+    "1ct": {
+      "length_mm": 8,
+      "width_mm": 5.5,
+      "finger_share_pct": 33
+    },
+    "2ct": {
+      "length_mm": 10.1,
+      "width_mm": 6.9,
+      "finger_share_pct": 42
+    },
+    "3ct": {
+      "length_mm": 11.5,
+      "width_mm": 7.9,
+      "finger_share_pct": 48
+    }
+  },
+  "fingerMm": 16.5,
+  "answer": {
+    "length": "8.0",
+    "width": "5.5",
+    "same": false
+  },
+  "lines": [
+    {
+      "key": "hook",
+      "text": "How big is a 1 carat oval?",
+      "say": "How big is a one carat oval?"
+    },
+    {
+      "key": "stones",
+      "text": "Next to a 2 carat and a 3 carat, at the same scale.",
+      "say": "Next to a two carat and a three carat, at the same scale."
+    },
+    {
+      "key": "finger",
+      "text": "On a size 6 finger, a 2 carat oval covers 42% of the width.",
+      "say": "On a size six finger, a two carat oval covers forty-two percent of the width."
+    },
+    {
+      "key": "why",
+      "text": "The same weight can still look different, because the length to width ratio changes.",
+      "say": "The same weight can still look different, because the length to width ratio changes."
+    },
+    {
+      "key": "answer",
+      "text": "A 1 carat oval measures about 8.0 by 5.5 millimeters.",
+      "say": "A one carat oval measures about eight by five point five millimeters."
+    }
+  ],
+  "music": "music-gemsize-01.wav",
+  "post": {
+    "youtube_title": "How big is a 1 carat oval?",
+    "caption": "A 1 carat oval measures about 8.0 by 5.5 millimeters. A 2 carat oval covers 42% of the width of a size 6 finger.\n\nOval diamond size chart: https://www.heygema.com/en/gem-size/oval-diamond-size-chart?utm_source=youtube&utm_medium=shorts&utm_campaign=gem_size_shorts\n\nEstimates for a well-cut stone.",
+    "hashtags": [
+      "#shorts",
+      "#diamondsize",
+      "#1caratdiamond",
+      "#ovaldiamond",
+      "#engagementring"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 """Books every finished video through Zernio: the stories on Instagram, TikTok and YouTube, the render lessons on
-YouTube only, and the videos made elsewhere (uploads/: an id starting "yt-" or "ft-", its .json and .mp4 side by
-side, schedule.json "series" -> "upload" or "feature") on their series' platforms.
+YouTube only, and the videos made elsewhere (uploads/: an id starting "yt-", "ft-" or "gs-", its .json and .mp4 side by
+side, schedule.json "series" -> "upload", "feature" or "gemsize") on their series' platforms.
 
 Runs at the end of every "Make videos" run. A video is finished when its release exists. Each finished
 video that isn't booked yet goes to the next free time of its series in schedule.json (UTC: "times" and
@@ -263,7 +263,7 @@ def payload(story, url, slot, accounts, intro=""):  # slot None: post right away
 UPLOADS = os.path.join(ROOT, "uploads")
 
 
-UPLOAD_SERIES = {"yt-": "upload", "ft-": "feature"}  # uploads/ id prefix -> its series in schedule.json
+UPLOAD_SERIES = {"yt-": "upload", "ft-": "feature", "gs-": "gemsize"}  # uploads/ id prefix -> its series in schedule.json
 
 
 def series_of(sid):

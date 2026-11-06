@@ -6,12 +6,12 @@ import { spawnSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 
-const [storyPath, outPath] = process.argv.slice(2);
+const [storyPath, outPath, compositionId = "Story"] = process.argv.slice(2); // "GemSize" for the gem size Shorts
 const story = JSON.parse(fs.readFileSync(storyPath, "utf8"));
 fs.mkdirSync(path.dirname(outPath), { recursive: true });
 // The caption notes, bells and shimmer in this story's own key and chords (scripts/tones.py); the old dark and low-poly
 // stories have none and keep the old sounds.
-if (story.music) {
+if (story.music && compositionId === "Story") {
   const r = spawnSync("python3", ["scripts/tones.py", storyPath, "public/tones"], { encoding: "utf8" });
   if (r.status === 0) {
     const plan = JSON.parse(r.stdout.trim().split("\n").pop());
@@ -21,8 +21,8 @@ if (story.music) {
 const serveUrl = await bundle({ entryPoint: path.resolve("src/index.ts") });
 const shell = process.env.REMOTION_CHROME ?? "/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell";
 const browserExecutable = fs.existsSync(shell) ? shell : null;
-const inputProps = { story };
-const composition = await selectComposition({ serveUrl, id: "Story", inputProps, browserExecutable });
+const inputProps = compositionId === "Story" ? { story } : { short: story };
+const composition = await selectComposition({ serveUrl, id: compositionId, inputProps, browserExecutable });
 const raw = outPath.replace(/\.mp4$/, ".raw.mp4");
 let last = -1;
 await renderMedia({
