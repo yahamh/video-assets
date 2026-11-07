@@ -1,0 +1,222 @@
+{
+  "id": "085-dom-pedro-aquamarine",
+  "number": 85,
+  "title": "This aquamarine stands 14 inches tall",
+  "topic": "dom pedro aquamarine",
+  "style": "paper",
+  "plate": "The Dom Pedro",
+  "theme": "sky",
+  "music": "music-085.wav",
+  "hook": {
+    "text": "This aquamarine stands 14 inches tall.",
+    "gold": [
+      "aquamarine",
+      "14"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This aquamarine stands 14 inches tall.",
+      "say": "This aquamarine stands fourteen inches tall.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#7fd3e0",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It is called the Dom Pedro.",
+      "scene": {
+        "kind": "title",
+        "text": "The Dom Pedro",
+        "sub": "An aquamarine obelisk",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It weighs 10,363 carats.",
+      "say": "It weighs ten thousand three hundred sixty-three carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#7fd3e0",
+        "label": "10,363 carats",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It is the largest cut aquamarine known.",
+      "scene": {
+        "kind": "title",
+        "text": "The largest",
+        "sub": "Cut aquamarine known",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Aquamarine comes from the Latin for seawater.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#7fd3e0",
+        "label": "Latin for seawater",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "German gem artist Bernd Munsteiner carved it in 1993.",
+      "say": "German gem artist Bernd Munsteiner carved it in nineteen ninety-three.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Bernd Munsteiner",
+        "role": "A German gem artist",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a5a6a",
+            "hair": "side",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Its rough came from Brazil in the late 1980s.",
+      "say": "Its rough came from Brazil in the late nineteen eighties.",
+      "scene": {
+        "kind": "mine",
+        "place": "Minas Gerais, Brazil",
+        "year": "Late 1980s",
+        "tone": "#7fd3e0",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "He used a fantasy cut, with concave cuts on the back.",
+      "scene": {
+        "kind": "title",
+        "text": "A fantasy cut",
+        "sub": "Concave cuts on the back",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Those cuts reflect light, so the stone seems to glow from within.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#7fd3e0",
+        "label": "Seems to glow from within",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It is named for Brazil's first two emperors, both called Pedro.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Pedro and his son Pedro",
+        "role": "Brazil's first two emperors",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f6a4a",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#e8bf96",
+            "expression": "proud",
+            "facial": "mustache"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#c9a43a",
+            "hair": "side",
+            "hairColor": "#d8d4c8",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Jane Mitchell and Jeffrey Bland donated it in 2011.",
+      "say": "Jane Mitchell and Jeffrey Bland donated it in twenty eleven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Jane Mitchell and Jeffrey Bland",
+        "role": "Donated it in 2011",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#a8506a",
+            "hair": "updo",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "suit",
+            "outfitColor": "#3f5a6a",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The Smithsonian put it on view in December 2012.",
+      "say": "The Smithsonian put it on view in December twenty twelve.",
+      "scene": {
+        "kind": "title",
+        "text": "December 2012",
+        "sub": "On view at the Smithsonian",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Dom Pedro is an aquamarine obelisk, 14 inches tall and 10,363 carats, the largest cut aquamarine known. German gem artist Bernd Munsteiner carved it in 1993 from rough found in Minas Gerais, Brazil. Cuts on its back reflect light, so the stone seems to glow from within.",
+    "hashtags": [
+      "#aquamarine",
+      "#dompedro",
+      "#smithsonian",
+      "#gemcarving",
+      "#munsteiner"
+    ]
+  },
+  "sources": [
+    "https://www.si.edu/newsdesk/releases/smithsonian-display-world-s-largest-cut-aquamarine-dom-pedro",
+    "https://www.washingtonpost.com/national/health-science/2012/12/02/53d6ef10-303a-11e2-a30e-5ca76eeec857_story.html",
+    "https://www.gia.edu/gia-news-research/stories-behind-photos-gigantic-aquamarine-gaudy-nature",
+    "https://www.gia.edu/munsteiner-gem-cut",
+    "https://nationaljeweler.com/articles/12992-fantasy-cut-inventor-bernd-munsteiner-dies-at-81",
+    "https://agta.org/?p=20919",
+    "https://www.smithsonianmag.com/smithsonian-institution/worlds-largest-cut-aquamarine-gives-the-hope-diamond-a-run-for-its-money-153730858/",
+    "https://www.smithsonianmag.com/science-nature/introducing-the-dom-pedro-aquamarine-22283399/",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10026429",
+    "https://www.gia.edu/aquamarine-history-lore",
+    "https://www.gia.edu/aquamarine",
+    "https://www.merriam-webster.com/dictionary/aquamarine",
+    "https://siarchives.si.edu/collections/siris_sic_13661"
+  ]
+}

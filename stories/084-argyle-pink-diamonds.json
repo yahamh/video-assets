@@ -1,0 +1,178 @@
+{
+  "id": "084-argyle-pink-diamonds",
+  "number": 84,
+  "title": "One Australian mine supplied most pink diamonds",
+  "topic": "argyle pink diamonds",
+  "style": "lowpoly",
+  "music": "music-084.wav",
+  "hook": {
+    "text": "One Australian mine supplied most pink diamonds.",
+    "gold": [
+      "mine",
+      "pink"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One Australian mine supplied most pink diamonds.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#f06aa0"
+      }
+    },
+    {
+      "text": "It was the Argyle mine, in Western Australia's Kimberley region.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Argyle mine",
+        "role": "Kimberley, Western Australia",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#c9792f",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a77a",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Mining began there in 1983.",
+      "say": "Mining began there in nineteen eighty-three.",
+      "scene": {
+        "kind": "title",
+        "text": "1983",
+        "sub": "Mining begins"
+      }
+    },
+    {
+      "text": "Argyle gave the world more than 90 percent of its pinks.",
+      "say": "Argyle gave the world more than ninety percent of its pinks.",
+      "scene": {
+        "kind": "title",
+        "text": "Over 90%",
+        "sub": "Of the world's pink diamonds"
+      }
+    },
+    {
+      "text": "By weight, under a tenth of a percent was pink.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f06aa0",
+        "label": "Under 0.1%, by weight"
+      }
+    },
+    {
+      "text": "Scientists link the pink to a bend in the crystal structure.",
+      "scene": {
+        "kind": "title",
+        "text": "A bent crystal",
+        "sub": "Linked to the pink"
+      }
+    },
+    {
+      "text": "Each year, an invitation only tender offered around sixty stones.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The yearly tender",
+        "role": "About sixty stones",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a4a5e",
+            "hair": "slick",
+            "hairColor": "#2a1e18",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The 2017 tender offered the Argyle Everglow, a red diamond.",
+      "say": "The twenty seventeen tender offered the Argyle Everglow, a red diamond.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d8243c",
+        "label": "Argyle Everglow, 2.11 carats"
+      }
+    },
+    {
+      "text": "The Argyle Pink Jubilee was cut to about eight carats.",
+      "scene": {
+        "kind": "title",
+        "text": "Pink Jubilee",
+        "sub": "Cut to about 8 carats"
+      }
+    },
+    {
+      "text": "It was donated to Museums Victoria in Australia.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Museums Victoria",
+        "role": "Home of the Pink Jubilee",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#f4f1ea",
+            "hair": "updo",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The last day of mining at Argyle was November 3, 2020.",
+      "say": "The last day of mining at Argyle was November third, twenty twenty.",
+      "scene": {
+        "kind": "title",
+        "text": "3 Nov 2020",
+        "sub": "Last day of mining"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Argyle, in the Kimberley region of Western Australia, began mining in 1983 and gave the world more than 90 percent of its pink diamonds. By weight, under a tenth of a percent of its output was pink. Its yearly invitation only tender offered around sixty stones, and the last day of mining was November 3, 2020.",
+    "hashtags": [
+      "#argyle",
+      "#pinkdiamond",
+      "#diamonds",
+      "#coloreddiamonds",
+      "#australia"
+    ]
+  },
+  "sources": [
+    "https://www.riotinto.com/en/Operations/australia/argyle",
+    "https://www.abc.net.au/news/rural/2020-11-03/wa-argyle-pink-diamond-mine-closure/12840466",
+    "https://www.gia.edu/doc/Discovery-and-Mining-of-the-Argyle-Diamond-Deposit-Australia.pdf",
+    "https://www.smithsonianmag.com/smart-news/geologists-unravel-the-mysteries-of-australias-rare-pink-diamonds-180982933/",
+    "https://rapaport.com/news/argyle-pink-tender-takes-its-final-bow/",
+    "https://www.gia.edu/gems-gemology/winter-2014-pink-to-red-diamonds-30th-argyle-diamond-tender",
+    "https://www.nature.com/articles/s41467-023-40904-8",
+    "https://rapaport.com/magazine-article/the-allure-of-pink/",
+    "https://www.gia.edu/dam/migrated-assets/docs/doc1/Characterization-and-Grading-of-Natural-Color-Pink-Diamonds.pdf",
+    "https://calico-prod.museumsvictoria.com.au/article/how-do-diamonds-get-their-colours",
+    "https://idexonline.com/FullArticle?Id=43505",
+    "https://nationaljeweler.com/articles/diamonds-gems/pricing/6032-rio-tinto-s-2-11-carat-red-is-its-most-valuable-diamond-ever",
+    "https://mining.com/largest-pink-diamond-ever-discovered-goes-on-display",
+    "https://collections.museumsvictoria.com.au/specimens/1909914"
+  ]
+}

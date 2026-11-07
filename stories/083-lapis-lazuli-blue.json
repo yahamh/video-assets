@@ -1,0 +1,214 @@
+{
+  "id": "083-lapis-lazuli-blue",
+  "number": 83,
+  "title": "Egypt's blue stone came from Afghanistan",
+  "topic": "lapis lazuli history",
+  "music": "music-083.wav",
+  "hook": {
+    "text": "Egypt's blue stone came from Afghanistan.",
+    "gold": [
+      "Egypt's",
+      "Afghanistan"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Egypt's blue stone came from Afghanistan.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2a4fb0"
+      }
+    },
+    {
+      "text": "The stone is called lapis lazuli.",
+      "scene": {
+        "kind": "title",
+        "text": "Lapis lazuli",
+        "sub": "Lapis is Latin for stone"
+      }
+    },
+    {
+      "text": "A famed source is Sar-e-Sang, in Badakhshan, Afghanistan.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A miner in Badakhshan",
+        "role": "Sar-e-Sang, Afghanistan",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a42",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#c99a72",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Lapis found at Ur likely came from Badakhshan.",
+      "scene": {
+        "kind": "title",
+        "text": "The city of Ur",
+        "sub": "Lapis likely from Badakhshan"
+      }
+    },
+    {
+      "text": "Traders carried it west to Mesopotamia and on to Egypt.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Traders",
+        "role": "Carried it west",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a5a3a",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#d9a77a",
+            "expression": "smile",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Tutankhamun's gold mask also uses lapis lazuli.",
+      "scene": {
+        "kind": "title",
+        "text": "Tutankhamun",
+        "sub": "His gold mask uses lapis"
+      }
+    },
+    {
+      "text": "The golden flecks inside it are pyrite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a4fb0",
+        "label": "Golden flecks: pyrite"
+      }
+    },
+    {
+      "text": "Painters made a blue pigment from it, called ultramarine.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A painter",
+        "role": "Made ultramarine blue",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a5a7a",
+            "hair": "side",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Ultramarine comes from Latin words for beyond the sea.",
+      "scene": {
+        "kind": "title",
+        "text": "Ultramarine",
+        "sub": "Beyond the sea"
+      }
+    },
+    {
+      "text": "It was said to rival gold in price.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#2a4fb0",
+        "metal": "yellow",
+        "label": "Said to rival gold"
+      }
+    },
+    {
+      "text": "Painters often saved it for the Virgin Mary's clothing.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2a4fb0",
+        "label": "For the Virgin Mary's clothing"
+      }
+    },
+    {
+      "text": "Vermeer used a lot of it in Girl with a Pearl Earring.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Vermeer",
+        "role": "Girl with a Pearl Earring",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a3a46",
+            "hair": "side",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "People have prized lapis for more than six thousand years.",
+      "say": "People have prized lapis for more than six thousand years.",
+      "scene": {
+        "kind": "title",
+        "text": "6,000+ years",
+        "sub": "Of being prized"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Lapis is Latin for stone, and a famed source of lapis lazuli is Sar-e-Sang, in Badakhshan, Afghanistan. Traders carried it west to Mesopotamia and on to Egypt, and Tutankhamun's gold mask also uses it. Painters made the blue pigment ultramarine from it, a name from Latin words for beyond the sea.",
+    "hashtags": [
+      "#lapislazuli",
+      "#ultramarine",
+      "#vermeer",
+      "#ancientjewelry",
+      "#afghanistan"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/art/collection/search/545120",
+    "https://asia.si.edu/explore-art-culture/art-stories/colors/blue/",
+    "https://www.gia.edu/lazurite-afghanistan-reading-list",
+    "https://www.britannica.com/topic/lapis-lazuli",
+    "https://www.nationalgallery.org.uk/learning/teachers-and-schools/picture-in-focus/cross-curricular-ideas/art-trade",
+    "https://gemkids.gia.edu/gem/lapis-lazuli",
+    "https://www.metmuseum.org/art/collection/search/322910",
+    "https://www.britishmuseum.org/collection/object/W_1929-1017-237",
+    "https://www.metmuseum.org/exhibitions/listings/2009/afghanistan",
+    "https://www.gia.edu/doc/Lapis-Lazuli-from-Sar-E-Sang-Badakhshan-Afghanistan.pdf",
+    "https://tutankhamun.griffith.ox.ac.uk/stories/re-creating-tutankhamuns-mask-3d-harry-burtons-photographs-digital-model",
+    "https://egyptianmuseumcairo.eg/?p=2612",
+    "https://www.gia.edu/articles/lapis-lazuli-description-v1",
+    "https://www.britannica.com/technology/ultramarine-pigment",
+    "https://www.merriam-webster.com/dictionary/ultramarine",
+    "https://www.nationalgallery.org.uk/podcast/colour-stories-blue",
+    "https://artsandculture.google.com/story/zAXh8ZSniJOqhA",
+    "https://www.gia.edu/gems-gemology/fall-2022-gems-on-canvas",
+    "https://www.getty.edu/education/kids_families/do_at_home/artscoops/color_renaissance.html",
+    "https://www.nationalgallery.org.uk/research/publications/vermeer-and-technique/vermeer-s-palette",
+    "https://www.mauritshuis.nl/en/our-collection/restoration-and-research/closer-to-vermeer-and-the-girl/girl-with-a-blog/blue-pigment-girl-with-a-pearl-earring-vermeer",
+    "https://www.gia.edu/articles/lapis-lazuli-history-lore",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10026651"
+  ]
+}
