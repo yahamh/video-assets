@@ -1,0 +1,177 @@
+{
+  "id": "087-peridot-from-space",
+  "number": 87,
+  "title": "Some peridot fell from space",
+  "topic": "peridot",
+  "style": "lowpoly",
+  "music": "music-087.wav",
+  "hook": {
+    "text": "Some peridot fell from space.",
+    "gold": [
+      "peridot",
+      "space"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some peridot fell from space.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear",
+        "tone": "#9acd32"
+      }
+    },
+    {
+      "text": "Some pallasite meteorites hold crystals big enough to cut.",
+      "scene": {
+        "kind": "title",
+        "text": "Pallasite meteorites",
+        "sub": "Crystals big enough to cut"
+      }
+    },
+    {
+      "text": "Stones cut from them are small and rare.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9acd32",
+        "label": "Small and rare"
+      }
+    },
+    {
+      "text": "Peridot is the gem form of olivine.",
+      "scene": {
+        "kind": "title",
+        "text": "Olivine",
+        "sub": "The mineral behind peridot"
+      }
+    },
+    {
+      "text": "Olivine is the most abundant mineral in Earth's upper mantle.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#9acd32",
+        "label": "Earth's upper mantle"
+      }
+    },
+    {
+      "text": "Iron gives peridot its yellowish green color.",
+      "scene": {
+        "kind": "title",
+        "text": "Iron",
+        "sub": "Gives the yellowish green"
+      }
+    },
+    {
+      "text": "Ancient Egyptians mined peridot on a Red Sea island.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "name": "Ancient Egyptians",
+        "role": "Red Sea peridot miners",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#c9b48a",
+            "hair": "short",
+            "hairColor": "#1e1a16",
+            "skin": "#c99a72",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They reportedly called it the gem of the sun.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#9acd32",
+        "label": "The gem of the sun"
+      }
+    },
+    {
+      "text": "That island is now called Zabargad.",
+      "scene": {
+        "kind": "title",
+        "text": "Zabargad",
+        "sub": "Also called St. John's Island"
+      }
+    },
+    {
+      "text": "The Smithsonian holds a peridot of about 311 carats from there.",
+      "say": "The Smithsonian holds a peridot of about three hundred eleven carats from there.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "The Smithsonian",
+        "role": "A peridot of about 311 carats",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#f4f1ea",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Arizona is the main US source of peridot.",
+      "scene": {
+        "kind": "title",
+        "text": "Arizona",
+        "sub": "The main US source"
+      }
+    },
+    {
+      "text": "Peridot is one of August's birthstones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#9acd32",
+        "metal": "yellow",
+        "label": "An August birthstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some pallasite meteorites hold olivine crystals big enough to cut, so some peridot really did fall from space, though stones cut from them are small and rare. Peridot is the gem form of olivine, and iron gives it its yellowish green color. Ancient Egyptians mined it on a Red Sea island now called Zabargad, and peridot is one of August's birthstones.",
+    "hashtags": [
+      "#peridot",
+      "#augustbirthstone",
+      "#meteorite",
+      "#pallasite",
+      "#zabargad"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/peridot",
+    "https://gia.edu/peridot-description",
+    "https://www.gia.edu/birthstones/august-birthstones",
+    "https://www.gia.edu/peridot-history-lore",
+    "https://www.gia.edu/reading-list-peridot-from-egypt",
+    "https://www.gia.edu/gems-gemology/winter-2022-lab-notes-large-faceted-pallasitic-peridot0",
+    "https://www.gemsociety.org/article/peridot-jewelry-and-gemstone-information",
+    "https://www.americangemsociety.org/peridot-history",
+    "https://www.britannica.com/topic/peridot",
+    "https://www.britannica.com/science/olivine",
+    "https://www.earthdate.org/gems-from-deep-earth-or-deep-space",
+    "https://meteorites.asu.edu/stony-iron-meteorites/pallasites",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002758",
+    "https://naturalhistory.si.edu/object/nmnhmineralsciences_1008557",
+    "https://apps.usgs.gov/minerals-information-archives/gemstones/sp14-95/peridot.html",
+    "https://thejewelerblog.wordpress.com/2026/08/10/peridots-bizarre-name-journey-adds-intrigue-to-augusts-official-birthstone/"
+  ]
+}

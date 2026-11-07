@@ -1,0 +1,204 @@
+{
+  "id": "088-hallmark-goldsmiths-hall",
+  "number": 88,
+  "title": "Hallmarks are named for a London hall",
+  "topic": "hallmark history",
+  "style": "paper",
+  "plate": "The Hallmark",
+  "theme": "watercolor",
+  "music": "music-088.wav",
+  "hook": {
+    "text": "Hallmarks are named for a London hall.",
+    "gold": [
+      "Hallmarks",
+      "London"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hallmarks are named for a London hall.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Goldsmiths' Hall tested and stamped gold and silver.",
+      "scene": {
+        "kind": "title",
+        "text": "Goldsmiths' Hall",
+        "sub": "Tested and stamped",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In 1300, King Edward the First set a legal standard.",
+      "say": "In thirteen hundred, King Edward the First set a legal standard.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "King Edward the First",
+        "role": "Set a legal standard in 1300",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a2a3a",
+            "hair": "side",
+            "hairColor": "#7a5a3a",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "A modern UK hallmark has three required marks.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "label": "Three required marks",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "One names the sponsor who sent the piece in.",
+      "scene": {
+        "kind": "title",
+        "text": "The sponsor's mark",
+        "sub": "Who sent the piece in",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "One gives the purity, such as 925 for sterling silver.",
+      "say": "One gives the purity, such as nine two five for sterling silver.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "label": "925: sterling silver",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "One shows the assay office, like London's leopard's head.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Goldsmiths' Assay Office",
+        "role": "London: a leopard's head",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#f4f1ea",
+            "hair": "updo",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Birmingham's is an anchor, Sheffield's a rose.",
+      "scene": {
+        "kind": "title",
+        "text": "An anchor and a rose",
+        "sub": "Birmingham and Sheffield",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Edinburgh's is a castle.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "label": "Edinburgh: a castle",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Today, offices usually test gold with X-ray fluorescence.",
+      "scene": {
+        "kind": "title",
+        "text": "X-ray fluorescence",
+        "sub": "Tests the metal",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The British Hallmarking Council calls it one of the oldest consumer protections.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "British Hallmarking Council",
+        "role": "One of the oldest consumer protections",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3f5a6a",
+            "hair": "slick",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "In the UK, gold items over one gram need a hallmark.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "earrings",
+        "metal": "yellow",
+        "label": "Over one gram of gold",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A hallmark is named for Goldsmiths' Hall in London, where gold and silver were tested and stamped. In 1300, King Edward the First set a legal standard. A modern UK hallmark has three required marks: the sponsor, the purity and the assay office. In the UK, gold items over one gram need a hallmark.",
+    "hashtags": [
+      "#hallmark",
+      "#hallmarking",
+      "#sterlingsilver",
+      "#goldsmiths",
+      "#antiquejewelry"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/hallmark",
+    "https://www.etymonline.com/word/hallmark",
+    "https://www.britannica.com/art/hallmark",
+    "https://www.thegoldsmiths.co.uk/history",
+    "https://thesilversociety.org/research/identify-your-silver/",
+    "https://www.jckonline.com/?p=38614",
+    "https://assets.publishing.service.gov.uk/media/63a333b9d3bf7f37654767e0/hallmarking-guidance-notes.pdf",
+    "https://www.theassayoffice.co.uk/hallmarking",
+    "https://www.assayofficelondon.co.uk/hallmarking/uk-hallmarks",
+    "https://www.legislation.gov.uk/id/ukpga/1973/43/schedule/2/part/I",
+    "https://assayoffice.co.uk/news/bhc-press-release-celebrate-the-hallmarking-act-as-it-turns-50",
+    "https://www.assayoffice.co.uk/about-us/history",
+    "https://www.edinburghassayoffice.co.uk/?p=5210",
+    "https://www.assayofficelondon.co.uk/media/1426/hallmarking-process.pdf",
+    "https://www.assayoffice.co.uk/news/from-the-bible-to-state-of-the-art-the-history-of-cupellation-test-methods",
+    "https://www.gov.uk/guidance/hallmarking-in-the-uk-consumer-protection",
+    "https://www.thegoldsmiths.co.uk/hallmarking-stories/a-field-guide-to-hallmarking",
+    "https://guides.slv.vic.gov.au/hallmarking/assaying",
+    "https://www.legislation.gov.uk/ukpga/1973/43/schedule/1",
+    "https://www.gov.uk/government/publications/hallmarking-guidance-notes/hallmarking-is-the-law-guidance-summary"
+  ]
+}

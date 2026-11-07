@@ -1,0 +1,177 @@
+{
+  "id": "086-garnet-pomegranate",
+  "number": 86,
+  "title": "Garnet is named for the pomegranate",
+  "topic": "garnet history",
+  "music": "music-086.wav",
+  "hook": {
+    "text": "Garnet is named for the pomegranate.",
+    "gold": [
+      "Garnet",
+      "pomegranate"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Garnet is named for the pomegranate.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#9a1f2e"
+      }
+    },
+    {
+      "text": "The name probably nods to red pomegranate seeds.",
+      "scene": {
+        "kind": "title",
+        "text": "Pomegranate",
+        "sub": "Probably behind the name"
+      }
+    },
+    {
+      "text": "Garnet beads from Egypt are over 5,000 years old.",
+      "say": "Garnet beads from Egypt are over five thousand years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9a1f2e",
+        "label": "Over 5,000 years old"
+      }
+    },
+    {
+      "text": "Roman signet rings often carried garnets carved to stamp wax.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A Roman",
+        "role": "Garnet signet ring",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a3a3a",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#e0b080",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Anglo-Saxon jewelers set garnets from as far away as India.",
+      "scene": {
+        "kind": "title",
+        "text": "Anglo-Saxon gold",
+        "sub": "Garnets from as far as India"
+      }
+    },
+    {
+      "text": "Smaller garnets came from the Czech lands.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9a1f2e",
+        "label": "Czech garnets, too"
+      }
+    },
+    {
+      "text": "Garnet is a family of related minerals.",
+      "scene": {
+        "kind": "title",
+        "text": "A family",
+        "sub": "Of related minerals"
+      }
+    },
+    {
+      "text": "Its colors include many shades of red and green.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2e9b4a",
+        "label": "Shades of red and green"
+      }
+    },
+    {
+      "text": "Campbell Bridges found green tsavorite in 1967.",
+      "say": "Campbell Bridges found green tsavorite in nineteen sixty-seven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Campbell Bridges",
+        "role": "Found tsavorite in 1967",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a6a4a",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#d9a77a",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Tiffany ads introduced it to the public in 1974.",
+      "say": "Tiffany ads introduced it to the public in nineteen seventy-four.",
+      "scene": {
+        "kind": "title",
+        "text": "1974",
+        "sub": "Tiffany introduces tsavorite"
+      }
+    },
+    {
+      "text": "Red Bohemian garnets were hugely popular in Victorian times.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#9a1f2e",
+        "metal": "yellow",
+        "label": "Victorian garnet jewelry"
+      }
+    },
+    {
+      "text": "Garnet is the birthstone for January.",
+      "scene": {
+        "kind": "title",
+        "text": "January",
+        "sub": "Garnet is the birthstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Garnet is named for the pomegranate, probably for its red seeds. Garnet beads from Egypt are over 5,000 years old, Roman signet rings often carried garnets, and Anglo-Saxon jewelers set garnets from as far away as India. Garnet is a family of related minerals, with many shades of red and green, and it is the birthstone for January.",
+    "hashtags": [
+      "#garnet",
+      "#januarybirthstone",
+      "#tsavorite",
+      "#victorianjewelry",
+      "#birthstones"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/garnet",
+    "https://www.etymonline.com/word/garnet",
+    "https://americangemsociety.org/birthstones/january-birthstone/garnet-overview",
+    "https://www.gia.edu/birthstones/january-birthstones",
+    "https://www.gia.edu/garnet/gem-overview",
+    "https://www.metmuseum.org/art/collection/search/547302",
+    "https://www.americangemsociety.org/garnet-history",
+    "https://www.metmuseum.org/art/collection/search/253818",
+    "https://www.britishmuseum.org/exhibitions/silk-roads/sri-lanka-suffolk-sutton-hoo-and-silk-roads",
+    "https://www.birminghammuseums.org.uk/resources/the-science-behind-the-staffordshire-hoard",
+    "https://www.britannica.com/science/garnet",
+    "https://gia.edu/gems-gemology/winter-2017-gemnews-celebrating-years-tsavorite",
+    "https://www.gemstone.org/Tsavorite",
+    "https://www.jewellermagazine.com/Article/13647/Gemmologists-who-changed-the-game-Campbell-Bridges"
+  ]
+}
