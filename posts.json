@@ -734,7 +734,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1146743094490276",
+      "instagram": "https://www.instagram.com/reel/DfavoCCjyDR/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705198158879411474",
+      "youtube": "https://www.youtube.com/watch?v=eJc6D6HVTTI"
+    }
   },
   "044-tanzanite": {
     "at": "2026-11-07T00:30:00Z",
@@ -743,7 +750,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1152184030834670",
+      "instagram": "https://www.instagram.com/reel/Dfa5l06nPoA/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705220613136289044"
+    }
   },
   "045-carat-carob-seed": {
     "at": "2026-11-07T02:00:00Z",
@@ -752,7 +765,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2318637182205205",
+      "instagram": "https://www.instagram.com/reel/DfbD1XGifuJ/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705242931141053748"
+    }
   },
   "046-moissanite-meteorite": {
     "at": "2026-11-07T11:30:00Z",
@@ -1092,6 +1111,34 @@
   "082-gimmel-ring": {
     "at": "2026-11-10T21:00:00Z",
     "zernio_id": "6aee557bf8f6b16bfe63efa0",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "083-lapis-lazuli-blue": {
+    "at": "2026-11-10T23:00:00Z",
+    "zernio_id": "6aeea8135d99e3a4ea033e9b",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "084-argyle-pink-diamonds": {
+    "at": "2026-11-11T00:30:00Z",
+    "zernio_id": "6aeea81a5d99e3a4ea033eee",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "085-dom-pedro-aquamarine": {
+    "at": "2026-11-11T02:00:00Z",
+    "zernio_id": "6aeea82baf849e5d00314972",
     "platforms": [
       "facebook",
       "instagram",
