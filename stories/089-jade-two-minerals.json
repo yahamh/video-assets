@@ -1,0 +1,182 @@
+{
+  "id": "089-jade-two-minerals",
+  "number": 89,
+  "title": "Jade is really two different minerals",
+  "topic": "jade nephrite and jadeite",
+  "music": "music-089.wav",
+  "hook": {
+    "text": "Jade is really two different minerals.",
+    "gold": [
+      "Jade",
+      "two"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Jade is really two different minerals.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#3fa56b"
+      }
+    },
+    {
+      "text": "They are nephrite and jadeite.",
+      "scene": {
+        "kind": "title",
+        "text": "Two minerals",
+        "sub": "Nephrite and jadeite"
+      }
+    },
+    {
+      "text": "Alexis Damour, a French mineralogist, told them apart in 1863.",
+      "say": "Alexis Damour, a French mineralogist, told them apart in eighteen sixty-three.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Alexis Damour",
+        "role": "A French mineralogist, 1863",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a4a56",
+            "hair": "side",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Carvers in China worked jade more than 4,000 years ago.",
+      "say": "Carvers in China worked jade more than four thousand years ago.",
+      "scene": {
+        "kind": "title",
+        "text": "4,000+ years",
+        "sub": "Jade carved in China"
+      }
+    },
+    {
+      "text": "Chinese tradition holds that gold has a price and jade is priceless.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3fa56b",
+        "label": "A Chinese saying"
+      }
+    },
+    {
+      "text": "The Maya treated jade as their most precious material.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Maya",
+        "role": "Jade, their most precious material",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f7a5a",
+            "hair": "slick",
+            "hairColor": "#1e1a16",
+            "skin": "#c99a72",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "King Pakal's jade mask was found in 1952 at Palenque.",
+      "say": "King Pakal's jade mask was found in nineteen fifty-two at Palenque.",
+      "scene": {
+        "kind": "title",
+        "text": "1952",
+        "sub": "Pakal's jade mask found"
+      }
+    },
+    {
+      "text": "In New Zealand, Maori call nephrite pounamu.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#3fa56b",
+        "label": "Pounamu is nephrite"
+      }
+    },
+    {
+      "text": "Jadeite comes mainly from Myanmar and Guatemala.",
+      "scene": {
+        "kind": "title",
+        "text": "Jadeite's home",
+        "sub": "Myanmar and Guatemala"
+      }
+    },
+    {
+      "text": "The finest, a translucent emerald green, is called imperial jade.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#1fae6a",
+        "metal": "yellow",
+        "label": "Imperial jade"
+      }
+    },
+    {
+      "text": "Jade is extremely tough, with interlocking crystals.",
+      "scene": {
+        "kind": "title",
+        "text": "Extremely tough",
+        "sub": "Interlocking crystals"
+      }
+    },
+    {
+      "text": "A struck piece of nephrite rings like a chime.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3fa56b",
+        "label": "Rings like a chime"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Jade is two different minerals, nephrite and jadeite, which Alexis Damour told apart in 1863. Carvers in China worked jade more than 4,000 years ago, the Maya treated it as their most precious material, and in New Zealand nephrite is called pounamu. Jadeite comes mainly from Myanmar and Guatemala, and the finest translucent emerald green is called imperial jade.",
+    "hashtags": [
+      "#jade",
+      "#jadeite",
+      "#nephrite",
+      "#pounamu",
+      "#ancientjewelry"
+    ]
+  },
+  "sources": [
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002716",
+    "https://www.amnh.org/explore/news-blogs/jade-by-any-name",
+    "https://www.gem-a.com/gemstones/jade",
+    "https://www.universalis.fr/encyclopedie/jades/",
+    "https://publications.asia.si.edu/jades/essay-wilson.php",
+    "https://www.britishmuseum.org/collection/object/A_1884-0405-1",
+    "https://www.metmuseum.org/essays/neolithic-period-in-china",
+    "https://www.theworldofchinese.com/2020/03/the-jade-rush/",
+    "https://www.chinadaily.com.cn/life/2008-11/07/content_11569595.htm",
+    "https://www.metmuseum.org/art/collection/search/314832",
+    "https://www.getty.edu/art/exhibitions/golden_kingdoms/inner.html",
+    "https://artsandculture.google.com/asset/m%C3%A1scara-de-pakal-unknown/TgGr7HbxuPnIkA",
+    "https://assets.atlasobscura.com/places/death-mask-of-pakal-the-great",
+    "https://teara.govt.nz/en/pounamu-jade-or-greenstone/page-1",
+    "https://www.tepapa.govt.nz/learn/for-educators/self-guided-education-visits/te-marae-pounamu-greenstone-0",
+    "https://www.britannica.com/science/jadeite",
+    "https://www.gia.edu/jade",
+    "https://www.gia.edu/jade-description",
+    "https://www.penn.museum/sites/expedition/jade/"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "092-turquoise-turkish-stone",
+  "number": 92,
+  "title": "Turquoise's name means Turkish stone",
+  "topic": "turquoise",
+  "music": "music-092.wav",
+  "hook": {
+    "text": "Turquoise's name means Turkish stone.",
+    "gold": [
+      "Turquoise's",
+      "Turkish"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Turquoise's name means Turkish stone.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2fbfbf"
+      }
+    },
+    {
+      "text": "It probably reached Europe through Turkey.",
+      "scene": {
+        "kind": "title",
+        "text": "Through Turkey",
+        "sub": "How it reached Europe"
+      }
+    },
+    {
+      "text": "Its classic sky blue is called Persian blue.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2fbfbf",
+        "label": "Persian blue"
+      }
+    },
+    {
+      "text": "Copper makes it blue, and iron can tint it green.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A gemologist",
+        "role": "Copper makes it blue",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f5f6b",
+            "hair": "side",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Egyptians mined it in Sinai thousands of years ago.",
+      "scene": {
+        "kind": "title",
+        "text": "Sinai",
+        "sub": "Egypt's turquoise mines"
+      }
+    },
+    {
+      "text": "Hathor, goddess of those mines, was called Lady of Turquoise.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fbfbf",
+        "label": "Lady of Turquoise"
+      }
+    },
+    {
+      "text": "Bracelets with turquoise from King Djer's tomb are about 5,000 years old.",
+      "say": "Bracelets with turquoise from King Djer's tomb are about five thousand years old.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#2fbfbf",
+        "metal": "yellow",
+        "label": "About 5,000 years old"
+      }
+    },
+    {
+      "text": "Navajo and Pueblo jewelers made turquoise and silver famous.",
+      "scene": {
+        "kind": "title",
+        "text": "Turquoise and silver",
+        "sub": "Navajo and Pueblo jewelry"
+      }
+    },
+    {
+      "text": "Arizona's Sleeping Beauty mine was famous for its turquoise.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fbfbf",
+        "label": "Sleeping Beauty, Arizona"
+      }
+    },
+    {
+      "text": "It is soft, only five to six on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "A soft stone",
+        "sub": "5 to 6 on the Mohs scale"
+      }
+    },
+    {
+      "text": "Skin oils and cosmetics can discolor it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A gemologist",
+        "role": "Skin oils can discolor it",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f5f6b",
+            "hair": "side",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Turquoise is the December birthstone.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#2fbfbf",
+        "metal": "white",
+        "label": "A December birthstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Turquoise's name means Turkish stone, because it probably reached Europe through Turkey. Its classic sky blue is called Persian blue, Egyptians mined it in Sinai thousands of years ago, and bracelets with turquoise from King Djer's tomb are about 5,000 years old. It is soft, only 5 to 6 on the Mohs scale, and skin oils and cosmetics can discolor it. Turquoise is the December birthstone.",
+    "hashtags": [
+      "#turquoise",
+      "#decemberbirthstone",
+      "#turquoisejewelry",
+      "#gemstonehistory",
+      "#birthstones"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/turquoise-history-lore",
+    "https://www.britannica.com/topic/turquoise",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002830",
+    "https://www.gia.edu/articles/turquoise-description",
+    "https://geology.com/minerals/turquoise.shtml",
+    "https://egypt-museum.com/four-bracelets-from-tomb-of-king-djer/",
+    "https://www.metmuseum.org/en/essays/turquoise-in-ancient-egypt",
+    "https://egypt-museum.com/sinai/",
+    "https://www.the-past.com/review/travel/the-temple-of-hathor-at-serabit-el-khadim/",
+    "https://nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/native-american-jewellery",
+    "https://www.gia.edu/turquoise-care-cleaning",
+    "https://www.gia.edu/articles/arizona-road-trips-wild-west-gem-mineral-localities",
+    "https://discovergilacounty.com/gems-minerals/",
+    "https://www.gia.edu/gem-education/gem-encyclopedia/gem-encyclopedia/turquoise/gem-overview",
+    "https://micro.magnet.fsu.edu/birthstones/pages/turquoise.html"
+  ]
+}

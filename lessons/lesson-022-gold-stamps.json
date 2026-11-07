@@ -1,0 +1,184 @@
+{
+  "id": "lesson-022-gold-stamps",
+  "series": "lesson",
+  "number": 22,
+  "title": "What the stamp inside a gold ring means",
+  "topic": "gold stamps and fineness marks",
+  "music": "music-lesson-022.wav",
+  "hook": {
+    "text": "Gold rings hide a tiny number.",
+    "gold": [
+      "tiny",
+      "number"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold rings hide a tiny number.",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-yellow-input.webp",
+        "after": "ring-1d-yellow-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "Pure gold is 24 karat, and each karat is one twenty-fourth.",
+      "say": "Pure gold is twenty-four karat, and each karat is one twenty-fourth.",
+      "scene": {
+        "kind": "title",
+        "text": "24 karat",
+        "sub": "Pure gold"
+      }
+    },
+    {
+      "text": "The UK stamps that purity in parts per thousand.",
+      "scene": {
+        "kind": "steps",
+        "label": "UK gold marks",
+        "items": [
+          "375",
+          "585",
+          "750",
+          "916"
+        ],
+        "active": 0
+      }
+    },
+    {
+      "text": "A 750 stamp is 18 karat, and 585 is 14 karat.",
+      "say": "A seven fifty stamp is eighteen karat, and five eighty-five is fourteen karat.",
+      "scene": {
+        "kind": "steps",
+        "label": "UK gold marks",
+        "items": [
+          "375",
+          "585",
+          "750",
+          "916"
+        ],
+        "active": 2
+      }
+    },
+    {
+      "text": "UK hallmarks add the maker's mark and the assay office's mark.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-yellow-render.webp",
+        "label": "Inside the band",
+        "focus": {
+          "x": 0.62,
+          "y": 0.72,
+          "k": 1.9
+        },
+        "marks": [
+          {
+            "x": 0.66,
+            "y": 0.78,
+            "text": "Stamps go here",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "In the US, the stamp usually reads 14K or 18K.",
+      "say": "In the US, the stamp usually reads fourteen K or eighteen K.",
+      "scene": {
+        "kind": "title",
+        "text": "14K or 18K",
+        "sub": "The US karat stamp"
+      }
+    },
+    {
+      "text": "It usually sits beside the maker's mark.",
+      "scene": {
+        "kind": "photo",
+        "src": "signet-render.webp",
+        "label": "A gold band, inside",
+        "focus": {
+          "x": 0.42,
+          "y": 0.66,
+          "k": 1.7
+        }
+      }
+    },
+    {
+      "text": "Platinum is stamped 950, and sterling silver 925.",
+      "say": "Platinum is stamped nine fifty, and sterling silver nine twenty-five.",
+      "scene": {
+        "kind": "title",
+        "text": "950 and 925",
+        "sub": "Platinum and sterling silver"
+      }
+    },
+    {
+      "text": "Read it with a jeweler's loupe.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-yellow-render.webp",
+        "label": "A loupe",
+        "focus": {
+          "x": 0.62,
+          "y": 0.72,
+          "k": 2.4
+        }
+      }
+    },
+    {
+      "text": "That number is how pure the gold is.",
+      "scene": {
+        "kind": "title",
+        "text": "Purity",
+        "sub": "The number inside the band"
+      }
+    },
+    {
+      "text": "Renders show the gold color first, so clients choose before casting.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "matthew-rose-render.webp",
+          "render-matthew-yellow.webp",
+          "matthew-front-white-render.webp"
+        ],
+        "labels": [
+          "Rose gold",
+          "Yellow gold",
+          "White gold"
+        ]
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Gold stamps explained: what 750 and 585 mean in a jewelry render",
+    "caption": "The tiny number inside a gold ring is its purity. Pure gold is 24 karat, and each karat is one twenty-fourth. The UK stamps purity in parts per thousand, so 750 is 18 karat and 585 is 14 karat, while platinum is stamped 950 and sterling silver 925. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#goldjewelry",
+      "#hallmark",
+      "#goldkarat",
+      "#jewelrymaking",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://www.royalmint.com/invest/discover/gold-news/metal-fineness-explained/",
+    "https://www.legislation.gov.uk/ukpga/1973/43/schedule/2/part/I",
+    "https://www.law.cornell.edu/uscode/text/15/297",
+    "https://www.assayofficelondon.co.uk/hallmarking/uk-hallmarks",
+    "https://www.lbma.org.uk/wonders-of-gold/items/purity-of-gold",
+    "https://www.britannica.com/technology/fineness-gold-and-silver",
+    "https://www.gold.org/about-gold/about-gold-jewellery",
+    "https://www.peterstone.com/blogs/special-blog/how-to-read-gold-hallmarks-and-stamps",
+    "https://www.jewelersmutual.com/the-jewelry-box/gold-markings-and-stamps-jewelry",
+    "https://www.jewelers.org/education/jewelry-metals/gold-jewelry-guide",
+    "https://www.edinburghassayoffice.co.uk/?p=5210",
+    "https://www.brilliantearth.com/jewelry/buying-guide/jewelry-stamps-and-markings-identification/",
+    "https://www.bluenile.com/blog/diamonds-jewelry/jewelry-hallmark-guide"
+  ]
+}

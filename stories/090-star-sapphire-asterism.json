@@ -1,0 +1,177 @@
+{
+  "id": "090-star-sapphire-asterism",
+  "number": 90,
+  "title": "Tiny needles make a star in sapphire",
+  "topic": "star sapphire asterism",
+  "style": "lowpoly",
+  "music": "music-090.wav",
+  "hook": {
+    "text": "Tiny needles make a star in sapphire.",
+    "gold": [
+      "needles",
+      "star"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiny needles make a star in sapphire.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#1f4fc8"
+      }
+    },
+    {
+      "text": "The effect is called asterism.",
+      "scene": {
+        "kind": "title",
+        "text": "Asterism",
+        "sub": "A star made by light"
+      }
+    },
+    {
+      "text": "The needles are rutile crystals crossing inside the stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#1f4fc8",
+        "label": "Rutile needles inside"
+      }
+    },
+    {
+      "text": "Three sets of needles make a six rayed star.",
+      "scene": {
+        "kind": "title",
+        "text": "Six rays",
+        "sub": "From three sets of needles"
+      }
+    },
+    {
+      "text": "The stone must be cut as a smooth dome called a cabochon.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1f4fc8",
+        "label": "A smooth dome: a cabochon"
+      }
+    },
+    {
+      "text": "Rock it, and the star seems to move across the surface.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A gemologist",
+        "role": "Rocking the stone",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f5f6b",
+            "hair": "side",
+            "hairColor": "#5a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Four, six, or rarely twelve rays can appear.",
+      "scene": {
+        "kind": "title",
+        "text": "Four to twelve rays",
+        "sub": "Six is the usual number"
+      }
+    },
+    {
+      "text": "Ruby is also corundum, so it can show a star too.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d8243c",
+        "label": "A star ruby"
+      }
+    },
+    {
+      "text": "The Star of India weighs about 563 carats.",
+      "say": "The Star of India weighs about five hundred sixty-three carats.",
+      "scene": {
+        "kind": "title",
+        "text": "563 carats",
+        "sub": "The Star of India"
+      }
+    },
+    {
+      "text": "John Pierpont Morgan donated it to the American Museum of Natural History.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Pierpont Morgan",
+        "role": "Donated the Star of India",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2a30",
+            "hair": "slick",
+            "hairColor": "#d8d4c8",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Sapphire ranks nine on the Mohs scale, after diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "9 on the Mohs scale",
+        "sub": "Second only to diamond"
+      }
+    },
+    {
+      "text": "Sapphire is September's birthstone.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#1f4fc8",
+        "metal": "white",
+        "label": "September's birthstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A star sapphire's star is called asterism, made by tiny rutile needles crossing inside the stone. Three sets of needles make a six rayed star, and the stone must be cut as a smooth dome called a cabochon. Rock it, and the star seems to move across the surface.",
+    "hashtags": [
+      "#starsapphire",
+      "#asterism",
+      "#sapphire",
+      "#septemberbirthstone",
+      "#starofindia"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/sapphire-quality-factor",
+    "https://www.gia.edu/birthstones/september-birthstones",
+    "https://www.gia.edu/gems-gemology-summary-guide-to-phenomenal-gems",
+    "https://www.britannica.com/topic/sapphire-gemstone",
+    "https://www.britannica.com/print/article/39724",
+    "https://www.britannica.com/science/corundum",
+    "https://www.britannica.com/topic/Star-of-India",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002719",
+    "https://www.amnh.org/exhibitions/permanent/gems-minerals/star-of-india2",
+    "https://www.amnh.org/exhibitions/permanent/gems",
+    "https://www.gemselect.com/other-info/star-sapphire-what-causes-asterism.php",
+    "https://www.gemselect.com/other-info/about-star-gemstones.php",
+    "https://www.gem-a.com/gem-hub/famous-gemstones-star-india-sapphire/",
+    "https://www.earthdate.org/episodes/the-star-of-india",
+    "https://www.americangemsociety.org/four-fun-facts-about-sapphire-septembers-birthstone"
+  ]
+}

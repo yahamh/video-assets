@@ -1,0 +1,178 @@
+{
+  "id": "091-cameo-layered-shell",
+  "number": 91,
+  "title": "This cameo is carved from layered shell",
+  "topic": "cameo carving",
+  "style": "paper",
+  "plate": "The Cameo",
+  "theme": "mint",
+  "music": "music-091.wav",
+  "hook": {
+    "text": "This cameo is carved from layered shell.",
+    "gold": [
+      "cameo",
+      "layered"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This cameo is carved from layered shell.",
+      "scene": {
+        "kind": "hook",
+        "show": "brooch",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A cameo is a relief carving, with the design raised.",
+      "scene": {
+        "kind": "title",
+        "text": "A relief carving",
+        "sub": "The design is raised",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Carvers cut away a white layer to show a darker one.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "label": "White layer cut away",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Shell cameos often come from helmet shells.",
+      "scene": {
+        "kind": "title",
+        "text": "Helmet shells",
+        "sub": "Often used for cameos",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The layers are often white over orange or brown.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "label": "White over orange or brown",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Greek carvers made cameos by about the third century B C.",
+      "say": "Greek carvers made cameos by about the third century B C.",
+      "scene": {
+        "kind": "title",
+        "text": "Third century B C",
+        "sub": "Greek cameos",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Empress Josephine helped make cameos fashionable.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Empress Josephine",
+        "role": "Helped make cameos fashionable",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#8a6aa8",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "jewel": "pearls"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Travelers on the Grand Tour bought cameos as souvenirs.",
+      "scene": {
+        "kind": "title",
+        "text": "The Grand Tour",
+        "sub": "Cameos as souvenirs",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Queen Victoria is credited with popularizing shell cameos.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Victoria",
+        "role": "Credited with popularizing shell cameos",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#2a2a46",
+            "hair": "updo",
+            "hairColor": "#6a5a4a",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Torre del Greco, Italy, is known for cameo carving.",
+      "scene": {
+        "kind": "title",
+        "text": "Torre del Greco",
+        "sub": "Italy's cameo town",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A cameo is raised, and an intaglio is cut in.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "label": "A cameo is raised",
+        "color": "#c8dc3c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A cameo is a relief carving, with the design raised, and shell cameos are made by cutting away a white layer to show a darker one. Greek carvers made cameos by about the third century B C, travelers on the Grand Tour bought them as souvenirs, and Queen Victoria is credited with popularizing shell cameos. A cameo is raised, and an intaglio is cut in.",
+    "hashtags": [
+      "#cameo",
+      "#shellcameo",
+      "#antiquejewelry",
+      "#victorianjewelry",
+      "#cameojewelry"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/cameo",
+    "https://collections.vam.ac.uk/item/O110382",
+    "https://www.lyonandturnbull.com/stories/cameos-vs-intaglios-a-history-guide",
+    "https://www.metmuseum.org/art/collection/search/3835",
+    "https://www.metmuseum.org/essays/cameo-appearances",
+    "https://www.gia.edu/articles/cameos-timeless-miniature-carvings-jewelry-lovers",
+    "https://www.gemsociety.org/article/shell/",
+    "https://www.langantiques.com/university/?p=70386",
+    "https://gia.edu/gems-gemology/spring-2019-gemnews-hand-carved-cameos-from-italy",
+    "https://www.antiquetrader.com/uncategorized/art-from-the-sea-company-creating-new-age-of-shell-coral-cameos",
+    "https://www.ancientrome.ru/art/artworke/book/neverov/ac01.htm",
+    "https://depositsmag.com/2020/09/14/cameos-from-ancient-greece-and-rome-small-but-precious-treasures/",
+    "https://lyonandturnbull.com/stories/souvenirs-of-the-grand-tour",
+    "https://www.langantiques.com/university/georgian-and-victorian-cameos/",
+    "https://www.sothebys.com/en/articles/the-incomparable-josephine?locale=en",
+    "https://bgc.bard.edu/research/articles/58/jewels-with-cameos-and-intaglios",
+    "https://www.1stdibs.com/blogs/the-study/cameo-jewelry",
+    "https://britannica.com/print/article/600085",
+    "https://visitnaples.eu/en/neapolitanity/discover-naples/the-history-of-the-cameo-neapolitan-pride"
+  ]
+}
