@@ -780,7 +780,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2084249915870174",
+      "instagram": "https://www.instagram.com/reel/DfcFD82CoHa/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705390601868430613"
+    }
   },
   "047-hoxne-hoard": {
     "at": "2026-11-07T13:00:00Z",
@@ -789,7 +795,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1672360780926987",
+      "instagram": "https://www.instagram.com/reel/DfcPslnD8b-/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705414615504637204"
+    }
   },
   "048-oldest-jewelry-shell-beads": {
     "at": "2026-11-07T14:00:00Z",
@@ -799,7 +811,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4560192794215210",
+      "instagram": "https://www.instagram.com/reel/DfcWe_DgoBo/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705429395116281140",
+      "youtube": "https://www.youtube.com/watch?v=ULSbPHD79WY"
+    }
   },
   "049-grace-kelly-ring": {
     "at": "2026-11-07T16:30:00Z",
@@ -1143,6 +1162,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "086-garnet-pomegranate": {
+    "at": "2026-11-11T11:30:00Z",
+    "zernio_id": "6aef51b84ed2c68f045bc46c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "087-peridot-from-space": {
+    "at": "2026-11-11T13:00:00Z",
+    "zernio_id": "6aef51c0f67b5b75276a103f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "088-hallmark-goldsmiths-hall": {
+    "at": "2026-11-11T14:00:00Z",
+    "zernio_id": "6aef51c74ed2c68f045bc475",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -1507,7 +1554,11 @@
     "zernio_id": "6aec221f8d76371e9daf7a73",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=KdA1EverqY8"
+    }
   },
   "lesson-016-pearl-luster": {
     "at": "2026-11-08T16:00:00Z",
