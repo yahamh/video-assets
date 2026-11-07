@@ -827,7 +827,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=981374315043866",
+      "instagram": "https://www.instagram.com/reel/Dfcnc3anHY5/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705467552662686977"
+    }
   },
   "050-patiala-necklace": {
     "at": "2026-11-07T18:00:00Z",
@@ -837,7 +843,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1144250251521826",
+      "instagram": "https://www.instagram.com/reel/Dfcx8l2lA68/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=iTvF1QqFNcc"
+    }
   },
   "051-cheapside-hoard": {
     "at": "2026-11-07T19:30:00Z",
@@ -846,7 +859,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1645627767344990",
+      "instagram": "https://www.instagram.com/reel/Dfc7_FcDC5u/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705514235773668616"
+    }
   },
   "052-a-diamond-is-forever": {
     "at": "2026-11-07T21:00:00Z",
@@ -855,7 +874,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1182682744192750",
+      "instagram": "https://www.instagram.com/reel/DfdGYNnD4uD/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705537651612437768"
+    }
   },
   "053-welcome-stranger-nugget": {
     "at": "2026-11-07T23:00:00Z",
@@ -1192,6 +1217,43 @@
       "youtube"
     ]
   },
+  "089-jade-two-minerals": {
+    "at": "2026-11-11T16:30:00Z",
+    "zernio_id": "6aefacaa46f210fe0a12e380",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "090-star-sapphire-asterism": {
+    "at": "2026-11-11T18:00:00Z",
+    "zernio_id": "6aefacb129355971b918d5a1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "091-cameo-layered-shell": {
+    "at": "2026-11-11T19:30:00Z",
+    "zernio_id": "6aefacbe29355971b918d5fb",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "092-turquoise-turkish-stone": {
+    "at": "2026-11-11T21:00:00Z",
+    "zernio_id": "6aefaccc29355971b918d65a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -1298,7 +1360,11 @@
     "zernio_id": "6aed4108586b624b9fe050c9",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=hftwfLR1O34"
+    }
   },
   "gs-03-emerald": {
     "at": "2026-11-08T17:00:00Z",
@@ -1598,6 +1664,13 @@
   "lesson-021-solitaire-ring": {
     "at": "2026-11-13T16:00:00Z",
     "zernio_id": "6aee5590ec68a5230fee2b70",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-022-gold-stamps": {
+    "at": "2026-11-14T16:00:00Z",
+    "zernio_id": "6aefacd429355971b918d693",
     "platforms": [
       "youtube"
     ]
