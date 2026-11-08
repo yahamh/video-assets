@@ -983,7 +983,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2968692973516216",
+      "instagram": "https://www.instagram.com/reel/DffMOehDAFp/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705839011977268498"
+    }
   },
   "060-victoria-sapphire-brooch": {
     "at": "2026-11-08T18:00:00Z",
@@ -993,7 +999,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1160028293661700",
+      "instagram": "https://www.instagram.com/reel/DffW5GMDY7q/",
+      "tiktok": "published",
+      "youtube": "https://www.youtube.com/watch?v=VXkQRrDeq0c"
+    }
   },
   "061-cartier-trinity": {
     "at": "2026-11-08T19:30:00Z",
@@ -1002,7 +1015,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1141866838299258",
+      "instagram": "https://www.instagram.com/reel/DffgzojDcwH/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705885391101938964"
+    }
   },
   "062-la-tolita-platinum": {
     "at": "2026-11-08T21:00:00Z",
@@ -1011,7 +1030,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1486799220015748",
+      "instagram": "https://www.instagram.com/reel/DffrKy1FUeH/",
+      "tiktok": "published"
+    }
   },
   "063-tiffany-blue-box": {
     "at": "2026-11-08T23:00:00Z",
@@ -1348,6 +1373,43 @@
       "youtube"
     ]
   },
+  "099-mohs-scale-dust": {
+    "at": "2026-11-12T16:30:00Z",
+    "zernio_id": "6af0f6fc4dfcd8a28990ee6c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "100-tennis-bracelet-chris-evert": {
+    "at": "2026-11-12T18:00:00Z",
+    "zernio_id": "6af0f709cd5c0d911194a623",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "101-puabi-lapis-from-afghanistan": {
+    "at": "2026-11-12T19:30:00Z",
+    "zernio_id": "6af0f717cd5c0d911194a64c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "102-ratnapura-city-of-gems": {
+    "at": "2026-11-12T21:00:00Z",
+    "zernio_id": "6af0f71e4dfcd8a28990ef34",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -1465,7 +1527,11 @@
     "zernio_id": "6aed410b96f5603e00ccd531",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=_N9yNOtsU1Q"
+    }
   },
   "gs-04-princess": {
     "at": "2026-11-09T17:00:00Z",
@@ -1769,6 +1835,13 @@
   "lesson-022-gold-stamps": {
     "at": "2026-11-14T16:00:00Z",
     "zernio_id": "6aefacd429355971b918d693",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-023-parts-of-a-ring": {
+    "at": "2026-11-15T16:00:00Z",
+    "zernio_id": "6af0f72d4dfcd8a28990ef69",
     "platforms": [
       "youtube"
     ]
