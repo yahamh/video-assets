@@ -1,0 +1,163 @@
+{
+  "id": "102-ratnapura-city-of-gems",
+  "number": 102,
+  "title": "Ratnapura's gem pits hold hippo fossils",
+  "topic": "ratnapura sri lanka city of gems",
+  "style": "lowpoly",
+  "music": "music-102.wav",
+  "hook": {
+    "text": "Ratnapura's gem pits hold ancient hippo fossils.",
+    "gold": [
+      "gem",
+      "hippo"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ratnapura's gem pits hold ancient hippo fossils.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#c9a46a"
+      }
+    },
+    {
+      "text": "Ratnapura is a Sri Lankan town southeast of Colombo.",
+      "scene": {
+        "kind": "mine",
+        "place": "Ratnapura, Sri Lanka",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Miners dig pits by hand down to gem gravel called illam.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#c9a46a",
+        "label": "Gem gravel: illam"
+      }
+    },
+    {
+      "text": "They haul it up and wash it in woven baskets.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A miner",
+        "role": "Washing gravel in a basket",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a5a3a",
+            "hair": "short",
+            "hairColor": "#2a1e16",
+            "skin": "#b98a62",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Fossils of an extinct hippo have been found in that gravel.",
+      "scene": {
+        "kind": "title",
+        "text": "A fossil hippo",
+        "sub": "Found in the gem gravel"
+      }
+    },
+    {
+      "text": "Sri Lanka was long known as Ratna Dweepa, or Gem Island.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#1f4fc8",
+        "label": "Ratna Dweepa: Gem Island"
+      }
+    },
+    {
+      "text": "Ptolemy mentioned its sapphires in the second century.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Ptolemy",
+        "role": "Wrote about its sapphires",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a3a3a",
+            "hair": "slick",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Marco Polo wrote about its sapphires around the year 1300.",
+      "say": "Marco Polo wrote about its sapphires around the year thirteen hundred.",
+      "scene": {
+        "kind": "title",
+        "text": "Marco Polo",
+        "sub": "About the year 1300"
+      }
+    },
+    {
+      "text": "Rubies and sapphires still come from its gravels.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d8243c",
+        "label": "Rubies and sapphires"
+      }
+    },
+    {
+      "text": "Today it has gem markets and a gem museum.",
+      "scene": {
+        "kind": "title",
+        "text": "Gem markets",
+        "sub": "And a gem museum"
+      }
+    },
+    {
+      "text": "Ratnapura means city of gems.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#1f4fc8",
+        "metal": "white",
+        "label": "A city of gems"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Ratnapura's gem pits hold ancient hippo fossils. The Sri Lankan town southeast of Colombo is known for gems, and miners there dig pits by hand down to gem gravel called illam, then wash it in woven baskets. Sri Lanka was long known as Ratna Dweepa, or Gem Island. Ptolemy mentioned its sapphires in the second century, and Marco Polo wrote about them around 1300. Ratnapura means city of gems.",
+    "hashtags": [
+      "#ratnapura",
+      "#srilanka",
+      "#cityofgems",
+      "#sapphires",
+      "#gemmining"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/place/Ratnapura",
+    "https://en.wikipedia.org/wiki/Ratnapura",
+    "https://gia.edu/gems-gemology/fall-2014-sri-lanka-expedition-island-of-jewels",
+    "https://en.wikipedia.org/wiki/Gems_of_Sri_Lanka",
+    "https://lakdiva.com/ntrust/thenationaltrust.lk/activities/download/National-Trust-13-Sithawaka.pdf",
+    "https://www.gia.edu/gia-news-research-sri-lanka-mining-part1",
+    "https://archives.sundayobserver.lk/2005/03/27/fea30.html",
+    "https://cambridge.org/core/journals/geological-magazine/article/abs/ages-of-the-hippopotamus-and-elephas-maximus-fossils-in-the-gem-sand-of-ceylon/EEBEB146909AEEF64443BCF14B29F9D5",
+    "https://archives1.sundayobserver.lk/node/49785",
+    "https://origin.prod.gia.edu/dam/jcr:310c7e33-2b16-42a2-a237-f26da42b119c/Summer-1982-Gems-Gemology-Sri-Lanka-Gem-Island.pdf"
+  ]
+}

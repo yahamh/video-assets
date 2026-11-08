@@ -1,0 +1,238 @@
+{
+  "id": "lesson-023-parts-of-a-ring",
+  "series": "lesson",
+  "number": 23,
+  "title": "The parts of a ring",
+  "topic": "parts of a ring",
+  "music": "music-lesson-023.wav",
+  "hook": {
+    "text": "A ring has a head and shoulders.",
+    "gold": [
+      "head",
+      "shoulders"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A ring has a head and shoulders.",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "The head is the top part that holds the center stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "The head",
+        "focus": {
+          "x": 0.5,
+          "y": 0.0,
+          "k": 1.7
+        },
+        "marks": [
+          {
+            "x": 0.48,
+            "y": 0.05,
+            "text": "Head",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "Prongs are the little metal claws that grip the stone.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Prongs",
+        "focus": {
+          "x": 0.5,
+          "y": 0.0,
+          "k": 2.2
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.15,
+            "text": "Prong",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "The shank is the band that goes around your finger.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "label": "The shank",
+        "focus": {
+          "x": 0.5,
+          "y": 0.62,
+          "k": 1.5
+        },
+        "marks": [
+          {
+            "x": 0.7,
+            "y": 0.62,
+            "text": "Shank",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "The shoulders are where the band rises up to meet the head.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "The shoulders",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.5
+        },
+        "marks": [
+          {
+            "x": 0.7,
+            "y": 0.4,
+            "text": "Shoulder",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "Small side stones often sit on the shoulders.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Side stones",
+        "focus": {
+          "x": 0.75,
+          "y": 0.5,
+          "k": 2.0
+        }
+      }
+    },
+    {
+      "text": "A cathedral ring has arches that sweep up toward the stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Cathedral",
+        "sub": "Arches rise to the stone"
+      }
+    },
+    {
+      "text": "The gallery sits under the stone, between the head and the shank.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "The gallery",
+        "focus": {
+          "x": 0.5,
+          "y": 0.36,
+          "k": 1.8
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.3,
+            "text": "Gallery",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "A taller head lifts the stone higher off the finger.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "label": "A tall head",
+        "focus": {
+          "x": 0.5,
+          "y": 0.28,
+          "k": 2.0
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.3,
+            "text": "Tall head",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "A thicker shank wears more slowly.",
+      "scene": {
+        "kind": "title",
+        "text": "A thicker shank",
+        "sub": "Wears more slowly"
+      }
+    },
+    {
+      "text": "So every ring really does have a head and shoulders.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "label": "A ring, part by part",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "A render shows each part to a client before anything is cast.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "cad-render.webp",
+          "matthew-front-white-render.webp",
+          "bridal-render.webp"
+        ],
+        "labels": [
+          "Cathedral",
+          "Solitaire",
+          "Bridal set"
+        ]
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "The parts of a ring, as a jewelry render shows them",
+    "caption": "A ring has a head and shoulders. The head is the top part that holds the center stone, and prongs are the little metal claws that grip it. The shank is the band around the finger, and the shoulders are where the band rises to meet the head. The gallery sits under the stone, between the head and the shank. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#ringanatomy",
+      "#jewelrymaking",
+      "#engagementring",
+      "#jewelrydesign",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/?p=39609",
+    "https://www.brilliantearth.com/news/anatomy-of-a-ring/",
+    "https://www.jewelersmutual.com/resources/individuals/jewelry-type/parts-of-a-ring",
+    "https://www.bluenile.com/blog/diamonds-jewelry/ring-prong-styles",
+    "https://www.25karats.com/education/glossary/Gallery",
+    "https://www.mygemologist.com/learn/general-info/anatomy-of-a-ring/",
+    "https://blog2024.jamesallen.com/engagement-rings/ring-anatomy-101-all-you-need-to-know/",
+    "https://www.valentinmagro.com/rings/whats-ring-learn-parts-ring/",
+    "https://www.iconicjewelry.com/education/ring/design-guide/",
+    "https://www.diamondnexus.com/blog/different-parts-of-a-ring-ring-anatomy"
+  ]
+}

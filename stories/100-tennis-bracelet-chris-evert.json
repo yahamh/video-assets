@@ -1,0 +1,185 @@
+{
+  "id": "100-tennis-bracelet-chris-evert",
+  "number": 100,
+  "title": "A lost bracelet made tennis bracelets famous",
+  "topic": "tennis bracelet chris evert",
+  "style": "paper",
+  "plate": "The tennis bracelet",
+  "theme": "sky",
+  "music": "music-100.wav",
+  "hook": {
+    "text": "A lost bracelet made tennis bracelets famous.",
+    "gold": [
+      "lost",
+      "famous"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A lost bracelet made tennis bracelets famous.",
+      "scene": {
+        "kind": "hook",
+        "show": "bracelet",
+        "metal": "white",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Chris Evert wore a diamond bracelet at the 1978 US Open.",
+      "say": "Chris Evert wore a diamond bracelet at the nineteen seventy-eight US Open.",
+      "scene": {
+        "kind": "title",
+        "text": "1978 US Open",
+        "sub": "Chris Evert's bracelet",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "She says the clasp broke and the bracelet fell on the court.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "label": "The clasp broke",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Play was stopped while she searched for it.",
+      "scene": {
+        "kind": "title",
+        "text": "Play stopped",
+        "sub": "While she searched",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "She told reporters it was her tennis bracelet.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "name": "Chris Evert",
+        "role": "Tennis champion",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#7fb5e8",
+            "hair": "short",
+            "hairColor": "#d4a84e",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Before that, it was often called a diamond line bracelet.",
+      "scene": {
+        "kind": "title",
+        "text": "Diamond line",
+        "sub": "Its earlier name",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "After that, the name tennis bracelet caught on.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "metal": "white",
+        "label": "A new name",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A tennis bracelet is one flexible row of matching stones.",
+      "scene": {
+        "kind": "title",
+        "text": "One flexible row",
+        "sub": "Of matching stones",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Each stone is set on its own.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4ff",
+        "label": "Each stone set alone",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Four tiny prongs usually grip each stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Four prongs",
+        "sub": "Usually grip each stone",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Jewelers advise a safety catch beside the clasp.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A jeweler",
+        "role": "Adding a safety catch",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f6f7a",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a87e",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "That 1978 US Open was the first at Flushing Meadows.",
+      "say": "That nineteen seventy-eight US Open was the first at Flushing Meadows.",
+      "scene": {
+        "kind": "title",
+        "text": "Flushing Meadows",
+        "sub": "The first US Open there",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A lost bracelet made tennis bracelets famous. Chris Evert wore a diamond bracelet at the 1978 US Open, and she says the clasp broke and it fell on the court. Play was stopped while she searched, and she told reporters it was her tennis bracelet. Before that it was often called a diamond line bracelet. A tennis bracelet is one flexible row of matching stones, each set on its own. That 1978 US Open was the first at Flushing Meadows.",
+    "hashtags": [
+      "#tennisbracelet",
+      "#chrisevert",
+      "#usopen",
+      "#diamondbracelet",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://prod.tennis.com/news/articles/chris-evert-tennis-bracelet-finally-authentic-monica-rich-kosann",
+    "https://nationaljeweler.com/articles/12268-the-latest-chris-evert-x-monica-rich-kosann-tennis-bracelets-are-here",
+    "https://www.mentalfloss.com/posts/tennis-bracelet-origins",
+    "https://theadventurine.com/culture/celebrity/chris-evert-tells-us-the-true-story-of-her-tennis-bracelet",
+    "https://www.britannica.com/print/article/617749",
+    "https://tennis.com/news/articles/from-forest-hills-to-flushing-meadows-the-u-s-open-s-venues",
+    "https://thecoutureshow.com/stories/finally-authentic-tennis-great-chris-evert-collaborates-with-monica-rich-kosann/",
+    "https://www.bucherer.com/us/en/bucherer-world/highlights/history-tennis-bracelet",
+    "https://www.merriam-webster.com/dictionary/tennis%20bracelet",
+    "https://www.dictionary.com/browse/tennis-bracelet",
+    "https://www.gemsociety.org/article/diamond-tennis-bracelet-buying-guide/",
+    "https://sociallifemagazine.com/fashion-style/tennis-bracelet/",
+    "https://4cs.gia.edu/?p=6474",
+    "https://www.aol.com/article/lifestyle/2018/03/20/chris-evert-on-her-iconic-tennis-bracelet-moment-and-her-favorite-workouts-off-the-court/23390738/"
+  ]
+}

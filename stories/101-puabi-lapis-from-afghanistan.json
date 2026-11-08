@@ -1,0 +1,164 @@
+{
+  "id": "101-puabi-lapis-from-afghanistan",
+  "number": 101,
+  "title": "Puabi's blue stones came from Afghanistan",
+  "topic": "queen puabi ur jewelry",
+  "music": "music-101.wav",
+  "hook": {
+    "text": "Puabi's blue stones came from Afghanistan.",
+    "gold": [
+      "blue",
+      "Afghanistan"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Puabi's blue stones came from Afghanistan.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2a4fb5"
+      }
+    },
+    {
+      "text": "Puabi lived in the Sumerian city of Ur, now in Iraq.",
+      "scene": {
+        "kind": "title",
+        "text": "Ur",
+        "sub": "Ancient Sumer, now Iraq"
+      }
+    },
+    {
+      "text": "Her name is read from a cylinder seal found in her tomb.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b89a62",
+        "label": "Her name, on a seal"
+      }
+    },
+    {
+      "text": "Her title is usually translated as queen.",
+      "scene": {
+        "kind": "title",
+        "text": "Probably a queen",
+        "sub": "Her title on the seal"
+      }
+    },
+    {
+      "text": "Leonard Woolley's team found her tomb in the late 1920s.",
+      "say": "Leonard Woolley's team found her tomb in the late nineteen twenties.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Leonard Woolley",
+        "role": "Archaeologist at Ur",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4b5a3a",
+            "hair": "side",
+            "hairColor": "#6a6a6a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "mustache",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Her headdress had wreaths of gold leaves.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "tone": "#e2b23c",
+        "metal": "yellow",
+        "label": "Wreaths of gold leaves"
+      }
+    },
+    {
+      "text": "A tall gold comb held seven gold flowers.",
+      "scene": {
+        "kind": "title",
+        "text": "Seven gold flowers",
+        "sub": "On a tall gold comb"
+      }
+    },
+    {
+      "text": "She also wore beads of lapis lazuli and carnelian.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#2a4fb5",
+        "metal": "yellow",
+        "label": "Lapis and carnelian beads"
+      }
+    },
+    {
+      "text": "Her lapis came from the mountains of Afghanistan.",
+      "scene": {
+        "kind": "mine",
+        "place": "Badakhshan, Afghanistan",
+        "tone": "#2a4fb5",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Her gold and carnelian were also imported from far away.",
+      "scene": {
+        "kind": "title",
+        "text": "Far-off gold",
+        "sub": "And far-off carnelian"
+      }
+    },
+    {
+      "text": "Much of the gold was hammered into thin sheet.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A goldsmith",
+        "role": "Hammering thin gold sheet"
+      }
+    },
+    {
+      "text": "Lapis from Afghanistan reached Ur about 4,500 years ago.",
+      "say": "Lapis from Afghanistan reached Ur about four thousand five hundred years ago.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a4fb5",
+        "label": "From Afghanistan to Ur"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Puabi's blue stones came from Afghanistan. She lived in the Sumerian city of Ur, now in Iraq, and her name is read from a cylinder seal found in her tomb. Her title is usually translated as queen. Her headdress had wreaths of gold leaves and a tall gold comb with seven gold flowers, and she also wore beads of lapis lazuli and carnelian. Her lapis came from the mountains of Afghanistan, and much of the gold was hammered into thin sheet.",
+    "hashtags": [
+      "#puabi",
+      "#ancientjewelry",
+      "#lapislazuli",
+      "#sumer",
+      "#archaeology"
+    ]
+  },
+  "sources": [
+    "https://collections.penn.museum/collections/highlights/neareast/puabi.php",
+    "https://artsandculture.google.com/asset/cylinder-seal-of-pu-abi/MgEtn4TGn45pkQ?hl=en",
+    "https://www.metmuseum.org/essays/ur-the-royal-graves",
+    "https://www.themorgan.org/exhibitions/online/she-who-wrote/cylinder-seal-queen-puabi",
+    "https://www.penn.museum/sites/expedition/a-spectacular-discovery/",
+    "https://www.penn.museum/blog/museum/ur-project-september-2014/",
+    "https://www.britishmuseum.org/collection/object/W_1929-1017-237",
+    "https://www.penn.museum/sites/expedition/ur-and-its-treasures/",
+    "https://www.bergbaumuseum.de/fileadmin/forschung/zeitschriften/metalla/22.1/metalla-22-1-royal-tombs-of-ur-mesopotamia-klein-hauptmann.pdf",
+    "https://metmuseum.org/toah/works-of-art/33.35.3"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "099-mohs-scale-dust",
+  "number": 99,
+  "title": "Everyday dust can scratch softer gems",
+  "topic": "mohs scale hardness",
+  "style": "lowpoly",
+  "music": "music-099.wav",
+  "hook": {
+    "text": "Everyday dust can scratch softer gems.",
+    "gold": [
+      "dust",
+      "scratch"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Everyday dust can scratch softer gems.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#8fb8e8"
+      }
+    },
+    {
+      "text": "Quartz in everyday dust ranks 7 on the Mohs scale.",
+      "say": "Quartz in everyday dust ranks seven on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "7 on the Mohs scale",
+        "sub": "Quartz, found in dust"
+      }
+    },
+    {
+      "text": "Mineralogist Friedrich Mohs created it more than 200 years ago.",
+      "say": "Mineralogist Friedrich Mohs created it more than two hundred years ago.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Friedrich Mohs",
+        "role": "A mineralogist, 1773 to 1839",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a3f55",
+            "hair": "side",
+            "hairColor": "#8a6a4a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He ranked ten minerals, from talc at 1 to diamond at 10.",
+      "say": "He ranked ten minerals, from talc at one to diamond at ten.",
+      "scene": {
+        "kind": "title",
+        "text": "Talc to diamond",
+        "sub": "Ten minerals, one to ten"
+      }
+    },
+    {
+      "text": "Each one scratches the minerals below it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4ff",
+        "label": "Scratches the ones below"
+      }
+    },
+    {
+      "text": "The steps are uneven, and the jump to diamond is biggest.",
+      "scene": {
+        "kind": "title",
+        "text": "An uneven scale",
+        "sub": "Diamond's jump is biggest"
+      }
+    },
+    {
+      "text": "A fingernail rates about 2.5.",
+      "say": "A fingernail rates about two and a half.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A geologist",
+        "role": "Testing with a fingernail",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f6f7a",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a87e",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Window glass rates about 5.5.",
+      "say": "Window glass rates about five and a half.",
+      "scene": {
+        "kind": "title",
+        "text": "Window glass",
+        "sub": "About 5.5"
+      }
+    },
+    {
+      "text": "Ruby and sapphire rank 9.",
+      "say": "Ruby and sapphire rank nine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d8243c",
+        "label": "Ruby and sapphire: 9"
+      }
+    },
+    {
+      "text": "Pearls are soft, starting around 2.5.",
+      "say": "Pearls are soft, starting around two and a half.",
+      "scene": {
+        "kind": "title",
+        "text": "Pearls",
+        "sub": "Soft, from about 2.5"
+      }
+    },
+    {
+      "text": "Hardness isn't toughness, so a hard knock can chip a diamond.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A jeweler",
+        "role": "Diamonds can still chip",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#6a4a3a",
+            "hair": "slick",
+            "hairColor": "#2a1e16",
+            "skin": "#c99a72",
+            "expression": "smile",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Diamond sits at the top of the Mohs scale, at 10.",
+      "say": "Diamond sits at the top of the Mohs scale, at ten.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#eef4ff",
+        "metal": "white",
+        "label": "Diamond is a 10"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Everyday dust can scratch softer gems, because quartz in dust ranks 7 on the Mohs scale. Mineralogist Friedrich Mohs created the scale more than 200 years ago, ranking ten minerals from talc at 1 to diamond at 10. Each one scratches the minerals below it, the steps are uneven, and the jump to diamond is the biggest. Hardness isn't toughness, so a hard knock can still chip a diamond.",
+    "hashtags": [
+      "#mohsscale",
+      "#friedrichmohs",
+      "#gemhardness",
+      "#diamonds",
+      "#jewelryfacts"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/Mohs-hardness",
+    "https://www.open.edu/openlearn/science-maths-technology/minerals-and-the-crystalline-state/content-section-3.6",
+    "https://geology.com/minerals/mohs-hardness-scale.shtml",
+    "https://www.sciencehistory.org/education/scientific-biographies/friedrich-mohs/",
+    "https://www.nhm.at/en/research/mineralogy__petrography/history/the_naturalien_cabinet/friederich_mohs",
+    "https://4cs.gia.edu/en-us/blog/more-than-mohs-scale-gem-durabil",
+    "https://www.gemsociety.org/lesson/hardness-and-cleavage-considerations/",
+    "https://www.ganoksin.com/article/mohs-scale-common-gems/",
+    "https://frontend.gemsociety.org/article/hardness-and-wearability",
+    "https://rocksminerals.flexiblelearning.auckland.ac.nz/minerals/hardness.html",
+    "https://www.gemsociety.org/article/select-gems-ordered-mohs-hardness/"
+  ]
+}
