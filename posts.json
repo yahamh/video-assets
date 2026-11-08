@@ -936,7 +936,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=966901716100753",
+      "instagram": "https://www.instagram.com/reel/Dfep5WgD3pu/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705761790080208148"
+    }
   },
   "057-varna-gold": {
     "at": "2026-11-08T13:00:00Z",
@@ -945,7 +951,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2113072042726334",
+      "instagram": "https://www.instagram.com/reel/Dfe0bDQD31A/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705785245265579270"
+    }
   },
   "058-lincoln-love-is-eternal": {
     "at": "2026-11-08T14:00:00Z",
@@ -955,7 +967,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1680698223633355",
+      "instagram": "https://www.instagram.com/reel/Dfe7Rj0AmZb/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705800880280440084",
+      "youtube": "https://www.youtube.com/watch?v=C4Ffxbun0v8"
+    }
   },
   "059-snettisham-hoard": {
     "at": "2026-11-08T16:30:00Z",
@@ -1299,6 +1318,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "096-citrine-heated-amethyst": {
+    "at": "2026-11-12T11:30:00Z",
+    "zernio_id": "6af0a27f5100c41e8a3942bb",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "097-tourmaline-ash-puller": {
+    "at": "2026-11-12T13:00:00Z",
+    "zernio_id": "6af0a296651f900bf534d5fa",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "098-kimberley-big-hole": {
+    "at": "2026-11-12T14:00:00Z",
+    "zernio_id": "6af0a2a5651f900bf534d71a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -1678,7 +1725,11 @@
     "zernio_id": "6aec22437c3d34412adbff77",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=gisf2bIZHa4"
+    }
   },
   "lesson-017-pear-cut": {
     "at": "2026-11-09T16:00:00Z",
