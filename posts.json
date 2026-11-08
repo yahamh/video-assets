@@ -890,7 +890,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1857001645430092",
+      "instagram": "https://www.instagram.com/reel/DfdUHlrDP58/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705568516904111378",
+      "youtube": "https://www.youtube.com/watch?v=L9PBU4itRsk"
+    }
   },
   "054-williamson-pink-brooch": {
     "at": "2026-11-08T00:30:00Z",
@@ -899,7 +906,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1803295097605244",
+      "instagram": "https://www.instagram.com/reel/DfdecHvEhXp/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705591608611278101"
+    }
   },
   "055-amber-tree-sap": {
     "at": "2026-11-08T02:00:00Z",
@@ -908,7 +921,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1134987525747780",
+      "instagram": "https://www.instagram.com/reel/Dfdo6xqDl2K/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705615280898133249"
+    }
   },
   "056-etruscan-granulation": {
     "at": "2026-11-08T11:30:00Z",
@@ -1248,6 +1267,34 @@
   "092-turquoise-turkish-stone": {
     "at": "2026-11-11T21:00:00Z",
     "zernio_id": "6aefaccc29355971b918d65a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "093-zircon-oldest-crystals": {
+    "at": "2026-11-11T23:00:00Z",
+    "zernio_id": "6aeff85bd457ad346fc9795e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "094-morganite-named-for-a-banker": {
+    "at": "2026-11-12T00:30:00Z",
+    "zernio_id": "6aeff8654463943d9f7712e2",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "095-gold-stretches-fifty-miles": {
+    "at": "2026-11-12T02:00:00Z",
+    "zernio_id": "6aeff86ed457ad346fc97984",
     "platforms": [
       "facebook",
       "instagram",
