@@ -1,0 +1,166 @@
+{
+  "id": "096-citrine-heated-amethyst",
+  "number": 96,
+  "title": "Most citrine starts out as amethyst",
+  "topic": "citrine heat-treated amethyst",
+  "style": "lowpoly",
+  "music": "music-096.wav",
+  "hook": {
+    "text": "Most citrine starts out as amethyst.",
+    "gold": [
+      "citrine",
+      "amethyst"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Most citrine starts out as amethyst.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#f0a830"
+      }
+    },
+    {
+      "text": "Heat turns the purple amethyst into golden yellow citrine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8f5fd0",
+        "label": "Purple turns golden"
+      }
+    },
+    {
+      "text": "Citrine that forms naturally is rare.",
+      "scene": {
+        "kind": "title",
+        "text": "Rare",
+        "sub": "Natural citrine"
+      }
+    },
+    {
+      "text": "Citrine is quartz like amethyst, colored by traces of iron.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A gemologist",
+        "role": "Iron colors citrine"
+      }
+    },
+    {
+      "text": "Its name is believed to come from citron, French for lemon.",
+      "scene": {
+        "kind": "title",
+        "text": "Citron",
+        "sub": "French for lemon"
+      }
+    },
+    {
+      "text": "Much of the world's citrine comes from Brazil.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#d9a53a",
+        "label": "Mined in Brazil"
+      }
+    },
+    {
+      "text": "Bolivia's Anahi mine is famous for ametrine.",
+      "scene": {
+        "kind": "title",
+        "text": "Anahi mine",
+        "sub": "Bolivia"
+      }
+    },
+    {
+      "text": "Ametrine is amethyst and citrine in one crystal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#b58ad8",
+        "label": "Two colors in one crystal"
+      }
+    },
+    {
+      "text": "Greek and Roman carvers used citrine for cameos.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A Roman lapidary",
+        "role": "Carving a citrine",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#b5563a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a87e",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was long said to calm tempers.",
+      "scene": {
+        "kind": "title",
+        "text": "Calms tempers",
+        "sub": "So the old stories say"
+      }
+    },
+    {
+      "text": "At seven on the Mohs scale, it usually suits daily wear.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f0a830",
+        "label": "7 on the Mohs scale"
+      }
+    },
+    {
+      "text": "Citrine is one of November's two birthstones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#f0a830",
+        "metal": "yellow",
+        "label": "A November birthstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Most citrine starts out as amethyst. Heat turns the purple stone golden yellow, and citrine that forms naturally is rare. Citrine is quartz colored by traces of iron, and its name is believed to come from the French word for lemon. Much of the world's citrine comes from Brazil, and Bolivia's Anahi mine is famous for ametrine, a crystal that is part amethyst and part citrine. Citrine is one of November's two birthstones.",
+    "hashtags": [
+      "#citrine",
+      "#novemberbirthstone",
+      "#amethyst",
+      "#ametrine",
+      "#gemstones"
+    ]
+  },
+  "sources": [
+    "https://www.jewelers.org/education/gemstone-guide/624-citrine/",
+    "https://www.gia.edu/citrine",
+    "https://gem-a.com/?p=7252",
+    "https://geology.com/gemstones/citrine",
+    "https://www.americangemsociety.org/birthstones/november-birthstones/citrine-overview/",
+    "https://www.britannica.com/science/citrine",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002879",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002933",
+    "https://geology.com/gemstones/amethyst/",
+    "https://www.gia.edu/birthstones/november-birthstones",
+    "https://www.etymonline.com/word/citrine",
+    "https://www.merriam-webster.com/dictionary/citrine",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002887",
+    "https://geology.com/minerals/quartz/ametrine.shtml",
+    "https://www.americangemsociety.org/birthstones/november-birthstones/citrine-history/"
+  ]
+}

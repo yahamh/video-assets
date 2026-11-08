@@ -1,0 +1,191 @@
+{
+  "id": "097-tourmaline-ash-puller",
+  "number": 97,
+  "title": "Tourmaline was once called an ash puller",
+  "topic": "tourmaline ash puller",
+  "style": "paper",
+  "plate": "Tourmaline",
+  "music": "music-097.wav",
+  "hook": {
+    "text": "Tourmaline was once called an ash puller.",
+    "gold": [
+      "Tourmaline",
+      "ash"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tourmaline was once called an ash puller.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#2fae7a",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In the early 1700s, Dutch traders brought it from Ceylon.",
+      "say": "In the early seventeen hundreds, Dutch traders brought it from Ceylon.",
+      "scene": {
+        "kind": "title",
+        "text": "Ceylon",
+        "sub": "Now Sri Lanka",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "They reportedly used heated stones to pull ash from their pipes.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "name": "A Dutch trader",
+        "role": "Pulling ash from a pipe",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3f5a6a",
+            "hair": "short",
+            "hairColor": "#7a5a3a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It can become electrically charged when heated or squeezed.",
+      "scene": {
+        "kind": "title",
+        "text": "Electric charge",
+        "sub": "From heat or squeezing",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Tourmaline has been used in pressure gauges.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#2fae7a",
+        "label": "Used in pressure gauges",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The name is said to mean mixed gems in Sinhalese.",
+      "scene": {
+        "kind": "title",
+        "text": "Mixed gems",
+        "sub": "A Sinhalese word",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Tourmaline has one of the widest color ranges of any gem.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A gemologist",
+        "role": "A very wide color range",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f6f7a",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a87e",
+            "expression": "focused"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Watermelon tourmaline has a pink center and a green rim.",
+      "scene": {
+        "kind": "title",
+        "text": "Pink and green",
+        "sub": "Watermelon tourmaline",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Paraiba tourmaline is vivid blue-green, colored by copper.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#18c4c0",
+        "label": "Colored by copper",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Brazil is a major source of tourmaline.",
+      "scene": {
+        "kind": "title",
+        "text": "Brazil",
+        "sub": "A major source",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "It ranks seven to seven and a half on the Mohs scale.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fae7a",
+        "label": "Mohs 7 to 7.5",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Tourmaline is an October birthstone.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "emerald",
+        "tone": "#e8659a",
+        "metal": "white",
+        "label": "An October birthstone",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tourmaline was once called an ash puller. In the early 1700s, Dutch traders brought it from Ceylon, now Sri Lanka, and reportedly used heated stones to pull ash from their pipes. It can become electrically charged when heated or squeezed, and it has been used in pressure gauges. Its name is said to mean mixed gems in Sinhalese, and it has one of the widest color ranges of any gem. Tourmaline is an October birthstone.",
+    "hashtags": [
+      "#tourmaline",
+      "#octoberbirthstone",
+      "#watermelontourmaline",
+      "#paraibatourmaline",
+      "#gemstones"
+    ]
+  },
+  "sources": [
+    "https://physicstoday.aip.org/features/pyroelectricity-from-ancient-curiosity-to-modern-imaging-tool",
+    "https://scispace.com/pdf/tourmaline-studies-through-time-contributions-to-scientific-640ggtz1b5.pdf",
+    "https://www.cigem.ca/414.html",
+    "https://www.mindat.org/min-4003.html",
+    "https://www.gia.edu/tourmaline-history-lore",
+    "https://www.americangemsociety.org/birthstones/october-birthstones/tourmaline-overview/",
+    "https://www.geo.utexas.edu/courses/347k/redesign/Gem_Notes/Tourmaline/tourm_main.htm",
+    "https://www.gia.edu/tourmaline/gem-overview",
+    "https://www.gia.edu/articles/tourmaline-description",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002793",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002912",
+    "https://www.britannica.com/science/tourmaline-mineral",
+    "https://cameo.mfa.org/wiki/Tourmaline",
+    "https://www.americangemsociety.org/tourmaline-history"
+  ]
+}

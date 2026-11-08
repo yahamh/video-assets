@@ -1,0 +1,168 @@
+{
+  "id": "098-kimberley-big-hole",
+  "number": 98,
+  "title": "Picks and shovels dug this huge hole",
+  "topic": "kimberley big hole",
+  "music": "music-098.wav",
+  "hook": {
+    "text": "Picks and shovels dug this huge hole.",
+    "gold": [
+      "Picks",
+      "huge"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Picks and shovels dug this huge hole.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough"
+      }
+    },
+    {
+      "text": "In 1871, diamonds found on Colesberg Kopje started a rush.",
+      "say": "In eighteen seventy-one, diamonds found on Colesberg Kopje started a rush.",
+      "scene": {
+        "kind": "mine",
+        "place": "Colesberg Kopje, Kimberley",
+        "year": "1871",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "In 1873 the camp was named for Britain's colonial secretary.",
+      "say": "In eighteen seventy-three the camp was named for Britain's colonial secretary.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Lord Kimberley",
+        "role": "Britain's colonial secretary",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3f52",
+            "hair": "side",
+            "hairColor": "#9a9a9a",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Tens of thousands of diggers worked there.",
+      "scene": {
+        "kind": "title",
+        "text": "Tens of thousands",
+        "sub": "Of diggers worked there"
+      }
+    },
+    {
+      "text": "Almost all of it was dug by hand, until 1914.",
+      "say": "Almost all of it was dug by hand, until nineteen fourteen.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "label": "Dug mostly by hand"
+      }
+    },
+    {
+      "text": "The hole is about 215 meters deep.",
+      "say": "The hole is about two hundred fifteen meters deep.",
+      "scene": {
+        "kind": "title",
+        "text": "215 meters deep",
+        "sub": "About 700 feet down"
+      }
+    },
+    {
+      "text": "The diggers found roughly 14 million carats of diamonds.",
+      "say": "The diggers found roughly fourteen million carats of diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f2f4ff",
+        "label": "Roughly 14 million carats"
+      }
+    },
+    {
+      "text": "The mines merged into De Beers in 1888.",
+      "say": "The mines merged into De Beers in eighteen eighty-eight.",
+      "scene": {
+        "kind": "title",
+        "text": "De Beers",
+        "sub": "The mines merged in 1888"
+      }
+    },
+    {
+      "text": "In 1882, Kimberley had the southern hemisphere's first electric street lights.",
+      "say": "In eighteen eighty-two, Kimberley had the southern hemisphere's first electric street lights.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Kimberley",
+        "role": "First electric street lights, 1882",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a5a3a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a87e",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "About 40 meters of water now fills the bottom.",
+      "say": "About forty meters of water now fills the bottom.",
+      "scene": {
+        "kind": "title",
+        "text": "40 meters of water",
+        "sub": "Now fills the bottom"
+      }
+    },
+    {
+      "text": "You can visit the Big Hole in Kimberley today.",
+      "scene": {
+        "kind": "mine",
+        "place": "The Big Hole, Kimberley",
+        "zoomAt": 1.5
+      }
+    }
+  ],
+  "post": {
+    "caption": "Kimberley's Big Hole was dug almost entirely by hand, with picks and shovels, between 1871 and 1914. Diamonds found on Colesberg Kopje in 1871 started the rush, and the camp was named Kimberley in 1873 for Britain's colonial secretary. The hole is about 215 meters deep, and the diggers found roughly 14 million carats of diamonds. You can visit the Big Hole in Kimberley today.",
+    "hashtags": [
+      "#kimberley",
+      "#bighole",
+      "#southafrica",
+      "#diamondhistory",
+      "#debeers"
+    ]
+  },
+  "sources": [
+    "https://www.thesolomon.co.za/big-hole-mine-museum",
+    "https://www.britannica.com/topic/Big-Hole",
+    "https://showcaves.com/english/za/mines/Kimberley.html",
+    "https://www.thebighole.com",
+    "https://www.sa-venues.com/attractionsnc/big-hole.php",
+    "https://www.thesolomon.co.za/great-diamond-rush",
+    "https://www.britannica.com/place/Kimberley-South-Africa",
+    "https://kids.britannica.com/students/article/Kimberley/328292",
+    "https://www.kimberley.org.za/?p=9720",
+    "https://www.britannica.com/biography/Cecil-Rhodes",
+    "https://www.thesolomon.co.za/kimberley-history-1867-1914",
+    "https://www.kimberley.co.za/city/the-big-hole-kimberley-mine-museum/",
+    "https://www.miningweekly.com/article/and-then-there-was-light-2015-05-08",
+    "https://www.kimberley.org.za/?p=1188"
+  ]
+}
