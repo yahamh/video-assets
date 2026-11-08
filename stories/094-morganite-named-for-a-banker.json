@@ -1,0 +1,180 @@
+{
+  "id": "094-morganite-named-for-a-banker",
+  "number": 94,
+  "title": "Morganite is named after a banker",
+  "topic": "morganite pink beryl",
+  "style": "paper",
+  "plate": "Morganite",
+  "theme": "blush",
+  "music": "music-094.wav",
+  "hook": {
+    "text": "Morganite is named after a banker.",
+    "gold": [
+      "Morganite",
+      "banker"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Morganite is named after a banker.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#f2a7b6",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Tiffany's gemologist George Kunz chose the name.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "George Kunz",
+        "role": "Tiffany's gemologist",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3f5a6a",
+            "hair": "side",
+            "hairColor": "#7a5a3a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It honors banker and gem collector John Pierpont Morgan.",
+      "scene": {
+        "kind": "title",
+        "text": "A banker",
+        "sub": "John Pierpont Morgan",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Kunz helped Morgan build a great gem collection.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#f2a7b6",
+        "label": "A gem collection",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Much of it went to a New York museum.",
+      "scene": {
+        "kind": "title",
+        "text": "A New York museum",
+        "sub": "Morgan's gem collection",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Its first stones were found in Madagascar around 1910.",
+      "say": "Its first stones were found in Madagascar around nineteen ten.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#f0b79a",
+        "label": "First found in Madagascar",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Beryl also gives us emerald and aquamarine.",
+      "scene": {
+        "kind": "title",
+        "text": "The beryl family",
+        "sub": "Emerald and aquamarine",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Many morganites are heated to give a purer pink.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A gem lab",
+        "role": "Heating for a purer pink",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#a8506a",
+            "hair": "updo",
+            "hairColor": "#4a3224",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It ranks seven and a half to eight on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "7.5 to 8",
+        "sub": "On the Mohs scale",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It is a popular engagement ring stone, often set in rose gold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#f2a7b6",
+        "metal": "rose",
+        "label": "Often set in rose gold",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Morganite is a pink variety of beryl.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f2a7b6",
+        "label": "A pink variety of beryl",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Morganite is named after a banker. Tiffany's gemologist George Kunz chose the name to honor banker and gem collector John Pierpont Morgan, and much of Morgan's gem collection went to a New York museum. Its first stones were found in Madagascar around 1910, and many morganites are heated to give a purer pink. Morganite is a pink variety of beryl.",
+    "hashtags": [
+      "#morganite",
+      "#pinkberyl",
+      "#georgekunz",
+      "#rosegold",
+      "#engagementrings"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/morganite-history-lore",
+    "https://naturalhistory.si.edu/node/14125",
+    "https://gubelin.com/pages/gemstone-morganite",
+    "https://press.tiffany.com/the-collections/tiffany-colored-gemstones/",
+    "https://www.gia.edu/morganite",
+    "https://www.gia.edu/morganite-quality-factors",
+    "https://www.britannica.com/science/morganite",
+    "https://www.gia.edu/articles/spring-2024-gemnews-morganite",
+    "https://www.amnh.org/our-research/physical-sciences/earth-and-planetary-sciences/collections/minerals-and-gems",
+    "https://mineralogicalrecord.com/biographies_labels/kunzgeorge-f/",
+    "https://cameo.mfa.org/wiki/Beryl",
+    "https://4cs.gia.edu/en-us/blog/morganite-engagement-ring/",
+    "https://www.bluenile.com/education/gemstone/gemstone-engagement-rings/morganite"
+  ]
+}

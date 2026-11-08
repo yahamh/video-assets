@@ -1,0 +1,175 @@
+{
+  "id": "093-zircon-oldest-crystals",
+  "number": 93,
+  "title": "Some zircons are Earth's oldest known crystals",
+  "topic": "zircon oldest mineral grains",
+  "style": "lowpoly",
+  "music": "music-093.wav",
+  "hook": {
+    "text": "Some zircons are Earth's oldest known crystals.",
+    "gold": [
+      "zircons",
+      "oldest"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some zircons are Earth's oldest known crystals.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#4fb3e0"
+      }
+    },
+    {
+      "text": "They come from Jack Hills in Western Australia.",
+      "scene": {
+        "kind": "title",
+        "text": "Jack Hills",
+        "sub": "Western Australia"
+      }
+    },
+    {
+      "text": "Those tiny crystals are about 4.4 billion years old.",
+      "say": "Those tiny crystals are about four point four billion years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4fb3e0",
+        "label": "About 4.4 billion years old"
+      }
+    },
+    {
+      "text": "Earth itself is about 4.5 billion years old.",
+      "say": "Earth itself is about four point five billion years old.",
+      "scene": {
+        "kind": "title",
+        "text": "4.5 billion years",
+        "sub": "Earth itself"
+      }
+    },
+    {
+      "text": "Zircon takes in uranium when it forms but keeps lead out.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A geologist",
+        "role": "Reading a zircon",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a4a2f",
+            "hair": "short",
+            "hairColor": "#2a2018",
+            "skin": "#d9a87e",
+            "expression": "focused",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "So any lead inside later came from decay, a built-in clock.",
+      "scene": {
+        "kind": "title",
+        "text": "A built-in clock",
+        "sub": "Uranium becomes lead"
+      }
+    },
+    {
+      "text": "Gem zircon is mined in Sri Lanka and Cambodia.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#c98a4a",
+        "label": "Mined in Sri Lanka and Cambodia"
+      }
+    },
+    {
+      "text": "Blue zircon is commonly made by heating other colors.",
+      "scene": {
+        "kind": "title",
+        "text": "Heated blue",
+        "sub": "Commonly made with heat"
+      }
+    },
+    {
+      "text": "Colorless zircon was long mistaken for diamond.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#eef4ff",
+        "label": "Long mistaken for diamond"
+      }
+    },
+    {
+      "text": "Zircon is natural, and cubic zirconia is made in a lab.",
+      "scene": {
+        "kind": "title",
+        "text": "Not cubic zirconia",
+        "sub": "Zircon is natural"
+      }
+    },
+    {
+      "text": "Its facet edges can chip, so it needs a little care.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A jeweler",
+        "role": "Setting a zircon",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a4a5a",
+            "hair": "updo",
+            "hairColor": "#4a3224",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Zircon is a December birthstone.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#4fb3e0",
+        "metal": "white",
+        "label": "A December birthstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some zircons are Earth's oldest known crystals. Tiny ones from Jack Hills in Western Australia are about 4.4 billion years old, while Earth itself is about 4.5 billion years old. Zircon takes in uranium when it forms but keeps lead out, so it works as a built-in clock. Zircon is a December birthstone.",
+    "hashtags": [
+      "#zircon",
+      "#jackhills",
+      "#geology",
+      "#bluezircon",
+      "#gemfacts"
+    ]
+  },
+  "sources": [
+    "https://ui.adsabs.harvard.edu/abs/2001Natur.409..175W/abstract",
+    "https://www.smithsonianmag.com/smart-news/little-gem-oldest-piece-earth-weve-ever-found-180949869/",
+    "https://www.sciencedaily.com/releases/2014/02/140223131616.htm",
+    "https://www.gia.edu/zircon/gem-overview",
+    "https://gem-a.com/?p=7255",
+    "https://pubs.usgs.gov/gip/geotime/age.html",
+    "https://science.nasa.gov/earth/facts/",
+    "https://www.npr.org/2022/12/29/1139782011/to-peer-into-earths-deep-time-meet-a-hardy-mineral-known-as-the-time-lord",
+    "https://www.britannica.com/science/dating-geochronology/Importance-of-zircon-in-uranium-lead-dating",
+    "https://www.gia.edu/birthstones/december-birthstones",
+    "https://www.americangemsociety.org/?p=764",
+    "https://www.britannica.com/science/zircon",
+    "https://4cs.gia.edu/en-us/blog/diamond-alternatives-engagement-rings/"
+  ]
+}

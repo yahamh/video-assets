@@ -1,0 +1,173 @@
+{
+  "id": "095-gold-stretches-fifty-miles",
+  "number": 95,
+  "title": "One ounce of gold stretches 50 miles",
+  "topic": "gold ductility and gold leaf",
+  "music": "music-095.wav",
+  "hook": {
+    "text": "One ounce of gold stretches 50 miles.",
+    "gold": [
+      "ounce",
+      "50"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One ounce of gold stretches 50 miles.",
+      "say": "One ounce of gold stretches fifty miles.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "It can be drawn into a wire about 50 miles long.",
+      "say": "It can be drawn into a wire about fifty miles long.",
+      "scene": {
+        "kind": "title",
+        "text": "50 miles of wire",
+        "sub": "From a single ounce"
+      }
+    },
+    {
+      "text": "Or beaten into a thin sheet of about nine square meters.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A goldbeater",
+        "role": "Beating gold thin",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a4a2f",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#c99a72",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Gold leaf is about a ten-thousandth of a millimeter thick.",
+      "scene": {
+        "kind": "title",
+        "text": "A ten-thousandth",
+        "sub": "Of a millimeter thick"
+      }
+    },
+    {
+      "text": "Ancient Egyptians were beating gold into thin leaf thousands of years ago.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "tone": "#e2b23c",
+        "metal": "yellow",
+        "label": "Gold leaf, ancient Egypt"
+      }
+    },
+    {
+      "text": "Gold is among the first metals people ever worked.",
+      "scene": {
+        "kind": "title",
+        "text": "Among the first",
+        "sub": "Metals people worked"
+      }
+    },
+    {
+      "text": "Jewelry gold is usually mixed with other metals.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "A goldsmith",
+        "role": "Mixing gold with other metals",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a2a30",
+            "hair": "side",
+            "hairColor": "#6a6a6a",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Eighteen karat gold is 75 percent pure gold.",
+      "say": "Eighteen karat gold is seventy-five percent pure gold.",
+      "scene": {
+        "kind": "title",
+        "text": "18 karat",
+        "sub": "75 percent pure gold"
+      }
+    },
+    {
+      "text": "Gold is chemically unreactive, so it resists corrosion.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A chemist",
+        "role": "Gold resists corrosion",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f5f6b",
+            "hair": "updo",
+            "hairColor": "#4a3224",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It doesn't easily tarnish, so it can stay bright for centuries.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#e2b23c",
+        "metal": "yellow",
+        "label": "Bright for centuries"
+      }
+    },
+    {
+      "text": "So one ounce of gold really can stretch 50 miles.",
+      "say": "So one ounce of gold really can stretch fifty miles.",
+      "scene": {
+        "kind": "title",
+        "text": "One ounce",
+        "sub": "A wire 50 miles long"
+      }
+    }
+  ],
+  "post": {
+    "caption": "One ounce of gold can be drawn into a wire about 50 miles long, or beaten into a thin sheet of about nine square meters. Gold leaf is about a ten-thousandth of a millimeter thick, and ancient Egyptians were beating gold into thin leaf thousands of years ago. Gold is chemically unreactive, so it doesn't easily tarnish and can stay bright for centuries.",
+    "hashtags": [
+      "#gold",
+      "#goldleaf",
+      "#goldfacts",
+      "#goldsmith",
+      "#ancientegypt"
+    ]
+  },
+  "sources": [
+    "https://www.gold.org/about-gold/gold-facts",
+    "https://perthmint.com/news/collector/coin-collecting/12-astonishing-things-about-gold",
+    "https://www.ga.gov.au/education/minerals-energy/australian-mineral-facts/gold",
+    "https://kids.britannica.com/students/article/gold/274588",
+    "https://www.britannica.com/print/article/237354",
+    "https://www.chemicool.com/elements/gold-facts.html",
+    "https://www.britannica.com/art/gilding",
+    "https://www.metmuseum.org/essays/gold-in-ancient-egypt",
+    "https://www.smithsonianmag.com/smart-news/glittering-gold-can-stay-shiny-for-centuries-scientists-say-theyve-figured-out-why-the-precious-metal-is-so-resistant-to-tarnishing-180988881/",
+    "https://sse.tulane.edu/how-does-gold-keep-its-glitter-tulane-university-researchers-uncover-why-it-resists-tarnish",
+    "https://periodic-table.rsc.org/element/79/gold",
+    "https://www.britannica.com/technology/hand-tool/Early-metals-and-smelting"
+  ]
+}
