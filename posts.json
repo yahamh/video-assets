@@ -1139,7 +1139,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1142638258189721",
+      "instagram": "https://www.instagram.com/reel/DfhxFZwDWRb/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706209516248976692"
+    }
   },
   "070-poesy-rings": {
     "at": "2026-11-09T18:00:00Z",
@@ -1149,7 +1155,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1130310872704237",
+      "instagram": "https://www.instagram.com/reel/Dfh7rg3jP2A/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706233671174376756",
+      "youtube": "https://www.youtube.com/watch?v=1FHdWsOXMm4"
+    }
   },
   "071-winston-oscars-jewelry": {
     "at": "2026-11-09T19:30:00Z",
@@ -1158,7 +1171,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1453920296864848",
+      "instagram": "https://www.instagram.com/reel/DfiFlmnlpLK/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706256444944993557"
+    }
   },
   "072-sunrise-ruby": {
     "at": "2026-11-09T21:00:00Z",
@@ -1167,7 +1186,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1471953418212158",
+      "instagram": "https://www.instagram.com/reel/DfiQAiajyza/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706279934095854868"
+    }
   },
   "073-chanel-bijoux-de-diamants": {
     "at": "2026-11-09T23:00:00Z",
@@ -1504,6 +1529,43 @@
       "youtube"
     ]
   },
+  "109-a-diamond-shaped-like-half-an-egg": {
+    "at": "2026-11-13T16:30:00Z",
+    "zernio_id": "6af249a8b1dcc5b9bbea80c5",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "110-this-metal-looks-like-wood-grain": {
+    "at": "2026-11-13T18:00:00Z",
+    "zernio_id": "6af249b37f2e7c2d2a4e877c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "111-named-for-a-daughter-and-the-sea": {
+    "at": "2026-11-13T19:30:00Z",
+    "zernio_id": "6af249bc7f2e7c2d2a4e87b6",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "112-two-huge-diamonds-are-called-chips": {
+    "at": "2026-11-13T21:00:00Z",
+    "zernio_id": "6af249c78ad29ebdc4d7f8b1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -1632,7 +1694,11 @@
     "zernio_id": "6aed42fd776d4d553ee3cc46",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=vn6-95iZoDM"
+    }
   },
   "gs-05-marquise": {
     "at": "2026-11-10T17:00:00Z",
