@@ -1046,7 +1046,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1792917878607653",
+      "instagram": "https://www.instagram.com/reel/Dff5ERrk2Xa/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705939896602463495",
+      "youtube": "https://www.youtube.com/watch?v=y_87FixgGc0"
+    }
   },
   "064-cartier-love-bracelet": {
     "at": "2026-11-09T00:30:00Z",
@@ -1055,7 +1062,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1974417196851911",
+      "instagram": "https://www.instagram.com/reel/DfgDJH7gl6a/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705962579004247314"
+    }
   },
   "065-olympic-australis-opal": {
     "at": "2026-11-09T02:00:00Z",
@@ -1064,7 +1077,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2088598365177510",
+      "instagram": "https://www.instagram.com/reel/DfgN0iWEzJf/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705986123067182388"
+    }
   },
   "066-golden-jubilee-diamond": {
     "at": "2026-11-09T11:30:00Z",
@@ -1404,6 +1423,34 @@
   "102-ratnapura-city-of-gems": {
     "at": "2026-11-12T21:00:00Z",
     "zernio_id": "6af0f71e4dfcd8a28990ef34",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "103-pearls-rarely-start-with-sand": {
+    "at": "2026-11-12T23:00:00Z",
+    "zernio_id": "6af14943e7c24ddec5449f13",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "104-miners-threw-away-montanas-sapphires": {
+    "at": "2026-11-13T00:30:00Z",
+    "zernio_id": "6af1494cf0d84f39cc9b8bd0",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "105-amethysts-name-means-not-drunk": {
+    "at": "2026-11-13T02:00:00Z",
+    "zernio_id": "6af14953e7c24ddec5449f83",
     "platforms": [
       "facebook",
       "instagram",
