@@ -1092,7 +1092,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1125322460096904",
+      "instagram": "https://www.instagram.com/reel/DfhOuteCpcl/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706132788042272021"
+    }
   },
   "067-mood-ring-1975": {
     "at": "2026-11-09T13:00:00Z",
@@ -1101,7 +1107,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1010121008040712",
+      "instagram": "https://www.instagram.com/reel/DfhZPsTjoF3/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706156640956910868"
+    }
   },
   "068-star-of-adam-sapphire": {
     "at": "2026-11-09T14:00:00Z",
@@ -1111,7 +1123,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3685900218243516",
+      "instagram": "https://www.instagram.com/reel/DfhgORYkbr6/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706172343223094536",
+      "youtube": "https://www.youtube.com/watch?v=h94rdPWRi5g"
+    }
   },
   "069-dresden-green-diamond": {
     "at": "2026-11-09T16:30:00Z",
@@ -1455,6 +1474,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "106-a-jewelers-box-hid-a-new-mineral": {
+    "at": "2026-11-13T11:30:00Z",
+    "zernio_id": "6af1f25905ce9e420193d217",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "107-most-diamonds-are-older-than-dinosaurs": {
+    "at": "2026-11-13T13:00:00Z",
+    "zernio_id": "6af1f26a05ce9e420193d2fc",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "108-a-squids-cousin-became-a-gemstone": {
+    "at": "2026-11-13T14:00:00Z",
+    "zernio_id": "6af1f27441d2e29e8937428e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
