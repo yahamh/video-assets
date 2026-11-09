@@ -1,0 +1,179 @@
+{
+  "id": "lesson-024-platinum",
+  "series": "lesson",
+  "number": 24,
+  "title": "Platinum is white without plating",
+  "topic": "platinum vs white gold",
+  "music": "music-lesson-024.wav",
+  "hook": {
+    "text": "Platinum is white without any plating.",
+    "gold": [
+      "Platinum",
+      "plating"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Platinum is white without any plating.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-front-white-input.webp",
+        "after": "matthew-front-white-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "White gold is an alloy, usually coated in rhodium that wears off.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-render.webp",
+        "label": "White gold"
+      }
+    },
+    {
+      "text": "Platinum is naturally white, so it needs no coating.",
+      "scene": {
+        "kind": "title",
+        "text": "Naturally white",
+        "sub": "No coating needed"
+      }
+    },
+    {
+      "text": "Jewelry platinum is usually about 95 percent pure, stamped 950.",
+      "say": "Jewelry platinum is usually about ninety-five percent pure, stamped nine fifty.",
+      "scene": {
+        "kind": "mix",
+        "parts": [
+          {
+            "name": "Platinum",
+            "pct": 95
+          },
+          {
+            "name": "Other metals",
+            "pct": 5
+          }
+        ],
+        "src": "matthew-front-white-render.webp",
+        "label": "Stamped 950"
+      }
+    },
+    {
+      "text": "Jewelers like it for prongs because it is strong and wears slowly.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "label": "Prongs",
+        "focus": {
+          "x": 0.5,
+          "y": 0.28,
+          "k": 2.0
+        },
+        "marks": [
+          {
+            "x": 0.46,
+            "y": 0.29,
+            "text": "Prong",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "It is denser than gold, so a platinum ring feels heavier.",
+      "scene": {
+        "kind": "title",
+        "text": "Heavier",
+        "sub": "Denser than gold"
+      }
+    },
+    {
+      "text": "Platinum does scratch, but the metal mostly gets pushed aside.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-front.webp",
+        "label": "The band",
+        "focus": {
+          "x": 0.5,
+          "y": 0.8,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "That leaves a soft patina that a jeweler can polish bright.",
+      "scene": {
+        "kind": "title",
+        "text": "A soft patina",
+        "sub": "A jeweler can polish it"
+      }
+    },
+    {
+      "text": "Pure platinum melts near 1,768 degrees Celsius, so casting needs special equipment.",
+      "say": "Pure platinum melts near seventeen sixty-eight degrees Celsius, so casting needs special equipment.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "label": "Cast with care"
+      }
+    },
+    {
+      "text": "So platinum stays white without plating, while white gold is re-plated.",
+      "scene": {
+        "kind": "title",
+        "text": "No plating",
+        "sub": "Platinum stays white"
+      }
+    },
+    {
+      "text": "A render shows each white metal before anything is cast.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "matthew-front-white-render.webp",
+          "eternity-render.webp",
+          "bridal-render.webp"
+        ],
+        "labels": [
+          "Solitaire",
+          "Eternity band",
+          "Bridal set"
+        ]
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Platinum vs white gold, shown in a jewelry render",
+    "caption": "Platinum is white without any plating. White gold is an alloy, usually coated in rhodium that wears off, while platinum is naturally white and needs no coating. Jewelry platinum is usually about 95 percent pure, stamped 950, and jewelers like it for prongs because it is strong and wears slowly. It is denser than gold, so a platinum ring feels heavier, and when it scratches the metal mostly gets pushed aside, leaving a soft patina a jeweler can polish bright. Pure platinum melts near 1,768 degrees Celsius, so casting needs special equipment. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#platinum",
+      "#platinumjewelry",
+      "#whitegold",
+      "#jewelrymaking",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-23",
+    "https://4cs.gia.edu/en-us/blog/pick-right-white-metal-engagement-wedding-ring/",
+    "https://4cs.gia.edu/en-us/blog/best-ring-material-everyday-wear/",
+    "https://www.jewelers.org/education/jewelry-metals/platinum-jewelry-guide",
+    "https://files.whiteflash.com/blog/platinum-vs-white-gold",
+    "https://www.brilliantearth.com/engagement-rings/buying-guide/precious-metals/platinum-vs-white-gold",
+    "https://stuller.com/benchjeweler/resources/bencharticles/view/platinum-vs-white-gold-what-s-the-difference",
+    "https://platinumguild.com/?p=396",
+    "https://www.ganoksin.com/article/platinum-durability-vs-scratching/",
+    "https://frontend.ganoksin.com/article/platinum-consideration-factors",
+    "https://platinuminvestment.com/files/facts/559410/WPIC_Platinum_Facts_1_Page_2025.pdf",
+    "https://periodic-table.rsc.org/element/78/platinum",
+    "https://periodic-table.rsc.org/element/79/gold",
+    "https://products.riogrande.com/content/Instruction-Sheets/How-To-Cast-Platinum-IS.pdf",
+    "https://www.ganoksin.com/article/manufacturing-jewelry-platinum",
+    "https://www.cooksongold.com/blog/learn/a-guide-to-platinum-faqs/",
+    "https://www.jewelersmutual.com/the-jewelry-box/platinum-vs-white-gold"
+  ]
+}
