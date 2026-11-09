@@ -1,0 +1,171 @@
+{
+  "id": "110-this-metal-looks-like-wood-grain",
+  "number": 110,
+  "title": "This metal looks like wood grain",
+  "topic": "mokume-gane layered metal",
+  "music": "music-110.wav",
+  "hook": {
+    "text": "This metal looks like wood grain.",
+    "gold": [
+      "metal",
+      "wood"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This metal looks like wood grain.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget",
+        "tone": "#b8703a"
+      }
+    },
+    {
+      "text": "It is called mokume-gane, which means wood-grain metal.",
+      "scene": {
+        "kind": "title",
+        "text": "Mokume-gane",
+        "sub": "Wood-grain metal"
+      }
+    },
+    {
+      "text": "Swirling layers of different metals make the pattern.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "tone": "#b8703a",
+        "metal": "yellow",
+        "label": "Layered metals"
+      }
+    },
+    {
+      "text": "Metalworkers in Japan developed it in the 1600s for sword fittings.",
+      "say": "Metalworkers in Japan developed it in the sixteen hundreds for sword fittings.",
+      "scene": {
+        "kind": "title",
+        "text": "The 1600s",
+        "sub": "For sword fittings"
+      }
+    },
+    {
+      "text": "A metalworker named Denbei Shoami is usually credited with it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Denbei Shoami",
+        "role": "Usually credited with it",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3f5a6a",
+            "hair": "slick",
+            "hairColor": "#1e1a18",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Makers stack thin metal sheets, then fuse them with heat and pressure.",
+      "scene": {
+        "kind": "title",
+        "text": "One block",
+        "sub": "Fused by heat and pressure"
+      }
+    },
+    {
+      "text": "Typical layers are copper and silver, sometimes with gold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "earrings",
+        "tone": "#b8703a",
+        "metal": "white",
+        "label": "Mixed metals"
+      }
+    },
+    {
+      "text": "Next the block is carved or drilled to expose the layers.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A metalworker",
+        "role": "Carving the block",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a3f3f",
+            "hair": "short",
+            "hairColor": "#2a1e18",
+            "skin": "#d9a67e",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Then it is hammered flat, and the wood-grain pattern appears.",
+      "scene": {
+        "kind": "title",
+        "text": "Hammered flat",
+        "sub": "The grain appears"
+      }
+    },
+    {
+      "text": "Because each piece is hand-made, no two match exactly.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#b8703a",
+        "metal": "rose",
+        "label": "No two alike"
+      }
+    },
+    {
+      "text": "Tiffany reportedly showed mokume silver at the 1889 Paris world's fair.",
+      "say": "Tiffany reportedly showed mokume silver at the eighteen eighty-nine Paris world's fair.",
+      "scene": {
+        "kind": "title",
+        "text": "Paris, 1889",
+        "sub": "Tiffany showed it"
+      }
+    },
+    {
+      "text": "Centuries later, jewelers took it up for rings.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "tone": "#b8703a",
+        "metal": "yellow",
+        "label": "Mokume-gane rings"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This metal looks like wood grain. It is called mokume-gane, which means wood-grain metal, and swirling layers of differently colored metals make the pattern. Metalworkers in Japan developed it in the 1600s for sword fittings, and Denbei Shoami is usually credited with it. Makers stack thin metal sheets, then fuse them with heat and pressure, and typical layers are copper and silver, sometimes with gold. The block is carved or drilled to expose the layers, then hammered flat so the wood-grain pattern appears. Because each piece is hand-made, no two match exactly. Tiffany reportedly showed mokume silver at the 1889 Paris world's fair, and centuries later jewelers took it up for rings.",
+    "hashtags": [
+      "#mokumegane",
+      "#metalwork",
+      "#jewelrymaking",
+      "#weddingrings",
+      "#japanesecraft"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/perspectives/metalworking-mokume-gane",
+    "https://www.gia.edu/gia-news-research/metalwork-takes-bow-techniques-enhance-gemstone-jewelry",
+    "https://collections.vam.ac.uk/item/O1645062/wood-grain-hammered-metal-flower-vessel-sako-ryuhei/",
+    "https://www.ganoksin.com/article/manufacturing-mokume-gane-jewelry/",
+    "https://cameo.mfa.org/wiki/Mokume",
+    "https://mokume-gane.com/about/mokume-gane-history",
+    "https://mail.silversmithing.com/1mokume.htm",
+    "https://www.english.metro.tokyo.lg.jp/documents/d/english/about_tokyo_documents_08_crafting_beauty_one_ring_at_a_time-pdf",
+    "https://www.gemsociety.org/article/mokume-gane-metal-techniques/",
+    "https://www.cooperhewitt.org/2018/02/01/a-tiffany-co-masterwork-in-mokume/",
+    "https://www.metmuseum.org/art/collection/search/4988"
+  ]
+}

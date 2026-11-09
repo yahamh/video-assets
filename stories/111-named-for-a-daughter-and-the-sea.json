@@ -1,0 +1,177 @@
+{
+  "id": "111-named-for-a-daughter-and-the-sea",
+  "number": 111,
+  "title": "Named for a daughter and the sea",
+  "topic": "larimar name dominican republic",
+  "style": "lowpoly",
+  "music": "music-111.wav",
+  "hook": {
+    "text": "Named for a daughter and the sea.",
+    "gold": [
+      "daughter",
+      "sea."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Named for a daughter and the sea.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#5fbfe0"
+      }
+    },
+    {
+      "text": "Larimar is a blue variety of the mineral pectolite.",
+      "scene": {
+        "kind": "title",
+        "text": "Blue pectolite",
+        "sub": "Larimar is"
+      }
+    },
+    {
+      "text": "Traces of copper are believed to color its sky blue.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5fbfe0",
+        "label": "Copper traces"
+      }
+    },
+    {
+      "text": "It is known only from the Dominican Republic.",
+      "scene": {
+        "kind": "mine",
+        "place": "Dominican Republic",
+        "tone": "#5fbfe0",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Father Miguel Domingo Fuertes is credited with finding it in 1916.",
+      "say": "Father Miguel Domingo Fuertes is credited with finding it in nineteen sixteen.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Miguel Domingo Fuertes",
+        "role": "A priest, 1916",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2a2a30",
+            "hair": "short",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Then it was forgotten for decades.",
+      "scene": {
+        "kind": "title",
+        "text": "For decades",
+        "sub": "Then it was forgotten"
+      }
+    },
+    {
+      "text": "A Peace Corps volunteer and Miguel Méndez rediscovered it in 1974.",
+      "say": "A Peace Corps volunteer and Miguel Méndez rediscovered it in nineteen seventy-four.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Miguel Méndez",
+        "role": "Rediscovered it, 1974",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f6f5a",
+            "hair": "short",
+            "hairColor": "#1e1a18",
+            "skin": "#b9794f",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Blue pebbles on the coast reportedly led searchers upriver to the source.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "The coast",
+          "x": 0.2,
+          "y": 0.8
+        },
+        "to": {
+          "name": "Bahoruco",
+          "x": 0.72,
+          "y": 0.32
+        },
+        "icon": "parcel",
+        "label": "Blue pebbles"
+      }
+    },
+    {
+      "text": "Much of it is dug by hand in narrow shafts and tunnels.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#7fb7c9",
+        "label": "Dug by hand"
+      }
+    },
+    {
+      "text": "Méndez combined his daughter Larissa's name with mar, Spanish for sea.",
+      "scene": {
+        "kind": "title",
+        "text": "Larissa + mar",
+        "sub": "A daughter plus the sea"
+      }
+    },
+    {
+      "text": "It is soft, so keep it away from heat and harsh chemicals.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#5fbfe0",
+        "metal": "white",
+        "label": "Handle gently"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Named for a daughter and the sea. Larimar is a blue variety of the mineral pectolite, and traces of copper are believed to color its sky blue. It is known only from the Dominican Republic. Father Miguel Domingo Fuertes is credited with finding it in 1916, and then it was forgotten for decades. A Peace Corps volunteer and Miguel Méndez rediscovered it in 1974, and blue pebbles on the coast reportedly led searchers upriver to the source. Much of it is dug by hand in narrow shafts and tunnels. Méndez combined his daughter Larissa's name with mar, Spanish for sea. Larimar is soft, so keep it away from heat and harsh chemicals.",
+    "hashtags": [
+      "#larimar",
+      "#dominicanrepublic",
+      "#bluegemstone",
+      "#pectolite",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/articles/sp13-gni-imitation-larimar",
+    "https://www.gia.edu/doc/Blue-Pectolite-from-the-Dominican-Republic.pdf",
+    "https://www.gemsociety.org/article/pectolite-jewelry-and-gemstone-information/",
+    "https://www.minerals.net/gemstone/larimar",
+    "https://www.gemselect.com/other-info/blue-larimar.php",
+    "https://diariodigitalrd.com/2018/11/22/servicio-geologico-celebra-dia-nacional-del-larimar-102-anos-despues.html",
+    "https://www.voanews.com/a/larimar-mining-dominican-republic/2724727.html",
+    "https://showcaves.com/english/do/mines/Filipinas.html",
+    "https://eldinero.com.do/61796/republica-dominicana-establece-dia-nacional-del-larimar/",
+    "https://www.elcaribe.com.do/gente/cultura/museo-del-larimar/",
+    "https://www.firemountaingems.com/resources/encyclobeadia/gem-notes/gmstnlarimar",
+    "https://www.gemstones.com/gemopedia/larimar",
+    "https://naturalcreations925.com/blogs/gemstone-education/how-to-clean-and-care-for-larimar-jewelry-protecting-the-caribbean-blue-stone",
+    "https://peacecorpsworldwide.org/pcvs-rediscovered-the-blue-rock/",
+    "https://www.gemadventurer.com/?p=2467"
+  ]
+}

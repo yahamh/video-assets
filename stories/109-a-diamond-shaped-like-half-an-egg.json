@@ -1,0 +1,163 @@
+{
+  "id": "109-a-diamond-shaped-like-half-an-egg",
+  "number": 109,
+  "title": "A diamond shaped like half an egg",
+  "topic": "rose cut diamond orlov",
+  "style": "paper",
+  "plate": "Rose cut",
+  "theme": "blush",
+  "music": "music-109.wav",
+  "hook": {
+    "text": "A diamond shaped like half an egg.",
+    "gold": [
+      "diamond",
+      "egg"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond shaped like half an egg.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#f4ecef",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It is the Orlov, a rose cut in Russia's imperial sceptre.",
+      "scene": {
+        "kind": "crown",
+        "sceptreLabel": "The Orlov",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A rose cut has a flat back and a domed top.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f4ecef",
+        "label": "Domed top",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Its name comes from a rosebud.",
+      "scene": {
+        "kind": "title",
+        "text": "A rosebud",
+        "sub": "Its name comes from",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Triangular facets rise to a point, with no flat table.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f4ecef",
+        "label": "No flat table",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A full classic rose has 24 facets.",
+      "say": "A full classic rose has twenty-four facets.",
+      "scene": {
+        "kind": "title",
+        "text": "24 facets",
+        "sub": "A full classic rose",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "It began in the 1500s and stayed popular for centuries.",
+      "say": "It began in the fifteen hundreds and stayed popular for centuries.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "tone": "#f4ecef",
+        "metal": "yellow",
+        "label": "Antique jewels",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Its soft glow was reportedly made for candlelight.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f3dca0",
+        "label": "Soft glow",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Jewelers often set thin foil behind the stone to brighten it.",
+      "scene": {
+        "kind": "title",
+        "text": "Thin foil",
+        "sub": "Often set behind the stone",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Today rose cuts are popular again for their vintage look.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#f4ecef",
+        "metal": "rose",
+        "label": "Vintage style",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "To spot one, look for a flat back and no flat table.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f4ecef",
+        "label": "Flat back",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A diamond shaped like half an egg. It is the Orlov, a rose cut in Russia's imperial sceptre. A rose cut has a flat back and a domed top of triangular facets that rise to a point, with no flat table. The name comes from a rosebud, and a full classic rose has 24 facets. The style began in the 1500s and stayed popular for centuries. It was reportedly made to glow softly by candlelight, and jewelers often set thin foil behind the stone to brighten it. Today rose cuts are popular again for their vintage look.",
+    "hashtags": [
+      "#rosecut",
+      "#orlovdiamond",
+      "#diamondcuts",
+      "#antiquejewelry",
+      "#vintagejewelry"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/winter-2020-baroque-era-rose-cuts",
+    "https://www.britannica.com/art/rose-cut",
+    "https://www.gia.edu/gia-news-research-value-factors-gem-cutting-styles-definitions",
+    "https://thejewelleryeditor.com/bridal/article/rose-cut-diamond-engagement-rings",
+    "https://www.royalcoster.com/blog/the-rose-cut-diamond",
+    "https://www.langantiques.com/university/rose-cut/",
+    "https://www.gemsociety.org/article/overview-of-gem-cutting-styles/",
+    "https://www.gemsociety.org/article/georgian-period-jewelry/",
+    "https://www.bada.org/features/discovering-georgian-jewellery",
+    "https://www.valentinmagro.com/diamonds/rose-cut-diamonds-macles/",
+    "https://www.diamonds.pro/education/rose-cut-diamonds/",
+    "https://www.britannica.com/topic/Orlov-Diamond",
+    "https://4cs.gia.edu/?p=3646",
+    "https://www.gemsociety.org/article/the-orlov-diamond/"
+  ]
+}

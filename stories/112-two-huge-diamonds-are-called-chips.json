@@ -1,0 +1,172 @@
+{
+  "id": "112-two-huge-diamonds-are-called-chips",
+  "number": 112,
+  "title": "Two huge diamonds are called chips",
+  "topic": "grannys chips brooch royal diamonds",
+  "style": "paper",
+  "plate": "Cullinan",
+  "music": "music-112.wav",
+  "hook": {
+    "text": "Two huge diamonds are called chips.",
+    "gold": [
+      "huge",
+      "chips"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Two huge diamonds are called chips.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear",
+        "tone": "#eef3ff",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "They were cut from the largest gem-quality rough diamond ever found.",
+      "scene": {
+        "kind": "title",
+        "text": "The Cullinan",
+        "sub": "Found in 1905",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Asscher of Amsterdam took about eight months to cut nine large stones.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#cfd6e4",
+        "label": "Cut into nine stones",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The two largest sit in the Sovereign's Sceptre and Imperial State Crown.",
+      "scene": {
+        "kind": "title",
+        "text": "The two biggest",
+        "sub": "A sceptre and a crown",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Cullinan III is a pear of about 94 carats.",
+      "say": "Cullinan three is a pear of about ninety-four carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#eef3ff",
+        "label": "Cullinan III",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Cullinan IV is a square cushion of about 64 carats.",
+      "say": "Cullinan four is a square cushion of about sixty-four carats.",
+      "scene": {
+        "kind": "title",
+        "text": "Cullinan IV",
+        "sub": "A square cushion",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "South Africa's government gave them to Queen Mary in 1910.",
+      "say": "South Africa's government gave them to Queen Mary in nineteen ten.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Mary",
+        "role": "Given the stones in 1910",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a4f9a",
+            "hair": "updo",
+            "hairColor": "#9a9a9a",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "jewel": "pearls"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "They became a brooch around 1911 that can be worn apart.",
+      "say": "They became a brooch around nineteen eleven that can be worn apart.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "tone": "#eef3ff",
+        "metal": "white",
+        "label": "A brooch, or two stones",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Queen Elizabeth II inherited it from her grandmother in 1953.",
+      "say": "Queen Elizabeth the Second inherited it from her grandmother in nineteen fifty-three.",
+      "scene": {
+        "kind": "title",
+        "text": "1953",
+        "sub": "Her grandmother's brooch",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "She reportedly joked about them as Granny's Chips.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#eef3ff",
+        "label": "Granny's Chips",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Together they weigh about 158 carats.",
+      "say": "Together they weigh about one hundred fifty-eight carats.",
+      "scene": {
+        "kind": "title",
+        "text": "158 carats",
+        "sub": "Together",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Two huge diamonds are called chips. They were cut from the largest gem-quality rough diamond ever found, and Asscher of Amsterdam took about eight months to cut nine large stones. The two largest sit in the Sovereign's Sceptre and Imperial State Crown. Cullinan III is a pear shape of about 94 carats and Cullinan IV is a square cushion of about 64 carats. South Africa's government gave them to Queen Mary in 1910, and they became a brooch around 1911 that can be worn apart. Queen Elizabeth II inherited it from her grandmother in 1953 and reportedly joked about Granny's Chips. Together the two stones weigh about 158 carats.",
+    "hashtags": [
+      "#grannyschips",
+      "#cullinandiamond",
+      "#royaljewels",
+      "#crownjewels",
+      "#queenmary"
+    ]
+  },
+  "sources": [
+    "https://rct.uk/collection/exhibitions/diamonds-a-jubilee-celebration/buckingham-palace/cullinan-iii-and-iv-brooch",
+    "https://4cs.gia.edu/en-us/blog/famous-diamonds-grannys-chips/",
+    "https://col.rct.uk/collection/2800279/the-complete-set-of-nine-stones-produced-from-the-cullinan-diamond",
+    "https://www.britannica.com/topic/Cullinan-Diamond",
+    "https://www.hrp.org.uk/tower-of-london/history-and-stories/the-crown-jewels/",
+    "https://rct.uk/collection/stories/diamonds-in-the-royal-collection/the-cullinan-diamond",
+    "https://www.rct.uk/collection/stories/the-crown-jewels/the-cullinan-diamond",
+    "https://www.rct.uk/collection/31704",
+    "https://www.guinnessworldrecords.com/news/2023/11/how-the-worlds-largest-diamond-came-to-be-part-of-the-uks-crown-jewels-760624",
+    "https://www.thecourtjeweller.com/2022/01/the-queens-cullinan-diamonds.html",
+    "https://www.thecourtjeweller.com/2022/05/platinum-jubilee-jewel-countdown-the-cullinan-iii-iv-brooch.html",
+    "https://artemisiasroyaljewels.blogspot.com/2013/01/cullinan-diamonds-cullinan-iii-and-iv.html",
+    "https://www.scmp.com/magazines/style/luxury/article/3144106/queen-elizabeths-most-sentimental-jewellery-her-diamond"
+  ]
+}
