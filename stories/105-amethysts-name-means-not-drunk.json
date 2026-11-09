@@ -1,0 +1,148 @@
+{
+  "id": "105-amethysts-name-means-not-drunk",
+  "number": 105,
+  "title": "Amethyst's name means not drunk",
+  "topic": "amethyst name greek",
+  "style": "lowpoly",
+  "music": "music-105.wav",
+  "hook": {
+    "text": "Amethyst's name means not drunk.",
+    "gold": [
+      "Amethyst's",
+      "drunk"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Amethyst's name means not drunk.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#8e4ec6"
+      }
+    },
+    {
+      "text": "It comes from the Greek amethystos, meaning not intoxicated.",
+      "scene": {
+        "kind": "title",
+        "text": "Amethystos",
+        "sub": "Ancient Greek"
+      }
+    },
+    {
+      "text": "Greeks carved cups from it, hoping it would keep them sober.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "tone": "#8e4ec6",
+        "label": "Cups of amethyst"
+      }
+    },
+    {
+      "text": "One legend tells of a maiden turned into white stone.",
+      "scene": {
+        "kind": "title",
+        "text": "A legend",
+        "sub": "A maiden, turned to stone"
+      }
+    },
+    {
+      "text": "The wine god then poured wine over it, staining it purple.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8e4ec6",
+        "label": "Stained purple by wine"
+      }
+    },
+    {
+      "text": "Amethyst was once ranked among the most precious gems.",
+      "scene": {
+        "kind": "title",
+        "text": "Once a top gem",
+        "sub": "A cardinal gemstone"
+      }
+    },
+    {
+      "text": "Later, large deposits found in Brazil made it plentiful.",
+      "scene": {
+        "kind": "mine",
+        "place": "Brazil",
+        "tone": "#8e4ec6",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "A large amethyst sits beneath the cross on Britain's Sovereign's Sceptre.",
+      "scene": {
+        "kind": "title",
+        "text": "Crown Jewels",
+        "sub": "Sovereign's Sceptre"
+      }
+    },
+    {
+      "text": "Christian bishops traditionally wore amethyst rings.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "tone": "#8e4ec6",
+        "metal": "yellow",
+        "label": "Bishops' rings"
+      }
+    },
+    {
+      "text": "Amethyst is the birthstone for February.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#8e4ec6",
+        "label": "February's birthstone"
+      }
+    },
+    {
+      "text": "It is a quartz that rates seven on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 7",
+        "sub": "A quartz"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Amethyst's name means not drunk. It comes from the Greek amethystos, meaning not intoxicated, and Greeks carved cups from it, hoping it would keep them sober. One legend tells of a maiden turned into white stone, and the wine god then poured wine over it, staining it purple. Amethyst was once ranked among the most precious gems, until large deposits found in Brazil made it plentiful. A large amethyst sits beneath the cross on Britain's Sovereign's Sceptre, and Christian bishops traditionally wore amethyst rings. It is the birthstone for February, and a quartz that rates seven on the Mohs scale.",
+    "hashtags": [
+      "#amethyst",
+      "#februarybirthstone",
+      "#birthstones",
+      "#gemstonefacts",
+      "#purplegems"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/amethyst",
+    "https://www.gia.edu/amethyst",
+    "https://www.etymonline.com/word/amethyst",
+    "https://www.merriam-webster.com/dictionary/amethyst",
+    "https://www.earthdate.org/episodes/legends-of-amethyst",
+    "https://maa.missouri.edu/sites/default/files/file-uploads/2021-11/on-line_gemstones_of_antiquity_complete_0.pdf",
+    "https://www.mcgill.ca/oss/article/history-general-science/tryst-amethyst",
+    "https://gem-a.com/gem-hub/birthstones-february-meaning-colour-amethyst-story-zodiac/",
+    "https://www.gia.edu/gem-education/gem-encyclopedia/gem-encyclopedia/amethyst/gem-overview",
+    "https://gubelin.com/pages/editorials-brazil",
+    "https://gemstone.org/amethyst",
+    "https://www.hrp.org.uk/tower-of-london/crown-jewels/",
+    "https://gem-a.com/?p=7265",
+    "https://frontend.gemsociety.org/news/2023/02/08/everything-you-need-to-know-british-coronation-regalia",
+    "https://snr.unl.edu/data/geologysoils/birthstones/amethyst.aspx",
+    "https://frontend.gemsociety.org/article/amethyst-jewelry-and-gemstone-information",
+    "https://www.gia.edu/birthstones/february-birthstones",
+    "https://www.gemsociety.org/article/history-legend-amethyst-gems-yore/"
+  ]
+}

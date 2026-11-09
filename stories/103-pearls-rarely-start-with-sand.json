@@ -1,0 +1,180 @@
+{
+  "id": "103-pearls-rarely-start-with-sand",
+  "number": 103,
+  "title": "Pearls rarely start with sand",
+  "topic": "how a pearl forms nacre",
+  "style": "paper",
+  "plate": "Pearls",
+  "theme": "watercolor",
+  "music": "music-103.wav",
+  "hook": {
+    "text": "Pearls rarely start with sand.",
+    "gold": [
+      "Pearls",
+      "sand"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pearls rarely start with sand.",
+      "scene": {
+        "kind": "hook",
+        "show": "clam",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The old story says a grain of sand starts a pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "The old story",
+        "sub": "A grain of sand",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Usually the trigger is a parasite or an injury.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A marine biologist",
+        "role": "Usually a parasite or an injury",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f6f7a",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a87e",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The mollusk wraps it in thin layers of nacre.",
+      "scene": {
+        "kind": "title",
+        "text": "Nacre",
+        "sub": "Layer after layer",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Nacre is also called mother-of-pearl.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "label": "Nacre",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It is made of a mineral called aragonite plus a protein.",
+      "scene": {
+        "kind": "title",
+        "text": "Aragonite",
+        "sub": "A mineral, plus a protein",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Many shells are lined with the same shimmery nacre.",
+      "scene": {
+        "kind": "reveal",
+        "item": "clam",
+        "label": "Lined with nacre",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Pearls grow in saltwater oysters and freshwater mussels.",
+      "scene": {
+        "kind": "title",
+        "text": "Oysters and mussels",
+        "sub": "Salt water and fresh",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Oysters have even entombed a whole fish in nacre.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A museum curator",
+        "role": "A fish entombed in nacre",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#5a4a6a",
+            "hair": "side",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "beard"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "On pearl farms, a technician usually adds a small shell bead.",
+      "scene": {
+        "kind": "title",
+        "text": "A shell bead",
+        "sub": "Placed in the oyster",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Natural pearls are rare, and most sold today are cultured.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "label": "Cultured",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "A pearl can take months to several years to form.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#f4efe6",
+        "metal": "yellow",
+        "label": "Months to several years",
+        "color": "#5bb4e8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pearls rarely start with sand. The old story says a grain of sand starts a pearl, but usually the trigger is a parasite or an injury. The mollusk wraps it in thin layers of nacre, also called mother-of-pearl, made of a mineral called aragonite plus a protein. Pearls grow in saltwater oysters and freshwater mussels, and on pearl farms a technician usually adds a small shell bead. A pearl can take months to several years to form.",
+    "hashtags": [
+      "#pearls",
+      "#pearlfacts",
+      "#nacre",
+      "#motherofpearl",
+      "#pearljewelry"
+    ]
+  },
+  "sources": [
+    "https://www.nationalgeographic.com/animals/article/150313-pearl-oyster-clam-policeman-quahog-stew-auction-science",
+    "https://www.livescience.com/32289-how-do-oysters-make-pearls.html",
+    "https://www.nhm.ac.uk/discover/quick-questions/how-do-oysters-make-pearls.html",
+    "https://www.britannica.com/topic/pearl-gemstone",
+    "https://www.discoverwildlife.com/animal-facts/marine-animals/pearl-facts",
+    "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/05/true-story-behind-how-pearls-are-made/",
+    "https://www.amnh.org/content/download/39657/579788/file/pearls_educators_guide.pdf",
+    "https://4cs.gia.edu/en-us/blog/meet-mollusks/",
+    "https://www.gia.edu/articles/differences-between-pearl-types",
+    "https://www.mikimoto.com/jp_en/pearl",
+    "https://ocean.si.edu/node/111027",
+    "https://nhm.ac.uk/discover/the-fish-thats-also-a-pearl.html",
+    "https://www.gia.edu/articles/spring-2018-labnotes-natural-blister-from-entombment-of-a-pearlfish-within-a-pinctada-maxima-shell"
+  ]
+}

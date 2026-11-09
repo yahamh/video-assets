@@ -1,0 +1,161 @@
+{
+  "id": "104-miners-threw-away-montanas-sapphires",
+  "number": 104,
+  "title": "Miners threw away Montana's sapphires",
+  "topic": "yogo sapphire montana",
+  "music": "music-104.wav",
+  "hook": {
+    "text": "Miners reportedly threw away Montana's sapphires.",
+    "gold": [
+      "threw",
+      "sapphires"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Miners reportedly threw away Montana's sapphires.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#4f7fe0"
+      }
+    },
+    {
+      "text": "In 1895, gold prospectors kept finding blue pebbles in Yogo Gulch.",
+      "say": "In eighteen ninety-five, gold prospectors kept finding blue pebbles in Yogo Gulch.",
+      "scene": {
+        "kind": "mine",
+        "place": "Yogo Gulch, Montana",
+        "year": 1895,
+        "tone": "#4f7fe0",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The gulch is in the Little Belt Mountains of central Montana.",
+      "scene": {
+        "kind": "title",
+        "text": "Central Montana",
+        "sub": "Little Belt Mountains"
+      }
+    },
+    {
+      "text": "A cigar box of them reached Tiffany's gem expert, George Kunz.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "George Kunz",
+        "role": "Tiffany's gem expert",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3f5a",
+            "hair": "slick",
+            "hairColor": "#6a6a6a",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He reportedly called them the finest gems found in America.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#4f7fe0",
+        "label": "Called the finest"
+      }
+    },
+    {
+      "text": "Most sapphires are heated. Yogos usually need no heat treatment.",
+      "scene": {
+        "kind": "title",
+        "text": "Cornflower blue",
+        "sub": "Usually untreated"
+      }
+    },
+    {
+      "text": "Yogos come straight out of a thin dike of igneous rock.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#6a7fa8",
+        "label": "From a thin rock dike"
+      }
+    },
+    {
+      "text": "The crystals are small and flat, like thin wafers.",
+      "scene": {
+        "kind": "title",
+        "text": "Small and flat",
+        "sub": "Yogo crystals"
+      }
+    },
+    {
+      "text": "A cut Yogo over two carats is extremely rare.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#4f7fe0",
+        "label": "Over two carats: rare"
+      }
+    },
+    {
+      "text": "Yogo is often called Montana's most famous sapphire mine.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "tone": "#4f7fe0",
+        "metal": "white",
+        "label": "A Yogo sapphire"
+      }
+    },
+    {
+      "text": "Montana named the sapphire a state gem in nineteen sixty-nine.",
+      "scene": {
+        "kind": "title",
+        "text": "A state gem",
+        "sub": "Montana, 1969"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Miners reportedly threw away Montana's sapphires. In 1895, gold prospectors kept finding blue pebbles in Yogo Gulch, in the Little Belt Mountains of central Montana. A cigar box of them reached Tiffany's gem expert, George Kunz, who reportedly called them the finest gems found in America. Most sapphires are heated, but Yogos usually need no heat treatment. They come straight out of a thin dike of igneous rock, the crystals are small and flat, and a cut stone over two carats is extremely rare. Yogo is often called Montana's most famous sapphire mine, and Montana named the sapphire a state gem in 1969.",
+    "hashtags": [
+      "#sapphire",
+      "#yogosapphire",
+      "#montana",
+      "#gemstones",
+      "#sapphirefacts"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/doc/The-Yogo-Sapphire-Deposit.pdf",
+    "https://gia.edu/gems-gemology/summer-2018-gemological-characterization-of-sapphires-from-yogo-gulch-montana",
+    "https://apps.usgs.gov/minerals-information-archives/gemstones/sp14-95/sapphires.html",
+    "https://gem-a.com/gem-hub/yogo-sapphire-montana",
+    "https://montanakids.com/facts_and_figures/state_symbols/State_Gemstones_Sapphire_and_Agate.htm",
+    "https://mca.legmt.gov/bills/mca/title_0010/chapter_0010/part_0050/section_0050/0010-0010-0050-0050.html",
+    "https://zenodo.org/records/1450194/files/article.pdf",
+    "https://opac.geologie.ac.at/ais312/dokumente/Kunz_1899_Precious_Stones.pdf",
+    "https://historynet.com/quiz070929/",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10026995",
+    "https://www.thedailybeast.com/how-montana-gold-rushers-literally-threw-away-a-fortune-in-sapphires",
+    "https://gemgallery.com/yogo-sapphire-history",
+    "https://geology.com/gemstones/states/montana.shtml",
+    "https://russellcountry.com/yogo-sapphires.html",
+    "https://iaja.com/2025/03/12/an-american-gem-montana-sapphire",
+    "https://torch.si.edu/wp-content/uploads/2022/12/Gems-Made-in-the-U.S.A.-The-New-York-Times.pdf",
+    "https://www.distinctlymontana.com/yogo-sapphires",
+    "https://blog.eragem.com/2014/02/yogo-sapphires-montanas-rare-treasures.html"
+  ]
+}
