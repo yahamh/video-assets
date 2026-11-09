@@ -1896,7 +1896,11 @@
     "zernio_id": "6aec2e46d1fdfbb2412946a0",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=QsL_hX1Zt5U"
+    }
   },
   "lesson-018-cathedral-setting": {
     "at": "2026-11-10T16:00:00Z",
@@ -1936,6 +1940,13 @@
   "lesson-023-parts-of-a-ring": {
     "at": "2026-11-15T16:00:00Z",
     "zernio_id": "6af0f72d4dfcd8a28990ef69",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-024-platinum": {
+    "at": "2026-11-16T16:00:00Z",
+    "zernio_id": "6af1f70569f94ff3e910e1e0",
     "platforms": [
       "youtube"
     ]
