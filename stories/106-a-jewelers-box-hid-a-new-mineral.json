@@ -1,0 +1,177 @@
+{
+  "id": "106-a-jewelers-box-hid-a-new-mineral",
+  "number": 106,
+  "title": "A jeweler's box hid a new mineral",
+  "topic": "taaffeite discovery dublin 1945",
+  "style": "paper",
+  "plate": "Taaffeite",
+  "theme": "mint",
+  "music": "music-106.wav",
+  "hook": {
+    "text": "A jeweler's box hid a new mineral.",
+    "gold": [
+      "jeweler's",
+      "mineral"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A jeweler's box hid a new mineral.",
+      "scene": {
+        "kind": "hook",
+        "show": "box",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In 1945, gemologist Richard Taaffe bought a box of old stones.",
+      "say": "In nineteen forty-five, gemologist Richard Taaffe bought a box of old stones.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Richard Taaffe",
+        "role": "A Dublin gemologist",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#4a4a58",
+            "hair": "side",
+            "hairColor": "#7a7a7a",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "He sorted them by color and checked each under a microscope.",
+      "scene": {
+        "kind": "title",
+        "text": "A microscope",
+        "sub": "Checking every stone",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "One mauve stone looked like spinel, which bends light one way.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#b49ad8",
+        "label": "A mauve stone",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It bent light two ways, so it was something else.",
+      "scene": {
+        "kind": "title",
+        "text": "Bent twice",
+        "sub": "Double refraction",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "London lab tests confirmed a new mineral, named taaffeite in 1951.",
+      "say": "London lab tests confirmed a new mineral, named taaffeite in nineteen fifty-one.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Basil Anderson",
+        "role": "Tested it in London",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a4a5a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#d9a87e",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ],
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "It is the first mineral identified from a cut gem.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b49ad8",
+        "label": "Found cut",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Its colors range from lilac and violet to pink and red.",
+      "scene": {
+        "kind": "title",
+        "text": "Lilac to red",
+        "sub": "A range of colors",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Mostly from Sri Lanka, with a few finds in Tanzania.",
+      "scene": {
+        "kind": "mine",
+        "place": "Sri Lanka",
+        "zoomAt": 1.5,
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Early stones now sit in London's Natural History Museum.",
+      "scene": {
+        "kind": "title",
+        "text": "In London",
+        "sub": "Natural History Museum",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Even now, it ranks among the rarest gemstones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "tone": "#b49ad8",
+        "metal": "white",
+        "label": "One of the rarest",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A jeweler's box hid a new mineral. In 1945, Dublin gemologist Richard Taaffe bought a box of old stones, sorted them by color and checked each under a microscope. One mauve stone looked like spinel, which bends light one way, but this stone bent light two ways. London lab tests confirmed a new mineral, named taaffeite in 1951, and it is the first mineral identified from a cut gem. Its colors range from lilac and violet to pink and red, and it comes mostly from Sri Lanka, with a few finds in Tanzania. Early stones now sit in London's Natural History Museum, and even now it ranks among the rarest gemstones.",
+    "hashtags": [
+      "#taaffeite",
+      "#raregems",
+      "#gemology",
+      "#mineral",
+      "#gemdiscovery"
+    ]
+  },
+  "sources": [
+    "https://rruff.info/doclib/mm/vol29/MM29_765.pdf",
+    "https://gem-a.com/wp-content/uploads/2023/11/JoG1974_14_3.pdf",
+    "https://gem-a.com/wp-content/uploads/2023/08/GJ-Summer-2020.pdf",
+    "https://gem-a.com/gem-hub/finding-a-new-gemstone/",
+    "https://gem-a.com/wp-content/uploads/2023/11/JoG2004_29_5-6.pdf",
+    "https://rruff.info/doclib/hom/Magnesiotaaffeite2N2S.pdf",
+    "https://gemsociety.org/article/taafeite-jewelry-and-gemstone-information",
+    "https://nationaljeweler.com/articles/1015-5-things-to-know-about-taaffeite",
+    "https://www.gemselect.com/other-info/taaffeite-gems.php",
+    "https://rruff.info/taaffeite",
+    "https://www.webmineral.com/data/Magnesiotaaffeite-2N2S.shtml",
+    "https://www.gemguide.com/taaffeite/"
+  ]
+}

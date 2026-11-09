@@ -1,0 +1,150 @@
+{
+  "id": "108-a-squids-cousin-became-a-gemstone",
+  "number": 108,
+  "title": "A squid's cousin became a gemstone",
+  "topic": "ammolite alberta fossil ammonite",
+  "style": "lowpoly",
+  "music": "music-108.wav",
+  "hook": {
+    "text": "A squid's cousin became a gemstone.",
+    "gold": [
+      "squid's",
+      "gemstone"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A squid's cousin became a gemstone.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#2fb59a"
+      }
+    },
+    {
+      "text": "Ammolite comes from the fossil shells of ammonites, extinct sea animals.",
+      "scene": {
+        "kind": "title",
+        "text": "Fossil shells",
+        "sub": "Of extinct sea animals"
+      }
+    },
+    {
+      "text": "They were distant cousins of squid and octopus.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#d9c3a0",
+        "label": "Distant cousins of squid"
+      }
+    },
+    {
+      "text": "They lived about 70 to 75 million years ago.",
+      "say": "They lived about seventy to seventy-five million years ago.",
+      "scene": {
+        "kind": "title",
+        "text": "Late Cretaceous",
+        "sub": "70 to 75 million years ago"
+      }
+    },
+    {
+      "text": "Gem-quality ammolite is mined commercially only in southern Alberta.",
+      "scene": {
+        "kind": "mine",
+        "place": "Southern Alberta, Canada",
+        "tone": "#2fb59a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Stacked layers of aragonite bend light into rainbow colors.",
+      "scene": {
+        "kind": "title",
+        "text": "Rainbow colors",
+        "sub": "Thin layers bend light"
+      }
+    },
+    {
+      "text": "Red and green are the most common colors, and blue is rare.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2f7fd8",
+        "label": "Blue is rare"
+      }
+    },
+    {
+      "text": "Jewelers usually back it with shale and cap it with clear quartz.",
+      "scene": {
+        "kind": "title",
+        "text": "A triplet",
+        "sub": "Backed and capped"
+      }
+    },
+    {
+      "text": "The Blackfoot call fossil ammonite stones iniskim, or buffalo stones.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#c9833a",
+        "label": "Iniskim: buffalo stones"
+      }
+    },
+    {
+      "text": "In one story, a singing stone called the buffalo back.",
+      "scene": {
+        "kind": "title",
+        "text": "A singing stone",
+        "sub": "A Blackfoot story"
+      }
+    },
+    {
+      "text": "In 2022, Alberta made ammolite its official gemstone.",
+      "say": "In twenty twenty-two, Alberta made ammolite its official gemstone.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#2fb59a",
+        "metal": "white",
+        "label": "Alberta's official gemstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A squid's cousin became a gemstone. Ammolite comes from the fossil shells of ammonites, extinct sea animals that were distant cousins of squid and octopus. They lived about 70 to 75 million years ago, and gem-quality ammolite is mined commercially only in southern Alberta. Stacked layers of aragonite bend light into rainbow colors, and red and green are the most common while blue is rare. Jewelers usually back the thin layer with shale and cap it with clear quartz. The Blackfoot call fossil ammonite stones iniskim, or buffalo stones, and in one story a singing stone called the buffalo back. In 2022, Alberta made ammolite its official gemstone.",
+    "hashtags": [
+      "#ammolite",
+      "#alberta",
+      "#fossilgems",
+      "#canada",
+      "#gemstonehistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/doc/Iridescent-Fossilized-Ammonite-from-Southern-Alberta-Canada.pdf",
+    "https://www.gia.edu/gems-gemology/spring-2001-fossilized-ammonite-canada-mychaluk",
+    "https://hongkong.gia.edu/ammolite-gem-jewelry",
+    "https://www.gemsociety.org/article/ammolite-jewelry-gem-information",
+    "https://www.ualberta.ca/en/folio/2022/03/ammolite-is-the-alberta-gemstone-75-million-years-in-the-making.html",
+    "https://www.galtmuseum.com/articles/2017/08/ammolite-history.html",
+    "https://www.alberta.ca/designating-albertas-official-gemstone",
+    "https://dailyhive.com/calgary/alberta-ammolite-emblem-gem",
+    "https://www.sciencenews.org/article/rainbow-shimmer-ammolite-gems-crystals",
+    "https://www.snexplores.org/article/ammolite-gems-rainbow-shimmer",
+    "https://www.nationalgeographic.com/animals/facts/ammonites",
+    "https://www.britannica.com/animal/ammonoid",
+    "https://physicstoday.aip.org/backscatter/a-marine-shells-brilliant-colors",
+    "https://glenbow.org/blackfoot/EN/html/traditional_stories.htm",
+    "https://www.distinctlymontana.com/buffalo-calling-stones-stinging-and-medicine-bundles-fossil-legends-native-americans-plains",
+    "https://albertashistoricplaces.com/2018/01/10/rainbow-fossils-and-bison-calling/",
+    "https://globalnews.ca/news/8694360/alberta-ammolite-offical-gemstone",
+    "https://www.amnh.org/explore/news-blogs/iridescent-ammonite-museum-display",
+    "https://www.nationaljeweler.com/articles/831-5-things-to-know-about-ammolite"
+  ]
+}

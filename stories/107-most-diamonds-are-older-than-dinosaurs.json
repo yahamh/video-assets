@@ -1,0 +1,150 @@
+{
+  "id": "107-most-diamonds-are-older-than-dinosaurs",
+  "number": 107,
+  "title": "Most diamonds are older than dinosaurs",
+  "topic": "how old natural diamonds are",
+  "music": "music-107.wav",
+  "hook": {
+    "text": "Most diamonds are older than dinosaurs.",
+    "gold": [
+      "diamonds",
+      "dinosaurs"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Most diamonds are older than dinosaurs.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe3ff"
+      }
+    },
+    {
+      "text": "Many natural diamonds are one to three billion years old.",
+      "scene": {
+        "kind": "title",
+        "text": "1 to 3 billion",
+        "sub": "Many natural diamonds"
+      }
+    },
+    {
+      "text": "The first dinosaurs appeared about 245 million years ago.",
+      "say": "The first dinosaurs appeared about two hundred forty-five million years ago.",
+      "scene": {
+        "kind": "reveal",
+        "item": "egg",
+        "tone": "#e8dcc0",
+        "label": "The first dinosaurs"
+      }
+    },
+    {
+      "text": "Diamonds form more than 90 miles down in Earth's mantle.",
+      "say": "Diamonds form more than ninety miles down in Earth's mantle.",
+      "scene": {
+        "kind": "title",
+        "text": "90 miles down",
+        "sub": "In Earth's mantle"
+      }
+    },
+    {
+      "text": "The pressure is crushing, and the heat is around 1,000 degrees Celsius.",
+      "say": "The pressure is crushing, and the heat is around one thousand degrees Celsius.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#9aa6b8",
+        "label": "Crushing pressure"
+      }
+    },
+    {
+      "text": "A rare volcanic eruption can carry them to the surface.",
+      "scene": {
+        "kind": "mine",
+        "place": "A kimberlite pipe",
+        "tone": "#cfe3ff",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Scientists date tiny specks trapped inside, using radioactive decay.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3ff",
+        "label": "Tiny specks inside"
+      }
+    },
+    {
+      "text": "The oldest diamonds dated so far came from northern Canada.",
+      "scene": {
+        "kind": "title",
+        "text": "Northern Canada",
+        "sub": "The oldest dated diamonds"
+      }
+    },
+    {
+      "text": "They are about 3.5 billion years old.",
+      "say": "They are about three and a half billion years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3ff",
+        "label": "3.5 billion years"
+      }
+    },
+    {
+      "text": "Earth itself is about 4.5 billion years old.",
+      "say": "Earth itself is about four and a half billion years old.",
+      "scene": {
+        "kind": "title",
+        "text": "4.5 billion",
+        "sub": "Earth is about"
+      }
+    },
+    {
+      "text": "So some diamonds are about three quarters as old as Earth.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "tone": "#cfe3ff",
+        "metal": "white",
+        "label": "Billions of years old"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Most diamonds are older than dinosaurs. Many natural diamonds are one to three billion years old, while the first dinosaurs appeared about 245 million years ago. Diamonds form more than 90 miles down in Earth's mantle, where the pressure is crushing and the heat is around 1,000 degrees Celsius, and a rare volcanic eruption can carry them to the surface. Scientists date tiny specks trapped inside, using radioactive decay. The oldest diamonds dated so far came from northern Canada and are about 3.5 billion years old, and Earth itself is about 4.5 billion years old.",
+    "hashtags": [
+      "#diamonds",
+      "#diamondfacts",
+      "#geology",
+      "#dinosaurs",
+      "#deepearth"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/spring-2019-how-old-are-diamonds-are-they-forever",
+    "https://www.gia.edu/gems-gemology/wn13-advances-diamond-geology-shirey",
+    "https://www.gia.edu/gems-gemology/summer-2019-kimberlites-earths-diamond-delivery-system",
+    "https://www.gia.edu/gems-gemology/winter-2018-how-do-diamonds-form-in-the-deep-earth",
+    "https://www.gia.edu/gems-gemology/winter-2020-what-have-diamond-ages-taught-us",
+    "https://www.gia.edu/gia-news-research-tiny-inclusions-reveal-diamond-age",
+    "https://www.earthdate.org/your-most-ancient-possession",
+    "https://www.scientificamerican.com/blog/guest-blog/some-facets-of-the-geology-of-diamonds/",
+    "https://www.nhm.ac.uk/discover/when-did-dinosaurs-live.html",
+    "https://www.britannica.com/animal/dinosaur",
+    "https://pubs.usgs.gov/gip/geotime/age.html",
+    "https://science.nasa.gov/earth/facts/",
+    "https://carnegiescience.edu/news/diamonds-reveal-how-continents-are-stabilized-key-earths-habitability",
+    "https://naturalhistory.si.edu/education/teaching-resources/earth-science/gems-and-minerals-beauties-and-building-blocks",
+    "https://phys.org/news/2006-08-canadian-diamonds-oldest-earth.amp"
+  ]
+}
