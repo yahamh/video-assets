@@ -1,0 +1,195 @@
+{
+  "id": "lesson-025-pendant-bail",
+  "series": "lesson",
+  "number": 25,
+  "title": "What a pendant bail is",
+  "topic": "pendant bail",
+  "music": "music-lesson-025.wav",
+  "hook": {
+    "text": "This pendant hangs from a bail.",
+    "gold": [
+      "bail."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This pendant hangs from a bail.",
+      "scene": {
+        "kind": "compare",
+        "before": "pendant-pear-input.webp",
+        "after": "pendant-pear-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "A bail is the small loop at the top of a pendant.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "A bail",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 2.2
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.2,
+            "text": "Bail",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "The chain passes through it, which connects pendant and chain.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Connects to the chain",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "Some bails are hinged, so they open to swap the chain.",
+      "scene": {
+        "kind": "title",
+        "text": "Hinged",
+        "sub": "Some bails are"
+      }
+    },
+    {
+      "text": "Others are soldered shut, like a closed jump ring.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "A closed loop",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 2.8
+        }
+      }
+    },
+    {
+      "text": "A hidden bail sits behind the pendant, out of sight.",
+      "scene": {
+        "kind": "title",
+        "text": "Hidden",
+        "sub": "A bail can also be"
+      }
+    },
+    {
+      "text": "The opening has to be wider than the chain and its clasp.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Room for the chain",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 2.0
+        },
+        "marks": [
+          {
+            "x": 0.47,
+            "y": 0.22,
+            "text": "Opening",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "Over time a bail can thin or be pulled open.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Where it wears",
+        "focus": {
+          "x": 0.55,
+          "y": 0.22,
+          "k": 3.0
+        }
+      }
+    },
+    {
+      "text": "A jeweler can repair or replace a worn bail.",
+      "scene": {
+        "kind": "title",
+        "text": "Repair or replace",
+        "sub": "A worn bail can be"
+      }
+    },
+    {
+      "text": "Jewelers either solder a bail on or build it into the design.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Part of the design",
+        "focus": {
+          "x": 0.5,
+          "y": 0.25,
+          "k": 1.6
+        }
+      }
+    },
+    {
+      "text": "A render shows a client the bail's size and shape,",
+      "scene": {
+        "kind": "compare",
+        "before": "pendant-pear-input.webp",
+        "after": "pendant-pear-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before anything is cast.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render details: what a pendant bail is",
+    "caption": "A bail is the small loop at the top of a pendant that the chain passes through. Some bails are hinged, some are soldered shut and some are hidden behind the pendant. The opening has to be wider than the chain and its clasp, and a worn bail can be repaired or replaced. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#pendantbail",
+      "#pendant",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#jewelrydesign"
+    ]
+  },
+  "sources": [
+    "https://www.josephjewelry.com/guide/glossary/bail",
+    "https://www.usajewels.com/blog/?p=557",
+    "https://www.brilliantearth.com/guides/pendant-vs-necklace/",
+    "https://frontend.gemsociety.org/lesson/necklace-and-bracelet-terminology",
+    "https://www.firemountaingems.com/learn/categories/essential-resources/design-principles/8A16-article.html",
+    "https://blog.stuller.com/finding-inspiration-get-creative-with-hinged-bails/",
+    "https://en.wikipedia.org/wiki/Bail_(jewelry)",
+    "https://hephillipsltd.com/how-to-choose-pendant-bale-size-chain-uk",
+    "https://quickjewelryrepairs.com/?p=134277",
+    "https://quickjewelryrepairs.com/broken-necklace-pendant/",
+    "https://www.ganoksin.com/article/design-considerations-pendants/",
+    "https://www.ottofrei.com/collections/otto-frei/products/14ky-14kw-18ky-platinum-closed-solid-bail-with-2mm-opening-cast"
+  ]
+}

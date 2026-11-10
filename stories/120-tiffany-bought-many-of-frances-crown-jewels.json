@@ -1,0 +1,154 @@
+{
+  "id": "120-tiffany-bought-many-of-frances-crown-jewels",
+  "number": 120,
+  "title": "Tiffany bought many of France's crown jewels",
+  "topic": "tiffany french crown jewels 1887 sale",
+  "style": "lowpoly",
+  "music": "music-120.wav",
+  "hook": {
+    "text": "Tiffany bought many of France's crown jewels.",
+    "gold": [
+      "Tiffany",
+      "crown"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany bought many of France's crown jewels.",
+      "scene": {
+        "kind": "hook",
+        "show": "chest"
+      }
+    },
+    {
+      "text": "In May 1887 France's young republic held the sale at the Louvre.",
+      "say": "In May eighteen eighty-seven France's young republic held the sale at the Louvre.",
+      "scene": {
+        "kind": "title",
+        "text": "The Louvre",
+        "sub": "The sale was at"
+      }
+    },
+    {
+      "text": "It wanted to prevent a royalist return.",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Crown jewels",
+        "sceptreLabel": "Royal symbols"
+      }
+    },
+    {
+      "text": "The lots included Empress Eugénie's currant-leaf diamond set.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "white",
+        "label": "Currant-leaf set"
+      }
+    },
+    {
+      "text": "Charles Lewis Tiffany of New York bought a large share.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Charles Lewis Tiffany",
+        "role": "Bought a large share",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f3a4a",
+            "hair": "side",
+            "hairColor": "#cfcfcf",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Estimates of his share run from one third to over two thirds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "label": "A third or more"
+      }
+    },
+    {
+      "text": "Tiffany shipped them to New York in special leather boxes.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Paris",
+          "x": 0.78,
+          "y": 0.42
+        },
+        "to": {
+          "name": "New York",
+          "x": 0.2,
+          "y": 0.52
+        },
+        "icon": "ship",
+        "label": "Crown jewels"
+      }
+    },
+    {
+      "text": "The boxes were embossed with the French for Diamonds of the Crown.",
+      "scene": {
+        "kind": "parcel",
+        "label": "New York",
+        "stamp": "COURONNE",
+        "glow": true
+      }
+    },
+    {
+      "text": "Wealthy American families such as the Pulitzers later bought pieces.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "yellow",
+        "label": "Sold in America"
+      }
+    },
+    {
+      "text": "Afterward the press reportedly called him the King of Diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "King of Diamonds",
+        "sub": "Reportedly called"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tiffany bought many of France's crown jewels. In May 1887 France's young republic held the sale at the Louvre, because it wanted to prevent a royalist return. The lots included Empress Eugénie's currant-leaf diamond set, and Charles Lewis Tiffany of New York bought a large share. Estimates of his share run from one third to over two thirds. Tiffany shipped the jewels to New York in special leather boxes embossed with the French for Diamonds of the Crown, and wealthy American families such as the Pulitzers later bought pieces. Afterward the press reportedly called him the King of Diamonds.",
+    "hashtags": [
+      "#tiffany",
+      "#crownjewels",
+      "#france",
+      "#diamonds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://gia.edu/gems-gemology/fall-2020-european-royal-jewel-sales",
+    "https://thestar.com.my/news/focus/2025/01/14/hidden-gems-in-new-jersey",
+    "https://www.jckonline.com/editorial-article/french-crown-jewels-sale/",
+    "https://press.tiffany.com/the-collections/diamonds/",
+    "https://sothebys.com/en/buy/auction/2022/important-jewels-5/emerald-and-diamond-brooch",
+    "https://www.invaluable.com/blog/jewelry-house-histories-tiffany/",
+    "https://ebsco.com/research-starters/biography/charles-lewis-tiffany",
+    "https://theadventurine.com/culture/jewelry-history/when-and-why-the-french-sold-the-crown-jewels",
+    "https://encyclopedia.com/education/economics-magazines/tiffany-charles-lewis",
+    "https://www.thejewelleryeditor.com/articles/the-history-of-tiffany-tiffanys"
+  ]
+}

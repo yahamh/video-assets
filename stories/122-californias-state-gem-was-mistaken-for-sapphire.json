@@ -1,0 +1,161 @@
+{
+  "id": "122-californias-state-gem-was-mistaken-for-sapphire",
+  "number": 122,
+  "title": "California's state gem was mistaken for sapphire",
+  "topic": "benitoite california state gem",
+  "music": "music-122.wav",
+  "hook": {
+    "text": "California's state gem was mistaken for sapphire.",
+    "gold": [
+      "state",
+      "sapphire."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "California's state gem was mistaken for sapphire.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#3f56c9"
+      }
+    },
+    {
+      "text": "Blue crystals turned up in California's San Benito County.",
+      "scene": {
+        "kind": "mine",
+        "place": "San Benito County",
+        "tone": "#3f56c9",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "A prospector reportedly thought they were sapphire.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A prospector",
+        "role": "Thought it was sapphire",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a5a34",
+            "hair": "short",
+            "hairColor": "#4a3a2a",
+            "skin": "#e6b88f",
+            "expression": "surprised",
+            "hat": "cap",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Berkeley's George Louderback identified it as a new mineral in 1907.",
+      "say": "Berkeley's George Louderback identified it as a new mineral in nineteen oh seven.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3f56c9",
+        "label": "New mineral"
+      }
+    },
+    {
+      "text": "He named it benitoite, after the San Benito region.",
+      "scene": {
+        "kind": "title",
+        "text": "San Benito",
+        "sub": "Named for"
+      }
+    },
+    {
+      "text": "Most benitoite is violetish blue, and pink stones are very rare.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#3f56c9",
+        "metal": "white",
+        "label": "Violetish blue"
+      }
+    },
+    {
+      "text": "In some directions its fire exceeds a diamond's.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3f56c9",
+        "halo": "#9fb4ff",
+        "label": "Strong fire"
+      }
+    },
+    {
+      "text": "Under short-wave ultraviolet light it glows bright blue.",
+      "scene": {
+        "kind": "title",
+        "text": "Glows blue",
+        "sub": "Under short-wave UV"
+      }
+    },
+    {
+      "text": "California made benitoite its state gem in 1985.",
+      "say": "California made benitoite its state gem in nineteen eighty-five.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#3f56c9",
+        "metal": "yellow",
+        "label": "State gem, 1985"
+      }
+    },
+    {
+      "text": "San Benito County is the only commercial source of gem-quality benitoite.",
+      "scene": {
+        "kind": "mine",
+        "place": "Benitoite Gem Mine",
+        "tone": "#3f56c9",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Most cut benitoite weighs less than one carat.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3f56c9",
+        "label": "Under one carat"
+      }
+    }
+  ],
+  "post": {
+    "caption": "California's state gem was mistaken for sapphire. Blue crystals turned up in California's San Benito County, and a prospector reportedly thought they were sapphire. Berkeley's George Louderback identified it as a new mineral in 1907 and named it benitoite, after the San Benito region. Most benitoite is violetish blue, and pink stones are very rare. In some directions its fire exceeds a diamond's, and under short-wave ultraviolet light it glows bright blue. California made benitoite its state gem in 1985, and San Benito County is the only commercial source of gem-quality benitoite. Most cut benitoite weighs less than one carat.",
+    "hashtags": [
+      "#benitoite",
+      "#californiagem",
+      "#bluegem",
+      "#gemstones",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://www.conservation.ca.gov/cgs/pages/publications/note_11.aspx",
+    "https://www.gia.edu/doc/benitoite-from-the-new-idria-district.pdf",
+    "https://gem-a.com/gem-hub/american-gemstones-benitoite-california",
+    "https://www.hmdb.org/m.asp?m=63910",
+    "https://rruff.info/uploads/UCPCDG5_1907_149.pdf",
+    "https://zh.mindat.org/min-624.html",
+    "https://www.gia.edu/benitoite-reading-list",
+    "https://www.gia.edu/articles/summer-2022-lab-notes-rare-orange-benitoite",
+    "https://santacruzmuseum.org/?p=11971",
+    "https://naturalhistory.si.edu/node/14193"
+  ]
+}

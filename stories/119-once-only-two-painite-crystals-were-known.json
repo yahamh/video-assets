@@ -1,0 +1,161 @@
+{
+  "id": "119-once-only-two-painite-crystals-were-known",
+  "number": 119,
+  "title": "Once, only two painite crystals were known",
+  "topic": "painite rarest gem arthur pain",
+  "music": "music-119.wav",
+  "hook": {
+    "text": "Once, only two painite crystals were known.",
+    "gold": [
+      "two",
+      "painite"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Once, only two painite crystals were known.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#b8442a"
+      }
+    },
+    {
+      "text": "Arthur Pain recognized that a crystal from Burma was unusual.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Arthur Pain",
+        "role": "Spotted something unusual",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#46607a",
+            "hair": "side",
+            "hairColor": "#4a3a2e",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It came from the gem gravels of Mogok in the early 1950s.",
+      "say": "It came from the gem gravels of Mogok in the early nineteen fifties.",
+      "scene": {
+        "kind": "mine",
+        "place": "Mogok, Burma",
+        "tone": "#b8442a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "In 1957 scientists announced a new mineral, painite, named for him.",
+      "say": "In nineteen fifty-seven scientists announced a new mineral, painite, named for him.",
+      "scene": {
+        "kind": "title",
+        "text": "Painite, 1957",
+        "sub": "A new mineral named"
+      }
+    },
+    {
+      "text": "Its chemistry includes zirconium and boron along with calcium and aluminum.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#b8442a",
+        "label": "Zirconium, boron"
+      }
+    },
+    {
+      "text": "Its color runs from red to brownish orange-red.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#b8442a",
+        "metal": "yellow",
+        "label": "Red to orange-red"
+      }
+    },
+    {
+      "text": "A third crystal turned up in 1979.",
+      "say": "A third crystal turned up in nineteen seventy-nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1979",
+        "sub": "A third crystal in"
+      }
+    },
+    {
+      "text": "In 2001 that extreme rarity began to change.",
+      "say": "In two thousand one that extreme rarity began to change.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#b8442a",
+        "halo": "#ff9a4a",
+        "label": "New finds"
+      }
+    },
+    {
+      "text": "Today over a thousand crystals are known, but few can be cut.",
+      "scene": {
+        "kind": "title",
+        "text": "Over 1,000",
+        "sub": "Painite crystals known"
+      }
+    },
+    {
+      "text": "By 2004 only two faceted stones had reportedly been found.",
+      "say": "By two thousand four only two faceted stones had reportedly been found.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#b8442a",
+        "metal": "white",
+        "label": "Faceted"
+      }
+    },
+    {
+      "text": "The original crystal is kept at London's Natural History Museum.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b8442a",
+        "label": "London museum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Once, only two painite crystals were known. Arthur Pain recognized that a crystal from Burma was unusual, and it came from the gem gravels of Mogok in the early 1950s. In 1957 scientists announced a new mineral, painite, named for him. Its chemistry includes zirconium and boron, plus calcium and aluminum, and its color runs from red to brownish orange-red. A third crystal turned up in 1979, and in 2001 that extreme rarity began to change. Today over a thousand crystals are known, but few can be cut, and by 2004 only two faceted stones had reportedly been found. The original crystal is kept at London's Natural History Museum.",
+    "hashtags": [
+      "#painite",
+      "#rarestgem",
+      "#gemstones",
+      "#mogok",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://rruff.info/doclib/hom/painite.pdf",
+    "https://zh.mindat.org/min-3063.html",
+    "https://rruff.info/doclib/MinMag/Volume_31/31-236-420.htm",
+    "https://authors.library.caltech.edu/records/1597r-03n24",
+    "https://www.gemsociety.org/article/painite-jewelry-and-gemstone-information/",
+    "https://core-cms.cambridgecore.org/core/journals/mineralogical-magazine/article/new-data-on-painite/7979D246EC392324E00074AA66175429",
+    "https://www.livescience.com/rarest-mineral-on-earth",
+    "https://gemrockauctions.com/learn/additional-gemstone-information/painite-rarest-gemstones-in-the-world",
+    "https://en.wikipedia.org/wiki/Painite",
+    "https://www.bonhams.com/auction/13327/lot/8350/painitethe-holy-grail-of-rare-gemstones"
+  ]
+}

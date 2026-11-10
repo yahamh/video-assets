@@ -1,0 +1,184 @@
+{
+  "id": "121-this-square-diamond-has-its-corners-cut",
+  "number": 121,
+  "title": "This square diamond has its corners cut",
+  "topic": "asscher cut diamond",
+  "style": "paper",
+  "plate": "Asscher cut",
+  "theme": "mint",
+  "music": "music-121.wav",
+  "hook": {
+    "text": "This square diamond has its corners cut.",
+    "gold": [
+      "square",
+      "corners"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This square diamond has its corners cut.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "asscher",
+        "tone": "#bfe0f0",
+        "metal": "yellow",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Joseph Asscher of Amsterdam developed the Asscher cut in 1902.",
+      "say": "Joseph Asscher of Amsterdam developed the Asscher cut in nineteen oh two.",
+      "scene": {
+        "kind": "title",
+        "text": "Amsterdam, 1902",
+        "sub": "Developed in",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Its square outline has cropped corners that read as an octagon.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "asscher",
+        "tone": "#bfe0f0",
+        "metal": "yellow",
+        "label": "Cut corners",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The original design has 58 facets.",
+      "say": "The original design has fifty-eight facets.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "asscher",
+        "tone": "#bfe0f0",
+        "label": "58 facets",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A high crown and deep pavilion create a hall of mirrors effect.",
+      "scene": {
+        "kind": "title",
+        "text": "Hall of mirrors",
+        "sub": "The effect is a",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It became popular in the 1920s, during the Art Deco era.",
+      "say": "It became popular in the nineteen twenties, during the Art Deco era.",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "shape": "asscher",
+        "tone": "#bfe0f0",
+        "to": "Art Deco era",
+        "date": "The 1920s",
+        "metal": "white",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Production of the original stopped around World War II.",
+      "say": "Production of the original stopped around World War Two.",
+      "scene": {
+        "kind": "title",
+        "text": "World War II",
+        "sub": "Production stopped around",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Asscher's firm also cut the Cullinan diamond in Amsterdam in 1908.",
+      "say": "Asscher's firm also cut the Cullinan diamond in Amsterdam in nineteen oh eight.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#bfe0f0",
+        "label": "Cullinan, 1908",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In 1980 Queen Juliana granted the firm the title Royal.",
+      "say": "In nineteen eighty Queen Juliana granted the firm the title Royal.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Juliana",
+        "role": "Royal title, 1980",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#6a3a8a",
+            "hair": "updo",
+            "hairColor": "#9a9a9a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "jewel": "pearls"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Around 2001 the family introduced the Royal Asscher cut with 74 facets.",
+      "say": "Around two thousand one the family introduced the Royal Asscher cut with seventy-four facets.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "asscher",
+        "tone": "#bfe0f0",
+        "metal": "white",
+        "label": "74 facets",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "An Asscher cut is square, while an emerald cut is rectangular.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "asscher",
+        "tone": "#bfe0f0",
+        "label": "Square",
+        "color": "#5bb4e8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This square diamond has its corners cut. Joseph Asscher of Amsterdam developed the Asscher cut in 1902, and its square outline has cropped corners that read as an octagon. The original design has 58 facets, and a high crown and deep pavilion create a hall of mirrors effect. It became popular in the 1920s, during the Art Deco era, and production of the original stopped around World War II. Asscher's firm also cut the Cullinan diamond in Amsterdam in 1908, and in 1980 Queen Juliana granted the firm the title Royal. Around 2001 the family introduced the Royal Asscher cut with 74 facets. An Asscher cut is square, while an emerald cut is rectangular.",
+    "hashtags": [
+      "#asschercut",
+      "#diamondcuts",
+      "#artdeco",
+      "#diamonds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/the-asscher-cut-a-cut-of-royalty-and-reinvention/",
+    "https://4cs.gia.edu/en-us/blog/guide-diamond-shapes-engagement-rings/",
+    "https://www.jckonline.com/magazine-article/the-rise-of-the-house-of-asscher/",
+    "https://rapaport.com/?p=79141",
+    "https://rapaport.com/?p=46602",
+    "https://royalasscher.com/pages/diamonds",
+    "https://royalasscher.com/blogs/blog/the-cullinan",
+    "https://www.worldhistory.org/Cullinan_Diamond/",
+    "https://www.britannica.com/topic/Cullinan-Diamond",
+    "https://www.thejewelleryeditor.com/2015/04/royal-asscher-cut-engagement-rings-vintage-style/",
+    "https://www.gemsociety.org/article/history-asscher-cut-diamonds/",
+    "https://www.brilliance.com/article/what-is-an-asscher-cut-diamond",
+    "https://www.diamondregistry.com/?p=1134"
+  ]
+}
