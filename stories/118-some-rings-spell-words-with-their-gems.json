@@ -1,0 +1,188 @@
+{
+  "id": "118-some-rings-spell-words-with-their-gems",
+  "number": 118,
+  "title": "Some rings spell words with their gems",
+  "topic": "regard ring acrostic jewelry",
+  "style": "paper",
+  "plate": "Regard ring",
+  "theme": "watercolor",
+  "music": "music-118.wav",
+  "hook": {
+    "text": "Some rings spell words with their gems.",
+    "gold": [
+      "spell",
+      "gems."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some rings spell words with their gems.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "round",
+        "tone": "#d6264a",
+        "metal": "yellow",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Each gem's first letter adds one letter to the word.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d6264a",
+        "label": "R for ruby",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Six gems can spell REGARD, from a ruby to a diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "REGARD",
+        "sub": "Six gems can spell",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "DEAREST takes seven gems and ends with a topaz or turquoise.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8a838",
+        "label": "T for topaz",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The fashion is believed to have started in France.",
+      "scene": {
+        "kind": "title",
+        "text": "France",
+        "sub": "Believed to start in",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It was popular from about the 1820s through Victorian times.",
+      "say": "It was popular from about the eighteen twenties through Victorian times.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#d6264a",
+        "metal": "yellow",
+        "label": "1820s onward",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Givers sent them as tokens of love or friendship.",
+      "scene": {
+        "kind": "gift",
+        "stone": "ring",
+        "shape": "round",
+        "tone": "#d6264a",
+        "to": "A love token",
+        "date": "Or friendship",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The stones were often small and set in a row.",
+      "scene": {
+        "kind": "title",
+        "text": "In a row",
+        "sub": "Small stones, often set",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Some words used the first letters of French gem names.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A jeweler",
+        "role": "Using French gem names",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a5f8a",
+            "hair": "side",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "For V, jewelers sometimes used vermeil, an old name for garnet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#8c1d2a",
+        "label": "V for vermeil",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Empress Josephine owned bracelets that spell her children's names.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Empress Josephine",
+        "role": "Bracelets that spell names",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#2f5a9a",
+            "hair": "updo",
+            "hairColor": "#2a1e18",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "jewel": "pearls"
+          }
+        ],
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some rings spell words with their gems. Each gem's first letter adds one letter to the word, so six gems can spell REGARD, from a ruby to a diamond, and DEAREST takes seven gems and ends with a topaz or turquoise. The fashion is believed to have started in France, and it was popular from about the 1820s through Victorian times. Givers sent them as tokens of love or friendship, and the stones were often small and set in a row. Some words used the first letters of French gem names, and for V jewelers sometimes used vermeil, an old name for garnet. Empress Josephine owned bracelets that spell her children's names.",
+    "hashtags": [
+      "#regardring",
+      "#acrosticjewelry",
+      "#victorianjewelry",
+      "#loveletters",
+      "#giftofjewelry"
+    ]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O115228/locket-unknown",
+    "https://collections.vam.ac.uk/item/O74186/locket-unknown/",
+    "https://4cs.gia.edu/blog/secret-messages-jewelry-acrostic-jewelry/",
+    "https://www.sothebys.com/en/auctions/ecatalogue/2011/fine-jewels-/lot.46.html",
+    "https://www.lyonandturnbull.com/stories/acrostic-jewels",
+    "https://fellows.co.uk/blog/jewellery/2022/04/05/from-fellows-with-love-the-gem-set-love-letters-of-acrostic-jewellery",
+    "https://www.kongehuset.dk/en/royal-collections/jewellery/empress-josephine-s-bracelets/",
+    "https://www.chaumet.com/en/empress-josephine",
+    "https://www.antiquejewel.com/glossary/regard-ring",
+    "https://antiquejewellers.com/blogs/ring-styles/regard-rings",
+    "https://www.antiquejewellerycompany.com/the-regard-ring-a-hidden-message-of-love-and-affection",
+    "https://ericaweiner.com/history-lessons/acrostic_jewelry",
+    "https://rapaport.com/magazine-article/the-language-of-jewels/",
+    "https://nationaljeweler.com/articles/6783-the-history-behind-acrostic-jewelry",
+    "https://www.thejewelleryeditor.com/jewellery/article/history-acrostic-jewellery-coloured-gemstones/"
+  ]
+}

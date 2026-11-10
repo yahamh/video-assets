@@ -1,0 +1,165 @@
+{
+  "id": "116-diamonds-and-pencil-lead-share-one-element",
+  "number": 116,
+  "title": "Diamonds and pencil lead share one element",
+  "topic": "diamond graphite carbon pencil lead",
+  "music": "music-116.wav",
+  "hook": {
+    "text": "Diamonds and pencil lead share one element.",
+    "gold": [
+      "pencil",
+      "element."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamonds and pencil lead share one element.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2"
+      }
+    },
+    {
+      "text": "Both are pure carbon, and only the atoms' arrangement differs.",
+      "scene": {
+        "kind": "title",
+        "text": "Pure carbon",
+        "sub": "Both are"
+      }
+    },
+    {
+      "text": "In diamond, each atom bonds to four others in a rigid lattice.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "label": "Rigid lattice"
+      }
+    },
+    {
+      "text": "In graphite, each atom bonds to three others in flat sheets.",
+      "scene": {
+        "kind": "title",
+        "text": "Flat sheets",
+        "sub": "Graphite forms"
+      }
+    },
+    {
+      "text": "Those sheets slip past each other, so graphite is soft.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A writer",
+        "role": "Writing in graphite",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a4a7a",
+            "hair": "updo",
+            "hairColor": "#3a2a22",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Pencil lead has no lead because graphite was once mistaken for it.",
+      "scene": {
+        "kind": "title",
+        "text": "No lead",
+        "sub": "Pencil lead has"
+      }
+    },
+    {
+      "text": "Diamond is 10 on the Mohs scale, graphite about 1 to 2.",
+      "say": "Diamond is ten on the Mohs scale, graphite about one to two.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "label": "Mohs 10"
+      }
+    },
+    {
+      "text": "Natural diamonds form deep underground, more than 100 kilometers down.",
+      "say": "Natural diamonds form deep underground, more than one hundred kilometers down.",
+      "scene": {
+        "kind": "title",
+        "text": "Over 100 km down",
+        "sub": "Natural diamonds form"
+      }
+    },
+    {
+      "text": "Some labs grow diamonds from graphite using high pressure and heat.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "white",
+        "label": "Lab-grown"
+      }
+    },
+    {
+      "text": "A diamond conducts heat very well.",
+      "scene": {
+        "kind": "title",
+        "text": "Heat very well",
+        "sub": "A diamond conducts"
+      }
+    },
+    {
+      "text": "Heated enough in oxygen, a diamond burns and becomes carbon dioxide.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "halo": "#ff7a2a",
+        "label": "Burns in oxygen"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Diamonds and pencil lead share one element. Both are pure carbon, and only the arrangement of the atoms differs. In diamond, each atom bonds to four others in a rigid lattice. In graphite, each atom bonds to three others in flat sheets, and those sheets slip past each other, so graphite is soft. Pencil lead has no lead in it because graphite was once mistaken for lead. Diamond is 10 on the Mohs scale and graphite is about 1 to 2. Natural diamonds form deep underground, more than 100 kilometers down, and some labs grow diamonds from graphite using high pressure and heat. A diamond conducts heat very well, and heated enough in oxygen it burns and becomes carbon dioxide.",
+    "hashtags": [
+      "#diamond",
+      "#graphite",
+      "#carbon",
+      "#gemscience",
+      "#diamondfacts"
+    ]
+  },
+  "sources": [
+    "https://www.scientificamerican.com/article/how-can-graphite-and-diam/",
+    "https://blog.susnano.wisc.edu/2014/02/18/the-atomic-difference-between-diamonds-and-graphite",
+    "https://www.mcgill.ca/oss/article/did-you-know/pencils-never-contained-lead",
+    "https://www.npr.org/sections/ed/2016/10/11/492999969/origin-of-pencil-lead",
+    "https://www.britannica.com/print/article/449653",
+    "https://commonminerals.esci.umn.edu/minerals-g-m/graphite",
+    "https://www.britannica.com/science/graphite-carbon",
+    "https://geo.libretexts.org/Bookshelves/Geology/Mineralogy_(Perkins_et_al.)/03%3A_Mineral_Properties/3.05%3A_Strength_and_Breaking/3.5.03%3A_Hardness",
+    "https://www.britannica.com/print/article/161406",
+    "https://www.gemsociety.org/article/select-gems-ordered-mohs-hardness/",
+    "https://www.amnh.org/explore/videos/earth-and-climate/diamonds-earths-layers",
+    "https://gia.edu/gems-gemology/winter-2018-how-do-diamonds-form-in-the-deep-earth",
+    "https://gia.edu/gems-gemology/wn13-advances-diamond-geology-shirey",
+    "https://www.gia.edu/gia-website/hpht-and-cvd-diamond-growth-processes",
+    "https://www.britannica.com/topic/synthetic-diamond",
+    "https://www.sciencefocus.com/science/how-are-lab-grown-diamonds-made",
+    "https://www.sciencefocus.com/science/is-it-possible-to-burn-diamonds",
+    "https://www.gemsociety.org/article/can-diamonds-burn/",
+    "https://www.livescience.com/can-diamonds-burn.html",
+    "https://periodic-table.rsc.org/podcast/6/carbon",
+    "https://ingenia.org.uk/articles/diamond-technology-beyond-hardness/"
+  ]
+}

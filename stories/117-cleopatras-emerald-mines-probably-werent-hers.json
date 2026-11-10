@@ -1,0 +1,181 @@
+{
+  "id": "117-cleopatras-emerald-mines-probably-werent-hers",
+  "number": 117,
+  "title": "Cleopatra's emerald mines probably weren't hers",
+  "topic": "cleopatra emerald mines egypt sikait",
+  "style": "lowpoly",
+  "music": "music-117.wav",
+  "hook": {
+    "text": "Cleopatra's emerald mines probably weren't hers.",
+    "gold": [
+      "Cleopatra's",
+      "hers."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cleopatra's emerald mines probably weren't hers.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#1f9d62"
+      }
+    },
+    {
+      "text": "They are in Egypt's Eastern Desert, inland from the Red Sea.",
+      "scene": {
+        "kind": "mine",
+        "place": "Eastern Desert, Egypt",
+        "tone": "#1f9d62",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The Romans called the area Mons Smaragdus, or Emerald Mountain.",
+      "scene": {
+        "kind": "title",
+        "text": "Emerald Mountain",
+        "sub": "The Romans called it"
+      }
+    },
+    {
+      "text": "Miners reportedly worked there for some 2,000 years.",
+      "say": "Miners reportedly worked there for some two thousand years.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#1f9d62",
+        "label": "2,000 years"
+      }
+    },
+    {
+      "text": "Then the mines were forgotten outside Egypt for centuries.",
+      "scene": {
+        "kind": "title",
+        "text": "For centuries",
+        "sub": "Forgotten outside Egypt"
+      }
+    },
+    {
+      "text": "Frédéric Cailliaud, trained as a jeweler, rediscovered them around 1816.",
+      "say": "Frederic Kah-yo, trained as a jeweler, rediscovered them around eighteen sixteen.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Frédéric Cailliaud",
+        "role": "Rediscovered them, about 1816",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a4f2a",
+            "hair": "side",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Egyptian emeralds were often paler and cloudier than Colombian ones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "emerald",
+        "tone": "#8ed1a6",
+        "metal": "yellow",
+        "label": "Often paler"
+      }
+    },
+    {
+      "text": "Egypt led until Colombian emeralds reached Europe in the 1500s.",
+      "say": "Egypt led until Colombian emeralds reached Europe in the fifteen hundreds.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Colombia",
+          "x": 0.2,
+          "y": 0.78
+        },
+        "to": {
+          "name": "Europe",
+          "x": 0.75,
+          "y": 0.3
+        },
+        "icon": "ship",
+        "label": "Emeralds"
+      }
+    },
+    {
+      "text": "Legend links Cleopatra to emeralds.",
+      "scene": {
+        "kind": "title",
+        "text": "Cleopatra",
+        "sub": "Legend links emeralds to"
+      }
+    },
+    {
+      "text": "The mines' nickname probably came from Victorian jewelers' marketing.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A Victorian jeweler",
+        "role": "Marketing the mines",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a2a3a",
+            "hair": "slick",
+            "hairColor": "#2a1e18",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Emerald is a green beryl, colored mainly by chromium.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#1f9d62",
+        "label": "Chromium"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cleopatra's emerald mines probably weren't hers. They are in Egypt's Eastern Desert, inland from the Red Sea, and the Romans called the area Mons Smaragdus, or Emerald Mountain. Miners reportedly worked there for some 2,000 years, and then the mines were forgotten outside Egypt for centuries. Frédéric Cailliaud, trained as a jeweler, rediscovered them around 1816. Egyptian emeralds were often paler and cloudier than Colombian ones, and Egypt led until Colombian emeralds reached Europe in the 1500s. Legend links Cleopatra to emeralds, but the mines' nickname probably came from Victorian jewelers' marketing. Emerald is a green beryl, colored mainly by chromium.",
+    "hashtags": [
+      "#emerald",
+      "#cleopatra",
+      "#ancientegypt",
+      "#gemstones",
+      "#beryl"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gia-news-research/historical-reading-ancient-emerald-mines-Egypt",
+    "https://www.gia.edu/doc/Emeralds-and-Green-Beryls-of-Upper-Egypt.pdf",
+    "https://www.gia.edu/emerald-history-lore",
+    "https://www.mineral-exploration.de/mepub/sikaitemerald.pdf",
+    "https://archive.archaeology.org/0205/abstracts/emerald.html",
+    "https://popular-archaeology.com/article/new-evidence-regarding-emerald-production-in-roman-egypt-coming-from-wadi-sikait/",
+    "https://www.britannica.com/print/article/185715",
+    "https://www.academia.edu/172313160/Cleopatras_Emerald_Mines_The_Marketing_of_a_Myth",
+    "https://www.lotusgemology.com/resources/4-treasures-reference-database/6380",
+    "https://www.mdpi.com/2075-163X/13/2/158",
+    "https://archive.aramcoworld.com/issue/201301/the.explorations.of.fr.d.ric.cailliaud.htm",
+    "https://www.gemsociety.org/article/emerald-origins/",
+    "https://www.gemsociety.org/article/emerald-jewelry-and-gemstone-information/",
+    "https://www.gia.edu/emerald-quality-factor",
+    "https://imperiumromanum.pl/en/article/sikait-emerald-mountain-only-known-emerald-mine-in-the-roman-empire/",
+    "https://emeralds.com/education/mining-locations/early-mining-history-techniques/"
+  ]
+}
