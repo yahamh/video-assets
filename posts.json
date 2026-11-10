@@ -1004,7 +1004,7 @@
     "out": {
       "facebook": "https://www.facebook.com/watch/?v=1160028293661700",
       "instagram": "https://www.instagram.com/reel/DffW5GMDY7q/",
-      "tiktok": "published",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705862727381683464",
       "youtube": "https://www.youtube.com/watch?v=VXkQRrDeq0c"
     }
   },
@@ -1035,7 +1035,7 @@
     "out": {
       "facebook": "https://www.facebook.com/watch/?v=1486799220015748",
       "instagram": "https://www.instagram.com/reel/DffrKy1FUeH/",
-      "tiktok": "published"
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7705908726275869973"
     }
   },
   "063-tiffany-blue-box": {
@@ -1202,7 +1202,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1018577857944543",
+      "instagram": "https://www.instagram.com/reel/DfieAF7Cl48/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706311372950260998",
+      "youtube": "https://www.youtube.com/watch?v=546CNhUwHcs"
+    }
   },
   "074-hand-of-faith-nugget": {
     "at": "2026-11-10T00:30:00Z",
@@ -1211,7 +1218,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1466258815690556",
+      "instagram": "https://www.instagram.com/reel/Dfin633iMv4/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706333118369647924"
+    }
   },
   "075-star-of-south-africa": {
     "at": "2026-11-10T02:00:00Z",
@@ -1220,7 +1233,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1019969701135212",
+      "instagram": "https://www.instagram.com/reel/DfiyTXWj1dm/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706356615154339073"
+    }
   },
   "076-ring-finger-vein": {
     "at": "2026-11-10T11:30:00Z",
@@ -1560,6 +1579,34 @@
   "112-two-huge-diamonds-are-called-chips": {
     "at": "2026-11-13T21:00:00Z",
     "zernio_id": "6af249c78ad29ebdc4d7f8b1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "113-gold-is-yellow-thanks-to-relativity": {
+    "at": "2026-11-13T23:00:00Z",
+    "zernio_id": "6af29d1ece0c774538488e14",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "114-ruby-and-sapphire-are-one-mineral": {
+    "at": "2026-11-14T00:30:00Z",
+    "zernio_id": "6af29d26ce0c774538488e4a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "115-a-ring-once-served-as-a-signature": {
+    "at": "2026-11-14T02:00:00Z",
+    "zernio_id": "6af29d31e65115b4ffa7983b",
     "platforms": [
       "facebook",
       "instagram",
