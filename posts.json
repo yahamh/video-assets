@@ -1295,7 +1295,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1157318173302096",
+      "instagram": "https://www.instagram.com/reel/DfkV0jtl8Xv/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706580903102778630"
+    }
   },
   "080-paraiba-tourmaline": {
     "at": "2026-11-10T18:00:00Z",
@@ -1305,7 +1311,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2121746871784030",
+      "instagram": "https://www.instagram.com/reel/Dfkgbhijm0N/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706605111589571860",
+      "youtube": "https://www.youtube.com/watch?v=_m3yYQokaNc"
+    }
   },
   "081-cleopatra-pearl-vinegar": {
     "at": "2026-11-10T19:30:00Z",
@@ -1314,7 +1327,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1057525370682143",
+      "instagram": "https://www.instagram.com/reel/DfkqZ72Cv92/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706627577443601684"
+    }
   },
   "082-gimmel-ring": {
     "at": "2026-11-10T21:00:00Z",
@@ -1323,7 +1342,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1693208239162705",
+      "instagram": "https://www.instagram.com/reel/Dfk05jAjjZi/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706651206944394517"
+    }
   },
   "083-lapis-lazuli-blue": {
     "at": "2026-11-10T23:00:00Z",
@@ -1660,6 +1685,43 @@
       "youtube"
     ]
   },
+  "119-once-only-two-painite-crystals-were-known": {
+    "at": "2026-11-14T16:30:00Z",
+    "zernio_id": "6af39c4eb67d4cdb62a20bc8",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "120-tiffany-bought-many-of-frances-crown-jewels": {
+    "at": "2026-11-14T18:00:00Z",
+    "zernio_id": "6af39c5635d011cf41512202",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "121-this-square-diamond-has-its-corners-cut": {
+    "at": "2026-11-14T19:30:00Z",
+    "zernio_id": "6af39c60f88065a042ab2206",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "122-californias-state-gem-was-mistaken-for-sapphire": {
+    "at": "2026-11-14T21:00:00Z",
+    "zernio_id": "6af39c6a29bc6e35ba0e5c71",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -1799,7 +1861,11 @@
     "zernio_id": "6aed43001e5494217a15a3f9",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=jiHlK0PunKQ"
+    }
   },
   "gs-06-pear": {
     "at": "2026-11-11T17:00:00Z",
@@ -2067,7 +2133,11 @@
     "zernio_id": "6aec3843abfc9cd5f132a4ff",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=Q-xCey-r4Rg"
+    }
   },
   "lesson-019-hidden-halo": {
     "at": "2026-11-11T16:00:00Z",
@@ -2107,6 +2177,13 @@
   "lesson-024-platinum": {
     "at": "2026-11-16T16:00:00Z",
     "zernio_id": "6af1f70569f94ff3e910e1e0",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-025-pendant-bail": {
+    "at": "2026-11-17T16:00:00Z",
+    "zernio_id": "6af39c7029bc6e35ba0e5cbc",
     "platforms": [
       "youtube"
     ]
