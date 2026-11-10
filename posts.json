@@ -1248,7 +1248,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1098299119694238",
+      "instagram": "https://www.instagram.com/reel/DfjzhMmj6KT/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706503983803731218"
+    }
   },
   "077-sutton-hoo-gold-coins": {
     "at": "2026-11-10T13:00:00Z",
@@ -1257,7 +1263,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1453590899522503",
+      "instagram": "https://www.instagram.com/reel/Dfj97JriEQn/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706527037149826310"
+    }
   },
   "078-kashmir-sapphire-landslide": {
     "at": "2026-11-10T14:00:00Z",
@@ -1267,7 +1279,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1565624331943799",
+      "instagram": "https://www.instagram.com/reel/DfkE_ejAMGW/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706543256552672533",
+      "youtube": "https://www.youtube.com/watch?v=Iy1nCNOMqRE"
+    }
   },
   "079-padparadscha-sapphire": {
     "at": "2026-11-10T16:30:00Z",
@@ -1611,6 +1630,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "116-diamonds-and-pencil-lead-share-one-element": {
+    "at": "2026-11-14T11:30:00Z",
+    "zernio_id": "6af34388d1f35480e32b58d2",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "117-cleopatras-emerald-mines-probably-werent-hers": {
+    "at": "2026-11-14T13:00:00Z",
+    "zernio_id": "6af343932322fef66193ef02",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "118-some-rings-spell-words-with-their-gems": {
+    "at": "2026-11-14T14:00:00Z",
+    "zernio_id": "6af3439f2322fef66193ef3d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
