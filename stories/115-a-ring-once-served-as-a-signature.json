@@ -1,0 +1,190 @@
+{
+  "id": "115-a-ring-once-served-as-a-signature",
+  "number": 115,
+  "title": "A ring once served as a signature",
+  "topic": "signet ring wax seal signature",
+  "style": "paper",
+  "plate": "Signet ring",
+  "theme": "sky",
+  "music": "music-115.wav",
+  "hook": {
+    "text": "A ring once served as a signature.",
+    "gold": [
+      "ring",
+      "signature."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A ring once served as a signature.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A signet ring has a design carved into its face.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "A signet ring",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Pressed into soft wax, it leaves a raised print, or seal.",
+      "scene": {
+        "kind": "title",
+        "text": "A raised print",
+        "sub": "Pressed into soft wax",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The design is carved in reverse so the print reads correctly.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#c4552b",
+        "metal": "yellow",
+        "label": "Carved in reverse",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Mesopotamians rolled cylinder seals on clay over 5,000 years ago.",
+      "say": "Mesopotamians rolled cylinder seals on clay over five thousand years ago.",
+      "scene": {
+        "kind": "title",
+        "text": "5,000 years",
+        "sub": "Cylinder seals on clay",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Egyptians used scarab seals about 4,000 years ago.",
+      "say": "Egyptians used scarab seals about four thousand years ago.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "An Egyptian",
+        "role": "Using a scarab seal",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#e3d3a8",
+            "hair": "slick",
+            "hairColor": "#1e1a18",
+            "skin": "#b9794f",
+            "expression": "neutral"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "About 2,000 years ago, Romans used signet rings to seal letters.",
+      "say": "About two thousand years ago, Romans used signet rings to seal letters.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "white",
+        "label": "Roman signet rings",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "In medieval England, a seal often stood in for a signature.",
+      "scene": {
+        "kind": "title",
+        "text": "Seal as signature",
+        "sub": "In medieval England",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Deeds were not usually signed until the 1500s.",
+      "say": "Deeds were not usually signed until the fifteen hundreds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A landowner",
+        "role": "Sealing a deed",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#2f5a3a",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Tough stones like carnelian were popular for seal faces.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c4552b",
+        "label": "Carnelian",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Each new pope still receives a signet ring called the Fisherman's Ring.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "A pope's ring",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A ring once served as a signature. A signet ring has a design carved into its face, and pressed into soft wax it leaves a raised print, or seal. The design is carved in reverse so the print reads correctly. Mesopotamians rolled cylinder seals on clay over 5,000 years ago, Egyptians used scarab seals about 4,000 years ago, and about 2,000 years ago Romans used signet rings to seal letters. In medieval England a seal often stood in for a signature, and deeds were not usually signed until the 1500s. Tough stones like carnelian were popular for seal faces. Each new pope still receives a signet ring called the Fisherman's Ring.",
+    "hashtags": [
+      "#signetring",
+      "#waxseal",
+      "#ancientjewelry",
+      "#sealring",
+      "#medievalhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/en/perspectives/cylinder-seals-tiny-treasures-that-leave-a-big-impression",
+    "https://www.britannica.com/art/cylinder-seal",
+    "https://www.metmuseum.org/essays/antique-engraved-gems-and-renaissance-collectors",
+    "https://www.britannica.com/art/ring-jewelry",
+    "https://historiska.se/en/explore-history/history-hub/a-magical-ring-from-the-roman-empire/",
+    "https://www.metmuseum.org/art/collection/search/446273",
+    "https://www.metmuseum.org/art/collection/search/545698",
+    "https://www.britannica.com/topic/scarab",
+    "https://www.londonmuseum.org.uk/collections/v/object-351099/seal-box/",
+    "https://www.nationalarchives.gov.uk/education/resources/medieval-seals/",
+    "https://museum.wales/blog/2165/Seal-Matrices/",
+    "https://nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/medievaldocuments/authentication.aspx",
+    "https://www.britannica.com/topic/sigillography",
+    "https://www.britannica.com/science/sard-mineral",
+    "https://artistproject.metmuseum.org/art/collection/search/449312",
+    "https://www.getty.edu/art/exhibitions/gems/techniques.html",
+    "https://www.britannica.com/topic/Fishermans-Ring",
+    "https://www.ewtnnews.com/vatican/cardinals-witness-destruction-of-pope-francis-ring-seal?redirectedfrom=cna"
+  ]
+}

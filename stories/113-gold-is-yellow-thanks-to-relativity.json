@@ -1,0 +1,166 @@
+{
+  "id": "113-gold-is-yellow-thanks-to-relativity",
+  "number": 113,
+  "title": "Gold is yellow largely thanks to relativity",
+  "topic": "gold color relativity electrons",
+  "music": "music-113.wav",
+  "hook": {
+    "text": "Gold is yellow largely thanks to relativity.",
+    "gold": [
+      "yellow",
+      "relativity."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold is yellow largely thanks to relativity.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "Gold atoms are very heavy.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "tone": "#f2d36b",
+        "metal": "yellow",
+        "label": "Heavy atoms"
+      }
+    },
+    {
+      "text": "Their inner electrons move at more than half the speed of light.",
+      "scene": {
+        "kind": "title",
+        "text": "Half light speed",
+        "sub": "Inner electrons: over"
+      }
+    },
+    {
+      "text": "At such speeds, Einstein's relativity starts to matter.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "Albert Einstein",
+        "role": "His relativity matters here",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a4636",
+            "hair": "side",
+            "hairColor": "#b8b8b8",
+            "skin": "#efc9a6",
+            "expression": "focused",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "That squeezes the atom's electron layers and shifts their energy gaps.",
+      "scene": {
+        "kind": "title",
+        "text": "Energy gaps shift",
+        "sub": "Electron layers squeeze"
+      }
+    },
+    {
+      "text": "So gold soaks up blue light, and what bounces back looks yellow.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "tone": "#f2d36b",
+        "metal": "yellow",
+        "label": "Soaks up blue"
+      }
+    },
+    {
+      "text": "Silver only absorbs invisible ultraviolet light, so it looks like a mirror.",
+      "scene": {
+        "kind": "title",
+        "text": "Like a mirror",
+        "sub": "Silver looks"
+      }
+    },
+    {
+      "text": "Gold is one of very few metals that aren't silvery.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "tone": "#f2d36b",
+        "metal": "yellow",
+        "label": "Not silvery"
+      }
+    },
+    {
+      "text": "Chemists have studied this effect since the 1970s.",
+      "say": "Chemists have studied this effect since the nineteen seventies.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A chemist",
+        "role": "Studying it since the 1970s",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#35606a",
+            "hair": "short",
+            "hairColor": "#6a5a4a",
+            "skin": "#d9a67e",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The same effect helps keep mercury liquid, calculations suggest.",
+      "scene": {
+        "kind": "title",
+        "text": "Mercury liquid",
+        "sub": "Relativity helps keep"
+      }
+    },
+    {
+      "text": "Calculations suggest gold would look silvery without relativity.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "tone": "#dfe6ec",
+        "metal": "white",
+        "label": "Without relativity"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Gold is yellow largely thanks to relativity. Gold atoms are very heavy, and their inner electrons move at more than half the speed of light. At such speeds Einstein's relativity starts to matter: it squeezes the atom's electron layers and shifts their energy gaps. So gold soaks up blue light, and what bounces back looks yellow. Silver only absorbs invisible ultraviolet light, so it looks like a mirror. Gold is one of very few metals that aren't silvery. Chemists have studied this effect since the 1970s, and calculations suggest the same effect helps keep mercury liquid and that gold would look silvery without relativity.",
+    "hashtags": [
+      "#goldcolor",
+      "#einstein",
+      "#jewelryscience",
+      "#goldjewelry",
+      "#relativity"
+    ]
+  },
+  "sources": [
+    "https://www.sciencenews.org/article/chemists-strike-gold-solve-mystery-about-precious-metals-properties",
+    "https://www.sciencefocus.com/science/why-is-gold-yellow",
+    "https://www.scientificamerican.com/article/cracks-in-the-periodic-table/",
+    "https://www.uni-heidelberg.de/presse/news2015/pm20151029_einsteins-theory-of-relativity-explains-fundamental-properties-of-gold.html",
+    "https://fourmilab.ch/documents/golden_glow/",
+    "https://web.uvic.ca/~mcindoe/424/relativity.pdf",
+    "https://orbit.dtu.dk/en/publications/relativistic-band-calculation-and-the-optical-properties-of-gold/",
+    "https://math.ucr.edu/home/baez/physics/Relativity/SR/gold_color.html",
+    "https://arxiv.org/pdf/2107.10739",
+    "https://www.chemistryworld.com/news/relativity-behind-mercurys-liquidity/6297.article",
+    "https://blogs.scientificamerican.com/the-curious-wavefunction/what-does-mercury-being-liquid-at-room-temperature-have-to-do-with-einsteins-theory-of-relativity",
+    "https://www.chemedx.org/blog/relativistic-chemistry-its-easier-you-may-think",
+    "https://periodic-table.rsc.org/element/55/Caesium",
+    "https://www.britannica.com/science/copper",
+    "https://chemistry.illinois.edu/system/files/inline-files/Joseph%20Wright.pdf"
+  ]
+}

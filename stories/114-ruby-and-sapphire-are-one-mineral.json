@@ -1,0 +1,166 @@
+{
+  "id": "114-ruby-and-sapphire-are-one-mineral",
+  "number": 114,
+  "title": "Ruby and sapphire are one mineral",
+  "topic": "ruby sapphire corundum same mineral",
+  "style": "lowpoly",
+  "music": "music-114.wav",
+  "hook": {
+    "text": "Ruby and sapphire are one mineral.",
+    "gold": [
+      "Ruby",
+      "mineral."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ruby and sapphire are one mineral.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d6264a"
+      }
+    },
+    {
+      "text": "Both are corundum, a mineral made of aluminum and oxygen.",
+      "scene": {
+        "kind": "title",
+        "text": "Aluminum oxide",
+        "sub": "Corundum is"
+      }
+    },
+    {
+      "text": "A trace of chromium makes ruby red.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d6264a",
+        "label": "Chromium"
+      }
+    },
+    {
+      "text": "Iron and titanium color blue sapphire.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#2b63c4",
+        "metal": "white",
+        "label": "Iron and titanium"
+      }
+    },
+    {
+      "text": "Corundum in other colors is usually called a sapphire.",
+      "scene": {
+        "kind": "title",
+        "text": "Fancy sapphires",
+        "sub": "Other colors are"
+      }
+    },
+    {
+      "text": "Where pink becomes ruby depends on who you ask.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A gemologist",
+        "role": "Judging pink or red",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f4a7a",
+            "hair": "updo",
+            "hairColor": "#6a3a2a",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "GIA needs red to dominate, but some groups accept any red corundum.",
+      "scene": {
+        "kind": "title",
+        "text": "Dominant red",
+        "sub": "GIA needs a"
+      }
+    },
+    {
+      "text": "Ruby's name comes from ruber, the Latin word for red.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#d6264a",
+        "metal": "yellow",
+        "label": "Ruber: red"
+      }
+    },
+    {
+      "text": "Sapphire comes from a Greek name for a blue stone, probably lapis.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#2a4aa0",
+        "label": "Probably lapis"
+      }
+    },
+    {
+      "text": "Myanmar's Mogok area is one of the most famous ruby sources.",
+      "scene": {
+        "kind": "mine",
+        "place": "Mogok, Myanmar",
+        "tone": "#d6264a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Both rank 9 on the Mohs scale, and only diamond is harder.",
+      "say": "Both rank nine on the Mohs scale, and only diamond is harder.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#d6264a",
+        "metal": "white",
+        "label": "Hardness 9"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Ruby and sapphire are one mineral. Both are corundum, a mineral made of aluminum and oxygen. A trace of chromium makes ruby red, and iron and titanium color blue sapphire. Corundum in other colors is usually called a sapphire, and where pink becomes ruby depends on who you ask: GIA needs red to dominate, but some groups accept any red corundum. Ruby's name comes from ruber, the Latin word for red, and sapphire comes from a Greek name for a blue stone, probably lapis. Myanmar's Mogok area is one of the most famous ruby sources. Both rank 9 on the Mohs scale, and only diamond is harder.",
+    "hashtags": [
+      "#ruby",
+      "#sapphire",
+      "#corundum",
+      "#gemology",
+      "#colorgemstones"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/sapphire",
+    "https://www.gia.edu/ruby",
+    "https://www.gia.edu/ruby-description",
+    "https://4cs.gia.edu/?p=5213",
+    "https://www.gia.edu/UK-EN/ruby-history-lore",
+    "https://www.gia.edu/articles/sapphire-history-lore",
+    "https://www.britannica.com/science/corundum",
+    "https://www.britannica.com/topic/sapphire-gemstone",
+    "https://www.britannica.com/topic/ruby",
+    "https://naturalhistory.si.edu/node/14124",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002866",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10026674",
+    "https://www.gemsociety.org/article/distinguishing-rubies-pink-sapphires/",
+    "https://www.gemsociety.org/article/corundum-jewelry-gemstone-information/",
+    "https://www.americangemsociety.org/sapphire-overview",
+    "https://www.mindat.org/min-1136.html",
+    "https://www.etymonline.com/word/sapphire",
+    "https://www.etymonline.com/word/ruby",
+    "https://www.amnh.org/explore/news-blogs/ruby-land-gems-geology"
+  ]
+}
