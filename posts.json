@@ -1467,7 +1467,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29156069664014880",
+      "instagram": "https://www.instagram.com/reel/DfnFPf8kT-M/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706976276040404244",
+      "youtube": "https://www.youtube.com/watch?v=EXQ8Dc840qc"
+    }
   },
   "091-cameo-layered-shell": {
     "at": "2026-11-11T19:30:00Z",
@@ -1476,7 +1483,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1442631447935696",
+      "instagram": "https://www.instagram.com/reel/DfnPMBvAbRe/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706998643919719700"
+    }
   },
   "092-turquoise-turkish-stone": {
     "at": "2026-11-11T21:00:00Z",
@@ -1485,7 +1498,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1392324372974384",
+      "instagram": "https://www.instagram.com/reel/DfnZnMqmbkq/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707022002808261889"
+    }
   },
   "093-zircon-oldest-crystals": {
     "at": "2026-11-11T23:00:00Z",
@@ -1820,6 +1839,43 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "129-sunlight-can-fade-this-pink-gem": {
+    "at": "2026-11-15T16:30:00Z",
+    "zernio_id": "6af4f23cf8ceb346bc22a313",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "130-this-tiara-was-an-18th-birthday-gift": {
+    "at": "2026-11-15T18:00:00Z",
+    "zernio_id": "6af4f24bb354e61f189594c2",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "131-napoleons-sword-once-held-this-diamond": {
+    "at": "2026-11-15T19:30:00Z",
+    "zernio_id": "6af4f255b354e61f189594ec",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "132-you-can-dig-this-gem-for-free": {
+    "at": "2026-11-15T21:00:00Z",
+    "zernio_id": "6af4f260972c7bb7fd74344a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
@@ -2292,6 +2348,13 @@
   "lesson-025-pendant-bail": {
     "at": "2026-11-17T16:00:00Z",
     "zernio_id": "6af39c7029bc6e35ba0e5cbc",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-026-melee-diamonds": {
+    "at": "2026-11-18T16:00:00Z",
+    "zernio_id": "6af4f266f8ceb346bc22a514",
     "platforms": [
       "youtube"
     ]
