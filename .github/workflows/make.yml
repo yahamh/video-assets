@@ -72,8 +72,17 @@ jobs:
           key: models-${{ hashFiles('requirements.txt') }}
       - name: Tools
         if: steps.todo.outputs.stories != ''
+        # 11 Nov 2026: run 71 sat in this step for 69 minutes while Ubuntu's mirror could not be reached, then failed,
+        # and nothing was made. apt now gives up on a stalled download after 30 s, tries three times, and the step
+        # stops after 25 minutes at the latest, so the next push can start a fresh run.
+        timeout-minutes: 25
         run: |
-          sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+          for attempt in 1 2 3; do
+            sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 update -q \
+              && sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 install -y -q ffmpeg && break
+            [ "$attempt" = 3 ] && exit 1
+            sleep 30
+          done
           pip install -q torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
           pip install -q -r requirements.txt
           npm ci
