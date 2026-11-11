@@ -1,0 +1,185 @@
+{
+  "id": "127-a-prince-sent-her-a-painted-eye",
+  "number": 127,
+  "title": "A prince sent her a painted eye",
+  "topic": "lovers eye miniature prince of wales fitzherbert",
+  "style": "paper",
+  "plate": "Lover's eyes",
+  "music": "music-127.wav",
+  "hook": {
+    "text": "A prince sent her a painted eye.",
+    "gold": [
+      "prince",
+      "eye."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A prince sent her a painted eye.",
+      "scene": {
+        "kind": "hook",
+        "show": "brooch",
+        "shape": "oval",
+        "tone": "#4f8fd0",
+        "metal": "yellow",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 1785, the Prince of Wales wrote to Maria Fitzherbert.",
+      "say": "In seventeen eighty-five, the Prince of Wales wrote to Maria Fitzherbert.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Prince of Wales",
+        "role": "Wrote to Maria Fitzherbert",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#2a3f7a",
+            "hair": "side",
+            "hairColor": "#e8e2d4",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#8a3a5a",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3dcc6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "With his letter came a tiny eye painted by Richard Cosway.",
+      "scene": {
+        "kind": "reveal",
+        "label": "Cosway's eye",
+        "color": "#f7c23a",
+        "item": "brooch",
+        "shape": "oval",
+        "tone": "#4f8fd0",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Because she was Catholic, British law barred their marriage.",
+      "scene": {
+        "kind": "title",
+        "text": "Catholic",
+        "sub": "Because she was",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Only people close to the wearer could tell whose eye it was.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A Georgian lady",
+        "role": "Wearing a secret",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#2f6a6a",
+            "hair": "updo",
+            "hairColor": "#3a2a22",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "jewel": "pendant"
+          }
+        ],
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The prince is said to have started a fashion for such eyes.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#4f8fd0",
+        "metal": "yellow",
+        "label": "New fashion",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Artists painted them in watercolor on ivory, often about an inch tall.",
+      "scene": {
+        "kind": "title",
+        "text": "An inch",
+        "sub": "Often about",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Some were framed in gold and seed pearls.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#4f8fd0",
+        "metal": "yellow",
+        "pearls": true,
+        "label": "Seed pearls",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "About a thousand are known to survive.",
+      "scene": {
+        "kind": "title",
+        "text": "1,000",
+        "sub": "About",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The biggest known collection, in Alabama, holds about a hundred.",
+      "scene": {
+        "kind": "reveal",
+        "label": "About 100",
+        "color": "#4cc3a8",
+        "item": "brooch",
+        "shape": "oval",
+        "tone": "#4f8fd0",
+        "metal": "yellow"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A prince sent her a painted eye. In 1785, the Prince of Wales wrote to Maria Fitzherbert, and with his letter came a tiny eye painted by Richard Cosway. Because she was Catholic, British law barred their marriage. Only people close to the wearer could tell whose eye it was, and the prince is said to have started a fashion for such eyes. Artists painted them in watercolor on ivory, often about an inch tall, and some were framed in gold and seed pearls. About a thousand are known to survive, and the biggest known collection, in Alabama, holds about a hundred.",
+    "hashtags": [
+      "#loverseye",
+      "#georgianjewelry",
+      "#antiquejewelry",
+      "#brooch",
+      "#princeofwales"
+    ]
+  },
+  "sources": [
+    "https://artfixdaily.com/artwire/release/4208-the-birmingham-museum-of-art-premiers-the-look-of-love",
+    "https://daily.jstor.org/18th-century-lovers-exchanged-portraits-of-their-eyes/",
+    "https://www.christies.com.cn/lot/lot-6083876",
+    "https://www.salon.com/2012/01/21/the_secret_history_of_lovers_eyes/",
+    "https://hyperallergic.com/the-18th-century-english-craze-for-one-eyed-portraits/",
+    "https://4cs.gia.edu/en-us/blog/secret-messages-jewelry-lovers-eye/",
+    "https://www.metmuseum.org/art/collection/search/825835",
+    "https://americanart.si.edu/artwork/eye-miniature-elliptical-ivory-box-38412",
+    "https://www.candicehern.com/regencyworld/lovers-eye-brooches-origin/",
+    "https://americanart.si.edu/collections/search/artwork/?id=24682",
+    "https://www.metmuseum.org/art/collection/search/19586",
+    "https://new.artsmia.org/press/the-look-of-love-eye-miniatures-from-the-skier-collection",
+    "https://www.antiquetrader.com/the-look-of-love-miniature-eye-paintings-once-exchanged-as-secret-romantic-tokens",
+    "https://www.atlasobscura.com/articles/lovers-eye-jewelry"
+  ]
+}

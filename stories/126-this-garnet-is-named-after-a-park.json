@@ -1,0 +1,154 @@
+{
+  "id": "126-this-garnet-is-named-after-a-park",
+  "number": 126,
+  "title": "This garnet is named after a park",
+  "topic": "tsavorite green garnet tsavo bridges tiffany",
+  "style": "lowpoly",
+  "music": "music-126.wav",
+  "hook": {
+    "text": "This garnet is named after a park.",
+    "gold": [
+      "garnet",
+      "park."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This garnet is named after a park.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#2fae62"
+      }
+    },
+    {
+      "text": "Tsavorite is a variety of garnet colored green by vanadium and chromium.",
+      "say": "Sav-uh-rite is a variety of garnet colored green by vanadium and chromium.",
+      "scene": {
+        "kind": "title",
+        "text": "Tsavorite",
+        "sub": "A green garnet called"
+      }
+    },
+    {
+      "text": "Its color can rival emerald, with more fire and fewer inclusions.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fae62",
+        "label": "Like emerald"
+      }
+    },
+    {
+      "text": "Campbell Bridges found the green garnet near Komolo, Tanzania, in about 1967.",
+      "say": "Campbell Bridges found the green garnet near Koh-MOH-loh, Tanzania, in about nineteen sixty-seven.",
+      "scene": {
+        "kind": "mine",
+        "place": "Komolo, Tanzania",
+        "tone": "#2fae62",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "After Tanzania took over its mines, he registered claims in Kenya.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Campbell Bridges",
+        "role": "Claims in Kenya",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a6a3a",
+            "hair": "short",
+            "hairColor": "#6a4a2a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Those claims lay near Tsavo National Park.",
+      "say": "Those claims lay near Sah-voh National Park.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#2fae62",
+        "label": "Near Tsavo, Kenya"
+      }
+    },
+    {
+      "text": "Bridges and Tiffany named the gem tsavorite after that park.",
+      "say": "Bridges and Tiffany named the gem Sav-uh-rite after that park.",
+      "scene": {
+        "kind": "title",
+        "text": "Tsavo Park",
+        "sub": "Named for"
+      }
+    },
+    {
+      "text": "Tiffany began promoting the gem in 1974.",
+      "say": "Tiffany began promoting the gem in nineteen seventy-four.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#2fae62",
+        "metal": "yellow",
+        "label": "Tiffany, 1974"
+      }
+    },
+    {
+      "text": "Cut stones over two carats are rare.",
+      "scene": {
+        "kind": "title",
+        "text": "2 carats",
+        "sub": "Cut stones over"
+      }
+    },
+    {
+      "text": "The Lion of Merelani, found in 2017, weighs about 117 carats.",
+      "say": "The Lion of Meh-reh-LAH-nee, found in twenty seventeen, weighs about one hundred seventeen carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fae62",
+        "halo": "#e8d27a",
+        "label": "117 carats"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This garnet is named after a park. Tsavorite is a variety of garnet colored green by vanadium and chromium, and its color can rival emerald, with more fire and fewer inclusions. Campbell Bridges found the green garnet near Komolo, Tanzania, in about 1967. After Tanzania took over its mines, he registered claims in Kenya, near Tsavo National Park. Bridges and Tiffany named the gem tsavorite after that park, and Tiffany began promoting it in 1974. Cut stones over two carats are rare. The Lion of Merelani, found in 2017, weighs about 117 carats.",
+    "hashtags": [
+      "#tsavorite",
+      "#garnet",
+      "#kenya",
+      "#tiffany",
+      "#greengems"
+    ]
+  },
+  "sources": [
+    "https://gia.edu/gems-gemology/winter-2017-gemnews-celebrating-years-tsavorite",
+    "https://agta.org/from-prism-volume-1-2023-map-the-mine-green-gem-boom-bridges-tsavorite-in-kenya/",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002920",
+    "https://www.jewellermagazine.com/Article/13647/Gemmologists-who-changed-the-game-Campbell-Bridges",
+    "https://gia.edu/tucson2013-bruce-bridges",
+    "https://gemstone.org/Tsavorite",
+    "https://www.edelsteine.at/en/glossaries/lexicon/tsavolite-tsavorite-garnet/",
+    "https://minerals.net/gemstone/tsavorite",
+    "https://www.gemsociety.org/article/tsavorite",
+    "https://rapaport.com/magazine-article/true-green/",
+    "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2023/04/20/the-story-behind-the-smithsonians-newest-gem-the-exquisite-lion-of-merelani/",
+    "https://gjepc.org/solitaire/?p=10885"
+  ]
+}

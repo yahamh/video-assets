@@ -1,0 +1,149 @@
+{
+  "id": "128-the-timur-ruby-is-not-a-ruby",
+  "number": 128,
+  "title": "The Timur Ruby is not a ruby",
+  "topic": "timur ruby spinel queen victoria necklace",
+  "music": "music-128.wav",
+  "hook": {
+    "text": "The Timur Ruby is not a ruby.",
+    "gold": [
+      "not",
+      "ruby."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Timur Ruby is not a ruby.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#d1233f"
+      }
+    },
+    {
+      "text": "It is actually a spinel, which is a different mineral from ruby.",
+      "scene": {
+        "kind": "title",
+        "text": "A spinel",
+        "sub": "It is actually"
+      }
+    },
+    {
+      "text": "Names and dates of several royal owners are engraved on it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d1233f",
+        "label": "Names engraved"
+      }
+    },
+    {
+      "text": "The earliest names the Mughal emperor Jahangir, in 1612.",
+      "say": "The earliest names the Mughal emperor Jahangir, in sixteen twelve.",
+      "scene": {
+        "kind": "title",
+        "text": "1612",
+        "sub": "The earliest date"
+      }
+    },
+    {
+      "text": "In 1851 the East India Company presented the stone to Queen Victoria.",
+      "say": "In eighteen fifty-one the East India Company presented the stone to Queen Victoria.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Lahore",
+          "x": 0.78,
+          "y": 0.58
+        },
+        "to": {
+          "name": "London",
+          "x": 0.22,
+          "y": 0.32
+        },
+        "icon": "ship",
+        "label": "Timur Ruby"
+      }
+    },
+    {
+      "text": "Victoria's journal called the stones even more remarkable than the Koh-i-Noor.",
+      "say": "Victoria's journal called the stones even more remarkable than the Koh-ee-noor.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Victoria",
+        "role": "Wrote in her journal, 1851",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#2a4a8a",
+            "hair": "updo",
+            "hairColor": "#5a4030",
+            "skin": "#f3dcc6",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1853 Garrard set it in a gold and diamond necklace.",
+      "say": "In eighteen fifty-three Garrard set it in a gold and diamond necklace.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "cushion",
+        "tone": "#d1233f",
+        "metal": "yellow",
+        "label": "Garrard, 1853"
+      }
+    },
+    {
+      "text": "Three smaller spinels share the necklace with it, along with diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d1233f",
+        "halo": "#f3d27a",
+        "label": "Three more"
+      }
+    },
+    {
+      "text": "Some sources list it at about 352 carats, others at 361.",
+      "say": "Some sources list it at about three hundred fifty-two carats, others at three hundred sixty-one.",
+      "scene": {
+        "kind": "title",
+        "text": "352 or 361",
+        "sub": "Its carats, by source"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Timur Ruby is not a ruby. It is actually a spinel, which is a different mineral from ruby, and names and dates of several royal owners are engraved on it. The earliest names the Mughal emperor Jahangir, in 1612. In 1851 the East India Company presented the stone to Queen Victoria, and Victoria's journal called the stones even more remarkable than the Koh-i-Noor. In 1853 Garrard set it in a gold and diamond necklace, and three smaller spinels share the necklace with it, along with diamonds. Some sources list it at about 352 carats, others at 361.",
+    "hashtags": [
+      "#timurruby",
+      "#spinel",
+      "#queenvictoria",
+      "#royaljewels",
+      "#britishcrownjewels"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/topic/Timur-Ruby",
+    "https://www.rct.uk/collection/exhibitions/victoria-albert-art-love/the-queens-gallery-buckingham-palace/the-timur-ruby-necklace",
+    "https://mughallibrary.com/images/2133/",
+    "https://gemselect.com/other-info/timur-ruby.php",
+    "https://valentinmagro.com/gemstones/famous-gems/spinel/",
+    "https://thecourtjeweller.com/2021/08/the-timur-ruby-necklace.html",
+    "https://livehistoryindia.com/story/art-history/the-fabulous-timur-ruby",
+    "https://skyjems.ca/blogs/the-curators-journal/the-splendour-of-spinel-part-5-mysterious-marvels",
+    "https://dia-designs.com/blogs/news/julys-birthstone-did-you-know-the-historic-timur-ruby-is-not-a-ruby-at-all",
+    "https://gemcal.com/five-legendary-spinels/"
+  ]
+}
