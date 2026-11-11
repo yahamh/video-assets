@@ -1,0 +1,206 @@
+{
+  "id": "130-this-tiara-was-an-18th-birthday-gift",
+  "number": 130,
+  "title": "This tiara was an 18th birthday gift",
+  "topic": "cartier halo tiara 1936 queen mother",
+  "style": "paper",
+  "plate": "Halo tiara",
+  "theme": "sky",
+  "music": "music-130.wav",
+  "hook": {
+    "text": "This tiara was an 18th birthday gift.",
+    "gold": [
+      "tiara",
+      "gift."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This tiara was an 18th birthday gift.",
+      "say": "This tiara was an eighteenth birthday gift.",
+      "scene": {
+        "kind": "hook",
+        "show": "tiara",
+        "shape": "round",
+        "metal": "white",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In 1936 the Duke of York bought this tiara for his wife.",
+      "say": "In nineteen thirty-six the Duke of York bought this tiara for his wife.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Duke of York",
+        "role": "Bought it in 1936",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#2a3f5a",
+            "hair": "side",
+            "hairColor": "#6a5a3a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a4a8a",
+            "hair": "updo",
+            "hairColor": "#4a3a2a",
+            "skin": "#f3dcc6",
+            "expression": "smile",
+            "jewel": "pearls"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Cartier London sold it about three weeks before he became king.",
+      "say": "Car-tee-AY London sold it about three weeks before he became king.",
+      "scene": {
+        "kind": "reveal",
+        "item": "tiara",
+        "shape": "round",
+        "metal": "white",
+        "label": "Cartier, 1936",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It holds 739 brilliant-cut diamonds and 149 baguette-cut diamonds.",
+      "say": "It holds seven hundred thirty-nine brilliant-cut diamonds and one hundred forty-nine baguette-cut diamonds.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "round",
+        "metal": "white",
+        "label": "739 + 149",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A band of 16 graduated scrolls forms the design.",
+      "say": "A band of sixteen graduated scrolls forms the design.",
+      "scene": {
+        "kind": "title",
+        "text": "16 scrolls",
+        "sub": "A band of",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "In 1944 the Queen Mother gave it to Princess Elizabeth at eighteen.",
+      "say": "In nineteen forty-four the Queen Mother gave it to Princess Elizabeth at eighteen.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Queen Mother",
+        "role": "Gave it in 1944",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#6a9ac0",
+            "hair": "updo",
+            "hairColor": "#6a5a4a",
+            "skin": "#f3dcc6",
+            "expression": "smile",
+            "jewel": "pearls"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#2f6a8a",
+            "hair": "side",
+            "hairColor": "#5a3a22",
+            "skin": "#f3dcc6",
+            "expression": "proud"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Princess Margaret wore it at the coronation in June 1953.",
+      "say": "Princess Margaret wore it at the coronation in June nineteen fifty-three.",
+      "scene": {
+        "kind": "reveal",
+        "item": "tiara",
+        "shape": "round",
+        "metal": "white",
+        "label": "Margaret, 1953",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Princess Anne wore it from 1967 until her wedding in 1973.",
+      "say": "Princess Anne wore it from nineteen sixty-seven until her wedding in nineteen seventy-three.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Princess Anne",
+        "role": "1967 to 1973",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#8a2f3a",
+            "hair": "side",
+            "hairColor": "#5a3a22",
+            "skin": "#f3dcc6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In 2011 the Queen lent it to Catherine Middleton for her wedding.",
+      "say": "In twenty eleven the Queen lent it to Catherine Middleton for her wedding.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "round",
+        "metal": "white",
+        "label": "Lent, 2011",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "She wore it to hold her wedding veil in place.",
+      "scene": {
+        "kind": "title",
+        "text": "Her veil",
+        "sub": "It held",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This tiara was an 18th birthday gift. In 1936 the Duke of York bought this tiara for his wife, and Cartier London sold it about three weeks before he became king. It holds 739 brilliant-cut diamonds and 149 baguette-cut diamonds, in a band of 16 graduated scrolls. In 1944 the Queen Mother gave it to Princess Elizabeth at eighteen. Princess Margaret wore it at the coronation in June 1953, and Princess Anne wore it from 1967 until her wedding in 1973. In 2011 the Queen lent it to Catherine Middleton for her wedding, and she wore it to hold her wedding veil in place.",
+    "hashtags": [
+      "#cartier",
+      "#halotiara",
+      "#tiaras",
+      "#royalwedding",
+      "#britishroyals"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/themes/exhibitions/the-royal-wedding-dress/ballroom/queen-elizabeths-halo-tiara",
+    "https://thejewelleryeditor.com/2011/05/first-images-of-kates-wedding-tiara-the-cartier-halo",
+    "https://www.thecourtjeweller.com/2022/04/the-queens-cartier-halo-tiara.html",
+    "https://the-cartiers.com/glossary/cartier-halo-tiara/",
+    "https://www.newsweek.com/princess-kate-glittering-wedding-tiara-1894202",
+    "https://www.cbsnews.com/news/kate-middleton-wears-cartier-tiara-lent-by-queen",
+    "https://www.marieclaire.com/celebrity/royals/every-tiara-princess-kate-has-worn/",
+    "https://jckonline.com/?p=10233",
+    "https://www.womanandhome.com/life/royal-news/this-is-one-of-the-most-iconic-royal-tiaras-ever-but-only-four-people-have-ever-worn-it-publicly-and-queen-elizabeth-wasnt-one-of-them",
+    "https://www.today.com/popculture/kate-middletons-tiara-something-borrowed-something-old-really-old-wbna42827890",
+    "https://marieclaire.co.uk/news/celebrity-news/kate-middleton-wedding-tiara-695732",
+    "https://www.thejewelleryeditor.com/2011/04/kate-middleton-wears-cartier-halo-tiara"
+  ]
+}

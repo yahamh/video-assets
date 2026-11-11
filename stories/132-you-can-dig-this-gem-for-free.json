@@ -1,0 +1,163 @@
+{
+  "id": "132-you-can-dig-this-gem-for-free",
+  "number": 132,
+  "title": "You can dig this gem for free",
+  "topic": "oregon sunstone labradorite copper plush",
+  "style": "lowpoly",
+  "music": "music-132.wav",
+  "hook": {
+    "text": "You can dig this gem for free.",
+    "gold": [
+      "dig",
+      "free."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "You can dig this gem for free.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#f2873a"
+      }
+    },
+    {
+      "text": "Oregon sunstone became the state gemstone in 1987.",
+      "say": "Oregon sunstone became the state gemstone in nineteen eighty-seven.",
+      "scene": {
+        "kind": "title",
+        "text": "Sunstone",
+        "sub": "Oregon's state gem"
+      }
+    },
+    {
+      "text": "Visitors can collect it at a public site in Lake County.",
+      "scene": {
+        "kind": "mine",
+        "place": "Lake County, Oregon",
+        "tone": "#f2873a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The rules allow personal use and hand tools only.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A visitor",
+        "role": "Hand tools only",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a5a3a",
+            "hair": "short",
+            "hairColor": "#4a3a2a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Sunstone is a calcium-rich feldspar called labradorite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#f2873a",
+        "label": "Labradorite"
+      }
+    },
+    {
+      "text": "Tiny platelets of copper inside it make it glitter.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper",
+        "sub": "Tiny platelets of"
+      }
+    },
+    {
+      "text": "That glitter is called schiller or aventurescence.",
+      "say": "That glitter is called SHILL-er or uh-ven-chur-ES-ens.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f2873a",
+        "halo": "#ffd9a0",
+        "label": "Schiller"
+      }
+    },
+    {
+      "text": "Watermelon stones are red in the middle and green outside.",
+      "scene": {
+        "kind": "title",
+        "text": "Watermelon",
+        "sub": "Some stones are called"
+      }
+    },
+    {
+      "text": "Deep red stones are rare, and Oregon sunstone is untreated.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#d9402c",
+        "metal": "yellow",
+        "label": "Deep red"
+      }
+    },
+    {
+      "text": "The largest rough found weighed 1,093 carats, at Dust Devil.",
+      "say": "The largest rough found weighed one thousand ninety-three carats, at Dust Devil.",
+      "scene": {
+        "kind": "mine",
+        "place": "Dust Devil mine, Oregon",
+        "tone": "#f2873a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Oregon is the only verified source of gem-quality copper sunstone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f2873a",
+        "label": "Only Oregon"
+      }
+    }
+  ],
+  "post": {
+    "caption": "You can dig this gem for free. Oregon sunstone became the state gemstone in 1987, and visitors can collect it at a public site in Lake County. The rules allow personal use and hand tools only. Sunstone is a calcium-rich feldspar called labradorite, and tiny platelets of copper inside it make it glitter. That glitter is called schiller or aventurescence. Watermelon stones are red in the middle and green outside. Deep red stones are rare, and Oregon sunstone is untreated. The largest rough found weighed 1,093 carats, at Dust Devil, and Oregon is the only verified source of gem-quality copper sunstone.",
+    "hashtags": [
+      "#oregonsunstone",
+      "#sunstone",
+      "#oregon",
+      "#labradorite",
+      "#stategem"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/fa13-oregon-sunstone-pay",
+    "https://www.gia.edu/gems-gemology/winter-1991-sunstone-oregon-johnston",
+    "https://www.rockngem.com/oregon-sunstone-formation-varieties/",
+    "https://www-26.blm.gov/visit/sunstone-collection-area",
+    "https://www.npshistory.com/brochures/blm/or/sunstone-collection-2005.pdf",
+    "https://oregondiscovery.com/sunstone-public-collection-area",
+    "https://pubs.oregon.gov/dogami/og/OBv34n12.pdf",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002883",
+    "https://oregonencyclopedia.org/articles/oregon_sunstone/",
+    "https://sos.oregon.gov/blue-book/explore/Pages/almanac-d-h.aspx",
+    "https://www.gia.edu/gems-gemology/spring-2015-gemnews-oregon-sunstone-update",
+    "https://agta.org/whats-next-for-dust-devil-minings-oregon-sunstone-now-that-don-buford-sold-his-claim/",
+    "https://www.jckonline.com/?p=30891",
+    "https://www.gia.edu/doc/fall-2023-oregon-sunstone-effects.pdf",
+    "https://www.gia.edu/sunstone"
+  ]
+}

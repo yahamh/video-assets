@@ -1,0 +1,182 @@
+{
+  "id": "131-napoleons-sword-once-held-this-diamond",
+  "number": 131,
+  "title": "Napoleon's sword once held this diamond",
+  "topic": "regent diamond pitt golconda napoleon louvre",
+  "music": "music-131.wav",
+  "hook": {
+    "text": "Napoleon's sword once held this diamond.",
+    "gold": [
+      "Napoleon's",
+      "sword"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Napoleon's sword once held this diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2"
+      }
+    },
+    {
+      "text": "It is named for a regent of France who once owned it.",
+      "scene": {
+        "kind": "title",
+        "text": "The Regent",
+        "sub": "This diamond is called"
+      }
+    },
+    {
+      "text": "It was reportedly found at Golconda, India, around 1698.",
+      "say": "It was reportedly found at Golconda, India, around sixteen ninety-eight.",
+      "scene": {
+        "kind": "mine",
+        "place": "Golconda, India",
+        "tone": "#cfe3f2",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The rough stone weighed more than 400 carats.",
+      "say": "The rough stone weighed more than four hundred carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "label": "Over 400 carats"
+      }
+    },
+    {
+      "text": "Thomas Pitt, governor of Madras, bought it around 1701.",
+      "say": "Thomas Pitt, governor of Madras, bought it around seventeen oh one.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "Thomas Pitt",
+        "role": "Governor of Madras",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a2e2e",
+            "hair": "side",
+            "hairColor": "#e4dccb",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Cutting it in London took about two years.",
+      "scene": {
+        "kind": "cut",
+        "phase": "result",
+        "place": "London",
+        "pieces": [
+          {
+            "shape": "cushion",
+            "carats": 1200,
+            "tone": "#cfe3f2"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The finished cushion cut stone weighs about 140 carats.",
+      "say": "The finished cushion cut stone weighs about one hundred forty carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "label": "140 carats"
+      }
+    },
+    {
+      "text": "In 1717 Pitt sold it to Philippe, Duke of Orléans.",
+      "say": "In seventeen seventeen Pitt sold it to Philippe, Duke of Or-lay-AH.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Philippe",
+        "role": "Regent of France",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#2f4a8a",
+            "hair": "side",
+            "hairColor": "#e4dccb",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1722 it was set in Louis XV's coronation crown.",
+      "say": "In seventeen twenty-two it was set in Louis the Fifteenth's coronation crown.",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Louis XV, 1722"
+      }
+    },
+    {
+      "text": "It sat on Napoleon's sword at his 1804 coronation.",
+      "say": "It sat on Napoleon's sword at his eighteen oh four coronation.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Napoleon",
+        "role": "Emperor of the French",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#23305a",
+            "hair": "short",
+            "hairColor": "#5a4632",
+            "skin": "#efc9a6",
+            "expression": "proud"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The Regent has been in the Louvre's collection since 1887.",
+      "say": "The Regent has been in the Louvre's collection since eighteen eighty-seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1887",
+        "sub": "In the Louvre since"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Napoleon's sword once held this diamond. The Regent is named for a regent of France who once owned it. It was reportedly found at Golconda, India, around 1698, and the rough stone weighed more than 400 carats. Thomas Pitt, governor of Madras, bought it around 1701, and cutting it in London took about two years. The finished cushion cut stone weighs about 140 carats. In 1717 Pitt sold it to Philippe, Duke of Orléans. In 1722 it was set in Louis XV's coronation crown, and it sat on Napoleon's sword at his 1804 coronation. The Regent has been in the Louvre's collection since 1887.",
+    "hashtags": [
+      "#regentdiamond",
+      "#napoleon",
+      "#louvre",
+      "#golconda",
+      "#diamondhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.louvre.fr/en/ark:/53355/cl010103121",
+    "https://thediamondcollective.world/in/epic-diamonds-in/regent-diamond-origin-story/",
+    "https://www.britannica.com/topic/Regent-Diamond",
+    "https://www.gemsociety.org/article/regent-diamond/",
+    "https://panoramadelart.com/analyse/le-regent",
+    "https://www.britannica.com/biography/Thomas-Pitt",
+    "https://berkshirehistory.com/bios/tpitt.html",
+    "https://tontinecoffeehouse.com/2024/07/15/the-pitt-diamond/",
+    "https://api-www.louvre.fr/sites/default/files/2022-06/TRANSCRIPTION-podcast-les-enquetes-du-louvre-le-regent.pdf",
+    "https://www.futura-sciences.com/planete/dossiers/geologie-diamants-rares-envoutants-772/page/10/",
+    "https://www.geriwalton.com/the-regent-diamond/"
+  ]
+}

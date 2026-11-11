@@ -1,0 +1,165 @@
+{
+  "id": "129-sunlight-can-fade-this-pink-gem",
+  "number": 129,
+  "title": "Sunlight can fade this pink gem",
+  "topic": "kunzite spodumene pala baskerville",
+  "style": "lowpoly",
+  "music": "music-129.wav",
+  "hook": {
+    "text": "Sunlight can fade this pink gem.",
+    "gold": [
+      "fade",
+      "pink"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sunlight can fade this pink gem.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#e08ad8"
+      }
+    },
+    {
+      "text": "Kunzite can fade when exposed to heat and bright light.",
+      "say": "KUNTS-ite can fade when exposed to heat and bright light.",
+      "scene": {
+        "kind": "title",
+        "text": "Kunzite",
+        "sub": "This gem is called"
+      }
+    },
+    {
+      "text": "It was found near Pala, California, in 1902.",
+      "say": "It was found near Pah-la, California, in nineteen oh two.",
+      "scene": {
+        "kind": "mine",
+        "place": "Pala, California",
+        "tone": "#e08ad8",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Chemist Charles Baskerville named it after George Kunz of Tiffany.",
+      "say": "Chemist Charles Baskerville named it after George Kunts of Tiffany.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Charles Baskerville",
+        "role": "Named it kunzite",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a4a6a",
+            "hair": "side",
+            "hairColor": "#6a5a4a",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Kunzite is the pink to lilac variety of the mineral spodumene.",
+      "say": "KUNTS-ite is the pink to lilac variety of the mineral SPOJ-oo-meen.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#e08ad8",
+        "label": "Spodumene"
+      }
+    },
+    {
+      "text": "Trace amounts of manganese give it that color.",
+      "scene": {
+        "kind": "title",
+        "text": "Manganese",
+        "sub": "Trace amounts of"
+      }
+    },
+    {
+      "text": "Its color changes with the viewing direction, an effect called pleochroism.",
+      "say": "Its color changes with the viewing direction, an effect called plee-oh-KRO-izm.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b98ae0",
+        "label": "Pleochroism"
+      }
+    },
+    {
+      "text": "Cutters usually orient it to show the deepest pink through the top.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#e08ad8",
+        "metal": "white",
+        "label": "Face-up color"
+      }
+    },
+    {
+      "text": "Its hardness is 6.5 to 7, with two perfect cleavage directions.",
+      "say": "Its hardness is six and a half to seven, with two perfect cleavage directions.",
+      "scene": {
+        "kind": "title",
+        "text": "6.5 to 7",
+        "sub": "Mohs hardness"
+      }
+    },
+    {
+      "text": "Brazil and Afghanistan are two of its main sources.",
+      "scene": {
+        "kind": "mine",
+        "place": "Brazil and Afghanistan",
+        "tone": "#e08ad8",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The Smithsonian holds an 880 carat kunzite from Brazil.",
+      "say": "The Smithsonian holds an eight hundred eighty carat KUNTS-ite from Brazil.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e08ad8",
+        "halo": "#f6d5f2",
+        "label": "880 carats"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Sunlight can fade this pink gem. Kunzite can fade when exposed to heat and bright light. It was found near Pala, California, in 1902, and chemist Charles Baskerville named it after George Kunz of Tiffany. Kunzite is the pink to lilac variety of the mineral spodumene, and trace amounts of manganese give it that color. Its color changes with the viewing direction, an effect called pleochroism, so cutters usually orient it to show the deepest pink through the top. Its hardness is 6.5 to 7, with two perfect cleavage directions. Brazil and Afghanistan are two of its main sources, and the Smithsonian holds an 880 carat heart-shaped kunzite from Brazil.",
+    "hashtags": [
+      "#kunzite",
+      "#pinkgemstone",
+      "#spodumene",
+      "#gemology",
+      "#california"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/kunzite-history-lore",
+    "https://palagems.com/kunzite-conklin",
+    "https://msaweb.org/AmMin/AM18/AM18_91.pdf",
+    "https://www.mindat.org/article.php/157/The+Fabulous+Jewels+of+Old+Pala+and+the+Mesa+Grande+by+Harold+O.+Weight+1953",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10027002",
+    "https://www.gia.edu/kunzite-description",
+    "https://www.britannica.com/science/spodumene",
+    "https://www.gia.edu/kunzite/gem-overview",
+    "https://www.gia.edu/gia-website/kunzite-quality-factors",
+    "https://www.naturalhistory.si.edu/node/14073",
+    "https://minerals.net/gemstone/kunzite",
+    "https://www.gemstones.com/gemopedia/kunzite",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002857",
+    "https://www.gemguide.com/kunzite-a-rosy-spodumene-with-an-american-name/"
+  ]
+}

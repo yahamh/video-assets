@@ -1,0 +1,199 @@
+{
+  "id": "lesson-026-melee-diamonds",
+  "series": "lesson",
+  "number": 26,
+  "title": "What melee diamonds are",
+  "topic": "melee diamonds",
+  "music": "music-lesson-026.wav",
+  "hook": {
+    "text": "Tiny diamonds like these are called melee.",
+    "gold": [
+      "melee."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiny diamonds like these are called melee.",
+      "say": "Tiny diamonds like these are called MEL-ee.",
+      "scene": {
+        "kind": "compare",
+        "before": "ring-1d-input.webp",
+        "after": "ring-1d-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "Melee is a French word that means a mixture.",
+      "say": "MEL-ee is a French word that means a mixture.",
+      "scene": {
+        "kind": "photo",
+        "src": "ring-1d-yellow-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.28,
+          "k": 2.0
+        },
+        "label": "A French word"
+      }
+    },
+    {
+      "text": "Melee usually means a diamond under 0.2 carat.",
+      "say": "MEL-ee usually means a diamond under one fifth of a carat.",
+      "scene": {
+        "kind": "title",
+        "text": "0.2 carat",
+        "sub": "Usually under"
+      }
+    },
+    {
+      "text": "A 1 millimeter round diamond weighs about 0.005 carat.",
+      "say": "A one millimeter round diamond weighs about five thousandths of a carat.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "focus": {
+          "x": 0.75,
+          "y": 0.52,
+          "k": 1.9
+        },
+        "label": "Pavé shoulders"
+      }
+    },
+    {
+      "text": "Dealers sort melee by size with sieves.",
+      "say": "Dealers sort MEL-ee by size with sieves.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "focus": {
+          "x": 0.2,
+          "y": 0.6,
+          "k": 2.4
+        },
+        "label": "Sorted by size"
+      }
+    },
+    {
+      "text": "Sorted stones are sold in parcels of similar size and color.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.6
+        },
+        "label": "Matched stones"
+      }
+    },
+    {
+      "text": "Full cut melee has 57 or 58 facets, depending on the culet.",
+      "say": "Full cut MEL-ee has fifty-seven or fifty-eight facets, depending on the KYOO-lit.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-front-render.webp",
+        "focus": {
+          "x": 0.3,
+          "y": 0.35,
+          "k": 1.8
+        },
+        "label": "Full cut"
+      }
+    },
+    {
+      "text": "A single cut stone has only 17 or 18 facets.",
+      "say": "A single cut stone has only seventeen or eighteen facets.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "focus": {
+          "x": 0.45,
+          "y": 0.65,
+          "k": 1.8
+        },
+        "label": "Single cut"
+      }
+    },
+    {
+      "text": "Pavé bands and halos are built from melee.",
+      "say": "Pavay bands and halos are built from MEL-ee.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "mix585-render-top.webp",
+          "pendant-pear-render.webp"
+        ],
+        "labels": [
+          "Pavé band",
+          "Halo"
+        ]
+      }
+    },
+    {
+      "text": "A halo of melee can make a center stone look larger.",
+      "say": "A halo of MEL-ee can make a center stone look larger.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.58,
+          "k": 1.5
+        },
+        "label": "A halo"
+      }
+    },
+    {
+      "text": "A render shows a client the pavé and the center stone,",
+      "say": "A render shows a client the pavay and the center stone,",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before any stone is set.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render details: what melee diamonds are",
+    "caption": "Melee is the trade word for very small diamonds, usually under 0.2 carat, sorted by size with sieves and sold in parcels of similar size and color. They are cut with 57 or 58 facets, or the simpler single cut with 17 or 18, and they fill pavé bands and halos. A halo of melee can make a center stone look larger. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#melee",
+      "#diamonds",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#pave"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/melee-diamonds-tiny-diamonds-big-impact/",
+    "https://www.gia.edu/UK-EN/design-with-melee",
+    "https://whiteflash.com/diamond-education/melee-diamonds",
+    "https://blog.brilliance.com/diamonds/what-are-melee-diamonds",
+    "https://rapaport.com/magazine-article/the-melee-market/",
+    "https://columbiagemhouse.com/blogs/news/melee-madness",
+    "https://sylvans.com/blogs/news/everything-you-wanted-to-know-about-melee-diamonds",
+    "https://www.langerman-diamonds.com/natural-color-diamonds/melee-diamonds",
+    "https://washingtondiamond.com/blogs/the-diamond-editorial/2mm-loose-diamonds-complete-guide",
+    "https://blog.stuller.com/wp-content/uploads/2025/05/MM-CT-Chart.pdf",
+    "https://whiteflash.com/diamond-education/mm-to-carat-weight-conversion-diamonds-guide"
+  ]
+}
