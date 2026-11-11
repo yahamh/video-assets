@@ -1,0 +1,189 @@
+{
+  "id": "123-this-quartz-is-two-gems-in-one",
+  "number": 123,
+  "title": "This quartz is two gems in one",
+  "topic": "ametrine bolivia anahi mine",
+  "style": "lowpoly",
+  "music": "music-123.wav",
+  "hook": {
+    "text": "This quartz is two gems in one.",
+    "gold": [
+      "two",
+      "gems"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This quartz is two gems in one.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#8a4fc0"
+      }
+    },
+    {
+      "text": "Ametrine is a quartz crystal with purple and gold zones.",
+      "scene": {
+        "kind": "title",
+        "text": "Purple and gold",
+        "sub": "Ametrine has"
+      }
+    },
+    {
+      "text": "Its name combines amethyst and citrine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#e8a82e",
+        "label": "Amethyst, citrine"
+      }
+    },
+    {
+      "text": "Iron in the crystal gives each zone its color.",
+      "scene": {
+        "kind": "title",
+        "text": "Iron",
+        "sub": "The colors come from"
+      }
+    },
+    {
+      "text": "Cut stones often show an even split between the two colors.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A gem cutter",
+        "role": "Splitting the colors",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#2f6a6a",
+            "hair": "short",
+            "hairColor": "#3a2a22",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It has a hardness of seven on the Mohs scale.",
+      "say": "It has a hardness of seven on the Mohs scale.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "emerald",
+        "tone": "#8a4fc0",
+        "metal": "yellow",
+        "label": "Hardness 7"
+      }
+    },
+    {
+      "text": "Commercial natural ametrine comes only from Bolivia's Anahí mine.",
+      "say": "Commercial natural ametrine comes only from Bolivia's Ah-nah-EE mine.",
+      "scene": {
+        "kind": "mine",
+        "place": "Anahí Mine, Bolivia",
+        "tone": "#8a4fc0",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Legend says a Spanish conquistador got the mine as a princess's dowry.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "The legend of Anahí",
+        "role": "A conquistador and a princess",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#6a2a2a",
+            "hair": "slick",
+            "hairColor": "#2a1e18",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "mustache"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#2f8a6a",
+            "hair": "updo",
+            "hairColor": "#1e1612",
+            "skin": "#d7a074",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He reportedly gave its stones to the Spanish crown.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Bolivia",
+          "x": 0.25,
+          "y": 0.78
+        },
+        "to": {
+          "name": "Spain",
+          "x": 0.72,
+          "y": 0.35
+        },
+        "icon": "ship",
+        "label": "Ametrine"
+      }
+    },
+    {
+      "text": "The mine was rediscovered in the 1960s.",
+      "say": "The mine was rediscovered in the nineteen sixties.",
+      "scene": {
+        "kind": "title",
+        "text": "The 1960s",
+        "sub": "Rediscovered in"
+      }
+    },
+    {
+      "text": "Ametrine returned to the market in the 1970s.",
+      "say": "Ametrine returned to the market in the nineteen seventies.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#8a4fc0",
+        "halo": "#e8a82e",
+        "label": "Back on sale"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This quartz is two gems in one. Ametrine is a quartz crystal with purple and gold zones, and its name combines amethyst and citrine. Iron in the crystal gives each zone its color, and cut stones often show an even split between the two colors. It has a hardness of seven on the Mohs scale, and commercial natural ametrine comes only from Bolivia's Anahí mine. Legend says a Spanish conquistador got the mine as a princess's dowry, and he reportedly gave its stones to the Spanish crown. The mine was rediscovered in the 1960s, and ametrine returned to the market in the 1970s.",
+    "hashtags": [
+      "#ametrine",
+      "#bolivia",
+      "#quartz",
+      "#gemstones",
+      "#amethyst"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/ametrine-history-lore",
+    "https://www.gia.edu/ametrine-description",
+    "https://www.gia.edu/ametrine",
+    "https://www.gia.edu/dam/migrated-assets/docs/doc1/the-anahi-ametrine-mine-bolivia.pdf",
+    "https://www.gia.edu/gems-gemology/spring-2009-anahi-ametrine-mine",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002887",
+    "https://www.mindat.org/show.php?id=7606",
+    "https://www.gemsociety.org/article/ametrine-jewelry-and-gemstone-information",
+    "https://gem-a.com/gem-hub/how-to-separate-natural-from-synthetic-ametrine-using-conventional-equipment/",
+    "https://www.gemstone.org/ametrine",
+    "https://www.wondermondo.com/anahi-mine-of-ametrine/",
+    "https://www.bolivianexpress.org/magazine-sub-item/94",
+    "https://geology.com/minerals/quartz/ametrine.shtml"
+  ]
+}

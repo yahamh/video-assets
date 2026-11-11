@@ -1,0 +1,190 @@
+{
+  "id": "124-vikings-paid-with-jewelry-cut-by-weight",
+  "number": 124,
+  "title": "Vikings paid with jewelry cut by weight",
+  "topic": "viking arm rings hack silver ring-giver",
+  "style": "paper",
+  "plate": "Viking silver",
+  "theme": "blush",
+  "music": "music-124.wav",
+  "hook": {
+    "text": "Vikings paid with jewelry cut by weight.",
+    "gold": [
+      "jewelry",
+      "weight."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Vikings paid with jewelry cut by weight.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "white",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Silver was paid by weight, so merchants carried small scales.",
+      "scene": {
+        "kind": "title",
+        "text": "By weight",
+        "sub": "Silver was paid",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Much of that silver arrived as Islamic coins from the east.",
+      "scene": {
+        "kind": "journey",
+        "from": {
+          "name": "Samarkand",
+          "x": 0.8,
+          "y": 0.55
+        },
+        "to": {
+          "name": "Denmark",
+          "x": 0.22,
+          "y": 0.3
+        },
+        "icon": "parcel",
+        "label": "Silver coins",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Arm rings turned silver into wealth a person could wear.",
+      "scene": {
+        "kind": "reveal",
+        "label": "Worn wealth",
+        "color": "#f7c23a",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "white"
+      }
+    },
+    {
+      "text": "When payment was due, a ring could be cut into pieces.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "name": "A Viking trader",
+        "role": "Cutting silver by weight",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#7a5230",
+            "hair": "slick",
+            "hairColor": "#c9a15a",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "beard"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Those pieces are known today as hack silver.",
+      "scene": {
+        "kind": "title",
+        "text": "Hack silver",
+        "sub": "Those pieces are called",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Lords also gave arm rings to followers as rewards.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "A Viking lord",
+        "role": "Giving rings as rewards",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#8a2f3a",
+            "hair": "side",
+            "hairColor": "#6a3a1e",
+            "skin": "#efc9a6",
+            "expression": "proud",
+            "facial": "beard"
+          }
+        ],
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "The Old English poem Beowulf calls a king a giver of rings.",
+      "scene": {
+        "kind": "reveal",
+        "label": "Ring-giver",
+        "color": "#5bb4e8",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "white"
+      }
+    },
+    {
+      "text": "Old Norse poets said ring-breaker for a generous leader.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A Norse poet",
+        "role": "Ring-breaker, a generous leader",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#2f6a52",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "facial": "mustache"
+          }
+        ],
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Merchants' small weights still turn up at Viking sites.",
+      "scene": {
+        "kind": "title",
+        "text": "Weights",
+        "sub": "Merchants' small",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Vikings paid with jewelry cut by weight. Silver was paid by weight, so merchants carried small scales, and much of that silver arrived as Islamic coins from the east. Arm rings turned silver into wealth a person could wear, and when payment was due, a ring could be cut into pieces. Those pieces are known today as hack silver. Lords also gave arm rings to followers as rewards, and the Old English poem Beowulf calls a king a giver of rings. Old Norse poets said ring-breaker for a generous leader. Merchants' small weights still turn up at Viking sites.",
+    "hashtags": [
+      "#vikings",
+      "#vikingjewelry",
+      "#silver",
+      "#armrings",
+      "#beowulf"
+    ]
+  },
+  "sources": [
+    "https://historiska.se/en/explore-history/history-hub/pseudo-arabic-on-a-viking-age-weight/",
+    "https://www.cambridge.org/core/journals/antiquity/article/an-early-medieval-dualcurrency-economy-bullion-and-coin-in-the-danelaw/BDF1EF25BDF025EEE237C06AC97CA1A3",
+    "https://emidsvikings.ac.uk/items/hacksilver",
+    "https://art.thewalters.org/object/57.467",
+    "https://api.vam.ac.uk/v2/object/O122082",
+    "https://artsandculture.google.com/asset/gold-arm-ring/fQEbZQvcJGK4rg",
+    "https://docs.verbix.com/ParallelTexts/Beowulf",
+    "https://www.heorot.dk/beowulf-rede-text.html",
+    "https://bosworthtoller.com/5352",
+    "https://books.openbookpublishers.com/10.11647/obp.0308/ch12.xhtml",
+    "https://www.voluspa.org/helgakvidahundingsbana116-20.htm",
+    "https://old-icelandic.vercel.app/word/baugbroti",
+    "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-silver-hoards-of-the-vikings/silvers-route-to-denmark-trading-with-the-arab-coins",
+    "https://www.sciencenorway.no/viking-age-archaeology-natural-science/over-a-span-of-150-years-a-billion-islamic-silver-coins-may-have-flowed-into-the-viking-world/2577163"
+  ]
+}

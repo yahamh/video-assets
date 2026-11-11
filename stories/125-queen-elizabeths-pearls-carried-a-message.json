@@ -1,0 +1,150 @@
+{
+  "id": "125-queen-elizabeths-pearls-carried-a-message",
+  "number": 125,
+  "title": "Queen Elizabeth's pearls carried a message",
+  "topic": "queen elizabeth i pearls portraits",
+  "music": "music-125.wav",
+  "hook": {
+    "text": "Queen Elizabeth's pearls carried a message.",
+    "gold": [
+      "pearls",
+      "message."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Queen Elizabeth's pearls carried a message.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl"
+      }
+    },
+    {
+      "text": "In her portraits, pearls symbolized her chastity.",
+      "scene": {
+        "kind": "title",
+        "text": "Her chastity",
+        "sub": "Pearls symbolized"
+      }
+    },
+    {
+      "text": "The Armada Portrait, painted around 1588, is full of pearls.",
+      "say": "The Armada Portrait, painted around fifteen eighty-eight, is full of pearls.",
+      "scene": {
+        "kind": "portrait",
+        "dress": "#2a2530",
+        "hair": "curls",
+        "hairColor": "#b4552a",
+        "skin": "#f3e1d0",
+        "pearls": true,
+        "ruff": true,
+        "bg": "#2f4f6a"
+      }
+    },
+    {
+      "text": "Its pearls link her to Cynthia, the Greek goddess of the Moon.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "label": "Cynthia, the Moon"
+      }
+    },
+    {
+      "text": "Another portrait ties her pearls to Diana, also a moon goddess.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#f4efe6",
+        "metal": "white",
+        "label": "Pearls and Diana"
+      }
+    },
+    {
+      "text": "In 1568 she bought the pearls of Mary, Queen of Scots.",
+      "say": "In fifteen sixty-eight she bought the pearls of Mary, Queen of Scots.",
+      "scene": {
+        "kind": "title",
+        "text": "Mary's pearls",
+        "sub": "Bought in 1568"
+      }
+    },
+    {
+      "text": "She got them before Catherine de' Medici of France could.",
+      "say": "She got them before Catherine de Medici of France could.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "label": "Before France"
+      }
+    },
+    {
+      "text": "Her 1587 inventory of jewels lists 628 pieces.",
+      "say": "Her fifteen eighty-seven inventory of jewels lists six hundred twenty-eight pieces.",
+      "scene": {
+        "kind": "title",
+        "text": "628 pieces",
+        "sub": "Her 1587 inventory lists"
+      }
+    },
+    {
+      "text": "On New Year's Day 1587 she received more than 80 pieces.",
+      "say": "On New Year's Day fifteen eighty-seven she received more than eighty pieces.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Elizabeth I",
+        "role": "New Year's gifts, 1587",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a2a3a",
+            "hair": "updo",
+            "hairColor": "#b4552a",
+            "skin": "#f3e1d0",
+            "expression": "proud",
+            "jewel": "pearls"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In the Ditchley portrait of about 1592, pearls cluster on her buttons.",
+      "say": "In the Ditchley portrait of about fifteen ninety-two, pearls cluster on her buttons.",
+      "scene": {
+        "kind": "portrait",
+        "dress": "#e9e2d2",
+        "hair": "curls",
+        "hairColor": "#b4552a",
+        "skin": "#f3e1d0",
+        "pearls": true,
+        "ruff": true,
+        "bg": "#3a4f3a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Queen Elizabeth's pearls carried a message. In her portraits, pearls symbolized her chastity. The Armada Portrait, painted around 1588, is full of pearls, and its pearls link her to Cynthia, the Greek goddess of the Moon. Another portrait ties her pearls to Diana, also a moon goddess. In 1568 she bought the pearls of Mary, Queen of Scots, before Catherine de' Medici of France could. Her 1587 inventory of jewels lists 628 pieces, and on New Year's Day 1587 she received more than 80 pieces. In the Ditchley portrait of about 1592, pearls cluster on her buttons.",
+    "hashtags": [
+      "#elizabethi",
+      "#pearls",
+      "#tudorhistory",
+      "#armadaportrait",
+      "#royaljewels"
+    ]
+  },
+  "sources": [
+    "https://www.rmg.co.uk/discover/explore/symbolism-portraits-elizabeth-i",
+    "https://earlymodern.web.ox.ac.uk/node/651916",
+    "https://rct.uk/collection/exhibitions/in-fine-style/the-queens-gallery-palace-of-holyroodhouse/elizabeth-i-1533-1603",
+    "https://www.npg.org.uk/collections/search/portraitConservation/mw02079/Queen-Elizabeth-I-The-Ditchley-portrait",
+    "https://fashionhistory.fitnyc.edu/1592-gheeraerts-ditchley/",
+    "https://storage.googleapis.com/jnl-wu-j-rsj-files/journals/1/articles/460/685aaf6875d9f.pdf",
+    "https://static1.squarespace.com/static/58dbc83f893fc01cfcc43356/t/5d83ab55690f084bad4c0b3f/1568910205739/isjfs1989+-+Jewellery+of+Queen+Elizabth+l.pdf",
+    "https://www.rmg.co.uk/stories/topics/elizabeth-royal-wardrobe"
+  ]
+}
