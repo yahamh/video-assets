@@ -1944,7 +1944,11 @@
     "zernio_id": "6aed43031e5494217a15a40d",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=xwyKhREUc_4"
+    }
   },
   "gs-07-cushion": {
     "at": "2026-11-12T17:00:00Z",
