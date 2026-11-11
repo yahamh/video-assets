@@ -1404,7 +1404,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2504127486744165",
+      "instagram": "https://www.instagram.com/reel/DfmYUI-E5Va/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706875077362470152"
+    }
   },
   "087-peridot-from-space": {
     "at": "2026-11-11T13:00:00Z",
@@ -1413,7 +1419,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2631021827319704",
+      "instagram": "https://www.instagram.com/reel/DfmiuoqI-WK/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706898563611168020"
+    }
   },
   "088-hallmark-goldsmiths-hall": {
     "at": "2026-11-11T14:00:00Z",
@@ -1423,7 +1435,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1670108448006176",
+      "instagram": "https://www.instagram.com/reel/DfmpwLAkwE8/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706914344612711681",
+      "youtube": "https://www.youtube.com/watch?v=P57iPtQDTic"
+    }
   },
   "089-jade-two-minerals": {
     "at": "2026-11-11T16:30:00Z",
@@ -1432,7 +1451,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1578831160936533",
+      "instagram": "https://www.instagram.com/reel/Dfm6ka7jyHY/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706952243374869780"
+    }
   },
   "090-star-sapphire-asterism": {
     "at": "2026-11-11T18:00:00Z",
@@ -2191,7 +2216,11 @@
     "zernio_id": "6aec386acf1045d2dfe68438",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=-WPTuY1pJ-w"
+    }
   },
   "lesson-020-bridal-set": {
     "at": "2026-11-12T16:00:00Z",
