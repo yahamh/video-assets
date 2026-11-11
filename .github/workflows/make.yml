@@ -72,16 +72,19 @@ jobs:
           key: models-${{ hashFiles('requirements.txt') }}
       - name: Tools
         if: steps.todo.outputs.stories != ''
-        # 11 Nov 2026: run 71 sat in this step for 69 minutes while Ubuntu's mirror could not be reached, then failed,
-        # and nothing was made. apt now gives up on a stalled download after 30 s, tries three times, and the step
-        # stops after 25 minutes at the latest, so the next push can start a fresh run.
+        # 11 Nov 2026: runs 71 and 72 sat in apt for 69 and 25 minutes while Ubuntu's Azure mirror
+        # (azure.archive.ubuntu.com) did not answer, and made nothing. The Azure mirror is swapped for
+        # archive.ubuntu.com, each apt call gets its own time limit and three tries, and the step as a
+        # whole stops after 25 minutes, so a stall can't hold the queue and the next push starts a fresh run.
         timeout-minutes: 25
         run: |
+          sudo sed -i 's#azure\.archive\.ubuntu\.com#archive.ubuntu.com#g' /etc/apt/apt-mirrors.txt /etc/apt/sources.list /etc/apt/sources.list.d/* 2>/dev/null || true
+          APT="-o Acquire::Retries=3 -o Acquire::http::Timeout=20 -o Acquire::https::Timeout=20"
           for attempt in 1 2 3; do
-            sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 update -q \
-              && sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 install -y -q ffmpeg && break
+            sudo timeout 120 apt-get $APT update -q \
+              && sudo timeout 300 apt-get $APT install -y -q ffmpeg && break
             [ "$attempt" = 3 ] && exit 1
-            sleep 30
+            sleep 20
           done
           pip install -q torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
           pip install -q -r requirements.txt
