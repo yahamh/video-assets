@@ -1358,7 +1358,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1919810349176146",
+      "instagram": "https://www.instagram.com/reel/DflCuPvgvBU/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706682327484681492",
+      "youtube": "https://www.youtube.com/watch?v=9BGVIRpPJcI"
+    }
   },
   "084-argyle-pink-diamonds": {
     "at": "2026-11-11T00:30:00Z",
@@ -1367,7 +1374,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1140181295222834",
+      "instagram": "https://www.instagram.com/reel/DflMtb5gVpd/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706704841447509266"
+    }
   },
   "085-dom-pedro-aquamarine": {
     "at": "2026-11-11T02:00:00Z",
@@ -1376,7 +1389,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1133982309217576",
+      "instagram": "https://www.instagram.com/reel/DflXNPpCYrY/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7706728291088092436"
+    }
   },
   "086-garnet-pomegranate": {
     "at": "2026-11-11T11:30:00Z",
@@ -1716,6 +1735,34 @@
   "122-californias-state-gem-was-mistaken-for-sapphire": {
     "at": "2026-11-14T21:00:00Z",
     "zernio_id": "6af39c6a29bc6e35ba0e5c71",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "123-this-quartz-is-two-gems-in-one": {
+    "at": "2026-11-14T23:00:00Z",
+    "zernio_id": "6af3ed529338b4c93fcff081",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "124-vikings-paid-with-jewelry-cut-by-weight": {
+    "at": "2026-11-15T00:30:00Z",
+    "zernio_id": "6af3ed5f9338b4c93fcff0dd",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "125-queen-elizabeths-pearls-carried-a-message": {
+    "at": "2026-11-15T02:00:00Z",
+    "zernio_id": "6af3ed6ce3d24597e6b239c2",
     "platforms": [
       "facebook",
       "instagram",
