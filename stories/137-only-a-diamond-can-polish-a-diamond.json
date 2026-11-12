@@ -1,0 +1,168 @@
+{
+  "id": "137-only-a-diamond-can-polish-a-diamond",
+  "number": 137,
+  "title": "Only a diamond can polish a diamond",
+  "topic": "diamond polished with diamond dust scaife bruting",
+  "music": "music-137.wav",
+  "hook": {
+    "text": "Only a diamond can polish a diamond.",
+    "gold": [
+      "polish",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Only a diamond can polish a diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2"
+      }
+    },
+    {
+      "text": "Diamond is the hardest natural material, ranking 10 on the Mohs scale.",
+      "say": "Diamond is the hardest natural material, ranking ten on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 10",
+        "sub": "Diamond ranks"
+      }
+    },
+    {
+      "text": "So polishers grind with dust made from other diamonds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A polisher",
+        "role": "Diamond dust",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a5a7a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The dust is mixed with olive oil.",
+      "scene": {
+        "kind": "title",
+        "text": "Olive oil",
+        "sub": "Diamond dust is mixed with"
+      }
+    },
+    {
+      "text": "That mixture goes onto a spinning cast iron wheel called a scaife.",
+      "say": "That mixture goes onto a spinning cast iron wheel called a skayf.",
+      "scene": {
+        "kind": "title",
+        "text": "Scaife",
+        "sub": "A cast iron wheel called a"
+      }
+    },
+    {
+      "text": "Cutters must work with the grain, because some directions barely polish.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "label": "With the grain"
+      }
+    },
+    {
+      "text": "To shape a stone's outline, two diamonds are rubbed together.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "label": "Two diamonds"
+      }
+    },
+    {
+      "text": "The dust that rubs off is collected and put to use.",
+      "scene": {
+        "kind": "title",
+        "text": "Collected",
+        "sub": "The dust is"
+      }
+    },
+    {
+      "text": "Tradition credits Lodewyk van Bercken of Bruges with the scaife in 1476.",
+      "say": "Tradition credits LOH-duh-wik van BER-ken of Broozh with the skayf in fourteen seventy-six.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Lodewyk van Bercken",
+        "role": "Bruges, 1476",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#7a2e2e",
+            "hair": "side",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Some historians doubt it.",
+      "scene": {
+        "kind": "title",
+        "text": "Doubt it",
+        "sub": "Some historians"
+      }
+    },
+    {
+      "text": "A round brilliant has 57 or 58 facets, depending on the culet.",
+      "say": "A round brilliant has fifty-seven or fifty-eight facets, depending on the KYOO-let.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "label": "57 or 58"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Only a diamond can polish a diamond. Diamond is the hardest natural material, ranking 10 on the Mohs scale, so polishers grind with dust made from other diamonds. The dust is mixed with olive oil and goes onto a spinning cast iron wheel called a scaife. Cutters must work with the grain, because some directions barely polish. To shape a stone's outline, two diamonds are rubbed together, and the dust that rubs off is collected and put to use. Tradition credits Lodewyk van Bercken of Bruges with the scaife in 1476, though some historians doubt it. A round brilliant has 57 or 58 facets, depending on the culet.",
+    "hashtags": [
+      "#diamond",
+      "#diamondcutting",
+      "#gemology",
+      "#jewelryhistory",
+      "#lapidary"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/diamond-cutting",
+    "https://www.britannica.com/topic/diamond-gemstone",
+    "https://cameo.mfa.org/wiki/Diamond",
+    "https://www.chemistryworld.com/news/mystery-of-diamond-polishing-solved/3002620.article",
+    "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lapidary_and_Gem_Cutting",
+    "https://nhmag.com/picks-from-the-past/271575/how-diamonds-are-polished",
+    "https://msaweb.org/AmMin/AM24/AM24_661.pdf",
+    "https://msaweb.org/AmMin/AM38/AM38_108.pdf",
+    "https://diamondmuseum.com/polishing/",
+    "https://www.diamondmuseum.be/lodewijk-van-berquen",
+    "https://www.gemsociety.org/article/lapidary-technology-history-laps-and-polish",
+    "https://en.wikipedia.org/wiki/Diamond",
+    "https://en.wikipedia.org/wiki/Diamond_cut",
+    "https://en.wikipedia.org/wiki/Scaif",
+    "https://www.idexonline.com/FullArticle?Id=50655",
+    "https://www.qcc.cuny.edu/biologicalSciences/faculty/RScal/gems/dicut.html"
+  ]
+}

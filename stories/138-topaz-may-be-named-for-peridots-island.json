@@ -1,0 +1,146 @@
+{
+  "id": "138-topaz-may-be-named-for-peridots-island",
+  "number": 138,
+  "title": "Topaz may be named for peridot's island",
+  "topic": "topaz topazios zabargad peridot imperial blue treated",
+  "style": "lowpoly",
+  "music": "music-138.wav",
+  "hook": {
+    "text": "Topaz may be named for peridot's island.",
+    "gold": [
+      "named",
+      "peridot's"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Topaz may be named for peridot's island.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#e8a838"
+      }
+    },
+    {
+      "text": "Most authorities say its name comes from Topazios, a Red Sea island.",
+      "say": "Most authorities say its name comes from Toh-PAZ-ee-os, a Red Sea island.",
+      "scene": {
+        "kind": "title",
+        "text": "Topazios",
+        "sub": "The name comes from"
+      }
+    },
+    {
+      "text": "Today that island is called Zabargad.",
+      "say": "Today that island is called ZAB-ar-gad.",
+      "scene": {
+        "kind": "mine",
+        "place": "Zabargad, Red Sea",
+        "tone": "#a8c93a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The island never produced topaz, and its stone was probably peridot.",
+      "say": "The island never produced topaz, and its stone was probably PAIR-uh-doh.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#a8c93a",
+        "label": "Peridot"
+      }
+    },
+    {
+      "text": "Imperial topaz is a rich golden to reddish-orange color.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#e8903a",
+        "metal": "yellow",
+        "label": "Imperial topaz"
+      }
+    },
+    {
+      "text": "It comes from near Ouro Preto in Brazil.",
+      "say": "It comes from near OH-roh PRAY-toh in Brazil.",
+      "scene": {
+        "kind": "mine",
+        "place": "Ouro Preto, Brazil",
+        "tone": "#e8a838",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The name imperial honors royalty, though sources disagree on which royal.",
+      "scene": {
+        "kind": "title",
+        "text": "Royalty",
+        "sub": "Imperial honors"
+      }
+    },
+    {
+      "text": "Most blue topaz is colorless topaz treated with radiation and heat.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#6fb5e8",
+        "label": "Blue topaz"
+      }
+    },
+    {
+      "text": "Topaz is hard at 8, yet it can split along one plane.",
+      "say": "Topaz is hard at eight, yet it can split along one plane.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 8",
+        "sub": "Hardness of"
+      }
+    },
+    {
+      "text": "The American Golden Topaz weighs 22,892 carats.",
+      "say": "The American Golden Topaz weighs twenty-two thousand eight hundred ninety-two carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8a838",
+        "halo": "#ffd9a0",
+        "label": "22,892 carats"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Topaz may be named for peridot's island. Most authorities say its name comes from Topazios, a Red Sea island that is now called Zabargad. The island never produced topaz, and its stone was probably peridot. Imperial topaz is a rich golden to reddish-orange color, and it comes from near Ouro Preto in Brazil. The name imperial honors royalty, though sources disagree on which royal. Most blue topaz is colorless topaz treated with radiation and heat. Topaz is hard at 8, yet it can split along one plane. The American Golden Topaz weighs 22,892 carats.",
+    "hashtags": [
+      "#topaz",
+      "#imperialtopaz",
+      "#bluetopaz",
+      "#gemology",
+      "#peridot"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/articles/topaz-history-lore",
+    "https://www.ga.gov.au/education/minerals-energy/australian-mineral-facts/topaz",
+    "https://en.wikipedia.org/wiki/Topaz",
+    "https://en.wikipedia.org/wiki/Zabargad_Island",
+    "https://www.gia.edu/doc/Zabargad-The-Ancient-Peridot-Island-in-The-Red-Sea.pdf",
+    "https://www.etymonline.com/word/topaz",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002878",
+    "https://cms.gia.edu/dam/jcr:27ea72a5-0b0f-4630-b1f4-e3fd0ad21daa/The-Capao-Topaz-Deposit-Ouro-Preto-Minas-Gerais-Brazil.pdf",
+    "https://geology.com/minerals/topaz.shtml",
+    "https://ibram.org.br/en/noticia/topazio-imperial/",
+    "https://www.gia.edu/topaz-quality-factor",
+    "https://www.gia.edu/topaz/gem-overview",
+    "https://cameo.mfa.org/wiki/Topaz",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002803",
+    "https://en.wikipedia.org/wiki/American_Golden_Topaz"
+  ]
+}

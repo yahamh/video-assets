@@ -1,0 +1,185 @@
+{
+  "id": "136-the-first-laser-used-a-ruby-rod",
+  "number": 136,
+  "title": "The first laser used a ruby rod",
+  "topic": "first laser ruby maiman 1960",
+  "style": "paper",
+  "plate": "Ruby laser",
+  "theme": "mint",
+  "music": "music-136.wav",
+  "hook": {
+    "text": "The first laser used a ruby rod.",
+    "gold": [
+      "first",
+      "ruby"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The first laser used a ruby rod.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#d1233f",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Theodore Maiman built it at Hughes Research Laboratories in Malibu.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Theodore Maiman",
+        "role": "Hughes Research Labs",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#b8d0e0",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It first fired on May 16, 1960.",
+      "say": "It first fired on May sixteenth, nineteen sixty.",
+      "scene": {
+        "kind": "title",
+        "text": "May 16, 1960",
+        "sub": "It first fired on",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The rod was a small piece of pink synthetic ruby.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e0506a",
+        "label": "Synthetic ruby",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It was about the size of a fingertip.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#d1233f",
+        "metal": "yellow",
+        "label": "Fingertip size",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Ruby is aluminum oxide with a little chromium in it.",
+      "scene": {
+        "kind": "title",
+        "text": "Chromium",
+        "sub": "A little",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A flash lamp excited the chromium atoms, which gave off red light.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d1233f",
+        "halo": "#ff6a5a",
+        "label": "Red light",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Its red light had a wavelength of about 694 nanometers.",
+      "say": "Its red light had a wavelength of about six hundred ninety-four nanometers.",
+      "scene": {
+        "kind": "title",
+        "text": "694 nm",
+        "sub": "Red light at about",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "A leading physics journal turned down his paper.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Theodore Maiman",
+        "role": "Paper turned down",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#b8d0e0",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ],
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Nature published it in August 1960 instead.",
+      "say": "Nature published it in August nineteen sixty instead.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d1233f",
+        "label": "Nature, 1960",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Seven months later, Bell Labs built the first gas laser.",
+      "say": "Seven months later, Bell Labs built the first gas laser.",
+      "scene": {
+        "kind": "title",
+        "text": "7 months",
+        "sub": "The next laser came",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The first laser used a ruby rod. Theodore Maiman built it at Hughes Research Laboratories in Malibu, and it first fired on May 16, 1960. The rod was a small piece of pink synthetic ruby, about the size of a fingertip. Ruby is aluminum oxide with a little chromium in it, and a flash lamp excited the chromium atoms, which gave off red light with a wavelength of about 694 nanometers. A leading physics journal turned down his paper, and Nature published it in August 1960 instead. Seven months later, Bell Labs built the first gas laser.",
+    "hashtags": [
+      "#laser",
+      "#ruby",
+      "#physics",
+      "#gemstones",
+      "#sciencehistory"
+    ]
+  },
+  "sources": [
+    "https://hrl.com/about/laser",
+    "https://www.britannica.com/technology/laser/History",
+    "https://physicstoday.aip.org/obituaries/theodore-harold-maiman",
+    "https://www.nasonline.org/wp-content/uploads/2024/06/maiman-theodore.pdf",
+    "https://www.optica-opn.org/Home/Articles/Volume_31/May_2020/Features/The_Laser_at_60",
+    "https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/pioneers/theodore-maiman/",
+    "https://www.britannica.com/topic/ruby",
+    "https://physicsworld.com/a/and-then-there-was-light/",
+    "https://www.britannica.com/biography/Theodore-Maiman",
+    "https://physicstoday.aip.org/features/bell-labs-and-the-ruby-laser",
+    "https://amp.spie.org/news/maiman-oer",
+    "https://press.uchicago.edu/Misc/Chicago/284158_townes.html",
+    "https://ethw.org/Milestones:First_Working_Laser,_1960",
+    "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1—continuous_wave_gas"
+  ]
+}
