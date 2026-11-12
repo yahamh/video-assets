@@ -1,0 +1,179 @@
+{
+  "id": "139-flawless-means-no-flaws-at-10x",
+  "number": 139,
+  "title": "Flawless means no flaws at 10x",
+  "topic": "gia clarity scale flawless 10x loupe inclusions",
+  "style": "paper",
+  "plate": "Diamond clarity",
+  "theme": "blush",
+  "music": "music-139.wav",
+  "hook": {
+    "text": "Flawless means no flaws at 10x.",
+    "gold": [
+      "Flawless",
+      "10x."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Flawless means no flaws at 10x.",
+      "say": "Flawless means no flaws at ten times.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The Gemological Institute of America's clarity scale has 11 grades.",
+      "say": "The Gemological Institute of America's clarity scale has eleven grades.",
+      "scene": {
+        "kind": "title",
+        "text": "11 grades",
+        "sub": "The clarity scale has",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Features inside a diamond are called inclusions.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "label": "Inclusions",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Blemishes are only on the surface, such as scratches or nicks.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#cfe3f2",
+        "label": "Blemishes",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Flawless means neither is visible under 10x magnification.",
+      "say": "Flawless means neither is visible under ten times magnification.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "white",
+        "label": "Flawless",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The institute introduced its 10x loupe in 1934.",
+      "say": "The institute introduced its ten times loupe in nineteen thirty-four.",
+      "scene": {
+        "kind": "title",
+        "text": "1934",
+        "sub": "The 10x loupe came in",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The final grade is always set under that loupe.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A grader",
+        "role": "Final grade at 10x",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#d9e6ef",
+            "hair": "updo",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The institute built its grading system in the early 1950s.",
+      "say": "The institute built its grading system in the early nineteen fifties.",
+      "scene": {
+        "kind": "title",
+        "text": "Early 1950s",
+        "sub": "The system was built in",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Graders weigh how big each feature is and where it sits.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "label": "Size and place",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Flawless is rare, because few diamonds are free of inclusions.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "halo": "#bfe0f0",
+        "label": "Rare",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Most slightly included diamonds show no inclusions visible to the naked eye.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "metal": "yellow",
+        "label": "Naked eye",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Flawless means no flaws at 10x. The Gemological Institute of America's clarity scale has 11 grades. Features inside a diamond are called inclusions, and blemishes are only on the surface, such as scratches or nicks. Flawless means neither is visible under 10x magnification. The institute introduced its 10x loupe in 1934, the final grade is always set under that loupe, and the institute built its grading system in the early 1950s. Graders weigh how big each feature is and where it sits. Flawless is rare, because few diamonds are free of inclusions, and most slightly included diamonds show no inclusions visible to the naked eye.",
+    "hashtags": [
+      "#diamondclarity",
+      "#flawlessdiamond",
+      "#gia",
+      "#diamonds",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/diamond-clarity/",
+    "https://4cs.gia.edu/en-us/blog/history-4cs-diamond-quality/",
+    "https://4cs.gia.edu/en-us/blog/celebrating-richard-t-liddicoat-architect-gia-international-diamond-grading-system/",
+    "https://www.gia.edu/gems-gemology/spring-2002-tribute-richard-liddicoat-dirlam",
+    "https://www.gia.edu/diamond-quality-factor",
+    "https://www.gia.edu/gia-about/4cs-clarity",
+    "https://www.gia.edu/gia-news-research/guardians-trust-gias-innovative-research-instruments-services",
+    "https://www.americangemsociety.org/en/diamond-clarity",
+    "https://www.americangemsociety.org/diamonds/4cs-of-diamonds/clarity/",
+    "https://www.gemsociety.org/article/10x-loupe-the-gemologists-best-friend/",
+    "https://www.gemsociety.org/article/diamond-clarity/",
+    "https://www.rapaport.com/magazine-article/looking-back/",
+    "https://4cs.gia.edu/en-us/blog/best-ways-to-save-money-on-diamond/"
+  ]
+}

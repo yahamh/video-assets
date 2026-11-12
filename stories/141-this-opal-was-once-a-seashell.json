@@ -1,0 +1,162 @@
+{
+  "id": "141-this-opal-was-once-a-seashell",
+  "number": 141,
+  "title": "This opal was once a seashell",
+  "topic": "opalized fossils lightning ridge coober pedy eric",
+  "style": "lowpoly",
+  "music": "music-141.wav",
+  "hook": {
+    "text": "This opal was once a seashell.",
+    "gold": [
+      "opal",
+      "seashell."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This opal was once a seashell.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#7fd6c4",
+        "halo": "#9fffe0"
+      }
+    },
+    {
+      "text": "Opalized shells have been found at Lightning Ridge, Australia.",
+      "scene": {
+        "kind": "mine",
+        "place": "Lightning Ridge, Australia",
+        "tone": "#7fd6c4",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Opal can fill the space left when a fossil dissolves.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#e8dfc9",
+        "label": "Empty space"
+      }
+    },
+    {
+      "text": "Australia's opal fossils are about 100 million years old.",
+      "say": "Australia's opal fossils are about one hundred million years old.",
+      "scene": {
+        "kind": "title",
+        "text": "100 million years",
+        "sub": "Fossils about"
+      }
+    },
+    {
+      "text": "A shallow inland sea once covered central Australia.",
+      "scene": {
+        "kind": "title",
+        "text": "Inland sea",
+        "sub": "A shallow"
+      }
+    },
+    {
+      "text": "Silica rich water filled the voids where shells and bones lay.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#7fd6c4",
+        "label": "Silica water"
+      }
+    },
+    {
+      "text": "Tiny silica spheres in opal break light into rainbow colors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#7fd6c4",
+        "halo": "#9fffe0",
+        "label": "Rainbow colors"
+      }
+    },
+    {
+      "text": "At Lightning Ridge, opal has even replaced a dinosaur's jaw.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d8e8e2",
+        "label": "Dinosaur jaw"
+      }
+    },
+    {
+      "text": "Pinecones have turned to opal there too.",
+      "scene": {
+        "kind": "title",
+        "text": "Pinecones",
+        "sub": "Opal copies"
+      }
+    },
+    {
+      "text": "A miner found Eric, an opalized sea reptile, in 1987.",
+      "say": "A miner found Eric, an opalized sea reptile, in nineteen eighty-seven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A miner",
+        "role": "Found Eric, 1987",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a3a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Public donations of over $500,000 helped buy Eric.",
+      "say": "Public donations of over five hundred thousand dollars helped buy Eric.",
+      "scene": {
+        "kind": "title",
+        "text": "$500,000",
+        "sub": "Public donations of over"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This opal was once a seashell. Opalized shells have been found at Lightning Ridge, Australia. Opal can fill the space left when a fossil dissolves, and Australia's opal fossils are about 100 million years old, from when a shallow inland sea covered central Australia. Silica rich water filled the voids where shells and bones lay, and tiny silica spheres in opal break light into rainbow colors. At Lightning Ridge, opal has even replaced a dinosaur's jaw, and pinecones have turned to opal there too. A miner found Eric, an opalized sea reptile, in 1987, and public donations of over $500,000 helped buy Eric.",
+    "hashtags": [
+      "#opal",
+      "#opalfossil",
+      "#lightningridge",
+      "#gemstones",
+      "#australia"
+    ]
+  },
+  "sources": [
+    "https://australian.museum/learn/minerals/gemstones/opal/",
+    "https://australian.museum/learn/australia-over-time/fossils/sites/lightning-ridge/",
+    "https://australian.museum/publications/200-treasures/opalised-pliosaur-case/",
+    "https://australian.museum/learn/news/blog/a-national-treasure/",
+    "https://energymining.sa.gov.au/industry/minerals-and-mining/mineral-commodities/opal",
+    "https://doc.rero.ch/record/15227/files/PAL_E2507.pdf",
+    "https://www.mdpi.com/2075-163X/13/12/1471",
+    "https://www.gia.edu/articles/australia-opal-fields-expedition",
+    "https://www.gia.edu/gems-gemology/winter-2015-splendor-outback-australia-opal-fields",
+    "https://www.smithsonianmag.com/science-nature/scientists-and-miners-team-up-preserve-opalized-fossils-180972734/",
+    "https://www.abc.net.au/news/2024-11-01/opal-fossils-of-lightning-ridge-unlock-evolution/104126904",
+    "https://www.abc.net.au/news/2020-11-20/opal-fossils-that-introduced-a-new-species-from-the-deep-past/12798212",
+    "https://undark.org/article/chasing-opal-fossils-australian-outback/",
+    "https://www.nationalgeographic.com/science/2018/12/exclusive-sparkly-opal-filled-fossils-reveal-new-dinosaur-species-paleontology/",
+    "https://earthdate.org/files/000/003/016/EarthDate_301_C.pdf"
+  ]
+}

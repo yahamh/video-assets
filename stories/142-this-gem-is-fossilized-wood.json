@@ -1,0 +1,173 @@
+{
+  "id": "142-this-gem-is-fossilized-wood",
+  "number": 142,
+  "title": "This gem is fossilized wood",
+  "topic": "whitby jet fossil wood victorian mourning",
+  "style": "paper",
+  "plate": "Whitby jet",
+  "music": "music-142.wav",
+  "hook": {
+    "text": "This gem is fossilized wood.",
+    "gold": [
+      "fossilized",
+      "wood."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This gem is fossilized wood.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#1b1b20",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "It formed about 180 million years ago, in the Jurassic.",
+      "say": "It formed about one hundred eighty million years ago, in the Jurassic.",
+      "scene": {
+        "kind": "title",
+        "text": "180 million years",
+        "sub": "Formed about",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Some say the trees were relatives of the monkey puzzle.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1b1b20",
+        "label": "Monkey puzzle",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The best known source is the coast near Whitby, England.",
+      "scene": {
+        "kind": "title",
+        "text": "Whitby",
+        "sub": "Best known near",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Jet is light and feels warm to the touch.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#1b1b20",
+        "metal": "yellow",
+        "label": "Light and warm",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It is soft, yet it takes a high polish.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#1b1b20",
+        "halo": "#c9d6e2",
+        "label": "High polish",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Rubbed with wool, it can build up an electric charge.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1b1b20",
+        "halo": "#9ad0ff",
+        "label": "Static charge",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Jet has been found in Bronze Age burial sites in Britain.",
+      "scene": {
+        "kind": "title",
+        "text": "Bronze Age",
+        "sub": "Found in burials of the",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Queen Victoria wore it in mourning after Prince Albert died in 1861.",
+      "say": "Queen Victoria wore it in mourning after Prince Albert died in eighteen sixty-one.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Victoria",
+        "role": "Wore jet, 1861",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#1d1d22",
+            "hair": "updo",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "By the early 1870s, about 1,500 people worked in Whitby's jet trade.",
+      "say": "By the early eighteen seventies, about fifteen hundred people worked in Whitby's jet trade.",
+      "scene": {
+        "kind": "title",
+        "text": "1,500 people",
+        "sub": "Early 1870s, about",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Imitation jet was often black glass, sometimes called French jet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "tone": "#1b1b20",
+        "label": "Black glass",
+        "color": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This gem is fossilized wood. Whitby jet formed about 180 million years ago, in the Jurassic, and some say the trees were relatives of the monkey puzzle. The best known source is the coast near Whitby, England. Jet is light and feels warm to the touch, it is soft yet takes a high polish, and rubbed with wool it can build up an electric charge. Jet has been found in Bronze Age burial sites in Britain. Queen Victoria wore it in mourning after Prince Albert died in 1861, and by the early 1870s about 1,500 people worked in Whitby's jet trade. Imitation jet was often black glass, sometimes called French jet.",
+    "hashtags": [
+      "#jet",
+      "#whitbyjet",
+      "#victorianjewelry",
+      "#gemstones",
+      "#fossil"
+    ]
+  },
+  "sources": [
+    "https://www.whitbymuseum.org.uk/jet-faq/",
+    "https://www.whitbymuseum.org.uk/collections/jet/",
+    "https://4cs.gia.edu/en-us/blog/gems-jurassic-world/",
+    "https://www.gia.edu/whitby-jet-reading-list",
+    "https://collections.vam.ac.uk/item/O120606/necklace-unknown",
+    "https://gem-a.com/?p=7076",
+    "https://england.prm.ox.ac.uk/englishness-mourning-jewellery.html",
+    "https://web.prm.ox.ac.uk/bodyarts/index.php/body-arts-and-lifecycles/death/118-jet-necklace-and-black-silk-tie.html",
+    "https://www.britannica.com/topic/jet-gemstone",
+    "https://cameo.mfa.org/wiki/Jet",
+    "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jet",
+    "https://depositsmag.com/2019/01/14/whitby-jet-and-the-toarcian-oceanic-anoxic-event/",
+    "https://www.countrylife.co.uk/luxury/what-is-whitby-jet-the-once-prized-northern-native-gemstone-that-is-darker-than-the-night-267191"
+  ]
+}

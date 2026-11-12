@@ -1,0 +1,157 @@
+{
+  "id": "140-pearl-necklaces-are-full-of-tiny-knots",
+  "number": 140,
+  "title": "Pearl necklaces are full of tiny knots",
+  "topic": "pearl strand knotted between each pearl silk restring",
+  "music": "music-140.wav",
+  "hook": {
+    "text": "Pearl necklaces are full of tiny knots.",
+    "gold": [
+      "full",
+      "knots."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pearl necklaces are full of tiny knots.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl"
+      }
+    },
+    {
+      "text": "Most pearl necklaces have a knot between each pearl.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "yellow",
+        "pearls": true,
+        "drop": "pearl",
+        "label": "Knotted"
+      }
+    },
+    {
+      "text": "If the strand breaks, usually only one pearl comes loose.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "label": "Only one"
+      }
+    },
+    {
+      "text": "The knots also keep pearls from rubbing against each other.",
+      "scene": {
+        "kind": "title",
+        "text": "No rubbing",
+        "sub": "Knots keep pearls from"
+      }
+    },
+    {
+      "text": "Pearls are often strung on silk, but silk stretches and weakens.",
+      "scene": {
+        "kind": "title",
+        "text": "Silk",
+        "sub": "Pearls are often strung on"
+      }
+    },
+    {
+      "text": "Stringers tie each knot by hand with fine tweezers or an awl.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A pearl stringer",
+        "role": "Knotting by hand",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#6a8a7a",
+            "hair": "updo",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A strand worn often may need restringing about once a year.",
+      "scene": {
+        "kind": "title",
+        "text": "Once a year",
+        "sub": "Restring about"
+      }
+    },
+    {
+      "text": "French wire, also called bullion, often protects the thread at the clasp.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "yellow",
+        "pearls": true,
+        "drop": "pearl",
+        "label": "At the clasp"
+      }
+    },
+    {
+      "text": "Pearls are drilled, and the cord is sized to the hole.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "label": "Drilled hole"
+      }
+    },
+    {
+      "text": "A princess length strand is about 17 to 19 inches.",
+      "say": "A princess length strand is about seventeen to nineteen inches.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "yellow",
+        "pearls": true,
+        "drop": "pearl",
+        "label": "Princess length"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pearl necklaces are full of tiny knots. Most pearl necklaces have a knot between each pearl, so if the strand breaks, usually only one pearl comes loose, and the knots also keep pearls from rubbing against each other. Pearls are often strung on silk, but silk stretches and weakens, so a strand worn often may need restringing about once a year. Stringers tie each knot by hand with fine tweezers or an awl, and French wire, also called bullion, often protects the thread at the clasp. Pearls are drilled, and the cord is sized to the hole. A princess length strand is about 17 to 19 inches.",
+    "hashtags": [
+      "#pearls",
+      "#pearlnecklace",
+      "#jewelrymaking",
+      "#pearlcare",
+      "#jewelryfacts"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gia-faq-about-gemstones-how-to-care-for-pearls",
+    "https://www.firemountaingems.com/resources/videos/7915",
+    "https://beadaholique.com/blogs/techniques-guides/pearl-knotting-101-learn-classic-pearl-knotting-for-making-pearl-necklaces-and-more",
+    "https://en.wikipedia.org/wiki/Bead_stringing",
+    "https://image3.fmgstatic.com/pdf/knottedbeads01.pdf",
+    "https://www.jckonline.com/magazine-article/restringing-pearls-part-ii/",
+    "https://www.tiffany.ca/faq/care-and-repair-faq/how-to-care-for-pearl-jewelry/",
+    "https://www.pearlparadise.com/pages/how-to-care-for-your-pearls-1a",
+    "https://www.firemountaingems.com/resources/jewelry-making-articles/831y",
+    "https://www.ganoksin.com/article/pearls-of-the-ocean/",
+    "https://www.firemountaingems.com/resources/videos/a53g",
+    "https://www.pearl-guide.com/goto/post?id=6604",
+    "https://www.britannica.com/topic/pearl-gemstone",
+    "https://gia.edu/gems-gemology/summer-2013-gemnews-strands-of-tiny-akoya-keshi-pearls",
+    "https://products.riogrande.com/content/Instruction-Sheets/Pearl-Knotting-IS.pdf",
+    "https://www.firemountaingems.com/resources/jewelry-making-articles/743w",
+    "https://en.wikipedia.org/wiki/Pearl",
+    "https://www.pearlparadise.com/t-pearlnecklace.aspx",
+    "https://www.pearl-guide.com/posts/449259"
+  ]
+}

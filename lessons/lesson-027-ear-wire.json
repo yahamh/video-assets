@@ -1,0 +1,186 @@
+{
+  "id": "lesson-027-ear-wire",
+  "series": "lesson",
+  "number": 27,
+  "title": "What an ear wire is",
+  "topic": "ear wire fish hook french hook drop earring",
+  "music": "music-lesson-027.wav",
+  "hook": {
+    "text": "This earring hangs from an ear wire.",
+    "gold": [
+      "ear",
+      "wire."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This earring hangs from an ear wire.",
+      "scene": {
+        "kind": "compare",
+        "before": "earrings-input.webp",
+        "after": "earrings-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "An ear wire is the wire that passes through the earlobe.",
+      "scene": {
+        "kind": "photo",
+        "src": "earrings-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.25,
+          "k": 2.0
+        },
+        "label": "An ear wire",
+        "marks": [
+          {
+            "x": 0.47,
+            "y": 0.22,
+            "text": "Ear wire",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "Jewelers also call it a fish hook or French hook.",
+      "scene": {
+        "kind": "title",
+        "text": "Fish hook",
+        "sub": "Also called a"
+      }
+    },
+    {
+      "text": "Its end is open, so it can slip out when snagged.",
+      "scene": {
+        "kind": "photo",
+        "src": "earrings-render.webp",
+        "focus": {
+          "x": 0.62,
+          "y": 0.45,
+          "k": 2.2
+        },
+        "label": "An open end",
+        "marks": [
+          {
+            "x": 0.64,
+            "y": 0.48,
+            "text": "Open end",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "A small rubber stopper can help hold it in place.",
+      "scene": {
+        "kind": "title",
+        "text": "Stopper",
+        "sub": "A small rubber"
+      }
+    },
+    {
+      "text": "The drop hangs from a small loop in the wire.",
+      "scene": {
+        "kind": "photo",
+        "src": "earrings-render.webp",
+        "focus": {
+          "x": 0.46,
+          "y": 0.38,
+          "k": 2.6
+        },
+        "label": "A small loop",
+        "marks": [
+          {
+            "x": 0.46,
+            "y": 0.37,
+            "text": "Loop",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "Heavier drops often use a leverback, whose hinge snaps shut.",
+      "scene": {
+        "kind": "title",
+        "text": "Leverback",
+        "sub": "Heavier drops often use a"
+      }
+    },
+    {
+      "text": "Many ear wires are about 20 gauge, around 0.8 millimeters thick.",
+      "say": "Many ear wires are about twenty gauge, around point eight millimeters thick.",
+      "scene": {
+        "kind": "title",
+        "text": "20 gauge",
+        "sub": "Many wires are about"
+      }
+    },
+    {
+      "text": "Nickel-free titanium wires suit people with sensitive ears.",
+      "scene": {
+        "kind": "title",
+        "text": "Titanium",
+        "sub": "Nickel-free"
+      }
+    },
+    {
+      "text": "A render shows a client the wire and drop together,",
+      "scene": {
+        "kind": "compare",
+        "before": "earrings-input.webp",
+        "after": "earrings-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before anything is made.",
+      "scene": {
+        "kind": "photo",
+        "src": "earrings-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render details: what an ear wire is",
+    "caption": "An ear wire is the wire that passes through the earlobe, and jewelers also call it a fish hook or French hook. Its end is open, so it can slip out when snagged, and a small rubber stopper can help hold it in place. The drop hangs from a small loop in the wire, and heavier drops often use a leverback, whose hinge snaps shut. Many ear wires are about 20 gauge, and nickel-free titanium wires suit people with sensitive ears. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#earwire",
+      "#earrings",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#jewelrydesign"
+    ]
+  },
+  "sources": [
+    "https://www.jewellerymaker.com/jewellerymaker-hub/article/75/a-guide-to-jewellery-findings-for-earrings/",
+    "https://www.skyjems.ca/pages/encyclopedia-french-wire-earring",
+    "https://www.skyjems.ca/pages/encyclopedia-fish-hook-earring",
+    "https://www.beeghlyandcompany.com/pages/jewelry-lingo-glossary",
+    "https://www.gemsociety.org/article/the-nomenclature-of-jewelry-part-4-earrings",
+    "https://www.halsteadbead.com/articles/guide-earring-findings",
+    "https://en.wikipedia.org/wiki/Earwire",
+    "https://www.beadsjar.co.uk/a-guide-to-earring-findings.html",
+    "https://www.jewelrymakingjournal.com/earring-wire/",
+    "https://www.firemountaingems.com/learn/categories/essential-resources/how-tos/E94T-project-tutorial.html",
+    "https://www.firemountaingems.com/learn/categories/ask-the-experts/BA5H-ask-the-experts.html",
+    "https://www.wirejewelry.com/jewelry_making_tips_techniques/What-Wire-is-Best-for-Earring-Findings_753.html",
+    "https://orchid.ganoksin.com/t/ear-wires-gauge/40986",
+    "https://www.continentalbeadsuppliers.com/blogs/blog/types-of-jewelry-findings-complete-guide-chart-explained",
+    "https://www.mayoclinic.org/diseases-conditions/nickel-allergy/symptoms-causes/syc-20351529",
+    "https://my.clevelandclinic.org/health/diseases/17842-nickel-allergy"
+  ]
+}
