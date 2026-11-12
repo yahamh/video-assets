@@ -1607,7 +1607,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2363214144503074",
+      "instagram": "https://www.instagram.com/reel/DfpfXXnikMv/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707323326133243144"
+    }
   },
   "100-tennis-bracelet-chris-evert": {
     "at": "2026-11-12T18:00:00Z",
@@ -1617,7 +1623,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2076450272999442",
+      "instagram": "https://www.instagram.com/reel/DfpqLPQCF-1/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707347587640200454",
+      "youtube": "https://www.youtube.com/watch?v=1g03cegJ3AI"
+    }
   },
   "101-puabi-lapis-from-afghanistan": {
     "at": "2026-11-12T19:30:00Z",
@@ -1626,7 +1639,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1112198764986778",
+      "instagram": "https://www.instagram.com/reel/Dfpz-nviANY/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707369653013679412"
+    }
   },
   "102-ratnapura-city-of-gems": {
     "at": "2026-11-12T21:00:00Z",
@@ -1635,7 +1654,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1145753917820171",
+      "instagram": "https://www.instagram.com/reel/Dfp-RTGGoqF/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707392841940618548"
+    }
   },
   "103-pearls-rarely-start-with-sand": {
     "at": "2026-11-12T23:00:00Z",
@@ -1972,6 +1997,43 @@
       "youtube"
     ]
   },
+  "139-flawless-means-no-flaws-at-10x": {
+    "at": "2026-11-16T16:30:00Z",
+    "zernio_id": "6af63e9d9ab19ddea0b02adc",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "140-pearl-necklaces-are-full-of-tiny-knots": {
+    "at": "2026-11-16T18:00:00Z",
+    "zernio_id": "6af63ea99ab19ddea0b02b47",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "141-this-opal-was-once-a-seashell": {
+    "at": "2026-11-16T19:30:00Z",
+    "zernio_id": "6af63eb0459f3fe72717a029",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "142-this-gem-is-fossilized-wood": {
+    "at": "2026-11-16T21:00:00Z",
+    "zernio_id": "6af63ec25a851992122d1d54",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -2133,7 +2195,11 @@
     "zernio_id": "6aed43061e5494217a15a42b",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=qv6df7cS618"
+    }
   },
   "gs-08-radiant": {
     "at": "2026-11-13T17:00:00Z",
@@ -2453,6 +2519,13 @@
   "lesson-026-melee-diamonds": {
     "at": "2026-11-18T16:00:00Z",
     "zernio_id": "6af4f266f8ceb346bc22a514",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-027-ear-wire": {
+    "at": "2026-11-19T16:00:00Z",
+    "zernio_id": "6af63ecc615d96333081e432",
     "platforms": [
       "youtube"
     ]
