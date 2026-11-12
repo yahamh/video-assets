@@ -1,0 +1,176 @@
+{
+  "id": "133-the-best-diamond-color-grade-is-d",
+  "number": 133,
+  "title": "The best diamond color grade is D",
+  "topic": "gia diamond color scale d to z liddicoat 1953",
+  "style": "paper",
+  "plate": "Color scale",
+  "theme": "watercolor",
+  "music": "music-133.wav",
+  "hook": {
+    "text": "The best diamond color grade is D.",
+    "gold": [
+      "best",
+      "D."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The best diamond color grade is D.",
+      "say": "The best diamond color grade is dee.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#bfe0f0",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The Gemological Institute of America introduced this scale in 1953.",
+      "say": "The Gemological Institute of America introduced this scale in nineteen fifty-three.",
+      "scene": {
+        "kind": "title",
+        "text": "1953",
+        "sub": "Introduced in",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Its president, Richard Liddicoat, was the architect of the system.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Richard Liddicoat",
+        "role": "Architect of the system",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3f4a",
+            "hair": "side",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Older systems used letters like triple A and phrases like blue white.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#bfe0f0",
+        "label": "Blue white",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The institute wanted a fresh start, with no link to older grades.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#bfe0f0",
+        "metal": "white",
+        "label": "A fresh start",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "So it began at D, a letter not tied to top quality.",
+      "say": "So it began at dee, a letter not tied to top quality.",
+      "scene": {
+        "kind": "title",
+        "text": "D",
+        "sub": "So it began at",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The scale has 23 letters, running from D to Z.",
+      "say": "The scale has twenty-three letters, running from dee to zee.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#bfe0f0",
+        "label": "23 letters",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "D to F are colorless, and G to J are near colorless.",
+      "say": "Dee to eff are colorless, and gee to jay are near colorless.",
+      "scene": {
+        "kind": "title",
+        "text": "Colorless",
+        "sub": "D to F are",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Graders compare each diamond with master stones, table down, in controlled light.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A grader",
+        "role": "Master stones, table down",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8fb4cc",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "focused"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The D to Z scale measures how little color a diamond has.",
+      "say": "The dee to zee scale measures how little color a diamond has.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#bfe0f0",
+        "metal": "white",
+        "label": "No color",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The best diamond color grade is D. The Gemological Institute of America introduced this scale in 1953, and its president, Richard Liddicoat, was the architect of the system. Older systems used letters like triple A and phrases like blue white, and the institute wanted a fresh start, with no link to older grades. So it began at D, a letter not tied to top quality. The scale has 23 letters, running from D to Z, and D to F are colorless while G to J are near colorless. Graders compare each diamond with master stones, table down, in controlled light. The D to Z scale measures how little color a diamond has.",
+    "hashtags": [
+      "#diamondcolor",
+      "#gia",
+      "#diamondgrading",
+      "#4cs",
+      "#diamonds"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gia-about/4cs-color",
+    "https://4cs.gia.edu/en-us/blog/history-4cs-diamond-quality/",
+    "https://rapaport.com/magazine-article/a-history-of-diamond-grading/",
+    "https://www.gia.edu/gems-gemology/spring-2002-tribute-richard-liddicoat-dirlam",
+    "https://4cs.gia.edu/en-us/blog/celebrating-richard-t-liddicoat-architect-gia-international-diamond-grading-system/",
+    "https://www.igi.org/trivia-why-is-d-the-highest-diamond-colorfaq-why-is-d-the-highest-diamond-color/",
+    "https://4cs.gia.edu/en-us/blog/diamond-color-chart/",
+    "https://www.rarecarat.com/learn/buying-guide/color",
+    "https://4cs.gia.edu/en-us/blog/a-guide-to-diamond-color-d-to-z",
+    "https://www.brilliantearth.com/diamond-color/",
+    "https://www.gemsociety.org/article/diamond-color/",
+    "https://4cs.gia.edu/en-us/blog/gia-diamond-grading-reports-understanding-diamond-color-grade"
+  ]
+}

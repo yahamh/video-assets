@@ -1,0 +1,155 @@
+{
+  "id": "134-sterling-silver-is-only-92-5-percent-silver",
+  "number": 134,
+  "title": "Sterling silver is only 92.5 percent silver",
+  "topic": "sterling silver 925 britannia tarnish",
+  "music": "music-134.wav",
+  "hook": {
+    "text": "Sterling silver is only 92.5 percent silver.",
+    "gold": [
+      "only",
+      "92.5"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sterling silver is only 92.5 percent silver.",
+      "say": "Sterling silver is only ninety-two point five percent silver.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget",
+        "tone": "platinum"
+      }
+    },
+    {
+      "text": "The other 7.5 percent is usually copper.",
+      "say": "The other seven point five percent is usually copper.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper",
+        "sub": "The rest is usually"
+      }
+    },
+    {
+      "text": "Pure silver is too soft, so copper adds strength.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "white",
+        "label": "Stronger"
+      }
+    },
+    {
+      "text": "A 925 stamp means 925 parts silver per thousand.",
+      "say": "A nine twenty-five stamp means nine hundred twenty-five parts silver per thousand.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e9f1f6",
+        "stamp": "925",
+        "stampAt": 1.4
+      }
+    },
+    {
+      "text": "In 1697 England added a purer standard, called Britannia silver.",
+      "say": "In sixteen ninety-seven England added a purer standard, called Britannia silver.",
+      "scene": {
+        "kind": "title",
+        "text": "1697",
+        "sub": "A purer standard in"
+      }
+    },
+    {
+      "text": "It aimed to stop people melting coins for silverware.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A silversmith",
+        "role": "Britannia silver, 1697",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a4a2a",
+            "hair": "short",
+            "hairColor": "#3a2a1e",
+            "skin": "#efc9a6",
+            "expression": "neutral",
+            "facial": "beard"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Silver tarnishes when sulfur gases in the air react with it.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "white",
+        "label": "Tarnish"
+      }
+    },
+    {
+      "text": "The word sterling may come from a coin stamped with a star.",
+      "scene": {
+        "kind": "title",
+        "text": "Star coin",
+        "sub": "The name may come from a"
+      }
+    },
+    {
+      "text": "Polishing removes a little silver each time.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e9f1f6",
+        "label": "A little lost"
+      }
+    },
+    {
+      "text": "Until 1920, British silver coins were sterling silver.",
+      "say": "Until nineteen twenty, British silver coins were sterling silver.",
+      "scene": {
+        "kind": "title",
+        "text": "1920",
+        "sub": "Sterling coins until"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Sterling silver is only 92.5 percent silver. The other 7.5 percent is usually copper, because pure silver is too soft, and copper adds strength. A 925 stamp means 925 parts silver per thousand. In 1697 England added a purer standard, called Britannia silver, which aimed to stop people melting coins for silverware. Silver tarnishes when sulfur gases in the air react with it, and polishing removes a little silver each time. The word sterling may come from a coin stamped with a star. Until 1920, British silver coins were sterling silver.",
+    "hashtags": [
+      "#sterlingsilver",
+      "#silverjewelry",
+      "#925silver",
+      "#jewelryhistory",
+      "#silver"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/silver",
+    "https://www.theassayoffice.co.uk/our-services/hallmarking/silver-assay-and-hallmarking/",
+    "https://www.lyonandturnbull.com/stories/how-to-read-silver-hallmarks",
+    "https://thesilversociety.org/research/identify-your-silver/",
+    "https://www.jewelersmutual.com/the-jewelry-box/sterling-silver-vs-silver",
+    "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/metal-objects/understanding-silver-tarnish.html",
+    "https://www.winterthur.org/wp-content/uploads/Winterthur-Museum_Silver-treatment-advice_2026.pdf",
+    "https://assayoffice.co.uk/news/ever-wondered-why-does-silver-tarnish",
+    "https://history.rcp.ac.uk/blog/setting-higher-standards-silver",
+    "https://assayofficelondon.co.uk/about-us/history-of-hallmarking",
+    "https://www.etymonline.com/word/sterling",
+    "https://www.grammarphobia.com/blog/2011/06/sterling.html",
+    "https://www.royalmintmuseum.org.uk/journal/british-monarchs/george-v/",
+    "https://www.britannica.com/art/sterling-metallurgy",
+    "https://www.chards.co.uk/blog/silver-content-of-british-coins/305"
+  ]
+}

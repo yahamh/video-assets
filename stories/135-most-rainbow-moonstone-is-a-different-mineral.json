@@ -1,0 +1,165 @@
+{
+  "id": "135-most-rainbow-moonstone-is-a-different-mineral",
+  "number": 135,
+  "title": "Most rainbow moonstone is a different mineral",
+  "topic": "moonstone adularescence orthoclase albite rainbow labradorite",
+  "style": "lowpoly",
+  "music": "music-135.wav",
+  "hook": {
+    "text": "Most rainbow moonstone is a different mineral.",
+    "gold": [
+      "rainbow",
+      "different"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Most rainbow moonstone is a different mineral.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#d9e6f5",
+        "halo": "#9fc4ff"
+      }
+    },
+    {
+      "text": "Moonstone is a feldspar with thin alternating layers inside.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9e6f5",
+        "label": "Feldspar"
+      }
+    },
+    {
+      "text": "Light scatters off those layers, a glow called adularescence.",
+      "say": "Light scatters off those layers, a glow called ad-yoo-luh-RES-ens.",
+      "scene": {
+        "kind": "title",
+        "text": "Adularescence",
+        "sub": "The glow is called"
+      }
+    },
+    {
+      "text": "That word comes from the Adula mountains in the Swiss Alps.",
+      "say": "That word comes from the Ad-yoo-luh mountains in the Swiss Alps.",
+      "scene": {
+        "kind": "mine",
+        "place": "Adula mountains, Switzerland",
+        "tone": "#d9e6f5",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "A smooth dome cut, called a cabochon, shows the glow best.",
+      "say": "A smooth dome cut, called a KAB-uh-shon, shows the glow best.",
+      "scene": {
+        "kind": "title",
+        "text": "Cabochon",
+        "sub": "Best shown in a"
+      }
+    },
+    {
+      "text": "The most prized stones are colorless with a blue sheen.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#d9e6f5",
+        "metal": "white",
+        "label": "Blue sheen"
+      }
+    },
+    {
+      "text": "Sri Lanka and India are two of its important sources.",
+      "scene": {
+        "kind": "mine",
+        "place": "Sri Lanka",
+        "tone": "#d9e6f5",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Roman writer Pliny described a stone that held the moon's image,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Pliny",
+        "role": "Roman writer",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#a8946a",
+            "hair": "short",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "though it is unclear whether he meant moonstone.",
+      "scene": {
+        "kind": "title",
+        "text": "A debate",
+        "sub": "The match is still"
+      }
+    },
+    {
+      "text": "Moonstone is one of the modern June birthstones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "pear",
+        "tone": "#d9e6f5",
+        "metal": "white",
+        "label": "June"
+      }
+    },
+    {
+      "text": "Rainbow moonstone is usually labradorite, a different feldspar.",
+      "say": "Rainbow moonstone is usually LAB-ruh-dor-ite, a different feldspar.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c4d4ee",
+        "halo": "#b8a8ff",
+        "label": "Labradorite"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Most rainbow moonstone is a different mineral. Moonstone is a feldspar with thin alternating layers inside, and light scatters off those layers in a glow called adularescence. That word comes from the Adula mountains in the Swiss Alps. A smooth dome cut, called a cabochon, shows the glow best, and the most prized stones are colorless with a blue sheen. Sri Lanka and India are two of its important sources. The Roman writer Pliny described a stone that held the moon's image, though it is unclear whether he meant moonstone. Moonstone is one of the modern June birthstones. Rainbow moonstone is usually labradorite, a different feldspar.",
+    "hashtags": [
+      "#moonstone",
+      "#adularescence",
+      "#junebirthstone",
+      "#gemology",
+      "#feldspar"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/moonstone",
+    "https://geology.com/gemstones/moonstone/",
+    "https://en.wikipedia.org/wiki/Moonstone_(gemstone)",
+    "https://www.merriam-webster.com/dictionary/adularescence",
+    "https://merriam-webster.com/dictionary/adularia",
+    "https://www.mindat.org/min-28.html",
+    "https://gia.edu/moonstone-history-lore",
+    "https://gia.edu/moonstone-quality-factor",
+    "https://www.americangemsociety.org/moonstone-overview",
+    "https://www.gia.edu/june-birthstones",
+    "https://www.gia.edu/moonstone-description",
+    "https://www.attalus.org/translate/pliny_hn37b.html",
+    "https://rruff.info/doclib/MinMag/Volume_26/26-182-325.pdf",
+    "https://nationaljeweler.com/articles/5278-rocks-on-the-evolution-of-the-birthstone-list"
+  ]
+}
