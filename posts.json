@@ -1514,7 +1514,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3489058811277421",
+      "instagram": "https://www.instagram.com/reel/DfnnkWNFIDo/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707053542271470900",
+      "youtube": "https://www.youtube.com/watch?v=hGC-ryj0ua8"
+    }
   },
   "094-morganite-named-for-a-banker": {
     "at": "2026-11-12T00:30:00Z",
@@ -1523,7 +1530,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4819692204978613",
+      "instagram": "https://www.instagram.com/reel/DfnxhXdGWwT/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707075952710274356"
+    }
   },
   "095-gold-stretches-fifty-miles": {
     "at": "2026-11-12T02:00:00Z",
@@ -1532,7 +1545,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1161024826504322",
+      "instagram": "https://www.instagram.com/reel/Dfn7_s2kvfE/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707099355408452885"
+    }
   },
   "096-citrine-heated-amethyst": {
     "at": "2026-11-12T11:30:00Z",
@@ -1872,6 +1891,34 @@
   "132-you-can-dig-this-gem-for-free": {
     "at": "2026-11-15T21:00:00Z",
     "zernio_id": "6af4f260972c7bb7fd74344a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "133-the-best-diamond-color-grade-is-d": {
+    "at": "2026-11-15T23:00:00Z",
+    "zernio_id": "6af53fd03617c7ab5be17711",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "134-sterling-silver-is-only-92-5-percent-silver": {
+    "at": "2026-11-16T00:30:00Z",
+    "zernio_id": "6af53fd63617c7ab5be17733",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "135-most-rainbow-moonstone-is-a-different-mineral": {
+    "at": "2026-11-16T02:00:00Z",
+    "zernio_id": "6af53fdd2ab92d364ee9c740",
     "platforms": [
       "facebook",
       "instagram",
