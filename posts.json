@@ -1716,7 +1716,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1077323128641440",
+      "instagram": "https://www.instagram.com/reel/Dfrh6FyFWWU/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707616154142952710"
+    }
   },
   "107-most-diamonds-are-older-than-dinosaurs": {
     "at": "2026-11-13T13:00:00Z",
@@ -1725,7 +1731,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1143545294883034",
+      "instagram": "https://www.instagram.com/reel/DfrsPOtAi73/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707640505252711700"
+    }
   },
   "108-a-squids-cousin-became-a-gemstone": {
     "at": "2026-11-13T14:00:00Z",
@@ -1735,7 +1747,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2527777444298907",
+      "instagram": "https://www.instagram.com/reel/DfrzWUDDzQ4/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707656632456580373",
+      "youtube": "https://www.youtube.com/watch?v=m0n5rloi5-c"
+    }
   },
   "109-a-diamond-shaped-like-half-an-egg": {
     "at": "2026-11-13T16:30:00Z",
@@ -2079,6 +2098,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "146-cubic-zirconia-came-from-a-laser-lab": {
+    "at": "2026-11-17T11:30:00Z",
+    "zernio_id": "6af73aa03b53c898a8570484",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "147-this-purple-gem-comes-from-one-place": {
+    "at": "2026-11-17T13:00:00Z",
+    "zernio_id": "6af73ab0a0e71882efc5a016",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "148-this-pink-pearl-comes-from-a-snail": {
+    "at": "2026-11-17T14:00:00Z",
+    "zernio_id": "6af73ab9a0e71882efc5a0a5",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -2533,7 +2580,11 @@
     "zernio_id": "6aee5590ec68a5230fee2b70",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=3SS6tahTjRw"
+    }
   },
   "lesson-022-gold-stamps": {
     "at": "2026-11-14T16:00:00Z",
