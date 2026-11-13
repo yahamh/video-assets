@@ -1670,7 +1670,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1118943377588445",
+      "instagram": "https://www.instagram.com/reel/DfqMJs4AEcA/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707424173303303445",
+      "youtube": "https://www.youtube.com/watch?v=S1EZOLSlaOU"
+    }
   },
   "104-miners-threw-away-montanas-sapphires": {
     "at": "2026-11-13T00:30:00Z",
@@ -1679,7 +1686,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1158695403776635",
+      "instagram": "https://www.instagram.com/reel/DfqWU4ACSUg/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707445067987897652"
+    }
   },
   "105-amethysts-name-means-not-drunk": {
     "at": "2026-11-13T02:00:00Z",
@@ -1688,7 +1701,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2265430124017967",
+      "instagram": "https://www.instagram.com/reel/DfqgmhNjBuo/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707469139421449478"
+    }
   },
   "106-a-jewelers-box-hid-a-new-mineral": {
     "at": "2026-11-13T11:30:00Z",
@@ -2028,6 +2047,34 @@
   "142-this-gem-is-fossilized-wood": {
     "at": "2026-11-16T21:00:00Z",
     "zernio_id": "6af63ec25a851992122d1d54",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "143-this-emerald-is-carved-with-a-prayer": {
+    "at": "2026-11-16T23:00:00Z",
+    "zernio_id": "6af68dcbffef0422fe02f9f8",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "144-emerald-has-a-rare-red-cousin": {
+    "at": "2026-11-17T00:30:00Z",
+    "zernio_id": "6af68dd0b7d69476fc64ab1d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "145-the-diamond-anniversary-is-the-60th": {
+    "at": "2026-11-17T02:00:00Z",
+    "zernio_id": "6af68ddbb7d69476fc64ab53",
     "platforms": [
       "facebook",
       "instagram",
