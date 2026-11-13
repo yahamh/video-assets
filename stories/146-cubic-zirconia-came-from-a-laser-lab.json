@@ -1,0 +1,156 @@
+{
+  "id": "146-cubic-zirconia-came-from-a-laser-lab",
+  "number": 146,
+  "title": "Cubic zirconia came from a laser lab",
+  "topic": "cubic zirconia fianit lebedev institute skull melting 1976",
+  "music": "music-146.wav",
+  "hook": {
+    "text": "Cubic zirconia came from a laser lab.",
+    "gold": [
+      "laser",
+      "lab."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cubic zirconia came from a laser lab.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2"
+      }
+    },
+    {
+      "text": "Scientists at the Lebedev Physical Institute in Moscow developed it.",
+      "say": "Scientists at the LEB-uh-dev Physical Institute in Moscow developed it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Lebedev Institute",
+        "role": "Moscow",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#d8dde2",
+            "hair": "short",
+            "hairColor": "#6a5a4a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They were looking for a crystal to use in lasers.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "label": "Laser crystal"
+      }
+    },
+    {
+      "text": "The team published its growing method in 1973.",
+      "say": "The team published its growing method in nineteen seventy-three.",
+      "scene": {
+        "kind": "title",
+        "text": "1973",
+        "sub": "Method published in"
+      }
+    },
+    {
+      "text": "In Russia, it is called fianit, after the institute's abbreviation, FIAN.",
+      "say": "In Russia, it is called fee-ah-NEET, after the institute's abbreviation, fee-AHN.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "label": "Fianit"
+      }
+    },
+    {
+      "text": "Radio waves melt the zirconia inside a water-cooled container.",
+      "scene": {
+        "kind": "title",
+        "text": "Radio waves",
+        "sub": "Heated by"
+      }
+    },
+    {
+      "text": "A solid crust called the skull forms around the melt.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#bfc9d2",
+        "label": "The skull"
+      }
+    },
+    {
+      "text": "Zirconia melts at about 2,700 degrees Celsius.",
+      "say": "Zirconia melts at about two thousand seven hundred degrees Celsius.",
+      "scene": {
+        "kind": "title",
+        "text": "2,700 degrees",
+        "sub": "Melts at about"
+      }
+    },
+    {
+      "text": "Colorless stones reached the jewelry market in 1976.",
+      "say": "Colorless stones reached the jewelry market in nineteen seventy-six.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#cfe3f2",
+        "label": "1976"
+      }
+    },
+    {
+      "text": "It rates about 8 on the Mohs scale, and diamond rates 10.",
+      "say": "It rates about eight on the Mohs scale, and diamond rates ten.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 8 vs 10",
+        "sub": "Hardness"
+      }
+    },
+    {
+      "text": "A CZ weighs about 1.7 times as much as a same-size diamond.",
+      "say": "A cee zee weighs about one point seven times as much as a same-size diamond.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "halo": "#e6f2ff",
+        "label": "Heavier"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cubic zirconia came from a laser lab. Scientists at the Lebedev Physical Institute in Moscow developed it while looking for a crystal to use in lasers, and the team published its growing method in 1973. In Russia, it is called fianit, after the institute's abbreviation, FIAN. Radio waves melt the zirconia inside a water-cooled container, and a solid crust called the skull forms around the melt. Zirconia melts at about 2,700 degrees Celsius. Colorless stones reached the jewelry market in 1976. It rates about 8 on the Mohs scale, and diamond rates 10. A CZ weighs about 1.7 times as much as a same-size diamond.",
+    "hashtags": [
+      "#cubiczirconia",
+      "#fianit",
+      "#gemology",
+      "#sciencehistory",
+      "#jewelry"
+    ]
+  },
+  "sources": [
+    "https://my.gia.edu/dam/jcr:fd2b89ca-de2c-4370-9f48-246d12cf3c66/Cubic-Zirconia.pdf",
+    "https://en.wikipedia.org/wiki/Cubic_zirconia",
+    "https://en.wikipedia.org/wiki/Skull_crucible",
+    "https://www.mes.msu.ru/o-muzee/fondy-muzeya/fianity",
+    "https://aif.ru/society/education/chto-takoe-fianit",
+    "https://www.gemsociety.org/article/cubic-zirconia-vs-diamonds/",
+    "https://quantum-electron.lebedev.ru/wp-content/uploads/2020/01/0094.pdf"
+  ]
+}

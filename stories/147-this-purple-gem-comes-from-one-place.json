@@ -1,0 +1,150 @@
+{
+  "id": "147-this-purple-gem-comes-from-one-place",
+  "number": 147,
+  "title": "This purple gem comes from one place",
+  "topic": "charoite murun massif sakha chara river",
+  "style": "lowpoly",
+  "music": "music-147.wav",
+  "hook": {
+    "text": "This purple gem comes from one place.",
+    "gold": [
+      "one",
+      "place."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This purple gem comes from one place.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#9a68d4",
+        "halo": "#c9a6ff"
+      }
+    },
+    {
+      "text": "Charoite is known from only one place, in Russia's Sakha Republic.",
+      "say": "Charoite is known from only one place, in Russia's SAH-kah Republic.",
+      "scene": {
+        "kind": "mine",
+        "place": "Murun massif, Sakha",
+        "tone": "#9a68d4",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Geologists reportedly found it in the 1940s.",
+      "say": "Geologists reportedly found it in the nineteen forties.",
+      "scene": {
+        "kind": "title",
+        "text": "1940s",
+        "sub": "Reportedly found in the"
+      }
+    },
+    {
+      "text": "It was officially recognized as a mineral in the late 1970s.",
+      "say": "It was officially recognized as a mineral in the late nineteen seventies.",
+      "scene": {
+        "kind": "title",
+        "text": "Late 1970s",
+        "sub": "Officially, in the"
+      }
+    },
+    {
+      "text": "Its swirls come from fibrous crystals growing in interlocking patterns.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9a68d4",
+        "halo": "#c9a6ff",
+        "label": "Fine fibers"
+      }
+    },
+    {
+      "text": "Its colors range from lilac to violet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b79be0",
+        "label": "Lilac, violet"
+      }
+    },
+    {
+      "text": "It measures 5 to 6 on the Mohs scale.",
+      "say": "It measures five to six on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 5 to 6",
+        "sub": "Hardness of"
+      }
+    },
+    {
+      "text": "It is usually carved or cut into cabochons.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#9a68d4",
+        "label": "Cabochons"
+      }
+    },
+    {
+      "text": "Mining is said to be limited to about 100 tons a year.",
+      "say": "Mining is said to be limited to about one hundred tons a year.",
+      "scene": {
+        "kind": "title",
+        "text": "100 tons a year",
+        "sub": "Said to be limited to"
+      }
+    },
+    {
+      "text": "Some pieces also show a cat's-eye glow called chatoyancy.",
+      "say": "Some pieces also show a cat's-eye glow called shuh-TOY-un-see.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9a68d4",
+        "halo": "#c9a6ff",
+        "label": "Cat's-eye"
+      }
+    },
+    {
+      "text": "The gem is named for the Chara River, about 43 miles away.",
+      "say": "The gem is named for the CHAH-rah River, about forty three miles away.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#b79be0",
+        "halo": "#c9a6ff",
+        "label": "Chara River"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This purple gem comes from one place. Charoite is known from only one place, in Russia's Sakha Republic, and geologists reportedly found it in the 1940s. It was officially recognized as a mineral in the late 1970s. Its swirls come from fibrous crystals growing in interlocking patterns, and its colors range from lilac to violet. It measures 5 to 6 on the Mohs scale and is usually carved or cut into cabochons. Mining is said to be limited to about 100 tons a year, and some pieces also show a cat's-eye glow called chatoyancy. The gem is named for the Chara River, about 43 miles away.",
+    "hashtags": [
+      "#charoite",
+      "#sakha",
+      "#purplestones",
+      "#gemstones",
+      "#lapidary"
+    ]
+  },
+  "sources": [
+    "https://www.gemsociety.org/article/charoite-jewelry-and-gemstone-information",
+    "https://en.wikipedia.org/wiki/Charoite",
+    "https://zh.mindat.org/article.php/3842/%3Cm%3ECharoite%3C_%3E%2C+a+chance+discovery+on+the+Murunskii+Massif",
+    "https://www.gw2ru.com/arts/3674-charoite-lilac-gem-yakutia",
+    "https://www.gemselect.com/gem-info/charoite/charoite-info.php",
+    "https://alexstrekeisen.it/english/meta/charoite.php"
+  ]
+}

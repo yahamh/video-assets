@@ -1,0 +1,155 @@
+{
+  "id": "148-this-pink-pearl-comes-from-a-snail",
+  "number": 148,
+  "title": "This pink pearl comes from a snail",
+  "topic": "conch pearl queen conch flame structure non-nacreous",
+  "style": "paper",
+  "plate": "Conch pearls",
+  "theme": "watercolor",
+  "music": "music-148.wav",
+  "hook": {
+    "text": "This pink pearl comes from a snail.",
+    "gold": [
+      "pink",
+      "snail."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This pink pearl comes from a snail.",
+      "scene": {
+        "kind": "hook",
+        "show": "round-pearl",
+        "tone": "#f2a9b8",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It comes from the queen conch, a large Caribbean sea snail.",
+      "scene": {
+        "kind": "title",
+        "text": "Queen conch",
+        "sub": "A large sea snail",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Unlike an oyster pearl, a conch pearl has no nacre.",
+      "say": "Unlike an oyster pearl, a conch pearl has no NAY-ker.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2a9b8",
+        "label": "No nacre",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Its surface has a shimmering pattern called flame structure.",
+      "scene": {
+        "kind": "title",
+        "text": "Flame structure",
+        "sub": "A pattern named",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Parallel fibers of aragonite crystal create that silky shimmer.",
+      "say": "Parallel fibers of uh-RAG-uh-nite crystal create that silky shimmer.",
+      "scene": {
+        "kind": "reveal",
+        "item": "opal",
+        "label": "Aragonite",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Collectors prize pink stones, especially a salmon pink.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f3a08f",
+        "label": "Salmon pink",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Reportedly, about one conch in 10,000 makes a pearl.",
+      "say": "Reportedly, about one conch in ten thousand makes a pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "1 in 10,000",
+        "sub": "Reportedly about",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Conch pearls were popular in Victorian jewelry, then revived in the 1980s.",
+      "say": "Conch pearls were popular in Victorian jewelry, then revived in the nineteen eighties.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#f2a9b8",
+        "metal": "yellow",
+        "label": "Victorian era",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "In 2024, the United States listed the queen conch as threatened.",
+      "say": "In twenty twenty-four, the United States listed the queen conch as threatened.",
+      "scene": {
+        "kind": "title",
+        "text": "Threatened",
+        "sub": "Listed in 2024 as",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In 2009, researchers developed a technique to seed conch pearls.",
+      "say": "In two thousand nine, researchers developed a technique to seed conch pearls.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Conch researchers",
+        "role": "Seeding, 2009",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#e8eef2",
+            "hair": "updo",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This pink pearl comes from a snail. It comes from the queen conch, a large Caribbean sea snail, and unlike an oyster pearl, a conch pearl has no nacre. Its surface has a shimmering pattern called flame structure, and parallel fibers of aragonite crystal create that silky shimmer. Collectors prize pink stones, especially a salmon pink. Reportedly, about one conch in 10,000 makes a pearl. Conch pearls were popular in Victorian jewelry, then revived in the 1980s. In 2024, the United States listed the queen conch as threatened. In 2009, researchers developed a technique to seed conch pearls.",
+    "hashtags": [
+      "#conchpearl",
+      "#queenconch",
+      "#pearls",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://cms.gia.edu/dam/jcr:560a4289-afaa-42cc-94f8-d0892431fcf3/the-history-and-gemology-of-queen-conch-pearls.pdf",
+    "https://www.nationaljeweler.com/articles/889-5-things-to-know-about-conch-pearls",
+    "https://www.sothebys.com/en/articles/the-a-z-of-jewelry-c-is-for-conch-pearls",
+    "https://www.gemsociety.org/article/calcareous-concretions/",
+    "https://gem-a.com/gem-hub/understanding-rare-non-nacreous-pearls/",
+    "https://en.wikipedia.org/wiki/Aliger_gigas",
+    "https://fisheries.noaa.gov/action/final-rule-list-queen-conch-threatened-under-endangered-species-act",
+    "https://www.govinfo.gov/content/pkg/FR-2024-02-14/html/2024-02966.htm"
+  ]
+}
