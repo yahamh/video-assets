@@ -1,0 +1,145 @@
+{
+  "id": "152-the-oldest-known-geological-map-shows-gold",
+  "number": 152,
+  "title": "The oldest known geological map shows gold",
+  "topic": "turin papyrus map wadi hammamat gold mine ramesses iv",
+  "music": "music-152.wav",
+  "hook": {
+    "text": "The oldest known geological map shows gold.",
+    "gold": [
+      "oldest",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The oldest known geological map shows gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "It was drawn in Egypt around 1150 BC, under Ramesses IV.",
+      "say": "It was drawn in Egypt around eleven fifty B C, under RAM-uh-seez the Fourth.",
+      "scene": {
+        "kind": "title",
+        "text": "1150 BC",
+        "sub": "Drawn around"
+      }
+    },
+    {
+      "text": "It shows Wadi Hammamat, between the Nile and the Red Sea.",
+      "say": "It shows WAH-dee HAM-uh-mat, between the Nile and the Red Sea.",
+      "scene": {
+        "kind": "journey",
+        "icon": "parcel",
+        "from": {
+          "name": "The Nile",
+          "x": 0.28,
+          "y": 0.42
+        },
+        "to": {
+          "name": "Red Sea",
+          "x": 0.74,
+          "y": 0.56
+        }
+      }
+    },
+    {
+      "text": "The mapped stretch is about 9 miles long.",
+      "say": "The mapped stretch is about nine miles long.",
+      "scene": {
+        "kind": "title",
+        "text": "About 9 miles",
+        "sub": "The map covers"
+      }
+    },
+    {
+      "text": "It marks gold deposits and four small houses for the workers.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e0b040",
+        "label": "Gold deposits"
+      }
+    },
+    {
+      "text": "Pink hills mark granite and gold-bearing quartz.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e88ca0",
+        "label": "Pink hills"
+      }
+    },
+    {
+      "text": "A caption says the gold mountains are colored red.",
+      "scene": {
+        "kind": "title",
+        "text": "Colored red",
+        "sub": "A caption says"
+      }
+    },
+    {
+      "text": "It was prepared for an expedition to quarry stone for royal statues.",
+      "say": "It was prepared for an expedition to quarry stone for royal statues.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#7f9a80",
+        "label": "Bekhen stone"
+      }
+    },
+    {
+      "text": "South sits at the top of the map.",
+      "scene": {
+        "kind": "title",
+        "text": "South is up",
+        "sub": "This map has"
+      }
+    },
+    {
+      "text": "It is kept in the Museo Egizio in Turin, Italy.",
+      "say": "It is kept in the moo-ZAY-oh eh-JEET-see-oh in Turin, Italy.",
+      "scene": {
+        "kind": "title",
+        "text": "Turin, Italy",
+        "sub": "Kept in"
+      }
+    },
+    {
+      "text": "The next known geological map came nearly 3,000 years later.",
+      "say": "The next known geological map came nearly three thousand years later.",
+      "scene": {
+        "kind": "title",
+        "text": "3,000 years",
+        "sub": "The next map took nearly"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The oldest known geological map shows gold. It was drawn in Egypt around 1150 BC, under Ramesses IV, and it shows Wadi Hammamat, between the Nile and the Red Sea. The mapped stretch is about 9 miles long. It marks gold deposits and four small houses for the workers, and pink hills mark granite and gold-bearing quartz. A caption says the gold mountains are colored red. It was prepared for an expedition to quarry stone for royal statues, and south sits at the top of the map. It is kept in the Museo Egizio in Turin, Italy. The next known geological map came nearly 3,000 years later.",
+    "hashtags": [
+      "#ancientegypt",
+      "#goldmining",
+      "#turinpapyrus",
+      "#geology",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collezionepapiri.museoegizio.it/en-GB/document/9/",
+    "https://www.nationalgeographic.com/history/article/gold-mining-egypt-turin-papyrus-map-archaeology",
+    "https://www.earthdate.org/episodes/the-oldest-geological-map",
+    "https://en.wikipedia.org/wiki/Turin_Papyrus_Map",
+    "https://info.igme.es/media/boletin/2005/116_2/Articulo_1.pdf"
+  ]
+}

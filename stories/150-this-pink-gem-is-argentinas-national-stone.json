@@ -1,0 +1,151 @@
+{
+  "id": "150-this-pink-gem-is-argentinas-national-stone",
+  "number": 150,
+  "title": "This pink gem is Argentina's national stone",
+  "topic": "rhodochrosite inca rose argentina capillitas alma king",
+  "style": "lowpoly",
+  "music": "music-150.wav",
+  "hook": {
+    "text": "This pink gem is Argentina's national stone.",
+    "gold": [
+      "pink",
+      "Argentina's"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This pink gem is Argentina's national stone.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#d9506e",
+        "halo": "#ff8fa8"
+      }
+    },
+    {
+      "text": "The name rhodochrosite comes from Greek words meaning rose color.",
+      "say": "The name roh-doh-KROH-site comes from Greek words meaning rose color.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9506e",
+        "label": "Rose color"
+      }
+    },
+    {
+      "text": "It is made of manganese carbonate, which is rose red when pure.",
+      "scene": {
+        "kind": "title",
+        "text": "Manganese",
+        "sub": "Made of"
+      }
+    },
+    {
+      "text": "Calcium or magnesium in the mix lightens it to pink.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#ec9db0",
+        "label": "Lighter pink"
+      }
+    },
+    {
+      "text": "Argentina named it the national gemstone in 2002.",
+      "say": "Argentina named it the national gemstone in two thousand two.",
+      "scene": {
+        "kind": "title",
+        "text": "2002",
+        "sub": "National gemstone in"
+      }
+    },
+    {
+      "text": "The banded Inca rose comes from the Capillitas mine in Catamarca.",
+      "say": "The banded Inca rose comes from the kah-pee-YEE-tahs mine in kah-tah-MAR-kah.",
+      "scene": {
+        "kind": "mine",
+        "place": "Capillitas, Catamarca",
+        "tone": "#d9506e",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "That banded material is usually cut into cabochons or beads.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9506e",
+        "label": "Cabochons"
+      }
+    },
+    {
+      "text": "It is soft, about 3.5 to 4 on the Mohs scale.",
+      "say": "It is soft, about three point five to four on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 3.5 to 4",
+        "sub": "Hardness of"
+      }
+    },
+    {
+      "text": "It has perfect cleavage, so it needs gentle care.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9506e",
+        "halo": "#ff8fa8",
+        "label": "Handle gently"
+      }
+    },
+    {
+      "text": "Colorado's Sweet Home Mine produced the Alma King crystal in 1992.",
+      "say": "Colorado's Sweet Home Mine produced the Alma King crystal in nineteen ninety-two.",
+      "scene": {
+        "kind": "mine",
+        "place": "Sweet Home Mine",
+        "tone": "#d9506e",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "In 2002, Colorado also named it the state mineral.",
+      "say": "In two thousand two, Colorado also named it the state mineral.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#d9506e",
+        "label": "State mineral"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This pink gem is Argentina's national stone. The name rhodochrosite comes from Greek words meaning rose color, and it is made of manganese carbonate, which is rose red when pure. Calcium or magnesium in the mix lightens it to pink. Argentina named it the national gemstone in 2002, and the banded Inca rose comes from the Capillitas mine in Catamarca. That banded material is usually cut into cabochons or beads. It is soft, about 3.5 to 4 on the Mohs scale, and it has perfect cleavage, so it needs gentle care. Colorado's Sweet Home Mine produced the Alma King crystal in 1992. In 2002, Colorado also named it the state mineral.",
+    "hashtags": [
+      "#rhodochrosite",
+      "#incarose",
+      "#argentina",
+      "#gemstones",
+      "#mineralcollecting"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhodochrosite",
+    "https://en.wikipedia.org/wiki/Sweet_Home_Mine",
+    "https://cms.gia.edu/dam/jcr:ab6ee74e-8210-44ef-bfa9-01d851f374fe/gem-rhodochrosite-from-the-sweet-home-mine.pdf",
+    "https://my.gia.edu/gems-gemology/spring-2023-gemnews-sweet-home-mine-rhodochrosite-1889",
+    "https://www.gemsociety.org/article/rhodochrosite-jewelry-and-gemstone-information",
+    "https://www.rockngem.com/rhodochrosite-argentinas-inca-rose",
+    "https://www.ricenorthwestmuseum.org/?p=349",
+    "https://artsandculture.google.com/story/mAXRjPqcQAUKqw",
+    "https://www.coloradovirtuallibrary.org/?p=1053"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "151-only-one-gem-can-be-called-cats-eye",
+  "number": 151,
+  "title": "Only one gem can be called cat's-eye",
+  "topic": "cat's-eye chrysoberyl chatoyancy milk and honey",
+  "style": "paper",
+  "plate": "Cat's-eye gem",
+  "theme": "mint",
+  "music": "music-151.wav",
+  "hook": {
+    "text": "Only one gem can be called cat's-eye.",
+    "gold": [
+      "one",
+      "cat's-eye."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Only one gem can be called cat's-eye.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#d9b84a",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In the trade, plain cat's-eye means the gem chrysoberyl.",
+      "say": "In the trade, plain cat's-eye means the gem KRIS-oh-BEH-ril.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9b84a",
+        "label": "Chrysoberyl",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Other stones need a prefix, like quartz cat's-eye.",
+      "scene": {
+        "kind": "title",
+        "text": "A prefix",
+        "sub": "Other stones need",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A band of light reflects from thin, parallel inclusions inside the stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9b84a",
+        "label": "Light band",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The stone is cut as a cabochon so the band shows.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "oval",
+        "tone": "#d9b84a",
+        "metal": "yellow",
+        "label": "Cabochon",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The cutter lines the base up with those inclusions.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A gem cutter",
+        "role": "Aligning the eye",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#7a6a4a",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Jewelers call the light and dark halves milk and honey.",
+      "scene": {
+        "kind": "title",
+        "text": "Milk and honey",
+        "sub": "Jewelers call it",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Its colors run from honey brown to greenish yellow.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b6c64a",
+        "label": "Greenish",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It measures 8.5 on the Mohs scale.",
+      "say": "It measures eight and a half on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 8.5",
+        "sub": "Hardness of",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Sri Lanka and Brazil are two main sources.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9b84a",
+        "label": "Two sources",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Alexandrite is a color-change variety of the same mineral.",
+      "say": "Alexandrite is a color-change variety of the same mineral.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#5a9a6a",
+        "label": "Alexandrite",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Only one gem can be called cat's-eye. In the trade, plain cat's-eye means the gem chrysoberyl, and other stones need a prefix, like quartz cat's-eye. A band of light reflects from thin, parallel inclusions inside the stone, and the stone is cut as a cabochon so the band shows. The cutter lines the base up with those inclusions. Jewelers call the light and dark halves milk and honey. Its colors run from honey brown to greenish yellow, and it measures 8.5 on the Mohs scale. Sri Lanka and Brazil are two main sources. Alexandrite is a color-change variety of the same mineral.",
+    "hashtags": [
+      "#catseye",
+      "#chrysoberyl",
+      "#chatoyancy",
+      "#gemstones",
+      "#jewelry"
+    ]
+  },
+  "sources": [
+    "https://gem-a.com/understanding-the-cats-eye-effect-in-gemstones/",
+    "https://www.gemsociety.org/article/chrysoberyl-jewelry-gemstone-information/",
+    "https://en.wikipedia.org/wiki/Chrysoberyl",
+    "https://www.minerals.net/gemstone/cat-s-eye",
+    "https://www.britannica.com/topic/cats-eye-gemstone",
+    "https://www.britannica.com/topic/cymophane",
+    "https://gia.edu/gia-news-research/optical-effects-phenomenal-cabochons",
+    "https://modernjeweler.com/gem-profiles/cats-eye-chrysoberyl/",
+    "https://cameo.mfa.org/wiki/Chrysoberyl",
+    "https://geology.com/gemstones/chatoyancy"
+  ]
+}

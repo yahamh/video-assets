@@ -1,0 +1,151 @@
+{
+  "id": "149-some-diamonds-glow-blue-under-uv-light",
+  "number": 149,
+  "title": "Some diamonds glow blue under UV light",
+  "topic": "diamond fluorescence uv blue n3 nitrogen stokes 1852 boyle 1663",
+  "music": "music-149.wav",
+  "hook": {
+    "text": "Some diamonds glow blue under UV light.",
+    "gold": [
+      "glow",
+      "blue"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some diamonds glow blue under UV light.",
+      "say": "Some diamonds glow blue under ultraviolet light.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "halo": "#5aa8ff"
+      }
+    },
+    {
+      "text": "Roughly 25 to 35 percent of gem diamonds fluoresce to some degree.",
+      "say": "Roughly twenty-five to thirty-five percent of gem diamonds fluoresce to some degree.",
+      "scene": {
+        "kind": "title",
+        "text": "25 to 35%",
+        "sub": "Roughly"
+      }
+    },
+    {
+      "text": "More than 95 percent of those glow blue under UV light.",
+      "say": "More than ninety-five percent of those glow blue under ultraviolet light.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9fc8ff",
+        "halo": "#5aa8ff",
+        "label": "Glows blue"
+      }
+    },
+    {
+      "text": "A gap surrounded by three nitrogen atoms usually causes the blue glow.",
+      "scene": {
+        "kind": "title",
+        "text": "Nitrogen",
+        "sub": "Caused by"
+      }
+    },
+    {
+      "text": "In 1663, Robert Boyle reported a diamond that shone in the dark.",
+      "say": "In sixteen sixty-three, Robert Boyle reported a diamond that shone in the dark.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Robert Boyle",
+        "role": "Diamond glow, 1663",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a3a3a",
+            "hair": "side",
+            "hairColor": "#6a4a34",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "George Stokes coined the word fluorescence in 1852.",
+      "say": "George Stokes coined the word fluorescence in eighteen fifty-two.",
+      "scene": {
+        "kind": "title",
+        "text": "1852",
+        "sub": "A word coined in"
+      }
+    },
+    {
+      "text": "He took the name from fluorspar, a mineral that also glows.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#8f6ad8",
+        "label": "Fluorspar"
+      }
+    },
+    {
+      "text": "GIA reports it from none to very strong.",
+      "say": "G I A reports it from none to very strong.",
+      "scene": {
+        "kind": "title",
+        "text": "Five levels",
+        "sub": "GIA reports"
+      }
+    },
+    {
+      "text": "Daylight includes long-wave UV, the light that sets off the blue glow.",
+      "say": "Daylight includes long-wave ultraviolet, the light that sets off the blue glow.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "halo": "#fff3c0",
+        "label": "Daylight"
+      }
+    },
+    {
+      "text": "In daylight, blue fluorescence can make a yellowish diamond look whiter.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f0e6a8",
+        "label": "Looks whiter"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some diamonds glow blue under UV light. Roughly 25 to 35 percent of gem diamonds fluoresce to some degree, and more than 95 percent of those glow blue under UV light. A gap surrounded by three nitrogen atoms usually causes the blue glow. In 1663, Robert Boyle reported a diamond that shone in the dark, and George Stokes coined the word fluorescence in 1852. He took the name from fluorspar, a mineral that also glows. GIA reports it from none to very strong. Daylight includes long-wave UV, the light that sets off the blue glow. In daylight, blue fluorescence can make a yellowish diamond look whiter.",
+    "hashtags": [
+      "#diamonds",
+      "#fluorescence",
+      "#uvlight",
+      "#gemology",
+      "#diamondfacts"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/understanding-diamond-fluorescence/",
+    "https://4cs.gia.edu/en-us/blog/diamond-fluorescence-good-bad/",
+    "https://www.gemsociety.org/article/diamond-fluorescence/",
+    "https://www.gia.edu/gems-gemology/summer-2013-luo-fluorescence-optical-defects",
+    "https://rapaport.com/magazine-article/blue-glow/",
+    "https://gem-a.com/gem-hub/focus-on-fluorescence/",
+    "https://en.wikipedia.org/wiki/Material_properties_of_diamond",
+    "https://en.wikipedia.org/wiki/Fluorescence",
+    "https://makingscience.royalsociety.org/items/rbo_2i_77/observations-made-27th-october-1663-about-mr-claytons-diamond-by-robert-boyle",
+    "https://en.wikipedia.org/wiki/Luminous_gemstones"
+  ]
+}

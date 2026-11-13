@@ -1,0 +1,179 @@
+{
+  "id": "lesson-028-diamond-shape-vs-cut",
+  "series": "lesson",
+  "number": 28,
+  "title": "Diamond shape versus cut",
+  "topic": "diamond shape versus cut",
+  "music": "music-lesson-028.wav",
+  "hook": {
+    "text": "Shape and cut mean different things.",
+    "gold": [
+      "Shape",
+      "cut"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Shape and cut mean different things.",
+      "scene": {
+        "kind": "compare",
+        "before": "bridal-cad.webp",
+        "after": "bridal-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "Shape is the outline of a stone seen from above.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.6,
+          "k": 1.6
+        },
+        "label": "Outline"
+      }
+    },
+    {
+      "text": "Round and pear are two of many shapes.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "bridal-render.webp",
+          "pendant-pear-render.webp"
+        ],
+        "labels": [
+          "Round",
+          "Pear"
+        ]
+      }
+    },
+    {
+      "text": "Cut is how the facets are arranged and angled.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.46,
+          "y": 0.27,
+          "k": 2.2
+        },
+        "label": "Facets"
+      }
+    },
+    {
+      "text": "Cut is often called the C with the biggest effect on sparkle.",
+      "scene": {
+        "kind": "title",
+        "text": "Sparkle",
+        "sub": "Cut affects"
+      }
+    },
+    {
+      "text": "A brilliant cut uses triangular and kite-shaped facets.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "focus": {
+          "x": 0.55,
+          "y": 0.45,
+          "k": 2.0
+        },
+        "label": "Brilliant cut"
+      }
+    },
+    {
+      "text": "A step cut uses long, parallel facets instead of small triangles.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-three-quarter.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.2,
+          "k": 2.0
+        },
+        "label": "Step cut"
+      }
+    },
+    {
+      "text": "A standard round brilliant has 57 or 58 facets.",
+      "say": "A standard round brilliant has fifty-seven or fifty-eight facets.",
+      "scene": {
+        "kind": "title",
+        "text": "57 or 58 facets",
+        "sub": "A round brilliant has"
+      }
+    },
+    {
+      "text": "GIA gives cut grades only to standard round brilliants.",
+      "say": "G I A gives cut grades only to standard round brilliants.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.4
+        },
+        "label": "Round brilliant"
+      }
+    },
+    {
+      "text": "The scale runs from Excellent down to Poor.",
+      "scene": {
+        "kind": "title",
+        "text": "Excellent to Poor",
+        "sub": "The scale runs"
+      }
+    },
+    {
+      "text": "A render shows a client the shape of the center stone,",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before anything is made.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: diamond shape versus cut",
+    "caption": "Shape is the outline of a stone seen from above, while cut is how its facets are arranged and angled. A brilliant cut uses triangular and kite-shaped facets, a step cut uses long, parallel facets, and a standard round brilliant has 57 or 58 facets. GIA gives cut grades only to standard round brilliants, from Excellent down to Poor. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#diamondcut",
+      "#diamonds",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/about-diamond-shape/",
+    "https://4cs.gia.edu/en-us/diamond-cut/",
+    "https://www.gia.edu/diamond-cut/diamond-cut-basic-overview",
+    "https://4cs.gia.edu/en-us/blog/gia-diamond-grading-reports-understanding-diamond-cut-grades/",
+    "https://4cs.gia.edu/en-us/blog/gia-diamond-cut-grade-six-things-to-know/",
+    "https://www.gemsociety.org/article/diamond-cutting-before-you-buy/",
+    "https://www.gemsociety.org/article/gias-new-diamond-cut-grading-system/",
+    "https://en.wikipedia.org/wiki/Diamond_cut"
+  ]
+}
