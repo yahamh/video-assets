@@ -1,0 +1,141 @@
+{
+  "id": "143-this-emerald-is-carved-with-a-prayer",
+  "number": 143,
+  "title": "This emerald is carved with a prayer",
+  "topic": "mughal carved emerald prayer 1695 doha museum of islamic art",
+  "music": "music-143.wav",
+  "hook": {
+    "text": "This emerald is carved with a prayer.",
+    "gold": [
+      "emerald",
+      "prayer."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This emerald is carved with a prayer.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#2fae6a"
+      }
+    },
+    {
+      "text": "This flat plaque weighs 217.8 carats.",
+      "say": "This flat plaque weighs two hundred seventeen point eight carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#2fae6a",
+        "label": "217.8 carats"
+      }
+    },
+    {
+      "text": "It measures about 5 by 4 centimeters.",
+      "say": "It measures about five by four centimeters.",
+      "scene": {
+        "kind": "title",
+        "text": "5 by 4 cm",
+        "sub": "It measures about"
+      }
+    },
+    {
+      "text": "One side is carved with a prayer in elegant script.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fae6a",
+        "label": "A prayer"
+      }
+    },
+    {
+      "text": "The other side is carved with leaves and flowers.",
+      "scene": {
+        "kind": "title",
+        "text": "Flowers",
+        "sub": "The other side has"
+      }
+    },
+    {
+      "text": "Its date matches about 1695, in Aurangzeb's reign.",
+      "say": "Its date matches about sixteen ninety-five, in OW-rung-zeb's reign.",
+      "scene": {
+        "kind": "crown",
+        "crownLabel": "Aurangzeb, 1695"
+      }
+    },
+    {
+      "text": "Many emeralds reached Mughal India from Colombia via European traders.",
+      "scene": {
+        "kind": "journey",
+        "icon": "ship",
+        "from": {
+          "name": "Colombia",
+          "x": 0.1,
+          "y": 0.62
+        },
+        "to": {
+          "name": "India",
+          "x": 0.82,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "text": "Prayers on such stones suggest they were worn as talismans.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fae6a",
+        "halo": "#9fffd0",
+        "label": "Talisman"
+      }
+    },
+    {
+      "text": "It sold in 2001 for about $2.2 million.",
+      "say": "It sold in two thousand one for about two point two million dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$2.2 million",
+        "sub": "Sold in 2001 for about"
+      }
+    },
+    {
+      "text": "It is now in the Museum of Islamic Art in Doha, Qatar.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#2fae6a",
+        "halo": "#ffe9a0",
+        "label": "Doha, Qatar"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This emerald is carved with a prayer. This flat plaque weighs 217.8 carats and measures about 5 by 4 centimeters. One side is carved with a prayer in elegant script, and the other side is carved with leaves and flowers. Its date matches about 1695, in Aurangzeb's reign. Many emeralds reached Mughal India from Colombia via European traders, and prayers on such stones suggest they were worn as talismans. It sold in 2001 for about $2.2 million, and it is now in the Museum of Islamic Art in Doha, Qatar.",
+    "hashtags": [
+      "#emerald",
+      "#mughal",
+      "#carvedemerald",
+      "#gemstones",
+      "#islamicart"
+    ]
+  },
+  "sources": [
+    "https://www.christies.com.cn/lot/lot-2729922",
+    "https://collections.qm.org.qa/en/objects/carved-mughal-emerald-je862002",
+    "https://www.jckonline.com/?p=41657",
+    "https://www.gemsociety.org/article/worlds-largest-emeralds/",
+    "https://www.gulf-times.com/story/501609/highlights-at-the-museum-of-islamic-art",
+    "https://www.gia.edu/gems-gemology/fall-2019-era-of-the-taj-mahal-and-mughals"
+  ]
+}

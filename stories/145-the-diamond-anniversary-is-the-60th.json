@@ -1,0 +1,163 @@
+{
+  "id": "145-the-diamond-anniversary-is-the-60th",
+  "number": 145,
+  "title": "The diamond anniversary is the 60th",
+  "topic": "wedding anniversary gems silver 25 gold 50 diamond 60 platinum 70",
+  "style": "paper",
+  "plate": "Anniversary gems",
+  "theme": "sky",
+  "music": "music-145.wav",
+  "hook": {
+    "text": "The diamond anniversary is the 60th.",
+    "gold": [
+      "diamond",
+      "60th."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The diamond anniversary is the 60th.",
+      "say": "The diamond anniversary is the sixtieth.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Silver marks the 25th year and gold marks the 50th.",
+      "say": "Silver marks the twenty-fifth year and gold marks the fiftieth.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "white",
+        "label": "Silver and gold",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Some lists also give diamond to the 75th.",
+      "say": "Some lists also give diamond to the seventy-fifth.",
+      "scene": {
+        "kind": "title",
+        "text": "The 75th",
+        "sub": "Some lists add",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Silver and gold anniversaries are traced to German-speaking lands.",
+      "scene": {
+        "kind": "title",
+        "text": "German lands",
+        "sub": "Traced to",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Couples were given a silver wreath, then later a gold one.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "metal": "white",
+        "label": "Silver wreath",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "In 1937, an American jewelers' association introduced an expanded list.",
+      "say": "In nineteen thirty-seven, an American jewelers' association introduced an expanded list.",
+      "scene": {
+        "kind": "title",
+        "text": "1937",
+        "sub": "An expanded list in",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Pearl is for the 30th and ruby for the 40th.",
+      "say": "Pearl is for the thirtieth and ruby for the fortieth.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "label": "Pearl and ruby",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Queen Victoria's Diamond Jubilee in 1897 marked 60 years on the throne.",
+      "say": "Queen Victoria's Diamond Jubilee in eighteen ninety-seven marked sixty years on the throne.",
+      "scene": {
+        "kind": "reveal",
+        "item": "tiara",
+        "label": "Jubilee, 1897",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Platinum marks the 70th year in the British list.",
+      "say": "Platinum marks the seventieth year in the British list.",
+      "scene": {
+        "kind": "title",
+        "text": "70th year",
+        "sub": "Platinum marks the",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The Queen and Prince Philip marked a platinum anniversary in 2017.",
+      "say": "The Queen and Prince Philip marked a platinum anniversary in twenty seventeen.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Elizabeth II",
+        "role": "Platinum, 2017",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#5a8ac8",
+            "hair": "updo",
+            "hairColor": "#d8d4cc",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The diamond anniversary is the 60th. Silver marks the 25th year and gold marks the 50th, and some lists also give diamond to the 75th. Silver and gold anniversaries are traced to German-speaking lands, where couples were given a silver wreath, then later a gold one. In 1937, an American jewelers' association introduced an expanded list. Pearl is for the 30th and ruby for the 40th. Queen Victoria's Diamond Jubilee in 1897 marked 60 years on the throne, and platinum marks the 70th year in the British list. The Queen and Prince Philip marked a platinum anniversary in 2017.",
+    "hashtags": [
+      "#anniversary",
+      "#weddinganniversary",
+      "#diamondanniversary",
+      "#jewelryhistory",
+      "#platinum"
+    ]
+  },
+  "sources": [
+    "https://emilypost.com/advice/classic-etiquette-anniversary-gifts-by-year",
+    "https://www.hallmark.ca/en/get-inspired/anniversary-gifts-by-year",
+    "https://en.wikipedia.org/wiki/Wedding_anniversary",
+    "https://www.hallmark.ca/en/get-inspired/wedding-anniversary-traditions",
+    "https://time.com/4771179/history-anniversary-gifts-paper-silver-gold",
+    "https://words.fromoldbooks.org/Brewer-DictionaryOfPhraseAndFable/w/wedding-anniversaries.html",
+    "https://de.wikipedia.org/wiki/Goldene_Hochzeit",
+    "https://www.dwds.de/wb/Silberhochzeit",
+    "https://www.countrylife.co.uk/comment-opinion/curious-questions-where-do-wedding-anniversary-traditions-come-from-232964",
+    "https://en.wikipedia.org/wiki/Diamond_Jubilee_of_Queen_Victoria",
+    "https://www.arabnews.com/node/1196701",
+    "https://www.scmp.com/news/world/europe/article/2120667"
+  ]
+}

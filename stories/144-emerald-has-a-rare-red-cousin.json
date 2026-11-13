@@ -1,0 +1,157 @@
+{
+  "id": "144-emerald-has-a-rare-red-cousin",
+  "number": 144,
+  "title": "Emerald has a rare red cousin",
+  "topic": "red beryl utah wah wah bixbite maynard bixby",
+  "style": "lowpoly",
+  "music": "music-144.wav",
+  "hook": {
+    "text": "Emerald has a rare red cousin.",
+    "gold": [
+      "rare",
+      "red"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Emerald has a rare red cousin.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#c2263f",
+        "halo": "#ff6a7a"
+      }
+    },
+    {
+      "text": "Red beryl is a rare color of beryl, the emerald mineral.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c2263f",
+        "label": "Red beryl"
+      }
+    },
+    {
+      "text": "Trace manganese gives it a raspberry red color.",
+      "scene": {
+        "kind": "title",
+        "text": "Manganese",
+        "sub": "A trace of"
+      }
+    },
+    {
+      "text": "Maynard Bixby found it in Utah's Thomas Range in 1904.",
+      "say": "Maynard Bixby found it in Utah's Thomas Range in nineteen oh four.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Maynard Bixby",
+        "role": "Found it, 1904",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a3a",
+            "hair": "side",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile",
+            "hat": "cap",
+            "facial": "mustache"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The name bixbite was dropped to avoid confusion with bixbyite.",
+      "say": "The name BIX-bite was dropped to avoid confusion with BIX-bee-ite.",
+      "scene": {
+        "kind": "title",
+        "text": "Bixbite",
+        "sub": "A dropped name"
+      }
+    },
+    {
+      "text": "Utah's Wah Wah Mountains are the only known commercial source.",
+      "scene": {
+        "kind": "mine",
+        "place": "Wah Wah Mountains, Utah",
+        "tone": "#c2263f",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Reportedly, one red beryl crystal is found per 150,000 diamonds.",
+      "say": "Reportedly, one red beryl crystal is found per one hundred fifty thousand diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "1 in 150,000",
+        "sub": "Reportedly"
+      }
+    },
+    {
+      "text": "Most cut stones weigh well under one carat.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c2263f",
+        "label": "Under a carat"
+      }
+    },
+    {
+      "text": "It is hard, at 7.5 to 8 on the Mohs scale.",
+      "say": "It is hard, at seven point five to eight on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 7.5 to 8",
+        "sub": "Hardness of"
+      }
+    },
+    {
+      "text": "The color forms as the crystal grows, not from treatment.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c2263f",
+        "halo": "#ff6a7a",
+        "label": "Natural color"
+      }
+    },
+    {
+      "text": "It is sometimes called red emerald.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#c2263f",
+        "label": "Red emerald"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Emerald has a rare red cousin. Red beryl is a rare color of beryl, the emerald mineral, and trace manganese gives it a raspberry red color. Maynard Bixby found it in Utah's Thomas Range in 1904, and the name bixbite was dropped to avoid confusion with bixbyite. Utah's Wah Wah Mountains are the only known commercial source. Reportedly, one red beryl crystal is found per 150,000 diamonds, and most cut stones weigh well under one carat. It is hard, at 7.5 to 8 on the Mohs scale, and the color forms as the crystal grows, not from treatment. It is sometimes called red emerald.",
+    "hashtags": [
+      "#redberyl",
+      "#utah",
+      "#rarestones",
+      "#gemstones",
+      "#emerald"
+    ]
+  },
+  "sources": [
+    "https://ugspub.nr.utah.gov/publications/survey_notes/snt34-3.pdf",
+    "https://gia.edu/doc/Red-Beryl-from-Utah-A-Review-and-Update.pdf",
+    "https://gem-a.com/gem-hub/american-gemstones-red-beryl-utah/",
+    "https://gem-a.com/gem-hub/red-beryl-rare-gemstone/",
+    "https://www.gemsociety.org/article/red-beryl-jewelry-and-gemstone-information",
+    "https://carnegiemnh.org/roll-out-the-beryl/",
+    "https://nhmu.utah.edu/articles/nhmus-hidden-minerals"
+  ]
+}
