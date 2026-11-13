@@ -1763,7 +1763,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1112535354884239",
+      "instagram": "https://www.instagram.com/reel/DfsEPPnEVJY/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707694682561711380"
+    }
   },
   "110-this-metal-looks-like-wood-grain": {
     "at": "2026-11-13T18:00:00Z",
@@ -1773,7 +1779,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1479626134271246",
+      "instagram": "https://www.instagram.com/reel/DfsO8XFAlq5/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707718534326947093",
+      "youtube": "https://www.youtube.com/watch?v=M2Ejfgul1j8"
+    }
   },
   "111-named-for-a-daughter-and-the-sea": {
     "at": "2026-11-13T19:30:00Z",
@@ -1782,7 +1795,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=995417473088377",
+      "instagram": "https://www.instagram.com/reel/DfsY09eCExr/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707740924939390229"
+    }
   },
   "112-two-huge-diamonds-are-called-chips": {
     "at": "2026-11-13T21:00:00Z",
@@ -1791,7 +1810,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1112920808028037",
+      "instagram": "https://www.instagram.com/reel/DfsjNnsCuuS/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707764301469109525"
+    }
   },
   "113-gold-is-yellow-thanks-to-relativity": {
     "at": "2026-11-13T23:00:00Z",
@@ -2128,6 +2153,43 @@
       "youtube"
     ]
   },
+  "149-some-diamonds-glow-blue-under-uv-light": {
+    "at": "2026-11-17T16:30:00Z",
+    "zernio_id": "6af78dce1004851af24a069a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "150-this-pink-gem-is-argentinas-national-stone": {
+    "at": "2026-11-17T18:00:00Z",
+    "zernio_id": "6af78dd4b9658ecdc077c5e2",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "151-only-one-gem-can-be-called-cats-eye": {
+    "at": "2026-11-17T19:30:00Z",
+    "zernio_id": "6af78dddb9658ecdc077c61c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "152-the-oldest-known-geological-map-shows-gold": {
+    "at": "2026-11-17T21:00:00Z",
+    "zernio_id": "6af78de6f5181a1d5f4b65ab",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -2300,7 +2362,11 @@
     "zernio_id": "6aed4308390b49fe77fccef5",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=LNg7sfI0Fkg"
+    }
   },
   "gs-09-asscher": {
     "at": "2026-11-14T17:00:00Z",
@@ -2624,6 +2690,13 @@
   "lesson-027-ear-wire": {
     "at": "2026-11-19T16:00:00Z",
     "zernio_id": "6af63ecc615d96333081e432",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-028-diamond-shape-vs-cut": {
+    "at": "2026-11-20T16:00:00Z",
+    "zernio_id": "6af78debf5181a1d5f4b65c4",
     "platforms": [
       "youtube"
     ]
