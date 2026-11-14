@@ -1872,7 +1872,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1011751524564909",
+      "instagram": "https://www.instagram.com/reel/DfuGpqcEcgu/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707988240057240840"
+    }
   },
   "117-cleopatras-emerald-mines-probably-werent-hers": {
     "at": "2026-11-14T13:00:00Z",
@@ -1881,7 +1887,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2619227448578384",
+      "instagram": "https://www.instagram.com/reel/DfuRD40Eorb/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708011679623171346"
+    }
   },
   "118-some-rings-spell-words-with-their-gems": {
     "at": "2026-11-14T14:00:00Z",
@@ -1891,7 +1903,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2091287164923702",
+      "instagram": "https://www.instagram.com/reel/DfuYFCzjkJ1/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708027482456296725",
+      "youtube": "https://www.youtube.com/watch?v=IiN6li7gr7I"
+    }
   },
   "119-once-only-two-painite-crystals-were-known": {
     "at": "2026-11-14T16:30:00Z",
@@ -2235,6 +2254,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "156-a-meteorite-impact-made-this-green-gem": {
+    "at": "2026-11-18T11:30:00Z",
+    "zernio_id": "6af88aebd59a4323c5804fa6",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "157-gold-is-not-weighed-in-regular-ounces": {
+    "at": "2026-11-18T13:00:00Z",
+    "zernio_id": "6af88af8ff47764057cdff3e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "158-beeswax-reattached-this-gold-masks-beard": {
+    "at": "2026-11-18T14:00:00Z",
+    "zernio_id": "6af88b04449439ddfceabfeb",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -2704,7 +2751,11 @@
     "zernio_id": "6aefacd429355971b918d693",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=Iq4gEN4LUCE"
+    }
   },
   "lesson-023-parts-of-a-ring": {
     "at": "2026-11-15T16:00:00Z",
