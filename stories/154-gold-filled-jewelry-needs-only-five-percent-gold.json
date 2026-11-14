@@ -1,0 +1,143 @@
+{
+  "id": "154-gold-filled-jewelry-needs-only-five-percent-gold",
+  "number": 154,
+  "title": "Gold-filled jewelry needs only five percent gold",
+  "topic": "gold filled vermeil gold plated ftc jewelry guides one twentieth 2.5 microns",
+  "style": "paper",
+  "plate": "Gold layers",
+  "theme": "blush",
+  "music": "music-154.wav",
+  "hook": {
+    "text": "Gold-filled jewelry needs only five percent gold.",
+    "gold": [
+      "five",
+      "percent"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold-filled jewelry needs only five percent gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "metal": "yellow",
+        "shape": "plain",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In the United States, that means one twentieth of the total weight.",
+      "scene": {
+        "kind": "title",
+        "text": "One twentieth",
+        "sub": "At least",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A layer of ten karat gold or better covers every surface.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "label": "Gold layer",
+        "light": "#fff2c4",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It is bonded to a base metal core by mechanical means.",
+      "scene": {
+        "kind": "title",
+        "text": "Base metal core",
+        "sub": "Bonded to a",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The layer is much thicker than regular plating, so it lasts longer.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "label": "Thicker layer",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Gold electroplate needs only 0.175 microns of gold.",
+      "say": "Gold electroplate needs only point one seven five microns of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "0.175 microns",
+        "sub": "Gold electroplate",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Vermeil has a sterling silver base under its gold.",
+      "say": "Vermeil has a sterling silver base under its gold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "empty": true,
+        "metal": "yellow",
+        "label": "Vermeil",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Its gold must be at least ten karat and 2.5 microns thick.",
+      "say": "Its gold must be at least ten karat and two point five microns thick.",
+      "scene": {
+        "kind": "title",
+        "text": "2.5 microns",
+        "sub": "At least",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Rolled gold plate has half as much gold as gold-filled.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "rose",
+        "label": "Rolled gold",
+        "light": "#fff2c4",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "That is one fortieth of the total weight.",
+      "scene": {
+        "kind": "title",
+        "text": "One fortieth",
+        "sub": "That is",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Gold-filled jewelry needs only five percent gold. In the United States, that means at least one twentieth of the total weight, in a layer of ten karat gold or better that covers every surface and is bonded to a base metal core by mechanical means. The layer is much thicker than regular plating, so it lasts longer. Gold electroplate needs only 0.175 microns of gold. Vermeil has a sterling silver base under its gold, and its gold layer must be at least ten karat and 2.5 microns thick. Rolled gold plate has half as much gold as gold-filled, which is one fortieth of the total weight.",
+    "hashtags": [
+      "#goldfilled",
+      "#vermeil",
+      "#goldplated",
+      "#jewelrytips",
+      "#finejewelry"
+    ]
+  },
+  "sources": [
+    "https://www.govinfo.gov/content/pkg/FR-2018-08-16/html/2018-17454.htm",
+    "https://www.ganoksin.com/ftp/JVC_guide.pdf",
+    "https://cms.mjsa.org/publications/compliance-guides/marking-stamping-regulations",
+    "https://en.wikipedia.org/wiki/Rolled_Gold",
+    "https://www.bluenile.com/blog/diamonds-jewelry/gold-vermeil",
+    "https://www.garfieldrefining.com/resources/blog/different-types-of-gold-jewelry-gold-filled-vs-gold-plated-and-more/"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "153-this-emerald-has-a-wheel-inside",
+  "number": 153,
+  "title": "This emerald has a wheel inside",
+  "topic": "trapiche emerald colombia muzo six spokes sugar mill",
+  "style": "lowpoly",
+  "music": "music-153.wav",
+  "hook": {
+    "text": "This emerald has a wheel inside.",
+    "gold": [
+      "emerald",
+      "wheel"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This emerald has a wheel inside.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#2fa86a",
+        "halo": "#7be0a8"
+      }
+    },
+    {
+      "text": "It is called trapiche, and it is very rare.",
+      "say": "It is called trah-PEE-chay, and it is very rare.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fa86a",
+        "label": "Trapiche"
+      }
+    },
+    {
+      "text": "Six dark arms spread from the center like spokes.",
+      "scene": {
+        "kind": "title",
+        "text": "Six spokes",
+        "sub": "A wheel with"
+      }
+    },
+    {
+      "text": "The dark arms are mostly carbon, and green emerald fills the gaps.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fa86a",
+        "halo": "#7be0a8",
+        "label": "Green between"
+      }
+    },
+    {
+      "text": "The name is Spanish, after the spoked wheels in sugar mills.",
+      "say": "The name is Spanish, after the spoked wheels in sugar mills.",
+      "scene": {
+        "kind": "title",
+        "text": "Sugar mill",
+        "sub": "Named for a"
+      }
+    },
+    {
+      "text": "Almost all come from a few mines in Colombia, such as Muzo.",
+      "say": "Almost all come from a few mines in Colombia, such as MOO-so.",
+      "scene": {
+        "kind": "mine",
+        "place": "Muzo, Colombia",
+        "tone": "#2fa86a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "A very few have turned up in Brazil and Madagascar.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#2fa86a",
+        "label": "Rare elsewhere"
+      }
+    },
+    {
+      "text": "Cutters often polish them into smooth domes to show off the spokes.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fa86a",
+        "halo": "#7be0a8",
+        "label": "Smooth domes"
+      }
+    },
+    {
+      "text": "The wheel stays fixed when you tilt the stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fa86a",
+        "label": "Fixed pattern"
+      }
+    },
+    {
+      "text": "Scientists still do not agree on how the spokes form.",
+      "scene": {
+        "kind": "title",
+        "text": "No consensus",
+        "sub": "How it forms"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This emerald has a wheel inside. A trapiche emerald shows a pattern like a wheel with six spokes, and it is very rare. The dark arms are mostly carbon, and green emerald fills the gaps between them. The name is Spanish, after the cogwheels used in sugar mills. Almost all come from a few mines in western Colombia, such as Muzo, and a very few have turned up in Brazil and Madagascar. Cutters often polish them into smooth domes called cabochons to show off the six sections. The pattern stays fixed when you tilt the stone, unlike a star effect. Scientists still do not agree on how it forms.",
+    "hashtags": [
+      "#trapiche",
+      "#emerald",
+      "#colombia",
+      "#gemology",
+      "#jewelrystory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/articles/fall-2015-colombian-trapiche-emeralds-recent-advances-understanding-formation",
+    "https://www.gia.edu/articles/emerald-superstar-trapiche-gemstones",
+    "https://www.gia.edu/gems-gemology/spring-2019-gemnews-trapiche-emerald-from-colombia",
+    "https://www.gemsociety.org/article/trapiche-emerald/",
+    "https://en.wikipedia.org/wiki/Trapiche_emerald",
+    "https://nationaljeweler.com/blog/5999-5-things-to-know-about-trapiche-gems",
+    "https://hyperphysics.gsu.edu/hbase/minerals/Trapiche.html"
+  ]
+}

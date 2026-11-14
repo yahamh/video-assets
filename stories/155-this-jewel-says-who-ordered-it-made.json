@@ -1,0 +1,147 @@
+{
+  "id": "155-this-jewel-says-who-ordered-it-made",
+  "number": 155,
+  "title": "This jewel says who ordered it made",
+  "topic": "alfred jewel aestel ashmolean north petherton 1693 pastoral care",
+  "music": "music-155.wav",
+  "hook": {
+    "text": "This jewel says who ordered it made.",
+    "gold": [
+      "jewel",
+      "ordered"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This jewel says who ordered it made.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear",
+        "tone": "#cfe3f2"
+      }
+    },
+    {
+      "text": "Its edge reads, in Old English, Alfred ordered me to be made.",
+      "scene": {
+        "kind": "title",
+        "text": "Alfred ordered me",
+        "sub": "Its edge reads"
+      }
+    },
+    {
+      "text": "Gold frames a tiny enamel figure under a cover of rock crystal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#cfe3f2",
+        "label": "Rock crystal"
+      }
+    },
+    {
+      "text": "The green-robed figure may stand for the sense of sight.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4aa66a",
+        "label": "Sense of sight"
+      }
+    },
+    {
+      "text": "It was reportedly plowed up in a Somerset field in 1693.",
+      "say": "It was reportedly plowed up in a Somerset field in sixteen ninety-three.",
+      "scene": {
+        "kind": "title",
+        "text": "1693",
+        "sub": "Found in"
+      }
+    },
+    {
+      "text": "Its base is a dragon-like head with a socket for a rod.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9a441",
+        "label": "Dragon head"
+      }
+    },
+    {
+      "text": "It may have topped an aestel, a pointer for reading a book.",
+      "say": "It may have topped an ES-tul, a pointer for reading a book.",
+      "scene": {
+        "kind": "title",
+        "text": "Aestel",
+        "sub": "A reading pointer"
+      }
+    },
+    {
+      "text": "Alfred wrote that each copy would carry an aestel worth fifty mancuses.",
+      "say": "Alfred wrote that each copy would carry an ES-tul worth fifty MAN-kus-ez.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "King Alfred",
+        "role": "Late 800s",
+        "cast": [
+          {
+            "outfit": "royal",
+            "hat": "crown",
+            "hair": "long",
+            "hairColor": "#8a6a3a",
+            "facial": "fullbeard",
+            "skin": "#efc9a6",
+            "prop": "letter",
+            "expression": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A mancus was worth roughly a month's wages.",
+      "say": "A MAN-kus was worth roughly a month's wages.",
+      "scene": {
+        "kind": "title",
+        "text": "A month's wages",
+        "sub": "A mancus was about"
+      }
+    },
+    {
+      "text": "Today it is on display in the Ashmolean Museum in Oxford.",
+      "say": "Today it is on display in the ash-MOH-lee-un Museum in Oxford.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#d9a441",
+        "label": "On display"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This jewel says who ordered it made. The Alfred Jewel has an Old English inscription around its edge that reads, Alfred ordered me to be made. Gold frames a tiny enamel figure under a cover of rock crystal, and the green-robed figure may stand for the sense of sight. It was reportedly plowed up in a field in Somerset in 1693. Its base is a dragon-like head with a socket for a rod, so it may have topped an aestel, a pointer for following the words in a book. In the preface to his Pastoral Care, Alfred wrote that each copy would carry an aestel worth fifty mancuses, and a mancus was worth roughly a month's wages. Today the jewel is on display in the Ashmolean Museum in Oxford.",
+    "hashtags": [
+      "#alfredthegreat",
+      "#anglosaxon",
+      "#ashmolean",
+      "#medievaljewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alfred_Jewel",
+    "https://www.ashmolean.org/alfred-jewel",
+    "https://britisharchaeology.ashmus.ox.ac.uk/highlights/alfred-jewel.html",
+    "https://www.livescience.com/archaeology/the-alfred-jewel-a-1-100-year-old-treasure-from-englands-first-king-that-proclaims-alfred-ordered-me-to-be-made",
+    "https://www.teachinghistory100.org/objects/about_the_object/king_alfreds_jewel",
+    "https://portal.sds.ox.ac.uk/articles/educational_resource/The_Alfred_Jewel/21703907",
+    "https://departments.bucknell.edu/english/courses/engl440/pastoral/translation.shtml",
+    "https://www.spectator.com/article/dot-wordsworth-what-is-an-astel/"
+  ]
+}
