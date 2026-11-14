@@ -1826,7 +1826,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1864411578317645",
+      "instagram": "https://www.instagram.com/reel/DfsxO_8lee9/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707795453307276545",
+      "youtube": "https://www.youtube.com/watch?v=bFu1ASRbe30"
+    }
   },
   "114-ruby-and-sapphire-are-one-mineral": {
     "at": "2026-11-14T00:30:00Z",
@@ -1835,7 +1842,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1804467474155620",
+      "instagram": "https://www.instagram.com/reel/Dfs7LlUmdll/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707818094449741077"
+    }
   },
   "115-a-ring-once-served-as-a-signature": {
     "at": "2026-11-14T02:00:00Z",
@@ -1844,7 +1857,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1070666199330909",
+      "instagram": "https://www.instagram.com/reel/DftFiVVAPwa/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7707840889389108486"
+    }
   },
   "116-diamonds-and-pencil-lead-share-one-element": {
     "at": "2026-11-14T11:30:00Z",
@@ -2184,6 +2203,34 @@
   "152-the-oldest-known-geological-map-shows-gold": {
     "at": "2026-11-17T21:00:00Z",
     "zernio_id": "6af78de6f5181a1d5f4b65ab",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "153-this-emerald-has-a-wheel-inside": {
+    "at": "2026-11-17T23:00:00Z",
+    "zernio_id": "6af7e0dd818738ca2c1e116b",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "154-gold-filled-jewelry-needs-only-five-percent-gold": {
+    "at": "2026-11-18T00:30:00Z",
+    "zernio_id": "6af7e0e8d9788433e4cdca85",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "155-this-jewel-says-who-ordered-it-made": {
+    "at": "2026-11-18T02:00:00Z",
+    "zernio_id": "6af7e0f1971f3a55e9618b2a",
     "platforms": [
       "facebook",
       "instagram",
