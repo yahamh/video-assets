@@ -1,0 +1,178 @@
+{
+  "id": "lesson-029-lab-grown-vs-mined-diamonds",
+  "series": "lesson",
+  "number": 29,
+  "title": "Lab-grown versus mined diamonds",
+  "topic": "lab-grown versus mined diamonds",
+  "music": "music-lesson-029.wav",
+  "hook": {
+    "text": "A lab-grown diamond is still a diamond.",
+    "gold": [
+      "lab-grown",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A lab-grown diamond is still a diamond.",
+      "scene": {
+        "kind": "compare",
+        "before": "bridal-cad.webp",
+        "after": "bridal-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "Both are pure carbon with the same crystal structure.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.46,
+          "y": 0.27,
+          "k": 1.8
+        },
+        "label": "Pure carbon"
+      }
+    },
+    {
+      "text": "Both rate 10 on the Mohs scale.",
+      "say": "Both rate ten on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 10",
+        "sub": "Both rate"
+      }
+    },
+    {
+      "text": "A mined diamond formed underground over millions to billions of years.",
+      "scene": {
+        "kind": "title",
+        "text": "Underground",
+        "sub": "Mined diamonds form"
+      }
+    },
+    {
+      "text": "Labs grow one in days or weeks, using one of two methods.",
+      "scene": {
+        "kind": "title",
+        "text": "Days or weeks",
+        "sub": "A lab grows one in"
+      }
+    },
+    {
+      "text": "HPHT copies the heat and pressure deep in the earth.",
+      "say": "H P H T copies the heat and pressure deep in the earth.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "HPHT",
+          "CVD"
+        ],
+        "active": 0,
+        "label": "Two methods"
+      }
+    },
+    {
+      "text": "CVD uses carbon gas in a vacuum chamber to grow a diamond.",
+      "say": "C V D uses carbon gas in a vacuum chamber to grow a diamond.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "HPHT",
+          "CVD"
+        ],
+        "active": 1,
+        "label": "Two methods"
+      }
+    },
+    {
+      "text": "Only a lab with special equipment can tell them apart.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.5
+        },
+        "label": "Not by eye"
+      }
+    },
+    {
+      "text": "GIA inscribes a report number on the girdle with a laser.",
+      "say": "G I A inscribes a report number on the girdle with a laser.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "focus": {
+          "x": 0.55,
+          "y": 0.45,
+          "k": 2.0
+        },
+        "label": "Round diamonds"
+      }
+    },
+    {
+      "text": "The FTC has counted lab-grown stones as diamonds since 2018.",
+      "say": "The F T C has counted lab-grown stones as diamonds since twenty eighteen.",
+      "scene": {
+        "kind": "title",
+        "text": "2018",
+        "sub": "Counted as diamonds in"
+      }
+    },
+    {
+      "text": "A render shows a client the design, whichever diamond goes in,",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before any stone is set.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: lab-grown versus mined diamonds",
+    "caption": "A lab-grown diamond and a mined diamond are both diamond: pure carbon with the same crystal structure and a 10 on the Mohs scale. A mined diamond formed underground over millions to billions of years, while labs grow one in days or weeks with HPHT or CVD. Only a lab with special equipment can tell them apart, and GIA inscribes a report number on the girdle with a laser. Since 2018, the FTC has counted lab-grown stones as diamonds. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#labgrowndiamonds",
+      "#diamonds",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/hpht-and-cvd-diamond-growth-processes",
+    "https://4cs.gia.edu/en-us/blog/what-are-synthetic-diamonds/",
+    "https://4cs.gia.edu/en-us/simulants-moissanite-and-lab-grown-diamonds/",
+    "https://www.gia.edu/gia-news-research/difference-between-natural-laboratory-grown-diamonds",
+    "https://4cs.gia.edu/en-us/blog/mohs-scale/",
+    "https://www.gemsociety.org/article/lab-grown-diamond-production-methods/",
+    "https://www.gemsociety.org/article/grading-lab-grown-diamonds-four-cs/",
+    "https://www.ftc.gov/news-events/news/press-releases/2018/07/ftc-approves-final-revisions-jewelry-guides",
+    "https://www.ftc.gov/business-guidance/blog/2018/07/diamonds-pearls-revisions-ftcs-jewelry-guides",
+    "https://www.federalregister.gov/documents/2018/08/16/2018-17454/guides-for-the-jewelry-precious-metals-and-pewter-industries",
+    "https://en.wikipedia.org/wiki/Synthetic_diamond",
+    "https://en.wikipedia.org/wiki/Diamond"
+  ]
+}

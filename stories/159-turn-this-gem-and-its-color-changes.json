@@ -1,0 +1,142 @@
+{
+  "id": "159-turn-this-gem-and-its-color-changes",
+  "number": 159,
+  "title": "Turn this gem and its color changes",
+  "topic": "iolite cordierite pleochroism water sapphire viking sunstone",
+  "style": "lowpoly",
+  "music": "music-159.wav",
+  "hook": {
+    "text": "Turn this gem and its color changes.",
+    "gold": [
+      "Turn",
+      "color"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Turn this gem and its color changes.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#5a4bb0",
+        "halo": "#9a8cf0"
+      }
+    },
+    {
+      "text": "It is iolite, the gem variety of the mineral cordierite.",
+      "say": "It is EYE-oh-lite, the gem variety of the mineral KOR-dee-uh-rite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5a4bb0",
+        "label": "Iolite"
+      }
+    },
+    {
+      "text": "The name comes from a Greek word for violet.",
+      "scene": {
+        "kind": "title",
+        "text": "Violet",
+        "sub": "Greek for"
+      }
+    },
+    {
+      "text": "That color change is called pleochroism, and iolite shows it strongly.",
+      "say": "That color change is called plee-AH-kroh-iz-um, and iolite shows it strongly.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#a89a6a",
+        "label": "Another side"
+      }
+    },
+    {
+      "text": "Cutters must orient the rough carefully to show its best color.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#5a4bb0",
+        "halo": "#9a8cf0",
+        "label": "Oriented cut"
+      }
+    },
+    {
+      "text": "Iolite measures 7 to 7.5 on the Mohs scale.",
+      "say": "Iolite measures seven to seven point five on the Mohs scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 7 to 7.5",
+        "sub": "Hardness of"
+      }
+    },
+    {
+      "text": "Stones from Sri Lanka's gem gravels have been called water sapphires.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4a6fd0",
+        "label": "Water sapphire"
+      }
+    },
+    {
+      "text": "A Norse saga says a sunstone found the hidden sun.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f7c23a",
+        "halo": "#ffe9a0",
+        "label": "Sunstone"
+      }
+    },
+    {
+      "text": "Some think it was a polarizing crystal, such as iolite or calcite.",
+      "say": "Some think it was a polarizing crystal, such as EYE-oh-lite or calcite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "label": "Polarizing"
+      }
+    },
+    {
+      "text": "No Viking sunstone has been found, so it remains a hypothesis.",
+      "scene": {
+        "kind": "title",
+        "text": "Hypothesis",
+        "sub": "Still a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Turn this gem and its color changes. It is iolite, the gem variety of the mineral cordierite, and the name comes from a Greek word for violet. The color change is called pleochroism, and iolite shows it strongly, so cutters must orient the rough carefully to show its best color. It measures 7 to 7.5 on the Mohs scale, and stones from Sri Lanka's gem gravels have been called water sapphires. A Norse saga says a sunstone found the hidden sun. Some think it was a polarizing crystal, such as iolite or calcite, but no Viking sunstone has been found, so it remains a hypothesis.",
+    "hashtags": [
+      "#iolite",
+      "#pleochroism",
+      "#vikingsunstone",
+      "#watersapphire",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/iolite-description",
+    "https://www.gemsociety.org/article/iolite-jewelry-and-gemstone-information/",
+    "https://en.wikipedia.org/wiki/Cordierite",
+    "https://en.wikipedia.org/wiki/Sunstone_(medieval)",
+    "https://www.britannica.com/science/cordierite",
+    "https://openpolar.no/Record/crroyalsociety:10.1098%2Frspa.2012.0651",
+    "https://www.rdworldonline.com/stone-in-shipwreck-may-be-viking-navigators-tool/",
+    "https://www.thehistoryblog.com/?p=13521",
+    "https://www.foxnews.com/science/is-legendary-viking-sunstone-real"
+  ]
+}

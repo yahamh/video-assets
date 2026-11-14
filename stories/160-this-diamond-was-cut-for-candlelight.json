@@ -1,0 +1,166 @@
+{
+  "id": "160-this-diamond-was-cut-for-candlelight",
+  "number": 160,
+  "title": "This diamond was cut for candlelight",
+  "topic": "old mine cut old european cut antique diamond cuts candlelight culet",
+  "style": "paper",
+  "plate": "Antique cuts",
+  "theme": "sky",
+  "music": "music-160.wav",
+  "hook": {
+    "text": "This diamond was cut for candlelight.",
+    "gold": [
+      "diamond",
+      "candlelight."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This diamond was cut for candlelight.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Old mine cuts were common from the 1700s into the late 1800s.",
+      "say": "Old mine cuts were common from the seventeen hundreds into the late eighteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "1700s to 1800s",
+        "sub": "Common in the",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "GIA says it was designed to sparkle in candlelight.",
+      "say": "G I A says it was designed to sparkle in candlelight.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "light": "#fff2c4",
+        "label": "Candlelight",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Its soft, squarish outline resembles a modern cushion cut.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "label": "Squarish",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The table is small and the crown is high.",
+      "scene": {
+        "kind": "title",
+        "text": "Small table",
+        "sub": "High crown and a",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The large flat culet can be seen through the table.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe3f2",
+        "label": "Large culet",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The old European cut is round, popular from 1890 to 1930.",
+      "say": "The old European cut is round, popular from eighteen ninety to nineteen thirty.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "label": "Old European",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Each one is hand cut, so collectors prize their character.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A hand cutter",
+        "role": "Each stone is different",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "glasses": "loupe",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "They flash bold colored fire, with less brilliance than modern cuts.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f2",
+        "light": "#fff2c4",
+        "label": "Bold fire",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "GIA gives no cut grade to old European cut diamonds.",
+      "say": "G I A gives no cut grade to old European cut diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "No cut grade",
+        "sub": "GIA gives",
+        "color": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This diamond was cut for candlelight. The old mine cut was common from the 1700s into the late 1800s, and GIA says the cut was designed to sparkle in candlelight. Its soft, squarish outline resembles a modern cushion cut, the table is small and the crown is high, and the large flat culet can be seen through the table. The old European cut is round and was popular from 1890 to 1930. Each one is hand cut, so collectors prize their character. They flash bold colored fire, with less brilliance than modern cuts. GIA gives no cut grade to old European cut diamonds.",
+    "hashtags": [
+      "#oldminecut",
+      "#oldeuropeancut",
+      "#antiquediamonds",
+      "#vintagejewelry",
+      "#diamondcuts"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/?p=8685",
+    "https://www.gia.edu/gia-news-research-round-brilliant-cut-diamond-pay",
+    "https://en.wikipedia.org/wiki/Diamond_cut",
+    "https://www.diamonds.pro/education/antique-diamond-cuts",
+    "https://www.diamonds.pro/education/old-mine-cut-diamonds",
+    "https://www.estatediamondjewelry.com/old-european-cut-diamonds/",
+    "https://files.whiteflash.com/diamond-education/expert-guide-to-old-european-cut-diamonds/",
+    "https://frontend.gemsociety.org/article/old-european-cut-diamonds",
+    "https://nationaljeweler.com/diamonds-gems/grading/1070-the-ongoing-debate-over-old-cuts",
+    "https://www.georgianjewelry.com/reference/antique-diamonds",
+    "https://files.gemguide.com/pdf/2019GG-JulAugOldEuro.pdf",
+    "https://skyjems.ca/pages/encyclopedia-open-culet"
+  ]
+}

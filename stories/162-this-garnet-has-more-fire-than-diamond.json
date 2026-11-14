@@ -1,0 +1,143 @@
+{
+  "id": "162-this-garnet-has-more-fire-than-diamond",
+  "number": 162,
+  "title": "This garnet has more fire than diamond",
+  "topic": "demantoid garnet andradite dispersion horsetail inclusions urals faberge",
+  "style": "lowpoly",
+  "music": "music-162.wav",
+  "hook": {
+    "text": "This garnet has more fire than diamond.",
+    "gold": [
+      "garnet",
+      "fire"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This garnet has more fire than diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#3fa84a",
+        "halo": "#8be08f"
+      }
+    },
+    {
+      "text": "It is demantoid, the green variety of andradite garnet.",
+      "say": "It is dih-MAN-toid, the green variety of an-DRAD-ite garnet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3fa84a",
+        "label": "Demantoid"
+      }
+    },
+    {
+      "text": "The name comes from an old German word for diamond.",
+      "say": "The name comes from an old German word for diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "Demant",
+        "sub": "German for diamond"
+      }
+    },
+    {
+      "text": "Its fire, called dispersion, measures 0.057, against 0.044 for diamond.",
+      "say": "Its fire, called dispersion, measures zero point zero five seven, against zero point zero four four for diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "0.057",
+        "sub": "Dispersion"
+      }
+    },
+    {
+      "text": "Chromium makes it green, and iron can push it toward yellow.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#3fa84a",
+        "halo": "#8be08f",
+        "label": "Chromium green"
+      }
+    },
+    {
+      "text": "Fine fibers that fan out inside are called horsetail inclusions.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5fbf6a",
+        "label": "Horsetail"
+      }
+    },
+    {
+      "text": "Collectors prize horsetails, which are typical of stones from Russia.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#3fa84a",
+        "label": "Prized"
+      }
+    },
+    {
+      "text": "In Russia's Ural Mountains, it was first mistaken for peridot.",
+      "say": "In Russia's YOO-ral Mountains, it was first mistaken for PEH-ri-doh.",
+      "scene": {
+        "kind": "mine",
+        "place": "Ural Mountains",
+        "tone": "#3fa84a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "Peter Carl Fabergé made jewelry with demantoid garnets.",
+      "say": "Peter Carl fah-ber-ZHAY made jewelry with dih-MAN-toid garnets.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#3fa84a",
+        "halo": "#8be08f",
+        "label": "Fabergé"
+      }
+    },
+    {
+      "text": "At 6.5 to 7 on the Mohs scale, rings need protective settings.",
+      "say": "At six point five to seven on the Mohs scale, rings need protective settings.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 6.5 to 7",
+        "sub": "Hardness of"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This garnet has more fire than diamond. Demantoid is the green variety of andradite garnet, and the name comes from an old German word for diamond. Its fire, called dispersion, measures 0.057, against 0.044 for diamond. Chromium makes it green, and iron can push it toward yellow. Fine fibers that fan out inside are called horsetail inclusions, and collectors prize them as typical of stones from Russia. In Russia's Ural Mountains, it was first mistaken for peridot. Peter Carl Fabergé made jewelry with demantoid garnets. At 6.5 to 7 on the Mohs scale, rings need protective settings.",
+    "hashtags": [
+      "#demantoid",
+      "#garnet",
+      "#gemology",
+      "#faberge",
+      "#rarestones"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Demantoid",
+    "https://en.wikipedia.org/wiki/Nils_Gustaf_Nordenski%C3%B6ld",
+    "https://en.wikipedia.org/wiki/Diamond",
+    "https://www.gemsociety.org/article/demantoid/",
+    "https://skyjems.ca/pages/encyclopedia-demantoid",
+    "https://www.gemrockauctions.com/learn/a-z-of-gemstones/demantoid-garnet-information",
+    "https://www.langantiques.com/university/demantoid-2/",
+    "https://www.gia.edu/gems-gemology/winter-2021-microworld-faceted-demantoid-garnet-horsetail-inclusions",
+    "https://www.gia.edu/gems-gemology/spring-2018-labnotes-cats-eye-demantoid-and-brown-andradite-with-horsetail-inclusions"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "161-victorias-engagement-ring-was-a-gold-snake",
+  "number": 161,
+  "title": "Victoria's engagement ring was a gold snake",
+  "topic": "queen victoria engagement ring snake serpent emerald prince albert 1839",
+  "music": "music-161.wav",
+  "hook": {
+    "text": "Victoria's engagement ring was a gold snake.",
+    "gold": [
+      "engagement",
+      "snake."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Victoria's engagement ring was a gold snake.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#2fa86a"
+      }
+    },
+    {
+      "text": "Victoria proposed to Albert herself, on October 15, 1839.",
+      "say": "Victoria proposed to Albert herself, on October fifteenth, eighteen thirty-nine.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Victoria and Albert",
+        "role": "She proposed",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#9a7ac8",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          },
+          {
+            "outfit": "coat",
+            "outfitColor": "#2a3a6a",
+            "hair": "side",
+            "hairColor": "#6a4a2a",
+            "facial": "mustache",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Albert reportedly gave her a coiled serpent ring that year.",
+      "scene": {
+        "kind": "title",
+        "text": "Serpent ring",
+        "sub": "Albert's gift was a"
+      }
+    },
+    {
+      "text": "Most accounts place an emerald on the snake's head.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#2fa86a",
+        "label": "Emerald"
+      }
+    },
+    {
+      "text": "Emerald is the birthstone for May, the month Victoria was born.",
+      "scene": {
+        "kind": "title",
+        "text": "May birthstone",
+        "sub": "Emerald is the"
+      }
+    },
+    {
+      "text": "The snake is said to stand for eternal love.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Eternal love"
+      }
+    },
+    {
+      "text": "They married on February 10, 1840, at St James's Palace.",
+      "say": "They married on February tenth, eighteen forty, at Saint James's Palace.",
+      "scene": {
+        "kind": "title",
+        "text": "St James's Palace",
+        "sub": "Married at"
+      }
+    },
+    {
+      "text": "Writers often credit her ring with spreading the snake style.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fa86a",
+        "label": "Snake style"
+      }
+    },
+    {
+      "text": "No picture of it is known, so retellings of its look differ.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#cfd6dc",
+        "label": "No picture known"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Victoria's engagement ring was a gold snake. Victoria proposed to Albert herself, on October 15, 1839. Albert reportedly gave her a coiled serpent ring that year, and most accounts place an emerald on the snake's head. Emerald is the birthstone for May, the month Victoria was born. The snake is said to stand for eternal love. They married on February 10, 1840, at St James's Palace. Writers often credit her ring with spreading the snake style. No picture of it is known, so retellings of its look differ.",
+    "hashtags": [
+      "#queenvictoria",
+      "#princealbert",
+      "#snakering",
+      "#engagementring",
+      "#royaljewelry"
+    ]
+  },
+  "sources": [
+    "https://royalcentral.co.uk/?p=190067",
+    "https://antiquejewellerycompany.com/snake-rings-a-victorian-symbol-of-eternal-love",
+    "https://www.ericaweiner.com/history-lessons/snakes",
+    "https://www.1stdibs.com/blogs/the-study/?p=335096",
+    "https://www.aol.com/12-hidden-details-might-not-110000065.html",
+    "https://www.pressreader.com/uk/country-life/20220420/282093460285010",
+    "https://en.wikipedia.org/wiki/Queen_Victoria",
+    "https://en.wikipedia.org/wiki/Albert,_Prince_Consort",
+    "https://www.royal.uk/timeline-queen-victoria-and-prince-albert",
+    "https://en.wikipedia.org/wiki/Birthstone"
+  ]
+}
