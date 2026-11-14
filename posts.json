@@ -1919,7 +1919,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1324177110371461",
+      "instagram": "https://www.instagram.com/reel/Dfuo8tQCo-q/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708065477989289236"
+    }
   },
   "120-tiffany-bought-many-of-frances-crown-jewels": {
     "at": "2026-11-14T18:00:00Z",
@@ -1929,7 +1935,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1119403190874818",
+      "instagram": "https://www.instagram.com/reel/DfuzoyzE2Gz/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708089532142390549",
+      "youtube": "https://www.youtube.com/watch?v=6YF4GgZvu1M"
+    }
   },
   "121-this-square-diamond-has-its-corners-cut": {
     "at": "2026-11-14T19:30:00Z",
@@ -1938,7 +1951,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2763358667399770",
+      "instagram": "https://www.instagram.com/reel/Dfu9kR9jUML/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708111912768163079"
+    }
   },
   "122-californias-state-gem-was-mistaken-for-sapphire": {
     "at": "2026-11-14T21:00:00Z",
@@ -1947,7 +1966,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1675420377398825",
+      "instagram": "https://www.instagram.com/reel/DfvH-Q_Dyc0/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708135340065754389"
+    }
   },
   "123-this-quartz-is-two-gems-in-one": {
     "at": "2026-11-14T23:00:00Z",
@@ -2284,6 +2309,43 @@
       "youtube"
     ]
   },
+  "159-turn-this-gem-and-its-color-changes": {
+    "at": "2026-11-18T16:30:00Z",
+    "zernio_id": "6af8e3b838f638abf5167301",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "160-this-diamond-was-cut-for-candlelight": {
+    "at": "2026-11-18T18:00:00Z",
+    "zernio_id": "6af8e3c438f638abf5167378",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "161-victorias-engagement-ring-was-a-gold-snake": {
+    "at": "2026-11-18T19:30:00Z",
+    "zernio_id": "6af8e3cf38f638abf51673ee",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "162-this-garnet-has-more-fire-than-diamond": {
+    "at": "2026-11-18T21:00:00Z",
+    "zernio_id": "6af8e3d738f638abf5167456",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -2467,7 +2529,11 @@
     "zernio_id": "6aed430a390b49fe77fccf02",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=5WJgCVzAKGI"
+    }
   },
   "gs-10-heart": {
     "at": "2026-11-15T17:00:00Z",
@@ -2795,6 +2861,13 @@
   "lesson-028-diamond-shape-vs-cut": {
     "at": "2026-11-20T16:00:00Z",
     "zernio_id": "6af78debf5181a1d5f4b65c4",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-029-lab-grown-vs-mined-diamonds": {
+    "at": "2026-11-21T16:00:00Z",
+    "zernio_id": "6af8e3e038f638abf51674b3",
     "platforms": [
       "youtube"
     ]
