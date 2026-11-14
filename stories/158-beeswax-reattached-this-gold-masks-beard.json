@@ -1,0 +1,138 @@
+{
+  "id": "158-beeswax-reattached-this-gold-masks-beard",
+  "number": 158,
+  "title": "Beeswax reattached this gold mask's beard",
+  "topic": "tutankhamun gold mask 1925 carter beard beeswax 2015 grand egyptian museum",
+  "music": "music-158.wav",
+  "hook": {
+    "text": "Beeswax reattached this gold mask's beard.",
+    "gold": [
+      "Beeswax",
+      "beard."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Beeswax reattached this gold mask's beard.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "It covered Tutankhamun's mummy when Howard Carter's team found it in 1925.",
+      "say": "It covered too-tan-KAH-mun's mummy when Howard Carter's team found it in nineteen twenty-five.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Howard Carter",
+        "role": "Found it, 1925",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6a5a3a",
+            "hair": "side",
+            "hairColor": "#3a2a20",
+            "facial": "mustache",
+            "skin": "#efc9a6",
+            "prop": "lantern",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A German and Egyptian team reattached the beard with beeswax in 2015.",
+      "say": "A German and Egyptian team reattached the beard with beeswax in twenty fifteen.",
+      "scene": {
+        "kind": "title",
+        "text": "Beeswax",
+        "sub": "Reattached with"
+      }
+    },
+    {
+      "text": "The mask is about 21 inches tall and weighs over 22 pounds.",
+      "say": "The mask is about twenty one inches tall and weighs over twenty two pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "22 pounds",
+        "sub": "Weighs over"
+      }
+    },
+    {
+      "text": "It is made from two hammered sheets of gold joined together.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9a441",
+        "label": "Two sheets"
+      }
+    },
+    {
+      "text": "The eyes are quartz with obsidian, and lapis lazuli adds deep blue.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a4fb0",
+        "label": "Lapis lazuli"
+      }
+    },
+    {
+      "text": "The cobra and vulture on the brow represent Lower and Upper Egypt.",
+      "scene": {
+        "kind": "title",
+        "text": "Two lands",
+        "sub": "Cobra and vulture mark"
+      }
+    },
+    {
+      "text": "Its back carries a protective spell from the Book of the Dead.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#d9a441",
+        "halo": "#ffd98a",
+        "label": "Spell on back"
+      }
+    },
+    {
+      "text": "Today it is on display at the Grand Egyptian Museum in Giza.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9a441",
+        "label": "In Giza"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Beeswax reattached this gold mask's beard. The mask covered Tutankhamun's mummy when Howard Carter's team found it in 1925. A German and Egyptian team reattached the beard with beeswax in 2015. The mask is about 21 inches tall and weighs over 22 pounds, and it is made from two hammered sheets of gold joined together. The eyes are quartz with obsidian, and lapis lazuli adds deep blue. The cobra and vulture on the brow represent Lower and Upper Egypt. Its back carries a protective spell from the Book of the Dead. Today it is on display at the Grand Egyptian Museum in Giza.",
+    "hashtags": [
+      "#tutankhamun",
+      "#ancientegypt",
+      "#goldjewelry",
+      "#grandegyptianmuseum",
+      "#howardcarter"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun",
+    "https://egyptianmuseumcairo.eg/?p=2612",
+    "https://smarthistory.org/tutankhamuns-tomb-innermost-coffin-and-death-mask",
+    "https://ebsco.com/research-starters/history/mask-tutankhamun",
+    "https://www.nationalgeographic.com/culture/article/151217-king-tut-mask-beard-repaired-egypt-archaeology",
+    "https://www.nationalgeographic.com/culture/article/160125-tut-mask-repair-egypt-trial",
+    "https://www.ksl.com/article/37792708/egypt-puts-king-tut-mask-on-exhibit-after-botched-epoxy-fix",
+    "https://www.thestar.com.my/lifestyle/culture/2025/11/05/king-tut039s-collection-displayed-for-first-time-at-egypt039s-grand-museum",
+    "https://www.smithsonianmag.com/smart-news/tutankhamuns-iconic-gold-death-mask-is-getting-a-new-home-180986801/",
+    "https://egypt-museum.com/mask-of-tutankhamun/"
+  ]
+}

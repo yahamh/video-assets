@@ -1,0 +1,138 @@
+{
+  "id": "157-gold-is-not-weighed-in-regular-ounces",
+  "number": 157,
+  "title": "Gold is not weighed in regular ounces",
+  "topic": "troy ounce pennyweight troyes gold weight 31.1 grams 12 ounce pound",
+  "style": "paper",
+  "plate": "Troy weight",
+  "music": "music-157.wav",
+  "hook": {
+    "text": "Gold is not weighed in regular ounces.",
+    "gold": [
+      "weighed",
+      "regular"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold is not weighed in regular ounces.",
+      "scene": {
+        "kind": "hook",
+        "show": "bracelet",
+        "metal": "yellow",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "A troy ounce is 31.1 grams, against 28.35 for an everyday ounce.",
+      "say": "A troy ounce is thirty one point one grams, against twenty eight point three five for an everyday ounce.",
+      "scene": {
+        "kind": "title",
+        "text": "31.1 grams",
+        "sub": "A troy ounce is",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A troy pound holds just 12 ounces, making it the lighter pound.",
+      "say": "A troy pound holds just twelve ounces, making it the lighter pound.",
+      "scene": {
+        "kind": "title",
+        "text": "12 ounces",
+        "sub": "A troy pound has",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Many jewelers use pennyweights, and 20 of them make a troy ounce.",
+      "say": "Many jewelers use pennyweights, and twenty of them make a troy ounce.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "label": "Pennyweights",
+        "light": "#fff2c4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A pennyweight is 24 grains, or about 1.55 grams.",
+      "say": "A pennyweight is twenty four grains, or about one point five five grams.",
+      "scene": {
+        "kind": "title",
+        "text": "1.55 grams",
+        "sub": "A pennyweight is",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The system is usually thought to be named for Troyes, France.",
+      "say": "The system is usually thought to be named for TRWAH, France.",
+      "scene": {
+        "kind": "title",
+        "text": "Troyes, France",
+        "sub": "Probably named for",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "In 1527, England made troy weight official for gold and silver.",
+      "say": "In fifteen twenty-seven, England made troy weight official for gold and silver.",
+      "scene": {
+        "kind": "title",
+        "text": "1527",
+        "sub": "Official in England",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It is still the standard for gold and other precious metals today.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "metal": "yellow",
+        "label": "Still used",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Karat measures purity in 24ths, so 18 karat is 75 percent gold.",
+      "say": "Karat measures purity in twenty fourths, so eighteen karat is seventy five percent gold.",
+      "scene": {
+        "kind": "title",
+        "text": "18 karat",
+        "sub": "75 percent gold",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Gold is not weighed in regular ounces. A troy ounce is 31.1 grams, against 28.35 grams for an everyday ounce. A troy pound has just 12 ounces, so it is the lighter pound. Many jewelers use pennyweights, and 20 of them make a troy ounce. A pennyweight is 24 grains, or about 1.55 grams. The system is usually thought to be named for Troyes, France. In 1527, England made troy weight official for gold and silver, and it is still the standard for gold and other precious metals today. Karat measures purity in 24ths, so 18 karat is 75 percent gold.",
+    "hashtags": [
+      "#troyounce",
+      "#pennyweight",
+      "#goldjewelry",
+      "#jewelerlife",
+      "#jewelryfacts"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Troy_weight",
+    "https://en.wikipedia.org/wiki/Pennyweight",
+    "https://en.wikipedia.org/wiki/Carat_(mass)",
+    "https://en.wikipedia.org/wiki/Karat",
+    "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8",
+    "https://www.lbma.org.uk/wonders-of-gold/items/the-troy-ounce",
+    "https://www.lbma.org.uk/wonders-of-gold/items/the-pennyweight",
+    "https://www.britannica.com/science/troy-weight",
+    "https://www.britannica.com/science/ounce",
+    "https://www.merriam-webster.com/dictionary/troy%20weight",
+    "https://www.etymonline.com/word/troy",
+    "https://stuller.com/articles/view/weights"
+  ]
+}

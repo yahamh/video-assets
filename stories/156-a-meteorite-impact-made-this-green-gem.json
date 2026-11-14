@@ -1,0 +1,142 @@
+{
+  "id": "156-a-meteorite-impact-made-this-green-gem",
+  "number": 156,
+  "title": "A meteorite impact made this green gem",
+  "topic": "moldavite tektite ries crater bohemia vltava",
+  "style": "lowpoly",
+  "music": "music-156.wav",
+  "hook": {
+    "text": "A meteorite impact made this green gem.",
+    "gold": [
+      "meteorite",
+      "green"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A meteorite impact made this green gem.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#6aa84a",
+        "halo": "#a6e07a"
+      }
+    },
+    {
+      "text": "It is moldavite, a natural glass, not a crystal.",
+      "say": "It is MOL-duh-vite, a natural glass, not a crystal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#6aa84a",
+        "label": "Natural glass"
+      }
+    },
+    {
+      "text": "The Ries impact in southern Germany happened about 15 million years ago.",
+      "say": "The REESS impact in southern Germany happened about fifteen million years ago.",
+      "scene": {
+        "kind": "title",
+        "text": "Ries impact",
+        "sub": "Southern Germany"
+      }
+    },
+    {
+      "text": "The blast melted rock, and the melt cooled into green glass.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#6aa84a",
+        "halo": "#a6e07a",
+        "label": "Melted rock"
+      }
+    },
+    {
+      "text": "Most of it is found in southern Bohemia, in the Czech Republic.",
+      "say": "Most of it is found in southern Bo-HEE-mee-uh, in the Czech Republic.",
+      "scene": {
+        "kind": "mine",
+        "place": "Southern Bohemia",
+        "tone": "#6aa84a",
+        "zoomAt": 1.5
+      }
+    },
+    {
+      "text": "The name comes from the Vltava River, called the Moldau in German.",
+      "say": "The name comes from the vul-TAH-vah River, called the MOHL-dow in German.",
+      "scene": {
+        "kind": "title",
+        "text": "Vltava River",
+        "sub": "Named for the"
+      }
+    },
+    {
+      "text": "People were using moldavite as far back as the Stone Age.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "tone": "#6aa84a",
+        "label": "Stone Age use"
+      }
+    },
+    {
+      "text": "The best stones are bottle green, with a naturally etched surface.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#6aa84a",
+        "label": "Bottle green"
+      }
+    },
+    {
+      "text": "Jewelers either facet it or leave it in its natural form.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#6aa84a",
+        "halo": "#a6e07a",
+        "label": "Faceted or raw"
+      }
+    },
+    {
+      "text": "Glass fakes are common, and prices for real stones are rising.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "tone": "#6aa84a",
+        "label": "Glass fakes"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A meteorite impact made this green gem. Moldavite is a natural glass, not a crystal. The Ries impact in southern Germany happened about 15 million years ago, and the blast melted rock that cooled into green glass. Most of it is found in southern Bohemia, in the Czech Republic, and the name comes from the Vltava River, called the Moldau in German. People were using moldavite as far back as the Stone Age. The best stones are bottle green with a naturally etched surface, and jewelers either facet it or leave it in its natural form. Glass fakes are common, and prices for real stones are rising.",
+    "hashtags": [
+      "#moldavite",
+      "#tektite",
+      "#impactglass",
+      "#czechrepublic",
+      "#greengem"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moldavite",
+    "https://www.gia.edu/gems-gemology/spring-2015-gemnews-moldavites-natural-fake",
+    "https://www.gia.edu/gems-gemology/summer-2021-labnotes-imitation-moldavite",
+    "https://geology.com/gemstones/moldavite",
+    "https://mineralexpert.org/article/moldavite-beautiful-czech-tektite",
+    "https://www.rockngem.com/meteors-moldavite-and-diamonds/",
+    "https://www.gempiece.com/gemopedia/moldavite",
+    "https://www.klenota.com/Blog/Gems-and-pearls/Moldavite-the-mysterious-Czech-gemstone",
+    "https://www.firemountaingems.com/resources/encyclobeadia/gem-notes/j23a",
+    "https://gemstones.com/articles/gemstone-all-about-moldavite"
+  ]
+}
