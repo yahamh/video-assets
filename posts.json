@@ -2075,7 +2075,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29314332701529377",
+      "instagram": "https://www.instagram.com/reel/DfxN2m-AmQW/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708436839782305045"
+    }
   },
   "130-this-tiara-was-an-18th-birthday-gift": {
     "at": "2026-11-15T18:00:00Z",
@@ -2085,7 +2091,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1489397849767406",
+      "instagram": "https://www.instagram.com/reel/DfxYkWZiQrZ/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708460889535499541",
+      "youtube": "https://www.youtube.com/watch?v=4x3-Tpa6pTc"
+    }
   },
   "131-napoleons-sword-once-held-this-diamond": {
     "at": "2026-11-15T19:30:00Z",
@@ -2094,7 +2107,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1794157311862134",
+      "instagram": "https://www.instagram.com/reel/DfxiedZjxE1/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708482564578626817"
+    }
   },
   "132-you-can-dig-this-gem-for-free": {
     "at": "2026-11-15T21:00:00Z",
@@ -2103,7 +2122,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4560685397506228",
+      "instagram": "https://www.instagram.com/reel/Dfxs0WmAasi/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708506494219635976"
+    }
   },
   "133-the-best-diamond-color-grade-is-d": {
     "at": "2026-11-15T23:00:00Z",
@@ -2440,6 +2465,43 @@
       "youtube"
     ]
   },
+  "169-rose-gold-was-once-called-russian-gold": {
+    "at": "2026-11-19T16:30:00Z",
+    "zernio_id": "6afa3233dbfcd2b9947b1a1e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "170-this-diamond-sold-for-over-48-million": {
+    "at": "2026-11-19T18:00:00Z",
+    "zernio_id": "6afa32400347e74b2e9fc2f6",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "171-this-gem-has-two-different-hardnesses": {
+    "at": "2026-11-19T19:30:00Z",
+    "zernio_id": "6afa324a08b5d7cd678c4c86",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "172-this-tiara-was-a-wedding-gift-twice": {
+    "at": "2026-11-19T21:00:00Z",
+    "zernio_id": "6afa325908b5d7cd678c4d11",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -2634,7 +2696,11 @@
     "zernio_id": "6aed430cc7af135a8ee34d33",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=j4wSNFXDa3o"
+    }
   },
   "gs-11-trillion": {
     "at": "2026-11-16T17:00:00Z",
@@ -2966,6 +3032,13 @@
   "lesson-029-lab-grown-vs-mined-diamonds": {
     "at": "2026-11-21T16:00:00Z",
     "zernio_id": "6af8e3e038f638abf51674b3",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-030-carat-weight-versus-size": {
+    "at": "2026-11-22T16:00:00Z",
+    "zernio_id": "6afa32670347e74b2e9fc38c",
     "platforms": [
       "youtube"
     ]
