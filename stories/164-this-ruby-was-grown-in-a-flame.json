@@ -1,0 +1,154 @@
+{
+  "id": "164-this-ruby-was-grown-in-a-flame",
+  "number": 164,
+  "title": "This ruby was grown in a flame",
+  "topic": "verneuil flame fusion synthetic ruby 1902 boule",
+  "music": "music-164.wav",
+  "hook": {
+    "text": "This ruby was grown in a flame.",
+    "gold": [
+      "ruby",
+      "flame."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This ruby was grown in a flame.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#d8283c",
+        "halo": "#ff8a3a"
+      }
+    },
+    {
+      "text": "At 17, French chemist Auguste Verneuil became Edmond Frémy's assistant.",
+      "say": "At seventeen, French chemist OH-goost ver-NOY became Edmond fray-MEE's assistant.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Auguste Verneuil",
+        "role": "Assistant at 17",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#e8eef2",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "facial": "mustache",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He lodged sealed notes in 1891, then announced the method in 1902.",
+      "say": "He lodged sealed notes in eighteen ninety-one, then announced the method in nineteen oh two.",
+      "scene": {
+        "kind": "title",
+        "text": "1902",
+        "sub": "Announced in"
+      }
+    },
+    {
+      "text": "Powder falls through an oxygen and hydrogen flame, about 2,000 degrees Celsius.",
+      "say": "Powder falls through an oxygen and hydrogen flame, about two thousand degrees Celsius.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#ff8a3a",
+        "halo": "#ffc27a",
+        "label": "The flame"
+      }
+    },
+    {
+      "text": "The powder melts and builds up as a crystal called a boule.",
+      "say": "The powder melts and builds up as a crystal called a bool.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#c53a4a",
+        "label": "Boule"
+      }
+    },
+    {
+      "text": "A little chromium mixed into the powder makes it red.",
+      "scene": {
+        "kind": "title",
+        "text": "Chromium oxide",
+        "sub": "Red comes from"
+      }
+    },
+    {
+      "text": "It is corundum, the same mineral as natural ruby.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d8283c",
+        "label": "Real corundum"
+      }
+    },
+    {
+      "text": "Curved growth lines and gas bubbles help gemologists spot it.",
+      "scene": {
+        "kind": "title",
+        "text": "Curved lines",
+        "sub": "Gemologists look for"
+      }
+    },
+    {
+      "text": "Flame fusion is still a common way to make synthetic ruby.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d8283c",
+        "halo": "#ffb0a0",
+        "label": "Still in use"
+      }
+    },
+    {
+      "text": "Tiny synthetic rubies also serve as bearings inside watches.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c8344a",
+        "label": "Watch bearings"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This ruby was grown in a flame. At 17, French chemist Auguste Verneuil became Edmond Frémy's assistant. He lodged sealed notes in 1891, then announced the method in 1902. Powder falls through an oxygen and hydrogen flame, about 2,000 degrees Celsius. The powder melts and builds up as a crystal called a boule. A little chromium mixed into the powder makes it red. It is corundum, the same mineral as natural ruby, and curved growth lines and gas bubbles help gemologists spot it. Flame fusion is still a common way to make synthetic ruby, and tiny synthetic rubies also serve as bearings inside watches.",
+    "hashtags": [
+      "#ruby",
+      "#verneuil",
+      "#flamefusion",
+      "#syntheticruby",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/topic/Verneuil-process",
+    "https://en.wikipedia.org/wiki/Verneuil_method",
+    "https://en.wikipedia.org/wiki/Auguste_Victor_Louis_Verneuil",
+    "https://apps.dtic.mil/sti/pdfs/ADA460239.pdf",
+    "https://www.sciencehistory.org/distillations/magazine/making-gemstones",
+    "https://chemistryworld.com/3010286.article",
+    "https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/synthetic-ruby",
+    "https://geo.libretexts.org/Bookshelves/Geology/Gemology/14%3A_Synthetic_Gemstones/14.04%3A_Flame_Fusion",
+    "https://rockngem.com/rock-science-flame-fusion-rubies",
+    "https://www.gia.edu/gem-synthetic",
+    "https://www.gia.edu/gems-gemology/summer-2024-colored-stones-unearthed"
+  ]
+}

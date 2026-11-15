@@ -1,0 +1,148 @@
+{
+  "id": "165-tahitian-black-pearls-are-not-truly-black",
+  "number": 165,
+  "title": "Tahitian black pearls are not truly black",
+  "topic": "tahitian black pearl pinctada margaritifera french polynesia manihi",
+  "style": "lowpoly",
+  "music": "music-165.wav",
+  "hook": {
+    "text": "Tahitian black pearls are not truly black.",
+    "gold": [
+      "Tahitian",
+      "black."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tahitian black pearls are not truly black.",
+      "say": "Tuh-HEE-shun black pearls are not truly black.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl",
+        "tone": "#3b4b4e"
+      }
+    },
+    {
+      "text": "They grow in the black-lipped pearl oyster of French Polynesia.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#3b4b4e",
+        "label": "Black-lipped oyster"
+      }
+    },
+    {
+      "text": "Colors run from charcoal gray and silver to green and brown.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#9aa7ab",
+        "label": "Silver gray"
+      }
+    },
+    {
+      "text": "Peacock often means green with a pink overtone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#2f6f62",
+        "label": "Peacock"
+      }
+    },
+    {
+      "text": "Most are about 9 to 13 millimeters across.",
+      "say": "Most are about nine to thirteen millimeters across.",
+      "scene": {
+        "kind": "title",
+        "text": "9 to 13 mm",
+        "sub": "Usually about"
+      }
+    },
+    {
+      "text": "The oyster needs about 18 to 24 months to grow each pearl.",
+      "say": "The oyster needs about eighteen to twenty-four months to grow each pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "18 to 24 months",
+        "sub": "Takes about"
+      }
+    },
+    {
+      "text": "Legend says the god Oro brought a black pearl down a rainbow.",
+      "say": "Legend says the god OH-roh brought a black pearl down a rainbow.",
+      "scene": {
+        "kind": "title",
+        "text": "Oro's rainbow",
+        "sub": "Legend of"
+      }
+    },
+    {
+      "text": "In the early 1960s, a vet had technicians graft about 5,000 oysters.",
+      "say": "In the early nineteen sixties, a vet had technicians graft about five thousand oysters.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A veterinarian",
+        "role": "Early 1960s",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#e8eef2",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The first commercial farm opened on Manihi atoll in 1966.",
+      "say": "The first commercial farm opened on mah-NEE-hee atoll in nineteen sixty-six.",
+      "scene": {
+        "kind": "title",
+        "text": "1966",
+        "sub": "First farm on Manihi"
+      }
+    },
+    {
+      "text": "Dealers began selling them on world markets in the early 1970s.",
+      "say": "Dealers began selling them on world markets in the early nineteen seventies.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#3b4b4e",
+        "label": "World markets"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tahitian black pearls are not truly black. They grow in the black-lipped pearl oyster of French Polynesia, and colors run from charcoal gray and silver to green and brown. Peacock often means green with a pink overtone. Most are about 9 to 13 millimeters across, and the oyster needs about 18 to 24 months to grow each pearl. Legend says the god Oro brought a black pearl down a rainbow. In the early 1960s, a vet had technicians graft about 5,000 oysters, and the first commercial farm opened on Manihi atoll in 1966. Dealers began selling them on world markets in the early 1970s.",
+    "hashtags": [
+      "#tahitianpearls",
+      "#blackpearls",
+      "#frenchpolynesia",
+      "#pearljewelry",
+      "#pearlfacts"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/doc/Polynesian-Black-Pearls.pdf",
+    "https://www.gia.edu/articles/differences-between-pearl-types",
+    "https://www.gia.edu/articles/gia-adds-peacock-color-range-comment-to-pearl-reports",
+    "https://4cs.gia.edu/en-us/blog/history-cultured-pearls-part-two-south-seas-tahiti/",
+    "https://archimer.ifremer.fr/doc/00357/46798/46665.pdf",
+    "https://www.jewellerybusiness.com/?p=36660",
+    "https://jckonline.com/?p=41096",
+    "https://en.wikipedia.org/wiki/Tahitian_pearl",
+    "https://www.gemsociety.org/lesson/tahitian-pearls/",
+    "https://www.fao.org/4/ac890e/AC890E03.htm",
+    "https://www.pgcruises.com/blog/french-polynesia-land-of-legends",
+    "https://www.purepearls.com/blogs/news/pure-pearls-weekly-news-updates-the-legends-of-the-black-pearl",
+    "https://www.thesouthseapearl.co.uk/blogs/south-sea-pearls/enchanting-mythology-tahitian-pearls"
+  ]
+}

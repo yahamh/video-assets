@@ -1,0 +1,143 @@
+{
+  "id": "163-this-opal-turns-clear-in-water",
+  "number": 163,
+  "title": "This opal turns clear in water",
+  "topic": "welo opal ethiopia hydrophane wegel tena 2008",
+  "style": "paper",
+  "plate": "Welo opal",
+  "theme": "watercolor",
+  "music": "music-163.wav",
+  "hook": {
+    "text": "This opal turns clear in water.",
+    "gold": [
+      "opal",
+      "water."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This opal turns clear in water.",
+      "scene": {
+        "kind": "hook",
+        "show": "opal",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It is a hydrophane opal, which soaks up water like a sponge.",
+      "say": "It is a HY-druh-fane opal, which soaks up water like a sponge.",
+      "scene": {
+        "kind": "reveal",
+        "item": "opal",
+        "label": "Hydrophane",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Much of the opal from Ethiopia's Welo Province is hydrophane.",
+      "say": "Much of the opal from Ethiopia's WELL-oh Province is HY-druh-fane.",
+      "scene": {
+        "kind": "title",
+        "text": "Welo",
+        "sub": "Ethiopia's province",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The main find came in 2008, near the town of Wegel Tena.",
+      "say": "The main find came in two thousand eight, near the town of WEG-ul TEN-uh.",
+      "scene": {
+        "kind": "title",
+        "text": "2008",
+        "sub": "Found in",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A soaked stone can gain up to 15 percent in weight.",
+      "say": "A soaked stone can gain up to fifteen percent in weight.",
+      "scene": {
+        "kind": "title",
+        "text": "15 percent",
+        "sub": "Gains up to",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Drying back to its usual look can take days.",
+      "scene": {
+        "kind": "reveal",
+        "item": "opal",
+        "label": "Dries back",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Its play of color is often vivid, like Australian opal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "opal",
+        "label": "Vivid colors",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "Ethiopian opal formed in volcanic rock, unlike Australia's sedimentary opal.",
+      "scene": {
+        "kind": "title",
+        "text": "Volcanic",
+        "sub": "Formed in",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Many jewelers say pendants and earrings suit it better than rings.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "oval",
+        "tone": "#cfe8f0",
+        "metal": "yellow",
+        "label": "Pendants",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Treat it like a pearl, and never soak it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "Like a pearl",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This opal turns clear in water. It is a hydrophane opal, which soaks up water like a sponge. Much of the opal from Ethiopia's Welo Province is hydrophane, and the main find came in 2008, near the town of Wegel Tena. A soaked stone can gain up to 15 percent in weight, and drying back to its usual look can take days. Its play of color is often vivid, like Australian opal, but Ethiopian opal formed in volcanic rock, unlike Australia's sedimentary opal. Many jewelers say pendants and earrings suit it better than rings. Treat it like a pearl, and never soak it.",
+    "hashtags": [
+      "#weloopal",
+      "#ethiopianopal",
+      "#opal",
+      "#hydrophane",
+      "#gemfacts"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/articles/summer-2010-opal-ethiopia-rondeau",
+    "https://www.gia.edu/articles/fa13-ln-technique-hydrophane-opal",
+    "https://geology.com/gemstones/opal/ethiopian-opal.shtml",
+    "https://rapaport.com/magazine-article/ethiopian-opal/",
+    "https://en.wikipedia.org/wiki/Opal",
+    "https://www.jckonline.com/magazine-article/flash-dance-the-opal-resurgence/",
+    "https://www.gemsociety.org/article/opal/",
+    "https://www.jewellermagazine.com/Article/10184",
+    "https://rapaport.com/magazine-article/colored-gemstone-8/",
+    "https://www.gia.edu/gems-gemology/spring-2016-labnotes-hydrophane-opal-treatment",
+    "https://www.gia.edu/gems-gemology/winter-2017-gemnews-update-dyed-hydrophane-opal"
+  ]
+}
