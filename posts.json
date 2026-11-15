@@ -2028,7 +2028,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3776249912525440",
+      "instagram": "https://www.instagram.com/reel/DfwrcVIJWP5/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708358670215662900"
+    }
   },
   "127-a-prince-sent-her-a-painted-eye": {
     "at": "2026-11-15T13:00:00Z",
@@ -2037,7 +2043,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3771620863003683",
+      "instagram": "https://www.instagram.com/reel/Dfw1uWXj7QK/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708382492163706118"
+    }
   },
   "128-the-timur-ruby-is-not-a-ruby": {
     "at": "2026-11-15T14:00:00Z",
@@ -2047,7 +2059,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3623429967822968",
+      "instagram": "https://www.instagram.com/reel/Dfw82tEjRLE/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708398567769050388",
+      "youtube": "https://www.youtube.com/watch?v=UMTmuglXDT4"
+    }
   },
   "129-sunlight-can-fade-this-pink-gem": {
     "at": "2026-11-15T16:30:00Z",
@@ -2391,6 +2410,34 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "166-this-jewelry-house-began-with-a-wedding": {
+    "at": "2026-11-19T11:30:00Z",
+    "zernio_id": "6af9dc31b15d88d36dffcf03",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "167-this-famous-pearl-is-just-two-brushstrokes": {
+    "at": "2026-11-19T13:00:00Z",
+    "zernio_id": "6af9dc3ab15d88d36dffcf74",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "168-cast-rings-use-a-6000-year-old-method": {
+    "at": "2026-11-19T14:00:00Z",
+    "zernio_id": "6af9dc447d3fca62477fb698",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -2875,7 +2922,11 @@
     "zernio_id": "6af0f72d4dfcd8a28990ef69",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=Zmk32OKeZcA"
+    }
   },
   "lesson-024-platinum": {
     "at": "2026-11-16T16:00:00Z",
