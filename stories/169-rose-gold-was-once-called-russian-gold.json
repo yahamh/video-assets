@@ -1,0 +1,161 @@
+{
+  "id": "169-rose-gold-was-once-called-russian-gold",
+  "number": 169,
+  "title": "Rose gold was once called Russian gold",
+  "topic": "rose gold russian gold copper alloy 18k faberge 1920s durability not plated",
+  "style": "paper",
+  "plate": "Rose gold",
+  "theme": "blush",
+  "music": "music-169.wav",
+  "hook": {
+    "text": "Rose gold was once called Russian gold.",
+    "gold": [
+      "Rose",
+      "Russian"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rose gold was once called Russian gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "metal": "rose",
+        "shape": "plain",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It was popular in Russia in the early 1800s.",
+      "say": "It was popular in Russia in the early eighteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Early 1800s",
+        "sub": "Popular in Russia",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It has other names too, like pink gold and red gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "metal": "rose",
+        "label": "Pink or red gold",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Rose gold is gold mixed with copper, and sometimes some silver.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper",
+        "sub": "Gold is mixed with",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "18 karat rose gold is 75 percent pure gold.",
+      "say": "Eighteen karat rose gold is seventy-five percent pure gold.",
+      "scene": {
+        "kind": "title",
+        "text": "75% gold",
+        "sub": "In 18K rose gold",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Copper and a little silver make up the rest.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#f4f1ea",
+        "metal": "rose",
+        "label": "The rest is alloy",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The jeweler Fabergé also worked with rose gold.",
+      "say": "The jeweler fab-er-ZHAY also worked with rose gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "egg",
+        "label": "Fabergé",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In the 1920s, it became fashionable in the United States.",
+      "say": "In the nineteen twenties, it became fashionable in the United States.",
+      "scene": {
+        "kind": "title",
+        "text": "1920s",
+        "sub": "Fashionable in the US",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Most sources call it more durable than yellow gold, karat for karat.",
+      "scene": {
+        "kind": "title",
+        "text": "Durable",
+        "sub": "Most sources say",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Its color runs through the metal, so it is not plated.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "metal": "rose",
+        "shape": "plain",
+        "label": "Not plated",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The more copper in the mix, the redder the gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Redder",
+        "sub": "With more copper",
+        "color": "#f0552e"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Rose gold was once called Russian gold. It was popular in Russia in the early 1800s, and it has other names too, like pink gold and red gold. Rose gold is gold mixed with copper, and sometimes some silver. 18 karat rose gold is 75 percent pure gold, and copper and a little silver make up the rest. The jeweler Fabergé also worked with rose gold. In the 1920s, it became fashionable in the United States. Most sources call it more durable than yellow gold, karat for karat. Its color runs through the metal, so it is not plated. The more copper in the mix, the redder the gold.",
+    "hashtags": [
+      "#rosegold",
+      "#russiangold",
+      "#goldjewelry",
+      "#jewelryfacts",
+      "#fabergé"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/yellow-gold-vs-rose-gold",
+    "https://en.wikipedia.org/wiki/Colored_gold",
+    "https://www.sothebys.com/en/articles/a-history-lesson-on-rose-gold",
+    "https://www.perthmint.com/news/jewellery/buying-guides/how-is-rose-gold-made/",
+    "https://www.renesim.com/en/pages/red-gold-rose-gold",
+    "https://www.garfieldrefining.com/resources/blog/rose-gold-romantic-and-timeless/",
+    "https://www.totalmateria.com/articles/gold-and-gold-alloys/",
+    "https://www.whiteflash.com/blog/rose-gold-vs-yellow-gold/",
+    "https://www.queensmith.co.uk/ring-guides/metals/rose-gold",
+    "https://luxe.digital/lifestyle/jewelry/rose-gold-guide/",
+    "https://www.rct.uk/collection/themes/exhibitions/gold/the-queens-gallery-buckingham-palace/coloured-gold",
+    "https://www.britannica.com/biography/Peter-Carl-Faberge",
+    "https://diamondsandgem.com/metals/rose-gold.html",
+    "https://www.gemsociety.org/article/what-is-rose-gold/",
+    "https://www.helzberg.com/blog/advice-how-tos/what-is-rose-gold.html",
+    "https://antiquejewellerycompany.com/the-romance-of-rose-gold"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "172-this-tiara-was-a-wedding-gift-twice",
+  "number": 172,
+  "title": "This tiara was a wedding gift twice",
+  "topic": "girls of great britain and ireland tiara 1893 mary of teck 1947 princess elizabeth granny's tiara garrard",
+  "style": "paper",
+  "plate": "Girls tiara",
+  "music": "music-172.wav",
+  "hook": {
+    "text": "This tiara was a wedding gift twice.",
+    "gold": [
+      "tiara",
+      "twice."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This tiara was a wedding gift twice.",
+      "scene": {
+        "kind": "hook",
+        "show": "tiara",
+        "shape": "round",
+        "metal": "white",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The Girls of Great Britain and Ireland gave it in 1893.",
+      "say": "The Girls of Great Britain and Ireland gave it in eighteen ninety-three.",
+      "scene": {
+        "kind": "title",
+        "text": "1893",
+        "sub": "A wedding present",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The bride was Mary of Teck, who married on July 6.",
+      "say": "The bride was Mary of Teck, who married on July sixth.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Mary of Teck",
+        "role": "Wed on July 6",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#e9d8f0",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "hat": "tiara",
+            "expression": "smile"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Lady Greville led the committee, and it bought the tiara from Garrard.",
+      "scene": {
+        "kind": "title",
+        "text": "Garrard",
+        "sub": "Bought from",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Leftover money, at Mary's request, went to HMS Victoria widows and orphans.",
+      "scene": {
+        "kind": "title",
+        "text": "HMS Victoria",
+        "sub": "Fund for families",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Diamond festoons and scrolls were once topped with large pearls.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "round",
+        "tone": "#f4f1ea",
+        "metal": "white",
+        "label": "Pearls on top",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 1914, Mary swapped the pearls for diamonds.",
+      "say": "In nineteen fourteen, Mary swapped the pearls for diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "1914",
+        "sub": "Pearls swapped out",
+        "color": "#f0552e"
+      }
+    },
+    {
+      "text": "In 1947, now Queen Mary, she gave it to her granddaughter Elizabeth.",
+      "say": "In nineteen forty-seven, now Queen Mary, she gave it to her granddaughter Elizabeth.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Queen Mary and Elizabeth",
+        "role": "Gifted in 1947",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#a98be0",
+            "hair": "updo",
+            "hairColor": "#c9c9c9",
+            "skin": "#f3d6bd",
+            "hat": "crown",
+            "expression": "smile"
+          },
+          {
+            "outfit": "dress",
+            "outfitColor": "#ec9ab8",
+            "hair": "curly",
+            "hairColor": "#5a3a2a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ],
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "It was a wedding present, and Elizabeth's first tiara.",
+      "scene": {
+        "kind": "reveal",
+        "item": "tiara",
+        "shape": "round",
+        "metal": "white",
+        "label": "Her first tiara",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It is reportedly nicknamed Granny's Tiara.",
+      "scene": {
+        "kind": "title",
+        "text": "Granny's Tiara",
+        "sub": "Reportedly called",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Elizabeth II is shown wearing it on banknotes and coins.",
+      "say": "Elizabeth the Second is shown wearing it on banknotes and coins.",
+      "scene": {
+        "kind": "title",
+        "text": "Banknotes",
+        "sub": "And coins too",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This tiara was a wedding gift twice. The Girls of Great Britain and Ireland gave it in 1893. The bride was Mary of Teck, who married on July 6. Lady Greville led the committee, and it bought the tiara from Garrard. Leftover money, at Mary's request, went to HMS Victoria widows and orphans. Diamond festoons and scrolls were once topped with large pearls, and in 1914, Mary swapped the pearls for diamonds. In 1947, now Queen Mary, she gave it to her granddaughter Elizabeth. It was a wedding present, and Elizabeth's first tiara. It is reportedly nicknamed Granny's Tiara, and Elizabeth II is shown wearing it on banknotes and coins.",
+    "hashtags": [
+      "#girlsofgreatbritainandireland",
+      "#royaltiara",
+      "#queenelizabeth",
+      "#tiara",
+      "#royaljewels"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/exhibitions/diamonds-a-jubilee-celebration/buckingham-palace/queen-marys-girls-of-great-britain-and-ireland-tiara",
+    "https://www.rct.uk/collection/exhibitions/platinum-jubilee-the-queens-accession/buckingham-palace/queen-marys-girls-of-great-britain-and-ireland-tiara",
+    "https://en.wikipedia.org/wiki/Girls_of_Great_Britain_and_Ireland_Tiara",
+    "https://thecourtjeweller.com/2018/04/the-girls-of-great-britain-and-ireland.html",
+    "https://historyofroyalwomen.com/royal-jewels/royal-jewels-girls-of-great-britain-and-ireland-tiara/",
+    "https://royalcentral.co.uk/?p=181093",
+    "https://royalcentral.co.uk/?p=168560",
+    "https://thecourtjeweller.com/2020/11/the-queens-bridal-jewels.html",
+    "https://www.yahoo.com/entertainment/queen-camilla-tiara-first-one-202001474.html",
+    "https://tatlerasia.com/style/jewellery/world-tiara-day-most-iconic-tiaras-worn-by-royals",
+    "https://royal-splendor.blogspot.com/2018/12/girls-of-great-great-britain-ireland-tiara.html",
+    "https://about-the-monarchy.blogspot.com/p/girls-of-great-britain-and-ireland.html",
+    "https://en.wikipedia.org/wiki/Mary_of_Teck",
+    "https://www.britannica.com/biography/Mary-of-Teck"
+  ]
+}

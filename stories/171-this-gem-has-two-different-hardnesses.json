@@ -1,0 +1,162 @@
+{
+  "id": "171-this-gem-has-two-different-hardnesses",
+  "number": 171,
+  "title": "This gem has two different hardnesses",
+  "topic": "kyanite anisotropism hardness along across crystal axis cleavage blue disthene orange tanzania",
+  "style": "lowpoly",
+  "music": "music-171.wav",
+  "hook": {
+    "text": "This gem has two different hardnesses.",
+    "gold": [
+      "two",
+      "different"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This gem has two different hardnesses.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#3b6fd9",
+        "halo": "#8fb4f0"
+      }
+    },
+    {
+      "text": "It is kyanite, named from the Greek word for blue.",
+      "say": "It is KY-uh-nyte, named from the Greek word for blue.",
+      "scene": {
+        "kind": "title",
+        "text": "Kyanite",
+        "sub": "Greek for blue"
+      }
+    },
+    {
+      "text": "Along its long axis, hardness is about 4 to 4.5.",
+      "say": "Along its long axis, hardness is about four to four and a half.",
+      "scene": {
+        "kind": "title",
+        "text": "4 to 4.5",
+        "sub": "Along its long axis"
+      }
+    },
+    {
+      "text": "Across that axis, it is about 6 to 7.",
+      "say": "Across that axis, it is about six to seven.",
+      "scene": {
+        "kind": "title",
+        "text": "6 to 7",
+        "sub": "Across that axis"
+      }
+    },
+    {
+      "text": "Sources vary a little, so treat those numbers as close estimates.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A gemologist",
+        "role": "Close estimates",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a4a6a",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Its old name, disthene, means double strength in Greek.",
+      "say": "Its old name, DIS-theen, means double strength in Greek.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#5a8ae6",
+        "label": "Disthene"
+      }
+    },
+    {
+      "text": "It is mostly blue, but also comes in green and orange.",
+      "scene": {
+        "kind": "title",
+        "text": "Mostly blue",
+        "sub": "Also green, orange"
+      }
+    },
+    {
+      "text": "Orange kyanite from Tanzania gets its color from manganese.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#f08a2a",
+        "label": "Orange kyanite"
+      }
+    },
+    {
+      "text": "Its perfect cleavage and varied hardness make it hard to cut.",
+      "say": "Its perfect cleavage and varied hardness make it hard to cut.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A lapidary",
+        "role": "Hard to cut",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Earrings and pendants suit it, while rings need protective settings.",
+      "scene": {
+        "kind": "title",
+        "text": "Earrings",
+        "sub": "Pendants suit it too"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This gem has two different hardnesses. It is kyanite, named from the Greek word for blue. Along its long axis, hardness is about 4 to 4.5, and across that axis, it is about 6 to 7. Sources vary a little, so treat those numbers as close estimates. Its old name, disthene, means double strength in Greek. It is mostly blue, but also comes in green and orange, and orange kyanite from Tanzania gets its color from manganese. Its perfect cleavage and varied hardness make it hard to cut. Earrings and pendants suit it, while rings need protective settings.",
+    "hashtags": [
+      "#kyanite",
+      "#bluegemstone",
+      "#gemology",
+      "#gemstones",
+      "#jewelrylovers"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyanite",
+    "https://www.britannica.com/science/kyanite",
+    "https://www.mindat.org/min-2303.html",
+    "https://www.gemselect.com/other-info/about-kyanite.php",
+    "https://www.gemsociety.org/article/kyanite-jewelry-and-gemstone-information",
+    "https://www.gia.edu/gems-gemology/fa13-nepal-kyanite",
+    "https://www.gia.edu/gems-gemology/summer-2023-colored-stones-unearthed0",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002739",
+    "https://gemstones.com/gemopedia/kyanite",
+    "https://www.minerals.net/gemstone/kyanite_gemstone.aspx",
+    "https://www.ganoksin.com/borisat/nenam/kyanite.htm",
+    "https://cameo.mfa.org/wiki/Kyanite",
+    "https://www.gemdat.org/gem-2303.html",
+    "https://www.usgs.gov/centers/national-minerals-information-center/kyanite-statistics-and-information",
+    "https://authors.library.caltech.edu/records/pa5xv-tve65"
+  ]
+}

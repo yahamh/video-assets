@@ -1,0 +1,179 @@
+{
+  "id": "lesson-030-carat-weight-versus-size",
+  "series": "lesson",
+  "number": 30,
+  "title": "Carat weight versus size",
+  "topic": "carat weight versus size",
+  "music": "music-lesson-030.wav",
+  "hook": {
+    "text": "A carat measures weight, not size.",
+    "gold": [
+      "weight,",
+      "size."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A carat measures weight, not size.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-front-white-input.webp",
+        "after": "matthew-front-white-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "One carat is 200 milligrams, or a fifth of a gram.",
+      "say": "One carat is two hundred milligrams, or a fifth of a gram.",
+      "scene": {
+        "kind": "title",
+        "text": "200 mg",
+        "sub": "One carat is"
+      }
+    },
+    {
+      "text": "A round diamond of one carat measures about 6.4 millimeters.",
+      "say": "A round diamond of one carat measures about six point four millimeters.",
+      "scene": {
+        "kind": "title",
+        "text": "About 6.4 mm",
+        "sub": "One carat, round"
+      }
+    },
+    {
+      "text": "Double the weight makes it only about a quarter wider.",
+      "scene": {
+        "kind": "title",
+        "text": "A quarter wider",
+        "sub": "At double the weight"
+      }
+    },
+    {
+      "text": "A denser stone, like sapphire, looks smaller at the same carat weight.",
+      "scene": {
+        "kind": "photo",
+        "src": "signet-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.3,
+          "k": 1.5
+        },
+        "label": "Sapphires"
+      }
+    },
+    {
+      "text": "Ovals and pears often look larger per carat than round stones.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.58,
+          "k": 1.7
+        },
+        "label": "Pear shape"
+      }
+    },
+    {
+      "text": "A deep cut hides weight below the girdle.",
+      "scene": {
+        "kind": "title",
+        "text": "Deep cut",
+        "sub": "Hides weight below"
+      }
+    },
+    {
+      "text": "Total carat weight adds up every diamond in a piece.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.3
+        },
+        "label": "Total carat weight"
+      }
+    },
+    {
+      "text": "Karat with a K is gold purity, not gem weight.",
+      "scene": {
+        "kind": "title",
+        "text": "Karat",
+        "sub": "With a K: gold purity"
+      }
+    },
+    {
+      "text": "So two stones of one carat can look quite different in size.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.2
+        }
+      }
+    },
+    {
+      "text": "A render shows a client how the design looks,",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before any stone is set.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: carat weight versus size",
+    "caption": "A carat measures weight, not size. One carat is 200 milligrams, or a fifth of a gram, and a round diamond of one carat measures about 6.4 millimeters. Double the weight makes it only about a quarter wider. A denser stone, like sapphire, looks smaller at the same carat weight, while ovals and pears often look larger per carat than round stones. A deep cut hides weight below the girdle. Total carat weight adds up every diamond in a piece, and karat with a K is gold purity, not gem weight. So two stones of one carat can look quite different in size. A render shows a client how the design looks, before any stone is set.",
+    "hashtags": [
+      "#caratweight",
+      "#diamondsize",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#gemology"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Carat_(mass)",
+    "https://4cs.gia.edu/en-us/diamond-carat-weight/",
+    "https://4cs.gia.edu/en-us/blog/gia-diamond-grading-reports-understanding-carat-weight/",
+    "https://www.gemsociety.org/article/carats-karats-and-carrots/",
+    "https://www.gemsociety.org/article/standard-gem-sizes-chart/",
+    "https://gemsociety.org/article/select-gems-ordered-density",
+    "https://www.brilliance.com/education/diamonds/carat",
+    "https://www.brilliantearth.com/diamond/buying-guide/mm-to-carat/",
+    "https://www.rarecarat.com/learn/buying-guide/carat",
+    "https://www.stonealgo.com/blog/round-diamond-carat-size-chart/",
+    "https://www.diamonds.pro/truth-about/diamond-carat-weight/",
+    "https://www.ross-simons.com/education/jewels-and-gemstones-education/diamonds/diamond-carat.html",
+    "https://www.withclarity.com/blogs/diamond/diamond-size-chart/",
+    "https://skyjems.ca/pages/encyclopedia-1907-metric-carat-adopted",
+    "https://reuvenveksler.com/education/history-of-carat-weight/",
+    "https://ganoksin.com/article/knowing-difference-carat-karat",
+    "https://en.wikipedia.org/wiki/Karat_(purity)",
+    "https://skyjems.ca/pages/encyclopedia-moissanite",
+    "https://www.jewelersmutual.com/the-jewelry-box/what-does-tw-mean-in-jewelry",
+    "https://www.brilliantearth.com/diamond/buying-guide/ct-ctw-cttw-tw-comparison/"
+  ]
+}

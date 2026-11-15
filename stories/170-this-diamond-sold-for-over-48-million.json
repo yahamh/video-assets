@@ -1,0 +1,166 @@
+{
+  "id": "170-this-diamond-sold-for-over-48-million",
+  "number": 170,
+  "title": "This diamond sold for over $48 million",
+  "topic": "blue moon of josephine blue diamond 12.03 carat sothebys geneva 2015 cora cullinan mine boron",
+  "music": "music-170.wav",
+  "hook": {
+    "text": "This diamond sold for over $48 million.",
+    "gold": [
+      "diamond",
+      "$48"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This diamond sold for over $48 million.",
+      "say": "This diamond sold for over forty-eight million dollars.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#2f7fe0"
+      }
+    },
+    {
+      "text": "It is the Blue Moon of Josephine, at 12.03 carats.",
+      "say": "It is the Blue Moon of Josephine, at twelve point oh three carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2f7fe0",
+        "halo": "#9cc8ff",
+        "label": "12.03 carats"
+      }
+    },
+    {
+      "text": "GIA graded it Fancy Vivid blue and Internally Flawless.",
+      "say": "G-I-A graded it Fancy Vivid blue and Internally Flawless.",
+      "scene": {
+        "kind": "title",
+        "text": "Fancy Vivid",
+        "sub": "GIA color grade"
+      }
+    },
+    {
+      "text": "Boron in the diamond is what makes it blue.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#5aa0ff",
+        "label": "Boron"
+      }
+    },
+    {
+      "text": "Its 29.62-carat rough came from South Africa's Cullinan mine in 2014.",
+      "say": "Its twenty-nine point six two carat rough came from South Africa's KULL-ih-nan mine in twenty fourteen.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "label": "29.62 carats"
+      }
+    },
+    {
+      "text": "Cora International paid about $25.6 million for that rough.",
+      "say": "Cora International paid about twenty-five point six million dollars for that rough.",
+      "scene": {
+        "kind": "title",
+        "text": "$25.6 million",
+        "sub": "Cora paid"
+      }
+    },
+    {
+      "text": "Cora then spent months cutting and polishing it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A diamond cutter",
+        "role": "Months of polishing",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Sotheby's sold it in Geneva in November 2015.",
+      "say": "Sotheby's sold it in Geneva in November twenty fifteen.",
+      "scene": {
+        "kind": "title",
+        "text": "Geneva",
+        "sub": "Sotheby's, Nov 2015"
+      }
+    },
+    {
+      "text": "With fees, the price was close to $48.5 million.",
+      "say": "With fees, the price was close to forty-eight point five million dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$48.5 million",
+        "sub": "Close to, with fees"
+      }
+    },
+    {
+      "text": "That is over $4 million a carat, an auction record.",
+      "say": "That is over four million dollars a carat, an auction record.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2f7fe0",
+        "label": "Record per carat"
+      }
+    },
+    {
+      "text": "The buyer renamed it for his daughter Josephine, then seven.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2f7fe0",
+        "halo": "#9cc8ff",
+        "label": "Josephine"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This diamond sold for over $48 million. It is the Blue Moon of Josephine, at 12.03 carats. GIA graded it Fancy Vivid blue and Internally Flawless, and boron in the diamond is what makes it blue. Its 29.62-carat rough came from South Africa's Cullinan mine in 2014, and Cora International paid about $25.6 million for that rough. Cora then spent months cutting and polishing it. Sotheby's sold it in Geneva in November 2015. With fees, the price was close to $48.5 million, which is over $4 million a carat, an auction record. The buyer renamed it for his daughter Josephine, then seven.",
+    "hashtags": [
+      "#bluediamond",
+      "#bluemoonofjosephine",
+      "#diamonds",
+      "#sothebys",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/most-expensive-diamond-per-carat",
+    "https://www.gia.edu/gems-gemology/winter-2014-blue-moon-diamond",
+    "https://www.jckonline.com/editorial-article/this-12-carat-blue-is-now-the-most-expensive-diamond-ever-sold-at-auction/",
+    "https://en.wikipedia.org/wiki/Blue_Moon_of_Josephine",
+    "https://www.sothebys.com/en/auctions/ecatalogue/2014/magnificent-jewels-and-noble-jewels-ge1505/lot.513.html",
+    "https://www.irishtimes.com/news/ireland/irish-news/blue-moon-diamond-sells-for-world-record-48-4m-1.2426340",
+    "https://www.newswire.ca/news-releases/dazzling-blue-moon-diamond-sold-by-cora-international-for-432-million-546313492.html",
+    "https://www.lse.co.uk/rns/296-carat-blue-diamond-sells-for-us256-million-iczcv0r1v52q5c9.html",
+    "https://www.thejewelleryeditor.com/jewellery/article/the-record-breaking-diamonds-of-2015",
+    "https://www.scmp.com/news/hong-kong/article/1878051/who-josephine-hk-buyer-spends-record-us48m-blue-moon-diamond-shatters",
+    "https://fortune.com/2015/11/12/billionaire-diamond-auction/",
+    "https://theweek.com/66789/record-breaking-blue-moon-diamond-bought-for-7-year-old",
+    "https://www.nationaljeweler.com/fashion/jewelry-auctions/1526-blue-diamond-sale-sets-multiple-records",
+    "https://carnegiescience.edu/node/2403",
+    "https://www.katerinaperez.com/articles/blue-diamonds-de-beers-cullinan-blue-set-to-smash-records-sothebys-hong-kong",
+    "https://en.thevalue.com/articles/de-beers-cullinan-blue-diamond-auction-result-sothebys-hong-kong"
+  ]
+}
