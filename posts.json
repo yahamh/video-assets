@@ -1982,7 +1982,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1156490343587175",
+      "instagram": "https://www.instagram.com/reel/DfvVz6zFIHO/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708166335305387282",
+      "youtube": "https://www.youtube.com/watch?v=kyA5FiA78cE"
+    }
   },
   "124-vikings-paid-with-jewelry-cut-by-weight": {
     "at": "2026-11-15T00:30:00Z",
@@ -1991,7 +1998,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1004899885337173",
+      "instagram": "https://www.instagram.com/reel/DfvgBVPkXzP/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708189473900678421"
+    }
   },
   "125-queen-elizabeths-pearls-carried-a-message": {
     "at": "2026-11-15T02:00:00Z",
@@ -2000,7 +2013,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1675121140917844",
+      "instagram": "https://www.instagram.com/reel/DfvqUAJFsdh/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708212646226578695"
+    }
   },
   "126-this-garnet-is-named-after-a-park": {
     "at": "2026-11-15T11:30:00Z",
@@ -2340,6 +2359,34 @@
   "162-this-garnet-has-more-fire-than-diamond": {
     "at": "2026-11-18T21:00:00Z",
     "zernio_id": "6af8e3d738f638abf5167456",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "163-this-opal-turns-clear-in-water": {
+    "at": "2026-11-18T23:00:00Z",
+    "zernio_id": "6af93282920aaba5d07db8d7",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "164-this-ruby-was-grown-in-a-flame": {
+    "at": "2026-11-19T00:30:00Z",
+    "zernio_id": "6af9328a373e2d91196a68ef",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "165-tahitian-black-pearls-are-not-truly-black": {
+    "at": "2026-11-19T02:00:00Z",
+    "zernio_id": "6af93292373e2d91196a692c",
     "platforms": [
       "facebook",
       "instagram",
