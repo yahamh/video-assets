@@ -1,0 +1,158 @@
+{
+  "id": "168-cast-rings-use-a-6000-year-old-method",
+  "number": 168,
+  "title": "Cast rings use a 6,000-year-old method",
+  "topic": "lost wax casting history nahal mishmar mehrgarh burnout 3d printed patterns",
+  "style": "lowpoly",
+  "music": "music-168.wav",
+  "hook": {
+    "text": "Cast rings use a 6,000-year-old method.",
+    "gold": [
+      "rings",
+      "6,000-year-old"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cast rings use a 6,000-year-old method.",
+      "say": "Cast rings use a six thousand year old method.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "halo": "#ffd98a"
+      }
+    },
+    {
+      "text": "It is called lost-wax casting, because the wax model melts away.",
+      "scene": {
+        "kind": "title",
+        "text": "Lost wax",
+        "sub": "It is called"
+      }
+    },
+    {
+      "text": "A jeweler surrounds a wax model with a plaster-like mix.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A jeweler",
+        "role": "The wax model",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A kiln burns the wax out, leaving a hollow mold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "empty",
+        "label": "Hollow mold"
+      }
+    },
+    {
+      "text": "Burnout can reach about 1,350 degrees Fahrenheit, or 732 Celsius.",
+      "say": "Burnout can reach about thirteen hundred fifty degrees Fahrenheit, or seven thirty-two Celsius.",
+      "scene": {
+        "kind": "title",
+        "text": "1,350 degrees",
+        "sub": "Burnout can reach"
+      }
+    },
+    {
+      "text": "Molten metal is pulled in by vacuum or centrifugal force.",
+      "say": "Molten metal is pulled in by vacuum or sen-TRIF-yuh-gul force.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#ff9a2a",
+        "halo": "#ffc27a",
+        "label": "Molten metal"
+      }
+    },
+    {
+      "text": "A copper amulet from Mehrgarh, in Pakistan, is about 6,000 years old.",
+      "say": "A copper amulet from MEHR-gahr, in Pakistan, is about six thousand years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#b87333",
+        "label": "Copper amulet"
+      }
+    },
+    {
+      "text": "Many of the 442 objects in an Israeli hoard were lost-wax cast.",
+      "say": "Many of the four hundred forty-two objects in an Israeli hoard were lost-wax cast.",
+      "scene": {
+        "kind": "title",
+        "text": "About 3500 BC",
+        "sub": "Nahal Mishmar, Israel"
+      }
+    },
+    {
+      "text": "Goldsmiths in the ancient Americas also cast gold this way.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9a441",
+        "halo": "#ffd98a",
+        "label": "Ancient gold"
+      }
+    },
+    {
+      "text": "Many jewelers now cast from 3D-printed patterns instead of hand-carved wax.",
+      "say": "Many jewelers now cast from three D printed patterns instead of hand-carved wax.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d8dde0",
+        "label": "Printed patterns"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cast rings use a 6,000-year-old method. It is called lost-wax casting, because the wax model melts away. A jeweler surrounds a wax model with a plaster-like mix, and a kiln burns the wax out, leaving a hollow mold. Burnout can reach about 1,350 degrees Fahrenheit, or 732 Celsius. Molten metal is pulled in by vacuum or centrifugal force. A copper amulet from Mehrgarh, in Pakistan, is about 6,000 years old, and many of the 442 objects in an Israeli hoard were lost-wax cast. Goldsmiths in the ancient Americas also cast gold this way. Many jewelers now cast from 3D-printed patterns instead of hand-carved wax.",
+    "hashtags": [
+      "#lostwaxcasting",
+      "#jewelrycasting",
+      "#goldsmith",
+      "#jewelrymaking",
+      "#handcrafted"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lost-wax_casting",
+    "https://www.metmuseum.org/toah/hd/nahl/hd_nahl.htm",
+    "https://library.biblicalarchaeology.org/sidebar/chalcolithic-treasures-nahal-mishmar/",
+    "https://en.wikipedia.org/wiki/Nahal_Mishmar",
+    "https://www.gemsociety.org/article/lost-wax-casting/",
+    "https://www.thenaturalsapphirecompany.com/education/precious-metal-manufacture-techniques-styles/precious-metal-jewelry-manufacture",
+    "https://www.stuller.com/articles/view/investing-and-burnout",
+    "https://www.ganoksin.com/article/wax-casting-burnout-cycles",
+    "https://formlabs.com/global/blog/lost-wax-casting/",
+    "https://robinsonsjewelers.com/blogs/news/lost-wax-casting-an-ancient-technique-in-modern-manufacturing-and-how-it-makes-your-jewelry-magic",
+    "https://www.smithsonianmag.com/smart-news/6000-year-old-amulet-ancient-metal-marvel-180961135/",
+    "https://cnrs.fr/en/node/2767",
+    "https://smarthistory.org/?p=13666",
+    "https://www.clevelandart.org/articles/getting-know-gold",
+    "https://3dadept.com/focus-from-print-to-pour-choosing-between-wax-and-resin-for-jewelry-casting-patterns/",
+    "https://www.britannica.com/technology/lost-wax-process"
+  ]
+}
