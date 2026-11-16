@@ -2543,7 +2543,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1837307050919149",
+      "instagram": "https://www.instagram.com/reel/Dfy4brrjelx/",
+      "youtube": "https://www.youtube.com/watch?v=1OVnlyR0kSc"
+    }
   },
   "175-these-gold-bees-may-actually-be-wasps": {
     "at": "2026-11-16T09:30:00Z",
@@ -2552,7 +2558,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1782819313018343",
+      "instagram": "https://www.instagram.com/reel/DfzCxHfDKaQ/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708700004453567796"
+    }
   },
   "176-he-thought-it-was-a-powder-compact": {
     "at": "2026-11-16T10:30:00Z",
@@ -2629,6 +2641,24 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "185-frying-a-mussel-ruined-a-giant-pearl": {
+    "at": "2026-11-18T03:30:00Z",
+    "zernio_id": "6afad82334f01bff213c26f4",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "186-ghanas-money-is-named-after-a-seashell": {
+    "at": "2026-11-18T08:00:00Z",
+    "zernio_id": "6afad82d77599b30543868df",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
