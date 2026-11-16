@@ -2231,7 +2231,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1154425243952730",
+      "instagram": "https://www.instagram.com/reel/DfzyuAsDjZV/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708807932774878485"
+    }
   },
   "140-pearl-necklaces-are-full-of-tiny-knots": {
     "at": "2026-11-16T18:00:00Z",
@@ -2241,7 +2247,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1439529748342784",
+      "instagram": "https://www.instagram.com/reel/Dfz9Z0AiCXJ/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708832007232425223",
+      "youtube": "https://www.youtube.com/watch?v=QfZVlDvo3bs"
+    }
   },
   "141-this-opal-was-once-a-seashell": {
     "at": "2026-11-16T19:30:00Z",
@@ -2250,7 +2263,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1451757750447984",
+      "instagram": "https://www.instagram.com/reel/Df0HMQ6EdC-/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708854014498114817"
+    }
   },
   "142-this-gem-is-fossilized-wood": {
     "at": "2026-11-16T21:00:00Z",
@@ -2259,7 +2278,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1499749792012612",
+      "instagram": "https://www.instagram.com/reel/Df0RsaTCkbo/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708877780288572678"
+    }
   },
   "143-this-emerald-is-carved-with-a-prayer": {
     "at": "2026-11-16T23:00:00Z",
@@ -2619,7 +2644,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1606023374631770",
+      "instagram": "https://www.instagram.com/reel/Df0YglllEDf/"
+    }
   },
   "179-bahrain-bans-the-sale-of-cultured-pearls": {
     "at": "2026-11-17T03:30:00Z",
@@ -2732,6 +2762,41 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "192-this-burial-suit-has-2498-jade-pieces": {
+    "at": "2026-11-19T08:00:00Z",
+    "zernio_id": "6afb85c56955f89ce22063ac",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "193-oregon-sunstones-colors-come-from-copper-specks": {
+    "at": "2026-11-19T09:30:00Z",
+    "zernio_id": "6afb85cca06b1a16658a06ff",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "194-warriors-once-decorated-shields-with-red-coral": {
+    "at": "2026-11-19T10:30:00Z",
+    "zernio_id": "6afb85d4a06b1a16658a0717",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "195-colored-titanium-works-like-a-soap-bubble": {
+    "at": "2026-11-19T15:00:00Z",
+    "zernio_id": "6afb85dcc26a4a176981c7eb",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -2939,7 +3004,11 @@
     "zernio_id": "6aed430f390b49fe77fccf26",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=xbQy3OinsjY"
+    }
   },
   "gs-12-baguette": {
     "at": "2026-11-17T17:00:00Z",
@@ -3275,6 +3344,13 @@
   "lesson-030-carat-weight-versus-size": {
     "at": "2026-11-22T16:00:00Z",
     "zernio_id": "6afa32670347e74b2e9fc38c",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-031-ring-size": {
+    "at": "2026-11-23T16:00:00Z",
+    "zernio_id": "6afb85e74106a5135a55c7a5",
     "platforms": [
       "youtube"
     ]
