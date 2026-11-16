@@ -47,7 +47,7 @@ jobs:
             gh release delete "$id" --yes --cleanup-tag || true
           done
           echo "remake=$remake" >> "$GITHUB_OUTPUT"
-          made=$(gh release list --limit 2000 --json tagName --jq '.[].tagName')
+          made=$(gh release list --limit 20000 --json tagName --jq '.[].tagName')
           todo=""
           for f in $(ls stories/*.json lessons/*.json 2>/dev/null | sort); do
             id=$(basename "$f" .json)

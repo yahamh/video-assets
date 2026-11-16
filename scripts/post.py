@@ -8,6 +8,9 @@ video that isn't booked yet goes to the next free time of its series in schedule
 and at least 30 minutes from now, in number order; they're booked soonest first, so if the plan's post limit stops
 a run, the posts due next went in. Zernio holds the post and publishes it at that time, so nothing has to run then. posts.json keeps what was booked: id -> at, zernio_id, platforms.
 
+schedule.json "fill_gaps": true books a new story at the first free time ahead (not only after the last booked one),
+"platform_times": {platform: ["HH:MM"]} leaves a story off the platforms that don't take a post at that time,
+and "caps": {platform: n} keeps each platform at n posts from this repo in any 24 hours (the stories give way).
 Videos listed in schedule.json "now" post the moment they're made instead (one already booked for later comes off
 Zernio and posts right away).
 A remade story that is booked but not posted yet comes off Zernio and is booked again at the same time
@@ -69,6 +72,22 @@ def next_slot(after, times):
                 return t
         day += dt.timedelta(days=1)
     raise ValueError("schedule.json has no posting times")
+
+
+def next_free_slot(after, times, used):
+    """The first posting time after `after` that isn't in `used` (the ISO times a series already has booked)."""
+    t = next_slot(after, times)
+    while iso(t) in used:
+        t = next_slot(t, times)
+    return t
+
+
+def over_cap(booked, t, cap):
+    """True if one more post at `t` would put more than `cap` posts into some 24 hours (a platform's daily limit),
+    counting `booked`, the times the account already has a post."""
+    day = dt.timedelta(hours=24)
+    near = sorted([u for u in booked if abs(u - t) < day] + [t])
+    return any(sum(1 for u in near if w <= u < w + day) > cap for w in near if w <= t < w + day)
 
 
 def lifts(at, text):
@@ -510,7 +529,7 @@ def main():
         del posts[sid]
         save(posts)
 
-    made = set(subprocess.run(["gh", "release", "list", "--limit", "2000", "--json", "tagName", "--jq",
+    made = set(subprocess.run(["gh", "release", "list", "--limit", "20000", "--json", "tagName", "--jq",
                                ".[].tagName"], check=True, capture_output=True, text=True).stdout.split())
     made |= {os.path.basename(f)[:-4] for f in glob.glob(os.path.join(UPLOADS, "*.mp4"))}  # made elsewhere
     stories = []
@@ -535,6 +554,9 @@ def main():
     for series, own in (sched.get("series") or {}).items():  # "from": a series' first booking is no sooner than this
         if own.get("from"):
             lasts[series] = max(lasts.get(series, now + LEAD), parse(own["from"]))
+    taken = {}  # series -> the ISO times it already has a post at (for "fill_gaps")
+    for sid, p in list(posts.items()) + [(sid, {"at": iso(t)}) for sid, t in keep_slot.items()]:
+        taken.setdefault(series_of(sid), set()).add(p["at"])
     # Every video gets its time first (each series after its own last post), then they're booked soonest first, so
     # when the plan's post limit cuts a run short, the posts that did go in are the next ones due across the series.
     queue = []
@@ -549,11 +571,57 @@ def main():
         if right_away:
             slot = None
         elif slot is None or slot <= now + LEAD:
-            slot = lasts[series] = next_slot(max(lasts.get(series, now + LEAD), now + LEAD), times)
-        if (series == "story" and sched.get("youtube_times") and slot
-                and slot.strftime("%H:%M") not in sched["youtube_times"]) or no_youtube(sched, series, slot or now):
+            if series == "story" and sched.get("fill_gaps"):  # the first free time ahead, not only after the last booked
+                slot = next_free_slot(now + LEAD, times, taken.setdefault(series, set()))
+                taken[series].add(iso(slot))
+                lasts[series] = max(lasts.get(series, now + LEAD), slot)
+            else:
+                slot = lasts[series] = next_slot(max(lasts.get(series, now + LEAD), now + LEAD), times)
+        # "platform_times": {platform: [HH:MM]} (and "youtube_times", the same for YouTube) keep a story off the
+        # platforms that don't take a post at this time, so each stays under its own daily limit.
+        only = dict(sched.get("platform_times") or {})
+        if sched.get("youtube_times"):
+            only.setdefault("youtube", sched["youtube_times"])
+        if series == "story" and slot:
+            accounts = {p: a for p, a in accounts.items() if p not in only or slot.strftime("%H:%M") in only[p]}
+        if no_youtube(sched, series, slot or now):
             accounts = {p: a for p, a in accounts.items() if p != "youtube"}
+        if not accounts:
+            print(f"::warning::{sid}: no platform takes a post at {iso(slot) if slot else 'now'}; not booked")
+            continue
         queue.append((slot or now, s, series, slot, accounts))
+    # "caps": {platform: posts} is the most posts one account gets in any 24 hours from this repo (below the
+    # platform's own limit, which Zernio's other posts share). Lessons and the other series count first, and a
+    # story leaves a platform that is full around its time, so the stories give way, never the lessons.
+    caps = sched.get("caps") or {}
+    if caps:
+        known = {pl: [] for pl in caps}
+        for p in posts.values():
+            for pl in p.get("platforms") or []:
+                if pl in known:
+                    known[pl].append(parse(p["at"]))
+        for when, s, series, slot, accounts in queue:
+            if series != "story" or s["id"] in keep_slot:
+                for pl in accounts:
+                    if pl in known:
+                        known[pl].append(when)
+        capped = []
+        for when, s, series, slot, accounts in sorted(queue, key=lambda q: (q[0], q[1]["id"])):
+            if series == "story" and s["id"] not in keep_slot:
+                kept = {}
+                for pl, acc in accounts.items():
+                    if pl in known and over_cap(known[pl], when, caps[pl]):
+                        print(f"::notice::{s['id']}: {pl} already has {caps[pl]} posts in 24 hours around {iso(when)}; not posted there")
+                        continue
+                    if pl in known:
+                        known[pl].append(when)
+                    kept[pl] = acc
+                accounts = kept
+            if accounts:
+                capped.append((when, s, series, slot, accounts))
+            else:
+                print(f"::warning::{s['id']}: every platform is full around {iso(when)}; not booked this run")
+        queue = capped
     queue.sort(key=lambda q: (q[0], q[1]["id"]))
     booked, failed = [], int(bool(bad))
     run = os.environ.get("GITHUB_RUN_ID") or int(now.timestamp())  # a retry in this run is the same post, a later run isn't
