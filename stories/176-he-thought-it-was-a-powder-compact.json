@@ -1,0 +1,177 @@
+{
+  "id": "176-he-thought-it-was-a-powder-compact",
+  "number": 176,
+  "title": "He thought it was a powder compact",
+  "topic": "middleham jewel 1985 metal detectorist sapphire pendant nativity yorkshire museum 1992",
+  "music": "music-176.wav",
+  "hook": {
+    "text": "He thought it was a powder compact.",
+    "gold": [
+      "powder",
+      "compact."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He thought it was a powder compact.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2a58c8",
+        "halo": "#7fa8ff"
+      }
+    },
+    {
+      "text": "In September 1985, a metal detectorist found it near Middleham Castle.",
+      "say": "In September nineteen eighty-five, a metal detectorist found it near MID-ul-um Castle.",
+      "scene": {
+        "kind": "cast",
+        "setting": "plain",
+        "name": "A detectorist",
+        "role": "September 1985",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3d4a3a",
+            "hair": "short",
+            "hairColor": "#6a5a4a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It is gold, set with a blue sapphire of about 10 carats.",
+      "say": "It is gold, set with a blue sapphire of about ten carats.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "oval",
+        "tone": "#2a58c8",
+        "label": "Gold and sapphire"
+      }
+    },
+    {
+      "text": "He had forgotten to turn off his detector,",
+      "scene": {
+        "kind": "title",
+        "text": "Detector left on",
+        "sub": "Walking to his car"
+      }
+    },
+    {
+      "text": "while walking back to his car.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A detectorist",
+        "role": "Walking back",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3d4a3a",
+            "hair": "short",
+            "hairColor": "#6a5a4a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "On the back, the Nativity sits above the Lamb of God.",
+      "scene": {
+        "kind": "title",
+        "text": "The Nativity",
+        "sub": "Above the Lamb of God"
+      }
+    },
+    {
+      "text": "The pendant dates from the late 1400s.",
+      "say": "The pendant dates from the late fourteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Late 1400s",
+        "sub": "A medieval pendant"
+      }
+    },
+    {
+      "text": "The back slides open to a hidden space, probably for a relic.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a58c8",
+        "label": "A hidden space"
+      }
+    },
+    {
+      "text": "People believed its sapphire could cure ulcers.",
+      "scene": {
+        "kind": "title",
+        "text": "Cures ulcers",
+        "sub": "What people believed"
+      }
+    },
+    {
+      "text": "In 1992 the Yorkshire Museum bought it for 2.5 million pounds,",
+      "say": "In nineteen ninety-two the Yorkshire Museum bought it for two point five million pounds,",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#2a58c8",
+        "to": "Yorkshire Museum",
+        "date": "Bought 1992",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "after a public appeal.",
+      "scene": {
+        "kind": "title",
+        "text": "A public appeal",
+        "sub": "Helped pay for it"
+      }
+    },
+    {
+      "text": "The original is displayed in the Yorkshire Museum in York.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a58c8",
+        "halo": "#7fa8ff",
+        "label": "In York"
+      }
+    }
+  ],
+  "post": {
+    "caption": "He thought it was a powder compact. In September 1985, a metal detectorist found it near Middleham Castle. It is gold, set with a blue sapphire of about 10 carats, and he had forgotten to turn off his detector while walking back to his car. On the back, the Nativity sits above the Lamb of God, and the pendant dates from the late 1400s. The back slides open to a hidden space, probably for a relic, and people believed its sapphire could cure ulcers. In 1992 the Yorkshire Museum bought it for 2.5 million pounds, after a public appeal. The original is displayed in York.",
+    "hashtags": [
+      "#middlehamjewel",
+      "#sapphire",
+      "#medievaljewelry",
+      "#metaldetecting",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.lyonandturnbull.com/stories/the-middleham-jewel",
+    "https://www.english-heritage.org.uk/visit/places/middleham-castle/history/middleham-jewel",
+    "https://www.artfund.org/our-purpose/art-funded-by-you/the-middleham-jewel",
+    "https://en.wikipedia.org/wiki/Middleham_Jewel",
+    "https://www.yorkshiremuseum.org.uk/collections/collections-highlights/middleham-jewel/",
+    "https://csmonitor.com/1986/1222/ijewel.html",
+    "https://richardiii-ipup.org.uk/riii/45",
+    "https://www.pocklingtonpost.co.uk/lifestyle/staycation/why-ps25m-middleham-jewel-is-far-from-horse-racing-towns-only-claim-to-fame-3230702",
+    "https://detecting.org.uk/html/Middleham_Jewel_Famous_Metal_Detecting_Finds.html",
+    "https://www.realyorkshireblog.com/post/a-detectorist-s-dream-the-story-behind-the-middleham-jewel",
+    "https://www.yorkshirepost.co.uk/news/treasure-trail-leads-london-jewels-our-crown-take-trip-south-1984598"
+  ]
+}

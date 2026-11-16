@@ -796,6 +796,57 @@ export const Hen: React.FC<{ s: number; t?: number }> = ({ s, t = 0 }) => {
   );
 };
 
+// The Malia pendant: two gold bees face each other, heads at a drop of honey, wings swept back, a filigree ball above and
+// three small discs hanging below (Heraklion Archaeological Museum, about 1700 BC).
+export const Bees: React.FC<{ s: number; metalName?: string; t?: number }> = ({ s, metalName = "yellow", t = 0 }) => {
+  const [m, md] = metal(metalName);
+  const light = tint(m, 0.28);
+  const f = (v: number) => (v * s).toFixed(1);
+  const bee = (k: number) => (
+    <g key={k} transform={`scale(${k} 1)`}>
+      {/* wings, swept back and out */}
+      <path d={`M${f(0.2)} ${f(-0.1)} Q${f(0.52)} ${f(-0.38)} ${f(0.76)} ${f(0.0)} Q${f(0.56)} ${f(0.2)} ${f(0.22)} ${f(0.06)}Z`} fill={light} stroke={md} strokeWidth={3} strokeLinejoin="round" />
+      <path d={`M${f(0.22)} ${f(0.04)} Q${f(0.58)} ${f(0.08)} ${f(0.66)} ${f(0.38)} Q${f(0.4)} ${f(0.36)} ${f(0.22)} ${f(0.16)}Z`} fill={light} stroke={md} strokeWidth={3} strokeLinejoin="round" />
+      <path d={`M${f(0.28)} ${f(-0.06)} Q${f(0.52)} ${f(-0.16)} ${f(0.68)} ${f(-0.01)}`} stroke={md} strokeWidth={2} fill="none" />
+      <path d={`M${f(0.3)} ${f(0.02)} Q${f(0.52)} ${f(0.0)} ${f(0.62)} ${f(0.1)}`} stroke={md} strokeWidth={2} fill="none" />
+      <path d={`M${f(0.28)} ${f(0.1)} Q${f(0.5)} ${f(0.14)} ${f(0.58)} ${f(0.3)}`} stroke={md} strokeWidth={2} fill="none" />
+      {/* the body, a curved band from the head down to the stinger */}
+      <path d={`M${f(0.05)} ${f(-0.36)} C${f(0.24)} ${f(-0.34)} ${f(0.36)} ${f(-0.12)} ${f(0.3)} ${f(0.12)} C${f(0.26)} ${f(0.3)} ${f(0.14)} ${f(0.42)} ${f(0.03)} ${f(0.46)} C${f(0.14)} ${f(0.28)} ${f(0.16)} ${f(0.08)} ${f(0.13)} ${f(-0.06)} C${f(0.11)} ${f(-0.2)} ${f(0.08)} ${f(-0.3)} ${f(0.05)} ${f(-0.36)}Z`} fill={m} stroke={md} strokeWidth={3} strokeLinejoin="round" />
+      {[-0.18, -0.06, 0.06, 0.18].map((y, i) => (
+        <path key={i} d={`M${f(0.13 + 0.015 * i)} ${f(y)} Q${f(0.22)} ${f(y + 0.03)} ${f(0.3 - 0.01 * i)} ${f(y - 0.01)}`} stroke={md} strokeWidth={2.5} fill="none" strokeLinecap="round" />
+      ))}
+      {/* the head, an eye and a feeler */}
+      <circle cx={f(0.1)} cy={f(-0.4)} r={s * 0.07} fill={m} stroke={md} strokeWidth={3} />
+      <circle cx={f(0.12)} cy={f(-0.41)} r={s * 0.014} fill={INK} />
+      <path d={`M${f(0.14)} ${f(-0.45)} q${f(0.05)} ${f(-0.06)} ${f(0.1)} ${f(-0.04)}`} stroke={md} strokeWidth={2.5} fill="none" strokeLinecap="round" />
+      {/* a disc hanging from the wing */}
+      <path d={`M${f(0.62)} ${f(0.3)} L${f(0.62)} ${f(0.46)}`} stroke={md} strokeWidth={2.5} />
+      <circle cx={f(0.62)} cy={f(0.53)} r={s * 0.065} fill={light} stroke={md} strokeWidth={3} />
+    </g>
+  );
+  return (
+    <g transform={`translate(0 ${f(0.08)})`}>
+      {bee(1)}
+      {bee(-1)}
+      {/* the drop of honey between the heads, a little honeycomb */}
+      <circle cx={0} cy={f(-0.34)} r={s * 0.1} fill={light} stroke={md} strokeWidth={3} />
+      {[[0, -0.34], [-0.045, -0.31], [0.045, -0.31], [-0.045, -0.375], [0.045, -0.375]].map(([x, y], i) => (
+        <circle key={i} cx={f(x)} cy={f(y)} r={s * 0.025} fill="none" stroke={md} strokeWidth={2} />
+      ))}
+      {/* above: a ball of fine wire on a ring */}
+      <path d={`M${f(-0.05)} ${f(-0.43)} L${f(-0.05)} ${f(-0.5)} M${f(0.05)} ${f(-0.43)} L${f(0.05)} ${f(-0.5)}`} stroke={md} strokeWidth={3} />
+      <circle cx={0} cy={f(-0.6)} r={s * 0.11} fill={m} stroke={md} strokeWidth={3} />
+      <ellipse cx={0} cy={f(-0.6)} rx={s * 0.11} ry={s * 0.04} fill="none" stroke={md} strokeWidth={2} />
+      <ellipse cx={0} cy={f(-0.6)} rx={s * 0.04} ry={s * 0.11} fill="none" stroke={md} strokeWidth={2} />
+      <circle cx={0} cy={f(-0.77)} r={s * 0.06} fill="none" stroke={md} strokeWidth={4} />
+      {/* below: the middle disc */}
+      <path d={`M0 ${f(0.44)} L0 ${f(0.52)}`} stroke={md} strokeWidth={2.5} />
+      <circle cx={0} cy={f(0.59)} r={s * 0.065} fill={light} stroke={md} strokeWidth={3} />
+      <circle cx={f(-0.2 + 0.4 * ((t * 0.5) % 1))} cy={f(-0.1)} r={3 + Math.sin(t * 6) * 1} fill={CREAM} opacity={0.6} />
+    </g>
+  );
+};
+
 // One of the things a story shows, by name: gem, glass, rough, pearl, round-pearl, egg (shape "plain" for no gold
 // bands), opal, ring (shape "plain" for a plain wedding band, "trinity" for three linked bands in three golds), bracelet, claddagh, brooch (shape "mystery": a flower covered in stones), carrot, clam, hen, tiara, coronet (a tiara
 // with a stone on every peak), empty.
@@ -812,6 +863,8 @@ export const Item: React.FC<{ kind: string; s: number; t: number; shape?: string
       return <Egg s={s} tone={tone} t={t} id={id} plain={shape === "plain"} />;
     case "hen":
       return <Hen s={s * 1.3} t={t} />;
+    case "bees":
+      return <Bees s={s * 1.25} metalName={metalName} t={t} />;
     case "tiara":
     case "coronet":
       return <g transform={`translate(0 ${-s * 0.1})`}><Tiara s={s * 1.15} shape={shape && shape !== kind ? shape : "oval"} tone={tone} metalName={metalName ?? "white"} t={t} id={id} coronet={kind === "coronet"} /></g>;

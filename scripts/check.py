@@ -36,7 +36,7 @@ ONE_INK = {"midnight", "blueprint", "riso", "oldprint", "sunset"}
 ONE_INK_FROM = 26  # stories 001-025 were posted before that, in the looks they have
 # Things only the paper style draws (WRITING.md, "The paper look adds a few options"): a story in the low-poly or the
 # dark gold line look can't use them.
-_THINGS = {"ring", "carrot", "opal", "round-pearl", "clam", "hen", "tiara", "coronet", "claddagh", "brooch"}
+_THINGS = {"ring", "carrot", "opal", "round-pearl", "clam", "hen", "bees", "tiara", "coronet", "claddagh", "brooch"}
 _PAPER_VALUES = {
     "show": _THINGS, "item": _THINGS, "stone": _THINGS, "setting": {"garden", "field", "lab"},
     "piece": {"claddagh", "spheres", "opal", "carrot"}, "outfit": {"casual"}, "prop": {"ringbox", "shovel", "carrot", "pearl"},

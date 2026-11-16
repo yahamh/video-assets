@@ -1,0 +1,172 @@
+{
+  "id": "175-these-gold-bees-may-actually-be-wasps",
+  "number": 175,
+  "title": "These gold bees may actually be wasps",
+  "topic": "malia pendant minoan gold bees wasps chrysolakkos crete heraklion granulation filigree",
+  "style": "paper",
+  "plate": "The bee pendant",
+  "theme": "sky",
+  "music": "music-175.wav",
+  "hook": {
+    "text": "These gold bees may actually be wasps.",
+    "gold": [
+      "bees",
+      "wasps."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "These gold bees may actually be wasps.",
+      "scene": {
+        "kind": "hook",
+        "show": "bees",
+        "metal": "yellow",
+        "size": 780,
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It is a gold pendant of two insects that face each other.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bees",
+        "label": "Two insects",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Their heads and tails are joined, and their wings spread back.",
+      "scene": {
+        "kind": "title",
+        "text": "Wings back",
+        "sub": "Heads and tails joined",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Tiny gold balls and fine wire decorate it.",
+      "scene": {
+        "kind": "title",
+        "text": "Granulation",
+        "sub": "Tiny balls, fine wire",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Three small discs dangle from the wings and joined bodies.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bees",
+        "label": "Three small discs",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "It is over 3,500 years old, from Minoan Crete.",
+      "say": "It is over thirty-five hundred years old, from Minoan Crete.",
+      "scene": {
+        "kind": "title",
+        "text": "3,500 years",
+        "sub": "Minoan Crete",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It was found in 1930 at Chrysolakkos, near Malia on Crete.",
+      "say": "It was found in nineteen thirty at KRIS-oh-LAK-os, near Malia on Crete.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "name": "An excavator",
+        "role": "Found in 1930",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#6fa8dc",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "prop": "shovel",
+            "expression": "smile"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "That place name means pit of gold.",
+      "say": "That place name means pit of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Pit of gold",
+        "sub": "Chrysolakkos",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Researchers propose the insects are modeled on a large wasp.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A researcher",
+        "role": "A wasp, perhaps",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#e8eef2",
+            "hair": "side",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The three discs may copy the fruits of a Cretan herb.",
+      "scene": {
+        "kind": "title",
+        "text": "A Cretan herb",
+        "sub": "Fruits like the discs",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It is in the Heraklion Archaeological Museum on Crete.",
+      "scene": {
+        "kind": "gift",
+        "stone": "bees",
+        "to": "Heraklion Museum",
+        "date": "Crete",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "These gold bees may actually be wasps. It is a gold pendant of two insects that face each other. Their heads and tails are joined, and their wings spread back. Tiny gold balls and fine wire decorate it, and three small discs dangle from the wings and joined bodies. It is over 3,500 years old, from Minoan Crete, and it was found in 1930 at Chrysolakkos, near Malia on Crete. That place name means pit of gold. Researchers propose the insects are modeled on a large wasp, and the three discs may copy the fruits of a Cretan herb. It is in the Heraklion Archaeological Museum on Crete.",
+    "hashtags": [
+      "#minoan",
+      "#goldjewelry",
+      "#ancientjewelry",
+      "#crete",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Malia_Pendant",
+    "https://en.wikipedia.org/wiki/Chryssolakkos",
+    "https://www.livescience.com/archaeology/malia-bee-pendant-a-3-800-year-old-accessory-found-in-a-minoan-pit-of-gold",
+    "https://www.worldhistory.org/image/885/minoan-bee-pendant/",
+    "https://www.worldhistory.org/article/449/minoan-jewellery/",
+    "https://www.cambridge.org/core/journals/antiquaries-journal/article/natural-history-of-a-bronze-age-jewel-found-in-crete-the-malia-pendant/908E971740E242573F221F94DA3076AC",
+    "https://ancient-greece.org/?p=10331",
+    "https://www.meetcrete.com/minoan-palace-malia/",
+    "https://www.discovercrete.com/blog/gold-bee-pendant-what-does-it-symbolise"
+  ]
+}

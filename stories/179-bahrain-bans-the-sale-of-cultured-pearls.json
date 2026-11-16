@@ -1,0 +1,155 @@
+{
+  "id": "179-bahrain-bans-the-sale-of-cultured-pearls",
+  "number": 179,
+  "title": "Bahrain bans the sale of cultured pearls",
+  "topic": "bahrain pearling trail pearl diving nose clip tawash 1930s cultured pearls unesco 2012 danat lab ban",
+  "music": "music-179.wav",
+  "hook": {
+    "text": "Bahrain bans the sale of cultured pearls.",
+    "gold": [
+      "Bahrain",
+      "cultured"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Bahrain bans the sale of cultured pearls.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl",
+        "tone": "#f4efe4"
+      }
+    },
+    {
+      "text": "Bahrain was the center of the Gulf pearl trade.",
+      "scene": {
+        "kind": "title",
+        "text": "Bahrain",
+        "sub": "Gulf pearl trade"
+      }
+    },
+    {
+      "text": "Divers went out for about four months each summer.",
+      "scene": {
+        "kind": "cast",
+        "setting": "ship",
+        "name": "Pearl divers",
+        "role": "Four summer months",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#b08a5a",
+            "hair": "short",
+            "hairColor": "#2a1f1a",
+            "skin": "#c9976b",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They wore a nose clip and leather caps on their fingers.",
+      "scene": {
+        "kind": "title",
+        "text": "Nose clip",
+        "sub": "Leather finger caps"
+      }
+    },
+    {
+      "text": "A stone weight on a rope pulled them down to the oysters.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#f4efe4",
+        "label": "Down to the oysters"
+      }
+    },
+    {
+      "text": "The merchants who bought the pearls were called tawash.",
+      "say": "The merchants who bought the pearls were called tah-WASH.",
+      "scene": {
+        "kind": "title",
+        "text": "Tawash",
+        "sub": "The pearl merchants"
+      }
+    },
+    {
+      "text": "In the 1930s, cultured pearls from Japan helped end the old trade.",
+      "say": "In the nineteen thirties, cultured pearls from Japan helped end the old trade.",
+      "scene": {
+        "kind": "title",
+        "text": "1930s",
+        "sub": "Cultured pearls, Japan"
+      }
+    },
+    {
+      "text": "In 2012, UNESCO listed Bahrain's pearling path as a World Heritage site.",
+      "say": "In twenty twelve, YOO-NESS-koh listed Bahrain's pearling path as a World Heritage site.",
+      "scene": {
+        "kind": "gift",
+        "stone": "pearl",
+        "tone": "#f4efe4",
+        "to": "UNESCO, 2012",
+        "date": "World Heritage",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Bahrain's DANAT lab tells natural pearls from cultured ones.",
+      "say": "Bahrain's DAH-nat lab tells natural pearls from cultured ones.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A gemologist",
+        "role": "DANAT lab",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#2a1f1a",
+            "skin": "#c9976b",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Today, cultured pearls are barred from its jewelry counters.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#f4efe4",
+        "label": "Natural pearls only"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Bahrain bans the sale of cultured pearls. Bahrain was the center of the Gulf pearl trade, and divers went out for about four months each summer. They wore a nose clip and leather caps on their fingers, and a stone weight on a rope pulled them down to the oysters. The merchants who bought the pearls were called tawash. In the 1930s, cultured pearls from Japan helped end the old trade. In 2012, UNESCO listed Bahrain's pearling path as a World Heritage site, and Bahrain's DANAT lab tells natural pearls from cultured ones. Today, cultured pearls are barred from its jewelry counters.",
+    "hashtags": [
+      "#naturalpearls",
+      "#bahrain",
+      "#pearldiving",
+      "#pearls",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://whc.unesco.org/en/list/1364",
+    "https://en.wikipedia.org/wiki/Bahrain_Pearling_Trail",
+    "https://www.bahrainthismonth.com/magazine/features/the-history-of-pearling-in-bahrain-a-glimpse-into-an-ancient-legacy",
+    "https://pearlingpath.bh/en/?p=951",
+    "https://pearlingpath.bh/en/history-of-pearling/",
+    "https://archive.aramcoworld.com/issue/199005/servants.of.the.pearl.htm",
+    "https://www.iranicaonline.org/?p=1582",
+    "https://www.thenationalnews.com/weekend/2022/06/17/ghous-al-kabir-marked-start-of-the-four-month-pearl-diving-season-in-the-uae",
+    "https://rapaport.com/magazine-article/preserving-bahrains-pearl-heritage/",
+    "https://leap.unep.org/en/countries/bh/national-legislation/legislative-decree-no-10-1990-concerning-control-pearls-and",
+    "https://www.newsofbahrain.com/en/article/protecting-heritage-wk_post-122880",
+    "https://rapaport.com/magazine-article/pearl-power/"
+  ]
+}

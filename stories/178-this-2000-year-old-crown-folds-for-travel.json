@@ -1,0 +1,180 @@
+{
+  "id": "178-this-2000-year-old-crown-folds-for-travel",
+  "number": 178,
+  "title": "This 2,000-year-old crown folds for travel",
+  "topic": "bactrian gold tillya tepe sarianidi 1978 six graves folding crown kabul vault 2003 2004 locksmith tour",
+  "style": "paper",
+  "plate": "Tillya Tepe",
+  "theme": "watercolor",
+  "music": "music-178.wav",
+  "hook": {
+    "text": "This 2,000-year-old crown folds for travel.",
+    "gold": [
+      "2,000-year-old",
+      "crown"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This 2,000-year-old crown folds for travel.",
+      "say": "This two thousand year old crown folds for travel.",
+      "scene": {
+        "kind": "hook",
+        "show": "coronet",
+        "metal": "yellow",
+        "tone": "#d9203f",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 1978, a Soviet-Afghan team led by Viktor Sarianidi found it.",
+      "say": "In nineteen seventy-eight, a Soviet-Afghan team led by Viktor sar-ee-AH-nee-dee found it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "name": "An archaeologist",
+        "role": "Found in 1978",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#d98b4a",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "shovel",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It came from six graves, for five women and one man.",
+      "scene": {
+        "kind": "title",
+        "text": "Six graves",
+        "sub": "Five women, one man",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "They held more than 20,000 items of gold and precious metal.",
+      "say": "They held more than twenty thousand items of gold and precious metal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "metal": "yellow",
+        "label": "20,000 items",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The treasures were later hidden in Kabul's presidential palace vault.",
+      "scene": {
+        "kind": "cast",
+        "setting": "vault",
+        "name": "Museum staff",
+        "role": "Hidden in Kabul",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a5a7a",
+            "hair": "short",
+            "hairColor": "#2f2a26",
+            "skin": "#e4b88f",
+            "expression": "smile"
+          }
+        ],
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Only a handful of trusted people knew.",
+      "scene": {
+        "kind": "title",
+        "text": "A handful",
+        "sub": "Knew where it was",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "In 2004, the keys to the gold safe could not be found,",
+      "say": "In two thousand four, the keys to the gold safe could not be found,",
+      "scene": {
+        "kind": "title",
+        "text": "No keys",
+        "sub": "The gold safe, 2004",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "so a locksmith opened it with a circular saw.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A locksmith",
+        "role": "A circular saw",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#5b8a72",
+            "hair": "side",
+            "hairColor": "#3a2a20",
+            "skin": "#e4b88f",
+            "expression": "smile"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "About 30 people watched, including the archaeologist who found it.",
+      "say": "About thirty people watched, including the archaeologist who found it.",
+      "scene": {
+        "kind": "title",
+        "text": "About 30 people",
+        "sub": "Watched it open",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It then toured museums from Paris to New York.",
+      "scene": {
+        "kind": "gift",
+        "stone": "coronet",
+        "tone": "#d9203f",
+        "to": "Paris to New York",
+        "date": "The tour",
+        "color": "#5bb4e8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This 2,000-year-old crown folds for travel. In 1978, a Soviet-Afghan team led by Viktor Sarianidi found it. It came from six graves, for five women and one man, and they held more than 20,000 items of gold and precious metal. The treasures were later hidden in Kabul's presidential palace vault, and only a handful of trusted people knew. In 2004, the keys to the gold safe could not be found, so a locksmith opened it with a circular saw. About 30 people watched, including the archaeologist who found it. It then toured museums from Paris to New York.",
+    "hashtags": [
+      "#bactriangold",
+      "#tillyatepe",
+      "#ancientjewelry",
+      "#goldcrown",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.smithsonianmag.com/arts-culture/lost-found-7605081/",
+    "https://www.neh.gov/humanities/2008/julyaugust/feature/now-you-see-them",
+    "https://projects.artgallery.nsw.gov.au/afghanistan",
+    "https://en.wikipedia.org/wiki/Tillya_Tepe",
+    "https://www.dawn.com/news/705318",
+    "https://www.arabnews.com/node/236476",
+    "https://www.aljazeera.com/news/2004/6/1/afghan-treasure-to-dazzle-the-world",
+    "https://archive.archaeology.org/0311/newsbriefs/tilyatepe.html",
+    "https://www.npr.org/2004/11/17/4174032/interviews-priceless-afghan-treasures-recovered",
+    "https://www.nbcnews.com/id/wbna16160636",
+    "https://taskandpurpose.com/news/afghanistan-ancient-treasure-taliban/",
+    "https://www.metmuseum.org/exhibitions/listings/2009/afghanistan"
+  ]
+}

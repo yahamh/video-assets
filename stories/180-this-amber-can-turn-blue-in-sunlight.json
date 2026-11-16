@@ -1,0 +1,157 @@
+{
+  "id": "180-this-amber-can-turn-blue-in-sunlight",
+  "number": 180,
+  "title": "This amber can turn blue in sunlight",
+  "topic": "blue amber dominican republic fluorescence perylene cordillera septentrional santiago miocene sunlight",
+  "style": "lowpoly",
+  "music": "music-180.wav",
+  "hook": {
+    "text": "This amber can turn blue in sunlight.",
+    "gold": [
+      "amber",
+      "blue"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This amber can turn blue in sunlight.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#e0a030",
+        "halo": "#5aa0ff"
+      }
+    },
+    {
+      "text": "Most blue amber is mined in the Dominican Republic.",
+      "scene": {
+        "kind": "title",
+        "text": "Dominican Republic",
+        "sub": "Most blue amber"
+      }
+    },
+    {
+      "text": "The mines are in the north, near the city of Santiago.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A miner",
+        "role": "Near Santiago",
+        "cast": [
+          {
+            "outfit": "miner",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#c9976b",
+            "prop": "lantern",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Its age is debated, but 15 to 20 million years is common.",
+      "say": "Its age is debated, but fifteen to twenty million years is common.",
+      "scene": {
+        "kind": "title",
+        "text": "15 to 20 million",
+        "sub": "Years, a common guess"
+      }
+    },
+    {
+      "text": "The blue is fluorescence, set off by the ultraviolet light in sunlight.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0a030",
+        "halo": "#5aa0ff",
+        "label": "Fluorescence"
+      }
+    },
+    {
+      "text": "It shows best in sunlight, against a dark background.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c98a22",
+        "halo": "#5aa0ff",
+        "dark": true,
+        "label": "Dark background"
+      }
+    },
+    {
+      "text": "Hold it up to the light and it looks plain yellow.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f0b83a",
+        "label": "Held to the light"
+      }
+    },
+    {
+      "text": "The blue sits on the surface of the stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Surface only",
+        "sub": "The blue sits on top"
+      }
+    },
+    {
+      "text": "A hydrocarbon called perylene is the likely cause.",
+      "say": "A hydrocarbon called PERR-uh-leen is the likely cause.",
+      "scene": {
+        "kind": "title",
+        "text": "Perylene",
+        "sub": "The likely cause"
+      }
+    },
+    {
+      "text": "Blue amber costs more than ordinary amber.",
+      "scene": {
+        "kind": "title",
+        "text": "Costs more",
+        "sub": "Than ordinary amber"
+      }
+    },
+    {
+      "text": "Amber floats in salt water, which helps expose glass fakes.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0a030",
+        "label": "Floats in salt water"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This amber can turn blue in sunlight. Most blue amber is mined in the Dominican Republic, in the north near the city of Santiago. Its age is debated, but 15 to 20 million years is common. The blue is fluorescence, set off by the ultraviolet light in sunlight, and it shows best against a dark background. Hold it up to the light and it looks plain yellow, because the blue sits on the surface of the stone. A hydrocarbon called perylene is the likely cause, and blue amber costs more than ordinary amber. Amber floats in salt water, which helps expose glass fakes.",
+    "hashtags": [
+      "#blueamber",
+      "#amber",
+      "#dominicanamber",
+      "#gemstones",
+      "#jewelryscience"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/summer-2014-liu-color-phenomena-blue-amber",
+    "https://www.gia.edu/gems-gemology/fall-2019-gemnews-artificial-glass-imitating-blue-amber",
+    "https://www.gia.edu/gems-gemology/winter-2020-fluorescence-characteristics-of-blue-amber",
+    "https://www.nature.com/articles/s41598-021-96520-3",
+    "https://iris.unipv.it/handle/11571/109248",
+    "https://en.wikipedia.org/wiki/Blue_amber",
+    "https://wondermondo.com/palo-quemado-blue-amber-mine",
+    "https://www.gemsociety.org/article/amber/",
+    "https://skyjems.ca/pages/encyclopedia-blue-amber",
+    "https://dominicantoday.com/?p=166172"
+  ]
+}

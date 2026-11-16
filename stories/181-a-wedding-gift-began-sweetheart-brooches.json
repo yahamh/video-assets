@@ -1,0 +1,190 @@
+{
+  "id": "181-a-wedding-gift-began-sweetheart-brooches",
+  "number": 181,
+  "title": "A wedding gift began sweetheart brooches",
+  "topic": "sweetheart brooch regimental badge earl of airlie 1886 boer war first world war army camps",
+  "style": "paper",
+  "plate": "Army brooches",
+  "theme": "mint",
+  "music": "music-181.wav",
+  "hook": {
+    "text": "A wedding gift began sweetheart brooches.",
+    "gold": [
+      "wedding",
+      "brooches."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A wedding gift began sweetheart brooches.",
+      "scene": {
+        "kind": "hook",
+        "show": "brooch",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#d9203f",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "On their wedding day in 1886, the Earl of Airlie",
+      "say": "On their wedding day in eighteen eighty-six, the Earl of Airlie",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "The Earl and Mabell",
+        "role": "Wed in 1886",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#8e1f2c",
+            "hair": "short",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          },
+          {
+            "outfit": "gown",
+            "outfitColor": "#f1e4ee",
+            "hair": "updo",
+            "hairColor": "#6a4a3a",
+            "skin": "#f3d6bd",
+            "expression": "smile"
+          }
+        ],
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "gave his wife a brooch copying his regiment's badge.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#d9203f",
+        "label": "A regiment's badge",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "She said other army wives copied her.",
+      "scene": {
+        "kind": "title",
+        "text": "A new fashion",
+        "sub": "In her own account",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "They spread in the Boer War and boomed in World War One.",
+      "scene": {
+        "kind": "title",
+        "text": "World War One",
+        "sub": "Brooches boomed",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "They were small copies of regimental cap badges.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#2a58c8",
+        "label": "Cap badge copies",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Hundreds of designs were made, mostly in London and Birmingham.",
+      "scene": {
+        "kind": "title",
+        "text": "Hundreds",
+        "sub": "London, Birmingham",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Soldiers bought them at jewelry shops and army camps.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A soldier",
+        "role": "At an army camp",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#8a7a52",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Despite the name, they also went to mothers and sisters.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "heart",
+        "tone": "#ec6a9c",
+        "metal": "yellow",
+        "label": "For mothers too",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Women wore them with pride and as good luck charms.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#d9203f",
+        "label": "Worn with pride",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Museums from London to Canberra hold them today.",
+      "scene": {
+        "kind": "gift",
+        "stone": "brooch",
+        "tone": "#d9203f",
+        "to": "London to Canberra",
+        "date": "In museums",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A wedding gift began sweetheart brooches. On their wedding day in 1886, the Earl of Airlie gave his wife a brooch copying his regiment's badge, and she said other army wives copied her. They spread in the Boer War and boomed in World War One. They were small copies of regimental cap badges, and hundreds of designs were made, mostly in London and Birmingham. Soldiers bought them at jewelry shops and army camps. Despite the name, they also went to mothers and sisters, and women wore them with pride and as good luck charms. Museums from London to Canberra hold them today.",
+    "hashtags": [
+      "#sweetheartbrooch",
+      "#antiquejewelry",
+      "#vintagejewelry",
+      "#militaryhistory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.historyworkshop.org.uk/radical-objects-military-sweetheart-brooches-of-the-first-world-war",
+    "https://horsepowermuseum.co.uk/feb-2021-regimental-brooches/",
+    "https://en.wikipedia.org/wiki/David_Ogilvy,_11th_Earl_of_Airlie",
+    "https://argylls.co.uk/from-your-ever-loving-and-faithful-sweetheart/",
+    "https://bmmt.co.uk/sweetheart-brooches-of-the-royal-bucks-hussars/",
+    "https://www.iwm.org.uk/history/regimental-brooches-and-lucky-charms",
+    "https://www.pressreader.com/uk/the-armourer/20230103/282200834982063",
+    "https://cdn.antiquestradegazette.com/print-edition/2018/november/2368/feature/forget-me-not-with-a-sweetheart-brooch",
+    "https://www.awm.gov.au/collection/C141184"
+  ]
+}

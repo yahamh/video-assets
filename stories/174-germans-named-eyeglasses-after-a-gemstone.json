@@ -1,0 +1,172 @@
+{
+  "id": "174-germans-named-eyeglasses-after-a-gemstone",
+  "number": 174,
+  "title": "Germans named eyeglasses after a gemstone",
+  "topic": "beryl brille german word glasses beryllus reading stones first spectacles italy beryllium",
+  "style": "lowpoly",
+  "music": "music-174.wav",
+  "hook": {
+    "text": "Germans named eyeglasses after a gemstone.",
+    "gold": [
+      "eyeglasses",
+      "gemstone."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Germans named eyeglasses after a gemstone.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "emerald",
+        "tone": "#5fc79a",
+        "halo": "#a8ecc8"
+      }
+    },
+    {
+      "text": "The German word for glasses is Brille,",
+      "say": "The German word for glasses is BRILL-uh,",
+      "scene": {
+        "kind": "title",
+        "text": "Brille",
+        "sub": "German for glasses"
+      }
+    },
+    {
+      "text": "and it comes from the Latin word for beryl.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "emerald",
+        "tone": "#5fc79a",
+        "label": "Beryllus"
+      }
+    },
+    {
+      "text": "Beryl is the mineral behind emerald and aquamarine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#7fd0e6",
+        "label": "Beryl"
+      }
+    },
+    {
+      "text": "Before glasses, people used polished beryl or rock crystal to read.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A reader",
+        "role": "A reading stone",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6b4a2f",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The first eyeglasses came from Italy in the late 1200s.",
+      "say": "The first eyeglasses came from Italy in the late twelve hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Late 1200s",
+        "sub": "First eyeglasses, Italy"
+      }
+    },
+    {
+      "text": "Around 1306, a friar said they were less than twenty years old.",
+      "say": "Around thirteen oh six, a friar said they were less than twenty years old.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "A friar",
+        "role": "Sermon, about 1306",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#5a4632",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In medieval Latin, the word for beryl came to mean eyeglass too.",
+      "scene": {
+        "kind": "title",
+        "text": "Beryllus",
+        "sub": "Came to mean eyeglass"
+      }
+    },
+    {
+      "text": "Glass lenses later replaced the stone ones.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e9f1f6",
+        "label": "Glass"
+      }
+    },
+    {
+      "text": "The element beryllium is named after beryl as well.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#5fc79a",
+        "halo": "#a8ecc8",
+        "label": "Beryllium"
+      }
+    },
+    {
+      "text": "So a German pair of glasses still wears a gem's name.",
+      "say": "So a German pair of glasses still wears a gem's name.",
+      "scene": {
+        "kind": "title",
+        "text": "Brille",
+        "sub": "A gem's name"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Germans named eyeglasses after a gemstone. The German word for glasses is Brille, and it comes from the Latin word for beryl. Beryl is the mineral behind emerald and aquamarine. Before glasses, people used polished beryl or rock crystal to read, and the first eyeglasses came from Italy in the late 1200s. Around 1306, a friar said they were less than twenty years old. In medieval Latin, the word for beryl came to mean eyeglass too. Glass lenses later replaced the stone ones, and the element beryllium is named after beryl as well.",
+    "hashtags": [
+      "#beryl",
+      "#gemstones",
+      "#etymology",
+      "#eyeglasses",
+      "#gemfacts"
+    ]
+  },
+  "sources": [
+    "https://en.wiktionary.org/wiki/Brille",
+    "https://www.duden.de/rechtschreibung/Brille",
+    "https://www.etymonline.com/word/beryl",
+    "https://www.wordorigins.org/big-list-entries/beryllium",
+    "https://www.britannica.com/science/beryl",
+    "https://en.wikipedia.org/wiki/Beryl",
+    "https://en.wikipedia.org/wiki/Reading_stone",
+    "https://www.laphamsquarterly.org/roundtable/gradual-discovery-glasses",
+    "https://www.cabinet.ox.ac.uk/node/10901",
+    "https://en.wikipedia.org/wiki/Glasses",
+    "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/invention-spectacles",
+    "https://www.rsc.org/periodic-table/element/4/beryllium",
+    "https://www.dwds.de/wb/Brille"
+  ]
+}

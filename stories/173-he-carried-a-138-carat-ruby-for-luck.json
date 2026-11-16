@@ -1,0 +1,170 @@
+{
+  "id": "173-he-carried-a-138-carat-ruby-for-luck",
+  "number": 173,
+  "title": "He carried a 138-carat ruby for luck",
+  "topic": "rosser reeves star ruby 138.7 carats smithsonian 1965 lucky stone sri lanka cabochon",
+  "music": "music-173.wav",
+  "hook": {
+    "text": "He carried a 138-carat ruby for luck.",
+    "gold": [
+      "138-carat",
+      "ruby"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He carried a 138-carat ruby for luck.",
+      "say": "He carried a one hundred thirty-eight carat ruby for luck.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#c8153a",
+        "halo": "#ff6a7a"
+      }
+    },
+    {
+      "text": "Rosser Reeves was an American advertising executive,",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Rosser Reeves",
+        "role": "Advertising executive",
+        "cast": [
+          {
+            "outfit": "suit",
+            "outfitColor": "#3a3f55",
+            "hair": "short",
+            "hairColor": "#2f2a26",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "and the Smithsonian says he carried this ruby as a lucky stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c8153a",
+        "label": "A lucky stone"
+      }
+    },
+    {
+      "text": "He called it his baby.",
+      "scene": {
+        "kind": "title",
+        "text": "His baby",
+        "sub": "What he called it"
+      }
+    },
+    {
+      "text": "It weighs 138.7 carats and comes from Sri Lanka.",
+      "say": "It weighs one hundred thirty-eight point seven carats and comes from Sri Lanka.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c8153a",
+        "halo": "#ff6a7a",
+        "label": "138.7 carats"
+      }
+    },
+    {
+      "text": "It is cut as a smooth oval, called a cabochon,",
+      "say": "It is cut as a smooth oval, called a KAB-uh-shon,",
+      "scene": {
+        "kind": "title",
+        "text": "Cabochon",
+        "sub": "A smooth oval cut"
+      }
+    },
+    {
+      "text": "and light makes a star glow across its dome.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9203f",
+        "halo": "#ffd0d6",
+        "label": "A star on the dome"
+      }
+    },
+    {
+      "text": "It was recut once, and that helped center the star.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A lapidary",
+        "role": "Recut once",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Reeves gave it to the Smithsonian in 1965.",
+      "say": "Reeves gave it to the Smithsonian in nineteen sixty-five.",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#c8153a",
+        "to": "The Smithsonian",
+        "date": "Gift, 1965",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The Smithsonian calls it one of the world's largest star rubies.",
+      "scene": {
+        "kind": "title",
+        "text": "One of the largest",
+        "sub": "Smithsonian says"
+      }
+    },
+    {
+      "text": "It is shown in the Hooker Hall at the Smithsonian.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c8153a",
+        "label": "Hooker Hall"
+      }
+    }
+  ],
+  "post": {
+    "caption": "He carried a 138-carat ruby for luck. Rosser Reeves was an American advertising executive, and the Smithsonian says he carried this ruby as a lucky stone and called it his baby. It weighs 138.7 carats and comes from Sri Lanka. It is cut as a smooth oval, called a cabochon, and light makes a star glow across its dome. It was recut once, and that helped center the star. Reeves gave it to the Smithsonian in 1965, and the Smithsonian calls it one of the world's largest star rubies.",
+    "hashtags": [
+      "#starruby",
+      "#ruby",
+      "#smithsonian",
+      "#gemstones",
+      "#jewelrystory"
+    ]
+  },
+  "sources": [
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002811",
+    "https://www.naturalhistory.si.edu/object/nmnhmineralsciences_1001784",
+    "https://www.gemdat.org/showstone.php?id=51",
+    "https://news.internetstones.com/rosser-reeves-star-ruby/",
+    "https://en.wikipedia.org/wiki/Rosser_Reeves_Ruby",
+    "https://artsandculture.google.com/asset/rosser-reeves-star-ruby/mAGbwdX71fRckA",
+    "https://my.si.edu/exhibitions/janet-annenberg-hooker-hall-of-geology-gems-and-minerals",
+    "https://advertisinghalloffame.org/inductee/rosser-reeves/",
+    "https://thenaturalrubycompany.com/education/famous-star-rubies/"
+  ]
+}

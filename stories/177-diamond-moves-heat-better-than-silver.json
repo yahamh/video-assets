@@ -1,0 +1,157 @@
+{
+  "id": "177-diamond-moves-heat-better-than-silver",
+  "number": 177,
+  "title": "Diamond moves heat better than silver",
+  "topic": "diamond thermal conductivity thermal tester moissanite cubic zirconia phonons copper silver power chips",
+  "style": "lowpoly",
+  "music": "music-177.wav",
+  "hook": {
+    "text": "Diamond moves heat better than silver.",
+    "gold": [
+      "Diamond",
+      "heat"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond moves heat better than silver.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e9f1f6",
+        "halo": "#bfe6ff"
+      }
+    },
+    {
+      "text": "It carries heat about five times better than copper or silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e9f1f6",
+        "label": "5 times copper"
+      }
+    },
+    {
+      "text": "Heat moves through it as vibrations in tightly bonded carbon atoms.",
+      "scene": {
+        "kind": "title",
+        "text": "Carbon atoms",
+        "sub": "Tightly bonded"
+      }
+    },
+    {
+      "text": "Yet most diamonds block electricity, the opposite of a metal.",
+      "scene": {
+        "kind": "title",
+        "text": "Blocks electricity",
+        "sub": "Unlike a metal"
+      }
+    },
+    {
+      "text": "Jewelers use that to test stones with a heated metal probe.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A jeweler",
+        "role": "Thermal tester",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A diamond pulls heat from the tip fast, so the tip cools.",
+      "scene": {
+        "kind": "title",
+        "text": "The tip cools",
+        "sub": "Heat flows into the stone"
+      }
+    },
+    {
+      "text": "Cubic zirconia and glass pull heat away slowly, so they read differently.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#dfeaf0",
+        "label": "Cubic zirconia"
+      }
+    },
+    {
+      "text": "Moissanite can pass a thermal test like diamond.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e6efe2",
+        "label": "Moissanite"
+      }
+    },
+    {
+      "text": "But under magnification it shows doubled facet edges.",
+      "scene": {
+        "kind": "title",
+        "text": "Doubled edges",
+        "sub": "Moissanite, magnified"
+      }
+    },
+    {
+      "text": "Thermal testers for jewelers date from the late 1970s.",
+      "say": "Thermal testers for jewelers date from the late nineteen seventies.",
+      "scene": {
+        "kind": "title",
+        "text": "Late 1970s",
+        "sub": "Jewelers' thermal testers"
+      }
+    },
+    {
+      "text": "Today diamond layers also help spread heat in power chips.",
+      "scene": {
+        "kind": "title",
+        "text": "Power chips",
+        "sub": "Diamond spreads heat"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Diamond moves heat better than silver. It carries heat about five times better than copper or silver, as vibrations in tightly bonded carbon atoms, yet most diamonds block electricity, the opposite of a metal. Jewelers use that to test stones with a heated metal probe, because a diamond pulls heat from the tip fast and the tip cools. Cubic zirconia and glass pull heat away slowly, so they read differently. Moissanite can pass a thermal test like diamond, but under magnification it shows doubled facet edges. Thermal testers for jewelers date from the late 1970s, and today diamond layers also help spread heat in power chips.",
+    "hashtags": [
+      "#diamond",
+      "#moissanite",
+      "#gemtesting",
+      "#gemology",
+      "#jewelryscience"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Material_properties_of_diamond",
+    "https://spectrum.ieee.org/diamond-thermal-conductivity",
+    "https://news.cornell.edu/node/273303",
+    "https://www.stem.org.uk/system/files/elibrary-resources/2017/02/Diamonds%2C%20x-rays%20and%20all%20that.pdf",
+    "https://www.galleries.com/minerals/property/thermal.htm",
+    "https://hyperphysics.gsu.edu/hbase/Tables/thrcn.html",
+    "https://en.wikipedia.org/wiki/Diamond",
+    "https://www.techwalla.com/articles/how-does-a-diamond-tester-work",
+    "https://en.wikipedia.org/wiki/Cubic_zirconia",
+    "https://gemmology.dev/learn/equipment/diamond-screening/",
+    "https://www.gia.edu/dam/migrated-assets/docs/doc1/Winter-1997-Gems-Gemology-Synthetic-Moissanite-Diamond-Substitute.pdf",
+    "https://en.wikipedia.org/wiki/Moissanite",
+    "https://uspto.report/patent/grant/4344315",
+    "https://www.gia.edu/dam/jcr:fd2b89ca-de2c-4370-9f48-246d12cf3c66/Cubic-Zirconia.pdf",
+    "https://www.sciencedaily.com/releases/2016/10/161012122147.htm",
+    "https://www.ept.ca/features/using-synthetic-diamond-for-power-management/"
+  ]
+}
