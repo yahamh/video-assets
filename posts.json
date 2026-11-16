@@ -2528,7 +2528,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1133676985935214",
+      "instagram": "https://www.instagram.com/reel/DfyZRxpErNs/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708606662059330824"
+    }
   },
   "174-germans-named-eyeglasses-after-a-gemstone": {
     "at": "2026-11-16T08:00:00Z",
@@ -2607,6 +2613,22 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "183-miners-reportedly-used-diamonds-as-game-tokens": {
+    "at": "2026-11-17T15:00:00Z",
+    "zernio_id": "6afa821d4fba4b4d1b656e1e",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "184-venice-banned-its-glassmakers-from-leaving": {
+    "at": "2026-11-17T22:00:00Z",
+    "zernio_id": "6afa822770f77039e64cd2b5",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
