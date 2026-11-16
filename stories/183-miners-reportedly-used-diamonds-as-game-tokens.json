@@ -1,0 +1,158 @@
+{
+  "id": "183-miners-reportedly-used-diamonds-as-game-tokens",
+  "number": 183,
+  "title": "Miners reportedly used diamonds as game tokens",
+  "topic": "brazil diamond discovery minas gerais 1720s card game markers diamond district 1734 monopoly 1739 india main source",
+  "style": "lowpoly",
+  "music": "music-183.wav",
+  "hook": {
+    "text": "Miners reportedly used diamonds as game tokens.",
+    "gold": [
+      "diamonds",
+      "tokens."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Miners reportedly used diamonds as game tokens.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#dcecf7",
+        "halo": "#bfe6ff"
+      }
+    },
+    {
+      "text": "The story comes from Brazil in the 1720s.",
+      "say": "The story comes from Brazil in the seventeen twenties.",
+      "scene": {
+        "kind": "title",
+        "text": "Brazil",
+        "sub": "The 1720s"
+      }
+    },
+    {
+      "text": "Until then, India was the world's main source of diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#dcecf7",
+        "label": "Indian diamonds"
+      }
+    },
+    {
+      "text": "Gold miners there found shiny stones in rivers and streams.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A gold miner",
+        "role": "Minas Gerais",
+        "cast": [
+          {
+            "outfit": "miner",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#c9976b",
+            "prop": "gem",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Later accounts say some used them as markers in card games.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#dcecf7",
+        "halo": "#bfe6ff",
+        "label": "Card game markers"
+      }
+    },
+    {
+      "text": "Then someone who had been in India recognized them.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A traveler",
+        "role": "Had been in India",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6b5a7a",
+            "hair": "short",
+            "hairColor": "#2f2a26",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1734, Portugal's crown marked off a Diamond District.",
+      "say": "In seventeen thirty-four, Portugal's crown marked off a Diamond District.",
+      "scene": {
+        "kind": "title",
+        "text": "1734",
+        "sub": "The Diamond District"
+      }
+    },
+    {
+      "text": "In 1739, the crown granted a private monopoly on the mining.",
+      "say": "In seventeen thirty-nine, the crown granted a private monopoly on the mining.",
+      "scene": {
+        "kind": "title",
+        "text": "1739",
+        "sub": "A private monopoly"
+      }
+    },
+    {
+      "text": "Brazil became the world's top diamond producer, passing India.",
+      "scene": {
+        "kind": "title",
+        "text": "Top producer",
+        "sub": "Brazil passed India"
+      }
+    },
+    {
+      "text": "Then in the 1860s, diamonds turned up in South Africa.",
+      "say": "Then in the eighteen sixties, diamonds turned up in South Africa.",
+      "scene": {
+        "kind": "title",
+        "text": "South Africa",
+        "sub": "The 1860s"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Miners reportedly used diamonds as game tokens. The story comes from Brazil in the 1720s. Until then, India was the world's main source of diamonds. Gold miners there found shiny stones in rivers and streams, and later accounts say some used them as markers in card games. Then someone who had been in India recognized them. In 1734, Portugal's crown marked off a Diamond District, and in 1739 the crown granted a private monopoly on the mining. Brazil became the world's top diamond producer, passing India. Then in the 1860s, diamonds turned up in South Africa.",
+    "hashtags": [
+      "#diamonds",
+      "#brazil",
+      "#diamondhistory",
+      "#jewelryhistory",
+      "#gemstones"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/the-golconda-treasure-that-enchanted-a-queen",
+    "https://americanradioworks.publicradio.org/features/diamonds/timeline.html",
+    "https://www.gia.edu/gems-gemology/spring-2017-brazilian-diamonds",
+    "https://dspace.library.uu.nl/bitstream/handle/1874/392336/Bycroft_Dupr_2019_Chapter_IntroductionGemsInTheEarlyMode.pdf",
+    "https://whc.unesco.org/document/154525",
+    "https://www.pbs.org/wnet/black-in-latin-america/country/brazil/essay-the-freed-black-and-mulatto-people-in-the-brazilian-diamond-society-18th-century/8/",
+    "https://eve.fcsh.unl.pt/index.php/en/places/minas-gerais",
+    "https://www.gia.edu/articles/historical-reading-diamond-and-carbonado-part-1",
+    "https://www.detecting.org.uk/html/Diamonds_In_Brazil_1832.html",
+    "https://www.gia.edu/doc/A-History-of-Diamond-Sources-in-Africa-Part-1.pdf",
+    "https://www.thesolomon.co.za/eureka-diamond"
+  ]
+}

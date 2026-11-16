@@ -1,0 +1,175 @@
+{
+  "id": "184-venice-banned-its-glassmakers-from-leaving",
+  "number": 184,
+  "title": "Venice banned its glassmakers from leaving",
+  "topic": "venetian glass beads murano 1291 glassmakers forbidden to leave chevron lampwork unesco 2020",
+  "style": "paper",
+  "plate": "Murano beads",
+  "music": "music-184.wav",
+  "hook": {
+    "text": "Venice banned its glassmakers from leaving.",
+    "gold": [
+      "banned",
+      "leaving."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Venice banned its glassmakers from leaving.",
+      "scene": {
+        "kind": "hook",
+        "show": "glass",
+        "shape": "round",
+        "tone": "#3a9ac8",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Around 1291, Venice moved its glass furnaces to the island of Murano.",
+      "say": "Around twelve ninety-one, Venice moved its glass furnaces to the island of Murano.",
+      "scene": {
+        "kind": "title",
+        "text": "Murano",
+        "sub": "Around 1291",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The reason given was the risk of fire.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "shape": "round",
+        "tone": "#e0743c",
+        "label": "Fire risk",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Glassmakers were forbidden to leave or to teach their secrets to outsiders.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A glassmaker",
+        "role": "Not free to leave",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Many left anyway, despite heavy penalties.",
+      "scene": {
+        "kind": "title",
+        "text": "Many left",
+        "sub": "Despite penalties",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Venetian glass beads are documented from the early 1300s.",
+      "say": "Venetian glass beads are documented from the early thirteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "1300s",
+        "sub": "Beads on record",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Lampwork beads are shaped by melting glass rods over a flame.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "shape": "round",
+        "tone": "#e07a5f",
+        "label": "Over a flame",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Chevron beads are cut from hollow rods of layered, colored glass.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "shape": "round",
+        "tone": "#3a86c8",
+        "label": "Layered glass",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Women then threaded the finished beads onto strings.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A bead stringer",
+        "role": "Threads the beads",
+        "cast": [
+          {
+            "outfit": "dress",
+            "outfitColor": "#c46a7e",
+            "hair": "updo",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Merchants shipped them as trade goods to Africa and the Americas.",
+      "scene": {
+        "kind": "gift",
+        "stone": "bracelet",
+        "tone": "#3a86c8",
+        "to": "Trade goods",
+        "date": "Shipped far",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "UNESCO listed glass bead making as cultural heritage in 2020.",
+      "say": "UNESCO listed glass bead making as cultural heritage in twenty twenty.",
+      "scene": {
+        "kind": "title",
+        "text": "UNESCO",
+        "sub": "Listed in 2020",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Venice banned its glassmakers from leaving. Around 1291, Venice moved its glass furnaces to the island of Murano, and the reason given was the risk of fire. Glassmakers were forbidden to leave or to teach their secrets to outsiders, but many left anyway, despite heavy penalties. Venetian glass beads are documented from the early 1300s. Lampwork beads are shaped by melting glass rods over a flame, and chevron beads are cut from hollow rods of layered, colored glass. Women then threaded the finished beads onto strings, and merchants shipped them as trade goods to Africa and the Americas. UNESCO listed glass bead making as cultural heritage in 2020.",
+    "hashtags": [
+      "#murano",
+      "#venice",
+      "#glassbeads",
+      "#jewelryhistory",
+      "#beads"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/glassware/Mid-15th-to-mid-19th-century",
+    "https://www.britannica.com/place/Murano",
+    "https://museovetro.visitmuve.it/wp-content/uploads/2020/09/SCHEDE-DI-SALA-Museo-del-Vetro-ENG-OK.pdf",
+    "https://renvenetian.cmog.org/chapter/look-inside-renaissance-venetian-glasshouse",
+    "https://museovetro.visitmuve.it/en/il-museo/layout-and-collections/venetian-beads/",
+    "https://unesco.cultura.gov.it/en/projects/the-art-of-glass-beads/",
+    "https://newsinfo.inquirer.net/1373137/venice-hails-un-listing-for-virus-hit-glass-bead-makers/amp",
+    "https://en.italiani.it/Venetian-glass-beads%3A-a-world-to-discover/",
+    "https://www.materializedidentities.com/single-post/2016/11/21/venetian-glass-beads-a-subtle-commodity"
+  ]
+}
