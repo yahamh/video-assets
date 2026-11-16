@@ -1,0 +1,166 @@
+{
+  "id": "192-this-burial-suit-has-2498-jade-pieces",
+  "number": 192,
+  "title": "This burial suit has 2,498 jade pieces",
+  "topic": "han dynasty jade burial suit liu sheng mancheng 1968 gold wire dou wan hebei museum",
+  "style": "lowpoly",
+  "music": "music-192.wav",
+  "hook": {
+    "text": "This burial suit has 2,498 jade pieces.",
+    "gold": [
+      "2,498",
+      "pieces."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This burial suit has 2,498 jade pieces.",
+      "say": "This burial suit has two thousand four hundred ninety-eight jade pieces.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#4fb286",
+        "halo": "#c6f0dc"
+      }
+    },
+    {
+      "text": "It belonged to Liu Sheng, who lived in China's Han dynasty.",
+      "say": "It belonged to Lyoh Shung, who lived in China's Han dynasty.",
+      "scene": {
+        "kind": "title",
+        "text": "Han dynasty",
+        "sub": "Liu Sheng's suit"
+      }
+    },
+    {
+      "text": "Army engineers found his tomb by chance in 1968.",
+      "say": "Army engineers found his tomb by chance in nineteen sixty-eight.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "Army engineers",
+        "role": "Found it, 1968",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#8a7a52",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "lantern",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "It was the first complete jade suit ever found.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4fb286",
+        "label": "First complete suit"
+      }
+    },
+    {
+      "text": "Before that, suits were known only from old texts.",
+      "scene": {
+        "kind": "title",
+        "text": "Old texts",
+        "sub": "Known only from these"
+      }
+    },
+    {
+      "text": "Gold wire weighing about 1,100 grams joins the pieces.",
+      "say": "Gold wire weighing about eleven hundred grams joins the pieces.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f2c14e",
+        "halo": "#ffe3a0",
+        "label": "1,100 g of gold wire"
+      }
+    },
+    {
+      "text": "Each jade tile has holes at its corners for the wire.",
+      "scene": {
+        "kind": "title",
+        "text": "Corner holes",
+        "sub": "For the gold wire"
+      }
+    },
+    {
+      "text": "Jade was believed to keep a body from decaying.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4fb286",
+        "label": "Believed to stop decay"
+      }
+    },
+    {
+      "text": "Making one may have taken about ten years.",
+      "say": "Making one may have taken about ten years.",
+      "scene": {
+        "kind": "title",
+        "text": "10 years",
+        "sub": "Estimated to make one"
+      }
+    },
+    {
+      "text": "His wife Dou Wan's suit has 2,160 pieces.",
+      "say": "His wife Doh Wahn's suit has twenty-one hundred sixty pieces.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#7fd0a8",
+        "label": "Dou Wan: 2,160"
+      }
+    },
+    {
+      "text": "Liu Sheng's suit is kept at the Hebei Museum in Shijiazhuang.",
+      "say": "Lyoh Shung's suit is kept at the Huh-BAY Museum in SHUR-jah-jwahng.",
+      "scene": {
+        "kind": "title",
+        "text": "Hebei Museum",
+        "sub": "Shijiazhuang"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This burial suit has 2,498 jade pieces. It belonged to Liu Sheng, who lived in China's Han dynasty, and army engineers found his tomb by chance in 1968. It was the first complete jade suit ever found, and before that suits were known only from old texts. Gold wire weighing about 1,100 grams joins the pieces, and each jade tile has holes at its corners for the wire. Jade was believed to keep a body from decaying. Making one may have taken about ten years. His wife Dou Wan's suit has 2,160 pieces. Liu Sheng's suit is kept at the Hebei Museum in Shijiazhuang.",
+    "hashtags": [
+      "#jade",
+      "#handynasty",
+      "#ancientchina",
+      "#jadejewelry",
+      "#archaeology"
+    ]
+  },
+  "sources": [
+    "https://paper.people.com.cn/rmrbhwb/html/2016-04/23/content_1673171.htm",
+    "https://news.cgtn.com/news/3d3d414e32596a4e31457a6333566d54/index.html",
+    "https://depts.washington.edu/chinaciv/archae/2liujade.htm",
+    "https://www.nationalgeographic.com/history/article/china-han-dynasty-jade-tombs",
+    "https://www.chinanews.com/cul/2019/08-28/8939781.shtml",
+    "https://www.ourchinastory.com/en/15227",
+    "https://www.thepaper.cn/newsDetail_forward_2795853",
+    "https://www.theworldofchinese.com/2024/08/chinese-jade-and-gold-burial-suits/",
+    "https://artsandculture.google.com/asset/western-han-jade-eyeshade/GAF3jAHFFne9AA",
+    "https://www.metmuseum.org/art/collection/search/696308",
+    "https://www.livescience.com/archaeology/jade-burial-suit-2000-year-old-immortality-armor-worn-by-chinese-royalty",
+    "https://finance.sina.cn/2024-01-26/detail-inaeumiu5339245.d.html",
+    "https://hyperallergic.com/from-a-jade-burial-suit-to-terracotta-warriors-a-blockbuster-display-of-chinas-ancient-treasures",
+    "https://www.chinanews.com/cul/2025/11-18/10517518.shtml",
+    "https://www.thenewslens.com/article/124337"
+  ]
+}

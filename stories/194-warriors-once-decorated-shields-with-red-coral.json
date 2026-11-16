@@ -1,0 +1,152 @@
+{
+  "id": "194-warriors-once-decorated-shields-with-red-coral",
+  "number": 194,
+  "title": "Warriors once decorated shields with red coral",
+  "topic": "red coral mediterranean witham shield pliny polyps growth scuba divers carotenoid teething rattle torre del greco",
+  "music": "music-194.wav",
+  "hook": {
+    "text": "Warriors once decorated shields with red coral.",
+    "gold": [
+      "shields",
+      "coral."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Warriors once decorated shields with red coral.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9453a"
+      }
+    },
+    {
+      "text": "The Witham Shield, from Iron Age Britain, has Mediterranean coral.",
+      "scene": {
+        "kind": "title",
+        "text": "Witham Shield",
+        "sub": "Iron Age Britain"
+      }
+    },
+    {
+      "text": "The Roman writer Pliny said Gauls decorated swords with it too.",
+      "scene": {
+        "kind": "title",
+        "text": "Pliny",
+        "sub": "Roman writer"
+      }
+    },
+    {
+      "text": "Red coral is the hard skeleton of tiny sea animals called polyps.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9453a",
+        "label": "Skeleton of polyps"
+      }
+    },
+    {
+      "text": "Scientists only accepted coral as an animal in the 1700s.",
+      "say": "Scientists only accepted coral as an animal in the seventeen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "1700s",
+        "sub": "Coral is an animal"
+      }
+    },
+    {
+      "text": "A branch thickens by only a fraction of a millimeter a year.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8806f",
+        "label": "Under 1 mm a year"
+      }
+    },
+    {
+      "text": "Colonies can live for about a century.",
+      "say": "Colonies can live for about a century.",
+      "scene": {
+        "kind": "title",
+        "text": "About 100 years",
+        "sub": "A colony's age"
+      }
+    },
+    {
+      "text": "Licensed scuba divers harvest it 50 meters down or deeper.",
+      "say": "Licensed scuba divers harvest it fifty meters down or deeper.",
+      "scene": {
+        "kind": "title",
+        "text": "50 m deep",
+        "sub": "Licensed divers"
+      }
+    },
+    {
+      "text": "The red comes from organic pigments in the skeleton.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9453a",
+        "label": "Organic pigments"
+      }
+    },
+    {
+      "text": "Coral rattles were once teething toys and charms for babies.",
+      "scene": {
+        "kind": "gift",
+        "stone": "round",
+        "tone": "#d9453a",
+        "to": "A baby's rattle",
+        "date": "Teether and charm"
+      }
+    },
+    {
+      "text": "Torre del Greco in Italy has worked coral for over two centuries.",
+      "scene": {
+        "kind": "title",
+        "text": "Italy",
+        "sub": "Torre del Greco"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Warriors once decorated shields with red coral. The Witham Shield, from Iron Age Britain, has Mediterranean coral, and the Roman writer Pliny said Gauls decorated swords with it too. Red coral is the hard skeleton of tiny sea animals called polyps, and scientists only accepted coral as an animal in the 1700s. A branch thickens by only a fraction of a millimeter a year, and colonies can live for about a century. Licensed scuba divers harvest it 50 meters down or deeper. The red comes from organic pigments in the skeleton. Coral rattles were once teething toys and charms for babies. Torre del Greco in Italy has worked coral for over two centuries.",
+    "hashtags": [
+      "#coral",
+      "#redcoral",
+      "#coraljewelry",
+      "#organicgems",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britishmuseum.org/explore/highlights/highlight_objects/pe_prb/t/the_witham_shield.aspx",
+    "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=32:chapter=11",
+    "https://fondationtaraocean.org/en/scientific-news/the-history-of-science-and-coral/",
+    "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/peyssonnel-jean-andre",
+    "https://4cs.gia.edu/en-us/blog/captivated-coral/",
+    "https://cibjo.org/wp-content/uploads/2025/07/Coral-guide-March-2025-v2.pdf",
+    "https://gia.edu/gems-gemology/spring-2023-gemnews-italian-precious-coral",
+    "https://marineinfo.org/doc/publication/331013",
+    "https://marineinfo.org/doc/publication/324200",
+    "https://marineinfo.org/doc/publication/324153",
+    "https://www.mesophotic.org/publications/374",
+    "https://marineinfo.org/doc/publication/324127",
+    "https://www.mesophotic.org/publications/360",
+    "https://openknowledge.fao.org/server/api/core/bitstreams/f861bd31-648c-4174-bb69-7635e9a402d9/content",
+    "https://rosa.uniroma1.it/rosa04/periodico_di_mineralogia/article/view/15881",
+    "https://air.unipr.it/handle/11381/2618845",
+    "https://www.metmuseum.org/art/collection/search/6848",
+    "https://collections.vam.ac.uk/item/O72849/rattle-unknown",
+    "https://news.jewellerynet.com/en/jnanews/features/23284/072219-Discovering-Torre-Del-Grecos-coral-heritage",
+    "https://www.jckonline.com/magazine-article/torre-del-greco-and-the-fruit-of-the-sea/"
+  ]
+}

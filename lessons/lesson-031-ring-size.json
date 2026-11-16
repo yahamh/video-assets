@@ -1,0 +1,192 @@
+{
+  "id": "lesson-031-ring-size",
+  "series": "lesson",
+  "number": 31,
+  "title": "What ring size measures",
+  "topic": "ring size inside diameter us 7 17.3 mm european 54 half size resizing eternity",
+  "music": "music-lesson-031.wav",
+  "hook": {
+    "text": "Ring size is measured on the inside.",
+    "gold": [
+      "size",
+      "inside."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ring size is measured on the inside.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-front-white-input.webp",
+        "after": "matthew-front-white-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "A US size 7 is about 17.3 millimeters across.",
+      "say": "A US size seven is about seventeen point three millimeters across.",
+      "scene": {
+        "kind": "title",
+        "text": "17.3 mm",
+        "sub": "US size 7, across"
+      }
+    },
+    {
+      "text": "That is about 54 millimeters around, a European size 54.",
+      "say": "That is about fifty-four millimeters around, a European size fifty-four.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.55,
+          "k": 1.2
+        },
+        "marks": [
+          {
+            "x": 0.33,
+            "y": 0.62,
+            "text": "Inside edge",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "Each full US size adds about 0.8 millimeters across.",
+      "say": "Each full US size adds about zero point eight millimeters across.",
+      "scene": {
+        "kind": "title",
+        "text": "0.8 mm",
+        "sub": "Each full size"
+      }
+    },
+    {
+      "text": "Fingers change with heat and cold, so measure more than once.",
+      "scene": {
+        "kind": "photo",
+        "src": "render-matthew-yellow.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "Measure more than once"
+      }
+    },
+    {
+      "text": "Wide bands fit tighter, so many go up half a size.",
+      "scene": {
+        "kind": "title",
+        "text": "Half size up",
+        "sub": "For wide bands"
+      }
+    },
+    {
+      "text": "A jeweler resizes by cutting the band, then adding or removing metal.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Cut the band",
+          "Add or remove metal"
+        ],
+        "active": 1,
+        "label": "Resizing"
+      }
+    },
+    {
+      "text": "Most rings can move one or two sizes either way.",
+      "scene": {
+        "kind": "title",
+        "text": "1 to 2 sizes",
+        "sub": "Either way"
+      }
+    },
+    {
+      "text": "A band with stones all the way around is hard to resize.",
+      "scene": {
+        "kind": "photo",
+        "src": "eternity-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.3
+        },
+        "label": "Stones all the way around"
+      }
+    },
+    {
+      "text": "So the inside of the ring is the number that matters.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.6,
+          "k": 1.2
+        },
+        "marks": [
+          {
+            "x": 0.5,
+            "y": 0.62,
+            "text": "Inside width",
+            "at": 0.4
+          }
+        ]
+      }
+    },
+    {
+      "text": "A render lets a client approve the design",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before any metal is cut.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: what ring size measures",
+    "caption": "Ring size is measured on the inside. A US size 7 is about 17.3 millimeters across, or about 54 millimeters around, which is a European size 54, and each full US size adds about 0.8 millimeters across. Fingers change with heat and cold, so measure more than once, and wide bands fit tighter, so many go up half a size. A jeweler resizes by cutting the band, then adding or removing metal, and most rings can move one or two sizes either way. A band with stones all the way around is hard to resize. So the inside of the ring is the number that matters. A render lets a client approve the design before any metal is cut.",
+    "hashtags": [
+      "#ringsize",
+      "#ringsizing",
+      "#jewelrymaking",
+      "#jewelryrendering",
+      "#jewelrytips"
+    ]
+  },
+  "sources": [
+    "https://www.bluenile.com/education/rings/find-your-ring-size",
+    "https://www.brilliantearth.com/guides/ring-size-chart/",
+    "https://www.brilliantearth.com/guides/how-to-measure-ring-size/",
+    "https://4cs.gia.edu/en-us/blog/how-to-determine-ring-size/",
+    "https://jewelerstouch.com/blogs/news/ring-size-inner-diameter",
+    "https://kiwisizing.com/blog/complete-guide-to-ring-size-conversion/",
+    "https://velur.de/en/blog/ringgroessen-tabelle-international-us-eu-uk-vergleich/",
+    "https://ringsizer.app/en/article/ring-size-chart-for-iso-eu-mm-rings",
+    "https://martinbuschjewelers.com/blogs/news/why-does-my-ring-feel-tighter-or-looser-sometimes",
+    "https://www.theknot.com/content/engagement-ring-resizing",
+    "https://shreve.com/blogs/news/after-the-proposal-how-to-resize-your-ring",
+    "https://www.timothyroe.com/blog/can-any-ring-be-resized/",
+    "https://www.borsheims.com/blog/?p=20061"
+  ]
+}

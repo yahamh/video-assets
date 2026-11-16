@@ -1,0 +1,188 @@
+{
+  "id": "193-oregon-sunstones-colors-come-from-copper-specks",
+  "number": 193,
+  "title": "Oregon sunstone's colors come from copper specks",
+  "topic": "oregon sunstone copper nanoparticles red green labradorite plush diamonds dust devil 1093 carats state gem 1987",
+  "style": "paper",
+  "plate": "Oregon sunstone",
+  "theme": "watercolor",
+  "music": "music-193.wav",
+  "hook": {
+    "text": "Oregon sunstone's colors come from copper specks.",
+    "gold": [
+      "copper",
+      "specks."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Oregon sunstone's colors come from copper specks.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#e8803a",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Smaller specks make it look red, and slightly larger ones green.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper specks",
+        "sub": "Size sets the color",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "One stone can hold up to three colors at once.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8803a",
+        "label": "Up to three colors",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A 1985 study found metallic copper inside the stones.",
+      "say": "A nineteen eighty-five study found metallic copper inside the stones.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "A researcher",
+        "role": "Found copper, 1985",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#e8eef2",
+            "hair": "side",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Oregon sunstone is sold as natural and untreated.",
+      "scene": {
+        "kind": "title",
+        "text": "Untreated",
+        "sub": "Sold as natural",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Native Americans may have been the first to collect them.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "label": "Maybe first collectors",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The first written report came around 1908.",
+      "say": "The first written report came around nineteen oh eight.",
+      "scene": {
+        "kind": "title",
+        "text": "About 1908",
+        "sub": "First written report",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Since 1972 the public can collect sunstones free on four square miles.",
+      "say": "Since nineteen seventy-two the public can collect sunstones free on four square miles.",
+      "scene": {
+        "kind": "cast",
+        "setting": "field",
+        "name": "A rockhound",
+        "role": "Free since 1972",
+        "cast": [
+          {
+            "outfit": "casual",
+            "outfitColor": "#6fa8dc",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "prop": "shovel",
+            "expression": "smile"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Locals have called them Plush diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f4d9a8",
+        "label": "Plush diamonds",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "One rough stone from the Dust Devil mine weighed 1,093 carats.",
+      "say": "One rough stone from the Dust Devil mine weighed one thousand ninety-three carats.",
+      "scene": {
+        "kind": "title",
+        "text": "1,093 carats",
+        "sub": "One rough stone",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Oregon made it the state gemstone in 1987.",
+      "say": "Oregon made it the state gemstone in nineteen eighty-seven.",
+      "scene": {
+        "kind": "gift",
+        "stone": "oval",
+        "tone": "#e8803a",
+        "to": "Oregon",
+        "date": "State gem, 1987",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Oregon sunstone's colors come from copper specks. Smaller specks make it look red, and slightly larger ones green, and one stone can hold up to three colors at once. A 1985 study found metallic copper inside the stones, and Oregon sunstone is sold as natural and untreated. Native Americans may have been the first to collect them, and the first written report came around 1908. Since 1972 the public can collect sunstones free on four square miles. Locals have called them Plush diamonds, and one rough stone from the Dust Devil mine weighed 1,093 carats. Oregon made it the state gemstone in 1987.",
+    "hashtags": [
+      "#sunstone",
+      "#oregonsunstone",
+      "#gemstones",
+      "#rockhounding",
+      "#feldspar"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/fall-2023-oregon-sunstone-effects",
+    "https://www.degruyterbrill.com/document/doi/10.2138/am-2022-8325/html",
+    "https://www.oregonencyclopedia.org/articles/oregon_sunstone/",
+    "https://www.gia.edu/gems-gemology/winter-1991-sunstone-oregon-johnston",
+    "https://www.naturalhistory.si.edu/explore/collections/geogallery/10002883",
+    "https://www.gia.edu/sunstone/gem-overview",
+    "https://www.gia.edu/sunstone-history-lore",
+    "https://www.oregon.gov/dogami/milo/archive/MiningDistricts/LakeCounty/UnclassifiedDistrict/SunstoneAreaClaims/SunstoneAreaReport.pdf",
+    "https://research.sohs.org/node/13940",
+    "https://www-26.blm.gov/visit/sunstone-collection-area",
+    "https://www.bendbulletin.com/2008/09/28/glittering-sunstones-draw-rockhounds-to-sage-country",
+    "https://www.gia.edu/gia-news-research-dustdevil-sunstone-pay",
+    "https://www.gia.edu/gems-gemology/fa13-oregon-sunstone-pay",
+    "https://www.agta.org/whats-next-for-dust-devil-minings-oregon-sunstone-now-that-don-buford-sold-his-claim/",
+    "https://sos.oregon.gov/blue-book/explore/pages/almanac-d-h.aspx",
+    "https://www.oregonlegislature.gov/Documents/FunFacts.pdf"
+  ]
+}

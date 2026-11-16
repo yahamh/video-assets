@@ -1,0 +1,153 @@
+{
+  "id": "195-colored-titanium-works-like-a-soap-bubble",
+  "number": 195,
+  "title": "Colored titanium works like a soap bubble",
+  "topic": "titanium anodizing colors thin film interference niobium hooke 1665 birmingham 1960s",
+  "style": "lowpoly",
+  "music": "music-195.wav",
+  "hook": {
+    "text": "Colored titanium works like a soap bubble.",
+    "gold": [
+      "titanium",
+      "bubble."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Colored titanium works like a soap bubble.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#7a5cd6",
+        "halo": "#d0c3ff"
+      }
+    },
+    {
+      "text": "Light reflecting from a clear oxide film makes the colors.",
+      "scene": {
+        "kind": "title",
+        "text": "Oxide film",
+        "sub": "No paint, no dye"
+      }
+    },
+    {
+      "text": "The film is a few hundred nanometers thick at most.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5bb4e8",
+        "label": "A few hundred nm"
+      }
+    },
+    {
+      "text": "Robert Hooke studied these thin film colors in 1665.",
+      "say": "Robert Hook studied these thin film colors in sixteen sixty-five.",
+      "scene": {
+        "kind": "title",
+        "text": "1665",
+        "sub": "Robert Hooke's study"
+      }
+    },
+    {
+      "text": "Anodizing grows the film, and more voltage makes it thicker.",
+      "say": "AN-uh-dye-zing grows the film, and more voltage makes it thicker.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a98be0",
+        "label": "More voltage"
+      }
+    },
+    {
+      "text": "10 to 15 volts gives a brown or bronze.",
+      "say": "Ten to fifteen volts gives a brown or bronze.",
+      "scene": {
+        "kind": "title",
+        "text": "10 to 15 V",
+        "sub": "Brown or bronze"
+      }
+    },
+    {
+      "text": "The exact colors shift with the chemical bath used.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4cc3a8",
+        "label": "Depends on the bath"
+      }
+    },
+    {
+      "text": "Niobium, a related metal, takes colors the same way.",
+      "say": "Nye-OH-bee-um, a related metal, takes colors the same way.",
+      "scene": {
+        "kind": "title",
+        "text": "Niobium",
+        "sub": "Takes color too"
+      }
+    },
+    {
+      "text": "The color cannot peel off, but rubbing can wear it away.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#ec6a9c",
+        "label": "Rubbing wears it"
+      }
+    },
+    {
+      "text": "Titanium is as strong as steel with much less weight.",
+      "scene": {
+        "kind": "title",
+        "text": "Strong, light",
+        "sub": "As strong as steel"
+      }
+    },
+    {
+      "text": "Titanium jewelry began in Birmingham, England, in the mid 1960s.",
+      "say": "Titanium jewelry began in Birmingham, England, in the mid nineteen sixties.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "Birmingham, England"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Colored titanium works like a soap bubble. Light reflecting from a clear oxide film makes the colors, and the film is a few hundred nanometers thick at most. Robert Hooke studied these thin film colors in 1665. Anodizing grows the film, and more voltage makes it thicker. Ten to fifteen volts gives a brown or bronze, and the exact colors shift with the chemical bath used. Niobium, a related metal, takes colors the same way. The color cannot peel off, but rubbing can wear it away. Titanium is as strong as steel with much less weight. Titanium jewelry began in Birmingham, England, in the mid 1960s.",
+    "hashtags": [
+      "#titanium",
+      "#anodizing",
+      "#metaljewelry",
+      "#niobium",
+      "#jewelrymaking"
+    ]
+  },
+  "sources": [
+    "https://www.skyjems.ca/pages/encyclopedia-anodising-titanium",
+    "https://www.societyofjewelleryhistorians.ac.uk/JSO_2025_2.pdf",
+    "https://www.jewellerybusiness.com/?p=33105",
+    "https://re.public.polimi.it/bitstream/11311/979768/1/Manuscript_Diamanti_M&D_2016.pdf",
+    "https://www.leuze-verlag.de/aufsaetze/surface-modification-of-titanium-1709125112",
+    "https://www.ganoksin.com/article/working-with-niobium/",
+    "https://www.skyjems.ca/pages/encyclopedia-anodising-niobium",
+    "https://www.ganoksin.com/article/creating-colorful-jewelry-designs-reactive-hues/",
+    "https://periodic-table.rsc.org/element/22/titanium",
+    "https://www.britannica.com/science/titanium",
+    "https://www.britannica.com/science/light/Early-particle-and-wave-theories",
+    "https://blogs.otago.ac.nz/emxphi/hypotheses-and-newtons-rings/",
+    "https://www.bcu.ac.uk/news-events/jewellery/125-years-of-jewellery-a-brief-history",
+    "https://ualresearchonline.arts.ac.uk/id/eprint/5451/1/Lynne_Bartlett.pdf",
+    "https://www.ganoksin.com/article/wonder-metal-titanium/"
+  ]
+}
