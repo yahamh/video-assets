@@ -2184,7 +2184,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1405064991420479",
+      "instagram": "https://www.instagram.com/reel/DfzQQBzDpmB/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708730426172493076"
+    }
   },
   "137-only-a-diamond-can-polish-a-diamond": {
     "at": "2026-11-16T13:00:00Z",
@@ -2193,7 +2199,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1316905803874574",
+      "instagram": "https://www.instagram.com/reel/DfzahGUFDRy/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708753562297191688"
+    }
   },
   "138-topaz-may-be-named-for-peridots-island": {
     "at": "2026-11-16T14:00:00Z",
@@ -2203,7 +2215,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2307632460080639",
+      "instagram": "https://www.instagram.com/reel/DfzhvneAuu9/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708769827887910165",
+      "youtube": "https://www.youtube.com/watch?v=J2-dToOOVz8"
+    }
   },
   "139-flawless-means-no-flaws-at-10x": {
     "at": "2026-11-16T16:30:00Z",
@@ -2573,7 +2592,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1739110864398249",
+      "instagram": "https://www.instagram.com/reel/DfzJX45gGcX/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708714924670831892"
+    }
   },
   "177-diamond-moves-heat-better-than-silver": {
     "at": "2026-11-16T15:00:00Z",
@@ -2581,7 +2606,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1472266141511637",
+      "instagram": "https://www.instagram.com/reel/Dfzop-VHMUE/"
+    }
   },
   "178-this-2000-year-old-crown-folds-for-travel": {
     "at": "2026-11-16T22:00:00Z",
@@ -2659,6 +2689,49 @@
       "facebook",
       "instagram",
       "youtube"
+    ]
+  },
+  "187-this-small-brooch-carries-76-patterns": {
+    "at": "2026-11-18T09:30:00Z",
+    "zernio_id": "6afb30237ae680e0683545a5",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "188-shakespeares-will-left-money-to-buy-rings": {
+    "at": "2026-11-18T10:30:00Z",
+    "zernio_id": "6afb302e5e34ef74be51a306",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "189-the-phrase-acid-test-began-with-gold": {
+    "at": "2026-11-18T15:00:00Z",
+    "zernio_id": "6afb303ac9bc1c4808870864",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "190-a-kings-grave-inspired-napoleons-golden-bees": {
+    "at": "2026-11-18T22:00:00Z",
+    "zernio_id": "6afb3046c9bc1c4808870873",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "191-meteorite-crashes-can-turn-graphite-into-diamond": {
+    "at": "2026-11-19T03:30:00Z",
+    "zernio_id": "6afb3061b92b5f4ffb3bbca1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
@@ -3158,7 +3231,11 @@
     "zernio_id": "6af1f70569f94ff3e910e1e0",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=mS1PymVp4iw"
+    }
   },
   "lesson-025-pendant-bail": {
     "at": "2026-11-17T16:00:00Z",
