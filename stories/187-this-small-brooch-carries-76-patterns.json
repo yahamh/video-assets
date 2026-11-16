@@ -1,0 +1,172 @@
+{
+  "id": "187-this-small-brooch-carries-76-patterns",
+  "number": 187,
+  "title": "This small brooch carries 76 patterns",
+  "topic": "tara brooch 76 patterns bettystown 1850 waterhouse great exhibition 1851 royal irish academy national museum of ireland",
+  "style": "paper",
+  "plate": "Tara Brooch",
+  "theme": "blush",
+  "music": "music-187.wav",
+  "hook": {
+    "text": "This small brooch carries 76 patterns.",
+    "gold": [
+      "brooch",
+      "patterns."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This small brooch carries 76 patterns.",
+      "say": "This small brooch carries seventy-six patterns.",
+      "scene": {
+        "kind": "hook",
+        "show": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9822b",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The ring is under 9 centimeters across.",
+      "say": "The ring is under nine centimeters across.",
+      "scene": {
+        "kind": "title",
+        "text": "Under 9 cm",
+        "sub": "Across the ring",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Its pin is over 30 centimeters long.",
+      "say": "Its pin is over thirty centimeters long.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9822b",
+        "label": "A pin over 30 cm",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A count in 1851 also found at least 76 patterns.",
+      "say": "A count in eighteen fifty-one also found at least seventy-six patterns.",
+      "scene": {
+        "kind": "title",
+        "text": "1851",
+        "sub": "An early pattern count",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Experts date it to around the eighth century.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#d9822b",
+        "label": "Around the 8th century",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Studs of amber and glass sit among the patterns.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "round",
+        "tone": "#d9822b",
+        "metal": "yellow",
+        "label": "Amber and glass studs",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It was reportedly found near Bettystown in 1850.",
+      "say": "It was reportedly found near BET-ee-town in eighteen fifty.",
+      "scene": {
+        "kind": "title",
+        "text": "Co. Meath",
+        "sub": "Near Bettystown, 1850",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Its name points to Tara, though it was not found there.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#4cc3a8",
+        "label": "Named for Tara",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Waterhouse showed it with smaller copies in London in 1851.",
+      "say": "Waterhouse showed it with smaller copies in London in eighteen fifty-one.",
+      "scene": {
+        "kind": "gift",
+        "stone": "brooch",
+        "tone": "#d9822b",
+        "to": "London, 1851",
+        "date": "Great Exhibition",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "By 1872 the Royal Irish Academy owned it.",
+      "say": "By eighteen seventy-two the Royal Irish Academy owned it.",
+      "scene": {
+        "kind": "title",
+        "text": "By 1872",
+        "sub": "Royal Irish Academy",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Today it is kept at the National Museum of Ireland in Dublin.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "round",
+        "tone": "#d9822b",
+        "metal": "yellow",
+        "label": "National Museum",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This small brooch carries 76 patterns. The ring is under 9 centimeters across and its pin is over 30 centimeters long. A count in 1851 also found at least 76 patterns. Experts date it to around the eighth century, and studs of amber and glass sit among the patterns. It was reportedly found near Bettystown in 1850. Its name points to Tara, though it was not found there. Waterhouse showed it with smaller copies in London in 1851. By 1872 the Royal Irish Academy owned it. Today it is kept at the National Museum of Ireland in Dublin.",
+    "hashtags": [
+      "#tarabrooch",
+      "#celticjewelry",
+      "#irishhistory",
+      "#antiquejewelry",
+      "#brooch"
+    ]
+  },
+  "sources": [
+    "https://museum.ie/en-IE/Collections-Research/Collection/The-Treasury/Artefact/The-Tara-Brooch/4e7de8cc-9cf5-4352-a20a-34caf1bf4d95",
+    "https://www.irishtimes.com/culture/art-and-design/a-history-of-ireland-in-100-objects-1.590326",
+    "https://www.irishtimes.com/life-and-style/homes-and-property/interiors/design-moment-tara-brooch-8th-century-1.3823165",
+    "https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/Page%3AArchaeological_Journal%2C_Volume_8.djvu/124",
+    "https://collections.vam.ac.uk/item/O72717",
+    "https://catalogue.nli.ie/Record/vtls000654625/HoldingsILS",
+    "https://www.societyofjewelleryhistorians.ac.uk/lectures_online",
+    "https://www.newry.ie/history/the-tara-brooch-a-symbol-of-irelands-artistic-legacy",
+    "https://artofthemiddleages.com/s/main/item/170",
+    "https://victorianweb.org/art/design/celtic/byecroft10.html",
+    "https://www.irishcentral.com/roots/tara-brooch-ireland",
+    "https://kids.britannica.com/students/article/Tara-brooch/603322"
+  ]
+}

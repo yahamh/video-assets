@@ -1,0 +1,159 @@
+{
+  "id": "190-a-kings-grave-inspired-napoleons-golden-bees",
+  "number": 190,
+  "title": "A king's grave inspired Napoleon's golden bees",
+  "topic": "napoleon golden bees childeric tomb tournai 1653 garnet cicadas coronation 1804 republic with a chief",
+  "style": "paper",
+  "plate": "Napoleon's bees",
+  "theme": "sky",
+  "music": "music-190.wav",
+  "hook": {
+    "text": "A king's grave inspired Napoleon's golden bees.",
+    "gold": [
+      "grave",
+      "bees."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A king's grave inspired Napoleon's golden bees.",
+      "scene": {
+        "kind": "hook",
+        "show": "brooch",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#8e1f2c",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The tomb of King Childeric was found at Tournai in 1653.",
+      "say": "The tomb of King CHIL-duh-rik was found at toor-NAY in sixteen fifty-three.",
+      "scene": {
+        "kind": "title",
+        "text": "Tournai, 1653",
+        "sub": "King Childeric's tomb",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A gold ring found inside carried the king's name.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "metal": "yellow",
+        "label": "The king's ring",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Reports say some 300 gold insects were found.",
+      "say": "Reports say some three hundred gold insects were found.",
+      "scene": {
+        "kind": "title",
+        "text": "Some 300",
+        "sub": "Gold insects, reported",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The wings were inlaid with garnet and only two insects survive.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8e1f2c",
+        "label": "Wings of garnet",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Experts still debate whether they were bees or cicadas.",
+      "say": "Experts still debate whether they were bees or sih-KAY-duhs.",
+      "scene": {
+        "kind": "title",
+        "text": "Bee or cicada",
+        "sub": "Still debated",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Napoleon wanted symbols that tied his dynasty to France's origins.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Napoleon",
+        "role": "Crowned in 1804",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "outfitColor": "#1f3a6b",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Golden bees decorated his coronation on 2 December 1804.",
+      "say": "Golden bees decorated his coronation on the second of December eighteen oh four.",
+      "scene": {
+        "kind": "title",
+        "text": "2 Dec 1804",
+        "sub": "His coronation day",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "An adviser pitched the bee as a republic with a chief.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#8e1f2c",
+        "metal": "yellow",
+        "label": "Republic with a chief",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Back then, people thought a hive's queen was a king.",
+      "scene": {
+        "kind": "title",
+        "text": "Queen bee",
+        "sub": "Once thought a king",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A king's grave inspired Napoleon's golden bees. The tomb of King Childeric was found at Tournai in 1653, and a gold ring found inside carried the king's name. Reports say some 300 gold insects were found, and only two survive with wings inlaid with garnet. Experts still debate whether they were bees or cicadas. Napoleon wanted symbols that tied his dynasty to France's origins, and golden bees decorated his coronation on 2 December 1804. An adviser pitched the bee as a republic with a chief, because people then thought a hive's queen was a king.",
+    "hashtags": [
+      "#napoleon",
+      "#goldjewelry",
+      "#garnet",
+      "#frenchhistory",
+      "#antiquejewelry"
+    ]
+  },
+  "sources": [
+    "https://medaillesetantiques.bnf.fr/ws/catalogue/app/collection/record/ark:/12148/c33gbrbwp",
+    "https://chre.ashmus.ox.ac.uk/hoard/4640",
+    "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tomb-childeric",
+    "https://artofthemiddleages.com/s/main/item/176?media=2",
+    "https://penelope.uchicago.edu/hydrionoframes/bees.html",
+    "https://www.universalis.fr/encyclopedie/abeilles-imperiales/",
+    "https://www.napoleon.org/histoire-des-2-empires/articles/libres-propos-de-laurent-theis-la-passion-des-abeilles/",
+    "https://www.napoleon.org/histoire-des-2-empires/symbolique-imperiale/",
+    "https://www.heraldica.org/topics/france/napolher.htm",
+    "https://agorha.inha.fr/ark:/54721/1c995e3a-f102-4727-af98-bf6476d8fbb4",
+    "https://www.bnf.fr/fr/departement-monnaies-medailles-antiques"
+  ]
+}

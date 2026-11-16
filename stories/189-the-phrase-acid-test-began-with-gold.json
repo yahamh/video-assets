@@ -1,0 +1,153 @@
+{
+  "id": "189-the-phrase-acid-test-began-with-gold",
+  "number": 189,
+  "title": "The phrase acid test began with gold",
+  "topic": "acid test phrase nitric acid gold karat touchstone lydian stone basanos aqua regia 1854",
+  "style": "lowpoly",
+  "music": "music-189.wav",
+  "hook": {
+    "text": "The phrase acid test began with gold.",
+    "gold": [
+      "acid",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The phrase acid test began with gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#f2c14e",
+        "halo": "#ffe3a0"
+      }
+    },
+    {
+      "text": "Dictionaries say it comes from testing gold with nitric acid.",
+      "scene": {
+        "kind": "title",
+        "text": "Nitric acid",
+        "sub": "The gold test"
+      }
+    },
+    {
+      "text": "On base metal the acid fizzes and turns green or gray.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5fbf7a",
+        "label": "Base metal reacts"
+      }
+    },
+    {
+      "text": "Pure gold is a noble metal and nitric acid cannot dissolve it.",
+      "scene": {
+        "kind": "title",
+        "text": "Noble metal",
+        "sub": "Pure gold resists acid"
+      }
+    },
+    {
+      "text": "A mix of two acids called aqua regia does dissolve gold.",
+      "say": "A mix of two acids called AH-kwuh RAY-jee-uh does dissolve gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f2c14e",
+        "halo": "#ffe3a0",
+        "label": "Aqua regia"
+      }
+    },
+    {
+      "text": "Jewelers still use acid kits to check the karat of gold.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A jeweler",
+        "role": "Testing the karat",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The touchstone method is at least 2,500 years old.",
+      "say": "The touchstone method is at least twenty-five hundred years old.",
+      "scene": {
+        "kind": "title",
+        "text": "2,500 years",
+        "sub": "The touchstone method"
+      }
+    },
+    {
+      "text": "Touchstones were once called Lydian stones, for Lydia's gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4a4a55",
+        "label": "A Lydian stone"
+      }
+    },
+    {
+      "text": "The Greek word for touchstone, basanos, also meant a test.",
+      "say": "The Greek word for touchstone, BASS-uh-nos, also meant a test.",
+      "scene": {
+        "kind": "title",
+        "text": "Basanos",
+        "sub": "Touchstone and test"
+      }
+    },
+    {
+      "text": "By 1854, acid test meant any decisive test.",
+      "say": "By eighteen fifty-four, acid test meant any decisive test.",
+      "scene": {
+        "kind": "title",
+        "text": "1854",
+        "sub": "In print by then"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The phrase acid test began with gold. Dictionaries say it comes from testing gold with nitric acid. On base metal the acid fizzes and turns green or gray, but pure gold is a noble metal and nitric acid cannot dissolve it. A mix of two acids called aqua regia does dissolve gold. Jewelers still use acid kits to check the karat of gold. The touchstone method is at least 2,500 years old, and touchstones were once called Lydian stones, for Lydia's gold. The Greek word for touchstone, basanos, also meant a test. By 1854, acid test meant any decisive test.",
+    "hashtags": [
+      "#goldtest",
+      "#acidtest",
+      "#gold",
+      "#jewelryhistory",
+      "#jewelers"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/acid%20test",
+    "https://www.dictionary.com/browse/acid%20test",
+    "https://grammarphobia.com/blog/2018/07/acid-test.html",
+    "https://www.thegoldsmiths.co.uk/hallmarking-stories/though-the-coin-be-fair-hallmarking-and-language",
+    "https://www.gemsociety.org/article/calculating-karat-content-gold-interpreting-marks/",
+    "https://www.gia.edu/articles/bench-tip-use-the-touchstone-method-for-testing-purity-karat-gold",
+    "https://www.britannica.com/science/noble-metal",
+    "https://chem.libretexts.org/Courses/Westminster_College/CHE_180_-_Inorganic_Chemistry/10%3A_Chapter_10_-_The_Transition_Metals/10.9%3A_Group_11/Chemistry_of_Gold",
+    "https://www.britannica.com/print/article/31021",
+    "https://www.rsc.org/periodic-table/element/79/gold",
+    "https://mci.si.edu/node/1196701",
+    "https://sardisexpedition.org/en/artifacts/latw-16",
+    "https://sardisexpedition.org/en/essays/latw-greenewalt-gold-silver-refining",
+    "https://www.britannica.com/technology/touchstone-metallurgy",
+    "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:middle-liddell.perseus-eng2-n6174",
+    "https://www.taylorfrancis.com/books/9781315470887/chapters/10.4324%2F9781315470894-2"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "191-meteorite-crashes-can-turn-graphite-into-diamond",
+  "number": 191,
+  "title": "Meteorite crashes can turn graphite into diamond",
+  "topic": "impact diamonds popigai crater graphite meteorite novo-urei 1888 lonsdaleite 1967 masaitis",
+  "music": "music-191.wav",
+  "hook": {
+    "text": "Meteorite crashes can turn graphite into diamond.",
+    "gold": [
+      "graphite",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Meteorite crashes can turn graphite into diamond.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough"
+      }
+    },
+    {
+      "text": "Impact diamonds keep the shape of the graphite crystals they replaced.",
+      "scene": {
+        "kind": "reveal",
+        "item": "rough",
+        "label": "Graphite's shape"
+      }
+    },
+    {
+      "text": "Russia's Popigai crater is about 35.7 million years old.",
+      "say": "Russia's POP-ih-guy crater is about thirty-five point seven million years old.",
+      "scene": {
+        "kind": "title",
+        "text": "35.7 million",
+        "sub": "Years since the crash"
+      }
+    },
+    {
+      "text": "The crater is about 100 kilometers across.",
+      "say": "The crater is about one hundred kilometers across.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8fb3c9",
+        "label": "100 km across"
+      }
+    },
+    {
+      "text": "Geologist Victor Masaitis proved its impact origin in 1971.",
+      "say": "Geologist Victor mah-SIGH-tis proved its impact origin in nineteen seventy-one.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Victor Masaitis",
+        "role": "Geologist",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#4a5560",
+            "hair": "side",
+            "hairColor": "#8a8a8a",
+            "skin": "#efc9a6",
+            "prop": "rough",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Russian estimates put its diamonds at over 100 billion carats.",
+      "say": "Russian estimates put its diamonds at over one hundred billion carats.",
+      "scene": {
+        "kind": "title",
+        "text": "100 billion",
+        "sub": "Carats, by estimate"
+      }
+    },
+    {
+      "text": "Most are tiny and meant for industry, not jewelry.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfd8dc",
+        "label": "Tiny and industrial"
+      }
+    },
+    {
+      "text": "The first diamonds from space were found in 1888.",
+      "say": "The first diamonds from space were found in eighteen eighty-eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1888",
+        "sub": "Novo-Urei meteorite"
+      }
+    },
+    {
+      "text": "A debated rarer form, lonsdaleite, turned up in a meteorite in 1967.",
+      "say": "A debated rarer form, LONZ-dale-ite, turned up in a meteorite in nineteen sixty-seven.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a98be0",
+        "label": "Lonsdaleite"
+      }
+    },
+    {
+      "text": "Lonsdaleite is named for Dame Kathleen Lonsdale.",
+      "say": "LONZ-dale-ite is named for Dame Kathleen Lonsdale.",
+      "scene": {
+        "kind": "title",
+        "text": "Lonsdale",
+        "sub": "Dame Kathleen Lonsdale"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Meteorite crashes can turn graphite into diamond. Impact diamonds keep the shape of the graphite crystals they replaced. Russia's Popigai crater is about 35.7 million years old and about 100 kilometers across, and geologist Victor Masaitis proved its impact origin in 1971. Russian estimates put its diamonds at over 100 billion carats, but most are tiny and meant for industry, not jewelry. The first diamonds from space were found in 1888. A debated rarer form, lonsdaleite, turned up in a meteorite in 1967. Lonsdaleite is named for Dame Kathleen Lonsdale.",
+    "hashtags": [
+      "#diamonds",
+      "#meteorite",
+      "#popigai",
+      "#lonsdaleite",
+      "#gemstones"
+    ]
+  },
+  "sources": [
+    "https://geology.com/articles/popigai-crater-diamonds/",
+    "https://infoscience.epfl.ch/record/169069/",
+    "https://repository.geologyscience.ru/items/4d51e169-b605-4d0c-856a-645b026c4efc/full",
+    "https://core.ac.uk/download/2932.pdf",
+    "https://ideas.repec.org/a/nat/nature/v388y1997i6640d10.1038_41073.html",
+    "https://www.mv.helsinki.fi/home/mhaaramo/meteor_impacts/paleogene_impacts.html",
+    "https://aj.tubitak.gov.tr/earth/issues/yer-19-28-3/yer-28-3-8-1808-6.pdf",
+    "https://link.springer.com/chapter/10.1007%2F978-3-030-22974-0_41",
+    "https://www.themoscowtimes.com/2012/09/17/gigantic-diamond-field-could-revolutionize-industry-a17875",
+    "https://meteorites.asu.edu/meteorites/novo-urei",
+    "https://www.meteorites.ru/menu/description-e/novo-urei-e.html",
+    "https://www.skyfallmeteorites.com/education-research/glossary/lonsdaleite/",
+    "https://news.asu.edu/20141120-lonsdaleite",
+    "https://barringercrater.com/blog/lonsdaleite-first-discovered-at-meteor-crater"
+  ]
+}

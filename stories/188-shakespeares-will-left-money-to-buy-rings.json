@@ -1,0 +1,146 @@
+{
+  "id": "188-shakespeares-will-left-money-to-buy-rings",
+  "number": 188,
+  "title": "Shakespeare's will left money to buy rings",
+  "topic": "shakespeare will 1616 rings burbage heminges condell 26 shillings 8 pence interlined memorial rings ws signet ring national archives",
+  "music": "music-188.wav",
+  "hook": {
+    "text": "Shakespeare's will left money to buy rings.",
+    "gold": [
+      "Shakespeare's",
+      "rings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Shakespeare's will left money to buy rings.",
+      "scene": {
+        "kind": "hook",
+        "show": "coins"
+      }
+    },
+    {
+      "text": "The will is dated 25 March 1616 and has three pages.",
+      "say": "The will is dated the twenty-fifth of March sixteen sixteen and has three pages.",
+      "scene": {
+        "kind": "title",
+        "text": "25 March",
+        "sub": "In the year 1616"
+      }
+    },
+    {
+      "text": "Three of his six known signatures are on its pages.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Shakespeare",
+        "role": "Signed every page",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a2f55",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "letter",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Three fellow actors each got 26 shillings and 8 pence for rings.",
+      "say": "Three fellow actors each got twenty-six shillings and eight pence for rings.",
+      "scene": {
+        "kind": "title",
+        "text": "26s 8d",
+        "sub": "Each, to buy rings"
+      }
+    },
+    {
+      "text": "Two more friends were left the same sum for a ring each.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Two more friends"
+      }
+    },
+    {
+      "text": "The actors' ring money was squeezed in between the lines.",
+      "scene": {
+        "kind": "title",
+        "text": "Between lines",
+        "sub": "Written above the line"
+      }
+    },
+    {
+      "text": "One friend named for a ring was crossed out and replaced.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Name replaced"
+      }
+    },
+    {
+      "text": "Leaving money for memorial rings was a common custom for centuries.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "Memorial rings"
+      }
+    },
+    {
+      "text": "A gold ring marked WS found in 1810 is still debated.",
+      "say": "A gold ring marked W S found in eighteen ten is still debated.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Found in 1810"
+      }
+    },
+    {
+      "text": "The original will is kept at The National Archives in Kew.",
+      "scene": {
+        "kind": "title",
+        "text": "Kew",
+        "sub": "The National Archives"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Shakespeare's will left money to buy rings. The will is dated 25 March 1616 and has three pages, and three of his six known signatures are on its pages. Three fellow actors each got 26 shillings and 8 pence for rings, and two more friends were left the same sum for a ring each. The actors' ring money was squeezed in between the lines, and one friend named for a ring was crossed out and replaced. Leaving money for memorial rings was a common custom for centuries. A gold ring marked WS found in 1810 is still debated. The original will is kept at The National Archives in Kew.",
+    "hashtags": [
+      "#shakespeare",
+      "#memorialring",
+      "#antiquejewelry",
+      "#jewelryhistory",
+      "#rings"
+    ]
+  },
+  "sources": [
+    "https://lemdo.uvic.ca/emee/ShakespearesWillModernText.html",
+    "https://www.shakespeare-online.com/biography/shakespearewill.html",
+    "https://internetshakespeare.uvic.ca/Library/SLT/life/retirement/will+1.html",
+    "https://shakespearedocumented.folger.edu/resource/document/william-shakespeares-last-will-and-testament-original-copy-including-three",
+    "https://www.nationalarchives.gov.uk/explore-the-collection/stories/william-shakespeare/",
+    "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/william-shakespeare-life/",
+    "https://www.nybooks.com/articles/1991/11/07/the-second-best-bed/",
+    "https://collections.vam.ac.uk/item/O125870/",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co156343/memento-mori-ring-remembering-augusta-bruce-europe-1701-1800",
+    "https://www.shakespeare.org.uk/explore-shakespeare/blogs/mystery-ring",
+    "https://www.shakespeare.org.uk/explore-shakespeare/blogs/shakespeare-100-objects-shakespeares-signet-ring/"
+  ]
+}
