@@ -1,0 +1,145 @@
+{
+  "id": "185-frying-a-mussel-ruined-a-giant-pearl",
+  "number": 185,
+  "title": "Frying a mussel ruined a giant pearl",
+  "topic": "1857 notch brook paterson new jersey freshwater pearl fried mussel queen pearl tiffany empress eugenie pearl rush",
+  "music": "music-185.wav",
+  "hook": {
+    "text": "Frying a mussel ruined a giant pearl.",
+    "gold": [
+      "mussel",
+      "pearl."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Frying a mussel ruined a giant pearl.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl",
+        "tone": "#f4efe4"
+      }
+    },
+    {
+      "text": "In 1857, a man in New Jersey fried mussels from Notch Brook.",
+      "say": "In eighteen fifty-seven, a man in New Jersey fried mussels from Notch Brook.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A Paterson man",
+        "role": "Frying mussels",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6b7f5a",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "He bit into a pearl that weighed about 100 carats.",
+      "say": "He bit into a pearl that weighed about one hundred carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#f4efe4",
+        "label": "About 100 carats"
+      }
+    },
+    {
+      "text": "The frying had destroyed its shine.",
+      "scene": {
+        "kind": "title",
+        "text": "No shine",
+        "sub": "Ruined by frying"
+      }
+    },
+    {
+      "text": "Soon after, another man found a pink pearl in the same brook.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#f2c4d0",
+        "label": "The same brook"
+      }
+    },
+    {
+      "text": "It weighed 93 grains, and by most accounts Tiffany paid $1,500.",
+      "say": "It weighed ninety-three grains, and by most accounts Tiffany paid fifteen hundred dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$1,500",
+        "sub": "By most accounts"
+      }
+    },
+    {
+      "text": "It reached Empress Eugenie of France and became the Queen Pearl.",
+      "say": "It reached Empress yoo-ZHAY-nee of France and became the Queen Pearl.",
+      "scene": {
+        "kind": "gift",
+        "stone": "pearl",
+        "tone": "#f2c4d0",
+        "to": "Empress Eugenie",
+        "date": "The Queen Pearl",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "People rushed in, and within months the brook had no mussels left.",
+      "say": "People rushed in, and within months the brook had no mussels left.",
+      "scene": {
+        "kind": "title",
+        "text": "Pearl rush",
+        "sub": "Notch Brook, 1857"
+      }
+    },
+    {
+      "text": "The craze spread to streams in other states over the next decades.",
+      "scene": {
+        "kind": "title",
+        "text": "Other states",
+        "sub": "From Ohio to Wisconsin"
+      }
+    },
+    {
+      "text": "In the 1890s, Tiffany's gem expert studied American pearls.",
+      "say": "In the eighteen nineties, Tiffany's gem expert studied American pearls.",
+      "scene": {
+        "kind": "reveal",
+        "item": "pearl",
+        "tone": "#f4efe4",
+        "label": "American pearls"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Frying a mussel ruined a giant pearl. In 1857, a man in New Jersey fried mussels from Notch Brook, and he bit into a pearl that weighed about 100 carats. The frying had destroyed its shine. Soon after, another man found a pink pearl in the same brook. It weighed 93 grains, and by most accounts Tiffany paid $1,500. It reached Empress Eugenie of France and became the Queen Pearl. People rushed in, and within months the brook had no mussels left. The craze spread to streams in other states over the next decades. In the 1890s, Tiffany's gem expert studied American pearls.",
+    "hashtags": [
+      "#pearls",
+      "#queenpearl",
+      "#tiffany",
+      "#jewelryhistory",
+      "#freshwaterpearls"
+    ]
+  },
+  "sources": [
+    "https://passaiccountyhistoricalsociety.org/the-pearl-craze-in-passaic-county/",
+    "https://www.gia.edu/gems-gemology/spring-2020-gemnews-exceptional-natural-freshwater-pearl",
+    "https://press.tiffany.com/our-story/tiffany-pearls/",
+    "https://patersonmuseum.com/wp-content/uploads/2025/06/Paterson-PEARLS-Exhibit-Panels-17x11_PROOF.pdf",
+    "https://molluskconservation.org/MUSSELS/Pearls.html",
+    "https://karipearls.com/tiffany-queen-pearl.html",
+    "https://karipearls.com/american-queen-pearl.html",
+    "https://endangerednj.blogspot.com/2012/09/new-jerseys-pearl-river-and-paterson.html",
+    "https://siarchives.si.edu/collections/siris_arc_217644",
+    "https://msaweb.org/AmMin/AM18/AM18_91.pdf"
+  ]
+}

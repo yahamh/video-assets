@@ -1,0 +1,150 @@
+{
+  "id": "186-ghanas-money-is-named-after-a-seashell",
+  "number": 186,
+  "title": "Ghana's money is named after a seashell",
+  "topic": "cowrie shell money ghana cedi akan shang tomb chinese character bronze cowries wang mang maldives africa",
+  "style": "lowpoly",
+  "music": "music-186.wav",
+  "hook": {
+    "text": "Ghana's money is named after a seashell.",
+    "gold": [
+      "Ghana's",
+      "seashell."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ghana's money is named after a seashell.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#f1e3d3",
+        "halo": "#ffe3b5"
+      }
+    },
+    {
+      "text": "The cedi comes from an Akan word for cowrie shell.",
+      "say": "The SED-ee comes from an AH-kahn word for cowrie shell.",
+      "scene": {
+        "kind": "title",
+        "text": "Cedi",
+        "sub": "Akan for cowrie"
+      }
+    },
+    {
+      "text": "Cowries were used as money in Asia and Africa for centuries.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f1e3d3",
+        "label": "Shell money"
+      }
+    },
+    {
+      "text": "A Chinese queen's tomb from the Shang dynasty held about 7,000 cowries.",
+      "say": "A Chinese queen's tomb from the Shang dynasty held about seven thousand cowries.",
+      "scene": {
+        "kind": "title",
+        "text": "7,000",
+        "sub": "Cowries in one tomb"
+      }
+    },
+    {
+      "text": "The Chinese character for cowrie sits inside many words about money.",
+      "scene": {
+        "kind": "title",
+        "text": "A shell sign",
+        "sub": "Inside money words"
+      }
+    },
+    {
+      "text": "China later cast bronze copies of cowrie shells.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b87333",
+        "label": "Bronze copies"
+      }
+    },
+    {
+      "text": "In AD 9, Wang Mang even tried to bring shell money back.",
+      "say": "In the year nine, Wang Mang even tried to bring shell money back.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Wang Mang",
+        "role": "Tried it in AD 9",
+        "cast": [
+          {
+            "outfit": "royal",
+            "hair": "short",
+            "hairColor": "#2a1f1a",
+            "skin": "#efc9a6",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Many traded cowries came from the Maldives, in the Indian Ocean.",
+      "scene": {
+        "kind": "title",
+        "text": "Maldives",
+        "sub": "Indian Ocean"
+      }
+    },
+    {
+      "text": "The same shells also made jewelry and hair ornaments.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "oval",
+        "tone": "#f1e3d3",
+        "label": "Worn as jewelry"
+      }
+    },
+    {
+      "text": "In parts of Africa, cowries were used as money into the 1800s.",
+      "say": "In parts of Africa, cowries were used as money into the eighteen hundreds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f1e3d3",
+        "halo": "#ffe3b5",
+        "label": "Money into the 1800s"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Ghana's money is named after a seashell. The cedi comes from an Akan word for cowrie shell. Cowries were used as money in Asia and Africa for centuries, and a Chinese queen's tomb from the Shang dynasty held about 7,000 cowries. The Chinese character for cowrie sits inside many words about money, and China later cast bronze copies of cowrie shells. In AD 9, Wang Mang even tried to bring shell money back. Many traded cowries came from the Maldives, in the Indian Ocean. The same shells also made jewelry and hair ornaments, and in parts of Africa, cowries were used as money into the 1800s.",
+    "hashtags": [
+      "#cowrie",
+      "#shellmoney",
+      "#ghana",
+      "#jewelryhistory",
+      "#shells"
+    ]
+  },
+  "sources": [
+    "https://www.bog.gov.gh/bank-notes-coins/evolution-of-currency-in-ghana/",
+    "https://carlos.emory.edu/cash-cowries",
+    "https://english.henan.gov.cn/2019/10-22/989951.html",
+    "https://sites.utexas.edu/swilson/wp-content/uploads/sites/3975/2026/02/Wilson_Money_2026.pdf",
+    "https://www.bankofcanadamuseum.ca/collection/artefact/view/1966.0160.01596.000",
+    "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-1/page/0555.html.en",
+    "https://data.fitzmuseum.cam.ac.uk/id/object/170732",
+    "https://www.moneymuseum.com/en/coins?&id=866",
+    "https://numismatics.org/exhibits/ancient-and-medieval-east-and-south-asia/",
+    "https://link.springer.com/article/10.1007/s10437-023-09546-5",
+    "https://conchsoc.org/node/2030",
+    "https://en.shaanxi.gov.cn/news/sn/202511/t20251104_3581808.html"
+  ]
+}
