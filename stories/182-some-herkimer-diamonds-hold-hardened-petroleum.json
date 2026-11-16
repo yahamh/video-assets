@@ -1,0 +1,166 @@
+{
+  "id": "182-some-herkimer-diamonds-hold-hardened-petroleum",
+  "number": 182,
+  "title": "Some Herkimer diamonds hold hardened petroleum",
+  "topic": "herkimer diamond double-terminated quartz new york dolostone anthraxolite petroleum enhydro 18 facets",
+  "music": "music-182.wav",
+  "hook": {
+    "text": "Some Herkimer diamonds hold hardened petroleum.",
+    "gold": [
+      "Herkimer",
+      "petroleum."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some Herkimer diamonds hold hardened petroleum.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "marquise",
+        "tone": "#e9f1f6",
+        "halo": "#bfe6ff"
+      }
+    },
+    {
+      "text": "Herkimer diamonds are really clear quartz crystals.",
+      "scene": {
+        "kind": "title",
+        "text": "Clear quartz",
+        "sub": "Not a diamond at all"
+      }
+    },
+    {
+      "text": "Each crystal has a point at both ends.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "marquise",
+        "tone": "#e9f1f6",
+        "label": "A point at both ends"
+      }
+    },
+    {
+      "text": "They grew freely in rock cavities, so both ends could form.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A geologist",
+        "role": "Grew in cavities",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#6b7f5a",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The rock around them is about 500 million years old.",
+      "say": "The rock around them is about five hundred million years old.",
+      "scene": {
+        "kind": "title",
+        "text": "500 million",
+        "sub": "Years old, the rock"
+      }
+    },
+    {
+      "text": "Quartz is about 7 on the Mohs scale, while diamond is 10.",
+      "say": "Quartz is about seven on the Mohs scale, while diamond is ten.",
+      "scene": {
+        "kind": "title",
+        "text": "7 versus 10",
+        "sub": "Quartz and diamond"
+      }
+    },
+    {
+      "text": "Many form with 18 natural facets.",
+      "say": "Many form with eighteen natural facets.",
+      "scene": {
+        "kind": "title",
+        "text": "18 facets",
+        "sub": "Often, naturally"
+      }
+    },
+    {
+      "text": "The name comes from their clarity and well-formed faces.",
+      "scene": {
+        "kind": "title",
+        "text": "Clear and sharp",
+        "sub": "Where the name came from"
+      }
+    },
+    {
+      "text": "Some hold black specks of anthraxolite, which is hardened petroleum.",
+      "say": "Some hold black specks of AN-thrax-oh-lite, which is hardened petroleum.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "marquise",
+        "tone": "#c9d6de",
+        "label": "Hardened petroleum"
+      }
+    },
+    {
+      "text": "Others hold tiny pockets of water or petroleum.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "marquise",
+        "tone": "#e9f1f6",
+        "halo": "#bfe6ff",
+        "label": "Tiny liquid pockets"
+      }
+    },
+    {
+      "text": "At one New York mine, visitors can dig and keep their finds.",
+      "scene": {
+        "kind": "cast",
+        "setting": "mine",
+        "name": "A visitor",
+        "role": "Dig and keep",
+        "cast": [
+          {
+            "outfit": "miner",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "prop": "rough",
+            "expression": "smile"
+          }
+        ]
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some Herkimer diamonds hold hardened petroleum. Herkimer diamonds are really clear quartz crystals, and each crystal has a point at both ends. They grew freely in rock cavities, so both ends could form, and the rock around them is about 500 million years old. Quartz is about 7 on the Mohs scale, while diamond is 10, and many form with 18 natural facets. The name comes from their clarity and well-formed faces. Some hold black specks of anthraxolite, which is hardened petroleum, and others hold tiny pockets of water or petroleum. At one New York mine, visitors can dig and keep their finds.",
+    "hashtags": [
+      "#herkimerdiamond",
+      "#quartz",
+      "#crystals",
+      "#gemstones",
+      "#rockhounding"
+    ]
+  },
+  "sources": [
+    "https://www.rockhounding.org/gem-mining/herkimer-diamond.html",
+    "https://en.wikipedia.org/wiki/Herkimer_diamond",
+    "https://herkimerdiamond.com/mine/",
+    "https://www.geologyin.com/2015/11/what-type-of-quartz-is-considered-as.html",
+    "https://showcaves.com/english/usa/mines/Herkimer.html",
+    "https://skyjems.ca/pages/encyclopedia-herkimer-diamond",
+    "https://www.crystals.com/blogs/news/herkimer-diamond",
+    "https://www.gia.edu/cn/book-review-collectors-guide-herkimer-diamonds",
+    "https://herkimerhistory.com/Inclusions.html",
+    "https://www.nps.gov/articles/natural-history-objects.htm"
+  ]
+}
