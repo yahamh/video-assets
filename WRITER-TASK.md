@@ -1,7 +1,7 @@
 # Daily writer (the prompt for the scheduled Claude task)
 
-Runs four times a day. It keeps two days of stories written ahead of posting (twice the number of `times` in schedule.json, never fewer
-than 40: 40 until stage 2, then 48, 64 and 80) and 7 render lessons (7 days), so a missed run never stops the videos.
+Runs four times a day. It keeps three days of stories written ahead of posting (three times the number of `times` in schedule.json, never fewer
+than 40: 48 at stage 1, then 72, 96 and 120) and 7 render lessons (7 days), so a missed run never stops the videos.
 
 **The ramp (ali, 16 Nov 2026: "we need to post 40 times a day for each platform").** schedule.json `stage` says which step the
 posting is at (`python3 scripts/stage.py N` sets it: 1 = 16 stories a day, 2 = 24, 3 = 32, 4 = 40). Each step waits for a clean
