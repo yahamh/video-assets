@@ -2169,7 +2169,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1900640241300182",
+      "instagram": "https://www.instagram.com/reel/DfyPT_CE3yf/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708584143789116673"
+    }
   },
   "136-the-first-laser-used-a-ruby-rod": {
     "at": "2026-11-16T11:30:00Z",
@@ -2509,6 +2515,85 @@
   "172-this-tiara-was-a-wedding-gift-twice": {
     "at": "2026-11-19T21:00:00Z",
     "zernio_id": "6afa325908b5d7cd678c4d11",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "173-he-carried-a-138-carat-ruby-for-luck": {
+    "at": "2026-11-16T03:30:00Z",
+    "zernio_id": "6afa699847c2d35ae0bbd990",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "174-germans-named-eyeglasses-after-a-gemstone": {
+    "at": "2026-11-16T08:00:00Z",
+    "zernio_id": "6afa69a173358e07f1d3baaa",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "175-these-gold-bees-may-actually-be-wasps": {
+    "at": "2026-11-16T09:30:00Z",
+    "zernio_id": "6afa69af73358e07f1d3bb05",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "176-he-thought-it-was-a-powder-compact": {
+    "at": "2026-11-16T10:30:00Z",
+    "zernio_id": "6afa69b97d5ecf5f0700e375",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "177-diamond-moves-heat-better-than-silver": {
+    "at": "2026-11-16T15:00:00Z",
+    "zernio_id": "6afa69c14937faaf8a60b2be",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "178-this-2000-year-old-crown-folds-for-travel": {
+    "at": "2026-11-16T22:00:00Z",
+    "zernio_id": "6afa69c97d5ecf5f0700e3ca",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "179-bahrain-bans-the-sale-of-cultured-pearls": {
+    "at": "2026-11-17T03:30:00Z",
+    "zernio_id": "6afa69d04937faaf8a60b3c2",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "180-this-amber-can-turn-blue-in-sunlight": {
+    "at": "2026-11-17T08:00:00Z",
+    "zernio_id": "6afa69d94937faaf8a60b43e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "181-a-wedding-gift-began-sweetheart-brooches": {
+    "at": "2026-11-17T09:30:00Z",
+    "zernio_id": "6afa69e54937faaf8a60b4c9",
     "platforms": [
       "facebook",
       "instagram",
