@@ -2340,7 +2340,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1147658507603509",
+      "instagram": "https://www.instagram.com/reel/Df11B8kCuul/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709101044050955521"
+    }
   },
   "147-this-purple-gem-comes-from-one-place": {
     "at": "2026-11-17T13:00:00Z",
@@ -2349,7 +2355,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1458775235667802",
+      "instagram": "https://www.instagram.com/reel/Df1_hsdEii6/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709125106739596565"
+    }
   },
   "148-this-pink-pearl-comes-from-a-snail": {
     "at": "2026-11-17T14:00:00Z",
@@ -2359,7 +2371,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1460614142072386",
+      "instagram": "https://www.instagram.com/reel/Df2GinvjJqA/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709140923988364562",
+      "youtube": "https://www.youtube.com/watch?v=Jj5C_yTTR4o"
+    }
   },
   "149-some-diamonds-glow-blue-under-uv-light": {
     "at": "2026-11-17T16:30:00Z",
@@ -2368,7 +2387,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4125502177755424",
+      "instagram": "https://www.instagram.com/reel/Df2XVzDjPrm/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709178726499536180"
+    }
   },
   "150-this-pink-gem-is-argentinas-national-stone": {
     "at": "2026-11-17T18:00:00Z",
@@ -2736,7 +2761,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29328908493407829",
+      "instagram": "https://www.instagram.com/reel/Df2NYifgI58/"
+    }
   },
   "184-venice-banned-its-glassmakers-from-leaving": {
     "at": "2026-11-17T22:00:00Z",
@@ -3004,6 +3034,84 @@
       "instagram"
     ]
   },
+  "214-west-point-ring-gold-flew-to-space": {
+    "at": "2026-11-19T10:00:00Z",
+    "zernio_id": "6afc8e0a00664903042a1db9",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "215-the-safety-pin-began-as-jewelry": {
+    "at": "2026-11-19T22:00:00Z",
+    "zernio_id": "6afc8e19ba9fc13b5b3937d9",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "216-unplated-white-gold-is-faintly-yellow": {
+    "at": "2026-11-19T23:00:00Z",
+    "zernio_id": "6afc8e21f413860c6403881b",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "217-baroque-probably-began-as-a-pearl-word": {
+    "at": "2026-11-20T00:00:00Z",
+    "zernio_id": "6afc8e2f318f1a5803d1818c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "218-eggs-can-quickly-blacken-silver": {
+    "at": "2026-11-20T00:30:00Z",
+    "zernio_id": "6afc8e418f87c0d71fd797f9",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "219-all-mined-gold-fits-in-one-cube": {
+    "at": "2026-11-20T01:00:00Z",
+    "zernio_id": "6afc8e4924bcfc05d971ca0f",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "220-two-nobel-medals-once-hid-in-acid": {
+    "at": "2026-11-20T01:30:00Z",
+    "zernio_id": "6afc8e54f93e3c207f63e4aa",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "221-a-silla-crown-dangles-58-jade-commas": {
+    "at": "2026-11-20T02:00:00Z",
+    "zernio_id": "6afc8e618f87c0d71fd798a5",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "222-the-armada-jewel-postdates-the-armada": {
+    "at": "2026-11-20T02:30:00Z",
+    "zernio_id": "6afc8e69ba9fc13b5b39396b",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -3220,7 +3328,11 @@
     "zernio_id": "6aed4311390b49fe77fccf48",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=fjq_sT_ydS8"
+    }
   },
   "gs-13-versus": {
     "at": "2026-11-18T17:00:00Z",
@@ -3516,7 +3628,11 @@
     "zernio_id": "6af39c7029bc6e35ba0e5cbc",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=7SQcRmi-Hk4"
+    }
   },
   "lesson-026-melee-diamonds": {
     "at": "2026-11-18T16:00:00Z",
