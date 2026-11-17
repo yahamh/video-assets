@@ -1,0 +1,167 @@
+{
+  "id": "201-marcasite-jewelry-contains-no-marcasite",
+  "number": 201,
+  "title": "Marcasite jewelry contains no marcasite",
+  "topic": "marcasite jewelry is pyrite fool's gold iron sulfide crumbles humid air faceted set in silver pyr fire sparks wheellock georgian diamond stand-in pre-columbian mirrors",
+  "style": "lowpoly",
+  "music": "music-201.wav",
+  "hook": {
+    "text": "Marcasite jewelry contains no marcasite.",
+    "gold": [
+      "no",
+      "marcasite."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Marcasite jewelry contains no marcasite.",
+      "say": "MAR-kuh-site jewelry contains no MAR-kuh-site.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#8a8f98",
+        "halo": "#d9dde3"
+      }
+    },
+    {
+      "text": "The sparkly stones are really pyrite, also called fool's gold.",
+      "say": "The sparkly stones are really PY-rite, also called fool's gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c9a43a",
+        "label": "Really pyrite"
+      }
+    },
+    {
+      "text": "Both minerals are iron sulfide with the same formula.",
+      "scene": {
+        "kind": "title",
+        "text": "FeS2",
+        "sub": "Same formula"
+      }
+    },
+    {
+      "text": "Their atoms are arranged differently, so their crystals differ.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#8a8f98",
+        "label": "Different crystals"
+      }
+    },
+    {
+      "text": "Real marcasite can crumble into powder in humid air.",
+      "say": "Real MAR-kuh-site can crumble into powder in humid air.",
+      "scene": {
+        "kind": "title",
+        "text": "Crumbles",
+        "sub": "Real marcasite"
+      }
+    },
+    {
+      "text": "Museums keep real marcasite in dry rooms.",
+      "say": "Museums keep real MAR-kuh-site in dry rooms.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9dde3",
+        "label": "Dry museum rooms"
+      }
+    },
+    {
+      "text": "Jewelers cut tiny faceted pieces of pyrite and set them in silver.",
+      "say": "Jewelers cut tiny faceted pieces of PY-rite and set them in silver.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "A jeweler",
+        "role": "Sets pyrite in silver",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Pyrite's name means fire, since it makes sparks against steel.",
+      "say": "PY-rite's name means fire, since it makes sparks against steel.",
+      "scene": {
+        "kind": "title",
+        "text": "Pyr is fire",
+        "sub": "Greek for fire"
+      }
+    },
+    {
+      "text": "Wheellock guns used pyrite to make sparks.",
+      "say": "Wheellock guns used PY-rite to make sparks.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c9a43a",
+        "label": "Wheellock guns"
+      }
+    },
+    {
+      "text": "In Georgian times, pyrite pieces stood in for diamonds.",
+      "say": "In Georgian times, PY-rite pieces stood in for diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "Georgian",
+        "sub": "A diamond stand in"
+      }
+    },
+    {
+      "text": "Pre-Columbian artists made mirrors from cut pyrite pieces.",
+      "say": "Pre-Columbian artists made mirrors from cut PY-rite pieces.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c9a43a",
+        "label": "Pyrite mirrors"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Marcasite jewelry contains no marcasite. The sparkly stones are really pyrite, also called fool's gold. Both minerals are iron sulfide with the same formula, but their atoms are arranged differently, so their crystals differ. Real marcasite can crumble into powder in humid air, and museums keep real marcasite in dry rooms. Jewelers cut tiny faceted pieces of pyrite and set them in silver. Pyrite's name means fire, since it makes sparks against steel, and wheellock guns used pyrite to make sparks. In Georgian times, pyrite pieces stood in for diamonds. Pre-Columbian artists made mirrors from cut pyrite pieces.",
+    "hashtags": [
+      "#marcasite",
+      "#pyrite",
+      "#foolsgold",
+      "#vintagejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcasite_jewellery",
+    "https://minds.wisc.edu/server/api/core/bitstreams/22854181-f268-4dfd-99d1-140bb94c8965/content",
+    "https://www.merriam-webster.com/dictionary/marcasite",
+    "https://www.britannica.com/science/marcasite",
+    "https://www.britannica.com/science/pyrite",
+    "https://www.mindat.org/min-2571.html",
+    "https://www.mindat.org/min-3314.html",
+    "https://en.wikipedia.org/wiki/Marcasite",
+    "https://www.etymonline.com/word/pyrite",
+    "https://www.gemsociety.org/article/marcasite-jewelry-and-gemstone-information",
+    "https://collections.vam.ac.uk/item/O112627/shoe-buckle-unknown",
+    "https://uwaterloo.ca/earth-sciences-museum/educational-resources/articles/pyrite",
+    "https://bodyarts.prm.ox.ac.uk/index.php/temporary-body-arts/mirrors/64-pyrite-mirror-xochicalco-ancient-mexico-ad-700900.html",
+    "https://museum.doaks.org/OBJ23005.htm"
+  ]
+}

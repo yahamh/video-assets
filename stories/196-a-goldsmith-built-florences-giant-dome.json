@@ -1,0 +1,176 @@
+{
+  "id": "196-a-goldsmith-built-florences-giant-dome",
+  "number": 196,
+  "title": "A goldsmith built Florence's giant dome",
+  "topic": "brunelleschi goldsmith trained florence cathedral dome 1420 1436 four million bricks ox hoist ghiberti baptistery doors 1401 contest pistoia silver altar",
+  "style": "paper",
+  "plate": "Brunelleschi",
+  "theme": "mint",
+  "music": "music-196.wav",
+  "hook": {
+    "text": "A goldsmith built Florence's giant dome.",
+    "gold": [
+      "goldsmith",
+      "dome."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A goldsmith built Florence's giant dome.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Filippo Brunelleschi trained as a goldsmith as a teenager.",
+      "say": "Filippo BROO-nuh-LESS-kee trained as a goldsmith as a teenager.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Filippo",
+        "role": "Trained as a goldsmith",
+        "cast": [
+          {
+            "outfit": "apron",
+            "outfitColor": "#8a5a3a",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ],
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Around 1400 he made small silver figures for an altar.",
+      "say": "Around fourteen hundred he made small silver figures for an altar.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "Small silver figures",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In 1401 seven artists competed to make the Baptistery doors.",
+      "say": "In fourteen oh one seven artists competed to make the Baptistery doors.",
+      "scene": {
+        "kind": "title",
+        "text": "1401",
+        "sub": "Seven test panels",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The two finalists were both trained goldsmiths.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Gilded bronze panels",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Lorenzo Ghiberti won the commission for the doors.",
+      "say": "Lorenzo gee-BAIR-tee won the commission for the doors.",
+      "scene": {
+        "kind": "title",
+        "text": "Ghiberti",
+        "sub": "Won the doors",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In 1420 work began on his dome for Florence Cathedral.",
+      "say": "In fourteen twenty work began on his dome for Florence Cathedral.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c0623a",
+        "label": "Work began, 1420",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It was finished in 1436, apart from the lantern.",
+      "say": "It was finished in fourteen thirty-six, apart from the lantern.",
+      "scene": {
+        "kind": "title",
+        "text": "1436",
+        "sub": "Dome finished",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Over four million bricks went into it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c0623a",
+        "label": "Over 4 million bricks",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Many sources call it the largest masonry dome ever built.",
+      "scene": {
+        "kind": "title",
+        "text": "Largest",
+        "sub": "Masonry dome built",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "His hoist ran on oxen and could reverse without turning them.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#b98a5a",
+        "label": "A hoist run by oxen",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A goldsmith built Florence's giant dome. Filippo Brunelleschi trained as a goldsmith as a teenager, and around 1400 he made small silver figures for an altar. In 1401 seven artists competed to make the Baptistery doors. The two finalists were both trained goldsmiths, and Lorenzo Ghiberti won the commission. In 1420 work began on his dome for Florence Cathedral, and it was finished in 1436, apart from the lantern. Over four million bricks went into it. Many sources call it the largest masonry dome ever built. His hoist ran on oxen and could reverse without turning them.",
+    "hashtags": [
+      "#brunelleschi",
+      "#florence",
+      "#goldsmith",
+      "#renaissance",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Filippo_Brunelleschi",
+    "https://www.treccani.it/enciclopedia/filippo-brunelleschi_(Dizionario-Biografico)/",
+    "https://mathshistory.st-andrews.ac.uk/Biographies/Brunelleschi.html",
+    "https://www.britannica.com/biography/Lorenzo-Ghiberti",
+    "https://smarthistory.org/filippo-brunelleschi-and-lorenzo-ghiberti-sacrifice-of-isaac",
+    "https://brunelleschi.imss.fi.it/itineraries/place/TheDomeOfSantaMariaFiore.html",
+    "https://en.wikipedia.org/wiki/Florence_Cathedral",
+    "https://www.visittuscany.com/en/attractions/brunelleschis-dome",
+    "https://www.visittuscany.com/en/ideas/filippo-brunelleschi/",
+    "https://www.pbs.org/empires/medici/renaissance/brunelleschi.html",
+    "https://www.nationalgeographic.com/magazine/2014/02/Il-Duomo",
+    "https://www.nationalgeographic.com/history/history-magazine/article/this-renaissance-superdome-took-more-than-100-years-to-build",
+    "https://theartstory.org/artist/brunelleschi-filippo/"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "198-olympic-gold-medals-are-mostly-silver",
+  "number": 198,
+  "title": "Olympic gold medals are mostly silver",
+  "topic": "olympic gold medals mostly silver gilded six grams last solid gold 1912 paris 2024 eiffel tower iron chaumet tokyo 2020 recycled phones 85 millimeters",
+  "style": "lowpoly",
+  "music": "music-198.wav",
+  "hook": {
+    "text": "Olympic gold medals are mostly silver.",
+    "gold": [
+      "gold",
+      "silver."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Olympic gold medals are mostly silver.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "halo": "#ffe3a0"
+      }
+    },
+    {
+      "text": "The rules require silver that is at least 92.5 percent pure.",
+      "say": "The rules require silver that is at least ninety-two point five percent pure.",
+      "scene": {
+        "kind": "title",
+        "text": "92.5%",
+        "sub": "Silver, at least"
+      }
+    },
+    {
+      "text": "The gold medal is gilded with at least six grams of gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Six grams of gold"
+      }
+    },
+    {
+      "text": "The last solid gold medals were awarded in Stockholm in 1912.",
+      "say": "The last solid gold medals were awarded in Stockholm in nineteen twelve.",
+      "scene": {
+        "kind": "title",
+        "text": "1912",
+        "sub": "Last solid gold"
+      }
+    },
+    {
+      "text": "A Paris 2024 gold medal weighs about 529 grams.",
+      "say": "A Paris twenty twenty-four gold medal weighs about five hundred twenty-nine grams.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "Paris: 529 grams"
+      }
+    },
+    {
+      "text": "Each Paris medal holds a hexagon of iron from the Eiffel Tower.",
+      "scene": {
+        "kind": "title",
+        "text": "Eiffel iron",
+        "sub": "A hexagon in each"
+      }
+    },
+    {
+      "text": "Jeweler Chaumet designed them, and the Paris Mint struck them.",
+      "say": "Jeweler SHOH-meh designed them, and the Paris Mint struck them.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "Chaumet",
+        "role": "Designed the medals",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Tokyo's 2020 medals were made from recycled phones and other electronics.",
+      "say": "Tokyo's twenty twenty medals were made from recycled phones and other electronics.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5bb4e8",
+        "label": "Recycled phones"
+      }
+    },
+    {
+      "text": "Japan collected more than six million old phones for them.",
+      "scene": {
+        "kind": "title",
+        "text": "6 million",
+        "sub": "Old phones collected"
+      }
+    },
+    {
+      "text": "Gold medals from Tokyo and Paris are both 85 millimeters wide.",
+      "say": "Gold medals from Tokyo and Paris are both eighty-five millimeters wide.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "85 mm wide"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Olympic gold medals are mostly silver. The rules require silver that is at least 92.5 percent pure, and the gold medal is gilded with at least six grams of gold. The last solid gold medals were awarded in Stockholm in 1912. A Paris 2024 gold medal weighs about 529 grams, and each one holds a hexagon of iron from the Eiffel Tower. Jeweler Chaumet designed them, and the Paris Mint struck them. Tokyo's 2020 medals were made from recycled phones and other electronics, and Japan collected more than six million old phones for them. Gold medals from Tokyo and Paris are both 85 millimeters wide.",
+    "hashtags": [
+      "#olympics",
+      "#goldmedal",
+      "#silver",
+      "#gilding",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.olympedia.org/definitions/29",
+    "https://www.coloradopolitics.com/2024/08/05/olympic-gold-medals-made-mostly-of-silver-cc290b07-c6f8-5d48-b66a-643673bb66bf/",
+    "https://www.rte.ie/sport/paris-2024/2021/0729/1237949-what-exactly-goes-into-an-olympic-gold-medal",
+    "https://www.guinnessworldrecords.com/world-records/last-olympic-gold-medal",
+    "https://www.history.com/articles/10-things-you-didnt-know-about-the-summer-olympics",
+    "https://olympics.com/en/olympic-games/tokyo-2020/medal-design",
+    "https://www.smithsonianmag.com/smart-news/tokyo-2020-olympic-medals-will-be-made-recycled-materials-180972726/",
+    "https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-277/",
+    "https://globalnews.ca/news/10280834/paris-olympics-medals-2024/",
+    "https://olympic.ca/?p=313944",
+    "https://domusweb.it/en/news/gallery/2024/02/26/the-medals-for-the-paris-olympics-were-made-with-iron-from-the-eiffel-tower.html",
+    "https://collections.museedusport.fr/en/artefacts/medaille-dor-des-jeux-olympiques-de-paris-2024-et-son-ecrin"
+  ]
+}

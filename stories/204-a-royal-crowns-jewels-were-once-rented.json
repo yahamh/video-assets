@@ -1,0 +1,152 @@
+{
+  "id": "204-a-royal-crowns-jewels-were-once-rented",
+  "number": 204,
+  "title": "A royal crown's jewels were once rented",
+  "topic": "st edward's crown 1661 charles ii jewels rented until 1911 george v nearly five pounds used only for crowning imperial state crown half as heavy charles iii 2023 adjusted",
+  "style": "lowpoly",
+  "music": "music-204.wav",
+  "hook": {
+    "text": "A royal crown's jewels were once rented.",
+    "gold": [
+      "royal",
+      "rented."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A royal crown's jewels were once rented.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#a98be0",
+        "halo": "#d0c3ff"
+      }
+    },
+    {
+      "text": "It is St Edward's Crown, made in 1661 for King Charles II.",
+      "say": "It is Saint Edward's Crown, made in sixteen sixty-one for King Charles the Second.",
+      "scene": {
+        "kind": "title",
+        "text": "1661",
+        "sub": "St Edward's Crown"
+      }
+    },
+    {
+      "text": "It replaced a medieval crown that was melted down in 1649.",
+      "say": "It replaced a medieval crown that was melted down in sixteen forty-nine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "label": "Old crown, 1649"
+      }
+    },
+    {
+      "text": "The crown weighs nearly five pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "Nearly 5 lb",
+        "sub": "Solid gold frame"
+      }
+    },
+    {
+      "text": "Its hundreds of stones include amethysts and topazes.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#a98be0",
+        "halo": "#d0c3ff",
+        "label": "Amethysts and topazes"
+      }
+    },
+    {
+      "text": "George V had the stones set permanently in 1911.",
+      "say": "George the Fifth had the stones set permanently in nineteen eleven.",
+      "scene": {
+        "kind": "title",
+        "text": "1911",
+        "sub": "Stones set for good"
+      }
+    },
+    {
+      "text": "It is used only for the moment of crowning.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Only for crowning"
+      }
+    },
+    {
+      "text": "After that, the monarch switches to the Imperial State Crown.",
+      "scene": {
+        "kind": "title",
+        "text": "Imperial",
+        "sub": "State Crown next"
+      }
+    },
+    {
+      "text": "That crown is only about half as heavy.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a4fb0",
+        "halo": "#b8c6ff",
+        "label": "About half the weight"
+      }
+    },
+    {
+      "text": "Charles III was crowned with it in 2023.",
+      "say": "Charles the Third was crowned with it in twenty twenty-three.",
+      "scene": {
+        "kind": "title",
+        "text": "2023",
+        "sub": "Charles III crowned"
+      }
+    },
+    {
+      "text": "Before then its band was adjusted to fit King Charles.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Band adjusted"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A royal crown's jewels were once rented. It is St Edward's Crown, made in 1661 for King Charles II, and it replaced a medieval crown that was melted down in 1649. The crown weighs nearly five pounds, and its hundreds of stones include amethysts and topazes. George V had the stones set permanently in 1911. It is used only for the moment of crowning. After that, the monarch switches to the Imperial State Crown, which is only about half as heavy. Charles III was crowned with it in 2023, and before then its band was adjusted to fit King Charles.",
+    "hashtags": [
+      "#stedwardscrown",
+      "#crownjewels",
+      "#coronation",
+      "#royaljewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/31700",
+    "https://www.royal.uk/coronation-regalia",
+    "https://www.hrp.org.uk/tower-of-london/history-and-stories/the-crown-jewels/",
+    "https://www.rct.uk/collection/stories/the-crown-jewels/st-edwards-crown",
+    "https://www.britannica.com/topic/Saint-Edwards-Crown",
+    "https://www.gemsociety.org/news/2023/04/20/everything-you-need-to-know-st-edwards-crown/",
+    "https://www.rct.uk/collection/themes/exhibitions/the-queens-coronation-1953/buckingham-palace/st-edwards-crown",
+    "https://www.rct.uk/collection/31701",
+    "https://www.nbcnews.com/news/world/king-charles-coronation-crown-jewels-kohinoor-diamond-regalia-scepters-rcna82470",
+    "https://www.euronews.com/culture/2022/12/05/historic-royal-crown-modified-to-fit-king-charles-iii-ahead-of-coronation",
+    "https://www.itv.com/news/2022-12-04/st-edwards-crown-to-be-re-sized-for-king-ahead-of-coronation"
+  ]
+}

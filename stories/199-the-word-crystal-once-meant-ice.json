@@ -1,0 +1,161 @@
+{
+  "id": "199-the-word-crystal-once-meant-ice",
+  "number": 199,
+  "title": "The word crystal once meant ice",
+  "topic": "crystal word greek krystallos ice rock crystal quartz pliny frozen belief silicon dioxide jewelry bracelets seals old english",
+  "style": "paper",
+  "plate": "Rock crystal",
+  "music": "music-199.wav",
+  "hook": {
+    "text": "The word crystal once meant ice.",
+    "gold": [
+      "crystal",
+      "ice."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The word crystal once meant ice.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe9f5",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In Greek the word krystallos first meant plain ice.",
+      "say": "In Greek the word KRIS-tuh-los first meant plain ice.",
+      "scene": {
+        "kind": "title",
+        "text": "Ice",
+        "sub": "Its first meaning",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Later it also named clear quartz, which is rock crystal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e6f4fa",
+        "label": "Rock crystal",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Many ancient writers believed rock crystal was ice frozen for good.",
+      "scene": {
+        "kind": "title",
+        "text": "Frozen ice",
+        "sub": "An ancient belief",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The Roman writer Pliny said crystal is a kind of ice.",
+      "say": "The Roman writer PLIN-ee said crystal is a kind of ice.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Pliny",
+        "role": "Roman writer",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#8a4f5a",
+            "hair": "short",
+            "hairColor": "#6b5a4a",
+            "skin": "#efc9a6",
+            "prop": "letter",
+            "expression": "smile"
+          }
+        ],
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "He wrote that it forms where winter snow freezes hardest.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe9f5",
+        "label": "Where snow freezes",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "He said it cannot bear heat, so it suits cold drinks.",
+      "scene": {
+        "kind": "title",
+        "text": "Cold drinks",
+        "sub": "Pliny's note",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Rock crystal is clear quartz, which is silicon dioxide.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e6f4fa",
+        "label": "Silicon dioxide",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Greek jewelers set it in bracelets and carved it into seals.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#e6f4fa",
+        "metal": "yellow",
+        "label": "Crystal and gold",
+        "velvet": "#a98be0"
+      }
+    },
+    {
+      "text": "English has used the word crystal since before the 12th century.",
+      "say": "English has used the word crystal since before the twelfth century.",
+      "scene": {
+        "kind": "title",
+        "text": "900 years",
+        "sub": "Crystal in English",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The word crystal once meant ice. In Greek the word krystallos first meant plain ice, and later it also named clear quartz, which is rock crystal. Many ancient writers believed rock crystal was ice frozen for good. The Roman writer Pliny said crystal is a kind of ice and wrote that it forms where winter snow freezes hardest. He said it cannot bear heat, so it suits cold drinks. Rock crystal is clear quartz, which is silicon dioxide. Greek jewelers set it in bracelets and carved it into seals. English has used the word crystal since before the 12th century.",
+    "hashtags": [
+      "#rockcrystal",
+      "#quartz",
+      "#crystal",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://biblebento.com/dictionary/G2930.html",
+    "https://en.wiktionary.org/wiki/κρύσταλλος",
+    "https://www.etymonline.com/word/crystal",
+    "https://naturalhistory.si.edu/node/12680",
+    "https://attalus.org/pliny/hn37a.html",
+    "https://peterburk.github.io/pliny/ChaptersHtml/37. Book XXXVII. The Natural History Of Precious Stones./9. Chap. 9.-The Nature Of Crystal..html",
+    "https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.05%3A_Quartz/16.5.05%3A_Rock_Crystal",
+    "https://penelope.uchicago.edu/pseudodoxia/pseudo21.html",
+    "https://www.merriam-webster.com/dictionary/crystal",
+    "https://www.britannica.com/science/quartz",
+    "https://www.metmuseum.org/art/collection/search/253527",
+    "https://www.metmuseum.org/art/collection/search/243704"
+  ]
+}

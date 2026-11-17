@@ -1,0 +1,148 @@
+{
+  "id": "200-the-phrase-first-water-began-with-diamonds",
+  "number": 200,
+  "title": "The phrase first water began with diamonds",
+  "topic": "first water phrase diamonds gem trade water meant clearness chambers 1753 arabic pericles 1607 river first water gia color scale 1953",
+  "music": "music-200.wav",
+  "hook": {
+    "text": "The phrase first water began with diamonds.",
+    "gold": [
+      "first",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The phrase first water began with diamonds.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfe9f5"
+      }
+    },
+    {
+      "text": "In the gem trade, water meant a stone's clearness.",
+      "scene": {
+        "kind": "title",
+        "text": "Water",
+        "sub": "Meant clearness"
+      }
+    },
+    {
+      "text": "A perfect diamond was the clearest drop of water.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe9f5",
+        "label": "Clearest drop"
+      }
+    },
+    {
+      "text": "There were three ranks, from first water down to third.",
+      "scene": {
+        "kind": "title",
+        "text": "3 ranks",
+        "sub": "First to third water"
+      }
+    },
+    {
+      "text": "Some think it came from Arabic, where water also means luster.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Maybe from Arabic"
+      }
+    },
+    {
+      "text": "Shakespeare wrote of diamonds of a most praised water around 1607.",
+      "say": "Shakespeare wrote of diamonds of a most praised water around sixteen oh seven.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Shakespeare",
+        "role": "Pericles, 1607",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#3a2f55",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "letter",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "By about 1800 people used it for anything the very best.",
+      "say": "By about eighteen hundred people used it for anything the very best.",
+      "scene": {
+        "kind": "title",
+        "text": "About 1800",
+        "sub": "Used for the best"
+      }
+    },
+    {
+      "text": "It even described crooks, like a swindler of the first water.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4a4a55",
+        "label": "Even for crooks"
+      }
+    },
+    {
+      "text": "Jewelers once called the most colorless diamonds river or first water.",
+      "scene": {
+        "kind": "title",
+        "text": "Colorless",
+        "sub": "River or first water"
+      }
+    },
+    {
+      "text": "GIA's D to Z color scale arrived in 1953.",
+      "say": "G I A's D to Z color scale arrived in nineteen fifty-three.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe9f5",
+        "label": "D to Z, 1953"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The phrase first water began with diamonds. In the gem trade, water meant a stone's clearness, and a perfect diamond was the clearest drop of water. There were three ranks, from first water down to third. Some think it came from Arabic, where water also means luster. Shakespeare wrote of diamonds of a most praised water around 1607. By about 1800 people used it for anything the very best, and it even described crooks, like a swindler of the first water. Jewelers once called the most colorless diamonds river or first water. GIA's D to Z color scale arrived in 1953.",
+    "hashtags": [
+      "#firstwater",
+      "#diamonds",
+      "#diamondgrading",
+      "#jewelryhistory",
+      "#wordorigins"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/First_water",
+    "https://www.phrases.org.uk/meanings/137550.html",
+    "https://www.grammarphobia.com/of-the-highest-order",
+    "https://wordsmith.org/words/first_water.html",
+    "https://www.etymonline.com/word/water",
+    "https://www.yourdictionary.com/first-water",
+    "https://www.dictionary.com/browse/of-the-first-water",
+    "https://monadnock.net/shakespeare/pericles.3.2.html",
+    "https://www.merriam-webster.com/dictionary/first%20water",
+    "https://4cs.gia.edu/?p=12120",
+    "https://www.rapaport.com/magazine-article/a-history-of-diamond-grading/",
+    "https://en.wiktionary.org/wiki/first_water"
+  ]
+}

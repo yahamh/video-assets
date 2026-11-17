@@ -1,0 +1,146 @@
+{
+  "id": "203-mens-wedding-rings-were-once-considered-odd",
+  "number": 203,
+  "title": "Men's wedding rings were once considered odd",
+  "topic": "men's wedding rings odd fortune 1947 ring twice signet graduation rings 1926 campaign soldiers world war ii 1944 trade ad double ring service 15 to 80 percent",
+  "music": "music-203.wav",
+  "hook": {
+    "text": "Men's wedding rings were once considered odd.",
+    "gold": [
+      "Men's",
+      "odd."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Men's wedding rings were once considered odd.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441"
+      }
+    },
+    {
+      "text": "Fortune magazine said so in 1947, in a piece called Ring Twice.",
+      "say": "Fortune magazine said so in nineteen forty-seven, in a piece called Ring Twice.",
+      "scene": {
+        "kind": "title",
+        "text": "Fortune",
+        "sub": "Ring Twice, 1947"
+      }
+    },
+    {
+      "text": "Men mostly wore signet and graduation rings instead.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Signet rings"
+      }
+    },
+    {
+      "text": "In 1926 an ad campaign for men's engagement rings flopped.",
+      "say": "In nineteen twenty-six an ad campaign for men's engagement rings flopped.",
+      "scene": {
+        "kind": "title",
+        "text": "1926",
+        "sub": "Men's engagement ring"
+      }
+    },
+    {
+      "text": "Many soldiers wore wedding rings in World War II to remember home.",
+      "say": "Many soldiers wore wedding rings in World War Two to remember home.",
+      "scene": {
+        "kind": "cast",
+        "setting": "street",
+        "name": "A soldier",
+        "role": "Wore his ring",
+        "cast": [
+          {
+            "outfit": "uniform",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "prop": "letter",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A 1944 ad showed a soldier with a ring reading a letter.",
+      "say": "A nineteen forty-four ad showed a soldier with a ring reading a letter.",
+      "scene": {
+        "kind": "title",
+        "text": "1944",
+        "sub": "A jewelry trade ad"
+      }
+    },
+    {
+      "text": "The jewelry industry promoted double ring weddings on radio and in schools.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5bb4e8",
+        "label": "Radio and schools"
+      }
+    },
+    {
+      "text": "Jewelers called the idea the double ring service.",
+      "scene": {
+        "kind": "title",
+        "text": "Double ring",
+        "sub": "The service"
+      }
+    },
+    {
+      "text": "Fortune counted double ring weddings rising from 15 to 80 percent.",
+      "say": "Fortune counted double ring weddings rising from fifteen to eighty percent.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "15 to 80 percent"
+      }
+    },
+    {
+      "text": "By the early 1950s a groom's ring was standard.",
+      "say": "By the early nineteen fifties a groom's ring was standard.",
+      "scene": {
+        "kind": "title",
+        "text": "Early 1950s",
+        "sub": "Standard groom's ring"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Men's wedding rings were once considered odd. Fortune magazine said so in 1947, in a piece called Ring Twice. Men mostly wore signet and graduation rings instead, and in 1926 an ad campaign for men's engagement rings flopped. Many soldiers wore wedding rings in World War II to remember home, and a 1944 ad showed a soldier with a ring reading a letter. The jewelry industry promoted double ring weddings on radio and in schools. Jewelers called the idea the double ring service. Fortune counted double ring weddings rising from 15 to 80 percent. By the early 1950s a groom's ring was standard.",
+    "hashtags": [
+      "#weddingring",
+      "#mensweddingband",
+      "#weddingrings",
+      "#jewelryhistory",
+      "#groom"
+    ]
+  },
+  "sources": [
+    "http://compschedule.pbworks.com/f/ARealMansRing.pdf",
+    "https://muse.jhu.edu/journals/journal_of_social_history/v036/36.4howard.html",
+    "https://daily.jstor.org/selling-the-mens-wedding-ring",
+    "https://m.startribune.com/wedding-rings-come-full-circle/120114694/",
+    "https://news.northwestern.edu/stories/2014/02/opinion-atlantic-zabell-mangagement",
+    "https://www.jckonline.com/magazine-article/evolution-of-wedding-industry/",
+    "https://4cs.gia.edu/en-us/blog/origin-of-wedding-rings/",
+    "https://collections.vam.ac.uk/item/O1364100",
+    "https://civilwarnews.com/issues/2020/december/wedding-rings/",
+    "https://nationaljeweler.com/articles/8807-the-history-behind-signet-rings"
+  ]
+}

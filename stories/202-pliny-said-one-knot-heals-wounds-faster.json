@@ -1,0 +1,164 @@
+{
+  "id": "202-pliny-said-one-knot-heals-wounds-faster",
+  "number": 202,
+  "title": "Pliny said one knot heals wounds faster",
+  "topic": "hercules knot herakles knot greek hellenistic gold diadem british museum 300 bce pliny wounds roman bride wool belt festus groom untied lion skin",
+  "style": "paper",
+  "plate": "Hercules knot",
+  "theme": "blush",
+  "music": "music-202.wav",
+  "hook": {
+    "text": "Pliny said one knot heals wounds faster.",
+    "gold": [
+      "Pliny",
+      "knot"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pliny said one knot heals wounds faster.",
+      "say": "PLIN-ee said one knot heals wounds faster.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It is called the Hercules knot, or the Herakles knot.",
+      "say": "It is called the Hercules knot, or the HAIR-uh-kleez knot.",
+      "scene": {
+        "kind": "title",
+        "text": "Hercules",
+        "sub": "Or Herakles knot",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Greek goldsmiths tied it into gold diadems and bracelets.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "shape": "round",
+        "tone": "#a3202e",
+        "metal": "yellow",
+        "label": "Gold diadems",
+        "velvet": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It was popular in jewelry by the 300s BCE.",
+      "say": "It was popular in jewelry by the three hundreds B C E.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Popular by 300s BCE",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A British Museum diadem with this knot is over 2,300 years old.",
+      "say": "A British Museum diadem with this knot is over twenty-three hundred years old.",
+      "scene": {
+        "kind": "title",
+        "text": "2,300 years",
+        "sub": "Old gold diadem",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Legend says Hercules knotted the paws of his lion skin.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Lion skin paws",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The Met says its popularity suggests a charm against evil.",
+      "scene": {
+        "kind": "title",
+        "text": "A charm",
+        "sub": "Against evil",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A Roman writer says brides wore a wool belt with this knot.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "A Roman bride",
+        "role": "Wool belt, this knot",
+        "cast": [
+          {
+            "outfit": "gown",
+            "outfitColor": "#f4e4d4",
+            "hair": "updo",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "none",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The groom untied it, which was meant as a good omen.",
+      "scene": {
+        "kind": "gift",
+        "stone": "round",
+        "tone": "#d9a441",
+        "to": "The groom",
+        "date": "A good omen",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Pliny wrote about it nearly 2,000 years ago.",
+      "say": "Pliny wrote about it nearly two thousand years ago.",
+      "scene": {
+        "kind": "title",
+        "text": "Pliny",
+        "sub": "Nearly 2,000 years ago",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pliny said one knot heals wounds faster. It is called the Hercules knot, or the Herakles knot, and Greek goldsmiths tied it into gold diadems and bracelets. It was popular in jewelry by the 300s BCE, and a British Museum diadem with this knot is over 2,300 years old. Legend says Hercules knotted the paws of his lion skin. The Met says its popularity suggests a charm against evil. A Roman writer says brides wore a wool belt with this knot, and the groom untied it, which was meant as a good omen. Pliny wrote about it nearly 2,000 years ago.",
+    "hashtags": [
+      "#herculesknot",
+      "#ancientjewelry",
+      "#greekjewelry",
+      "#diadem",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/toah/works-of-art/1999.209",
+    "https://art.thewalters.org/object/57.1541",
+    "https://www.britishmuseum.org/collection/object/G_1872-0604-815",
+    "https://www.metmuseum.org/art/collection/search/254978",
+    "https://collections.mfa.org/objects/113/necklace-clasp-in-the-form-of-a-herakles-knot",
+    "https://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892366338.pdf",
+    "https://archaeopresspublishing.com/ojs/index.php/JGA/article/download/585/245/7347",
+    "https://artsandculture.google.com/asset/gold-diadem-of-twisted-ribbons-with-a-herakles-knot/WgGdArSX4BEnGw",
+    "https://www.degruyterbrill.com/document/doi/10.1515/9783110711554-036/pdf",
+    "https://www.perseus.tufts.edu/hopper/text%3Fdoc=Perseus:text:1999.04.0063:id=cingulum-cn",
+    "https://store.metmuseum.org/herakles-knot-ring-egyptianknotring",
+    "https://ia600203.us.archive.org/7/items/naturalhistory08plinuoft/naturalhistory08plinuoft.pdf"
+  ]
+}

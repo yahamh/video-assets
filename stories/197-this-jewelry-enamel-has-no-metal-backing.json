@@ -1,0 +1,155 @@
+{
+  "id": "197-this-jewelry-enamel-has-no-metal-backing",
+  "number": 197,
+  "title": "This jewelry enamel has no metal backing",
+  "topic": "plique-a-jour enamel no backing open to light wires cells temporary backing acid dissolved stained glass miniature four months 1860s lalique paris 1900 norway",
+  "music": "music-197.wav",
+  "hook": {
+    "text": "This jewelry enamel has no metal backing.",
+    "gold": [
+      "no",
+      "backing."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This jewelry enamel has no metal backing.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#3fb6a8"
+      }
+    },
+    {
+      "text": "It is called plique-à-jour, which means open to light.",
+      "say": "It is called pleek ah ZHOOR, which means open to light.",
+      "scene": {
+        "kind": "title",
+        "text": "Open to light",
+        "sub": "Plique-à-jour"
+      }
+    },
+    {
+      "text": "Thin wires form tiny cells on a temporary backing.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Tiny wire cells"
+      }
+    },
+    {
+      "text": "Clear enamel is fused into the cells.",
+      "scene": {
+        "kind": "title",
+        "text": "Clear enamel",
+        "sub": "Fused into cells"
+      }
+    },
+    {
+      "text": "Then the backing is removed, sometimes by dissolving it in acid.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "Backing dissolved"
+      }
+    },
+    {
+      "text": "The result looks like a tiny stained glass window.",
+      "scene": {
+        "kind": "title",
+        "text": "Tiny window",
+        "sub": "Like stained glass"
+      }
+    },
+    {
+      "text": "Light can shine straight through the finished enamel.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3fb6a8",
+        "label": "Light shines through"
+      }
+    },
+    {
+      "text": "French jewelers rediscovered it in the 1860s.",
+      "say": "French jewelers rediscovered it in the eighteen sixties.",
+      "scene": {
+        "kind": "title",
+        "text": "Revived",
+        "sub": "French jewelers, 1860s"
+      }
+    },
+    {
+      "text": "René Lalique used it in jewelry around the year 1900.",
+      "say": "Ruh-NAY lah-LEEK used it in jewelry around the year nineteen hundred.",
+      "scene": {
+        "kind": "cast",
+        "setting": "workshop",
+        "name": "René Lalique",
+        "role": "Used it around 1900",
+        "cast": [
+          {
+            "outfit": "apron",
+            "hair": "short",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Norwegian firms showed it at the 1900 Paris exhibition.",
+      "say": "Norwegian firms showed it at the nineteen hundred Paris exhibition.",
+      "scene": {
+        "kind": "title",
+        "text": "Paris 1900",
+        "sub": "Norwegian firms"
+      }
+    },
+    {
+      "text": "A single piece can take up to four months.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2a8fb0",
+        "label": "Up to 4 months"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This jewelry enamel has no metal backing. It is called plique-à-jour, which means open to light. Thin wires form tiny cells on a temporary backing, and clear enamel is fused into the cells. Then the backing is removed, sometimes by dissolving it in acid. The result looks like a tiny stained glass window, and light can shine straight through the finished enamel. French jewelers rediscovered it in the 1860s. René Lalique used it in jewelry around the year 1900, and Norwegian firms showed it at the 1900 Paris exhibition. A single piece can take up to four months.",
+    "hashtags": [
+      "#pliqueajour",
+      "#enamel",
+      "#enameljewelry",
+      "#lalique",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/plique-a-jour",
+    "https://www.britannica.com/art/enamelwork/Introduction",
+    "https://www.merriam-webster.com/dictionary/plique-%C3%A0-jour",
+    "https://musee-lalique.com/en/?p=832",
+    "https://journal.thewalters.org/volume/78/note/fernand-thesmar/",
+    "https://en.wikipedia.org/wiki/Plique-%C3%A0-jour",
+    "https://www.thejewelleryeditor.com/glossary/plique-a-jour-enamel/",
+    "https://api.vam.ac.uk/v2/object/O93263",
+    "https://www.nasjonalmuseet.no/en/collection/object/OK-1992-0179",
+    "https://api.vam.ac.uk/v2/object/O296826",
+    "https://art.thewalters.org/detail/39518/orchid-comb/"
+  ]
+}
