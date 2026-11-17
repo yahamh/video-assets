@@ -1,0 +1,150 @@
+{
+  "id": "223-elizabeth-is-bracelet-held-a-clock",
+  "number": 223,
+  "title": "Elizabeth I's bracelet held a clock",
+  "topic": "wristwatch began as jewelry elizabeth i leicester armlet clock 1571 ledger gruen ad 1926 breguet caroline murat queen of naples 1810 patek philippe 1868 countess bracelet watch 1887 men world war",
+  "style": "paper",
+  "plate": "Bracelet watch",
+  "theme": "watercolor",
+  "music": "music-223.wav",
+  "hook": {
+    "text": "Elizabeth I's bracelet held a clock.",
+    "gold": [
+      "bracelet",
+      "clock."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Elizabeth I's bracelet held a clock.",
+      "say": "Elizabeth the First's bracelet held a clock.",
+      "scene": {
+        "kind": "hook",
+        "show": "bracelet",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A Tudor ledger lists an armlet with a clock in its clasp.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "metal": "yellow",
+        "label": "A clock in the clasp",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The Earl of Leicester gave it to her for New Year.",
+      "say": "The Earl of LESS-ter gave it to her for New Year.",
+      "scene": {
+        "kind": "title",
+        "text": "Leicester",
+        "sub": "A New Year's gift",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "The armlet is lost, and its famous picture is a 1926 ad.",
+      "say": "The armlet is lost, and its famous picture is a nineteen twenty six ad.",
+      "scene": {
+        "kind": "title",
+        "text": "1926",
+        "sub": "The famous picture",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In 1810 the Queen of Naples ordered a bracelet watch from Breguet.",
+      "say": "In eighteen ten the Queen of Naples ordered a bracelet watch from Bruh-GAY.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "metal": "yellow",
+        "label": "Queen of Naples, 1810",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Breguet finished it in 1812 on a woven hair and gold strap.",
+      "say": "Bruh-GAY finished it in eighteen twelve on a woven hair and gold strap.",
+      "scene": {
+        "kind": "title",
+        "text": "Hair and gold",
+        "sub": "A woven strap",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In 1868 Patek Philippe made a bracelet watch for a Hungarian countess.",
+      "say": "In eighteen sixty eight PAH-teck fee-LEEP made a bracelet watch for a Hungarian countess.",
+      "scene": {
+        "kind": "title",
+        "text": "1868",
+        "sub": "Patek Philippe",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A lid set with rose cut diamonds covered the watch.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "label": "Rose cut diamonds",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "By 1887 papers called gold bracelet watches a pretty and useful ornament.",
+      "say": "By eighteen eighty seven papers called gold bracelet watches a pretty and useful ornament.",
+      "scene": {
+        "kind": "reveal",
+        "item": "bracelet",
+        "metal": "yellow",
+        "label": "A pretty ornament",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Most men held out until the First World War.",
+      "scene": {
+        "kind": "title",
+        "text": "Most men",
+        "sub": "Held out until World War One",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Elizabeth I's bracelet held a clock. A Tudor ledger lists an armlet with a clock in its clasp. The Earl of Leicester gave it to her for New Year. The armlet is lost, and its famous picture is a 1926 ad. In 1810 the Queen of Naples ordered a bracelet watch from Breguet. Breguet finished it in 1812 on a woven hair and gold strap. In 1868 Patek Philippe made a bracelet watch for a Hungarian countess. A lid set with rose cut diamonds covered the watch. By 1887 papers called gold bracelet watches a pretty and useful ornament. Most men held out until the First World War.",
+    "hashtags": [
+      "#wristwatch",
+      "#watchhistory",
+      "#breguet",
+      "#patekphilippe",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://vgs-pbr-reviews.blogspot.com/2022/01/ledger-of-queen-elizabeths-jewel-house.html",
+    "https://link.springer.com/chapter/10.1007/978-1-349-62888-9_7",
+    "https://www.waterfordtreasures.com/?p=3030",
+    "https://www.vintagewatchstraps.com/wristwatchinvention.php",
+    "https://en.worldtempus.com/article/watches/trends-and-style/breguet-the-first-wristwatch-22869.html",
+    "https://www.revolution.watch/birth-of-a-masterpiece-a-look-at-the-original-archives-record-of-the-breguet-queen-of-naples/",
+    "https://breguet.com/en/breguet-house/1801-1823/first-purchase-caroline-murat-queen-naples",
+    "https://www.patek.com/en/manufacture/quality-and-fine-workmanship/bracelets",
+    "https://www.ahsoc.org/blog/taking-the-first-watch/",
+    "https://openers.jp/en/watch-and-jewelry/21811",
+    "https://www.thejewelleryeditor.com/images/patek-philippe-first-womens-wristwatch-1868",
+    "https://amhistory.si.edu/docs/Dennis_Stephens_Dillon_%20Revolution_on_Wrist_1997.pdf",
+    "https://www.fastcompany.com/3043175/how-world-war-i-sold-us-on-wristwatches"
+  ]
+}

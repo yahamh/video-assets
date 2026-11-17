@@ -1,0 +1,139 @@
+{
+  "id": "224-shwedagon-wears-a-queens-weight-in-gold",
+  "number": 224,
+  "title": "Shwedagon wears a queen's weight in gold",
+  "topic": "shwedagon pagoda yangon myanmar gold plates gold leaf queen shin sawbu weight in gold hti umbrella king mindon 1871 diamonds 76 carat",
+  "music": "music-224.wav",
+  "hook": {
+    "text": "Shwedagon wears a queen's weight in gold.",
+    "gold": [
+      "Shwedagon",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Shwedagon wears a queen's weight in gold.",
+      "say": "SHWAY-dah-gohn wears a queen's weight in gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "The Shwedagon Pagoda in Yangon, Myanmar, rises 99 meters.",
+      "say": "The SHWAY-dah-gohn Pagoda in yan-GOHN, Myanmar, rises ninety nine meters.",
+      "scene": {
+        "kind": "title",
+        "text": "Yangon",
+        "sub": "Shwedagon, 99 meters"
+      }
+    },
+    {
+      "text": "Legend calls it over 2,600 years old, though scholars date it later.",
+      "say": "Legend calls it over two thousand six hundred years old, though scholars date it later.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Legend: 2,600 years"
+      }
+    },
+    {
+      "text": "Real gold plates and gold leaf cover the whole pagoda.",
+      "scene": {
+        "kind": "title",
+        "text": "Real gold",
+        "sub": "Plates and gold leaf"
+      }
+    },
+    {
+      "text": "In the 15th century Queen Shin Sawbu gave her weight in gold.",
+      "say": "In the fifteenth century Queen shin SAW-boo gave her weight in gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Her weight in gold"
+      }
+    },
+    {
+      "text": "That was about 40 kilograms, beaten into gold leaf.",
+      "say": "That was about forty kilograms, beaten into gold leaf.",
+      "scene": {
+        "kind": "title",
+        "text": "About 40 kg",
+        "sub": "Beaten into gold leaf"
+      }
+    },
+    {
+      "text": "At the top sits the hti, an iron umbrella set with jewels.",
+      "say": "At the top sits the tee, an iron umbrella set with jewels.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "The hti"
+      }
+    },
+    {
+      "text": "King Mindon donated the current hti in 1871.",
+      "say": "King min-DOHN donated the current tee in eighteen seventy one.",
+      "scene": {
+        "kind": "title",
+        "text": "1871",
+        "sub": "King Mindon's gift"
+      }
+    },
+    {
+      "text": "It is set with more than 4,000 diamonds and many other gems.",
+      "say": "It is set with more than four thousand diamonds and many other gems.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "label": "4,000+ diamonds"
+      }
+    },
+    {
+      "text": "A diamond of about 76 carats sits at the very top.",
+      "say": "A diamond of about seventy six carats sits at the very top.",
+      "scene": {
+        "kind": "title",
+        "text": "76 carats",
+        "sub": "The diamond at the top"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Shwedagon wears a queen's weight in gold. The Shwedagon Pagoda in Yangon, Myanmar, rises 99 meters. Legend calls it over 2,600 years old, though scholars date it later. Real gold plates and gold leaf cover the whole pagoda. In the 15th century Queen Shin Sawbu gave her weight in gold. That was about 40 kilograms, beaten into gold leaf. At the top sits the hti, an iron umbrella set with jewels. King Mindon donated the current hti in 1871. It is set with more than 4,000 diamonds and many other gems. A diamond of about 76 carats sits at the very top.",
+    "hashtags": [
+      "#shwedagon",
+      "#myanmar",
+      "#goldpagoda",
+      "#yangon",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/place/Yangon",
+    "https://whc.unesco.org/en/tentativelists/6367/",
+    "https://www.lonelyplanet.com/myanmar-burma/yangon-rangoon/attractions/shwedagon-paya/a/poi-sig/1092872/357104",
+    "https://www.victorianweb.org/victorian/history/empire/burma/pagoda/80.html",
+    "https://www.ycdc.gov.mm/frontend_about_yangon/2",
+    "https://lostfootsteps.org/en/history/king-mindons-donation-of-hti-for-the-shwedagon",
+    "https://andrewharper.com/?p=13888",
+    "https://current.seabourn.com/article/exploring-the-shwedagon-pagoda",
+    "https://myanmarupperland.com/diamond-orb",
+    "https://southeastasianarchaeology.com/?p=711"
+  ]
+}

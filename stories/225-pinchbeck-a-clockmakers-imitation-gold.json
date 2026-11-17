@@ -1,0 +1,138 @@
+{
+  "id": "225-pinchbeck-a-clockmakers-imitation-gold",
+  "number": 225,
+  "title": "Pinchbeck: a clockmaker's imitation gold",
+  "topic": "pinchbeck imitation gold alloy copper zinc christopher pinchbeck london clockmaker 1732 son edward word sham 1790s",
+  "style": "lowpoly",
+  "music": "music-225.wav",
+  "hook": {
+    "text": "Pinchbeck: a clockmaker's imitation gold.",
+    "gold": [
+      "Pinchbeck:",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pinchbeck: a clockmaker's imitation gold.",
+      "say": "PINCH-bek, a clockmaker's imitation gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#c9963a"
+      }
+    },
+    {
+      "text": "Christopher Pinchbeck was a London clockmaker who died in 1732.",
+      "say": "Christopher PINCH-bek was a London clockmaker who died in seventeen thirty two.",
+      "scene": {
+        "kind": "title",
+        "text": "London",
+        "sub": "Clockmaker, died 1732"
+      }
+    },
+    {
+      "text": "His Fleet Street shop sold clocks and musical automata.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Musical automata"
+      }
+    },
+    {
+      "text": "He is credited with a copper and zinc alloy that imitated gold.",
+      "scene": {
+        "kind": "title",
+        "text": "An alloy",
+        "sub": "Copper and zinc"
+      }
+    },
+    {
+      "text": "It was mostly copper with some zinc, and far cheaper than gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c8743a",
+        "label": "Mostly copper"
+      }
+    },
+    {
+      "text": "Makers used it for watch cases and snuff boxes.",
+      "scene": {
+        "kind": "title",
+        "text": "Watch cases",
+        "sub": "And snuff boxes"
+      }
+    },
+    {
+      "text": "It stayed bright for a good while but darkens with age.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a6a2a",
+        "label": "Darkens with age"
+      }
+    },
+    {
+      "text": "After 1732 his son Edward carried on selling the metal.",
+      "say": "After seventeen thirty two his son Edward carried on selling the metal.",
+      "scene": {
+        "kind": "title",
+        "text": "Edward",
+        "sub": "His son carried on"
+      }
+    },
+    {
+      "text": "The word pinchbeck is first recorded in the 1730s.",
+      "say": "The word PINCH-bek is first recorded in the seventeen thirties.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "First recorded: 1730s"
+      }
+    },
+    {
+      "text": "It did not come to mean sham until the 1790s.",
+      "say": "It did not come to mean sham until the seventeen nineties.",
+      "scene": {
+        "kind": "title",
+        "text": "Sham",
+        "sub": "Only by the 1790s"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pinchbeck: a clockmaker's imitation gold. Christopher Pinchbeck was a London clockmaker who died in 1732. His Fleet Street shop sold clocks and musical automata. He is credited with a copper and zinc alloy that imitated gold. It was mostly copper with some zinc, and far cheaper than gold. Makers used it for watch cases and snuff boxes. It stayed bright for a good while but darkens with age. After 1732 his son Edward carried on selling the metal. The word pinchbeck is first recorded in the 1730s. It did not come to mean sham until the 1790s.",
+    "hashtags": [
+      "#pinchbeck",
+      "#antiquejewelry",
+      "#georgianjewelry",
+      "#clockmaker",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/Dictionary_of_National_Biography%2C_1885-1900/Pinchbeck%2C_Christopher",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co65458/christopher-pinchbeck",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co8558511/longcase-clock-with-tidal-dial-by-christopher-pinchbeck",
+    "https://www.worldwidewords.org/ww-pin1.html",
+    "https://collections.vam.ac.uk/item/O77943/chatelaine-unknown/",
+    "https://cameo.mfa.org/wiki/Pinchbeck",
+    "https://www.merriam-webster.com/word-of-the-day/pinchbeck-2013-07-31",
+    "https://www.merriam-webster.com/dictionary/pinchbeck",
+    "https://www.etymonline.com/word/pinchbeck",
+    "https://www.dictionary.com/browse/Pinchbeck",
+    "https://www.925-1000.com/forum/viewtopic.php?p=78847",
+    "https://chestofbooks.com/reference/The-Domestic-Encyclopaedia-Vol3/Pinchbeck.html"
+  ]
+}

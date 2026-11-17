@@ -1,0 +1,153 @@
+{
+  "id": "226-georgian-gems-hid-tinted-foil-underneath",
+  "number": 226,
+  "title": "Georgian gems hid tinted foil underneath",
+  "topic": "georgian jewelry britain 1714 closed back settings foil backed gemstones tinted copper silver foil candlelight damp ruined open backs",
+  "style": "paper",
+  "plate": "Foil backed",
+  "theme": "mint",
+  "music": "music-226.wav",
+  "hook": {
+    "text": "Georgian gems hid tinted foil underneath.",
+    "gold": [
+      "Georgian",
+      "foil"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Georgian gems hid tinted foil underneath.",
+      "say": "JOR-jun gems hid tinted foil underneath.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#a3202e",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Georgian jewelry in Britain dates from 1714 to the 1830s.",
+      "say": "JOR-jun jewelry in Britain dates from seventeen fourteen to the eighteen thirties.",
+      "scene": {
+        "kind": "title",
+        "text": "Georgian",
+        "sub": "Britain from 1714",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Gems were usually set in cups closed at the back.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "shape": "oval",
+        "tone": "#a3202e",
+        "metal": "yellow",
+        "label": "Closed back",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Behind many stones went a thin sheet of metal foil.",
+      "scene": {
+        "kind": "title",
+        "text": "Foil",
+        "sub": "Behind the stone",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Tinted copper foil deepened colored stones and silver foil brightened diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#a3202e",
+        "label": "Tinted copper foil",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The closed cup held the foil in place and kept it safe.",
+      "scene": {
+        "kind": "title",
+        "text": "Closed cup",
+        "sub": "Keeps the foil safe",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "At the Met, a garnet piece has pink foil to enhance color.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#a3202e",
+        "metal": "yellow",
+        "label": "Pink foil, the Met",
+        "velvet": "#a98be0",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Foil under stones was meant to make them sparkle by candlelight.",
+      "scene": {
+        "kind": "title",
+        "text": "Candlelight",
+        "sub": "Meant to sparkle",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "But damp could ruin the foil and leave a dull look.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#8f8f8f",
+        "label": "Damp ruined foil",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Later, open backs replaced foil, mostly in the 1800s.",
+      "say": "Later, open backs replaced foil, mostly in the eighteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Open backs",
+        "sub": "Replaced foil later",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Georgian gems hid tinted foil underneath. Georgian jewelry in Britain dates from 1714 to the 1830s. Gems were usually set in cups closed at the back. Behind many stones went a thin sheet of metal foil. Tinted copper foil deepened colored stones and silver foil brightened diamonds. The closed cup held the foil in place and kept it safe. At the Met, a garnet piece has pink foil to enhance color. Foil under stones was meant to make them sparkle by candlelight. But damp could ruin the foil and leave a dull look. Later, open backs replaced foil, mostly in the 1800s.",
+    "hashtags": [
+      "#georgianjewelry",
+      "#antiquejewelry",
+      "#foilback",
+      "#candlelight",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.themagazineantiques.com/?p=11075",
+    "https://www.antiquejewellerycompany.com/a-guide-to-georgian-jewellery/",
+    "https://langantiques.com/university/Foil",
+    "https://www.antiquejewellerycompany.com/us/glossary/foil-backed/",
+    "https://www.antiquejewel.com/glossary/foil",
+    "https://www.langantiques.com/university/georgian-jewelry-1714-1837/",
+    "https://www.metmuseum.org/art/collection/search/848181",
+    "https://emuseum.colonialwilliamsburg.org/objects/10187/brooch",
+    "https://collections.vam.ac.uk/item/O73252/earring-unknown",
+    "https://www.gemsociety.org/article/georgian-period-jewelry/",
+    "https://www.bada.org/news/discovering-georgian-jewellery",
+    "https://collections.vam.ac.uk/item/O374202/ring-unknown",
+    "https://victorianweb.org/art/design/jewelry/gere/8.html"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "230-idar-obersteins-cutters-worked-lying-down",
+  "number": 230,
+  "title": "Idar-Oberstein's cutters worked lying down",
+  "topic": "idar-oberstein germany gem cutting agate sandstone wheels lying benches water mill 1754 brazil 1834 amethyst steinkaulenberg mine",
+  "music": "music-230.wav",
+  "hook": {
+    "text": "Idar-Oberstein's cutters worked lying down.",
+    "gold": [
+      "cutters",
+      "lying"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Idar-Oberstein's cutters worked lying down.",
+      "say": "EE-dar OH-ber-shtine's cutters worked lying down.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough"
+      }
+    },
+    {
+      "text": "Idar-Oberstein is a German town famous for cutting gems.",
+      "say": "EE-dar OH-ber-shtine is a German town famous for cutting gems.",
+      "scene": {
+        "kind": "title",
+        "text": "Gem town",
+        "sub": "Idar-Oberstein"
+      }
+    },
+    {
+      "text": "Local agate finds were first mentioned in the 1370s.",
+      "say": "Local agate finds were first mentioned in the thirteen seventies.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c58a5a",
+        "label": "Agate, 1370s"
+      }
+    },
+    {
+      "text": "Rivers turned sandstone wheels that ground the agate.",
+      "scene": {
+        "kind": "title",
+        "text": "Water power",
+        "sub": "Sandstone wheels"
+      }
+    },
+    {
+      "text": "Cutters lay on tilted wooden benches facing the wheel.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c58a5a",
+        "label": "Lying on benches"
+      }
+    },
+    {
+      "text": "A water wheel mill from 1754 ran until 1945.",
+      "say": "A water wheel mill from seventeen fifty four ran until nineteen forty five.",
+      "scene": {
+        "kind": "title",
+        "text": "1754 mill",
+        "sub": "Ran until 1945"
+      }
+    },
+    {
+      "text": "Local emigrants found huge agate deposits in Brazil in the 1820s.",
+      "say": "Local emigrants found huge agate deposits in Brazil in the eighteen twenties.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c58a5a",
+        "label": "Brazil, 1820s"
+      }
+    },
+    {
+      "text": "The first Brazilian shipment reached Idar in 1834 and started a boom.",
+      "say": "The first Brazilian shipment reached EE-dar in eighteen thirty four and started a boom.",
+      "scene": {
+        "kind": "title",
+        "text": "1834",
+        "sub": "First Brazil shipment"
+      }
+    },
+    {
+      "text": "Brazil also sent amethyst and other colored stones.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9b6fd0",
+        "label": "Brazilian amethyst"
+      }
+    },
+    {
+      "text": "That made the town a center for colored stones.",
+      "scene": {
+        "kind": "title",
+        "text": "A center",
+        "sub": "For colored stones"
+      }
+    },
+    {
+      "text": "Visitors can walk about 400 meters of the Steinkaulenberg gem mine.",
+      "say": "Visitors can walk about four hundred meters of the SHTINE-kow-len-bairk gem mine.",
+      "scene": {
+        "kind": "title",
+        "text": "400 meters",
+        "sub": "Steinkaulenberg"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Idar-Oberstein's cutters worked lying down. Idar-Oberstein is a German town famous for cutting gems. Local agate finds were first mentioned in the 1370s. Rivers turned sandstone wheels that ground the agate. Cutters lay on tilted wooden benches facing the wheel. A water wheel mill from 1754 ran until 1945. Local emigrants found huge agate deposits in Brazil in the 1820s. The first Brazilian shipment reached Idar in 1834 and started a boom. Brazil also sent amethyst and other colored stones. That made the town a center for colored stones. Visitors can walk about 400 meters of the Steinkaulenberg gem mine.",
+    "hashtags": [
+      "#idaroberstein",
+      "#gemcutting",
+      "#agate",
+      "#amethyst",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://lpb.rlp.de/fileadmin/files/Blaetter_zum_Land/Idar-Oberstein.pdf",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-345315",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-344731",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-345226",
+    "https://www.idar-oberstein.de/",
+    "https://www.gia.edu/gems-gemology/winter-2017-gem-virtuosos",
+    "https://www.gemselect.com/other-info/idar-oberstein.php",
+    "https://maps.adac.de/poi/historische-weiherschleife-idar-oberstein",
+    "https://www.gemporia.com/en-gb/gemology-hub/article/1469/the-story-of-idar-oberstein/",
+    "https://www.museum.de/en/museen/edelsteinmine-steinkaulenberg",
+    "https://www.dgemg.com/"
+  ]
+}

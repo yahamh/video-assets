@@ -1,0 +1,153 @@
+{
+  "id": "229-pounamu-pendants-were-once-carved-with-stone",
+  "number": 229,
+  "title": "Pounamu pendants were once carved with stone",
+  "topic": "pounamu greenstone nephrite south island te wai pounamu sandstone cord drill adze blades mana hei matau maui north island",
+  "style": "paper",
+  "plate": "Pounamu",
+  "theme": "cream",
+  "music": "music-229.wav",
+  "hook": {
+    "text": "Pounamu pendants were once carved with stone.",
+    "gold": [
+      "Pounamu",
+      "stone."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pounamu pendants were once carved with stone.",
+      "say": "POH-nah-moo pendants were once carved with stone.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#3f8f6a",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Pounamu is the Māori name for New Zealand greenstone.",
+      "say": "POH-nah-moo is the MOW-ree name for New Zealand greenstone.",
+      "scene": {
+        "kind": "title",
+        "text": "Pounamu",
+        "sub": "New Zealand greenstone",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It is mostly nephrite, found only in the South Island.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3f8f6a",
+        "label": "Mostly nephrite",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The island's Māori name is Te Wai Pounamu, the greenstone waters.",
+      "say": "The island's MOW-ree name is teh WHY poh-NAH-moo, the greenstone waters.",
+      "scene": {
+        "kind": "title",
+        "text": "Island",
+        "sub": "Te Wai Pounamu",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Carvers ground it by hand with sandstone and water.",
+      "scene": {
+        "kind": "title",
+        "text": "By hand",
+        "sub": "Sandstone and water",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Holes were bored with a cord drill tipped with stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3f8f6a",
+        "label": "Stone tipped cord drill",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Some pendants were made from old adze blades.",
+      "scene": {
+        "kind": "title",
+        "text": "Old adzes",
+        "sub": "Made into pendants",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Passed down in families, a pendant gains mana, or prestige, with age.",
+      "say": "Passed down in families, a pendant gains MAH-nah, or prestige, with age.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3f8f6a",
+        "label": "Gains mana with age",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "A hei matau is a pendant shaped like a fish hook.",
+      "say": "A hay MAH-tow is a pendant shaped like a fish hook.",
+      "scene": {
+        "kind": "title",
+        "text": "Hei matau",
+        "sub": "A fish hook pendant",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Legend links the shape to Māui, who fished up the North Island.",
+      "say": "Legend links the shape to MOW-ee, who fished up the North Island.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3f8f6a",
+        "label": "Māui's North Island",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pounamu pendants were once carved with stone. Pounamu is the Māori name for New Zealand greenstone. It is mostly nephrite, found only in the South Island. The island's Māori name is Te Wai Pounamu, the greenstone waters. Carvers ground it by hand with sandstone and water. Holes were bored with a cord drill tipped with stone. Some pendants were made from old adze blades. Passed down in families, a pendant gains mana, or prestige, with age. A hei matau is a pendant shaped like a fish hook. Legend links the shape to Māui, who fished up the North Island.",
+    "hashtags": [
+      "#pounamu",
+      "#greenstone",
+      "#newzealand",
+      "#heimatau",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://teara.govt.nz/en/pounamu-jade-or-greenstone/page-1",
+    "https://www.britannica.com/art/hei-tiki",
+    "https://www.newzealand.com/nz/feature/new-zealand-greenstone/",
+    "https://teara.govt.nz/en/map/7649",
+    "https://www.legislation.govt.nz/act/public/1997/81/en/latest/",
+    "https://collections.tepapa.govt.nz/object/49921",
+    "https://teara.govt.nz/en/kohatu-maori-use-of-stone/page-2",
+    "https://collection.tamuseum.org.nz/objects/1591/wiri",
+    "https://artsandculture.google.com/",
+    "https://collections.tepapa.govt.nz/topic/1985",
+    "https://collections.tepapa.govt.nz/topic/1973",
+    "https://collections.tepapa.govt.nz/topic/3196",
+    "https://teara.govt.nz/en/object/41020/hei-matau-neck-pendant"
+  ]
+}

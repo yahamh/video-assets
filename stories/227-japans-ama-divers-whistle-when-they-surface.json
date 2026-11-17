@@ -1,0 +1,140 @@
+{
+  "id": "227-japans-ama-divers-whistle-when-they-surface",
+  "number": 227,
+  "title": "Japan's ama divers whistle when they surface",
+  "topic": "ama divers japan isobue whistle 100 soundscapes abalone mikimoto pearls 1893 pearl island 1951 folk cultural property 2017",
+  "music": "music-227.wav",
+  "hook": {
+    "text": "Japan's ama divers whistle when they surface.",
+    "gold": [
+      "ama",
+      "whistle"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Japan's ama divers whistle when they surface.",
+      "say": "Japan's AH-mah divers whistle when they surface.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl"
+      }
+    },
+    {
+      "text": "Their whistle, isobue, made Japan's list of 100 soundscapes in 1996.",
+      "say": "Their whistle, ee-SOH-boo-eh, made Japan's list of one hundred soundscapes in nineteen ninety six.",
+      "scene": {
+        "kind": "title",
+        "text": "Isobue",
+        "sub": "Japan's 100 sounds"
+      }
+    },
+    {
+      "text": "Ama diving is said to be about 2,000 years old.",
+      "say": "AH-mah diving is said to be about two thousand years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f4efe6",
+        "label": "About 2,000 years"
+      }
+    },
+    {
+      "text": "One dive lasts about a minute and reaches around 20 meters.",
+      "say": "One dive lasts about a minute and reaches around twenty meters.",
+      "scene": {
+        "kind": "title",
+        "text": "One minute",
+        "sub": "Down to 20 meters"
+      }
+    },
+    {
+      "text": "Many ama still decline air tanks, partly to avoid overfishing.",
+      "say": "Many AH-mah still decline air tanks, partly to avoid overfishing.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe6f2",
+        "label": "No air tanks"
+      }
+    },
+    {
+      "text": "Abalone is their most important catch.",
+      "scene": {
+        "kind": "title",
+        "text": "Abalone",
+        "sub": "Their top catch"
+      }
+    },
+    {
+      "text": "In 1893 Kokichi Mikimoto first succeeded in growing pearls.",
+      "say": "In eighteen ninety three Kokichi MEE-kee-moh-toh first succeeded in growing pearls.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "shape": "round",
+        "tone": "#f4efe6",
+        "metal": "yellow",
+        "label": "Grown pearls, 1893"
+      }
+    },
+    {
+      "text": "Ama brought up the oysters and put them back after seeding.",
+      "say": "AH-mah brought up the oysters and put them back after seeding.",
+      "scene": {
+        "kind": "title",
+        "text": "Oysters",
+        "sub": "Seeded, then put back"
+      }
+    },
+    {
+      "text": "Mikimoto Pearl Island opened in 1951 with daily ama dives.",
+      "say": "MEE-kee-moh-toh Pearl Island opened in nineteen fifty one with daily AH-mah dives.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f4efe6",
+        "label": "Pearl Island, 1951"
+      }
+    },
+    {
+      "text": "In 2017 Japan named ama diving an important folk cultural property.",
+      "say": "In twenty seventeen Japan named AH-mah diving an important folk cultural property.",
+      "scene": {
+        "kind": "title",
+        "text": "2017",
+        "sub": "Folk cultural property"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Japan's ama divers whistle when they surface. Their whistle, isobue, made Japan's list of 100 soundscapes in 1996. Ama diving is said to be about 2,000 years old. One dive lasts about a minute and reaches around 20 meters. Many ama still decline air tanks, partly to avoid overfishing. Abalone is their most important catch. In 1893 Kokichi Mikimoto first succeeded in growing pearls. Ama brought up the oysters and put them back after seeding. Mikimoto Pearl Island opened in 1951 with daily ama dives. In 2017 Japan named ama diving an important folk cultural property.",
+    "hashtags": [
+      "#amadivers",
+      "#japan",
+      "#pearls",
+      "#mikimoto",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.lonelyplanet.com/articles/ama-divers-of-mie-japan",
+    "https://japanupclose.web-japan.org/techculture/c20230728_2.html",
+    "https://www.spf.org/en/opri/newsletter/415_3.html",
+    "https://toba.gr.jp/en/",
+    "https://www.mlit.go.jp/tagengo-db/en/R2-00747.html",
+    "https://www.mlit.go.jp/tagengo-db/en/R1-02384.html",
+    "https://www.mikimoto-pearl-island.jp/en",
+    "https://soranews24.com/2016/05/14/",
+    "https://www.kankomie.or.jp/spot/3180",
+    "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201112/201112_13.html",
+    "https://www.bunka.pref.mie.lg.jp/common/content/000879725.pdf"
+  ]
+}

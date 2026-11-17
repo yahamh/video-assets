@@ -1,0 +1,150 @@
+{
+  "id": "228-filigrees-name-means-thread-and-grain",
+  "number": 228,
+  "title": "Filigree's name means thread and grain",
+  "topic": "filigree etymology latin filum granum thread grain wire soldered granulation mesopotamia etruscan viking malta silver",
+  "style": "lowpoly",
+  "music": "music-228.wav",
+  "hook": {
+    "text": "Filigree's name means thread and grain.",
+    "gold": [
+      "thread",
+      "grain."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Filigree's name means thread and grain.",
+      "say": "FIL-ih-gree's name means thread and grain.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441"
+      }
+    },
+    {
+      "text": "It comes from Latin filum for thread and granum for grain.",
+      "say": "It comes from Latin FEE-lum for thread and GRAH-num for grain.",
+      "scene": {
+        "kind": "title",
+        "text": "Latin roots",
+        "sub": "Filum and granum"
+      }
+    },
+    {
+      "text": "Filigree is fine gold or silver wire twisted and curled into lace.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Fine wire, curled"
+      }
+    },
+    {
+      "text": "The threads are soldered where they touch.",
+      "scene": {
+        "kind": "title",
+        "text": "Soldered",
+        "sub": "Where threads touch"
+      }
+    },
+    {
+      "text": "The wire can be a fraction of a millimeter thick.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Under 1 millimeter"
+      }
+    },
+    {
+      "text": "Granulation adds tiny balls of gold soldered to the surface.",
+      "scene": {
+        "kind": "title",
+        "text": "Granulation",
+        "sub": "Tiny soldered balls"
+      }
+    },
+    {
+      "text": "Mesopotamian goldsmiths made similar wire and bead work over 4,000 years ago.",
+      "say": "Mesopotamian goldsmiths made similar wire and bead work over four thousand years ago.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Mesopotamia"
+      }
+    },
+    {
+      "text": "Etruscan goldsmiths in Italy used it by the 5th century BCE.",
+      "say": "Etruscan goldsmiths in Italy used it by the fifth century B-C-E.",
+      "scene": {
+        "kind": "title",
+        "text": "Etruscans",
+        "sub": "Italy, 5th century BCE"
+      }
+    },
+    {
+      "text": "Viking goldsmiths used it on brooches and pendants.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Viking brooches"
+      }
+    },
+    {
+      "text": "Malta still makes filigree, mostly in silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9ced6",
+        "label": "Malta, mostly silver"
+      }
+    },
+    {
+      "text": "Maltese filigree often forms crosses and hearts.",
+      "scene": {
+        "kind": "title",
+        "text": "Malta",
+        "sub": "Crosses and hearts"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Filigree's name means thread and grain. It comes from Latin filum for thread and granum for grain. Filigree is fine gold or silver wire twisted and curled into lace. The threads are soldered where they touch. The wire can be a fraction of a millimeter thick. Granulation adds tiny balls of gold soldered to the surface. Mesopotamian goldsmiths made similar wire and bead work over 4,000 years ago. Etruscan goldsmiths in Italy used it by the 5th century BCE. Viking goldsmiths used it on brooches and pendants. Malta still makes filigree, mostly in silver. Maltese filigree often forms crosses and hearts.",
+    "hashtags": [
+      "#filigree",
+      "#goldsmith",
+      "#maltesefiligree",
+      "#vikingjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/filigree",
+    "https://www.britannica.com/art/granulation",
+    "https://www.etymonline.com/word/filigree",
+    "https://www.merriam-webster.com/dictionary/filigree",
+    "https://www.metmuseum.org/art/collection/search/245878",
+    "https://www.metmuseum.org/art/collection/search/256976",
+    "https://www.metmuseum.org/art/collection/search/322907",
+    "https://www.ganoksin.com/borisat/nenam/filigree1.htm",
+    "https://blog.holyart.it/com/?p=5766",
+    "https://en.natmus.dk/",
+    "https://historiska.se/en/explore-history/history-hub/iron-age-gold-hoards/",
+    "https://www.guidememalta.com/",
+    "https://www.independent.com.mt/articles/2016-04-12/"
+  ]
+}

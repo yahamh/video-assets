@@ -1,0 +1,182 @@
+{
+  "id": "lesson-032-sapphire-hardness",
+  "series": "lesson",
+  "number": 32,
+  "title": "How hard a sapphire is",
+  "topic": "sapphire hardness mohs scale 9 toughness corundum",
+  "music": "music-lesson-032.wav",
+  "hook": {
+    "text": "Sapphire scores 9 on the Mohs scale.",
+    "gold": [
+      "Sapphire",
+      "9"
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sapphire scores 9 on the Mohs scale.",
+      "say": "Sapphire scores nine on the MOHZ scale.",
+      "scene": {
+        "kind": "compare",
+        "before": "cad-wireframe.webp",
+        "after": "cad-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "The Mohs scale ranks scratch resistance with diamond at 10.",
+      "say": "The MOHZ scale ranks scratch resistance with diamond at ten.",
+      "scene": {
+        "kind": "title",
+        "text": "10",
+        "sub": "Diamond tops the scale"
+      }
+    },
+    {
+      "text": "Only diamond and lab-made moissanite are harder.",
+      "say": "Only diamond and lab-made MOY-sah-nite are harder.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "label": "Pear sapphire",
+        "focus": {
+          "x": 0.5,
+          "y": 0.58,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "Sapphire also has no cleavage and excellent toughness.",
+      "scene": {
+        "kind": "title",
+        "text": "Excellent",
+        "sub": "Toughness, no cleavage"
+      }
+    },
+    {
+      "text": "Some stones can part along twin planes so it can still break.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "label": "Twin planes",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.4
+        }
+      }
+    },
+    {
+      "text": "Ruby is red corundum and every other color is sapphire.",
+      "scene": {
+        "kind": "title",
+        "text": "Ruby is red",
+        "sub": "Others are sapphire"
+      }
+    },
+    {
+      "text": "Iron and titanium make it blue and chromium makes ruby red.",
+      "scene": {
+        "kind": "photo",
+        "src": "signet-render.webp",
+        "label": "Iron and titanium",
+        "focus": {
+          "x": 0.5,
+          "y": 0.3,
+          "k": 1.8
+        }
+      }
+    },
+    {
+      "text": "Most sapphires are heat treated, which is accepted when disclosed.",
+      "scene": {
+        "kind": "title",
+        "text": "Heat treated",
+        "sub": "Accepted if disclosed"
+      }
+    },
+    {
+      "text": "Sri Lanka and Myanmar are classic sources of September's birthstone.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "cad-render.webp",
+          "signet-render.webp",
+          "pendant-pear-render.webp"
+        ],
+        "labels": [
+          "Solitaire",
+          "Band",
+          "Pendant"
+        ],
+        "label": "September birthstone"
+      }
+    },
+    {
+      "text": "So a 9 on Mohs plus real toughness suits everyday rings.",
+      "say": "So a nine on MOHZ plus real toughness suits everyday rings.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 9",
+        "sub": "Suits everyday rings"
+      }
+    },
+    {
+      "text": "A render shows a client the sapphire's color in the design,",
+      "scene": {
+        "kind": "compare",
+        "before": "signet-cad.webp",
+        "after": "signet-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before the stone is set.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.05
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: how hard is a sapphire",
+    "caption": "Sapphire scores 9 on the Mohs scale, just below diamond at 10, and only diamond and lab-made moissanite are harder. It has no cleavage and excellent toughness, though some stones can part along twin planes. Ruby is red corundum and every other color is sapphire, and most sapphires are heat treated, which is accepted when disclosed. A render shows a client the sapphire's color in the design, before the stone is set. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#sapphire",
+      "#mohsscale",
+      "#gemstones",
+      "#jewelrymaking",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/sapphire-description",
+    "https://www.gia.edu/sapphire/gem-overview",
+    "https://www.gia.edu/sapphire-care-cleaning",
+    "https://www.gia.edu/gia-website/sapphire/buyers-guide",
+    "https://www.gia.edu/sapphire-history-lore",
+    "https://www.britannica.com/science/corundum",
+    "https://www.britannica.com/topic/sapphire-gemstone",
+    "https://www.britannica.com/science/Mohs-hardness",
+    "https://naturalhistory.si.edu/node/14124",
+    "https://www.jewelers.org/education/gemstone-guide/629-sapphire/",
+    "https://gem-a.com/gem-hub/common-corundum-treatments/",
+    "https://www.geo.utexas.edu/courses/347k/redesign/Gem_Notes/Corundum/corundum_main.htm",
+    "https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.03%3A_Corundum/16.3.02%3A_Sapphire",
+    "https://www.mindat.org/min-2743.html",
+    "https://4cs.gia.edu/en-us/blog/what-are-simulated-diamonds/",
+    "https://www.etymonline.com/word/sapphire"
+  ]
+}
