@@ -2692,7 +2692,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2215622986026120",
+      "instagram": "https://www.instagram.com/reel/Df1dHPCnB5m/",
+      "youtube": "https://www.youtube.com/watch?v=k-Q9oji0KQ0"
+    }
   },
   "181-a-wedding-gift-began-sweetheart-brooches": {
     "at": "2026-11-17T09:30:00Z",
@@ -2701,7 +2707,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29204209469231840",
+      "instagram": "https://www.instagram.com/reel/Df1najzCu62/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709070623699406088"
+    }
   },
   "182-some-herkimer-diamonds-hold-hardened-petroleum": {
     "at": "2026-11-17T10:30:00Z",
@@ -2710,7 +2722,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1129322389822567",
+      "instagram": "https://www.instagram.com/reel/Df1uXN9jqMt/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709086280641989895"
+    }
   },
   "183-miners-reportedly-used-diamonds-as-game-tokens": {
     "at": "2026-11-17T15:00:00Z",
@@ -2830,7 +2848,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1606787010740478",
+      "instagram": "https://www.instagram.com/reel/Df1gdJ3AXsV/"
+    }
   },
   "197-this-jewelry-enamel-has-no-metal-backing": {
     "at": "2026-11-17T09:00:00Z",
@@ -2838,7 +2861,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1848047836387406",
+      "instagram": "https://www.instagram.com/reel/Df1j3RwivYz/"
+    }
   },
   "198-olympic-gold-medals-are-mostly-silver": {
     "at": "2026-11-17T10:00:00Z",
@@ -2847,7 +2875,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1124956690345529",
+      "instagram": "https://www.instagram.com/reel/Df1q_eQnD0M/",
+      "youtube": "https://www.youtube.com/watch?v=zaNSD-BijbI"
+    }
   },
   "199-the-word-crystal-once-meant-ice": {
     "at": "2026-11-18T00:00:00Z",
@@ -2892,6 +2926,79 @@
   "204-a-royal-crowns-jewels-were-once-rented": {
     "at": "2026-11-18T08:30:00Z",
     "zernio_id": "6afbdeec0a3ae7b42e115280",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "205-durer-trained-as-a-goldsmith-first": {
+    "at": "2026-11-18T09:00:00Z",
+    "zernio_id": "6afc318d5dfe9ffb824b7831",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "206-a-hole-in-a-ring-tells-time": {
+    "at": "2026-11-18T10:00:00Z",
+    "zernio_id": "6afc319ae7adf6c934fdea8d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "207-egyptian-gods-had-silver-bones": {
+    "at": "2026-11-19T00:00:00Z",
+    "zernio_id": "6afc31a0b8b115f07c5c5332",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "208-gems-were-polished-smooth-before-faceting": {
+    "at": "2026-11-19T01:00:00Z",
+    "zernio_id": "6afc31a5a9a8223d3f06c23e",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "209-aluminum-once-belonged-in-a-jewelry-store": {
+    "at": "2026-11-19T01:30:00Z",
+    "zernio_id": "6afc31aa76e48c3437242bca",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "210-vermeils-root-word-means-little-worm": {
+    "at": "2026-11-19T02:30:00Z",
+    "zernio_id": "6afc31aff32232a8b92aa2f0",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "211-anglo-saxon-royal-garnets-traveled-thousands-of-miles": {
+    "at": "2026-11-19T03:00:00Z",
+    "zernio_id": "6afc31b8459fcd1e89eeb5f7",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "212-black-carbonado-diamonds-once-tipped-rock-drills": {
+    "at": "2026-11-19T08:30:00Z",
+    "zernio_id": "6afc31c3b0938c1ca8086338",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "213-romans-wore-their-keys-as-rings": {
+    "at": "2026-11-19T09:00:00Z",
+    "zernio_id": "6afc31c8b0938c1ca808634b",
     "platforms": [
       "facebook",
       "instagram"
