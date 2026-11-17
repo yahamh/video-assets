@@ -2403,7 +2403,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1540135841270690",
+      "instagram": "https://www.instagram.com/reel/Df2iIKgDR7o/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709202874747882773",
+      "youtube": "https://www.youtube.com/watch?v=_wEnARwgJ-0"
+    }
   },
   "151-only-one-gem-can-be-called-cats-eye": {
     "at": "2026-11-17T19:30:00Z",
@@ -2412,7 +2419,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1927451524903525",
+      "instagram": "https://www.instagram.com/reel/Df2r97IAKf-/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709225149786049793"
+    }
   },
   "152-the-oldest-known-geological-map-shows-gold": {
     "at": "2026-11-17T21:00:00Z",
@@ -2421,7 +2434,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1457900882474527",
+      "instagram": "https://www.instagram.com/reel/Df22VXPDCtA/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709248475053001990"
+    }
   },
   "153-this-emerald-has-a-wheel-inside": {
     "at": "2026-11-17T23:00:00Z",
@@ -2431,7 +2450,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1131583289458119",
+      "instagram": "https://www.instagram.com/reel/Df3ERviCjYf/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709279903497194773",
+      "youtube": "https://www.youtube.com/watch?v=CyGkzAEkbs0"
+    }
   },
   "154-gold-filled-jewelry-needs-only-five-percent-gold": {
     "at": "2026-11-18T00:30:00Z",
@@ -2774,7 +2800,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4002561353371789",
+      "instagram": "https://www.instagram.com/reel/Df29NF7GTs8/"
+    }
   },
   "185-frying-a-mussel-ruined-a-giant-pearl": {
     "at": "2026-11-18T03:30:00Z",
@@ -3110,6 +3141,74 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "223-elizabeth-is-bracelet-held-a-clock": {
+    "at": "2026-11-20T03:00:00Z",
+    "zernio_id": "6afce36ef839c1abd24adbef",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "224-shwedagon-wears-a-queens-weight-in-gold": {
+    "at": "2026-11-20T03:30:00Z",
+    "zernio_id": "6afce374aca8c0413f19d329",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "225-pinchbeck-a-clockmakers-imitation-gold": {
+    "at": "2026-11-20T08:00:00Z",
+    "zernio_id": "6afce37cd362880cc3bea875",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "226-georgian-gems-hid-tinted-foil-underneath": {
+    "at": "2026-11-20T08:30:00Z",
+    "zernio_id": "6afce387d362880cc3bea8b5",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "227-japans-ama-divers-whistle-when-they-surface": {
+    "at": "2026-11-20T09:00:00Z",
+    "zernio_id": "6afce391f839c1abd24add10",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "228-filigrees-name-means-thread-and-grain": {
+    "at": "2026-11-20T09:30:00Z",
+    "zernio_id": "6afce397c9b112b9e48edc9f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "229-pounamu-pendants-were-once-carved-with-stone": {
+    "at": "2026-11-20T10:00:00Z",
+    "zernio_id": "6afce3a6d362880cc3bea948",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "230-idar-obersteins-cutters-worked-lying-down": {
+    "at": "2026-11-20T10:30:00Z",
+    "zernio_id": "6afce3b1447fdecb381e669f",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -3672,6 +3771,13 @@
   "lesson-031-ring-size": {
     "at": "2026-11-23T16:00:00Z",
     "zernio_id": "6afb85e74106a5135a55c7a5",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-032-sapphire-hardness": {
+    "at": "2026-11-24T16:00:00Z",
+    "zernio_id": "6afce3b9ec68059de6f6e856",
     "platforms": [
       "youtube"
     ]
