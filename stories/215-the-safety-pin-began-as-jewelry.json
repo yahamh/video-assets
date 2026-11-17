@@ -1,0 +1,149 @@
+{
+  "id": "215-the-safety-pin-began-as-jewelry",
+  "number": 215,
+  "title": "The safety pin began as jewelry",
+  "topic": "safety pin fibula brooch ancient bronze age 13th century bc spring catch violin bow crossbow brooch status symbol latin fibula fasten walter hunt 1849 dress pin patent 6281 lemelson",
+  "music": "music-215.wav",
+  "hook": {
+    "text": "The safety pin began as jewelry.",
+    "gold": [
+      "safety",
+      "jewelry."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The safety pin began as jewelry.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441"
+      }
+    },
+    {
+      "text": "Ancient brooch pins called fibulae are over 3,000 years old.",
+      "say": "Ancient brooch pins called FIB-yoo-lee are over three thousand years old.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "round",
+        "tone": "#d9a441",
+        "metal": "yellow",
+        "label": "A fibula"
+      }
+    },
+    {
+      "text": "One end is a spring and the other hooks into a catch.",
+      "scene": {
+        "kind": "title",
+        "text": "Spring and catch",
+        "sub": "Just like today"
+      }
+    },
+    {
+      "text": "Some early ones are shaped like a violin bow.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "A violin bow shape"
+      }
+    },
+    {
+      "text": "Roman crossbow brooches were a status symbol.",
+      "scene": {
+        "kind": "title",
+        "text": "Status symbol",
+        "sub": "Crossbow brooches"
+      }
+    },
+    {
+      "text": "The word fibula is Latin for clasp or pin.",
+      "say": "The word FIB-yoo-luh is Latin for clasp or pin.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a98be0",
+        "label": "Latin for clasp"
+      }
+    },
+    {
+      "text": "It comes from a verb meaning to fasten.",
+      "scene": {
+        "kind": "title",
+        "text": "To fasten",
+        "sub": "The Latin root"
+      }
+    },
+    {
+      "text": "In 1849 Walter Hunt of New York patented a dress pin.",
+      "say": "In eighteen forty-nine Walter Hunt of New York patented a dress pin.",
+      "scene": {
+        "kind": "title",
+        "text": "1849",
+        "sub": "Walter Hunt's patent"
+      }
+    },
+    {
+      "text": "It was made from a single piece of wire.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "One piece of wire"
+      }
+    },
+    {
+      "text": "MIT's Lemelson Center says Hunt improved an ancient Roman jewelry idea.",
+      "say": "M I T's LEM-el-sun Center says Hunt improved an ancient Roman jewelry idea.",
+      "scene": {
+        "kind": "title",
+        "text": "Lemelson",
+        "sub": "Improved a Roman idea"
+      }
+    },
+    {
+      "text": "His patent is United States number 6,281.",
+      "say": "His patent is United States number six thousand two hundred eighty-one.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Patent number 6,281"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The safety pin began as jewelry. Ancient brooch pins called fibulae are over 3,000 years old. One end is a spring and the other hooks into a catch. Some early ones are shaped like a violin bow, and Roman crossbow brooches were a status symbol. The word fibula is Latin for clasp or pin. It comes from a verb meaning to fasten. In 1849 Walter Hunt of New York patented a dress pin, made from a single piece of wire. MIT's Lemelson Center says Hunt improved an ancient Roman jewelry idea. His patent is United States number 6,281.",
+    "hashtags": [
+      "#safetypin",
+      "#fibula",
+      "#ancientjewelry",
+      "#brooch",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.penn.museum/sites/expedition/ancient-safety-pins/",
+    "https://www.searchculture.gr/aggregator/edm/mnam/000150-459805",
+    "https://www.britishmuseum.org/collection/object/G_1893-1116-2",
+    "https://data.fitzmuseum.cam.ac.uk/id/object/69667",
+    "https://www.metmuseum.org/art/collection/search/466286",
+    "https://londonmuseum.org.uk/collections/v/object-135413/brooch-crossbow-brooch",
+    "https://www.etymonline.com/word/fibula",
+    "https://www.dictionary.com/browse/fibula",
+    "https://patents.google.com/patent/US6281A/en",
+    "https://lemelson.mit.edu/resources/walter-hunt",
+    "https://www.history.com/this-day-in-history/april-10/safety-pin-patented-walter-hunt",
+    "https://www.smithsonianmag.com/arts-culture/the-inventive-mind-of-walter-hunt-yankee-mechanical-genius-5331323/"
+  ]
+}

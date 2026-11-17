@@ -1,0 +1,173 @@
+{
+  "id": "220-two-nobel-medals-once-hid-in-acid",
+  "number": 220,
+  "title": "Two Nobel medals once hid in acid",
+  "topic": "nobel prize medals gold hid in acid 1940 de hevesy laue franck bohr copenhagen aqua regia recovered new medals chicago 1952 18 karat 24 karat plating 66 mm 175 grams lindberg vigeland peace medal",
+  "style": "paper",
+  "plate": "Nobel medals",
+  "theme": "sky",
+  "music": "music-220.wav",
+  "hook": {
+    "text": "Two Nobel medals once hid in acid.",
+    "gold": [
+      "Nobel",
+      "acid."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Two Nobel medals once hid in acid.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Germany had just occupied Denmark in April 1940.",
+      "say": "Germany had just occupied Denmark in April nineteen forty.",
+      "scene": {
+        "kind": "title",
+        "text": "April 1940",
+        "sub": "Denmark occupied",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Chemist Georg de Hevesy worked at Niels Bohr's institute in Copenhagen.",
+      "say": "Chemist Georg de HEV-eh-shee worked at Niels Bohr's institute in Copenhagen.",
+      "scene": {
+        "kind": "cast",
+        "setting": "lab",
+        "name": "Georg de Hevesy",
+        "role": "Chemist in Copenhagen",
+        "cast": [
+          {
+            "outfit": "coat",
+            "outfitColor": "#e8e4dc",
+            "hair": "side",
+            "hairColor": "#5a4a3a",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ],
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "He dissolved two German laureates' medals in strong acid.",
+      "say": "He dissolved two German laureates' medals in strong acid.",
+      "scene": {
+        "kind": "title",
+        "text": "Two medals",
+        "sub": "Laue and Franck",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The flask sat on a shelf and the Nazis never noticed.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8a43a",
+        "label": "A flask on a shelf",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "After the war the gold was recovered and new medals were made.",
+      "scene": {
+        "kind": "title",
+        "text": "Recovered",
+        "sub": "New medals made",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Franck's new medal was presented in Chicago in 1952.",
+      "say": "Franck's new medal was presented in Chicago in nineteen fifty-two.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Chicago, 1952",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Today they are 18 karat gold with a 24 karat coat.",
+      "say": "Today they are eighteen karat gold with a twenty-four karat gold coat.",
+      "scene": {
+        "kind": "title",
+        "text": "18 karat",
+        "sub": "With a gold coat",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Most are 66 millimeters across and weigh about 175 grams.",
+      "say": "Most are sixty-six millimeters across and weigh about one hundred seventy-five grams.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "About 175 grams",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Erik Lindberg designed four of the medals.",
+      "scene": {
+        "kind": "title",
+        "text": "Lindberg",
+        "sub": "Designed four",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The Peace medal was designed by sculptor Gustav Vigeland.",
+      "say": "The Peace medal was designed by sculptor Gustav VEE-geh-lahn.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Peace: Vigeland",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Two Nobel medals once hid in acid. Germany had just occupied Denmark in April 1940. Chemist Georg de Hevesy worked at Niels Bohr's institute in Copenhagen, and he dissolved two German laureates' medals in strong acid. The flask sat on a shelf and the Nazis never noticed. After the war the gold was recovered and new medals were made. Franck's new medal was presented in Chicago in 1952. Today the medals are 18 karat gold with a 24 karat gold coat. Most are 66 millimeters across and weigh about 175 grams. Erik Lindberg designed four of the medals. The Peace medal was designed by sculptor Gustav Vigeland.",
+    "hashtags": [
+      "#nobelprize",
+      "#nobelmedal",
+      "#goldsmith",
+      "#nielsbohr",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nobelprize.org/prizes/about/the-nobel-medals-and-the-medal-for-the-prize-in-economic-sciences/",
+    "https://www.compoundchem.com/2016/09/30/nobel-prize-medals/",
+    "https://sharingsweden.se/materials/5-facts-about-the-nobel-prize-medals",
+    "https://www.xetra-gold.com/en/detail/die-zahl-des-monats-175-gramm/",
+    "https://www.nobelprize.org/prizes/uncategorized/the-nobel-medal-for-physics-and-chemistry",
+    "https://vigeland.museum.no/en/news/the-story-behind-the-nobel-peace-prize-medal",
+    "https://www.nobelpeacecenter.org/en/news/the-nobel-peace-prize-medal",
+    "https://www.collectorsweekly.com/articles/nobel-prize-medal-history-specifics-and-auction-records/",
+    "https://www.aip.org/history-programs/news/invisible-prize",
+    "https://cphpost.dk/2015-05-06/news/denmark/nobel-cause-how-niels-bohr-and-his-accomplice-fooled-the-nazis-on-occupation-day",
+    "https://www.lindahall.org/george-de-hevesy/"
+  ]
+}

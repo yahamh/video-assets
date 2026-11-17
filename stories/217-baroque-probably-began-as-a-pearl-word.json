@@ -1,0 +1,150 @@
+{
+  "id": "217-baroque-probably-began-as-a-pearl-word",
+  "number": 217,
+  "title": "Baroque probably began as a pearl word",
+  "topic": "baroque pearl irregular lumpy word portuguese barroco art style later goldsmiths pearl bodies sea monster centaur met pendant cheapside hoard pearl ship pin 1912",
+  "style": "paper",
+  "plate": "Baroque pearl",
+  "theme": "blush",
+  "music": "music-217.wav",
+  "hook": {
+    "text": "Baroque probably began as a pearl word.",
+    "gold": [
+      "Baroque",
+      "pearl"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Baroque probably began as a pearl word.",
+      "say": "Buh-ROHK probably began as a pearl word.",
+      "scene": {
+        "kind": "hook",
+        "show": "pearl",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A baroque pearl is noticeably irregular, with no apparent symmetry.",
+      "say": "A buh-ROHK pearl is noticeably irregular, with no apparent symmetry.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f3e9ea",
+        "label": "No symmetry",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Dictionaries say it likely comes from Portuguese barroco, an irregular pearl.",
+      "say": "Dictionaries say it likely comes from Portuguese buh-ROH-koo, an irregular pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "Barroco",
+        "sub": "Portuguese, likely",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Only later did the word name an art style.",
+      "scene": {
+        "kind": "title",
+        "text": "Art style",
+        "sub": "Came later",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Around 1600 goldsmiths used lumpy pearls as the bodies of creatures.",
+      "say": "Around sixteen hundred goldsmiths used lumpy pearls as the bodies of creatures.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f3e9ea",
+        "label": "Pearl bodies",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In a Met pendant, one pearl is a sea monster's body.",
+      "scene": {
+        "kind": "title",
+        "text": "Sea monster",
+        "sub": "Met pendant",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Another pendant uses a pearl for the torso of a centaur.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f3e9ea",
+        "label": "A centaur's torso",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "A Cheapside Hoard pin has a pearl for a ship's hull.",
+      "say": "A CHEAP-side Hoard pin has a pearl for a ship's hull.",
+      "scene": {
+        "kind": "title",
+        "text": "A pearl ship",
+        "sub": "Cheapside Hoard",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Its mast and rigging are made of gold wire.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Gold wire mast",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The hoard was unearthed in London in 1912.",
+      "say": "The hoard was unearthed in London in nineteen twelve.",
+      "scene": {
+        "kind": "title",
+        "text": "1912",
+        "sub": "Hoard unearthed",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Baroque probably began as a pearl word. A baroque pearl is noticeably irregular, with no apparent symmetry. Dictionaries say it likely comes from Portuguese barroco, an irregular pearl, and only later did the word name an art style. Around 1600 goldsmiths used lumpy pearls as the bodies of creatures. In a Met pendant, one pearl is a sea monster's body. Another pendant uses a pearl for the torso of a centaur. A Cheapside Hoard pin has a pearl for a ship's hull. Its mast and rigging are made of gold wire. The hoard was unearthed in London in 1912.",
+    "hashtags": [
+      "#baroque",
+      "#baroquepearl",
+      "#pearls",
+      "#renaissancejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://elearning-samples.gia.edu/Pearls_Sample/Page17.html",
+    "https://www.britannica.com/art/baroque-pearl",
+    "https://www.merriam-webster.com/dictionary/Baroque",
+    "https://www.dictionary.com/browse/baroque",
+    "https://www.etymonline.com/word/Baroque",
+    "https://www.cnrtl.fr/etymologie/baroque",
+    "https://www.metmuseum.org/art/collection/search/207254",
+    "https://www.metmuseum.org/art/collection/search/207257",
+    "https://daily.jstor.org/the-lumpy-pearls-that-enchanted-the-medicis",
+    "https://www.britannica.com/art/jewelry/Renaissance-to-modern",
+    "https://londonmuseum.org.uk/collections/v/object-69194/pearl-ship-pin",
+    "https://www.winterson.co.uk/blog/mystery-surrounds-the-cheapside-hoard"
+  ]
+}

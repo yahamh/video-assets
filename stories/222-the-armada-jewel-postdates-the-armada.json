@@ -1,0 +1,150 @@
+{
+  "id": "222-the-armada-jewel-postdates-the-armada",
+  "number": 222,
+  "title": "The Armada Jewel postdates the Armada",
+  "topic": "armada jewel heneage jewel v&a elizabeth i gold locket around 1600 rock crystal profile hilliard miniature ark stormy sea motto tradition thomas heneage no evidence sold christie's 1935 given to v&a",
+  "style": "lowpoly",
+  "music": "music-222.wav",
+  "hook": {
+    "text": "The Armada Jewel postdates the Armada.",
+    "gold": [
+      "Armada",
+      "postdates"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Armada Jewel postdates the Armada.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#c0242e",
+        "halo": "#ffb8a8"
+      }
+    },
+    {
+      "text": "It is a gold locket made around 1600.",
+      "say": "It is a gold locket made around sixteen hundred.",
+      "scene": {
+        "kind": "title",
+        "text": "About 1600",
+        "sub": "A gold locket"
+      }
+    },
+    {
+      "text": "Its Armada name is a later popular title.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "A later nickname"
+      }
+    },
+    {
+      "text": "The front shows Elizabeth I in gold, under rock crystal.",
+      "say": "The front shows Elizabeth the First in gold, under rock crystal.",
+      "scene": {
+        "kind": "title",
+        "text": "Elizabeth I",
+        "sub": "In gold profile"
+      }
+    },
+    {
+      "text": "It is set with diamonds and rubies.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c0242e",
+        "halo": "#ffb8a8",
+        "label": "Diamonds and rubies"
+      }
+    },
+    {
+      "text": "A miniature of the queen inside was painted by Nicholas Hilliard.",
+      "say": "A miniature of the queen inside was painted by Nicholas HIL-yerd.",
+      "scene": {
+        "kind": "title",
+        "text": "Hilliard",
+        "sub": "Painted the miniature"
+      }
+    },
+    {
+      "text": "The back shows the English Church as an ark on stormy seas.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5bb4e8",
+        "halo": "#b8d8ff",
+        "label": "An ark on stormy seas"
+      }
+    },
+    {
+      "text": "Its Latin motto speaks of calm through fierce waves.",
+      "scene": {
+        "kind": "title",
+        "text": "The motto",
+        "sub": "Calm through the waves"
+      }
+    },
+    {
+      "text": "Tradition says Elizabeth I gave it to Sir Thomas Heneage.",
+      "say": "Tradition says Elizabeth the First gave it to Sir Thomas HEN-ij.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Sir Thomas Heneage"
+      }
+    },
+    {
+      "text": "The V&A says there is no evidence for that story.",
+      "say": "The V and A says there is no evidence for that story.",
+      "scene": {
+        "kind": "title",
+        "text": "No evidence",
+        "sub": "Says the V&A"
+      }
+    },
+    {
+      "text": "It reached the V&A in 1935 after a Christie's auction.",
+      "say": "It reached the V and A in nineteen thirty-five after a Christie's auction.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c0242e",
+        "halo": "#ffb8a8",
+        "label": "At the V&A since 1935"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Armada Jewel postdates the Armada. It is a gold locket made around 1600, and its Armada name is a later popular title. The front shows Elizabeth I in gold, under rock crystal. It is set with diamonds and rubies. A miniature of the queen inside was painted by Nicholas Hilliard. The back shows the English Church as an ark on stormy seas, and its Latin motto speaks of calm through fierce waves. Tradition says Elizabeth I gave it to Sir Thomas Heneage. The V&A says there is no evidence for that story. It reached the V&A in 1935 after a Christie's auction.",
+    "hashtags": [
+      "#armadajewel",
+      "#elizabethi",
+      "#tudorjewelry",
+      "#hilliard",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O33883/the-heneage-jewel-locket-hilliard-nicholas",
+    "https://www.artfund.org/our-purpose/art-funded-by-you/the-heneage-armada-jewel",
+    "https://artsandculture.google.com/asset/the-heneage-jewel-the-armada-jewel/RAHF4QTd4orhXg",
+    "https://www.thealthanicollection.com/recently-shown-highlights/the-heneage-jewel",
+    "https://www.smithsonianmag.com/history/why-art-was-such-a-powerful-tool-for-englands-tudor-monarchs-180980909/",
+    "https://en.wikipedia.org/wiki/Thomas_Heneage"
+  ]
+}

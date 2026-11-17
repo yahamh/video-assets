@@ -1,0 +1,146 @@
+{
+  "id": "219-all-mined-gold-fits-in-one-cube",
+  "number": 219,
+  "title": "All mined gold fits in one cube",
+  "topic": "all gold ever mined cube roughly 22 meters each side about 220,000 tonnes end of 2025 world gold council olympic pools jewelry 45 percent mined each year reserves underground varna treasure",
+  "style": "lowpoly",
+  "music": "music-219.wav",
+  "hook": {
+    "text": "All mined gold fits in one cube.",
+    "gold": [
+      "gold",
+      "cube."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "All mined gold fits in one cube.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0"
+      }
+    },
+    {
+      "text": "By the end of 2025 about 220,000 tonnes had been mined.",
+      "say": "By the end of twenty twenty-five about two hundred twenty thousand tonnes had been mined.",
+      "scene": {
+        "kind": "title",
+        "text": "220,000",
+        "sub": "Tonnes mined by 2025"
+      }
+    },
+    {
+      "text": "Gold is so dense that the pile is smaller than you think.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Very dense"
+      }
+    },
+    {
+      "text": "The cube would be roughly 22 meters on each side.",
+      "say": "The cube would be roughly twenty-two meters on each side.",
+      "scene": {
+        "kind": "title",
+        "text": "22 meters",
+        "sub": "On each side"
+      }
+    },
+    {
+      "text": "It would fill about four and a half Olympic pools.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5bb4e8",
+        "halo": "#b8d8ff",
+        "label": "4.5 Olympic pools"
+      }
+    },
+    {
+      "text": "About 45 percent of it is jewelry.",
+      "say": "About forty-five percent of it is jewelry.",
+      "scene": {
+        "kind": "title",
+        "text": "45 percent",
+        "sub": "Is jewelry"
+      }
+    },
+    {
+      "text": "Mines add more than 3,000 tonnes a year.",
+      "say": "Mines add more than three thousand tonnes a year.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "3,000 tonnes a year"
+      }
+    },
+    {
+      "text": "Estimates for gold still underground run from 55,000 to 66,000 tonnes.",
+      "say": "Estimates for gold still underground run from fifty-five thousand to sixty-six thousand tonnes.",
+      "scene": {
+        "kind": "title",
+        "text": "Underground",
+        "sub": "55,000 to 66,000 t"
+      }
+    },
+    {
+      "text": "A gold treasure from Varna, Bulgaria is over 6,000 years old.",
+      "say": "A gold treasure from VAR-nuh, Bulgaria is over six thousand years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Varna, Bulgaria"
+      }
+    },
+    {
+      "text": "That treasure holds about 3,000 gold objects.",
+      "say": "That treasure holds about three thousand gold objects.",
+      "scene": {
+        "kind": "title",
+        "text": "3,000",
+        "sub": "Gold objects at Varna"
+      }
+    }
+  ],
+  "post": {
+    "caption": "All mined gold fits in one cube. By the end of 2025 about 220,000 tonnes had been mined, and gold is so dense that the pile is smaller than you think. The cube would be roughly 22 meters on each side. It would fill about four and a half Olympic pools. About 45 percent of it is jewelry. Mines add more than 3,000 tonnes a year. Estimates for gold still underground run from 55,000 to 66,000 tonnes. A gold treasure from Varna, Bulgaria is over 6,000 years old. That treasure holds about 3,000 gold objects.",
+    "hashtags": [
+      "#gold",
+      "#goldmining",
+      "#worldgoldcouncil",
+      "#goldfacts",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gold.org/about-gold/gold-supply/gold-mining/how-much-gold-has-been-mined",
+    "https://www.bullionstar.com/blogs/gold-silver-101/how-much-gold-is-there-in-the-world/",
+    "https://www.gold.org/goldhub/gold-focus/2026/03/you-asked-we-answered-are-we-running-out-gold",
+    "https://www.kitco.com/news/article/2026-03-12/gold-supply-and-price-are-extremely-resistant-depletion-or-potential",
+    "https://www.livescience.com/planet-earth/geology/how-much-gold-is-there-in-the-world",
+    "https://www.britannica.com/one-good-fact/how-much-gold-has-been-discovered-so-far",
+    "https://www.rsc.org/periodic-table/element/79/gold",
+    "https://www.britannica.com/science/gold-chemical-element",
+    "https://www.moneymetals.com/news/2026/03/31/just-how-much-gold-is-there-004800",
+    "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-gold.pdf",
+    "https://visit.varna.bg/en/varna_oldest_gold_treasure_in_the_world.html",
+    "https://www.historyhit.com/locations/varna-necropolis/"
+  ]
+}

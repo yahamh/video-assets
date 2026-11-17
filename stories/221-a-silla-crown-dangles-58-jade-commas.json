@@ -1,0 +1,150 @@
+{
+  "id": "221-a-silla-crown-dangles-58-jade-commas",
+  "number": 221,
+  "title": "A Silla crown dangles 58 jade commas",
+  "topic": "silla gold crown korea gyeongju geumgwanchong gold crown tomb 1921 tree antler uprights world tree spangles gogok jade cheonmachong heavenly horse tomb 58 gogok 32.5 cm",
+  "music": "music-221.wav",
+  "hook": {
+    "text": "A Silla crown dangles 58 jade commas.",
+    "gold": [
+      "Silla",
+      "58",
+      "commas."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Silla crown dangles 58 jade commas.",
+      "say": "A SHIL-lah crown dangles fifty eight jade commas.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#3aa57a"
+      }
+    },
+    {
+      "text": "Silla was a Korean kingdom, and its royal tombs held gold crowns.",
+      "say": "SHIL-lah was a Korean kingdom, and its royal tombs held gold crowns.",
+      "scene": {
+        "kind": "title",
+        "text": "Silla",
+        "sub": "A Korean kingdom",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "One found in 1921 gave its tomb the name Gold Crown.",
+      "say": "One found in nineteen twenty one gave its tomb the name Gold Crown.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Found in 1921"
+      }
+    },
+    {
+      "text": "A gold band carries three tree shapes and two antler shapes.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Trees and antlers"
+      }
+    },
+    {
+      "text": "One theory calls the trees a world tree joining heaven and earth.",
+      "scene": {
+        "kind": "title",
+        "text": "World tree",
+        "sub": "One theory",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Gold rivets fasten the branches to the band.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Gold rivets"
+      }
+    },
+    {
+      "text": "Small gold discs called spangles hang from it on gold wire.",
+      "scene": {
+        "kind": "title",
+        "text": "Spangles",
+        "sub": "Small gold discs",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Curved jade beads called gogok hang there too.",
+      "say": "Curved jade beads called GO-gok hang there too.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3aa57a",
+        "label": "Gogok, jade commas"
+      }
+    },
+    {
+      "text": "One crown, from the Heavenly Horse Tomb, carries 58 of them.",
+      "say": "One crown, from the Heavenly Horse Tomb, carries fifty eight of them.",
+      "scene": {
+        "kind": "title",
+        "text": "58 gogok",
+        "sub": "Heavenly Horse Tomb",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "That crown stands 32.5 centimeters tall.",
+      "say": "That crown stands thirty two point five centimeters tall.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "tiara",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "32.5 cm tall"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A Silla crown dangles 58 jade commas. Silla was a Korean kingdom, and its royal tombs held gold crowns. One found in 1921 gave its tomb the name Gold Crown. A gold band carries three tree shapes and two antler shapes. One theory calls the trees a world tree joining heaven and earth. Gold rivets fasten the branches to the band. Small gold discs called spangles hang from it on gold wire. Curved jade beads called gogok hang there too. One crown, from the Heavenly Horse Tomb, carries 58 of them. That crown stands 32.5 centimeters tall.",
+    "hashtags": [
+      "#silla",
+      "#koreanhistory",
+      "#goldcrown",
+      "#gyeongju",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://metmuseum.org/exhibitions/listings/2013/koreas-golden-kingdom/about-the-exhibition/treasures",
+    "https://www.ijkaa.org/assets/pdf/15/jkaa-13-67.pdf",
+    "https://www.koreaherald.com/article/10603263",
+    "https://www.hankyung.com/article/2025102383391",
+    "https://encykorea.aks.ac.kr/Article/E0007605",
+    "https://en.wikipedia.org/wiki/Crowns_of_Silla",
+    "https://artsandculture.google.com/asset/gold-crown-from-geumgwanchong-tomb-unknown/7QESGI5Se9DATg?hl=en",
+    "https://museum.go.kr/MUSEUM/contents/M0501000000.do?pageSize=10&relicRecommendCategory=&relicRecommendId=16890&sc=&schM=view&sv=",
+    "https://www.ijkaa.org/v.17/0/104/56",
+    "https://www.museum.go.kr/MUSEUM/contents/M0501000000.do?schM=view&relicRecommendId=519954",
+    "https://encykorea.aks.ac.kr/Article/E0055858",
+    "https://www.worldhistory.org/Cheonmachong/",
+    "https://smarthistory.org/gold-crown-gold-belt-north-mound-hwangnamdaechong-tomb/",
+    "https://whc.unesco.org/en/list/976/"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "214-west-point-ring-gold-flew-to-space",
+  "number": 214,
+  "title": "West Point ring gold flew to space",
+  "topic": "west point class ring 1835 first class rings signet wax ring melt legacy gold class of 2002 locket space station 2025 astronaut",
+  "style": "paper",
+  "plate": "Class ring",
+  "theme": "cream",
+  "music": "music-214.wav",
+  "hook": {
+    "text": "West Point ring gold flew to space.",
+    "gold": [
+      "West",
+      "Point",
+      "space."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "West Point ring gold flew to space.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The class of 1835 got the first West Point class rings.",
+      "say": "The class of eighteen thirty five got the first West Point class rings.",
+      "scene": {
+        "kind": "title",
+        "text": "1835",
+        "sub": "First class rings",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "They were signets, cut in reverse to seal letters in wax.",
+      "say": "They were SIG-nets, cut in reverse to seal letters in wax.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "label": "Cut in reverse",
+        "light": "#fff2c4",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Each ring since 1917 has a class crest and a school crest.",
+      "say": "Each ring since nineteen seventeen has a class crest and a school crest.",
+      "scene": {
+        "kind": "title",
+        "text": "Two crests",
+        "sub": "Class and school",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "At graduation it is turned so the school crest faces the heart.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "Turned to the heart",
+        "velvet": "#a98be0",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Graduates donate old gold rings to be melted into one ingot.",
+      "scene": {
+        "kind": "title",
+        "text": "Ring Melt",
+        "sub": "Old rings, one ingot",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A small part, Legacy Gold, is saved for the next melt.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Legacy Gold",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "So every ring since the class of 2002 holds older gold.",
+      "say": "So every ring since the class of two thousand two holds older gold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "plain": true,
+        "metal": "yellow",
+        "label": "Older gold inside",
+        "velvet": "#5bb4e8",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "In 2025 a locket of Legacy Gold flew to the space station.",
+      "say": "In twenty twenty five a locket of Legacy Gold flew to the space station.",
+      "scene": {
+        "kind": "title",
+        "text": "Space",
+        "sub": "Space station, 2025",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It flew with an astronaut from that class of 2002.",
+      "say": "It flew with an astronaut from that class of two thousand two.",
+      "scene": {
+        "kind": "title",
+        "text": "2002",
+        "sub": "First to get the gold",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "West Point ring gold flew to space. The class of 1835 got the first West Point class rings. They were signets, cut in reverse to seal letters in wax. Each ring since 1917 has a class crest and a school crest. At graduation it is turned so the school crest faces the heart. Graduates donate old gold rings to be melted into one ingot. A small part, Legacy Gold, is saved for the next melt. So every ring since the class of 2002 holds older gold. In 2025 a locket of Legacy Gold flew to the space station. It flew with an astronaut from that class of 2002.",
+    "hashtags": [
+      "#westpoint",
+      "#classring",
+      "#legacygold",
+      "#spacestation",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.westpoint.edu/about/traditions/academy-class-rings",
+    "https://www.army.mil/article/44210/West_Point_Class_of_2011_celebrates_Ring_Ceremony",
+    "https://usmalibrary.omeka.net/exhibits/show/usma-library-class-rings-c",
+    "https://www.westpoint.edu/news/west-point-news/ring-solidify-them-all-class-2022-cadets-rejoice-during-ring-ceremony",
+    "https://en.wikipedia.org/wiki/United_States_Military_Academy_class_ring",
+    "https://westpointaog.org/?p=6648",
+    "https://www.army.mil/article/263312/ring_melt_connects_past_graduates_with_usma_class_of_2024",
+    "https://www.westpointaog.org/ringmemorialprogram",
+    "https://www.lbma.org.uk/alchemist/issue-79/let-it-flow-down-the-long-grey-line",
+    "https://sallyport.westpointaog.org/news/2553451",
+    "https://www.army.mil/article/290046/graduates_donate_rings_aog_hosts_class_ring_memorial_program_for_class_of_2027"
+  ]
+}

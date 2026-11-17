@@ -1,0 +1,143 @@
+{
+  "id": "218-eggs-can-quickly-blacken-silver",
+  "number": 218,
+  "title": "Eggs can quickly blacken silver",
+  "topic": "silver tarnish silver sulfide hydrogen sulfide eggs wool rubber thick layer slows sterling copper foil baking soda battery anti-tarnish cloth regular use stays bright",
+  "music": "music-218.wav",
+  "hook": {
+    "text": "Eggs can quickly blacken silver.",
+    "gold": [
+      "Eggs",
+      "silver."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Eggs can quickly blacken silver.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c9d6de"
+      }
+    },
+    {
+      "text": "Tarnish is silver sulfide, made when silver meets sulfur.",
+      "say": "Tarnish is silver SUL-fide, made when silver meets sulfur.",
+      "scene": {
+        "kind": "title",
+        "text": "Sulfide",
+        "sub": "The black layer"
+      }
+    },
+    {
+      "text": "Sulfur gas in the air is the main cause of tarnish.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8d84a",
+        "label": "Sulfur gas in the air"
+      }
+    },
+    {
+      "text": "Eggs and wool both give off sulfur.",
+      "scene": {
+        "kind": "title",
+        "text": "Eggs and wool",
+        "sub": "Both give off sulfur"
+      }
+    },
+    {
+      "text": "Thin layers look yellow or blue before turning black.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3b5fb5",
+        "label": "Yellow, then blue"
+      }
+    },
+    {
+      "text": "A thicker layer actually slows further tarnishing.",
+      "scene": {
+        "kind": "title",
+        "text": "Thicker",
+        "sub": "Slows more tarnish"
+      }
+    },
+    {
+      "text": "Sterling tarnishes faster because its copper reacts too.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9783a",
+        "label": "Copper reacts too"
+      }
+    },
+    {
+      "text": "Foil in hot baking soda water forms a tiny battery.",
+      "scene": {
+        "kind": "title",
+        "text": "A battery",
+        "sub": "Foil, soda, hot water"
+      }
+    },
+    {
+      "text": "The sulfur moves from the silver to the aluminum.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "Sulfur moves over"
+      }
+    },
+    {
+      "text": "Museums wrap silver in cloth that traps sulfur.",
+      "scene": {
+        "kind": "title",
+        "text": "Special cloth",
+        "sub": "Traps the sulfur"
+      }
+    },
+    {
+      "text": "Silver in regular use stays bright longer.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "Use keeps it bright"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Eggs can quickly blacken silver. Tarnish is silver sulfide, made when silver meets sulfur, and sulfur gas in the air is the main cause of tarnish. Eggs and wool both give off sulfur. Thin layers look yellow or blue before turning black, and a thicker layer actually slows further tarnishing. Sterling tarnishes faster because its copper reacts too. Foil in hot baking soda water forms a tiny battery, and the sulfur moves from the silver to the aluminum. Museums wrap silver in cloth that traps sulfur. Silver in regular use stays bright longer.",
+    "hashtags": [
+      "#silvertarnish",
+      "#silverjewelry",
+      "#sterlingsilver",
+      "#jewelrycare",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/metal-objects/understanding-silver-tarnish.html",
+    "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-silver.html",
+    "https://www.winterthur.org/wp-content/uploads/Winterthur-Museum_Silver-treatment-advice_2026.pdf",
+    "https://repository.si.edu/server/api/core/bitstreams/e888de83-54b2-4ea9-8eed-a39b3f3209b4/content",
+    "https://www.assayoffice.co.uk/news/ever-wondered-why-does-silver-tarnish",
+    "https://www.thehenryford.org/docs/default-source/default-document-library/the-henry-ford-silver-conservation.pdf",
+    "https://chem.libretexts.org/Courses/University_of_California_Davis/UCDemos/Cleaning_Silverware__Electrochemical_Reaction",
+    "https://www.popsci.com/story/diy/how-to-clean-silver-science-guide/",
+    "https://www.icon.org.uk/conservation-hub/caring-for-your-treasures/silver-and-plate.html",
+    "https://en.wikipedia.org/wiki/Silver",
+    "https://www.ascasonline.org/articolosettem101.html"
+  ]
+}

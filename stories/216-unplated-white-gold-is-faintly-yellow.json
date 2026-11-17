@@ -1,0 +1,155 @@
+{
+  "id": "216-unplated-white-gold-is-faintly-yellow",
+  "number": 216,
+  "title": "Unplated white gold is faintly yellow",
+  "topic": "white gold alloy palladium faint yellow tint rhodium plating wollaston greek rhodon rose 18 karat 75 percent platinum unplated 24 tonnes mined 2021",
+  "style": "lowpoly",
+  "music": "music-216.wav",
+  "hook": {
+    "text": "Unplated white gold is faintly yellow.",
+    "gold": [
+      "white",
+      "yellow."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Unplated white gold is faintly yellow.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#efe7c0",
+        "halo": "#fff6d0"
+      }
+    },
+    {
+      "text": "White gold is gold mixed with white metals such as palladium.",
+      "say": "White gold is gold mixed with white metals such as puh-LAY-dee-um.",
+      "scene": {
+        "kind": "title",
+        "text": "White gold",
+        "sub": "Gold plus white metals"
+      }
+    },
+    {
+      "text": "An 18 karat piece is 75 percent gold.",
+      "say": "An eighteen karat piece is seventy-five percent gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "18 karat, 75 percent"
+      }
+    },
+    {
+      "text": "So jewelers plate it with rhodium for a bright white shine.",
+      "scene": {
+        "kind": "title",
+        "text": "Rhodium",
+        "sub": "A bright white coat"
+      }
+    },
+    {
+      "text": "Rhodium is a silvery white metal related to platinum.",
+      "say": "ROH-dee-um is a silvery white metal related to platinum.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e4e6ee",
+        "halo": "#ffffff",
+        "label": "Related to platinum"
+      }
+    },
+    {
+      "text": "William Hyde Wollaston found it in the early 1800s.",
+      "say": "William Hyde WOOL-uh-stun found it in the early eighteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Wollaston",
+        "sub": "Found it, early 1800s"
+      }
+    },
+    {
+      "text": "Its name is Greek for rose, after the color of its salts.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0607e",
+        "halo": "#ffc0d0",
+        "label": "Greek for rose"
+      }
+    },
+    {
+      "text": "The plating is often about a micron thick.",
+      "scene": {
+        "kind": "title",
+        "text": "A micron",
+        "sub": "Often that thin"
+      }
+    },
+    {
+      "text": "It wears off, so rings are often re-plated every year or two.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e4e6ee",
+        "halo": "#ffffff",
+        "label": "Re-plated now and then"
+      }
+    },
+    {
+      "text": "Platinum is usually left unplated because it is naturally white.",
+      "scene": {
+        "kind": "title",
+        "text": "Platinum",
+        "sub": "Naturally white"
+      }
+    },
+    {
+      "text": "In 2021 only about 24 tonnes of rhodium were mined.",
+      "say": "In twenty twenty-one only about twenty-four tonnes of rhodium were mined.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e4e6ee",
+        "halo": "#ffffff",
+        "label": "About 24 tonnes"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Unplated white gold is faintly yellow. White gold is gold mixed with white metals such as palladium, and an 18 karat piece is 75 percent gold. So jewelers plate it with rhodium for a bright white shine. Rhodium is a silvery white metal related to platinum. William Hyde Wollaston found it in the early 1800s, and its name is Greek for rose, after the color of its salts. The plating is often about a micron thick. It wears off, so rings are often re-plated every year or two. Platinum is usually left unplated because it is naturally white. In 2021 only about 24 tonnes of rhodium were mined.",
+    "hashtags": [
+      "#whitegold",
+      "#rhodium",
+      "#rhodiumplating",
+      "#jewelrycare",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/?p=6025",
+    "https://4cs.gia.edu/en-us/blog/white-gold-vs-silver/",
+    "https://4cs.gia.edu/?p=36861",
+    "https://www.jewelersmutual.com/the-jewelry-box/does-white-gold-tarnish",
+    "https://www.britannica.com/science/rhodium",
+    "https://www.brilliantearth.com/news/rhodium-plating/",
+    "https://www.rsc.org/periodic-table/element/45/rhodium",
+    "https://www.chemicool.com/elements/rhodium.html",
+    "https://www.usajewels.com/education/metal/platinum",
+    "https://www.bluenile.com/blog/diamonds-jewelry/platinum-vs-white-gold",
+    "https://pubs.usgs.gov/myb/vol1/2021/myb1-2021-platinum-group.pdf",
+    "https://ar2021.nornickel.ru/pdf/ar/en/commodity-market-overview_rhodium.pdf"
+  ]
+}
