@@ -2294,7 +2294,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2319706058825299",
+      "instagram": "https://www.instagram.com/reel/Df0fevyDozn/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708908829764816146",
+      "youtube": "https://www.youtube.com/watch?v=KZFAui4sK2k"
+    }
   },
   "144-emerald-has-a-rare-red-cousin": {
     "at": "2026-11-17T00:30:00Z",
@@ -2303,7 +2310,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1088633610872022",
+      "instagram": "https://www.instagram.com/reel/Df0piqFkjod/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708931468659019014"
+    }
   },
   "145-the-diamond-anniversary-is-the-60th": {
     "at": "2026-11-17T02:00:00Z",
@@ -2312,7 +2325,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2586437888528682",
+      "instagram": "https://www.instagram.com/reel/Df0z05ZnF5w/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708954487922199860"
+    }
   },
   "146-cubic-zirconia-came-from-a-laser-lab": {
     "at": "2026-11-17T11:30:00Z",
@@ -2658,7 +2677,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1800623301174749",
+      "instagram": "https://www.instagram.com/reel/Df0-HYWGc6U/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7708977673220951304"
+    }
   },
   "180-this-amber-can-turn-blue-in-sunlight": {
     "at": "2026-11-17T08:00:00Z",
@@ -2794,6 +2819,79 @@
   "195-colored-titanium-works-like-a-soap-bubble": {
     "at": "2026-11-19T15:00:00Z",
     "zernio_id": "6afb85dcc26a4a176981c7eb",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "196-a-goldsmith-built-florences-giant-dome": {
+    "at": "2026-11-17T08:30:00Z",
+    "zernio_id": "6afbdebaaadea7e66f96cdff",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "197-this-jewelry-enamel-has-no-metal-backing": {
+    "at": "2026-11-17T09:00:00Z",
+    "zernio_id": "6afbdec10a3ae7b42e115199",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "198-olympic-gold-medals-are-mostly-silver": {
+    "at": "2026-11-17T10:00:00Z",
+    "zernio_id": "6afbdec70a3ae7b42e1151c1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "199-the-word-crystal-once-meant-ice": {
+    "at": "2026-11-18T00:00:00Z",
+    "zernio_id": "6afbdece0c732db112963306",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "200-the-phrase-first-water-began-with-diamonds": {
+    "at": "2026-11-18T01:00:00Z",
+    "zernio_id": "6afbded4aadea7e66f96ceb7",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "201-marcasite-jewelry-contains-no-marcasite": {
+    "at": "2026-11-18T01:30:00Z",
+    "zernio_id": "6afbded90c732db11296334a",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "202-pliny-said-one-knot-heals-wounds-faster": {
+    "at": "2026-11-18T02:30:00Z",
+    "zernio_id": "6afbdee00a3ae7b42e115254",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "203-mens-wedding-rings-were-once-considered-odd": {
+    "at": "2026-11-18T03:00:00Z",
+    "zernio_id": "6afbdee7aadea7e66f96cf24",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "204-a-royal-crowns-jewels-were-once-rented": {
+    "at": "2026-11-18T08:30:00Z",
+    "zernio_id": "6afbdeec0a3ae7b42e115280",
     "platforms": [
       "facebook",
       "instagram"
