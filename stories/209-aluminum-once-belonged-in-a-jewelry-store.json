@@ -1,0 +1,160 @@
+{
+  "id": "209-aluminum-once-belonged-in-a-jewelry-store",
+  "number": 209,
+  "title": "Aluminum once belonged in a jewelry store",
+  "topic": "aluminum precious metal napoleon iii deville 1854 silver from clay 1855 prince imperial rattle diamonds cooper hewitt bracelet washington monument tip tiffany 1884 hall heroult 1886 age 22",
+  "music": "music-209.wav",
+  "hook": {
+    "text": "Aluminum once belonged in a jewelry store.",
+    "gold": [
+      "Aluminum",
+      "jewelry"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Aluminum once belonged in a jewelry store.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c9d6de"
+      }
+    },
+    {
+      "text": "In 1854 Henri Sainte-Claire Deville announced a way to make it.",
+      "say": "In eighteen fifty-four Henri sant-KLAIR duh-VEEL announced a way to make it.",
+      "scene": {
+        "kind": "cast",
+        "setting": "study",
+        "name": "Henri Deville",
+        "role": "French chemist",
+        "cast": [
+          {
+            "outfit": "coat",
+            "hair": "short",
+            "hairColor": "#4a3426",
+            "skin": "#efc9a6",
+            "prop": "magnifier",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Emperor Napoleon III funded the work.",
+      "say": "Emperor Napoleon the Third funded the work.",
+      "scene": {
+        "kind": "cast",
+        "setting": "palace",
+        "name": "Napoleon III",
+        "role": "Emperor of the French",
+        "cast": [
+          {
+            "outfit": "royal",
+            "hair": "slick",
+            "hairColor": "#3a2a20",
+            "skin": "#efc9a6",
+            "prop": "none",
+            "expression": "smile"
+          }
+        ]
+      }
+    },
+    {
+      "text": "In 1855 Paris showed it off as silver from clay.",
+      "say": "In eighteen fifty-five Paris showed it off as silver from clay.",
+      "scene": {
+        "kind": "title",
+        "text": "1855",
+        "sub": "Silver from clay"
+      }
+    },
+    {
+      "text": "Aluminum was priced like a precious metal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "A precious metal"
+      }
+    },
+    {
+      "text": "The emperor's baby son had an aluminum rattle set with diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9dee2",
+        "label": "An aluminum rattle"
+      }
+    },
+    {
+      "text": "The Cooper Hewitt holds an aluminum and gold bracelet from around 1860.",
+      "say": "The Cooper Hewitt holds an aluminum and gold bracelet from around eighteen sixty.",
+      "scene": {
+        "kind": "title",
+        "text": "About 1860",
+        "sub": "Aluminum and gold"
+      }
+    },
+    {
+      "text": "In 1884 Tiffany's displayed the aluminum tip of the Washington Monument.",
+      "say": "In eighteen eighty-four Tiffany's displayed the aluminum tip of the Washington Monument.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9d6de",
+        "label": "The Monument tip"
+      }
+    },
+    {
+      "text": "In 1886 Hall and Héroult each found a cheaper way.",
+      "say": "In eighteen eighty-six Charles Hall and Paul ay-ROO each found a cheaper way.",
+      "scene": {
+        "kind": "title",
+        "text": "1886",
+        "sub": "Hall and Héroult"
+      }
+    },
+    {
+      "text": "Both were 22 years old.",
+      "say": "Both were twenty-two years old.",
+      "scene": {
+        "kind": "title",
+        "text": "Age 22",
+        "sub": "Both of them"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Aluminum once belonged in a jewelry store. In 1854 Henri Sainte-Claire Deville announced a way to make it, and Emperor Napoleon III funded the work. In 1855 Paris showed it off as silver from clay, and aluminum was priced like a precious metal. The emperor's baby son had an aluminum rattle set with diamonds. The Cooper Hewitt holds an aluminum and gold bracelet from around 1860. In 1884 Tiffany's displayed the aluminum tip of the Washington Monument. In 1886 Hall and Héroult each found a cheaper way. Both were 22 years old.",
+    "hashtags": [
+      "#aluminum",
+      "#napoleoniii",
+      "#jewelryhistory",
+      "#washingtonmonument",
+      "#metals"
+    ]
+  },
+  "sources": [
+    "https://www.napoleon.org/histoire-des-2-empires/objets/hochet-du-prince-imperial",
+    "https://www.themagazineantiques.com/?p=11221",
+    "https://www.cite-sciences.fr/archives/francais/ala_cite/expo/tempo/aluminium/divers/presse/depliant.pdf",
+    "https://www.earthmagazine.org/article/march-23-1821-bauxite-discovered/",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co12954/bar-of-aluminium-given-to-michael-faraday-by-napoleon-iii-c1855-elements-aluminium",
+    "https://icsoba.org/assets/files/publications/2015/Papers/KN02 - A portrait of aluminium, metal of dream and modernity.pdf",
+    "https://collection.cooperhewitt.org/objects/18698147",
+    "https://www.nps.gov/articles/000/wamocap.htm",
+    "https://www.archives.gov/publications/prologue/2014/summer/aluminum-tip-monument",
+    "https://www.mentalfloss.com/article/31360/whats-point-pyramid-atop-washington-monument",
+    "https://www.thechemicalengineer.com/features/cewctw-paul-héroult-and-charles-hall-turning-a-rarity-into-a-commodity/",
+    "https://www.npr.org/2019/12/05/785099705/aluminums-strange-journey-from-precious-metal-to-beer-can"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "208-gems-were-polished-smooth-before-faceting",
+  "number": 208,
+  "title": "Gems were polished smooth before faceting",
+  "topic": "cabochon smooth domed gems before faceting late middle ages medieval rings v&a scaif diamond dust wheel star sapphire cat's-eye turquoise",
+  "style": "paper",
+  "plate": "Cabochon",
+  "theme": "watercolor",
+  "music": "music-208.wav",
+  "hook": {
+    "text": "Gems were polished smooth before faceting.",
+    "gold": [
+      "smooth",
+      "faceting."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gems were polished smooth before faceting.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A cabochon has a smooth domed top and a flat back.",
+      "say": "A KAB-uh-shon has a smooth domed top and a flat back.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "opal",
+        "shape": "round",
+        "tone": "#7fc8f0",
+        "metal": "yellow",
+        "label": "A cabochon",
+        "velvet": "#a98be0"
+      }
+    },
+    {
+      "text": "Until the late Middle Ages, gems were simply cut this way.",
+      "scene": {
+        "kind": "title",
+        "text": "Smooth",
+        "sub": "The normal cut",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The V&A says most medieval ring gems are cabochons.",
+      "say": "The Victoria and Albert Museum says most medieval ring gems are cabochons.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a3202e",
+        "label": "Medieval ring gems",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Faceting began to spread around the 1400s.",
+      "say": "Faceting began to spread around the fourteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Facets",
+        "sub": "Spread in the 1400s",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Early diamond cuts just polished the crystal's natural faces.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9dee2",
+        "label": "Natural faces",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "A diamond dust wheel, the scaif, arrived in the late 1400s.",
+      "say": "A diamond dust wheel, the SKAYF, arrived in the late fourteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "The scaif",
+        "sub": "A diamond dust wheel",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Star sapphires and cat's-eyes are still cut this way.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3b5fb5",
+        "label": "Stars and cat's-eyes",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Facets would hide the star or the eye.",
+      "scene": {
+        "kind": "title",
+        "text": "A star",
+        "sub": "Lost when faceted",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Turquoise is most often cut into cabochons.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "opal",
+        "shape": "round",
+        "tone": "#40b5ad",
+        "metal": "yellow",
+        "label": "Turquoise",
+        "velvet": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Gems were polished smooth before faceting. A cabochon has a smooth domed top and a flat back. Until the late Middle Ages, gems were simply cut this way, and the V&A says most medieval ring gems are cabochons. Faceting began to spread around the 1400s. Early diamond cuts just polished the crystal's natural faces. A diamond dust wheel, the scaif, arrived in the late 1400s. Star sapphires and cat's-eyes are still cut this way, because facets would hide the star or the eye. Turquoise is most often cut into cabochons.",
+    "hashtags": [
+      "#cabochon",
+      "#gemstones",
+      "#lapidary",
+      "#jewelryhistory",
+      "#gemcutting"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/cabochon-cut",
+    "https://www.gia.edu/articles/gia-news-research-value-factors-gem-cutting-styles-definitions",
+    "https://www.britannica.com/science/gemstone",
+    "https://en.wikipedia.org/wiki/Cabochon",
+    "https://www.britannica.com/art/faceting",
+    "https://www.gia.edu/gems-gemology/winter-2020-baroque-era-rose-cuts",
+    "https://en.wikipedia.org/wiki/Diamond_cut",
+    "https://www.pragnell.co.uk/guides/jewellery/diamond-cutting-through-time",
+    "https://www.gia.edu/turquoise-description",
+    "https://cameo.mfa.org/wiki/Cabochon",
+    "https://api.vam.ac.uk/v2/object/O121882",
+    "https://collections.vam.ac.uk/item/O121925/ring-unknown/"
+  ]
+}

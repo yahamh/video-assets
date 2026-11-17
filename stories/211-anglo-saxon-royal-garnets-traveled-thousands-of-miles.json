@@ -1,0 +1,158 @@
+{
+  "id": "211-anglo-saxon-royal-garnets-traveled-thousands-of-miles",
+  "number": 211,
+  "title": "Anglo-Saxon royal garnets traveled thousands of miles",
+  "topic": "sutton hoo ship burial garnets cloisonne gold cells wafer thin gold foil shoulder clasps 625 found 1939 2023 scan india sri lanka czechia british museum thousands of miles",
+  "style": "paper",
+  "plate": "Sutton Hoo",
+  "theme": "mint",
+  "music": "music-211.wav",
+  "hook": {
+    "text": "Anglo-Saxon royal garnets traveled thousands of miles.",
+    "gold": [
+      "garnets",
+      "miles."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Anglo-Saxon royal garnets traveled thousands of miles.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#a3202e",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "They come from a ship burial at Sutton Hoo in Suffolk.",
+      "say": "They come from a ship burial at SUT-un HOO in Suffolk.",
+      "scene": {
+        "kind": "title",
+        "text": "Sutton Hoo",
+        "sub": "A ship burial",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The burial dates to around 625 and was found in 1939.",
+      "say": "The burial dates to around six twenty-five and was found in nineteen thirty-nine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Found in 1939",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Its gold shoulder clasps hold garnets and glass.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "round",
+        "tone": "#a3202e",
+        "metal": "yellow",
+        "label": "Shoulder clasps",
+        "velvet": "#a98be0"
+      }
+    },
+    {
+      "text": "Each garnet is a thin polished plate set in a gold cell.",
+      "scene": {
+        "kind": "title",
+        "text": "Gold cells",
+        "sub": "Thin garnet plates",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "That technique is called cloisonné.",
+      "say": "That technique is called kloy-zuh-NAY.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a3202e",
+        "label": "Cloisonné",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Beneath each garnet is wafer thin gold foil stamped with a pattern.",
+      "scene": {
+        "kind": "title",
+        "text": "Gold foil",
+        "sub": "Wafer thin",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The foil bounces light back so the stone glows.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c0242e",
+        "label": "Light bounced back",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In 2023 early scans traced some garnets to India and Sri Lanka.",
+      "say": "In twenty twenty-three early scans traced some garnets to India and Sri Lanka.",
+      "scene": {
+        "kind": "title",
+        "text": "2023 scans",
+        "sub": "India and Sri Lanka",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Other garnets were traced to Czechia.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a1a28",
+        "label": "Czechia too",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The British Museum says the trip covered thousands of miles.",
+      "scene": {
+        "kind": "title",
+        "text": "Thousands",
+        "sub": "Of miles traveled",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Anglo-Saxon royal garnets traveled thousands of miles. They come from a ship burial at Sutton Hoo in Suffolk, which dates to around 625 and was found in 1939. Its gold shoulder clasps hold garnets and glass. Each garnet is a thin polished plate set in a gold cell, a technique called cloisonné. Beneath each garnet is wafer thin gold foil stamped with a pattern, and the foil bounces light back so the stone glows. In 2023 early scans traced some garnets to India and Sri Lanka. Other garnets were traced to Czechia. The British Museum says the trip covered thousands of miles.",
+    "hashtags": [
+      "#suttonhoo",
+      "#garnet",
+      "#anglosaxon",
+      "#cloisonne",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britishmuseum.org/exhibitions/silk-roads/sri-lanka-suffolk-sutton-hoo-and-silk-roads",
+    "https://ora.ox.ac.uk/objects/uuid:1c448e14-be39-4d0b-9274-ec34808e33dd/files/m8dd95150a2d36b9482bf0a54aa1f3c3f",
+    "https://www.britishmuseum.org/collection/object/H_1939-1010-4",
+    "https://smarthistory.org/sutton-hoo-ship-burial-2",
+    "https://www.britishmuseum.org/explore/highlights/highlight_objects/pe_mla/s/sutton_hoo_shoulder_clasps.aspx",
+    "https://www.nationaltrust.org.uk/visit/suffolk/sutton-hoo/history-of-sutton-hoo",
+    "https://archaeology.co.uk/articles/features/from-samarkand-to-sutton-hoo-exploring-the-impact-of-the-silk-roads-on-early-medieval-britain-and-ireland.htm",
+    "https://gia.edu/doc/GG-SU18-Schmetzer-garnet.pdf"
+  ]
+}

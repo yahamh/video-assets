@@ -1,0 +1,148 @@
+{
+  "id": "207-egyptian-gods-had-silver-bones",
+  "number": 207,
+  "title": "Egyptian gods had silver bones",
+  "topic": "ancient egypt silver bones of the gods golden flesh book of the heavenly cow ra gold nubia silver imported hedj white hetepheres bracelets cyclades tutankhamun silver trumpet bbc 1939",
+  "style": "lowpoly",
+  "music": "music-207.wav",
+  "hook": {
+    "text": "Egyptian gods had silver bones.",
+    "gold": [
+      "gods",
+      "bones."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Egyptian gods had silver bones.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#c9d6de",
+        "halo": "#e8f0f6"
+      }
+    },
+    {
+      "text": "In the Book of the Heavenly Cow, Ra has silver bones.",
+      "say": "In the Book of the Heavenly Cow, Ra has silver bones and golden flesh.",
+      "scene": {
+        "kind": "title",
+        "text": "Ra",
+        "sub": "Silver bones, gold flesh"
+      }
+    },
+    {
+      "text": "Gold came from Egypt's own Eastern Desert and from Nubia.",
+      "say": "Gold came from Egypt's own Eastern Desert and from NOO-bee-uh.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Gold: Egypt and Nubia"
+      }
+    },
+    {
+      "text": "Silver had to be brought in from abroad.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9d6de",
+        "halo": "#e8f0f6",
+        "label": "Silver was imported"
+      }
+    },
+    {
+      "text": "Temple inscriptions suggest silver outranked gold for much of Egypt's history.",
+      "say": "Temple inscriptions suggest silver outranked gold for much of Egypt's history.",
+      "scene": {
+        "kind": "title",
+        "text": "Silver",
+        "sub": "Outranked gold"
+      }
+    },
+    {
+      "text": "The Egyptian word hedj meant both white and silver.",
+      "say": "The Egyptian word hedge meant both white and silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f2f2f2",
+        "halo": "#ffffff",
+        "label": "Hedj: white, silver"
+      }
+    },
+    {
+      "text": "Queen Hetepheres owned silver bracelets from around 2600 BCE.",
+      "say": "Queen HET-ep-HEER-eez owned silver bracelets from around twenty-six hundred B C E.",
+      "scene": {
+        "kind": "title",
+        "text": "Queen",
+        "sub": "Hetepheres, 2600 BCE"
+      }
+    },
+    {
+      "text": "Lab tests suggest their silver came from the Greek islands.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5bb4e8",
+        "halo": "#b8d8ff",
+        "label": "The Greek islands"
+      }
+    },
+    {
+      "text": "Tutankhamun's tomb held a silver trumpet trimmed with gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Trumpet",
+        "sub": "Silver and gold"
+      }
+    },
+    {
+      "text": "It was played on BBC radio in 1939.",
+      "say": "It was played on B B C radio in nineteen thirty-nine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9d6de",
+        "halo": "#e8f0f6",
+        "label": "On the radio, 1939"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Egyptian gods had silver bones. In the Book of the Heavenly Cow, Ra has silver bones and golden flesh. Gold came from Egypt's own Eastern Desert and from Nubia, while silver had to be brought in from abroad. Temple inscriptions suggest silver outranked gold for much of Egypt's history. The Egyptian word hedj meant both white and silver. Queen Hetepheres owned silver bracelets from around 2600 BCE, and lab tests suggest their silver came from the Greek islands. Tutankhamun's tomb held a silver trumpet trimmed with gold. It was played on BBC radio in 1939.",
+    "hashtags": [
+      "#ancientegypt",
+      "#silver",
+      "#egyptianjewelry",
+      "#tutankhamun",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/essays/silver-in-ancient-egypt",
+    "https://www.metmuseum.org/essays/gold-in-ancient-egypt",
+    "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/406D8B078C66ACB266932D51A0E2F205/S0959774323000355a.pdf/gold-and-silver-relative-values-in-the-ancient-past.pdf",
+    "https://lighthouse.mq.edu.au/for-media/analysis-of-queen-hetepheres-bracelets-reveals-reveal-ancient-trade-networks",
+    "https://ancientegyptonline.co.uk/colourwhite/",
+    "https://en.wikipedia.org/wiki/Art_of_ancient_Egypt",
+    "https://the-past.com/feature/hilary-wilson-on-lapis-lazuli/",
+    "https://worldhistory.org/Book_of_the_Heavenly_Cow",
+    "https://archaeology.org/issues/online/digs-discoveries/the-queens-jewels",
+    "https://egypt-museum.com/bracelets-of-queen-hetepheres/",
+    "https://tutankhamun.griffith.ox.ac.uk/index%2ephp/object-records/175",
+    "https://en.wikipedia.org/wiki/Tutankhamun%27s_trumpets"
+  ]
+}

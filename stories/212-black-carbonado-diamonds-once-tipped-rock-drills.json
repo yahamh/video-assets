@@ -1,0 +1,140 @@
+{
+  "id": "212-black-carbonado-diamonds-once-tipped-rock-drills",
+  "number": 212,
+  "title": "Black carbonado diamonds once tipped rock drills",
+  "topic": "carbonado black diamond porous aggregate brazil central african republic joined continents 3.8 billion years space origin 2006 portuguese prospectors charcoal sergio rock drills enigma 555.55 sotheby's 2022",
+  "music": "music-212.wav",
+  "hook": {
+    "text": "Black carbonado diamonds once tipped rock drills.",
+    "gold": [
+      "carbonado",
+      "drills."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Black carbonado diamonds once tipped rock drills.",
+      "say": "Black kar-buh-NAY-doh diamonds once tipped rock drills.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#2a2a2e"
+      }
+    },
+    {
+      "text": "Carbonado is a porous black clump of tiny diamond crystals.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2a2a2e",
+        "label": "Tiny crystals, one clump"
+      }
+    },
+    {
+      "text": "It is found only in Brazil and the Central African Republic.",
+      "scene": {
+        "kind": "title",
+        "text": "Two places",
+        "sub": "Brazil and Africa"
+      }
+    },
+    {
+      "text": "Long ago South America and Africa were joined.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5bb4e8",
+        "label": "Once joined"
+      }
+    },
+    {
+      "text": "Some studies say it is about 3.8 billion years old.",
+      "say": "Some studies say it is about three point eight billion years old.",
+      "scene": {
+        "kind": "title",
+        "text": "3.8 billion",
+        "sub": "Years old, say some"
+      }
+    },
+    {
+      "text": "Scientists still debate how it formed.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2a2a2e",
+        "label": "Still debated"
+      }
+    },
+    {
+      "text": "One 2006 study suggested it may have come from space.",
+      "say": "One two thousand six study suggested it may have come from space.",
+      "scene": {
+        "kind": "title",
+        "text": "2006",
+        "sub": "A study says space"
+      }
+    },
+    {
+      "text": "Portuguese prospectors named it for its charcoal look.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4a4a52",
+        "label": "Named for charcoal"
+      }
+    },
+    {
+      "text": "A Brazilian one weighing over 3,000 carats was cut up for drills.",
+      "say": "A Brazilian one weighing over three thousand carats was cut up for drills.",
+      "scene": {
+        "kind": "title",
+        "text": "3,000 carats",
+        "sub": "Cut up for drills"
+      }
+    },
+    {
+      "text": "A cut carbonado of 555.55 carats sold at Sotheby's in 2022.",
+      "say": "A cut carbonado of five hundred fifty-five point five five carats sold at Sotheby's in twenty twenty-two.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2a2a2e",
+        "label": "555.55 carats"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Black carbonado diamonds once tipped rock drills. Carbonado is a porous black clump of tiny diamond crystals. It is found only in Brazil and the Central African Republic, and long ago South America and Africa were joined. Some studies say it is about 3.8 billion years old. Scientists still debate how it formed, and one 2006 study suggested it may have come from space. Portuguese prospectors named it for its charcoal look. A Brazilian one weighing over 3,000 carats was cut up for drills. A cut carbonado of 555.55 carats sold at Sotheby's in 2022.",
+    "hashtags": [
+      "#carbonado",
+      "#blackdiamond",
+      "#diamonds",
+      "#gemology",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/summer-2017-carbonado-diamond",
+    "https://www.britannica.com/print/article/287017",
+    "https://ui.adsabs.harvard.edu/abs/2014ESRv..130...49H",
+    "https://www.livescience.com/enigma-black-diamond-auction",
+    "https://www.npr.org/transcripts/1074010139",
+    "https://www.bnl.gov/newsroom/news.php?a=110576",
+    "https://www.discovermagazine.com/the-sciences/60-diamonds-from-outer-space",
+    "https://en.wikipedia.org/wiki/Sergio_(carbonado)",
+    "https://www.gem.org.au/ag-article/the-sergio-the-life-and-times-of-the-worlds-largest-carbonado-part-2/",
+    "https://geology.com/diamond/carbonado",
+    "https://nationaljeweler.com/articles/10607-555-carat-enigma-black-diamond-sells-for-4-3m-via-cryptocurrency",
+    "https://phys.org/news/2022-02-black-diamond-largest-million.pdf"
+  ]
+}

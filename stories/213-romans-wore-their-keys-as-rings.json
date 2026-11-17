@@ -1,0 +1,139 @@
+{
+  "id": "213-romans-wore-their-keys-as-rings",
+  "number": 213,
+  "title": "Romans wore their keys as rings",
+  "topic": "roman key rings thin hoop tiny key box locks caskets valuables no pockets harder to lose bronze iron 2 centimeters first to fourth century harvard met",
+  "style": "lowpoly",
+  "music": "music-213.wav",
+  "hook": {
+    "text": "Romans wore their keys as rings.",
+    "gold": [
+      "Romans",
+      "rings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Romans wore their keys as rings.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#b98a5a",
+        "halo": "#e8c898"
+      }
+    },
+    {
+      "text": "A thin hoop held a tiny key set at right angles.",
+      "scene": {
+        "kind": "title",
+        "text": "A tiny key",
+        "sub": "On a thin hoop"
+      }
+    },
+    {
+      "text": "The keys really worked on locks for small boxes.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b98a5a",
+        "halo": "#e8c898",
+        "label": "Real box locks"
+      }
+    },
+    {
+      "text": "They opened small caskets that held jewelry and other valuables.",
+      "scene": {
+        "kind": "title",
+        "text": "Small caskets",
+        "sub": "Holding valuables"
+      }
+    },
+    {
+      "text": "Roman clothes often lacked pockets, so a ring kept the key close.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8d8d96",
+        "halo": "#d0d0d8",
+        "label": "No pockets"
+      }
+    },
+    {
+      "text": "A worn key was harder to lose or to steal.",
+      "scene": {
+        "kind": "title",
+        "text": "Hard to lose",
+        "sub": "Hard to steal"
+      }
+    },
+    {
+      "text": "Most surviving ones are bronze or iron.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b98a5a",
+        "halo": "#e8c898",
+        "label": "Bronze or iron"
+      }
+    },
+    {
+      "text": "Some are only about 2 centimeters across.",
+      "say": "Some are only about two centimeters across.",
+      "scene": {
+        "kind": "title",
+        "text": "2 cm",
+        "sub": "Across, for some"
+      }
+    },
+    {
+      "text": "Museums date them from the 1st to the 4th century AD.",
+      "say": "Museums date them from the first to the fourth century A D.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b98a5a",
+        "halo": "#e8c898",
+        "label": "1st to 4th century"
+      }
+    },
+    {
+      "text": "Harvard Art Museums and the Met both hold examples.",
+      "scene": {
+        "kind": "title",
+        "text": "On display",
+        "sub": "Harvard and the Met"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Romans wore their keys as rings. A thin hoop held a tiny key set at right angles, and the keys really worked on locks for small boxes. They opened small caskets that held jewelry and other valuables. Roman clothes often lacked pockets, so a ring kept the key close, and a worn key was harder to lose or to steal. Most surviving ones are bronze or iron. Some are only about 2 centimeters across. Museums date them from the 1st to the 4th century AD. Harvard Art Museums and the Met both hold examples.",
+    "hashtags": [
+      "#romanjewelry",
+      "#keyring",
+      "#ancientrome",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://harvardartmuseums.org/collections/object/186624",
+    "https://harvardartmuseums.org/collections/object/186526",
+    "https://uqantiquitiesonlineexhibitions.omeka.net/items/show/113",
+    "https://api.vam.ac.uk/v2/object/O377794",
+    "https://collections.vam.ac.uk/item/O122113/ring-unknown",
+    "https://www.londonmuseum.org.uk/collections/v/object-7358/key-ring-key",
+    "https://www.londonmuseum.org.uk/collections/v/object-135487/iron-key-ring-key",
+    "https://www.metmuseum.org/art/collection/search/681657",
+    "https://museum.wales/collections/online/object/d787f32a-9ac3-3405-a9ce-c16246a064cb",
+    "https://www.britishmuseum.org/collection/object/H_1855-0912-1"
+  ]
+}

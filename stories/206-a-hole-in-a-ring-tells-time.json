@@ -1,0 +1,137 @@
+{
+  "id": "206-a-hole-in-a-ring-tells-time",
+  "number": 206,
+  "title": "A hole in a ring tells time",
+  "topic": "ring dial brass sundial pinhole dot of light hour scale thumb neck cord latitudes shakespeare as you like it 1599 science museum basel 1700s",
+  "music": "music-206.wav",
+  "hook": {
+    "text": "A hole in a ring tells time.",
+    "gold": [
+      "hole",
+      "time."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A hole in a ring tells time.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c9964a"
+      }
+    },
+    {
+      "text": "It is called a ring dial, a small brass sundial.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "shape": "round",
+        "tone": "#c9964a",
+        "metal": "yellow",
+        "label": "A ring dial"
+      }
+    },
+    {
+      "text": "Many hung from a thumb or from a neck cord.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9964a",
+        "label": "Thumb or neck cord"
+      }
+    },
+    {
+      "text": "Sunlight passes through a tiny pinhole in the ring.",
+      "scene": {
+        "kind": "title",
+        "text": "A pinhole",
+        "sub": "Lets the sun in"
+      }
+    },
+    {
+      "text": "A dot of light lands on an hour scale inside the ring.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f7c23a",
+        "label": "A dot of light"
+      }
+    },
+    {
+      "text": "The light itself shows the hour, with no shadow.",
+      "scene": {
+        "kind": "title",
+        "text": "Light",
+        "sub": "No shadow needed"
+      }
+    },
+    {
+      "text": "You slide the pinhole to the month first.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9964a",
+        "label": "Slide to the month"
+      }
+    },
+    {
+      "text": "Some rings are engraved with the latitudes where they work best.",
+      "scene": {
+        "kind": "title",
+        "text": "Latitudes",
+        "sub": "Engraved inside"
+      }
+    },
+    {
+      "text": "Shakespeare may mention one in As You Like It, from 1599.",
+      "say": "Shakespeare may mention one in As You Like It, from fifteen ninety-nine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a98be0",
+        "label": "As You Like It"
+      }
+    },
+    {
+      "text": "Museums in London and Basel hold ring dials from the 1700s.",
+      "say": "Museums in London and BAH-zul hold ring dials from the seventeen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Museums",
+        "sub": "London and Basel"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A hole in a ring tells time. It is called a ring dial, a small brass sundial, and many hung from a thumb or from a neck cord. Sunlight passes through a tiny pinhole in the ring, and a dot of light lands on an hour scale inside the ring. The light itself shows the hour, with no shadow. You slide the pinhole to the month first. Some rings are engraved with the latitudes where they work best. Shakespeare may mention one in As You Like It, from 1599. Museums in London and Basel hold ring dials from the 1700s.",
+    "hashtags": [
+      "#ringdial",
+      "#sundial",
+      "#antiquejewelry",
+      "#shakespeare",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.whipplemuseum.cam.ac.uk/objects/10369",
+    "https://shakespeare.org.uk/explore-shakespeare/blogs/shakespeare-100-objects-pocket-dial",
+    "https://www.hmb.ch/en/museums/eguides/a/e/equinoctial-sundial-ring-sundial-2",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co535/portable-universal-ring-sundial-universal-ring-sundial",
+    "https://www.rmg.co.uk/collections/objects/rmgc-object-10438",
+    "https://www.rmg.co.uk/collections/objects/rmgc-object-10573",
+    "https://chsi.emuseum.com/objects/16271/ring-sundial",
+    "https://www.lindahall.org/experience/digital-exhibitions/sun-in-early-modernity/02-chronometry-timekeeping-and-the-sun/scientific-dials/",
+    "https://shakespeare-navigators.ewu.edu/as_you_like_it/AYLI_Note_2_7_20.html",
+    "https://www.sites.hps.cam.ac.uk/starry/sundpoems.html",
+    "https://en.wikipedia.org/wiki/Sundial"
+  ]
+}

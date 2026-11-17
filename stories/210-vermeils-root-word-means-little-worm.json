@@ -1,0 +1,156 @@
+{
+  "id": "210-vermeils-root-word-means-little-worm",
+  "number": 210,
+  "title": "Vermeil's root word means little worm",
+  "topic": "vermeil gold over sterling silver ftc 10 karat 2.5 microns thicker than gold plate bright red little worm vermiculus dye insect fire gilding mercury paste electroplating",
+  "style": "lowpoly",
+  "music": "music-210.wav",
+  "hook": {
+    "text": "Vermeil's root word means little worm.",
+    "gold": [
+      "Vermeil's",
+      "worm."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Vermeil's root word means little worm.",
+      "say": "Ver-MAY's root word means little worm.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0"
+      }
+    },
+    {
+      "text": "Vermeil is sterling silver coated with a thick layer of gold.",
+      "say": "Ver-MAY is sterling silver coated with a thick layer of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Vermeil",
+        "sub": "Gold over silver"
+      }
+    },
+    {
+      "text": "Sterling silver is at least 92.5 percent pure silver.",
+      "say": "Sterling silver is at least ninety-two point five percent pure silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9d6de",
+        "halo": "#e8f0f6",
+        "label": "92.5 percent silver"
+      }
+    },
+    {
+      "text": "In the United States the gold must be at least 10 karat.",
+      "say": "In the United States the gold must be at least ten karat.",
+      "scene": {
+        "kind": "title",
+        "text": "10 karat",
+        "sub": "Gold, at least"
+      }
+    },
+    {
+      "text": "It must also equal about 2.5 microns of pure gold.",
+      "say": "It must also equal about two point five microns of pure gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "About 2.5 microns"
+      }
+    },
+    {
+      "text": "That is thicker than the minimum for gold plate.",
+      "scene": {
+        "kind": "title",
+        "text": "Thicker",
+        "sub": "Than gold plate"
+      }
+    },
+    {
+      "text": "The word is French for bright red.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d63a2e",
+        "halo": "#ffb8a8",
+        "label": "Bright red"
+      }
+    },
+    {
+      "text": "Its root is Latin for little worm, the insect behind red dye.",
+      "say": "Its root is Latin for little worm, the insect behind red dye.",
+      "scene": {
+        "kind": "title",
+        "text": "Little worm",
+        "sub": "A dye insect"
+      }
+    },
+    {
+      "text": "Old gilders ground gold into mercury to make a paste.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b8b8c0",
+        "halo": "#e0e0e8",
+        "label": "Gold and mercury"
+      }
+    },
+    {
+      "text": "Heat drove off the mercury and left a gold skin.",
+      "scene": {
+        "kind": "title",
+        "text": "Fire gilding",
+        "sub": "Heat left the gold"
+      }
+    },
+    {
+      "text": "Today the gold is applied by electroplating.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "halo": "#ffe3a0",
+        "label": "Electroplating"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Vermeil's root word means little worm. Vermeil is sterling silver coated with a thick layer of gold, and sterling silver is at least 92.5 percent pure silver. In the United States the gold must be at least 10 karat. It must also equal about 2.5 microns of pure gold, which is thicker than the minimum for gold plate. The word is French for bright red, and its root is Latin for little worm, the insect behind red dye. Old gilders ground gold into mercury to make a paste. Heat drove off the mercury and left a gold skin. Today the gold is applied by electroplating.",
+    "hashtags": [
+      "#vermeil",
+      "#goldvermeil",
+      "#sterlingsilver",
+      "#jewelryhistory",
+      "#etymology"
+    ]
+  },
+  "sources": [
+    "https://www.law.cornell.edu/cfr/text/16/23.4",
+    "https://www.govinfo.gov/content/pkg/FR-2018-08-16/html/2018-17454.htm",
+    "https://www.ganoksin.com/ftp/JVC_guide.pdf",
+    "https://www.britannica.com/art/sterling-metallurgy",
+    "https://chipstone.org/html/2014/20-Research-Blog-2.htm",
+    "https://www.merriam-webster.com/dictionary/vermeil",
+    "https://www.dictionary.com/browse/vermeil",
+    "https://www.etymonline.com/word/vermeil",
+    "https://www.metmuseum.org/essays/fire-gilding-of-arms-and-armor",
+    "https://www.vam.ac.uk/articles/metalworking-techniques",
+    "https://www.bluenile.com/blog/diamonds-jewelry/gold-vermeil",
+    "https://www.jewelersmutual.com/resources/individuals/gold/vermeil-vs-gold-filled-vs-gold-plated"
+  ]
+}
