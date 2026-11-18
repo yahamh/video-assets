@@ -2559,7 +2559,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1873302037194901",
+      "instagram": "https://www.instagram.com/reel/Df5G5yZmVbz/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709574015064591622",
+      "youtube": "https://www.youtube.com/watch?v=2_fdu-QE-Cc"
+    }
   },
   "161-victorias-engagement-ring-was-a-gold-snake": {
     "at": "2026-11-18T19:30:00Z",
@@ -2568,7 +2575,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1448645956823514",
+      "instagram": "https://www.instagram.com/reel/Df5QvDUDaFQ/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709595267217018113"
+    }
   },
   "162-this-garnet-has-more-fire-than-diamond": {
     "at": "2026-11-18T21:00:00Z",
@@ -2577,7 +2590,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1076130982106481",
+      "instagram": "https://www.instagram.com/reel/Df5bQAulOfr/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709619831275851015"
+    }
   },
   "163-this-opal-turns-clear-in-water": {
     "at": "2026-11-18T23:00:00Z",
@@ -2587,7 +2606,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1176977334975550",
+      "instagram": "https://www.instagram.com/reel/Df5pEMqlLBt/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709650989380308245",
+      "youtube": "https://www.youtube.com/watch?v=Aac37gpjqmo"
+    }
   },
   "164-this-ruby-was-grown-in-a-flame": {
     "at": "2026-11-19T00:30:00Z",
@@ -2923,7 +2949,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1169608089079119",
+      "instagram": "https://www.instagram.com/reel/Df5iAjNj2ev/"
+    }
   },
   "191-meteorite-crashes-can-turn-graphite-into-diamond": {
     "at": "2026-11-19T03:30:00Z",
@@ -3572,6 +3603,73 @@
       "instagram"
     ]
   },
+  "258-fordite-is-jewelry-made-from-car-paint": {
+    "at": "2026-11-20T16:30:00Z",
+    "zernio_id": "6afe37826d0754c8403b80f4",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "259-cufflinks-were-once-called-sleeve-buttons": {
+    "at": "2026-11-20T17:00:00Z",
+    "zernio_id": "6afe378d6d0754c8403b814f",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "260-hatpins-got-their-own-city-laws": {
+    "at": "2026-11-20T18:00:00Z",
+    "zernio_id": "6afe3799f7e5737ac6ccb4c5",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "261-a-draw-plate-stretches-gold-into-thread": {
+    "at": "2026-11-20T19:30:00Z",
+    "zernio_id": "6afe37a26d0754c8403b81b4",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "262-brooch-comes-from-a-word-for-skewer": {
+    "at": "2026-11-20T21:00:00Z",
+    "zernio_id": "6afe37aef7e5737ac6ccb51e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "263-vulcanite-is-rubber-hardened-into-jewelry": {
+    "at": "2026-11-20T22:00:00Z",
+    "zernio_id": "6afe37b86d0754c8403b822c",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "264-obsidian-is-glass-made-by-volcanoes": {
+    "at": "2026-11-20T23:00:00Z",
+    "zernio_id": "6afe37c09bf0750ffefb720d",
+    "platforms": [
+      "instagram",
+      "youtube"
+    ]
+  },
+  "265-bolo-ties-are-official-in-three-states": {
+    "at": "2026-11-21T00:00:00Z",
+    "zernio_id": "6afe37c79bf0750ffefb7227",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -4147,6 +4245,13 @@
   "lesson-032-sapphire-hardness": {
     "at": "2026-11-24T16:00:00Z",
     "zernio_id": "6afce3b9ec68059de6f6e856",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-033-diamond-color-grades": {
+    "at": "2026-11-25T16:00:00Z",
+    "zernio_id": "6afe37ce9bf0750ffefb7256",
     "platforms": [
       "youtube"
     ]
