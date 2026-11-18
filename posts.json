@@ -2496,7 +2496,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1772231783852484",
+      "instagram": "https://www.instagram.com/reel/Df4Zy2SFKP4/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709472094228155654"
+    }
   },
   "157-gold-is-not-weighed-in-regular-ounces": {
     "at": "2026-11-18T13:00:00Z",
@@ -2505,7 +2511,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1619807922689934",
+      "instagram": "https://www.instagram.com/reel/Df4kVy5jrRu/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709496244942425365"
+    }
   },
   "158-beeswax-reattached-this-gold-masks-beard": {
     "at": "2026-11-18T14:00:00Z",
@@ -2515,7 +2527,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3288913317969316",
+      "instagram": "https://www.instagram.com/reel/Df4rgGKES1A/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709512301853854997",
+      "youtube": "https://www.youtube.com/watch?v=3LSFq2X7sgE"
+    }
   },
   "159-turn-this-gem-and-its-color-changes": {
     "at": "2026-11-18T16:30:00Z",
@@ -2524,7 +2543,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1307575428176267",
+      "instagram": "https://www.instagram.com/reel/Df48IHFnUWj/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709549527128116532"
+    }
   },
   "160-this-diamond-was-cut-for-candlelight": {
     "at": "2026-11-18T18:00:00Z",
@@ -2885,7 +2910,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1360251372753068",
+      "instagram": "https://www.instagram.com/reel/Df4yGXJHIe6/"
+    }
   },
   "190-a-kings-grave-inspired-napoleons-golden-bees": {
     "at": "2026-11-18T22:00:00Z",
@@ -3308,7 +3338,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2914630518936758",
+      "instagram": "https://www.instagram.com/reel/Df4doNkEXIk/",
+      "youtube": "https://www.youtube.com/watch?v=3JvT84O7Nr8"
+    }
   },
   "233-libertys-copper-skin-is-hammered-like-jewelry": {
     "at": "2026-11-18T12:30:00Z",
@@ -3316,7 +3352,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1610064823669514",
+      "instagram": "https://www.instagram.com/reel/Df4g4iqoQoO/"
+    }
   },
   "234-palladium-is-named-for-an-asteroid": {
     "at": "2026-11-18T13:30:00Z",
@@ -3324,14 +3365,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1490701663007814",
+      "instagram": "https://www.instagram.com/reel/Df4npjLHDij/"
+    }
   },
   "235-ultramarine-means-beyond-the-sea": {
     "at": "2026-11-18T14:30:00Z",
     "zernio_id": "6afd3d569cfdb545601a6a6a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df4uejxDGX6/"
+    }
   },
   "236-damascene-jewelry-is-gold-hammered-into-steel": {
     "at": "2026-11-18T15:30:00Z",
@@ -3339,21 +3389,34 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1173631895017888",
+      "instagram": "https://www.instagram.com/reel/Df41Sm_iAvF/"
+    }
   },
   "237-cut-steel-once-sparkled-like-diamonds": {
     "at": "2026-11-18T16:00:00Z",
     "zernio_id": "6afd3d66cb1c9a0cc23459e0",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df449mTDxQ8/"
+    }
   },
   "238-pearl-dealers-use-a-unit-called-momme": {
     "at": "2026-11-18T17:00:00Z",
     "zernio_id": "6afd3d6d9cfdb545601a6acd",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df4__jXDDS2/"
+    }
   },
   "239-pietra-dura-is-italian-for-hard-stones": {
     "at": "2026-11-19T11:00:00Z",
@@ -3431,6 +3494,81 @@
     "zernio_id": "6afd90c1ae542007c2ce5cef",
     "platforms": [
       "facebook",
+      "instagram"
+    ]
+  },
+  "249-a-roman-bulla-was-a-gold-bubble": {
+    "at": "2026-11-20T12:00:00Z",
+    "zernio_id": "6afde38c18d85fee266ef059",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "250-posy-rings-hid-tiny-poems-inside": {
+    "at": "2026-11-20T12:30:00Z",
+    "zernio_id": "6afde39d18d85fee266ef0ac",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "251-berlin-iron-jewelry-looked-like-black-lace": {
+    "at": "2026-11-20T13:00:00Z",
+    "zernio_id": "6afde3b096bcc02e2f9a90a7",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "252-trembler-brooches-shake-diamonds-on-tiny-springs": {
+    "at": "2026-11-20T13:30:00Z",
+    "zernio_id": "6afde3bbd141231e38c8e9a1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "253-micromosaic-brooches-hold-thousands-of-glass-tiles": {
+    "at": "2026-11-20T14:00:00Z",
+    "zernio_id": "6afde3c1fc42492dc2ca153f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "254-chatelaines-stood-in-for-missing-pockets": {
+    "at": "2026-11-20T14:30:00Z",
+    "zernio_id": "6afde3cafc78b95143dcaac1",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "255-intaglio-gems-can-hide-a-battle-scene": {
+    "at": "2026-11-20T15:00:00Z",
+    "zernio_id": "6afde3d49423b81d8957ccec",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "256-a-cairngorm-albert-found-became-victorias-brooch": {
+    "at": "2026-11-20T15:30:00Z",
+    "zernio_id": "6afde3e2fc78b95143dcab25",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "257-a-pomander-opened-like-an-orange": {
+    "at": "2026-11-20T16:00:00Z",
+    "zernio_id": "6afde3eefc78b95143dcab71",
+    "platforms": [
       "instagram"
     ]
   },
@@ -3661,7 +3799,11 @@
     "zernio_id": "6aed43c9f3fb1201c3be19e5",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=aLyoIAkHbug"
+    }
   },
   "lesson-001-gold-colors": {
     "at": "2026-10-28T20:13:08Z",
@@ -3961,7 +4103,11 @@
     "zernio_id": "6af4f266f8ceb346bc22a514",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=-6DTvaHbQQc"
+    }
   },
   "lesson-027-ear-wire": {
     "at": "2026-11-19T16:00:00Z",
