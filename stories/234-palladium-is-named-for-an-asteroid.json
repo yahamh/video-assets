@@ -1,0 +1,139 @@
+{
+  "id": "234-palladium-is-named-for-an-asteroid",
+  "number": 234,
+  "title": "Palladium is named for an asteroid",
+  "topic": "palladium named pallas asteroid olbers 1802 wollaston new silver 1803 reward platinum group white 1939 950 hallmark",
+  "style": "lowpoly",
+  "music": "music-234.wav",
+  "hook": {
+    "text": "Palladium is named for an asteroid.",
+    "gold": [
+      "Palladium",
+      "asteroid."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Palladium is named for an asteroid.",
+      "say": "puh-LAY-dee-um is named for an asteroid.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#bfc5cc"
+      }
+    },
+    {
+      "text": "Heinrich Olbers found the asteroid Pallas in March 1802.",
+      "say": "HINE-rikh OL-bers found the asteroid PAL-us in March eighteen oh two.",
+      "scene": {
+        "kind": "title",
+        "text": "Pallas",
+        "sub": "Found in 1802"
+      }
+    },
+    {
+      "text": "The asteroid is named for the goddess Pallas Athena.",
+      "say": "The asteroid is named for the goddess PAL-us uh-THEE-nuh.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#bfc5cc",
+        "label": "Pallas Athena"
+      }
+    },
+    {
+      "text": "Around 1802 the chemist William Wollaston named his new metal after it.",
+      "say": "Around eighteen oh two the chemist William WOOL-uh-stun named his new metal after it.",
+      "scene": {
+        "kind": "title",
+        "text": "Wollaston",
+        "sub": "Named it after Pallas"
+      }
+    },
+    {
+      "text": "In 1803 he sold it anonymously as Palladium, or New Silver.",
+      "say": "In eighteen oh three he sold it anonymously as Palladium, or New Silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#bfc5cc",
+        "label": "New Silver, 1803"
+      }
+    },
+    {
+      "text": "A rival chemist called it an alloy of platinum and mercury.",
+      "scene": {
+        "kind": "title",
+        "text": "Doubters",
+        "sub": "A rival's claim"
+      }
+    },
+    {
+      "text": "Wollaston offered 20 pounds to anyone who could make it. Nobody did.",
+      "say": "WOOL-uh-stun offered twenty pounds to anyone who could make it. Nobody did.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#bfc5cc",
+        "label": "A 20 pound reward"
+      }
+    },
+    {
+      "text": "It is naturally white and the lightest metal in the platinum group.",
+      "scene": {
+        "kind": "title",
+        "text": "Platinum",
+        "sub": "Lightest in its group"
+      }
+    },
+    {
+      "text": "Jewelers began using it around 1939, when platinum was needed for war.",
+      "say": "Jewelers began using it around nineteen thirty nine, when platinum was needed for war.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#bfc5cc",
+        "label": "Around 1939"
+      }
+    },
+    {
+      "text": "A 950 stamp means the piece is 95 percent palladium.",
+      "say": "A nine fifty stamp means the piece is ninety five percent palladium.",
+      "scene": {
+        "kind": "title",
+        "text": "950",
+        "sub": "Means 95 percent"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Palladium is named for an asteroid. Heinrich Olbers found the asteroid Pallas in March 1802. The asteroid is named for the goddess Pallas Athena. Around 1802 the chemist William Wollaston named his new metal after it. In 1803 he sold it anonymously as Palladium, or New Silver. A rival chemist called it an alloy of platinum and mercury. Wollaston offered 20 pounds to anyone who could make it. Nobody did. It is naturally white and the lightest metal in the platinum group. Jewelers began using it around 1939, when platinum was needed for war. A 950 stamp means the piece is 95 percent palladium.",
+    "hashtags": [
+      "#palladium",
+      "#platinumgroup",
+      "#whitemetal",
+      "#chemistry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/topic/Pallas",
+    "https://en.wikipedia.org/wiki/2_Pallas",
+    "https://spacecentre.nz/resources/db/2_Pallas.html",
+    "https://www.rsc.org/periodic-table/element/46/palladium",
+    "https://www.lindahall.org/about/news/scientist-of-the-day/william-hyde-wollaston/",
+    "https://www.chemistryworld.com/features/two-men-two-centuries-four-metals/3004876.article",
+    "https://lateralscience.blogspot.com/2018/02/wollastons-discovery-of-controversial.html",
+    "https://www.assayofficelondon.co.uk/media/2595/palladium-an-introduction.pdf",
+    "https://www.rapaport.com/magazine-article/palladiums-allure/",
+    "https://en.wikipedia.org/wiki/Palladium"
+  ]
+}

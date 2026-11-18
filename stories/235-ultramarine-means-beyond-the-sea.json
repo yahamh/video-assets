@@ -1,0 +1,146 @@
+{
+  "id": "235-ultramarine-means-beyond-the-sea",
+  "number": 235,
+  "title": "Ultramarine means beyond the sea",
+  "topic": "ultramarine pigment lapis lazuli badakhshan afghanistan ground kneaded dough washes virgin robes synthetic prize 1824 guimet 1828",
+  "style": "paper",
+  "plate": "Ultramarine",
+  "theme": "sky",
+  "music": "music-235.wav",
+  "hook": {
+    "text": "Ultramarine means beyond the sea.",
+    "gold": [
+      "Ultramarine",
+      "sea."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ultramarine means beyond the sea.",
+      "say": "UL-truh-muh-REEN means beyond the sea.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#1f3fae",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The name is said to point to lapis imported from Asia.",
+      "scene": {
+        "kind": "title",
+        "text": "Lapis",
+        "sub": "Imported from Asia",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The finest lapis came from Badakhshan, in northeastern Afghanistan.",
+      "say": "The finest lapis came from bah-dahk-SHAHN, in northeastern Afghanistan.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1f3fae",
+        "label": "Lapis lazuli",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Grinding lapis alone gives only a dull grayish blue.",
+      "scene": {
+        "kind": "title",
+        "text": "Grinding",
+        "sub": "Gives dull gray",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A resin and wax dough washed the blue out of the powder.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1f3fae",
+        "label": "Dough washes blue",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The first washes gave the best blue, and later ones were grayer.",
+      "scene": {
+        "kind": "title",
+        "text": "Best wash",
+        "sub": "Came first",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Some sources say it sometimes cost more than gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1f3fae",
+        "label": "Some say dearer",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Painters used it sparingly, often for the robes of the Virgin.",
+      "scene": {
+        "kind": "title",
+        "text": "Sparingly",
+        "sub": "Virgin's robes",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In 1824 a French society offered a prize for a synthetic version.",
+      "say": "In eighteen twenty four a French society offered a prize for a synthetic version.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1f3fae",
+        "label": "Prize, 1824",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Guimet won the prize in 1828 with a recipe from 1826.",
+      "say": "gee-MAY won the prize in eighteen twenty eight with a recipe from eighteen twenty six.",
+      "scene": {
+        "kind": "title",
+        "text": "Guimet",
+        "sub": "Won in 1828",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Ultramarine means beyond the sea. The name is said to point to lapis imported from Asia. The finest lapis came from Badakhshan, in northeastern Afghanistan. Grinding lapis alone gives only a dull grayish blue. A resin and wax dough washed the blue out of the powder. The first washes gave the best blue, and later ones were grayer. Some sources say it sometimes cost more than gold. Painters used it sparingly, often for the robes of the Virgin. In 1824 a French society offered a prize for a synthetic version. Guimet won the prize in 1828 with a recipe from 1826.",
+    "hashtags": [
+      "#ultramarine",
+      "#lapislazuli",
+      "#pigment",
+      "#afghanistan",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nationalgallery.org.uk/podcast/colour-stories-blue",
+    "https://colourlex.com/project/ultramarine/",
+    "https://www.britannica.com/topic/lapis-lazuli",
+    "https://www.nationalgallery.org.uk/exhibitions/past/making-colour/journey-through-colour",
+    "https://blog.library.si.edu/blog/2023/09/12/in-search-of-the-perfect-blue/",
+    "https://www.chemistryworld.com/news/synthetic-ultramarines-recipe-revealed/5910.article",
+    "https://webexhibits.org/pigments/indiv/history/ultramarine.html",
+    "https://en.wikipedia.org/wiki/Jean-Baptiste_Guimet"
+  ]
+}

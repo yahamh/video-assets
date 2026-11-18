@@ -1,0 +1,137 @@
+{
+  "id": "236-damascene-jewelry-is-gold-hammered-into-steel",
+  "number": 236,
+  "title": "Damascene jewelry is gold hammered into steel",
+  "topic": "damascene damascening gold silver wire inlaid steel iron scored hammered blackened pavonado toledo spain eibar zuloaga 2026 cultural asset",
+  "music": "music-236.wav",
+  "hook": {
+    "text": "Damascene jewelry is gold hammered into steel.",
+    "gold": [
+      "Damascene",
+      "steel."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Damascene jewelry is gold hammered into steel.",
+      "say": "DAM-uh-seen jewelry is gold hammered into steel.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "Damascene work inlays gold or silver wire into iron or steel.",
+      "say": "DAM-uh-seen work inlays gold or silver wire into iron or steel.",
+      "scene": {
+        "kind": "title",
+        "text": "Inlay",
+        "sub": "Wire set in steel"
+      }
+    },
+    {
+      "text": "Its name alludes to Damascus, the Syrian city.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a8f98",
+        "label": "Damascus, Syria"
+      }
+    },
+    {
+      "text": "First the steel is scored with a fine crosshatch pattern.",
+      "scene": {
+        "kind": "title",
+        "text": "Scored",
+        "sub": "Crosshatched steel"
+      }
+    },
+    {
+      "text": "Then the wire is hammered into the scored surface.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Wire hammered in"
+      }
+    },
+    {
+      "text": "Last, the steel is blackened in a hot bath, called pavonado.",
+      "say": "Last, the steel is blackened in a hot bath, called pah-voh-NAH-doh.",
+      "scene": {
+        "kind": "title",
+        "text": "Blackened",
+        "sub": "Last, in a hot bath"
+      }
+    },
+    {
+      "text": "In Toledo, Spain, workshops still make it by hand.",
+      "say": "In toh-LAY-doh, Spain, workshops still make it by hand.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Toledo, by hand"
+      }
+    },
+    {
+      "text": "In 1761 King Charles III founded a royal arms factory in Toledo.",
+      "say": "In seventeen sixty one King Charles the Third founded a royal arms factory in toh-LAY-doh.",
+      "scene": {
+        "kind": "title",
+        "text": "1761",
+        "sub": "Royal arms factory"
+      }
+    },
+    {
+      "text": "The Zuloaga family revived the craft in Eibar in the 1860s.",
+      "say": "The thoo-loh-AH-gah family revived the craft in AY-bar in the eighteen sixties.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a8f98",
+        "label": "Eibar, 1860s"
+      }
+    },
+    {
+      "text": "In January 2026 Toledo's damascene craft became a protected cultural asset.",
+      "say": "In January twenty twenty six toh-LAY-doh's damascene craft became a protected cultural asset.",
+      "scene": {
+        "kind": "title",
+        "text": "2026",
+        "sub": "Protected heritage"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Damascene jewelry is gold hammered into steel. Damascene work inlays gold or silver wire into iron or steel. Its name alludes to Damascus, the Syrian city. First the steel is scored with a fine crosshatch pattern. Then the wire is hammered into the scored surface. Last, the steel is blackened in a hot bath, called pavonado. In Toledo, Spain, workshops still make it by hand. In 1761 King Charles III founded a royal arms factory in Toledo. The Zuloaga family revived the craft in Eibar in the 1860s. In January 2026 Toledo's damascene craft became a protected cultural asset.",
+    "hashtags": [
+      "#damascene",
+      "#toledo",
+      "#goldinlay",
+      "#spain",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/damascening",
+    "https://www.metmuseum.org/articles/metalworking-damascening",
+    "https://www.metmuseum.org/articles/damascened-tibetan-knife",
+    "https://cultura.castillalamancha.es/sites/default/files/2026-01/2026_184.pdf",
+    "https://www.stripes.com/travel/toledo-ancient-art-of-of-damascening-lives-on-with-artisans-in-spain-1.732",
+    "https://wol.jw.org/en/wol/d/r1/lp-e/102005045",
+    "https://www.turismo.toledo.es/ver/artesania.html",
+    "https://armia-eibar.eus/",
+    "https://en.wikipedia.org/wiki/Pl%C3%A1cido_Zuloaga",
+    "https://lacerca.com/noticias/castilla_la_mancha/gobierno-declara-interes-cultural-damasquinado-toledo-797822-1.html"
+  ]
+}

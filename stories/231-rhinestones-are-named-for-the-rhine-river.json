@@ -1,0 +1,141 @@
+{
+  "id": "231-rhinestones-are-named-for-the-rhine-river",
+  "number": 231,
+  "title": "Rhinestones are named for the Rhine River",
+  "topic": "rhinestone etymology rhine river caillou du rhin rock crystal paste georg friedrich strass strasbourg lead glass swarovski 1892 wattens",
+  "style": "lowpoly",
+  "music": "music-231.wav",
+  "hook": {
+    "text": "Rhinestones are named for the Rhine River.",
+    "gold": [
+      "Rhinestones",
+      "Rhine"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rhinestones are named for the Rhine River.",
+      "say": "RYNE-stones are named for the Rhine River.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#eef4f7"
+      }
+    },
+    {
+      "text": "It translates the French caillou du Rhin, meaning Rhine pebble.",
+      "say": "It translates the French kah-YOO dew RAN, meaning Rhine pebble.",
+      "scene": {
+        "kind": "title",
+        "text": "The Rhine",
+        "sub": "Caillou du Rhin"
+      }
+    },
+    {
+      "text": "The first ones were said to be rock crystal from the Rhine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#dfe9ee",
+        "label": "Rock crystal"
+      }
+    },
+    {
+      "text": "Clear rock crystal was a cheap way to imitate diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "Imitation",
+        "sub": "Of diamond"
+      }
+    },
+    {
+      "text": "Today rhinestones are usually glass or paste.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#dfe9ee",
+        "label": "Glass or paste"
+      }
+    },
+    {
+      "text": "Georg Friedrich Strass, an Alsatian jeweler, worked in Paris around 1730.",
+      "say": "GAY-org FREE-drikh SHTRAHSS, an Alsatian jeweler, worked in Paris around seventeen thirty.",
+      "scene": {
+        "kind": "title",
+        "text": "Strass",
+        "sub": "Alsatian jeweler"
+      }
+    },
+    {
+      "text": "He coated the underside of lead glass with metal powder.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8eef2",
+        "label": "Metal powder"
+      }
+    },
+    {
+      "text": "Strass still means rhinestone in many European languages.",
+      "say": "SHTRAHSS still means rhinestone in many European languages.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#dfe9ee",
+        "label": "Still called strass"
+      }
+    },
+    {
+      "text": "Daniel Swarovski patented an electric machine for cutting crystal in 1892.",
+      "say": "Daniel svah-ROF-skee patented an electric machine for cutting crystal in eighteen ninety two.",
+      "scene": {
+        "kind": "title",
+        "text": "1892",
+        "sub": "Swarovski's patent"
+      }
+    },
+    {
+      "text": "He founded his firm in Wattens, Austria, in 1895.",
+      "say": "He founded his firm in VAH-tens, Austria, in eighteen ninety five.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#dfe9ee",
+        "label": "Wattens, 1895"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Rhinestones are named for the Rhine River. It translates the French caillou du Rhin, meaning Rhine pebble. The first ones were said to be rock crystal from the Rhine. Clear rock crystal was a cheap way to imitate diamond. Today rhinestones are usually glass or paste. Georg Friedrich Strass, an Alsatian jeweler, worked in Paris around 1730. He coated the underside of lead glass with metal powder. Strass still means rhinestone in many European languages. Daniel Swarovski patented an electric machine for cutting crystal in 1892. He founded his firm in Wattens, Austria, in 1895.",
+    "hashtags": [
+      "#rhinestone",
+      "#strass",
+      "#swarovski",
+      "#costumejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/rhinestone",
+    "https://www.adin.be/en/blog/rhinestones-vs-crystals-the-history-and-differences-between-two-sparkling-gems/",
+    "https://www.britannica.com/technology/rhinestone",
+    "https://www.mfa.org/",
+    "https://www.merriam-webster.com/dictionary/rhinestone",
+    "https://en.wikipedia.org/wiki/Georg_Friedrich_Strass",
+    "https://www.ganoksin.com/article/history-of-strass/",
+    "https://www.ericaweiner.com/",
+    "https://www.swarovski.com/",
+    "https://www.encyclopedia.com/"
+  ]
+}

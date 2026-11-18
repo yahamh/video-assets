@@ -1,0 +1,139 @@
+{
+  "id": "239-pietra-dura-is-italian-for-hard-stones",
+  "number": 239,
+  "title": "Pietra dura is Italian for hard stones",
+  "topic": "pietra dura commesso florence hard stones thin slices joined lapis jasper medici 1588 uffizi galleria dei lavori brooches souvenirs opificio",
+  "music": "music-239.wav",
+  "hook": {
+    "text": "Pietra dura is Italian for hard stones.",
+    "gold": [
+      "Pietra",
+      "stones."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pietra dura is Italian for hard stones.",
+      "say": "PYEH-trah DOO-rah is Italian for hard stones.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#2c4fa8"
+      }
+    },
+    {
+      "text": "It is a Florentine art of joining thin slices of colored stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Pietra dura",
+        "sub": "Hard stones"
+      }
+    },
+    {
+      "text": "Each slice is cut to shape and joined edge to edge.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2c4fa8",
+        "label": "Cut to shape"
+      }
+    },
+    {
+      "text": "The joins are filed so smooth that the seams barely show.",
+      "scene": {
+        "kind": "title",
+        "text": "Seams",
+        "sub": "Filed to vanish"
+      }
+    },
+    {
+      "text": "Craftsmen used stones such as lapis lazuli and jasper.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2c4fa8",
+        "label": "Lapis lazuli"
+      }
+    },
+    {
+      "text": "Rome revived stone inlay in the 1500s, and Florence became a rival.",
+      "say": "Rome revived stone inlay in the fifteen hundreds, and Florence became a rival.",
+      "scene": {
+        "kind": "title",
+        "text": "Rome",
+        "sub": "Florence's rival"
+      }
+    },
+    {
+      "text": "In 1588 Grand Duke Ferdinando de' Medici founded the workshop.",
+      "say": "In fifteen eighty eight Grand Duke fer-dee-NAHN-doh de MED-ih-chee founded the workshop.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a3202e",
+        "label": "Medici, 1588"
+      }
+    },
+    {
+      "text": "It started inside the Uffizi as the Galleria dei Lavori.",
+      "say": "It started inside the oo-FEET-see as the gal-leh-REE-ah day lah-VOH-ree.",
+      "scene": {
+        "kind": "title",
+        "text": "Uffizi",
+        "sub": "Galleria dei Lavori"
+      }
+    },
+    {
+      "text": "Florentine pietra dura brooches were popular tourist souvenirs.",
+      "say": "Florentine PYEH-trah DOO-rah brooches were popular tourist souvenirs.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#2c4fa8",
+        "label": "Tourist souvenirs"
+      }
+    },
+    {
+      "text": "Today the Opificio delle Pietre Dure restores art in Florence.",
+      "say": "Today the oh-pee-FEE-choh DEL-leh PYEH-treh DOO-reh restores art in Florence.",
+      "scene": {
+        "kind": "title",
+        "text": "Today",
+        "sub": "A restoration center"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pietra dura is Italian for hard stones. It is a Florentine art of joining thin slices of colored stone. Each slice is cut to shape and joined edge to edge. The joins are filed so smooth that the seams barely show. Craftsmen used stones such as lapis lazuli and jasper. Rome revived stone inlay in the 1500s, and Florence became a rival. In 1588 Grand Duke Ferdinando de' Medici founded the workshop. It started inside the Uffizi as the Galleria dei Lavori. Florentine pietra dura brooches were popular tourist souvenirs. Today the Opificio delle Pietre Dure restores art in Florence.",
+    "hashtags": [
+      "#pietradura",
+      "#florence",
+      "#commesso",
+      "#stoneinlay",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/exhibitions/listings/2008/pietre-dure",
+    "https://www.britannica.com/topic/pietra-dura",
+    "https://www.britannica.com/art/commesso",
+    "https://www.finestresullarte.info/en/works-and-artists/history-of-the-florentine-commesso",
+    "https://www.lacma.org/node/33161",
+    "https://www.apollo-magazine.com/?p=978825",
+    "https://collections.vam.ac.uk/item/O61542",
+    "https://opificiodellepietredure.cultura.gov.it/en/the-institute/",
+    "https://www.coopculture.it/en/poi/opificio-delle-pietre-dure-museum/",
+    "https://collections.vam.ac.uk/item/O374573/brooch",
+    "https://risdmuseum.org/art-design/collection/pietra-dura-brooch-24009"
+  ]
+}

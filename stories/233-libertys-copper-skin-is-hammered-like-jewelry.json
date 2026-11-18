@@ -1,0 +1,139 @@
+{
+  "id": "233-libertys-copper-skin-is-hammered-like-jewelry",
+  "number": 233,
+  "title": "Liberty's copper skin is hammered like jewelry",
+  "topic": "statue of liberty repousse hammered copper bartholdi eiffel framework wooden forms 300 sheets 1886 jewelers hammer punch",
+  "music": "music-233.wav",
+  "hook": {
+    "text": "Liberty's copper skin is hammered like jewelry.",
+    "gold": [
+      "Liberty's",
+      "hammered"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Liberty's copper skin is hammered like jewelry.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c4693a"
+      }
+    },
+    {
+      "text": "The Statue of Liberty's skin is hand hammered copper.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper",
+        "sub": "Hand hammered"
+      }
+    },
+    {
+      "text": "The method is called repoussé, hammering the metal from behind.",
+      "say": "The method is called ruh-poo-SAY, hammering the metal from behind.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4693a",
+        "label": "From behind"
+      }
+    },
+    {
+      "text": "Jewelers do the same with a hammer and punch on sheet gold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Same hammer work"
+      }
+    },
+    {
+      "text": "Sculptor Bartholdi designed it, and work began in France in 1875.",
+      "say": "Sculptor bar-tol-DEE designed it, and work began in France in eighteen seventy five.",
+      "scene": {
+        "kind": "title",
+        "text": "1875",
+        "sub": "Work began in France"
+      }
+    },
+    {
+      "text": "Workers hammered the sheets over wooden forms.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4693a",
+        "label": "Wooden forms"
+      }
+    },
+    {
+      "text": "The copper is only 2.4 millimeters thick, about two pennies.",
+      "say": "The copper is only two point four millimeters thick, about two pennies.",
+      "scene": {
+        "kind": "title",
+        "text": "2.4 mm",
+        "sub": "About two pennies"
+      }
+    },
+    {
+      "text": "More than 300 separate sheets make up the skin.",
+      "say": "More than three hundred separate sheets make up the skin.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4693a",
+        "label": "300 sheets"
+      }
+    },
+    {
+      "text": "Gustave Eiffel designed the iron framework that holds it up.",
+      "say": "Gustave EYE-ful designed the iron framework that holds it up.",
+      "scene": {
+        "kind": "title",
+        "text": "Eiffel",
+        "sub": "Designed the frame"
+      }
+    },
+    {
+      "text": "It was dedicated in New York on October 28, 1886.",
+      "say": "It was dedicated in New York on October twenty eighth, eighteen eighty six.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4693a",
+        "label": "Dedicated 1886"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Liberty's copper skin is hammered like jewelry. The Statue of Liberty's skin is hand hammered copper. The method is called repoussé, hammering the metal from behind. Jewelers do the same with a hammer and punch on sheet gold. Sculptor Bartholdi designed it, and work began in France in 1875. Workers hammered the sheets over wooden forms. The copper is only 2.4 millimeters thick, about two pennies. More than 300 separate sheets make up the skin. Gustave Eiffel designed the iron framework that holds it up. It was dedicated in New York on October 28, 1886.",
+    "hashtags": [
+      "#statueofliberty",
+      "#repousse",
+      "#metalwork",
+      "#goldsmith",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nps.gov/stli/learn/historyculture/building-the-statue.htm",
+    "https://www.britannica.com/topic/Statue-of-Liberty",
+    "https://www.nps.gov/parkhistory/online_books/hh/38/hh38c.htm",
+    "https://www.copper.org/education/c-facts/statue-of-liberty/",
+    "https://artsandculture.google.com/story/the-statue-of-liberty",
+    "https://www.bada.org/glossary/repousse",
+    "https://en.wikipedia.org/wiki/Repouss%C3%A9_and_chasing",
+    "https://www.gia.edu/",
+    "https://www.cooksongold.com/"
+  ]
+}

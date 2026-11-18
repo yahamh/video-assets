@@ -1,0 +1,148 @@
+{
+  "id": "238-pearl-dealers-use-a-unit-called-momme",
+  "number": 238,
+  "title": "Pearl dealers use a unit called momme",
+  "topic": "momme pearl weight unit 3.75 grams kan akoya strands priced japan silk diameter millimeters grains carats mikimoto 1893",
+  "style": "paper",
+  "plate": "Momme",
+  "theme": "watercolor",
+  "music": "music-238.wav",
+  "hook": {
+    "text": "Pearl dealers use a unit called momme.",
+    "gold": [
+      "Pearl",
+      "momme."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pearl dealers use a unit called momme.",
+      "say": "Pearl dealers use a unit called MOH-meh.",
+      "scene": {
+        "kind": "hook",
+        "show": "round-pearl",
+        "tone": "#f2ece4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "One momme is a Japanese weight of exactly 3.75 grams.",
+      "say": "One MOH-meh is a Japanese weight of exactly three point seven five grams.",
+      "scene": {
+        "kind": "title",
+        "text": "Momme",
+        "sub": "A Japanese weight",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "A thousand momme make one kan, which is 3.75 kilograms.",
+      "say": "A thousand MOH-meh make one KAHN, which is three point seven five kilograms.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "1,000 momme, 1 kan",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Akoya pearl strands are priced by their total momme weight.",
+      "say": "ah-KOH-yah pearl strands are priced by their total MOH-meh weight.",
+      "scene": {
+        "kind": "title",
+        "text": "Akoya",
+        "sub": "Priced by the strand",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Wholesalers and producers use momme when they trade pearls.",
+      "say": "Wholesalers and producers use MOH-meh when they trade pearls.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "Used in the trade",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Pearl farms in Japan count their output in kan.",
+      "say": "Pearl farms in Japan count their output in KAHN.",
+      "scene": {
+        "kind": "title",
+        "text": "Kan",
+        "sub": "Counts farm output",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Silk uses momme too, but as a weight per area.",
+      "say": "Silk uses MOH-meh too, but as a weight per area.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "Silk uses it too",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "A round pearl's size is given as a diameter in millimeters.",
+      "scene": {
+        "kind": "title",
+        "text": "Diameter",
+        "sub": "Pearl size, in mm",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Natural pearls are weighed in grains or carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "Grains or carats",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Around 1893 Kokichi Mikimoto grew his first half round pearls in Japan.",
+      "say": "Around eighteen ninety three Kokichi MEE-kee-MOH-toh grew his first half round pearls in Japan.",
+      "scene": {
+        "kind": "title",
+        "text": "1893",
+        "sub": "Mikimoto's first",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pearl dealers use a unit called momme. One momme is a Japanese weight of exactly 3.75 grams. A thousand momme make one kan, which is 3.75 kilograms. Akoya pearl strands are priced by their total momme weight. Wholesalers and producers use momme when they trade pearls. Pearl farms in Japan count their output in kan. Silk uses momme too, but as a weight per area. A round pearl's size is given as a diameter in millimeters. Natural pearls are weighed in grains or carats. Around 1893 Kokichi Mikimoto grew his first half round pearls in Japan.",
+    "hashtags": [
+      "#momme",
+      "#pearls",
+      "#akoya",
+      "#mikimoto",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://pearl-guide.com/threads/pearl-weight.449304/",
+    "https://www.nippon.com/en/japan-data/h01561",
+    "https://www.fao.org/3/AC890E/AC890E02.htm",
+    "https://www.gia.edu/doc/From-Single-Source-to-Global-Free-Market-The-Transformation-of-the-Cultured-Pearl-Industry.pdf",
+    "https://skyjems.ca/pages/encyclopedia-per-momme",
+    "https://pearls.jp/japanese-akoya-pearl-pricing/",
+    "https://en.wikipedia.org/wiki/Momme_(unit)",
+    "https://www.silkworld.com.au/blogs/curated-edits/silk-weights-and-measures",
+    "https://4cs.gia.edu/en-us/blog/pearl-quality-101-gia-examines-classifies-pearls/",
+    "https://antiquejewel.com/glossary/grain",
+    "https://web-japan.org/niponica/niponica14/en/feature/feature02.html"
+  ]
+}

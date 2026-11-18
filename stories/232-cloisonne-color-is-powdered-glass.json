@@ -1,0 +1,146 @@
+{
+  "id": "232-cloisonne-color-is-powdered-glass",
+  "number": 232,
+  "title": "Cloisonné color is powdered glass",
+  "topic": "cloisonne enamel cloisons partitions wire cells powdered glass fired refilled polished cyprus kouklia rings byzantine",
+  "style": "paper",
+  "plate": "Cloisonné",
+  "theme": "blush",
+  "music": "music-232.wav",
+  "hook": {
+    "text": "Cloisonné color is powdered glass.",
+    "gold": [
+      "Cloisonné",
+      "glass."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cloisonné color is powdered glass.",
+      "say": "kloy-zuh-NAY color is powdered glass.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The name comes from French cloisons, meaning partitions.",
+      "say": "The name comes from French klwah-ZON, meaning partitions.",
+      "scene": {
+        "kind": "title",
+        "text": "Cloisons",
+        "sub": "Partitions",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Thin wire is soldered onto a metal base to make cells.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "light": "#fff2c4",
+        "label": "Wire walls",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Each cell is filled with glass enamel, as powder or paste.",
+      "scene": {
+        "kind": "title",
+        "text": "Filled",
+        "sub": "Glass enamel",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Then the piece is fired until the glass melts.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2f6fd0",
+        "label": "Fired glass",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The glass shrinks, so the cells are refilled and fired again.",
+      "scene": {
+        "kind": "title",
+        "text": "Shrinks",
+        "sub": "Refilled, refired",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Last, it is ground and polished until the wire edges show.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "light": "#fff2c4",
+        "label": "Wire edges show",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Six gold rings from a Cyprus tomb are over 3,000 years old.",
+      "say": "Six gold rings from a Cyprus tomb are over three thousand years old.",
+      "scene": {
+        "kind": "title",
+        "text": "Cyprus",
+        "sub": "Over 3,000 years old",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Its great age was Byzantine, from the 10th to the 12th century.",
+      "say": "Its great age was Byzantine, from the tenth to the twelfth century.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fa089",
+        "label": "10th to 12th century",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Makers used it almost only on gold, often for tiny saints.",
+      "scene": {
+        "kind": "title",
+        "text": "Tiny saints",
+        "sub": "Almost only on gold",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cloisonné color is powdered glass. The name comes from French cloisons, meaning partitions. Thin wire is soldered onto a metal base to make cells. Each cell is filled with glass enamel, as powder or paste. Then the piece is fired until the glass melts. The glass shrinks, so the cells are refilled and fired again. Last, it is ground and polished until the wire edges show. Six gold rings from a Cyprus tomb are over 3,000 years old. Its great age was Byzantine, from the 10th to the 12th century. Makers used it almost only on gold, often for tiny saints.",
+    "hashtags": [
+      "#cloisonne",
+      "#enamel",
+      "#byzantine",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/cloisonne",
+    "https://www.metmuseum.org/essays/cloisonne-enamel-in-china",
+    "https://www.metmuseum.org/toah/hd/cloi/hd_cloi.htm",
+    "https://www.si.edu/spotlight/cloisonne",
+    "https://www.ganoksin.com/article/cloisonne-enameling/",
+    "https://en.wikipedia.org/wiki/Cloisonn%C3%A9"
+  ]
+}

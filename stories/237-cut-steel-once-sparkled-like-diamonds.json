@@ -1,0 +1,135 @@
+{
+  "id": "237-cut-steel-once-sparkled-like-diamonds",
+  "number": 237,
+  "title": "Cut steel once sparkled like diamonds",
+  "topic": "cut steel jewelry faceted studs riveted woodstock oxfordshire 1720 boulton soho 1785 wedgwood napoleon marie louise parure 1810 rust",
+  "style": "lowpoly",
+  "music": "music-237.wav",
+  "hook": {
+    "text": "Cut steel once sparkled like diamonds.",
+    "gold": [
+      "steel",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cut steel once sparkled like diamonds.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#9aa3ad"
+      }
+    },
+    {
+      "text": "Tiny faceted steel studs are riveted or screwed onto a metal base.",
+      "scene": {
+        "kind": "title",
+        "text": "Cut steel",
+        "sub": "Faceted steel studs"
+      }
+    },
+    {
+      "text": "Polished facets caught candlelight and glittered like diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9aa3ad",
+        "label": "Candlelight glitter"
+      }
+    },
+    {
+      "text": "Woodstock, Oxfordshire, made steel buckles and chains from about 1720.",
+      "say": "Woodstock, Oxfordshire, made steel buckles and chains from about seventeen twenty.",
+      "scene": {
+        "kind": "title",
+        "text": "1720",
+        "sub": "Woodstock, Oxfordshire"
+      }
+    },
+    {
+      "text": "Birmingham and Wolverhampton became major centers too.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9aa3ad",
+        "label": "Birmingham"
+      }
+    },
+    {
+      "text": "Matthew Boulton's Soho factory made buttons and chatelaines around 1785.",
+      "say": "Matthew BOHL-tun's Soho factory made buttons and SHAT-uh-laynes around seventeen eighty five.",
+      "scene": {
+        "kind": "title",
+        "text": "Soho",
+        "sub": "Boulton's factory"
+      }
+    },
+    {
+      "text": "Boulton paired it with blue and white Wedgwood jasper plaques.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#6fa3d8",
+        "label": "Wedgwood plaques"
+      }
+    },
+    {
+      "text": "Napoleon gave Marie Louise a cut steel parure around 1810.",
+      "say": "Napoleon gave ma-REE loo-EEZ a cut steel pa-ROOR around eighteen ten.",
+      "scene": {
+        "kind": "title",
+        "text": "Napoleon",
+        "sub": "A parure, about 1810"
+      }
+    },
+    {
+      "text": "Later, machine stamped strips replaced riveted studs and quality fell.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9aa3ad",
+        "label": "Stamped strips"
+      }
+    },
+    {
+      "text": "Steel rusts and is brittle, so few old pieces survive.",
+      "scene": {
+        "kind": "title",
+        "text": "Rust",
+        "sub": "Few pieces survive"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cut steel once sparkled like diamonds. Tiny faceted steel studs are riveted or screwed onto a metal base. Polished facets caught candlelight and glittered like diamonds. Woodstock, Oxfordshire, made steel buckles and chains from about 1720. Birmingham and Wolverhampton became major centers too. Matthew Boulton's Soho factory made buttons and chatelaines around 1785. Boulton paired it with blue and white Wedgwood jasper plaques. Napoleon gave Marie Louise a cut steel parure around 1810. Later, machine stamped strips replaced riveted studs and quality fell. Steel rusts and is brittle, so few old pieces survive.",
+    "hashtags": [
+      "#cutsteel",
+      "#georgianjewelry",
+      "#antiquejewelry",
+      "#boulton",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cut_steel_jewellery",
+    "https://collections.vam.ac.uk/item/O74131",
+    "https://fetheray.com/blogs/news/cut-steel",
+    "https://collections.vam.ac.uk/item/O78508",
+    "https://www.metmuseum.org/art/collection/search/24708",
+    "https://www.metmuseum.org/art/collection/search/843259",
+    "https://www.langantiques.com/university/cut-steel-jewelry/",
+    "https://www.revolutionaryplayers.org.uk/?p=2707",
+    "https://www.morninggloryjewelry.com/articles/gallery/victorian-cut-steel/"
+  ]
+}
