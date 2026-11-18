@@ -1,0 +1,137 @@
+{
+  "id": "261-a-draw-plate-stretches-gold-into-thread",
+  "number": 261,
+  "title": "A draw plate stretches gold into thread",
+  "topic": "draw plate wire drawing gold thread tapered holes anneal strips twisted antiquity theophilus diamond die gram hundreds of meters",
+  "style": "lowpoly",
+  "music": "music-261.wav",
+  "hook": {
+    "text": "A draw plate stretches gold into thread.",
+    "gold": [
+      "draw",
+      "thread."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A draw plate stretches gold into thread.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#e0a92e"
+      }
+    },
+    {
+      "text": "It is a steel plate with a row of tapered holes.",
+      "scene": {
+        "kind": "title",
+        "text": "Plate",
+        "sub": "Steel, tapered holes"
+      }
+    },
+    {
+      "text": "A jeweler points the wire and pulls it through one hole.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e0a92e",
+        "label": "Pointed, then pulled"
+      }
+    },
+    {
+      "text": "Then a smaller hole, and a smaller one after that.",
+      "scene": {
+        "kind": "title",
+        "text": "Smaller",
+        "sub": "And smaller again"
+      }
+    },
+    {
+      "text": "Pulling hardens the metal, so it is heated every few holes.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8742a",
+        "label": "Heated every few holes"
+      }
+    },
+    {
+      "text": "For much of antiquity, gold wire was not drawn at all.",
+      "say": "For much of an-TIK-wih-tee, gold wire was not drawn at all.",
+      "scene": {
+        "kind": "title",
+        "text": "Long ago",
+        "sub": "Not drawn at all"
+      }
+    },
+    {
+      "text": "Jewelers cut strips from hammered sheet and twisted them.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9a441",
+        "label": "Strips, then twisted"
+      }
+    },
+    {
+      "text": "The earliest written description of a draw plate comes from the 1100s.",
+      "say": "The earliest written description of a draw plate comes from the eleven hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Treatise",
+        "sub": "A craft book, 1100s"
+      }
+    },
+    {
+      "text": "The finest wire is drawn through a hole in a single diamond.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#bfe6f2",
+        "label": "A single diamond"
+      }
+    },
+    {
+      "text": "One gram of gold can make hundreds of meters of wire.",
+      "scene": {
+        "kind": "title",
+        "text": "Hundreds",
+        "sub": "Of meters per gram"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A draw plate stretches gold into thread. It is a steel plate with a row of tapered holes. A jeweler points the wire and pulls it through one hole. Then a smaller hole, and a smaller one after that. Pulling hardens the metal, so it is heated every few holes. For much of antiquity, gold wire was not drawn at all. Jewelers cut strips from hammered sheet and twisted them. The earliest written description of a draw plate comes from the 1100s. The finest wire is drawn through a hole in a single diamond. One gram of gold can make hundreds of meters of wire.",
+    "hashtags": [
+      "#drawplate",
+      "#wiredrawing",
+      "#goldsmith",
+      "#jewelrymaking",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Draw_plate",
+    "https://www.ganoksin.com/ftp/Making-wire-and-tube.pdf",
+    "https://www.ganoksin.com/article/wire-drawing-hints/",
+    "https://britannica.com/technology/wire",
+    "https://en.wikipedia.org/wiki/Wire",
+    "https://langantiques.com/university/gold-wire",
+    "https://rd.springer.com/chapter/10.1007/978-94-009-4177-9_3",
+    "https://sourcebooks.web.fordham.edu/source/theophilus.asp",
+    "https://www.taylorfrancis.com/books/9781136612565/chapters/10.4324/9780203462256-33",
+    "https://en.wikipedia.org/wiki/Wire_drawing",
+    "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Wire",
+    "https://en.wikipedia.org/wiki/Wollaston_wire",
+    "https://www.rsc.org/periodic-table/element/79/gold",
+    "https://www.xetra-gold.com/en/detail/figure-of-the-month-3-kilometres/"
+  ]
+}

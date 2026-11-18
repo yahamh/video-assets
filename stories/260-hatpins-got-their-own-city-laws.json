@@ -1,0 +1,135 @@
+{
+  "id": "260-hatpins-got-their-own-city-laws",
+  "number": 260,
+  "title": "Hatpins got their own city laws",
+  "topic": "hatpins long pins big hats merry widow chicago 1910 ordinance half inch crown point protectors potato",
+  "music": "music-260.wav",
+  "hook": {
+    "text": "Hatpins got their own city laws.",
+    "gold": [
+      "Hatpins",
+      "laws."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hatpins got their own city laws.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c9a0e0"
+      }
+    },
+    {
+      "text": "From about 1890 into the 1920s, big hats needed long pins.",
+      "say": "From about eighteen ninety into the nineteen twenties, big hats needed long pins.",
+      "scene": {
+        "kind": "title",
+        "text": "Big hats",
+        "sub": "Needed long pins"
+      }
+    },
+    {
+      "text": "Some hatpins grew to about a foot long.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9ccd2",
+        "label": "About a foot long"
+      }
+    },
+    {
+      "text": "Heads came in enamel and glass, and butterflies were a favorite shape.",
+      "scene": {
+        "kind": "title",
+        "text": "Heads",
+        "sub": "Glass, enamel, stones"
+      }
+    },
+    {
+      "text": "The Merry Widow hat was nearly two feet wide, or more.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e07a8a",
+        "label": "Merry Widow hat"
+      }
+    },
+    {
+      "text": "In 1910 Chicago passed a law on hatpins.",
+      "say": "In nineteen ten Chicago passed a law on hatpins.",
+      "scene": {
+        "kind": "title",
+        "text": "1910",
+        "sub": "Chicago passes a law"
+      }
+    },
+    {
+      "text": "A pin could stick out only half an inch past the crown.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9ccd2",
+        "label": "Half an inch"
+      }
+    },
+    {
+      "text": "An alderman said women could wear carrots and roosters if they liked.",
+      "scene": {
+        "kind": "title",
+        "text": "Roosters",
+        "sub": "On a hat, if you like"
+      }
+    },
+    {
+      "text": "Point protectors sold by the thousands within days.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9a441",
+        "label": "Point protectors"
+      }
+    },
+    {
+      "text": "Bits of potato also served as point covers.",
+      "scene": {
+        "kind": "title",
+        "text": "Potato",
+        "sub": "A handy point cover"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Hatpins got their own city laws. From about 1890 into the 1920s, big hats needed long pins. Some hatpins grew to about a foot long. Heads came in enamel and glass, and butterflies were a favorite shape. The Merry Widow hat was nearly two feet wide, or more. In 1910 Chicago passed a law on hatpins. A pin could stick out only half an inch past the crown. An alderman said women could wear carrots and roosters if they liked. Point protectors sold by the thousands within days. Bits of potato also served as point covers.",
+    "hashtags": [
+      "#hatpins",
+      "#edwardianfashion",
+      "#hatpinpanic",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://blog.nationalmuseum.ch/en/2025/10/an-accessory-with-a-dangerous-twist/",
+    "https://www.collectorsweekly.com/articles/an-interview-with-antique-hatpin-collector-jodi-lenocker",
+    "https://navettejewellery.org/2022/01/18/hatpins-part-1/",
+    "https://www.weirdhistorian.com/merry-widow-hats-were-not-always-so-merry/",
+    "https://encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/womens-hats",
+    "https://www.fashionhistorymuseum.com/post/getting-the-point-hatpins-as-weapons",
+    "https://melmagazine.com/en-us/story/hatpin-panic-1900s",
+    "https://www.mentalfloss.com/history/how-hatpin-became-tool-womens-liberation",
+    "https://en.wikipedia.org/wiki/Hatpin",
+    "https://atlasobscura.com/articles/hatpins-mashers-self-defense-history-women-hats-fashion",
+    "https://www.nordlandsmuseet.no/en/samling-1/kampen-mot-hattenlen",
+    "https://dodgyperth.com/tag/hatpins/"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "258-fordite-is-jewelry-made-from-car-paint",
+  "number": 258,
+  "title": "Fordite is jewelry made from car paint",
+  "topic": "fordite detroit agate hardened car paint overspray hand spray skids ovens cabochon electrostatic",
+  "style": "lowpoly",
+  "music": "music-258.wav",
+  "hook": {
+    "text": "Fordite is jewelry made from car paint.",
+    "gold": [
+      "Fordite",
+      "paint."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fordite is jewelry made from car paint.",
+      "say": "FOR-dyte is jewelry made from car paint.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#2aa7a0"
+      }
+    },
+    {
+      "text": "It is hardened paint that built up in old car factories.",
+      "scene": {
+        "kind": "title",
+        "text": "Car paint",
+        "sub": "Hardened, not a stone"
+      }
+    },
+    {
+      "text": "Spray that missed the car landed on the racks and piled up.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d0382a",
+        "label": "Missed the car"
+      }
+    },
+    {
+      "text": "Layer upon layer, it baked again and again in the ovens.",
+      "scene": {
+        "kind": "title",
+        "text": "Ovens",
+        "sub": "Baked again and again"
+      }
+    },
+    {
+      "text": "Workers noticed the colors and began cutting and polishing chunks.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2b6fd0",
+        "label": "Cut like gem rock"
+      }
+    },
+    {
+      "text": "Each layer is a color popular when that car was sprayed.",
+      "scene": {
+        "kind": "title",
+        "text": "Layers",
+        "sub": "Colors of the day"
+      }
+    },
+    {
+      "text": "The boldest metallic colors come from the 1960s and 1970s.",
+      "say": "The boldest metallic colors come from the nineteen sixties and nineteen seventies.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#7a3fb0",
+        "label": "Bold 1960s, 1970s"
+      }
+    },
+    {
+      "text": "A flat cut shows stripes, but cutting into a bump shows bullseyes.",
+      "scene": {
+        "kind": "title",
+        "text": "Bullseyes",
+        "sub": "Cut into the bumps"
+      }
+    },
+    {
+      "text": "It is shaped into smooth cabochons and set in silver.",
+      "say": "It is shaped into smooth KAB-uh-shonz and set in silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#1fa89a",
+        "label": "Polished cabochon"
+      }
+    },
+    {
+      "text": "Hand spraying ended by the 1980s, so the old supply is limited.",
+      "say": "Hand spraying ended by the nineteen eighties, so the old supply is limited.",
+      "scene": {
+        "kind": "title",
+        "text": "1980s",
+        "sub": "Hand spraying ended"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Fordite is jewelry made from car paint. It is hardened paint that built up in old car factories. Spray that missed the car landed on the racks and piled up. Layer upon layer, it baked again and again in the ovens. Workers noticed the colors and began cutting and polishing chunks. Each layer is a color popular when that car was sprayed. The boldest metallic colors come from the 1960s and 1970s. A flat cut shows stripes, but cutting into a bump shows bullseyes. It is shaped into smooth cabochons and set in silver. Hand spraying ended by the 1980s, so the old supply is limited.",
+    "hashtags": [
+      "#fordite",
+      "#detroitagate",
+      "#carpaint",
+      "#cabochon",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fordite",
+    "https://www.jalopnik.com/1945310/fordite-detroit-agate-history/",
+    "https://gia.edu/gems-gemology/spring-2016-gemnews-fordite-corvette-assembly-plant",
+    "https://atlasobscura.com/articles/fordite-paint-jewelry-gemstones-ford-cars-automotive-detroit",
+    "https://audubon.org/news/fordite-collectors",
+    "https://guides.library.upenn.edu/materials-library-blog/posts/Gems-from-the-Motor-City",
+    "https://www.hagerty.com/media/automotive-history/fordite-a-motor-city-gemstone/",
+    "https://www.rockngem.com/fordite/",
+    "https://diashop.org/fordite/",
+    "https://www.nationaljeweler.com/articles/1007-5-things-to-know-about-fordite"
+  ]
+}

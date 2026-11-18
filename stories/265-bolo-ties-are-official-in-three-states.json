@@ -1,0 +1,159 @@
+{
+  "id": "265-bolo-ties-are-official-in-three-states",
+  "number": 265,
+  "title": "Bolo ties are official in three states",
+  "topic": "bolo tie bola official state neckwear arizona 1971 new mexico texas 2007 silversmith hatband concha turquoise slide wyoming dress code",
+  "style": "paper",
+  "plate": "Bolo tie",
+  "theme": "watercolor",
+  "music": "music-265.wav",
+  "hook": {
+    "text": "Bolo ties are official in three states.",
+    "gold": [
+      "Bolo",
+      "states."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Bolo ties are official in three states.",
+      "say": "BOH-loh ties are official in three states.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#2aa7a0",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Arizona went first, naming it official neckwear in 1971.",
+      "say": "Arizona went first, naming it official neckwear in nineteen seventy one.",
+      "scene": {
+        "kind": "title",
+        "text": "Arizona",
+        "sub": "First, in 1971",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "New Mexico and Texas both made it their state tie in 2007.",
+      "say": "New Mexico and Texas both made it their state tie in two thousand seven.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2aa7a0",
+        "label": "Both in 2007",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The name probably comes from the bola, a South American cowboy rope.",
+      "say": "The name probably comes from the BOH-lah, a South American cowboy rope.",
+      "scene": {
+        "kind": "title",
+        "text": "Bola",
+        "sub": "A cowboy's rope",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Legend says a silversmith wore his hatband as a tie while riding.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9ced6",
+        "label": "A hatband as a tie",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Earlier still, Native men tied a silver concha at the neck.",
+      "say": "Earlier still, Native men tied a silver KON-cha at the neck.",
+      "scene": {
+        "kind": "title",
+        "text": "Earlier",
+        "sub": "A silver concha",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Hopi and Navajo silversmiths have made bolo slides in silver.",
+      "say": "HOH-pee and NAV-uh-hoh silversmiths have made BOH-loh slides in silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9ced6",
+        "label": "Slides in silver",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Slides are usually silver, most often set with turquoise.",
+      "say": "Slides are usually silver, most often set with TUR-koyz.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#2aa7a0",
+        "label": "Silver and turquoise",
+        "velvet": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Slid up to the collar, it dresses up like a necktie.",
+      "scene": {
+        "kind": "title",
+        "text": "Collar",
+        "sub": "Dressy or casual",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Wyoming's legislative dress code says bolo ties shall be permitted.",
+      "say": "wy-OH-ming's legislative dress code says BOH-loh ties shall be permitted.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d0382a",
+        "label": "Allowed in Wyoming",
+        "color": "#c8dc3c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Bolo ties are official in three states. Arizona went first, naming it official neckwear in 1971. New Mexico and Texas both made it their state tie in 2007. The name probably comes from the bola, a South American cowboy rope. Legend says a silversmith wore his hatband as a tie while riding. Earlier still, Native men tied a silver concha at the neck. Hopi and Navajo silversmiths have made bolo slides in silver. Slides are usually silver, most often set with turquoise. Slid up to the collar, it dresses up like a necktie. Wyoming's legislative dress code says bolo ties shall be permitted.",
+    "hashtags": [
+      "#bolotie",
+      "#turquoisejewelry",
+      "#arizona",
+      "#westernstyle",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bolo_tie",
+    "https://www.npr.org/sections/thetwo-way/2011/11/23/142718524/bolo-ties-not-just-for-westerns",
+    "https://www.phoenixnewtimes.com/arts-culture/the-bolo-tie-a-vintage-art-and-contemporary-fashion-statement-on-display-at-the-heard-museum-6568095",
+    "https://www.arizonahighways.com/archive/issues/chapter/Doc.902.Chapter.16",
+    "https://www.deseret.com/2011/11/21/20232586/arizona-museum-displays-bolo-ties-symbol-of-west",
+    "https://www.sos.nm.gov/about-new-mexico/state-bolo-tie/",
+    "https://capitol.texas.gov/tlodocs/80R/billtext/html/HC00012F.htm",
+    "https://www.merriam-webster.com/dictionary/bolo%20tie",
+    "https://www.phoenixmag.com/?p=153336",
+    "https://ictnews.org/archive/heard-museum-spotlights-native-american-bolo-ties/",
+    "https://sarweb.org/?p=31698",
+    "https://www.artofmanliness.com/style/accessories/never-underestimate-the-bolo-tie-baby/",
+    "https://wyoleg.gov/MediaRoomDocs/Dress%20Code.pdf",
+    "https://wyofile.com/lawmakers-deregulate-dress-in-cheyenne/"
+  ]
+}

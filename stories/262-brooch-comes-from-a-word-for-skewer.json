@@ -1,0 +1,154 @@
+{
+  "id": "262-brooch-comes-from-a-word-for-skewer",
+  "number": 262,
+  "title": "Brooch comes from a word for skewer",
+  "topic": "brooch word origin french broche pointed tool spit latin broccus broach brochure broccoli hunterston brooch",
+  "style": "paper",
+  "plate": "Brooch",
+  "theme": "blush",
+  "music": "music-262.wav",
+  "hook": {
+    "text": "Brooch comes from a word for skewer.",
+    "gold": [
+      "Brooch",
+      "skewer."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Brooch comes from a word for skewer.",
+      "say": "BROHCH comes from a word for skewer.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e8b24a",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It comes from French broche, a pointed tool like an awl.",
+      "say": "It comes from French BROSH, a pointed tool like an awl.",
+      "scene": {
+        "kind": "title",
+        "text": "Broche",
+        "sub": "A pointed tool",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Behind that is Latin broccus, meaning pointed or projecting.",
+      "say": "Behind that is Latin BROK-us, meaning pointed or projecting.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8b24a",
+        "label": "Latin broccus",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Modern French broche still means both a brooch and a roasting spit.",
+      "say": "Modern French BROSH still means both a brooch and a roasting spit.",
+      "scene": {
+        "kind": "title",
+        "text": "Spit",
+        "sub": "Still the same word",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Brooch and broach began as one word, with two spellings later.",
+      "say": "BROHCH and BROHCH began as one word, with two spellings later.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "One word, two spellings",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "To broach a subject began as tapping a cask.",
+      "scene": {
+        "kind": "title",
+        "text": "Cask",
+        "sub": "To broach a subject",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Brochure meant a stitched work when it arrived in English in 1748.",
+      "say": "Brochure meant a stitched work when it arrived in English in seventeen forty eight.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfae6a",
+        "label": "A stitched work",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Broccoli is a cousin, from Italian for a shoot or small nail.",
+      "scene": {
+        "kind": "title",
+        "text": "Broccoli",
+        "sub": "A shoot or small nail",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The Hunterston Brooch was made around the year 700.",
+      "say": "The HUN-ter-stun Brooch was made around the year seven hundred.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#b0203a",
+        "label": "Hunterston Brooch",
+        "velvet": "#a98be0"
+      }
+    },
+    {
+      "text": "Two centuries later someone scratched the owner's name on its back.",
+      "scene": {
+        "kind": "title",
+        "text": "Runes",
+        "sub": "A name on the back",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Brooch comes from a word for skewer. It comes from French broche, a pointed tool like an awl. Behind that is Latin broccus, meaning pointed or projecting. Modern French broche still means both a brooch and a roasting spit. Brooch and broach began as one word, with two spellings later. To broach a subject began as tapping a cask. Brochure meant a stitched work when it arrived in English in 1748. Broccoli is a cousin, from Italian for a shoot or small nail. The Hunterston Brooch was made around the year 700. Two centuries later someone scratched the owner's name on its back.",
+    "hashtags": [
+      "#brooch",
+      "#wordorigins",
+      "#etymology",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/broach",
+    "https://www.merriam-webster.com/dictionary/broach",
+    "https://www.merriam-webster.com/dictionary/brooch",
+    "https://www.dictionary.com/browse/brooch",
+    "https://grammarphobia.com/blog/2015/01/brooch.html",
+    "https://www.etymonline.com/word/brochure",
+    "https://www.merriam-webster.com/dictionary/brochure",
+    "https://en.wiktionary.org/wiki/broche",
+    "https://www.larousse.fr/dictionnaires/french-english/broche/11141",
+    "https://www.etymonline.com/word/broccoli",
+    "https://www.nms.ac.uk/hunterstonbrooch.aspx/",
+    "https://www.worldhistory.org/article/1689/celtic-brooches/"
+  ]
+}

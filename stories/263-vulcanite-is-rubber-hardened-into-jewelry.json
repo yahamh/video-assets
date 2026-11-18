@@ -1,0 +1,141 @@
+{
+  "id": "263-vulcanite-is-rubber-hardened-into-jewelry",
+  "number": 263,
+  "title": "Vulcanite is rubber hardened into jewelry",
+  "topic": "vulcanite ebonite hardened rubber jewelry goodyear 1839 vulcanization sulfur jet substitute molded fades brown",
+  "music": "music-263.wav",
+  "hook": {
+    "text": "Vulcanite is rubber hardened into jewelry.",
+    "gold": [
+      "Vulcanite",
+      "rubber"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Vulcanite is rubber hardened into jewelry.",
+      "say": "VUL-kuh-nyt is rubber hardened into jewelry.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#5a6078"
+      }
+    },
+    {
+      "text": "Heating rubber with sulfur is called vulcanizing, after the god Vulcan.",
+      "say": "Heating rubber with sulfur is called VUL-kuh-nyz-ing, after the god VUL-kun.",
+      "scene": {
+        "kind": "title",
+        "text": "Vulcan",
+        "sub": "Roman god of fire"
+      }
+    },
+    {
+      "text": "Charles Goodyear discovered the process in 1839.",
+      "say": "Charles GOOD-yeer discovered the process in eighteen thirty nine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c9a14a",
+        "label": "Goodyear, 1839"
+      }
+    },
+    {
+      "text": "The popular story says a rubber mix touched a hot stove.",
+      "scene": {
+        "kind": "title",
+        "text": "Hot stove",
+        "sub": "As the story goes"
+      }
+    },
+    {
+      "text": "Far more sulfur and longer heating turns rubber hard and dense.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5a6078",
+        "label": "Hard and dense"
+      }
+    },
+    {
+      "text": "That hard black form is called ebonite, after ebony wood.",
+      "say": "That hard black form is called EB-uh-nyt, after ebony wood.",
+      "scene": {
+        "kind": "title",
+        "text": "Ebonite",
+        "sub": "Named for ebony"
+      }
+    },
+    {
+      "text": "By the 1850s it was a popular, cheaper substitute for jet.",
+      "say": "By the eighteen fifties it was a popular, cheaper substitute for jet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#505670",
+        "label": "Instead of jet"
+      }
+    },
+    {
+      "text": "It was molded into brooches and bracelets, so identical pieces turn up.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#505670",
+        "label": "Molded, not carved"
+      }
+    },
+    {
+      "text": "Light slowly fades the black toward brown.",
+      "scene": {
+        "kind": "title",
+        "text": "Fades",
+        "sub": "Black toward brown"
+      }
+    },
+    {
+      "text": "Rub it or warm it and it gives off a sulfur smell.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9b86a",
+        "label": "A sulfur smell"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Vulcanite is rubber hardened into jewelry. Heating rubber with sulfur is called vulcanizing, after the god Vulcan. Charles Goodyear discovered the process in 1839. The popular story says a rubber mix touched a hot stove. Far more sulfur and longer heating turns rubber hard and dense. That hard black form is called ebonite, after ebony wood. By the 1850s it was a popular, cheaper substitute for jet. It was molded into brooches and bracelets, so identical pieces turn up. Light slowly fades the black toward brown. Rub it or warm it and it gives off a sulfur smell.",
+    "hashtags": [
+      "#vulcanite",
+      "#ebonite",
+      "#victorianjewelry",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/technology/vulcanization",
+    "https://en.wikipedia.org/wiki/Charles_Goodyear",
+    "https://lemelson.mit.edu/resources/charles-goodyear",
+    "https://pslc.ws/macrog/exp/rubber/sepisode/spill.htm",
+    "https://www.etymonline.com/word/vulcanize",
+    "https://navettejewellery.org/2023/08/09/plastics-in-antique-jewellery-natural-semi-synthetic-and-synthetic-part-ii-semi-synthetic-vulcanite/",
+    "https://cameo.mfa.org/wiki/Vulcanized_rubber",
+    "https://plastic-en.tool.cultureelerfgoed.nl/plastics/detail/HVR",
+    "https://cameo.mfa.org/wiki/Ebonite",
+    "https://www.metmuseum.org/art/collection/search/16809",
+    "https://www.jckonline.com/magazine-article/identifying-the-materials-in-antique-jewelry/",
+    "https://en.wikipedia.org/wiki/Ebonite"
+  ]
+}

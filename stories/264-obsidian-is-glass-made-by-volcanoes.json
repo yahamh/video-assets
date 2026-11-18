@@ -1,0 +1,143 @@
+{
+  "id": "264-obsidian-is-glass-made-by-volcanoes",
+  "number": 264,
+  "title": "Obsidian is glass made by volcanoes",
+  "topic": "obsidian volcanic glass conchoidal fracture mohs 5 turkey ear ornaments bracelet mirrors yellowstone ohio chemical fingerprint cabochon",
+  "style": "lowpoly",
+  "music": "music-264.wav",
+  "hook": {
+    "text": "Obsidian is glass made by volcanoes.",
+    "gold": [
+      "Obsidian",
+      "volcanoes."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Obsidian is glass made by volcanoes.",
+      "say": "ub-SID-ee-un is glass made by volcanoes.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#4a5170"
+      }
+    },
+    {
+      "text": "It forms when lava cools too fast for crystals to grow.",
+      "say": "It forms when lava cools too fast for crystals to grow.",
+      "scene": {
+        "kind": "title",
+        "text": "Glass",
+        "sub": "Made by lava"
+      }
+    },
+    {
+      "text": "It breaks into smooth curved pieces with very sharp edges.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#4a5170",
+        "label": "Curved, sharp edges"
+      }
+    },
+    {
+      "text": "It scores about 5 to 5.5 on the Mohs scale.",
+      "say": "It scores about five to five point five on the MOHZ scale.",
+      "scene": {
+        "kind": "title",
+        "text": "5 to 5.5",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "In Turkey, about 10,000 years ago, stone ear ornaments included obsidian.",
+      "say": "In Turkey, about ten thousand years ago, stone ear ornaments included obsidian.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8a4a2a",
+        "label": "Ear ornaments"
+      }
+    },
+    {
+      "text": "An obsidian bracelet nearly 10,000 years old was polished like a mirror.",
+      "say": "An obsidian bracelet nearly ten thousand years old was polished like a mirror.",
+      "scene": {
+        "kind": "title",
+        "text": "Bracelet",
+        "sub": "Nearly 10,000 years old"
+      }
+    },
+    {
+      "text": "Around 8,000 years ago, people in Anatolia polished obsidian into mirrors.",
+      "say": "Around eight thousand years ago, people in an-uh-TOH-lee-uh polished obsidian into mirrors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5a6490",
+        "label": "Polished mirrors"
+      }
+    },
+    {
+      "text": "Obsidian from Yellowstone was traded as far as Ohio.",
+      "scene": {
+        "kind": "title",
+        "text": "Ohio",
+        "sub": "From Yellowstone"
+      }
+    },
+    {
+      "text": "Each volcano's obsidian has its own chemical fingerprint.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#2b6fd0",
+        "label": "Chemical fingerprint"
+      }
+    },
+    {
+      "text": "Today it is cut into smooth cabochons on diamond wheels.",
+      "say": "Today it is cut into smooth KAB-uh-shonz on diamond wheels.",
+      "scene": {
+        "kind": "title",
+        "text": "Cabochon",
+        "sub": "Cut on diamond wheels"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Obsidian is glass made by volcanoes. It forms when lava cools too fast for crystals to grow. It breaks into smooth curved pieces with very sharp edges. It scores about 5 to 5.5 on the Mohs scale. In Turkey, about 10,000 years ago, stone ear ornaments included obsidian. An obsidian bracelet nearly 10,000 years old was polished like a mirror. Around 8,000 years ago, people in Anatolia polished obsidian into mirrors. Obsidian from Yellowstone was traded as far as Ohio. Each volcano's obsidian has its own chemical fingerprint. Today it is cut into smooth cabochons on diamond wheels.",
+    "hashtags": [
+      "#obsidian",
+      "#volcanicglass",
+      "#ancientjewelry",
+      "#cabochon",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/obsidian",
+    "https://www.usgs.gov/observatories/yvo/news/yellowstones-tool-making-lava-flows",
+    "https://www.galleries.com/minerals/mineralo/obsidian/obsidian.htm",
+    "https://geology.com/rocks/obsidian.shtml",
+    "https://www.cambridge.org/core/journals/antiquity",
+    "https://archaeology.org/issues/may-june-2012/digs-discoveries/the-neolithic-grind/",
+    "https://phys.org/news/2011-12-oldest-obsidian-bracelet-reveals-amazing.html",
+    "https://en.wikipedia.org/wiki/Mirror",
+    "https://arkeonews.net/?p=18179",
+    "https://www.nps.gov/places/000/obsidian-cliff.htm",
+    "https://www.nps.gov/articles/archeology-obsidian-mvp-yellowstone-stones.htm",
+    "https://www.sciencedaily.com/releases/2013/05/130522085434.htm",
+    "https://www.gemsociety.org/article/obsidian-jewelry-and-gemstone-information",
+    "https://www.gia.edu/gems-gemology/summer-2023-in-the-spotlight",
+    "https://rockngem.com/what-to-cut-arizona-starburst-obsidian"
+  ]
+}

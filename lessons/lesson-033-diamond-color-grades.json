@@ -1,0 +1,188 @@
+{
+  "id": "lesson-033-diamond-color-grades",
+  "series": "lesson",
+  "number": 33,
+  "title": "How diamond color is graded",
+  "topic": "diamond color grades gia d to z scale colorless near colorless master stones fancy color",
+  "music": "music-lesson-033.wav",
+  "hook": {
+    "text": "Diamond color is graded D to Z.",
+    "gold": [
+      "color",
+      "Z."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond color is graded D to Z.",
+      "say": "Diamond color is graded dee to zee.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-front-white-input.webp",
+        "after": "matthew-front-white-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "D is colorless, and Z is light yellow or brown.",
+      "say": "Dee is colorless, and zee is light yellow or brown.",
+      "scene": {
+        "kind": "title",
+        "text": "Colorless",
+        "sub": "To light yellow or brown"
+      }
+    },
+    {
+      "text": "That makes 23 letter grades in five groups.",
+      "say": "That makes twenty-three letter grades in five groups.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Colorless",
+          "Near colorless",
+          "Faint",
+          "Very light",
+          "Light"
+        ],
+        "active": 0,
+        "label": "Five groups"
+      }
+    },
+    {
+      "text": "Colorless runs D to F, and near colorless runs G to J.",
+      "say": "Colorless runs dee to eff, and near colorless runs gee to jay.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Colorless",
+          "Near colorless",
+          "Faint",
+          "Very light",
+          "Light"
+        ],
+        "active": 1,
+        "label": "Five groups"
+      }
+    },
+    {
+      "text": "Graders judge loose stones, face down, against master stones.",
+      "scene": {
+        "kind": "title",
+        "text": "Face down",
+        "sub": "Against master stones"
+      }
+    },
+    {
+      "text": "GIA built the scale in the early 1950s, starting fresh at D.",
+      "say": "GEE eye AY built the scale in the early nineteen fifties, starting fresh at dee.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.42,
+          "k": 1.3
+        },
+        "label": "Early 1950s"
+      }
+    },
+    {
+      "text": "The gap between neighboring grades is slight and often hard to see.",
+      "scene": {
+        "kind": "title",
+        "text": "Slight",
+        "sub": "Between neighbors"
+      }
+    },
+    {
+      "text": "Many guides say G to J can look white in a setting.",
+      "say": "Many guides say gee to jay can look white in a setting.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-front-white-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.42,
+          "k": 1.5
+        }
+      }
+    },
+    {
+      "text": "Yellow gold can soften a tint, and white metal can show it.",
+      "scene": {
+        "kind": "grid",
+        "srcs": [
+          "render-matthew-yellow.webp",
+          "matthew-rose-render.webp",
+          "matthew-front-white-render.webp"
+        ],
+        "labels": [
+          "Yellow gold",
+          "Rose gold",
+          "White gold"
+        ],
+        "label": "Metal changes the look"
+      }
+    },
+    {
+      "text": "Fancy colors like pink and blue use a separate scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Fancy colors",
+        "sub": "A separate scale"
+      }
+    },
+    {
+      "text": "A render shows a client the metal around the stone",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "before the piece is made.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        }
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: how diamond color is graded",
+    "caption": "Diamond color is graded D to Z, from colorless to light yellow or brown. That makes 23 letter grades in five groups: colorless runs D to F, and near colorless runs G to J. Graders judge loose stones, face down, against master stones, on a scale GIA built in the early 1950s. The gap between neighboring grades is slight and often hard to see, and many guides say G to J can look white in a setting. Yellow gold can soften a tint, and white metal can show it, while fancy colors like pink and blue use a separate scale. A render shows a client the metal around the stone before the piece is made. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#diamondcolor",
+      "#diamondgrading",
+      "#gia",
+      "#jewelrymaking",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/diamond-color/",
+    "https://www.bluenile.com/education/diamonds/color",
+    "https://4cs.gia.edu/en-us/blog/a-guide-to-diamond-color-d-to-z",
+    "https://www.brilliantearth.com/diamond-color/",
+    "https://www.gia.edu/gia-faq-analysis-grading-loose-diamond-grading-report",
+    "https://en.wikipedia.org/wiki/Diamond_color",
+    "https://4cs.gia.edu/?p=7066",
+    "https://designer-diamonds.de/en/blogs/magazine/why-does-the-diamond-color-scale-start-with-d-and-not-a",
+    "https://whiteflash.com/diamond-education/diamond-color",
+    "https://www.gemsociety.org/article/diamond-color/",
+    "https://4cs.gia.edu/en-us/blog/gia-diamond-grading-reports-understanding-diamond-color-grade",
+    "https://diamonds.pro/education/color/"
+  ]
+}

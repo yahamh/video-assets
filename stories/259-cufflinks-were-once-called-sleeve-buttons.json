@@ -1,0 +1,147 @@
+{
+  "id": "259-cufflinks-were-once-called-sleeve-buttons",
+  "number": 259,
+  "title": "Cufflinks were once called sleeve buttons",
+  "topic": "cufflinks sleeve buttons linked buttons ribbon cuff ties 1662 royal wedding cuff link 1890s double cuff",
+  "style": "paper",
+  "plate": "Cufflinks",
+  "theme": "cream",
+  "music": "music-259.wav",
+  "hook": {
+    "text": "Cufflinks were once called sleeve buttons.",
+    "gold": [
+      "Cufflinks",
+      "sleeve"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cufflinks were once called sleeve buttons.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#cfd3da",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Before them, shirt cuffs were tied shut with string or ribbon.",
+      "scene": {
+        "kind": "title",
+        "text": "Ribbon",
+        "sub": "Cuffs were tied shut",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "In the 1600s, linked pairs of buttons began replacing the ties.",
+      "say": "In the sixteen hundreds, linked pairs of buttons began replacing the ties.",
+      "scene": {
+        "kind": "title",
+        "text": "Linked",
+        "sub": "Pairs of buttons",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "One silver button in the British Museum shows hearts under a crown.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfd3da",
+        "label": "British Museum",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Its design is linked to a royal wedding in 1662.",
+      "say": "Its design is linked to a royal wedding in sixteen sixty two.",
+      "scene": {
+        "kind": "title",
+        "text": "1662",
+        "sub": "A royal wedding",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Both men and women wore sleeve buttons, some of them gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Gold, 1700s",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The name cuff link is first recorded only in the 1890s.",
+      "say": "The name cuff link is first recorded only in the eighteen nineties.",
+      "scene": {
+        "kind": "title",
+        "text": "1890s",
+        "sub": "Name first recorded",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Around 1850, machines made cufflinks cheap enough for most men.",
+      "say": "Around eighteen fifty, machines made cufflinks cheap enough for most men.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9aa6b8",
+        "label": "Around 1850",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The folded double cuff took shape around the same time.",
+      "scene": {
+        "kind": "title",
+        "text": "Folded",
+        "sub": "The double cuff",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Cufflinks were worn more around 1900 than ever before.",
+      "say": "Cufflinks were worn more around nineteen hundred than ever before.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfd3da",
+        "label": "Peak: about 1900",
+        "color": "#a98be0"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cufflinks were once called sleeve buttons. Before them, shirt cuffs were tied shut with string or ribbon. In the 1600s, linked pairs of buttons began replacing the ties. One silver button in the British Museum shows hearts under a crown. Its design is linked to a royal wedding in 1662. Both men and women wore sleeve buttons, some of them gold. The name cuff link is first recorded only in the 1890s. Around 1850, machines made cufflinks cheap enough for most men. The folded double cuff took shape around the same time. Cufflinks were worn more around 1900 than ever before.",
+    "hashtags": [
+      "#cufflinks",
+      "#sleevebuttons",
+      "#menswear",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/cuff-link",
+    "https://www.homesandantiques.com/antiques/collecting/cufflinks-everything-you-need-to-know",
+    "https://en.wikipedia.org/wiki/Cufflink",
+    "https://www.merriam-webster.com/dictionary/cuff%20link",
+    "https://www.etymonline.com/word/cuff",
+    "https://www.metmuseum.org/art/collection/search/7544",
+    "https://www.langantiques.com/university/Cuff_Links",
+    "https://apps.jefpat.maryland.gov/diagnostic/SmallFinds/LinkedButtons-Cufflinks-Studs/index-linkedbuttons-cufflinks.html"
+  ]
+}
