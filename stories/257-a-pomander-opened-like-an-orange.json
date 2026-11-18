@@ -1,0 +1,143 @@
+{
+  "id": "257-a-pomander-opened-like-an-orange",
+  "number": 257,
+  "title": "A pomander opened like an orange",
+  "topic": "pomander apple of amber ambergris pierced case segments scent german cupid chain girdle clove orange",
+  "music": "music-257.wav",
+  "hook": {
+    "text": "A pomander opened like an orange.",
+    "gold": [
+      "pomander",
+      "orange."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pomander opened like an orange.",
+      "say": "A POH-man-der opened like an orange.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e08a2a"
+      }
+    },
+    {
+      "text": "The word comes from French for apple of amber.",
+      "say": "The word POH-man-der comes from French for apple of amber.",
+      "scene": {
+        "kind": "title",
+        "text": "Pomander",
+        "sub": "Apple of amber"
+      }
+    },
+    {
+      "text": "The amber was ambergris, a waxy substance from sperm whales.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfae6a",
+        "label": "Ambergris"
+      }
+    },
+    {
+      "text": "Its gold or silver case was pierced so the scent could escape.",
+      "scene": {
+        "kind": "title",
+        "text": "Pierced",
+        "sub": "So scent escapes"
+      }
+    },
+    {
+      "text": "There were often four to eight segments, each with a different scent.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e08a2a",
+        "label": "Four to eight segments"
+      }
+    },
+    {
+      "text": "One German pomander from the 1500s labels its segments cinnamon and nutmeg.",
+      "say": "One German POH-man-der from the fifteen hundreds labels its segments cinnamon and nutmeg.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d98e2b",
+        "label": "Cinnamon and nutmeg"
+      }
+    },
+    {
+      "text": "A German gold pendant from the late 1500s carries a tiny cupid.",
+      "say": "A German gold pendant from the late fifteen hundreds carries a tiny cupid.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "A tiny cupid"
+      }
+    },
+    {
+      "text": "Pomanders hung from a neck chain or a girdle.",
+      "say": "POH-man-ders hung from a neck chain or a girdle.",
+      "scene": {
+        "kind": "title",
+        "text": "Chains",
+        "sub": "Neck or girdle"
+      }
+    },
+    {
+      "text": "Wearers believed a good scent helped keep the air healthy.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f1",
+        "label": "Believed healthy"
+      }
+    },
+    {
+      "text": "Later the name passed to an orange studded with cloves.",
+      "scene": {
+        "kind": "title",
+        "text": "Orange",
+        "sub": "Studded with cloves"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A pomander opened like an orange. The word comes from French for apple of amber. The amber was ambergris, a waxy substance from sperm whales. Its gold or silver case was pierced so the scent could escape. There were often four to eight segments, each with a different scent. One German pomander from the 1500s labels its segments cinnamon and nutmeg. A German gold pendant from the late 1500s carries a tiny cupid. Pomanders hung from a neck chain or a girdle. Wearers believed a good scent helped keep the air healthy. Later the name passed to an orange studded with cloves.",
+    "hashtags": [
+      "#pomander",
+      "#renaissancejewelry",
+      "#ambergris",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/art/collection/search/464302",
+    "https://www.merriam-webster.com/dictionary/pomander",
+    "https://collections.vam.ac.uk/item/O112453/pomander-unknown",
+    "https://www.smithsonianmag.com/science-nature/brief-fascinating-history-ambergris-180978517/",
+    "https://www.etymonline.com/word/pomander",
+    "https://collections.vam.ac.uk/item/O156619/pomander-unknown",
+    "https://www.antiquejewel.com/en/explanation-on-pomander-by-adin-antique-jewelry.htm",
+    "https://www.metmuseum.org/art/collection/search/196980",
+    "https://www-4.collection.cooperhewitt.org/objects/18457521",
+    "https://research.reading.ac.uk/herbarium/2018/12/03/adventbotany-2018-day-3-the-pomander/",
+    "https://www.britannica.com/print/article/469294",
+    "https://www.rijksmuseum.nl/en/collection/BK-17047",
+    "https://en.wikipedia.org/wiki/Pomander",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co133049"
+  ]
+}

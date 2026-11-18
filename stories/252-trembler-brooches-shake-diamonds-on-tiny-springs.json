@@ -1,0 +1,139 @@
+{
+  "id": "252-trembler-brooches-shake-diamonds-on-tiny-springs",
+  "number": 252,
+  "title": "Trembler brooches shake diamonds on tiny springs",
+  "topic": "trembler brooches en tremblant spring flower diamonds candlelight victoria and albert museum spray insect brooch pforzheim",
+  "style": "lowpoly",
+  "music": "music-252.wav",
+  "hook": {
+    "text": "Trembler brooches shake diamonds on tiny springs.",
+    "gold": [
+      "Trembler",
+      "springs."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Trembler brooches shake diamonds on tiny springs.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#eef4f7"
+      }
+    },
+    {
+      "text": "En tremblant is French for trembling.",
+      "say": "ahn trahm-BLAHN is French for trembling.",
+      "scene": {
+        "kind": "title",
+        "text": "Tremblant",
+        "sub": "French for trembling"
+      }
+    },
+    {
+      "text": "The flower sits on a tiny spring and quivers with every move.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "label": "A tiny spring"
+      }
+    },
+    {
+      "text": "The shaking made diamonds flash in flickering candlelight.",
+      "scene": {
+        "kind": "title",
+        "text": "Flash",
+        "sub": "In candlelight"
+      }
+    },
+    {
+      "text": "The style was popular in the 1700s and 1800s.",
+      "say": "The style was popular in the seventeen hundreds and eighteen hundreds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f1",
+        "label": "Popular by the 1700s"
+      }
+    },
+    {
+      "text": "The idea is older, with trembler pins worn in the 1600s.",
+      "say": "The idea is older, with trembler pins worn in the sixteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "1600s",
+        "sub": "Trembler pins"
+      }
+    },
+    {
+      "text": "A diamond flower spray from about 1850 sparkles more on springs.",
+      "say": "A diamond flower spray from about eighteen fifty sparkles more on springs.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "label": "About 1850"
+      }
+    },
+    {
+      "text": "Worn on a bodice, its flowers could also go in the hair.",
+      "scene": {
+        "kind": "title",
+        "text": "Bodice",
+        "sub": "Or in the hair"
+      }
+    },
+    {
+      "text": "Insect brooches put wings on springs, so they seemed to move.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3a9a5c",
+        "label": "Wings on springs"
+      }
+    },
+    {
+      "text": "Pforzheim, Germany, has a trembler flower bouquet with diamonds and emeralds.",
+      "say": "PFORTS-hime, Germany, has a trembler flower bouquet with diamonds and emeralds.",
+      "scene": {
+        "kind": "title",
+        "text": "Bouquet",
+        "sub": "Pforzheim, Germany"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Trembler brooches shake diamonds on tiny springs. En tremblant is French for trembling. The flower sits on a tiny spring and quivers with every move. The shaking made diamonds flash in flickering candlelight. The style was popular in the 1700s and 1800s. The idea is older, with trembler pins worn in the 1600s. A diamond flower spray from about 1850 sparkles more on springs. Worn on a bodice, its flowers could also go in the hair. Insect brooches put wings on springs, so they seemed to move. Pforzheim, Germany, has a trembler flower bouquet with diamonds and emeralds.",
+    "hashtags": [
+      "#trembler",
+      "#entremblant",
+      "#antiquejewelry",
+      "#brooch",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.antiquejewel.com/glossary/tremblant",
+    "https://www.langantiques.com/university/en-tremblant/",
+    "https://www.antiquejewellerycompany.com/glossary/tremblant/",
+    "https://mgpt-magazine.com/2022/03/04/flower-bouquet-of-gemstones/",
+    "https://mnm.hu/en/en/exhibitions/history-hungary-part-i/transylvania-and-royal-hungary",
+    "https://nms.ac.uk/explore-our-collections/collection-search-results/brooch-flower-spray-jewel-trembler/20873",
+    "https://collections.vam.ac.uk/item/O74518/spray-ornament-unknown",
+    "https://www.vam.ac.uk/articles/a-history-of-jewellery",
+    "https://artsandculture.google.com/asset/spray-ornament-unknown/9gEO3uCmCfS54A",
+    "https://www.woolleyandwallis.co.uk/news/news/victorian-insect-jewellery/",
+    "https://artsandculture.google.com/asset/en-tremblant-flower-bouquet-of-gemstones/JgHbQ-wzXXgw2g"
+  ]
+}

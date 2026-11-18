@@ -1,0 +1,153 @@
+{
+  "id": "253-micromosaic-brooches-hold-thousands-of-glass-tiles",
+  "number": 253,
+  "title": "Micromosaic brooches hold thousands of glass tiles",
+  "topic": "micromosaic glass filati tesserae tweezers vatican mosaic studio 1727 raffaelli doves grand tour souvenirs",
+  "style": "paper",
+  "plate": "Micromosaic",
+  "theme": "watercolor",
+  "music": "music-253.wav",
+  "hook": {
+    "text": "Micromosaic brooches hold thousands of glass tiles.",
+    "gold": [
+      "Micromosaic",
+      "tiles."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Micromosaic brooches hold thousands of glass tiles.",
+      "say": "MY-kroh-moh-ZAY-ik brooches hold thousands of glass tiles.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d23a52",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Makers pull glass into thin threads called filati.",
+      "say": "Makers pull glass into thin threads called fee-LAH-tee.",
+      "scene": {
+        "kind": "title",
+        "text": "Filati",
+        "sub": "Glass pulled thin",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "They snap the threads into tiny pieces called tesserae.",
+      "say": "They snap the threads into tiny pieces called TESS-uh-ree.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2f6fd0",
+        "label": "Snapped into pieces",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "One small picture can hold hundreds or even thousands of pieces.",
+      "scene": {
+        "kind": "title",
+        "text": "Hundreds",
+        "sub": "Maybe thousands",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Some of the tiny pieces are smaller than a pinhead.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d23a52",
+        "label": "Smaller than a pinhead",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Workers set every piece one at a time with tweezers.",
+      "scene": {
+        "kind": "title",
+        "text": "Tweezers",
+        "sub": "One at a time",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The Vatican mosaic studio was officially established in 1727.",
+      "say": "The Vatican mosaic studio was officially established in seventeen twenty seven.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2fa089",
+        "label": "Vatican studio, 1727",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A Roman doves mosaic found in 1737 became a favorite subject.",
+      "say": "A Roman doves mosaic found in seventeen thirty seven became a favorite subject.",
+      "scene": {
+        "kind": "title",
+        "text": "Doves",
+        "sub": "Found in 1737",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Around 1775, Vatican trained makers led by Raffaelli began selling tiny mosaics.",
+      "say": "Around seventeen seventy five, Vatican trained makers led by rah-fah-EL-lee began selling tiny mosaics.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f2c14a",
+        "label": "Raffaelli, about 1775",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Grand Tour travelers bought micromosaic jewelry as souvenirs of Rome.",
+      "say": "Grand Tour travelers bought MY-kroh-moh-ZAY-ik jewelry as souvenirs of Rome.",
+      "scene": {
+        "kind": "title",
+        "text": "Rome",
+        "sub": "Grand Tour souvenirs",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Micromosaic brooches hold thousands of glass tiles. Makers pull glass into thin threads called filati. They snap the threads into tiny pieces called tesserae. One small picture can hold hundreds or even thousands of pieces. Some of the tiny pieces are smaller than a pinhead. Workers set every piece one at a time with tweezers. The Vatican mosaic studio was officially established in 1727. A Roman doves mosaic found in 1737 became a favorite subject. Around 1775, Vatican trained makers led by Raffaelli began selling tiny mosaics. Grand Tour travelers bought micromosaic jewelry as souvenirs of Rome.",
+    "hashtags": [
+      "#micromosaic",
+      "#vatican",
+      "#grandtour",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.ngv.vic.gov.au/essay/parure/",
+    "https://www.langantiques.com/university/Micromosaics",
+    "https://www.tefaf.com/stories/the-gilbert-galleries-reopened-micromosaics-in-focus",
+    "https://collections.vam.ac.uk/item/O157868/plaque-raffaelli-giacomo",
+    "https://www.patronsvaticanmuseums.org/restoration/projects/micromosaics",
+    "https://www-4.collection.cooperhewitt.org/objects/18702925",
+    "https://www.atlasobscura.com/places/vatican-mosaic-studio",
+    "https://www.afar.com/magazine/behind-the-scenes-at-the-vaticans-hidden-mosaic-studio",
+    "https://marklittlerantiques.com/an-introduction-to-micromosaics/",
+    "https://collections.vam.ac.uk/item/O157747",
+    "https://www.cooperhewitt.org/2017/08/06/souvenirs-of-the-grand-tour/",
+    "https://thejewelleryeditor.com/jewellery/know-how/all-you-need-to-know-about-the-history-of-micro-mosaics-a-unique-artistic-tradition-born-italy-and-still-trending-today-sicisjewels"
+  ]
+}

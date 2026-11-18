@@ -1,0 +1,150 @@
+{
+  "id": "251-berlin-iron-jewelry-looked-like-black-lace",
+  "number": 251,
+  "title": "Berlin iron jewelry looked like black lace",
+  "topic": "berlin iron jewelry gold gab ich fur eisen 1813 princess marianne prussia royal iron foundry gleiwitz cast iron lacquer gothic kreuzberg",
+  "music": "music-251.wav",
+  "hook": {
+    "text": "Berlin iron jewelry looked like black lace.",
+    "gold": [
+      "Berlin",
+      "lace."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Berlin iron jewelry looked like black lace.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#454a58"
+      }
+    },
+    {
+      "text": "In 1813, Princess Marianne asked women to give gold for iron.",
+      "say": "In eighteen thirteen, Princess mah-ree-AH-nuh asked women to give gold for iron.",
+      "scene": {
+        "kind": "title",
+        "text": "1813",
+        "sub": "Gold for iron"
+      }
+    },
+    {
+      "text": "Donors got iron rings inscribed with a patriotic German motto.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#454a58",
+        "label": "A patriotic motto"
+      }
+    },
+    {
+      "text": "The Royal Iron Foundry in Berlin opened in 1804.",
+      "say": "The Royal Iron Foundry in Berlin opened in eighteen oh four.",
+      "scene": {
+        "kind": "title",
+        "text": "1804",
+        "sub": "Royal Iron Foundry"
+      }
+    },
+    {
+      "text": "Berlin and Gleiwitz, now Gliwice in Poland, both cast iron jewelry.",
+      "say": "Berlin and GLY-vits, now glee-VEET-seh in Poland, both cast iron jewelry.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#555b6a",
+        "label": "Berlin and Gleiwitz"
+      }
+    },
+    {
+      "text": "Molten iron was poured into fine molds, usually described as sand.",
+      "scene": {
+        "kind": "title",
+        "text": "Cast",
+        "sub": "Poured into fine molds"
+      }
+    },
+    {
+      "text": "A black lacquer finish kept the iron from rusting.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#555b6a",
+        "label": "Black lacquer"
+      }
+    },
+    {
+      "text": "Donors wore it with pride, and blackened iron became fashionable.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#454a58",
+        "label": "Worn with pride"
+      }
+    },
+    {
+      "text": "Later designs copied Gothic cathedral windows in miniature.",
+      "scene": {
+        "kind": "title",
+        "text": "Gothic",
+        "sub": "Cathedral windows"
+      }
+    },
+    {
+      "text": "Rare pieces combine blackened iron with polished steel.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#8a8f98",
+        "label": "Iron and steel"
+      }
+    },
+    {
+      "text": "The same Berlin foundry cast the iron Kreuzberg monument, dedicated in 1821.",
+      "say": "The same Berlin foundry cast the iron KROYTS-berk monument, dedicated in eighteen twenty one.",
+      "scene": {
+        "kind": "title",
+        "text": "1821",
+        "sub": "Kreuzberg monument"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Berlin iron jewelry looked like black lace. In 1813, Princess Marianne asked women to give gold for iron. Donors got iron rings inscribed with a patriotic German motto. The Royal Iron Foundry in Berlin opened in 1804. Berlin and Gleiwitz, now Gliwice in Poland, both cast iron jewelry. Molten iron was poured into fine molds, usually described as sand. A black lacquer finish kept the iron from rusting. Donors wore it with pride, and blackened iron became fashionable. Later designs copied Gothic cathedral windows in miniature. Rare pieces combine blackened iron with polished steel. The same Berlin foundry cast the iron Kreuzberg monument, dedicated in 1821.",
+    "hashtags": [
+      "#berliniron",
+      "#castiron",
+      "#prussia",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.schmuckmuseum.de/en/exhibitions/current/translate-to-englisch-zart-wie-eisen-schmuck-aus-einer-privatsammlung.html",
+    "https://westfalen.museum-digital.de/pdf/object/2361.pdf",
+    "https://guide.uhrenmuseum.saarland/monitor6/gold-for-iron/",
+    "https://collections.vam.ac.uk/item/O115077/necklace-unknown",
+    "https://www.britishmuseum.org/collection/object/H_1978-1002-108-a",
+    "https://bgc.bard.edu/research-forum/articles/208/karl-friedrich-schinkel-and-berlin",
+    "https://emuseum.toledomuseum.org/objects/59538/parure-bracelet",
+    "https://lempertz.com/en/academy/gold-i-gave-for-iron.html",
+    "https://www.mozerisfineantiques.com/blogs/what-is-berlin-iron-jewellery",
+    "https://lyonandturnbull.com/stories/berlin-ironwork-jewellery",
+    "https://www.cooperhewitt.org/2018/08/19/iron-jewelry-grace-from-the-most-basic-of-elements/",
+    "https://www.collectorsweekly.com/articles/when-germans-gave-up-their-gold-jewelry-to-battle-napoleon",
+    "https://en.wikipedia.org/wiki/Berlin_iron_jewellery",
+    "https://en.wikipedia.org/wiki/Prussian_National_Monument_for_the_Liberation_Wars"
+  ]
+}

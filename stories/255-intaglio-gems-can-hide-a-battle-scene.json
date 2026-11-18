@@ -1,0 +1,139 @@
+{
+  "id": "255-intaglio-gems-can-hide-a-battle-scene",
+  "number": 255,
+  "title": "Intaglio gems can hide a battle scene",
+  "topic": "intaglio carved gems signet seals wax clay cylinder seals bow drill emery dioscurides demosthenes pylos combat agate",
+  "style": "lowpoly",
+  "music": "music-255.wav",
+  "hook": {
+    "text": "Intaglio gems can hide a battle scene.",
+    "gold": [
+      "Intaglio",
+      "battle"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Intaglio gems can hide a battle scene.",
+      "say": "in-TAL-yoh gems can hide a battle scene.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#c0502a"
+      }
+    },
+    {
+      "text": "An intaglio is a design cut down into a stone.",
+      "say": "An in-TAL-yoh is a design cut down into a stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Intaglio",
+        "sub": "Cut into the stone"
+      }
+    },
+    {
+      "text": "Press it into wax or clay and the image stands up.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c0502a",
+        "label": "Pressed into wax"
+      }
+    },
+    {
+      "text": "The word is Italian, from intagliare, meaning to cut in.",
+      "say": "The word is Italian, from een-tah-LYAH-reh, meaning to cut in.",
+      "scene": {
+        "kind": "title",
+        "text": "Italian",
+        "sub": "From intagliare"
+      }
+    },
+    {
+      "text": "Cylinder seals rolled across wet clay appeared over 5,000 years ago.",
+      "say": "Cylinder seals rolled across wet clay appeared over five thousand years ago.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8a6a4a",
+        "label": "Rolled in clay"
+      }
+    },
+    {
+      "text": "Carvers turned drills with a bow and cut with emery powder.",
+      "scene": {
+        "kind": "title",
+        "text": "Bow drill",
+        "sub": "Emery powder cuts"
+      }
+    },
+    {
+      "text": "Signet gems pressed into wax marked ownership and sealed letters.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c0502a",
+        "label": "A signet in wax"
+      }
+    },
+    {
+      "text": "The engraver Dioscurides signed an amethyst portrait of Demosthenes.",
+      "say": "The engraver dy-oh-SKYOOR-ih-deez signed an amethyst portrait of dih-MOS-thuh-neez.",
+      "scene": {
+        "kind": "title",
+        "text": "Rome",
+        "sub": "Dioscurides signs"
+      }
+    },
+    {
+      "text": "The Pylos Combat Agate is about 3,500 years old.",
+      "say": "The PY-los Combat Agate is about three thousand five hundred years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#6a8a5a",
+        "label": "About 3,500 years old"
+      }
+    },
+    {
+      "text": "Its battle scene shows clearly only under magnification.",
+      "scene": {
+        "kind": "title",
+        "text": "Tiny",
+        "sub": "Battle seen magnified"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Intaglio gems can hide a battle scene. An intaglio is a design cut down into a stone. Press it into wax or clay and the image stands up. The word is Italian, from intagliare, meaning to cut in. Cylinder seals rolled across wet clay appeared over 5,000 years ago. Carvers turned drills with a bow and cut with emery powder. Signet gems pressed into wax marked ownership and sealed letters. The engraver Dioscurides signed an amethyst portrait of Demosthenes. The Pylos Combat Agate is about 3,500 years old. Its battle scene shows clearly only under magnification.",
+    "hashtags": [
+      "#intaglio",
+      "#engravedgems",
+      "#signetring",
+      "#ancientgreece",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/intaglio",
+    "https://www.getty.edu/art/exhibitions/gems/techniques.html",
+    "https://www.dictionary.com/browse/Intaglio",
+    "https://www.metmuseum.org/en/perspectives/cylinder-seals-tiny-treasures-that-leave-a-big-impression",
+    "https://www.aramcoworld.com/articles/2021/mesopotamias-art-of-the-seal",
+    "https://www.ktb.gov.tr/EN-120291/methods-of-engraving.html",
+    "https://www.metmuseum.org/en/essays/antique-engraved-gems-and-renaissance-collectors",
+    "https://www.getty.edu/news/getty-acquires-collection-ancient-engraved-gems/",
+    "https://www.metmuseum.org/art/collection/search/248000",
+    "https://www.getty.edu/news/ancient-mycenaean-minoan-sealstones-mysteries",
+    "https://www.nationalgeographic.com/history/article/greek-sealstone-gemstone-combat-griffin-warrior-tomb-spd"
+  ]
+}

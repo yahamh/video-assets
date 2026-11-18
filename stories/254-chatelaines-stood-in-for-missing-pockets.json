@@ -1,0 +1,151 @@
+{
+  "id": "254-chatelaines-stood-in-for-missing-pockets",
+  "number": 254,
+  "title": "Chatelaines stood in for missing pockets",
+  "topic": "chatelaine waist hook plate chains scissors notebook keys equipage victoria cut steel pinchbeck wrist",
+  "music": "music-254.wav",
+  "hook": {
+    "text": "Chatelaines stood in for missing pockets.",
+    "gold": [
+      "Chatelaines",
+      "pockets."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Chatelaines stood in for missing pockets.",
+      "say": "SHAT-uh-laynz stood in for missing pockets.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c4a24a"
+      }
+    },
+    {
+      "text": "Chatelaine is French for the lady of a castle.",
+      "say": "SHAT-uh-layn is French for the lady of a castle.",
+      "scene": {
+        "kind": "title",
+        "text": "Château",
+        "sub": "Castle, in French"
+      }
+    },
+    {
+      "text": "The jewelry is said to echo her big ring of keys.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9aa3ad",
+        "label": "A ring of keys"
+      }
+    },
+    {
+      "text": "A hook plate slips over the waistband and chains hang down.",
+      "scene": {
+        "kind": "title",
+        "text": "Hooks",
+        "sub": "Chains hang down"
+      }
+    },
+    {
+      "text": "From the chains hung scissors and a tiny notebook.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#9aa3ad",
+        "label": "Scissors and notebook"
+      }
+    },
+    {
+      "text": "In the 1700s they were called equipages.",
+      "say": "In the seventeen hundreds they were called EK-wih-pij-iz.",
+      "scene": {
+        "kind": "title",
+        "text": "Equipage",
+        "sub": "The 1700s name"
+      }
+    },
+    {
+      "text": "The name chatelaine caught on in the 1800s.",
+      "say": "The name SHAT-uh-layn caught on in the eighteen hundreds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4a24a",
+        "label": "Caught on, 1800s"
+      }
+    },
+    {
+      "text": "Housekeepers wore working versions with keys, and ladies wore decorative ones.",
+      "scene": {
+        "kind": "title",
+        "text": "Working",
+        "sub": "Or decorative"
+      }
+    },
+    {
+      "text": "Around 1850, Queen Victoria bought a cut steel chatelaine.",
+      "say": "Around eighteen fifty, Queen Victoria bought a cut steel SHAT-uh-layn.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9aa3ad",
+        "label": "Cut steel, about 1850"
+      }
+    },
+    {
+      "text": "Cheaper ones used pinchbeck, a gold look alloy named for a clockmaker.",
+      "scene": {
+        "kind": "title",
+        "text": "Cheaper",
+        "sub": "Pinchbeck alloy"
+      }
+    },
+    {
+      "text": "Some were even worn on the wrist like a charm bracelet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4a24a",
+        "label": "Like a charm bracelet"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Chatelaines stood in for missing pockets. Chatelaine is French for the lady of a castle. The jewelry is said to echo her big ring of keys. A hook plate slips over the waistband and chains hang down. From the chains hung scissors and a tiny notebook. In the 1700s they were called equipages. The name chatelaine caught on in the 1800s. Housekeepers wore working versions with keys, and ladies wore decorative ones. Around 1850, Queen Victoria bought a cut steel chatelaine. Cheaper ones used pinchbeck, a gold look alloy named for a clockmaker. Some were even worn on the wrist like a charm bracelet.",
+    "hashtags": [
+      "#chatelaine",
+      "#victorianjewelry",
+      "#antiquejewelry",
+      "#cutsteel",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/chatelaine",
+    "https://www.etymonline.com/word/chatelaine",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co146739/chatelaine-england-1701-1800",
+    "https://www.philamuseum.org/objects/288826",
+    "https://api.vam.ac.uk/v2/object/O77943",
+    "https://www.metmuseum.org/art/collection/search/195098",
+    "https://collections.vam.ac.uk/item/O73185/chatelaine",
+    "https://www.antiquetrader.com/collectibles/chatelaines-victorian-fashion",
+    "https://www.britannica.com/art/chatelaine",
+    "https://www.londonmuseum.org.uk/blog/the-queens-chatelaine-bag-medieval-practicality-to-victorian-fashion/",
+    "https://candicehern.com/regency-world/glossary/chatelaine/",
+    "https://www.rct.uk/collection/45005/chatelaine",
+    "https://www.worldwidewords.org/ww-pin1.html",
+    "https://mentalfloss.com/article/75716/show-tell-19th-century-chatelaine"
+  ]
+}

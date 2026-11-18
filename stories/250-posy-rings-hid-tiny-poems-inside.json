@@ -1,0 +1,153 @@
+{
+  "id": "250-posy-rings-hid-tiny-poems-inside",
+  "number": 250,
+  "title": "Posy rings hid tiny poems inside",
+  "topic": "posy rings poesy poem engraved inside band french norfolk detectorist stock phrases british museum stars",
+  "style": "paper",
+  "plate": "Posy rings",
+  "theme": "sky",
+  "music": "music-250.wav",
+  "hook": {
+    "text": "Posy rings hid tiny poems inside.",
+    "gold": [
+      "Posy",
+      "poems"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Posy rings hid tiny poems inside.",
+      "say": "POH-zee rings hid tiny poems inside.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Posy is short for poesy, an old word for poetry.",
+      "say": "POH-zee is short for POH-uh-zee, an old word for poetry.",
+      "scene": {
+        "kind": "title",
+        "text": "Poesy",
+        "sub": "An old word for poetry",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "A posy ring carries a short verse, often engraved inside the band.",
+      "say": "A POH-zee ring carries a short verse, often engraved inside the band.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "light": "#fff2c4",
+        "label": "Verse inside",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Only the giver and the wearer knew the words.",
+      "scene": {
+        "kind": "title",
+        "text": "Secret",
+        "sub": "Giver and wearer",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Early ones often showed the words on the outside.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "light": "#fff2c4",
+        "label": "Words outside",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Early posies were mostly French, the language of courtly love.",
+      "scene": {
+        "kind": "title",
+        "text": "French",
+        "sub": "Courtly love",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "A gold ring about 700 years old was found in Norfolk.",
+      "say": "A gold ring about seven hundred years old was found in Norfolk.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "light": "#fff2c4",
+        "label": "Found in Norfolk",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Its French words mean I love you by faith.",
+      "scene": {
+        "kind": "title",
+        "text": "By faith",
+        "sub": "I love you",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Jewelers kept ready made posy rings and books of stock phrases.",
+      "say": "Jewelers kept ready made POH-zee rings and books of stock phrases.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "white",
+        "light": "#eaf3ff",
+        "label": "Stock phrases",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A British Museum ring has stars outside and a star poem inside.",
+      "scene": {
+        "kind": "title",
+        "text": "Stars",
+        "sub": "Stars out, poem in",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Posy rings hid tiny poems inside. Posy is short for poesy, an old word for poetry. A posy ring carries a short verse, often engraved inside the band. Only the giver and the wearer knew the words. Early ones often showed the words on the outside. Early posies were mostly French, the language of courtly love. A gold ring about 700 years old was found in Norfolk. Its French words mean I love you by faith. Jewelers kept ready made posy rings and books of stock phrases. A British Museum ring has stars outside and a star poem inside.",
+    "hashtags": [
+      "#posyring",
+      "#medievaljewelry",
+      "#poetry",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.dictionary.com/browse/posy",
+    "https://www.merriam-webster.com/dictionary/posy",
+    "https://www.folger.edu/blogs/collation/elizabethan-posy-rings/",
+    "https://artsandculture.google.com/asset/gold-posy-ring/CwFNRw5eR90jdg",
+    "https://collections.vam.ac.uk/item/O118129/ring-unknown",
+    "https://noonans.co.uk/news-and-events/latest-news/1141/",
+    "https://en.wikipedia.org/wiki/Posy_ring",
+    "https://api.vam.ac.uk/v2/object/O117008",
+    "https://www.etymonline.com/word/posy",
+    "https://www.countrylife.co.uk/lifestyle/jewellery/once-englands-most-popular-item-of-jewellery-william-of-orange-henry-viii-and-shakespeare-all-fell-under-the-spell-of-posey-rings"
+  ]
+}

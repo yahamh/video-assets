@@ -1,0 +1,144 @@
+{
+  "id": "249-a-roman-bulla-was-a-gold-bubble",
+  "number": 249,
+  "title": "A Roman bulla was a gold bubble",
+  "topic": "roman bulla gold pendant bubble boys lunula girls etruscan toga papal bull seal",
+  "style": "lowpoly",
+  "music": "music-249.wav",
+  "hook": {
+    "text": "A Roman bulla was a gold bubble.",
+    "gold": [
+      "Roman",
+      "bubble."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Roman bulla was a gold bubble.",
+      "say": "A Roman BUL-uh was a gold bubble.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441"
+      }
+    },
+    {
+      "text": "Bulla is Latin for bubble, and the pendant looked like one.",
+      "say": "BUL-uh is Latin for bubble, and the pendant looked like one.",
+      "scene": {
+        "kind": "title",
+        "text": "Bulla",
+        "sub": "Latin for bubble"
+      }
+    },
+    {
+      "text": "Free born Roman children, mainly boys, wore it on a necklace.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Worn on a necklace"
+      }
+    },
+    {
+      "text": "Wealthy families used gold, and poorer ones used leather.",
+      "scene": {
+        "kind": "title",
+        "text": "Gold",
+        "sub": "Or leather if poorer"
+      }
+    },
+    {
+      "text": "Each hollow pendant held a lucky charm.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4a24a",
+        "label": "A lucky charm"
+      }
+    },
+    {
+      "text": "Girls wore a similar charm shaped like a crescent, the lunula.",
+      "say": "Girls wore a similar charm shaped like a crescent, the LOO-nyuh-luh.",
+      "scene": {
+        "kind": "title",
+        "text": "Lunula",
+        "sub": "The girls' crescent"
+      }
+    },
+    {
+      "text": "Romans likely borrowed the custom from the Etruscans.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e0b44f",
+        "label": "Etruscan roots"
+      }
+    },
+    {
+      "text": "Etruscan gold bullae survive from at least the 5th century BC.",
+      "say": "Etruscan gold BUL-ee survive from at least the fifth century B C.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Etruscan gold"
+      }
+    },
+    {
+      "text": "Around age 14, a boy gave his bulla to the household gods.",
+      "say": "Around age fourteen, a boy gave his BUL-uh to the household gods.",
+      "scene": {
+        "kind": "title",
+        "text": "Age 14",
+        "sub": "Given to the gods"
+      }
+    },
+    {
+      "text": "The bull in papal bull comes from bulla, meaning a seal.",
+      "say": "The bull in papal bull comes from BUL-uh, meaning a seal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#b0b4bb",
+        "label": "Bulla, the seal"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A Roman bulla was a gold bubble. Bulla is Latin for bubble, and the pendant looked like one. Free born Roman children, mainly boys, wore it on a necklace. Wealthy families used gold, and poorer ones used leather. Each hollow pendant held a lucky charm. Girls wore a similar charm shaped like a crescent, the lunula. Romans likely borrowed the custom from the Etruscans. Etruscan gold bullae survive from at least the 5th century BC. Around age 14, a boy gave his bulla to the household gods. The bull in papal bull comes from bulla, meaning a seal.",
+    "hashtags": [
+      "#bulla",
+      "#romanjewelry",
+      "#etruscan",
+      "#ancientrome",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.dictionary.com/browse/bulla",
+    "https://www.merriam-webster.com/dictionary/bull",
+    "https://www.etymonline.com/word/bull",
+    "https://penelope.uchicago.edu/Thayer/E/Gazetteer/Periods/Roman/Topics/Daily_Life/children/bulla.html",
+    "https://www.unrv.com/articles/bulla.php",
+    "https://art.thewalters.org/object/vo.67",
+    "https://www.liverpoolmuseums.org.uk/artifact/pendant-0",
+    "https://worldhistory.org/article/2564",
+    "https://art.thewalters.org/detail/36446",
+    "https://www.metmuseum.org/art/collection/search/246005",
+    "https://colorsandstones.eu/2020/11/26/bulla-for-boys-lunula-for-girls/",
+    "https://en.wikipedia.org/wiki/Lunula_(amulet)",
+    "https://www.romansinfocus.com/sites/www.romansinfocus.com/files/The%20bulla.pdf"
+  ]
+}

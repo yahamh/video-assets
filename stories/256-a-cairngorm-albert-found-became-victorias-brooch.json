@@ -1,0 +1,150 @@
+{
+  "id": "256-a-cairngorm-albert-found-became-victorias-brooch",
+  "number": 256,
+  "title": "A cairngorm Albert found became Victoria's brooch",
+  "topic": "scottish pebble jewelry cairngorm smoky quartz prince albert lochnagar 1848 plaid brooch balmoral walter scott birmingham banded agate fortification",
+  "style": "paper",
+  "plate": "Scottish pebble",
+  "theme": "mint",
+  "music": "music-256.wav",
+  "hook": {
+    "text": "A cairngorm Albert found became Victoria's brooch.",
+    "gold": [
+      "cairngorm",
+      "brooch."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A cairngorm Albert found became Victoria's brooch.",
+      "say": "A KAIRN-gorm Albert found became Victoria's brooch.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#7a5a34",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Prince Albert picked up a cairngorm on Lochnagar in 1848.",
+      "say": "Prince Albert picked up a KAIRN-gorm on lokh-nuh-GAR in eighteen forty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1848",
+        "sub": "Lochnagar, Scotland",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "He had it set in a gold plaid brooch for Victoria.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#7a5a34",
+        "label": "Gold plaid brooch",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Cairngorm is smoky quartz named for the Cairngorm Mountains.",
+      "say": "KAIRN-gorm is smoky quartz named for the KAIRN-gorm Mountains.",
+      "scene": {
+        "kind": "title",
+        "text": "Quartz",
+        "sub": "Named for mountains",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Natural radiation gives it the smoky color.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5a4326",
+        "label": "Natural radiation",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Albert leased Balmoral in 1848 and bought it in 1852.",
+      "say": "Albert leased bal-MOR-ul in eighteen forty eight and bought it in eighteen fifty two.",
+      "scene": {
+        "kind": "title",
+        "text": "Balmoral",
+        "sub": "Bought in 1852",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Sir Walter Scott's writing made Scotland a popular place to visit.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2f6fd0",
+        "label": "Scott's pull",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Many Scottish pebble pieces were actually made in Birmingham.",
+      "scene": {
+        "kind": "title",
+        "text": "England",
+        "sub": "Made in Birmingham",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Banded agate forms in gas bubbles inside cooled lava.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b4683a",
+        "label": "Gas bubbles in lava",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "One kind is called fortification agate because its bands look like walls.",
+      "scene": {
+        "kind": "title",
+        "text": "Fortress",
+        "sub": "Bands look like walls",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A cairngorm Albert found became Victoria's brooch. Prince Albert picked up a cairngorm on Lochnagar in 1848. He had it set in a gold plaid brooch for Victoria. Cairngorm is smoky quartz named for the Cairngorm Mountains. Natural radiation gives it the smoky color. Albert leased Balmoral in 1848 and bought it in 1852. Sir Walter Scott's writing made Scotland a popular place to visit. Many Scottish pebble pieces were actually made in Birmingham. Banded agate forms in gas bubbles inside cooled lava. One kind is called fortification agate because its bands look like walls.",
+    "hashtags": [
+      "#scottishpebble",
+      "#cairngorm",
+      "#victorianjewelry",
+      "#agate",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/themes/trails/victoria-and-albert-gifts-exchanged/plaid-brooch",
+    "https://royalcentral.co.uk/interests/history/from-scotland-with-love-queen-victoria-125493/",
+    "https://collections.vam.ac.uk/item/O120371/brooch-fenton-james",
+    "https://www.langantiques.com/university/scottish-jewelry/",
+    "https://collections.vam.ac.uk/item/O120373",
+    "https://balmoralcastle.com/about/history",
+    "https://en.wikipedia.org/wiki/Balmoral_Castle",
+    "https://www.britannica.com/science/agate",
+    "https://depositsmag.com/2021/01/02/agates-a-brief-introduction-to-agates-in-the-uk/",
+    "https://blog.nms.ac.uk/2018/12/19/what-are-agates",
+    "https://www.nms.ac.uk/discover-catalogue/geology-to-jewellery-the-history-and-science-of-cairngorm-quartz",
+    "https://en.wikipedia.org/wiki/Smoky_quartz"
+  ]
+}
