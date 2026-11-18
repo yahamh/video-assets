@@ -1,0 +1,140 @@
+{
+  "id": "245-niello-helped-inspire-early-printmaking",
+  "number": 245,
+  "title": "Niello helped inspire early printmaking",
+  "topic": "niello black sulfides silver engraved pliny panther brooch byzantine tula work maso finiguerra printmaking",
+  "music": "music-245.wav",
+  "hook": {
+    "text": "Niello helped inspire early printmaking.",
+    "gold": [
+      "Niello",
+      "printmaking."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Niello helped inspire early printmaking.",
+      "say": "nee-EL-oh helped inspire early printmaking.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#4a4f5c"
+      }
+    },
+    {
+      "text": "The word comes from Latin nigellum, meaning blackish.",
+      "say": "The word comes from Latin nee-GEL-um, meaning blackish.",
+      "scene": {
+        "kind": "title",
+        "text": "Niello",
+        "sub": "From Latin, blackish"
+      }
+    },
+    {
+      "text": "It is a black mix of sulfur and metals such as silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4a4f5c",
+        "label": "Black sulfides"
+      }
+    },
+    {
+      "text": "Lines are engraved and filled with niello powder or paste.",
+      "say": "Lines are engraved and filled with nee-EL-oh powder or paste.",
+      "scene": {
+        "kind": "title",
+        "text": "Inlay",
+        "sub": "Engrave, then fill"
+      }
+    },
+    {
+      "text": "Heat fuses it in place, then the surface is polished flush.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9ccd2",
+        "label": "Polished flush"
+      }
+    },
+    {
+      "text": "Pliny wrote the earliest known niello recipe in the 1st century AD.",
+      "say": "PLIN-ee wrote the earliest known nee-EL-oh recipe in the first century A D.",
+      "scene": {
+        "kind": "title",
+        "text": "Pliny",
+        "sub": "First century recipe"
+      }
+    },
+    {
+      "text": "A Roman panther brooch has its spots inlaid in niello.",
+      "say": "A Roman panther brooch has its spots inlaid in nee-EL-oh.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#4a4f5c",
+        "label": "Panther brooch"
+      }
+    },
+    {
+      "text": "Byzantine silver carried niello by the middle of the 6th century.",
+      "say": "Byzantine silver carried nee-EL-oh by the middle of the sixth century.",
+      "scene": {
+        "kind": "title",
+        "text": "Silver",
+        "sub": "Byzantine with niello"
+      }
+    },
+    {
+      "text": "Tula, Russia, grew so famous for niello it was called Tula work.",
+      "say": "TOO-lah, Russia, grew so famous for nee-EL-oh it was called TOO-lah work.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9ccd2",
+        "label": "Tula work"
+      }
+    },
+    {
+      "text": "Florentine goldsmith Maso Finiguerra's paper proofs of niello helped inspire printmaking.",
+      "say": "Florentine goldsmith Maso fee-nee-GWEHR-ah's paper proofs of nee-EL-oh helped inspire printmaking.",
+      "scene": {
+        "kind": "title",
+        "text": "Florence",
+        "sub": "Paper proofs"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Niello helped inspire early printmaking. The word comes from Latin nigellum, meaning blackish. It is a black mix of sulfur and metals such as silver. Lines are engraved and filled with niello powder or paste. Heat fuses it in place, then the surface is polished flush. Pliny wrote the earliest known niello recipe in the 1st century AD. A Roman panther brooch has its spots inlaid in niello. Byzantine silver carried niello by the middle of the 6th century. Tula, Russia, grew so famous for niello it was called Tula work. Florentine goldsmith Maso Finiguerra's paper proofs of niello helped inspire printmaking.",
+    "hashtags": [
+      "#niello",
+      "#silversmith",
+      "#byzantine",
+      "#printmaking",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/niello",
+    "https://www.assayofficelondon.co.uk/media/2562/niello-20-c-manning.pdf",
+    "https://cameo.mfa.org/wiki/Niello",
+    "https://www.merriam-webster.com/dictionary/niello",
+    "https://en.wikipedia.org/wiki/Niello",
+    "https://www.langantiques.com/university/niello/",
+    "https://www.metmuseum.org/art/collection/search/468180",
+    "https://www.metmuseum.org/art/collection/search/476544",
+    "https://cool.culturalheritage.org/jaic/articles/jaic21-02-006.html",
+    "https://www.britannica.com/biography/Maso-Finiguerra"
+  ]
+}

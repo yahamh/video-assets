@@ -1,0 +1,152 @@
+{
+  "id": "241-millefiori-glass-sometimes-hides-tiny-faces",
+  "number": 241,
+  "title": "Millefiori glass sometimes hides tiny faces",
+  "topic": "millefiori thousand flowers glass canes murrine alexandria venice murano portraits paperweights",
+  "style": "paper",
+  "plate": "Millefiori",
+  "theme": "mint",
+  "music": "music-241.wav",
+  "hook": {
+    "text": "Millefiori glass sometimes hides tiny faces.",
+    "gold": [
+      "Millefiori",
+      "faces."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Millefiori glass sometimes hides tiny faces.",
+      "say": "meel-leh-FYOH-ree glass sometimes hides tiny faces.",
+      "scene": {
+        "kind": "hook",
+        "show": "glass",
+        "shape": "round",
+        "tone": "#e9567a",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Millefiori is Italian for a thousand flowers.",
+      "say": "meel-leh-FYOH-ree is Italian for a thousand flowers.",
+      "scene": {
+        "kind": "title",
+        "text": "Flowers",
+        "sub": "A thousand, in Italian",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Makers bundle colored glass rods and stretch them into a long bar.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2fa089",
+        "label": "Rods in a bundle",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "The bar is cut across, and every slice shows the same flower.",
+      "scene": {
+        "kind": "title",
+        "text": "Slices",
+        "sub": "Same flower each time",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Slices laid in a disc are heated until they melt together.",
+      "scene": {
+        "kind": "reveal",
+        "item": "glass",
+        "shape": "round",
+        "tone": "#e9567a",
+        "label": "Melted into a disc",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Alexandria was a leading center for this glass over 2,000 years ago.",
+      "say": "al-ig-ZAN-dree-uh was a leading center for this glass over two thousand years ago.",
+      "scene": {
+        "kind": "title",
+        "text": "Egypt",
+        "sub": "Alexandria, long ago",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Venice used it by the 1400s and revived it in the 1800s.",
+      "say": "Venice used it by the fourteen hundreds and revived it in the eighteen hundreds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2f6fd0",
+        "label": "Venice, 1400s",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Murano makers put tiny portraits inside canes, so slices show faces.",
+      "say": "moo-RAH-noh makers put tiny portraits inside canes, so slices show faces.",
+      "scene": {
+        "kind": "title",
+        "text": "Murano",
+        "sub": "Portraits in canes",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "One slice from the 1840s shows a man in uniform.",
+      "say": "One slice from the eighteen forties shows a man in uniform.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e9567a",
+        "label": "A man in uniform",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Millefiori paperweights became a craze in the mid 1840s.",
+      "say": "meel-leh-FYOH-ree paperweights became a craze in the mid eighteen forties.",
+      "scene": {
+        "kind": "title",
+        "text": "Craze",
+        "sub": "Mid 1840s paperweights",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Millefiori glass sometimes hides tiny faces. Millefiori is Italian for a thousand flowers. Makers bundle colored glass rods and stretch them into a long bar. The bar is cut across, and every slice shows the same flower. Slices laid in a disc are heated until they melt together. Alexandria was a leading center for this glass over 2,000 years ago. Venice used it by the 1400s and revived it in the 1800s. Murano makers put tiny portraits inside canes, so slices show faces. One slice from the 1840s shows a man in uniform. Millefiori paperweights became a craze in the mid 1840s.",
+    "hashtags": [
+      "#millefiori",
+      "#muranoglass",
+      "#glassart",
+      "#paperweights",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/art/millefiori-glass",
+    "https://exhibitions.kelsey.lsa.umich.edu/less-than-perfect/millefiori.php",
+    "https://www.metmuseum.org/de/art/collection/search/570588",
+    "https://renvenetian.cmog.org/node/141",
+    "https://www.metmuseum.org/essays/roman-mosaic-and-network-glass",
+    "https://glasscollection.cmog.org/objects/5107/bowl",
+    "https://www.britannica.com/art/glassware/The-Roman-Empire",
+    "https://en.wikipedia.org/wiki/Hellenistic_glass",
+    "https://glasscollection.cmog.org/objects/26881/murrina",
+    "https://artsandculture.google.com/story/BAVhY6XpjbYALg",
+    "https://glasscollection.cmog.org/objects/16809/paperweight"
+  ]
+}

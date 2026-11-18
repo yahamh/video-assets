@@ -1,0 +1,143 @@
+{
+  "id": "247-pearls-often-start-as-mississippi-mussel-shell",
+  "number": 247,
+  "title": "Pearls often start as Mississippi mussel shell",
+  "topic": "cultured pearl bead nucleus freshwater mussel shell mississippi tennessee rivers mantle tissue nacre japan",
+  "style": "paper",
+  "plate": "Pearl beads",
+  "theme": "blush",
+  "music": "music-247.wav",
+  "hook": {
+    "text": "Pearls often start as Mississippi mussel shell.",
+    "gold": [
+      "Pearls",
+      "Mississippi"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pearls often start as Mississippi mussel shell.",
+      "say": "Pearls often start as miss-ih-SIP-ee mussel shell.",
+      "scene": {
+        "kind": "hook",
+        "show": "round-pearl",
+        "tone": "#f2ece4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A cultured pearl grows around a round bead called a nucleus.",
+      "scene": {
+        "kind": "title",
+        "text": "Nucleus",
+        "sub": "A bead inside",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The beads are polished spheres of freshwater mussel shell.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "Polished shell",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Most of the shell comes from the Mississippi and Tennessee river systems.",
+      "say": "Most of the shell comes from the miss-ih-SIP-ee and Tennessee river systems.",
+      "scene": {
+        "kind": "title",
+        "text": "Rivers",
+        "sub": "Mississippi, Tennessee",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Makers saw shell into strips, then grind cubes into spheres.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "Cubes ground round",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "One shell yields about 20 beads, a few percent of its weight.",
+      "say": "One shell yields about twenty beads, a few percent of its weight.",
+      "scene": {
+        "kind": "title",
+        "text": "About 20",
+        "sub": "Beads per shell",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Most beads measure 6 to 8 millimeters across.",
+      "say": "Most beads measure six to eight millimeters across.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "6 to 8 mm",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "A tiny piece of mantle tissue goes in beside the bead.",
+      "scene": {
+        "kind": "title",
+        "text": "Mantle",
+        "sub": "Tissue goes in too",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Coating it with nacre usually takes one to a few years.",
+      "say": "Coating it with NAY-ker usually takes one to a few years.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f2ece4",
+        "label": "Layers of nacre",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "By the 1950s, shell from American rivers was shipping to Japan.",
+      "say": "By the nineteen fifties, shell from American rivers was shipping to Japan.",
+      "scene": {
+        "kind": "title",
+        "text": "1950s",
+        "sub": "Shipped to Japan",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pearls often start as Mississippi mussel shell. A cultured pearl grows around a round bead called a nucleus. The beads are polished spheres of freshwater mussel shell. Most of the shell comes from the Mississippi and Tennessee river systems. Makers saw shell into strips, then grind cubes into spheres. One shell yields about 20 beads, a few percent of its weight. Most beads measure 6 to 8 millimeters across. A tiny piece of mantle tissue goes in beside the bead. Coating it with nacre usually takes one to a few years. By the 1950s, shell from American rivers was shipping to Japan.",
+    "hashtags": [
+      "#culturedpearls",
+      "#pearls",
+      "#mussels",
+      "#akoya",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/spring-2020-labnotes-cultured-pearl-laminated-nucleus",
+    "https://www.gia.edu/gems-gemology/fall-2020-vietnam-shell-nuclei-pearl-hatcheries",
+    "https://gardenandgun.com/the-surprising-connection-between-the-mississippi-river-basin-and-tahitian-black-pearls",
+    "https://www.gia.edu/articles/freshwater-pearling-tennessee",
+    "https://tennesseeencyclopedia.net/?p=1737",
+    "https://www.gia.edu/gia-news-research/lure-american-freshwater-pearls-revisiting-latendresse-family",
+    "https://www.gia.edu/gia-news-research/differences-between-pearl-types",
+    "https://factsanddetails.com/japan/cat24/sub159/item933.html"
+  ]
+}

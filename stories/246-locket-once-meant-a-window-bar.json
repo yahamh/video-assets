@@ -1,0 +1,141 @@
+{
+  "id": "246-locket-once-meant-a-window-bar",
+  "number": 246,
+  "title": "Locket once meant a window bar",
+  "topic": "locket loquet latch window bar hinged case reliquary pendants elizabeth chequers ring heneage jewel daguerreotype photograph hair",
+  "style": "lowpoly",
+  "music": "music-246.wav",
+  "hook": {
+    "text": "Locket once meant a window bar.",
+    "gold": [
+      "Locket",
+      "window"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Locket once meant a window bar.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#c4a24a"
+      }
+    },
+    {
+      "text": "It comes from French loquet, meaning a latch or bolt.",
+      "say": "It comes from French loh-KAY, meaning a latch or bolt.",
+      "scene": {
+        "kind": "title",
+        "text": "Loquet",
+        "sub": "French for latch"
+      }
+    },
+    {
+      "text": "In the 1300s it meant an iron bar fastening a window.",
+      "say": "In the thirteen hundreds it meant an iron bar fastening a window.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a8f98",
+        "label": "An iron bar"
+      }
+    },
+    {
+      "text": "The little hinged case is first recorded in the late 1600s.",
+      "say": "The little hinged case is first recorded in the late sixteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Late 1600s",
+        "sub": "The little case"
+      }
+    },
+    {
+      "text": "Lockets grew out of hinged pendants that held holy relics.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c4a24a",
+        "label": "Holy relics"
+      }
+    },
+    {
+      "text": "Elizabeth I's locket ring from about 1575 hides two portraits.",
+      "say": "Elizabeth the First's locket ring from about fifteen seventy five hides two portraits.",
+      "scene": {
+        "kind": "title",
+        "text": "About 1575",
+        "sub": "A queen's locket ring"
+      }
+    },
+    {
+      "text": "The Heneage Jewel is a locket holding a miniature of the queen.",
+      "say": "The HEN-ij Jewel is a locket holding a miniature of the queen.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#b02a3a",
+        "label": "Heneage Jewel"
+      }
+    },
+    {
+      "text": "By about 1850, daguerreotype portraits sat inside lockets.",
+      "say": "By about eighteen fifty, duh-GAIR-oh-type portraits sat inside lockets.",
+      "scene": {
+        "kind": "title",
+        "text": "About 1850",
+        "sub": "Photographs inside"
+      }
+    },
+    {
+      "text": "Soon lockets paired a photograph with a lock of hair.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#6b4a2a",
+        "label": "A lock of hair"
+      }
+    },
+    {
+      "text": "A hinge on one side and a small catch opposite close it.",
+      "scene": {
+        "kind": "title",
+        "text": "Hinge",
+        "sub": "And a small catch"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Locket once meant a window bar. It comes from French loquet, meaning a latch or bolt. In the 1300s it meant an iron bar fastening a window. The little hinged case is first recorded in the late 1600s. Lockets grew out of hinged pendants that held holy relics. Elizabeth I's locket ring from about 1575 hides two portraits. The Heneage Jewel is a locket holding a miniature of the queen. By about 1850, daguerreotype portraits sat inside lockets. Soon lockets paired a photograph with a lock of hair. A hinge on one side and a small catch opposite close it.",
+    "hashtags": [
+      "#locket",
+      "#etymology",
+      "#tudorjewelry",
+      "#victorianjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/locket",
+    "https://www.merriam-webster.com/dictionary/locket",
+    "https://www.dictionary.com/browse/locket",
+    "https://victor-mayer.com/en/lockets/the-surprising-history-of-the-locket/",
+    "https://adin.be/en/explanation-on-locket-by-adin-antique-jewelry.htm",
+    "https://en.wikipedia.org/wiki/Chequers_Ring",
+    "https://collections.vam.ac.uk/item/O33883/",
+    "https://thealthanicollection.com/recently-shown-highlights/the-heneage-jewel",
+    "https://collections.vam.ac.uk/item/O299120/",
+    "https://www.londonmuseum.org.uk/collections/v/object-64120/locket/",
+    "https://www.jckonline.com/magazine-article/professional-jewelry-making-silver-locket-part-2/",
+    "https://kayasieraden.nl/en/tips-and-advice/how-does-the-locket-open"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "248-pavilion-once-meant-both-tent-and-butterfly",
+  "number": 248,
+  "title": "Pavilion once meant both tent and butterfly",
+  "topic": "pavilion gem part names latin papilio butterfly tent table crown corona girdle culet tolkowsky 1919 43 percent",
+  "music": "music-248.wav",
+  "hook": {
+    "text": "Pavilion once meant both tent and butterfly.",
+    "gold": [
+      "Pavilion",
+      "butterfly."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pavilion once meant both tent and butterfly.",
+      "say": "puh-VIHL-yun once meant both tent and butterfly.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#eef4f7"
+      }
+    },
+    {
+      "text": "In a cut gem, the pavilion is the part below the girdle.",
+      "say": "In a cut gem, the puh-VIHL-yun is the part below the girdle.",
+      "scene": {
+        "kind": "title",
+        "text": "Pavilion",
+        "sub": "Below the girdle"
+      }
+    },
+    {
+      "text": "The word comes through French from Latin papilio, meaning butterfly.",
+      "say": "The word comes through French from Latin pa-PIL-ee-oh, meaning butterfly.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#cfe3f1",
+        "label": "Latin papilio"
+      }
+    },
+    {
+      "text": "Later Latin used the same word for a tent.",
+      "scene": {
+        "kind": "title",
+        "text": "A tent",
+        "sub": "Later Latin"
+      }
+    },
+    {
+      "text": "A spread canvas tent is said to look like wings.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f1d7e6",
+        "label": "Said to look like wings"
+      }
+    },
+    {
+      "text": "The table, the big flat top facet, comes from Latin for board.",
+      "scene": {
+        "kind": "title",
+        "text": "Table",
+        "sub": "From Latin, board"
+      }
+    },
+    {
+      "text": "The crown above the girdle comes from Latin corona, a wreath.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e3efd0",
+        "label": "Crown, a wreath"
+      }
+    },
+    {
+      "text": "The girdle is the narrow band between them, and it means belt.",
+      "scene": {
+        "kind": "title",
+        "text": "Girdle",
+        "sub": "Old English, belt"
+      }
+    },
+    {
+      "text": "The culet, the tiny bottom facet, comes from French for bottom.",
+      "say": "The KYOO-lit, the tiny bottom facet, comes from French for bottom.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#eef4f7",
+        "label": "Culet, bottom"
+      }
+    },
+    {
+      "text": "In Tolkowsky's 1919 design, pavilion depth is about 43 percent of width.",
+      "say": "In tol-KOF-skee's nineteen nineteen design, puh-VIHL-yun depth is about forty three percent of width.",
+      "scene": {
+        "kind": "title",
+        "text": "1919",
+        "sub": "Tolkowsky's round cut"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pavilion once meant both tent and butterfly. In a cut gem, the pavilion is the part below the girdle. The word comes through French from Latin papilio, meaning butterfly. Later Latin used the same word for a tent. A spread canvas tent is said to look like wings. The table, the big flat top facet, comes from Latin for board. The crown above the girdle comes from Latin corona, a wreath. The girdle is the narrow band between them, and it means belt. The culet, the tiny bottom facet, comes from French for bottom. In Tolkowsky's 1919 design, pavilion depth is about 43 percent of width.",
+    "hashtags": [
+      "#gemology",
+      "#diamondcut",
+      "#etymology",
+      "#roundbrilliant",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/blog/diamond-anatomy-explained/",
+    "https://www.merriam-webster.com/dictionary/pavilion",
+    "https://www.etymonline.com/word/pavilion",
+    "https://en.wikipedia.org/wiki/Pavilion",
+    "https://en.wiktionary.org/wiki/pavilion",
+    "https://www.etymonline.com/word/table",
+    "https://www.etymonline.com/word/crown",
+    "https://www.etymonline.com/word/girdle",
+    "https://en.wiktionary.org/wiki/culet",
+    "https://www.dictionary.com/browse/culet",
+    "https://en.wikipedia.org/wiki/Diamond_cut"
+  ]
+}

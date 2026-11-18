@@ -1,0 +1,139 @@
+{
+  "id": "242-collectors-smell-bakelite-to-test-it",
+  "number": 242,
+  "title": "Collectors smell Bakelite to test it",
+  "topic": "bakelite baekeland 1907 first synthetic plastic costume jewelry carved bangles cobalt blue catalin smell test",
+  "music": "music-242.wav",
+  "hook": {
+    "text": "Collectors smell Bakelite to test it.",
+    "gold": [
+      "Bakelite",
+      "test"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Collectors smell Bakelite to test it.",
+      "say": "Collectors smell BAKE-uh-lyte to test it.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#d98e2b"
+      }
+    },
+    {
+      "text": "Chemist Leo Baekeland made Bakelite in 1907.",
+      "say": "Chemist Leo BAKE-lund made BAKE-uh-lyte in nineteen oh seven.",
+      "scene": {
+        "kind": "title",
+        "text": "Bakelite",
+        "sub": "Made in 1907"
+      }
+    },
+    {
+      "text": "It is often called the first fully synthetic plastic.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d98e2b",
+        "label": "First plastic"
+      }
+    },
+    {
+      "text": "Once heat sets it, Bakelite stays hard and never melts again.",
+      "say": "Once heat sets it, BAKE-uh-lyte stays hard and never melts again.",
+      "scene": {
+        "kind": "title",
+        "text": "Heat set",
+        "sub": "Never melts again"
+      }
+    },
+    {
+      "text": "The patent was filed in 1907 and granted in 1909.",
+      "say": "The patent was filed in nineteen oh seven and granted in nineteen oh nine.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d98e2b",
+        "label": "Patent, 1909"
+      }
+    },
+    {
+      "text": "Makers began using it for costume jewelry in the 1920s.",
+      "say": "Makers began using it for costume jewelry in the nineteen twenties.",
+      "scene": {
+        "kind": "title",
+        "text": "Costume",
+        "sub": "Jewelry from the 1920s"
+      }
+    },
+    {
+      "text": "It boomed in the 1930s, when carved bangles were an affordable luxury.",
+      "say": "It boomed in the nineteen thirties, when carved bangles were an affordable luxury.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d98e2b",
+        "label": "Carved bangles"
+      }
+    },
+    {
+      "text": "Collectors prize rare colors such as cobalt blue.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#1f5fbf",
+        "label": "Cobalt blue"
+      }
+    },
+    {
+      "text": "Catalin is Bakelite's cast cousin, known for brighter colors.",
+      "say": "KAT-uh-lin is BAKE-uh-lyte's cast cousin, known for brighter colors.",
+      "scene": {
+        "kind": "title",
+        "text": "Catalin",
+        "sub": "The cast cousin"
+      }
+    },
+    {
+      "text": "Hot water or a good rub brings out its chemical smell.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d98e2b",
+        "label": "Hot water test"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Collectors smell Bakelite to test it. Chemist Leo Baekeland made Bakelite in 1907. It is often called the first fully synthetic plastic. Once heat sets it, Bakelite stays hard and never melts again. The patent was filed in 1907 and granted in 1909. Makers began using it for costume jewelry in the 1920s. It boomed in the 1930s, when carved bangles were an affordable luxury. Collectors prize rare colors such as cobalt blue. Catalin is Bakelite's cast cousin, known for brighter colors. Hot water or a good rub brings out its chemical smell.",
+    "hashtags": [
+      "#bakelite",
+      "#vintagejewelry",
+      "#costumejewelry",
+      "#plastic",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/Bakelite",
+    "https://www.sciencehistory.org/education/scientific-biographies/leo-hendrik-baekeland/",
+    "https://www.si.edu/object/bakelizer:nmah_622",
+    "https://blog.sciencemuseum.org.uk/bakelite-the-first-synthetic-plastic/",
+    "https://en.wikipedia.org/wiki/Bakelite",
+    "https://www.collectorsweekly.com/costume-jewelry/bakelite",
+    "https://www.myvintage.uk/post/vintage-bakelite-jewellery-history-value-expert-tips",
+    "https://www.historicalretail.com/blog/is-it-bakelite"
+  ]
+}

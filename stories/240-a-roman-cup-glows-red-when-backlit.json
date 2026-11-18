@@ -1,0 +1,136 @@
+{
+  "id": "240-a-roman-cup-glows-red-when-backlit",
+  "number": 240,
+  "title": "A Roman cup glows red when backlit",
+  "topic": "lycurgus cup roman dichroic glass nanoparticles gold silver green red british museum rothschild 1958 cage cup",
+  "style": "lowpoly",
+  "music": "music-240.wav",
+  "hook": {
+    "text": "A Roman cup glows red when backlit.",
+    "gold": [
+      "Roman",
+      "backlit."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Roman cup glows red when backlit.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#4a9a5c"
+      }
+    },
+    {
+      "text": "The Lycurgus Cup is a Roman glass cup from the 4th century.",
+      "say": "The ly-KUR-gus Cup is a Roman glass cup from the fourth century.",
+      "scene": {
+        "kind": "title",
+        "text": "Lycurgus",
+        "sub": "A Roman glass cup"
+      }
+    },
+    {
+      "text": "Lit from the front, it looks opaque green.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4a9a5c",
+        "label": "Front light"
+      }
+    },
+    {
+      "text": "Shine light through from behind and the glass glows red.",
+      "scene": {
+        "kind": "title",
+        "text": "Red",
+        "sub": "Light from behind"
+      }
+    },
+    {
+      "text": "Tiny gold and silver specks in the glass cause the change.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c23b2e",
+        "label": "Gold and silver"
+      }
+    },
+    {
+      "text": "The specks are around 50 to 100 nanometers across.",
+      "say": "The specks are around fifty to one hundred nanometers across.",
+      "scene": {
+        "kind": "title",
+        "text": "50 to 100",
+        "sub": "Nanometers across"
+      }
+    },
+    {
+      "text": "That is over 1,000 times smaller than a grain of table salt.",
+      "say": "That is over one thousand times smaller than a grain of table salt.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c23b2e",
+        "label": "Smaller than salt"
+      }
+    },
+    {
+      "text": "Most experts think its figures were cut from a thick glass blank.",
+      "scene": {
+        "kind": "title",
+        "text": "Cage cup",
+        "sub": "Cut from thick glass"
+      }
+    },
+    {
+      "text": "The figures show King Lycurgus caught in grapevine tendrils.",
+      "say": "The figures show King ly-KUR-gus caught in grapevine tendrils.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4a9a5c",
+        "label": "King Lycurgus"
+      }
+    },
+    {
+      "text": "The British Museum bought it from the Rothschild family in 1958.",
+      "say": "The British Museum bought it from the ROTHS-child family in nineteen fifty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1958",
+        "sub": "British Museum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A Roman cup glows red when backlit. The Lycurgus Cup is a Roman glass cup from the 4th century. Lit from the front, it looks opaque green. Shine light through from behind and the glass glows red. Tiny gold and silver specks in the glass cause the change. The specks are around 50 to 100 nanometers across. That is over 1,000 times smaller than a grain of table salt. Most experts think its figures were cut from a thick glass blank. The figures show King Lycurgus caught in grapevine tendrils. The British Museum bought it from the Rothschild family in 1958.",
+    "hashtags": [
+      "#lycurguscup",
+      "#romanglass",
+      "#nanotechnology",
+      "#britishmuseum",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britishmuseum.org/explore/highlights/highlight_objects/pe_mla/t/the_lycurgus_cup.aspx",
+    "https://www.sheffield.ac.uk/news/technician-cracks-1600-year-old-mystery-replicate-roman-masterpiece",
+    "https://www.bluesci.co.uk/posts/nanotech-thats-ancient-history",
+    "https://ece.illinois.edu/news/3136",
+    "https://www.discovermagazine.com/the-sciences/ancient-romans-color-changing-goblet-was-feat-of-nanotechnology",
+    "https://en.wikipedia.org/wiki/Lycurgus_Cup",
+    "https://artfund.org/our-purpose/art-funded-by-you/the-lycurgus-cup",
+    "https://en.wikipedia.org/wiki/Cage_cup",
+    "https://www.britishmuseum.org/collection/object/H_1958-1202-1"
+  ]
+}

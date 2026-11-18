@@ -1,0 +1,138 @@
+{
+  "id": "243-green-powder-turns-shakudo-black",
+  "number": 243,
+  "title": "Green powder turns shakudo black",
+  "topic": "shakudo japanese copper gold alloy black patina rokusho daikon nanako sword fittings meiji jewelry",
+  "style": "lowpoly",
+  "music": "music-243.wav",
+  "hook": {
+    "text": "Green powder turns shakudo black.",
+    "gold": [
+      "Green",
+      "black."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Green powder turns shakudo black.",
+      "say": "Green powder turns shah-KOO-doh black.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#3b4468"
+      }
+    },
+    {
+      "text": "Shakudo means red copper, an alloy with a few percent gold.",
+      "say": "shah-KOO-doh means red copper, an alloy with a few percent gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Shakudo",
+        "sub": "Red copper, some gold"
+      }
+    },
+    {
+      "text": "Its black color appears only after the surface is treated.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#b4683a",
+        "label": "Not black at first"
+      }
+    },
+    {
+      "text": "Makers simmer it in a hot rokusho solution of copper salts.",
+      "say": "Makers simmer it in a hot ROH-koo-shoh solution of copper salts.",
+      "scene": {
+        "kind": "title",
+        "text": "Rokusho",
+        "sub": "A copper salt bath"
+      }
+    },
+    {
+      "text": "Rokusho itself is a green blue copper powder.",
+      "say": "ROH-koo-shoh itself is a green blue copper powder.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3fa58f",
+        "label": "Green blue powder"
+      }
+    },
+    {
+      "text": "Grated daikon radish is part of the traditional process.",
+      "say": "Grated DYE-kon radish is part of the traditional process.",
+      "scene": {
+        "kind": "title",
+        "text": "Daikon",
+        "sub": "Part of the process"
+      }
+    },
+    {
+      "text": "The finished color is a deep blue black, sometimes purple.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3b4468",
+        "label": "Blue black"
+      }
+    },
+    {
+      "text": "Rows of tiny punched domes, called nanako, give a fish roe texture.",
+      "say": "Rows of tiny punched domes, called nah-NAH-koh, give a fish roe texture.",
+      "scene": {
+        "kind": "title",
+        "text": "Nanako",
+        "sub": "Fish roe texture"
+      }
+    },
+    {
+      "text": "It decorated sword fittings such as guards and grip ornaments.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#3b4468",
+        "label": "Sword fittings"
+      }
+    },
+    {
+      "text": "After 1876, Meiji makers turned shakudo fittings into small jewelry.",
+      "say": "After eighteen seventy six, MAY-jee makers turned shah-KOO-doh fittings into small jewelry.",
+      "scene": {
+        "kind": "title",
+        "text": "1876",
+        "sub": "Meiji jewelry"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Green powder turns shakudo black. Shakudo means red copper, an alloy with a few percent gold. Its black color appears only after the surface is treated. Makers simmer it in a hot rokusho solution of copper salts. Rokusho itself is a green blue copper powder. Grated daikon radish is part of the traditional process. The finished color is a deep blue black, sometimes purple. Rows of tiny punched domes, called nanako, give a fish roe texture. It decorated sword fittings such as guards and grip ornaments. After 1876, Meiji makers turned shakudo fittings into small jewelry.",
+    "hashtags": [
+      "#shakudo",
+      "#japanesemetalwork",
+      "#meiji",
+      "#patina",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://cameo.mfa.org/wiki/Shakudo",
+    "https://metalmuseum.org/_files/ugd/2193dd_866c868b785c486fb3cfba15077875b0.pdf",
+    "https://mci.si.edu/node/1245160",
+    "https://www.vancleefarpels.com/en/the-maison/newsroom/shakudo-from-samurai-ornaments-to-jewelry-exhibition-at-lecole.html",
+    "https://en.wikipedia.org/wiki/Shakud%C5%8D",
+    "https://www.ganoksin.com/article/brief-notes-on-shakudo",
+    "https://www.exarc.net/ark:/88735/10337",
+    "https://collections.vam.ac.uk/item/O38974",
+    "https://navettejewellery.org/2024/08/23/japanese-shakudo-jewellery/"
+  ]
+}
