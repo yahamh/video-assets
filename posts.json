@@ -2715,7 +2715,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2233125564306684",
+      "instagram": "https://www.instagram.com/reel/Df7rw04Dtst/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709945062863457544",
+      "youtube": "https://www.youtube.com/watch?v=BnTQtAzfvew"
+    }
   },
   "171-this-gem-has-two-different-hardnesses": {
     "at": "2026-11-19T19:30:00Z",
@@ -2724,7 +2731,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1458832259768977",
+      "instagram": "https://www.instagram.com/reel/Df71tmDjfkj/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709967466465742100"
+    }
   },
   "172-this-tiara-was-a-wedding-gift-twice": {
     "at": "2026-11-19T21:00:00Z",
@@ -2733,7 +2746,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2980469385622012",
+      "instagram": "https://www.instagram.com/reel/Df8ADuhiC3a/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709991061338262804"
+    }
   },
   "173-he-carried-a-138-carat-ruby-for-luck": {
     "at": "2026-11-16T03:30:00Z",
@@ -3325,7 +3344,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2878307342563239",
+      "instagram": "https://www.instagram.com/reel/Df8Gu2ZlTnS/"
+    }
   },
   "216-unplated-white-gold-is-faintly-yellow": {
     "at": "2026-11-19T23:00:00Z",
@@ -3334,7 +3358,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1543102411198851",
+      "instagram": "https://www.instagram.com/reel/Df8Ny3CD9OF/",
+      "youtube": "https://www.youtube.com/watch?v=j0aBQf7R4p4"
+    }
   },
   "217-baroque-probably-began-as-a-pearl-word": {
     "at": "2026-11-20T00:00:00Z",
@@ -3820,49 +3850,77 @@
     "zernio_id": "6afe8acbe169c9010f3ce503",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df7n02qkWEA/"
+    }
   },
   "267-fluorescence-is-named-after-the-mineral-fluorite": {
     "at": "2026-11-19T18:30:00Z",
     "zernio_id": "6afe8acf4a3834704d8dba35",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df7uveWjr6p/"
+    }
   },
   "268-the-oldest-known-beads-are-snail-shells": {
     "at": "2026-11-19T19:00:00Z",
     "zernio_id": "6afe8ad8e169c9010f3ce542",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df7yXq3kfdX/"
+    }
   },
   "269-ground-malachite-painted-egyptian-eyelids-green": {
     "at": "2026-11-19T20:00:00Z",
     "zernio_id": "6afe8adf4a3834704d8dba5d",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df75FPKlfKd/"
+    }
   },
   "270-moss-agate-contains-no-moss-at-all": {
     "at": "2026-11-19T20:30:00Z",
     "zernio_id": "6afe8ae54a3834704d8dba91",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df78a1BIOG2/"
+    }
   },
   "271-jewel-likely-began-as-a-latin-joke": {
     "at": "2026-11-19T21:30:00Z",
     "zernio_id": "6afe8aef69735d4122853078",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df8DSQYlfDj/"
+    }
   },
   "272-girandole-earrings-share-a-name-with-fireworks": {
     "at": "2026-11-19T22:30:00Z",
     "zernio_id": "6afe8af64a3834704d8dbae9",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df8KNm_Giyg/"
+    }
   },
   "273-celluloid-plastic-could-pass-for-ivory": {
     "at": "2026-11-19T23:30:00Z",
@@ -4013,6 +4071,72 @@
   "292-a-radiant-diamond-looks-like-crushed-ice": {
     "at": "2026-11-21T09:30:00Z",
     "zernio_id": "6aff3489f713c5ebcb0ce812",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "293-unakite-is-granite-that-turned-green-underground": {
+    "at": "2026-11-21T10:00:00Z",
+    "zernio_id": "6aff86c5a22d351090d2be9f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "294-spessartine-is-named-for-a-woodpecker-forest": {
+    "at": "2026-11-21T10:30:00Z",
+    "zernio_id": "6aff86cb6ea064c287833c1d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "295-a-puzzle-ring-falls-apart-when-removed": {
+    "at": "2026-11-21T11:00:00Z",
+    "zernio_id": "6aff86d4ca99dfe0b80a1daa",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "296-rhodonite-is-russias-pink-eagle-stone": {
+    "at": "2026-11-21T11:30:00Z",
+    "zernio_id": "6aff86da54aab02eea0fcc7f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "297-iron-makes-heliodor-gold-and-aquamarine-blue": {
+    "at": "2026-11-21T12:00:00Z",
+    "zernio_id": "6aff86e120ea68d0fa0d72a1",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "298-lucite-carries-light-around-corners": {
+    "at": "2026-11-21T12:30:00Z",
+    "zernio_id": "6aff86ec6ea064c287833cad",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "299-purple-sugilite-hid-inside-manganese-ore": {
+    "at": "2026-11-21T13:00:00Z",
+    "zernio_id": "6aff86f420ea68d0fa0d7310",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "300-prehnite-grows-in-clusters-like-grapes": {
+    "at": "2026-11-21T13:30:00Z",
+    "zernio_id": "6aff86faad7bfa5a16f8b5ac",
     "platforms": [
       "facebook",
       "instagram"
@@ -4604,6 +4728,13 @@
   "lesson-033-diamond-color-grades": {
     "at": "2026-11-25T16:00:00Z",
     "zernio_id": "6afe37ce9bf0750ffefb7256",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-034-diamond-clarity-grades": {
+    "at": "2026-11-26T16:00:00Z",
+    "zernio_id": "6aff86ff20ea68d0fa0d7359",
     "platforms": [
       "youtube"
     ]
