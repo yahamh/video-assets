@@ -2622,7 +2622,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2323198168474814",
+      "instagram": "https://www.instagram.com/reel/Df5zDrtDmAx/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709673489858366740"
+    }
   },
   "165-tahitian-black-pearls-are-not-truly-black": {
     "at": "2026-11-19T02:00:00Z",
@@ -2631,7 +2637,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2274537329790490",
+      "instagram": "https://www.instagram.com/reel/Df59nqEnPRp/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709697062740167957"
+    }
   },
   "166-this-jewelry-house-began-with-a-wedding": {
     "at": "2026-11-19T11:30:00Z",
@@ -3153,7 +3165,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1485456813469335",
+      "instagram": "https://www.instagram.com/reel/Df5v6k_FPst/"
+    }
   },
   "208-gems-were-polished-smooth-before-faceting": {
     "at": "2026-11-19T01:00:00Z",
@@ -3161,7 +3178,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2205570403667877",
+      "instagram": "https://www.instagram.com/reel/Df52gVZCvMW/"
+    }
   },
   "209-aluminum-once-belonged-in-a-jewelry-store": {
     "at": "2026-11-19T01:30:00Z",
@@ -3169,7 +3191,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2910802885964545",
+      "instagram": "https://www.instagram.com/reel/Df56C0eDWMp/"
+    }
   },
   "210-vermeils-root-word-means-little-worm": {
     "at": "2026-11-19T02:30:00Z",
@@ -3177,7 +3204,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1455513193442754",
+      "instagram": "https://www.instagram.com/reel/Df6BDisjnBb/"
+    }
   },
   "211-anglo-saxon-royal-garnets-traveled-thousands-of-miles": {
     "at": "2026-11-19T03:00:00Z",
@@ -3185,7 +3217,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2356381935208842",
+      "instagram": "https://www.instagram.com/reel/Df6ESTWFN65/"
+    }
   },
   "212-black-carbonado-diamonds-once-tipped-rock-drills": {
     "at": "2026-11-19T08:30:00Z",
