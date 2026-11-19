@@ -1,0 +1,155 @@
+{
+  "id": "280-tumbaga-is-copper-dressed-as-gold",
+  "number": 280,
+  "title": "Tumbaga is copper dressed as gold",
+  "topic": "tumbaga muisca copper two thirds depletion gilding oxide plant acid gold skin polished microns stingless bee wax lost wax zenu twisted wire cast whole tembaga asian word copper muisca raft single pour gold museum bogota",
+  "style": "paper",
+  "plate": "Tumbaga",
+  "theme": "blush",
+  "music": "music-280.wav",
+  "hook": {
+    "text": "Tumbaga is copper dressed as gold.",
+    "gold": [
+      "Tumbaga",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tumbaga is copper dressed as gold.",
+      "say": "toom-BAH-gah is copper dressed as gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Some Muisca figures that look golden are about two thirds copper.",
+      "say": "Some MWEES-kah figures that look golden are about two thirds copper.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9743a",
+        "label": "Two thirds copper",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Smiths heated the piece until its surface copper turned to oxide.",
+      "scene": {
+        "kind": "title",
+        "text": "Heat",
+        "sub": "Copper turns to oxide",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "An acid from plants then washed the oxide away.",
+      "scene": {
+        "kind": "title",
+        "text": "Acid",
+        "sub": "From plants",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "That left a skin rich in gold, which was then polished.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0b44a",
+        "label": "A skin rich in gold",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "That skin is only a few thousandths of a millimeter thick.",
+      "scene": {
+        "kind": "title",
+        "text": "Thin",
+        "sub": "A few microns",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The wax for the models came from stingless bees.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8c14a",
+        "label": "Stingless bee wax",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Some Zenu ornaments that look like twisted wire were cast whole.",
+      "say": "Some seh-NOO ornaments that look like twisted wire were cast whole.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "earrings",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Cast whole",
+        "velvet": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The word tumbaga traces back to an Asian word for copper.",
+      "say": "The word toom-BAH-gah traces back to an Asian word for copper.",
+      "scene": {
+        "kind": "title",
+        "text": "Tembaga",
+        "sub": "Asian word for copper",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The Muisca raft in the Gold Museum was cast in one pour.",
+      "say": "The MWEES-kah raft in the Gold Museum was cast in one pour.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0b44a",
+        "label": "Cast in one pour",
+        "color": "#5bb4e8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tumbaga is copper dressed as gold. Some Muisca figures that look golden are about two thirds copper. Smiths heated the piece until its surface copper turned to oxide. An acid from plants then washed the oxide away. That left a skin rich in gold, which was then polished. That skin is only a few thousandths of a millimeter thick. The wax for the models came from stingless bees. Some Zenu ornaments that look like twisted wire were cast whole. The word tumbaga traces back to an Asian word for copper. The Muisca raft in the Gold Museum was cast in one pour.",
+    "hashtags": [
+      "#tumbaga",
+      "#precolumbiangold",
+      "#muisca",
+      "#goldwork",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://core.ac.uk/download/337604701.pdf",
+    "https://publicaciones.banrepcultural.org/index.php/bmo/article/download/6897/7137/13978",
+    "https://enciclopedia.banrepcultural.org/index.php/Working_with_Metals",
+    "https://www.lacma.org/node/41137",
+    "https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2020.00230/text",
+    "https://www.cambridge.org/core/product/12C1D91C159A1318FD2A5DF49255C85E",
+    "https://torch.ox.ac.uk/node/3759176",
+    "https://en.wikipedia.org/wiki/Tumbaga",
+    "https://smarthistory.org/?p=13666",
+    "https://www.lbma.org.uk/alchemist/issue-72/beyond-el-dorado-the-golden-one",
+    "https://www.metmuseum.org/art/collection/search/309981",
+    "https://en.wikipedia.org/wiki/Muisca_raft",
+    "https://artsandculture.google.com/asset/LQEc8oIOPSDRcQ"
+  ]
+}

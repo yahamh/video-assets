@@ -1,0 +1,141 @@
+{
+  "id": "276-electrum-shares-its-name-with-electricity",
+  "number": 276,
+  "title": "Electrum shares its name with electricity",
+  "topic": "electrum natural gold silver alloy elektron amber electric gilbert electricus 1600 pliny fifth silver sardis lydia salt cementation refinery clay 1968 greenish rings pinheads egyptian obelisk tips white gold",
+  "style": "lowpoly",
+  "music": "music-276.wav",
+  "hook": {
+    "text": "Electrum shares its name with electricity.",
+    "gold": [
+      "Electrum",
+      "electricity."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Electrum shares its name with electricity.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#e6d8a0"
+      }
+    },
+    {
+      "text": "The Greek word for amber also named a gold and silver alloy.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "label": "Amber, same word"
+      }
+    },
+    {
+      "text": "In 1600, William Gilbert coined electricus, meaning like amber.",
+      "say": "In sixteen hundred, William Gilbert coined ih-LEK-trih-kus, meaning like amber.",
+      "scene": {
+        "kind": "title",
+        "text": "Electric",
+        "sub": "Gilbert, 1600"
+      }
+    },
+    {
+      "text": "Pliny wrote that gold with a fifth silver was called electrum.",
+      "say": "PLIN-ee wrote that gold with a fifth silver was called electrum.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e6d8a0",
+        "label": "A fifth silver"
+      }
+    },
+    {
+      "text": "In the 6th century BC, goldsmiths at Sardis refined it with salt.",
+      "say": "In the sixth century B C, goldsmiths at SAR-dis refined it with salt.",
+      "scene": {
+        "kind": "title",
+        "text": "Salt",
+        "sub": "Packed and baked"
+      }
+    },
+    {
+      "text": "The salt changed the silver so the clay could soak it up.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#c9ced6",
+        "label": "Clay soaks the silver"
+      }
+    },
+    {
+      "text": "In 1968, diggers spotted greenish rings on a clay floor at Sardis.",
+      "say": "In nineteen sixty eight, diggers spotted greenish rings on a clay floor at SAR-dis.",
+      "scene": {
+        "kind": "title",
+        "text": "Rings",
+        "sub": "Found at Sardis, 1968"
+      }
+    },
+    {
+      "text": "The gold they recovered was only tiny specks like pinheads.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f1d46a",
+        "label": "Specks like pinheads"
+      }
+    },
+    {
+      "text": "Egyptians coated obelisk tops in electrum so they flashed in the sun.",
+      "scene": {
+        "kind": "title",
+        "text": "Obelisks",
+        "sub": "Tips flashed in sunlight"
+      }
+    },
+    {
+      "text": "The Greeks called electrum white gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#efe6c8",
+        "label": "Greek: white gold"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Electrum shares its name with electricity. The Greek word for amber also named a gold and silver alloy. In 1600, William Gilbert coined electricus, meaning like amber. Pliny wrote that gold with a fifth silver was called electrum. In the 6th century BC, goldsmiths at Sardis refined it with salt. The salt changed the silver so the clay could soak it up. In 1968, diggers spotted greenish rings on a clay floor at Sardis. The gold they recovered was only tiny specks like pinheads. Egyptians coated obelisk tops in electrum so they flashed in the sun. The Greeks called electrum white gold.",
+    "hashtags": [
+      "#electrum",
+      "#ancientgold",
+      "#lydia",
+      "#goldalloy",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/electrum",
+    "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Electrum.html",
+    "https://www.etymonline.com/word/electric",
+    "https://en.wikipedia.org/wiki/Etymology_of_electricity",
+    "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D33%3Achapter%3D23",
+    "https://sardisexpedition.org/en/essays/latw-greenewalt-gold-silver-refining",
+    "https://link.springer.com/10.1007/s12520-021-01369-2",
+    "https://www.harvardmagazine.com/sites/default/files/html/1998/03/sardis3.html",
+    "https://news.cornell.edu/node/282650",
+    "https://globalegyptianmuseum.org/glossary.aspx?id=307",
+    "https://www.nationalgeographic.com/history/article/ancient-egypt-obelisks-monuments",
+    "https://www.britannica.com/science/electrum",
+    "https://en.wikipedia.org/wiki/Electrum"
+  ]
+}

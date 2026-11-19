@@ -1,0 +1,150 @@
+{
+  "id": "278-tigers-eye-hides-blue-fibers",
+  "number": 278,
+  "title": "Tiger's eye hides blue fibers",
+  "topic": "tiger's eye crocidolite blue fibers chatoyancy shimmer rust iron golden brown hawk's eye cat's eye french cabochon red heated quartz mohs 7 northern cape south africa debated",
+  "music": "music-278.wav",
+  "hook": {
+    "text": "Tiger's eye hides blue fibers.",
+    "gold": [
+      "Tiger's",
+      "fibers."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiger's eye hides blue fibers.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#c9962e"
+      }
+    },
+    {
+      "text": "The silky shimmer comes from blue fibers called crocidolite.",
+      "say": "The silky shimmer comes from blue fibers called kroh-SID-oh-lite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#4a78b8",
+        "label": "Blue fibers inside"
+      }
+    },
+    {
+      "text": "Rusting iron turns the blue fibers golden brown.",
+      "scene": {
+        "kind": "title",
+        "text": "Rust",
+        "sub": "Turns fibers golden"
+      }
+    },
+    {
+      "text": "Geologists still debate the exact steps of how it forms.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c9a14a",
+        "label": "Steps still debated"
+      }
+    },
+    {
+      "text": "Hawk's eye is the same stone with its fibers unrusted.",
+      "scene": {
+        "kind": "title",
+        "text": "Hawk's eye",
+        "sub": "Unrusted fibers"
+      }
+    },
+    {
+      "text": "The band of light runs at right angles to the fibers.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9b04a",
+        "label": "A moving band"
+      }
+    },
+    {
+      "text": "Chatoyancy comes from the French for cat's eye.",
+      "say": "Shuh-TOY-un-see comes from the French for cat's eye.",
+      "scene": {
+        "kind": "title",
+        "text": "Cat's eye",
+        "sub": "From the French"
+      }
+    },
+    {
+      "text": "Jewelers cut it as a domed cabochon to show the band.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#b8862a",
+        "label": "Domed cabochon"
+      }
+    },
+    {
+      "text": "Much red tiger's eye is made by gently heating golden stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#b03a24",
+        "label": "Gently heated"
+      }
+    },
+    {
+      "text": "The finished gem is quartz, about 7 on the Mohs scale.",
+      "say": "The finished gem is quartz, about seven on the MOHZ scale.",
+      "scene": {
+        "kind": "title",
+        "text": "About 7",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "Its main source is South Africa's Northern Cape.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9962e",
+        "label": "Northern Cape"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tiger's eye hides blue fibers. The silky shimmer comes from blue fibers called crocidolite. Rusting iron turns the blue fibers golden brown. Geologists still debate the exact steps of how it forms. Hawk's eye is the same stone with its fibers unrusted. The band of light runs at right angles to the fibers. Chatoyancy comes from the French for cat's eye. Jewelers cut it as a domed cabochon to show the band. Much red tiger's eye is made by gently heating golden stone. The finished gem is quartz, about 7 on the Mohs scale. Its main source is South Africa's Northern Cape.",
+    "hashtags": [
+      "#tigerseye",
+      "#gemstones",
+      "#chatoyancy",
+      "#cabochon",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.psu.edu/news/research/story/structure-tiger-eye-reevaluated-after-125-years",
+    "https://www.scientificamerican.com/blog/rosetta-stones/tiger-s-eye-a-deceptive-delight/",
+    "https://www.psu.edu/news/story/closer-look-tigers-eye-stone-gives-eye-opening-surprise",
+    "https://sciencenews.org/?p=28444",
+    "https://depositsmag.com/2023/04/29/the-how-and-why-of-tigers-eye/",
+    "https://geology.com/gemstones/tiger-eye",
+    "https://geologybase.com/tigers-eye/",
+    "https://www.stonemania.co.uk/crystals/t/tigers-eye",
+    "https://gia.edu/gia-museum-exhibit-tigers-eye-quartz",
+    "https://www.minerals.net/gemstone/tiger-s-eye",
+    "https://www.fossilera.com/pages/how-is-tiger-s-eye-formed",
+    "https://museum.wa.gov.au/research/collections/earth-and-planetary-sciences/rock-collection/brockman-tiger-eye-chert-pilbara-w",
+    "https://uwaterloo.ca/earth-sciences-museum/resources/detailed-rocks-and-minerals-articles/mara-mamba-tiger-eye"
+  ]
+}

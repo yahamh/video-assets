@@ -1,0 +1,153 @@
+{
+  "id": "275-tungsten-means-heavy-stone-in-swedish",
+  "number": 275,
+  "title": "Tungsten means heavy stone in Swedish",
+  "topic": "tungsten heavy stone swedish tung sten volfram wolfram symbol w melts hottest metal dense as gold tungsten carbide ring powder pressed mold baked binder mohs 9 ceramic cannot be resized rado diastar 1962 scratchproof",
+  "music": "music-275.wav",
+  "hook": {
+    "text": "Tungsten means heavy stone in Swedish.",
+    "gold": [
+      "Tungsten",
+      "heavy"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tungsten means heavy stone in Swedish.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#9aa4b2"
+      }
+    },
+    {
+      "text": "English borrowed it from the old Swedish name of a heavy mineral.",
+      "scene": {
+        "kind": "title",
+        "text": "Borrowed",
+        "sub": "An old Swedish word"
+      }
+    },
+    {
+      "text": "Sweden itself calls the metal volfram.",
+      "say": "Sweden itself calls the metal VOL-fram.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9b98a",
+        "label": "Sweden says volfram"
+      }
+    },
+    {
+      "text": "Its symbol W comes from the name wolfram.",
+      "say": "Its symbol W comes from the name WOOL-fram.",
+      "scene": {
+        "kind": "title",
+        "text": "W",
+        "sub": "From wolfram"
+      }
+    },
+    {
+      "text": "Tungsten melts above 3,400 degrees Celsius, hotter than any other metal.",
+      "say": "Tungsten melts above three thousand four hundred degrees Celsius, hotter than any other metal.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8742a",
+        "label": "Melts above 3,400 C"
+      }
+    },
+    {
+      "text": "Pure tungsten is almost exactly as dense as gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Dense",
+        "sub": "As dense as gold"
+      }
+    },
+    {
+      "text": "Rings use tungsten carbide, which starts as powder pressed in a mold.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "platinum",
+        "shape": "round",
+        "tone": "#a9b2bf",
+        "label": "Tungsten carbide"
+      }
+    },
+    {
+      "text": "It is baked until a binder glues the grains together.",
+      "scene": {
+        "kind": "title",
+        "text": "Baked",
+        "sub": "Binder glues the grains"
+      }
+    },
+    {
+      "text": "The finished ring rates about 9 on the Mohs scale.",
+      "say": "The finished ring rates about nine on the MOHZ scale.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c8ccd4",
+        "label": "About 9 on Mohs"
+      }
+    },
+    {
+      "text": "It acts like a ceramic, so it cannot be resized.",
+      "scene": {
+        "kind": "title",
+        "text": "Fixed",
+        "sub": "Cannot be resized"
+      }
+    },
+    {
+      "text": "In 1962, Rado launched a scratchproof watch with a tungsten carbide case.",
+      "say": "In nineteen sixty two, RAH-doh launched a scratchproof watch with a tungsten carbide case.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2b6fd0",
+        "label": "Rado DiaStar, 1962"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tungsten means heavy stone in Swedish. English borrowed it from the old Swedish name of a heavy mineral. Sweden itself calls the metal volfram. Its symbol W comes from the name wolfram. Tungsten melts above 3,400 degrees Celsius, hotter than any other metal. Pure tungsten is almost exactly as dense as gold. Rings use tungsten carbide, which starts as powder pressed in a mold. It is baked until a binder glues the grains together. The finished ring rates about 9 on the Mohs scale. It acts like a ceramic, so it cannot be resized. In 1962, Rado launched a scratchproof watch with a tungsten carbide case.",
+    "hashtags": [
+      "#tungsten",
+      "#tungstenring",
+      "#metals",
+      "#weddingbands",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://periodic.lanl.gov/74.shtml",
+    "https://education.jlab.org/itselemental/ele074.html",
+    "https://www.rsc.org/periodic-table/element/74/tungsten",
+    "https://wordorigins.org/big-list-entries/tungsten-wolfram",
+    "https://www.etymonline.com/word/tungsten",
+    "https://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/volfram",
+    "https://en.wiktionary.org/wiki/volfram",
+    "https://www.britannica.com/science/tungsten-chemical-element",
+    "https://en.wikipedia.org/wiki/Tungsten",
+    "https://matmatch.com/learn/material/tungsten",
+    "https://en.wikipedia.org/wiki/Tungsten_carbide",
+    "https://www.usajewels.com/education/metal/tungsten",
+    "https://www.sagabands.com/blogs/news/how-tungsten-carbide-rings-are-made",
+    "https://www.polymersolutions.com/why-cant-tungsten-carbide-rings-be-resized/",
+    "https://www.gearpatrol.com/watches/a664501/watches-you-should-know-ceramic-rado-diastar/",
+    "https://www.fhs.swiss/eng/2022_10_27_02_Rado.html"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "282-hiddenite-honors-a-man-named-hidden",
+  "number": 282,
+  "title": "Hiddenite honors a man named Hidden",
+  "topic": "hiddenite william earl hidden edison platinum light bulb filaments north carolina green gem lawrence smith 1881 renamed town emeralds spodumene chromium pleochroic kunzite manganese cleavage dig gems mine",
+  "style": "lowpoly",
+  "music": "music-282.wav",
+  "hook": {
+    "text": "Hiddenite honors a man named Hidden.",
+    "gold": [
+      "Hiddenite",
+      "Hidden."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hiddenite honors a man named Hidden.",
+      "say": "HID-un-ite honors a man named Hidden.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#5cc27a"
+      }
+    },
+    {
+      "text": "Thomas Edison sent Hidden to find platinum for light bulb filaments.",
+      "scene": {
+        "kind": "title",
+        "text": "Edison",
+        "sub": "A platinum hunt"
+      }
+    },
+    {
+      "text": "He never found platinum, yet the search turned up a green gem.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5cc27a",
+        "label": "A new green gem"
+      }
+    },
+    {
+      "text": "Kentucky chemist Lawrence Smith named it hiddenite in 1881.",
+      "say": "Kentucky chemist Lawrence Smith named it HID-un-ite in eighteen eighty one.",
+      "scene": {
+        "kind": "title",
+        "text": "1881",
+        "sub": "Named hiddenite"
+      }
+    },
+    {
+      "text": "The North Carolina community was later renamed Hiddenite.",
+      "say": "The North Carolina community was later renamed HID-un-ite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5cc27a",
+        "label": "Town of Hiddenite"
+      }
+    },
+    {
+      "text": "Emeralds came out of that same ground.",
+      "scene": {
+        "kind": "title",
+        "text": "Emeralds",
+        "sub": "Same ground"
+      }
+    },
+    {
+      "text": "Hiddenite is green spodumene, colored by chromium.",
+      "say": "HID-un-ite is green SPOD-yoo-meen, colored by chromium.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#4fb870",
+        "label": "Colored by chromium"
+      }
+    },
+    {
+      "text": "Turn a hiddenite and its green looks lighter or deeper.",
+      "say": "Turn a HID-un-ite and its green looks lighter or deeper.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3fa868",
+        "label": "Lighter or deeper"
+      }
+    },
+    {
+      "text": "Pink kunzite is the same mineral, colored by manganese.",
+      "say": "Pink KOONTS-ite is the same mineral, colored by manganese.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8a0d0",
+        "label": "Kunzite: manganese"
+      }
+    },
+    {
+      "text": "It has perfect cleavage, so a hard knock can chip it.",
+      "say": "It has perfect KLEE-vij, so a hard knock can chip it.",
+      "scene": {
+        "kind": "title",
+        "text": "Cleavage",
+        "sub": "Chips if knocked"
+      }
+    },
+    {
+      "text": "Visitors can dig for gems at a mine in Hiddenite, North Carolina.",
+      "say": "Visitors can dig for gems at a mine in HID-un-ite, North Carolina.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5cc27a",
+        "label": "Dig for gems"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Hiddenite honors a man named Hidden. Thomas Edison sent Hidden to find platinum for light bulb filaments. He never found platinum, yet the search turned up a green gem. Kentucky chemist Lawrence Smith named it hiddenite in 1881. The North Carolina community was later renamed Hiddenite. Emeralds came out of that same ground. Hiddenite is green spodumene, colored by chromium. Turn a hiddenite and its green looks lighter or deeper. Pink kunzite is the same mineral, colored by manganese. It has perfect cleavage, so a hard knock can chip it. Visitors can dig for gems at a mine in Hiddenite, North Carolina.",
+    "hashtags": [
+      "#hiddenite",
+      "#spodumene",
+      "#northcarolina",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://wncmagazine.com/feature/hidden_hiddenite",
+    "https://www.gemselect.com/other-info/william-earl-hidden.php",
+    "https://msaweb.org/AmMin/AM4/AM4_128.pdf",
+    "https://en.wikipedia.org/wiki/Hiddenite",
+    "https://skyjems.ca/pages/encyclopedia-hiddenite-namesake",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002890",
+    "https://geology.com/minerals/spodumene.shtml",
+    "https://en.wikipedia.org/wiki/Spodumene",
+    "https://www.minerals.net/gemstone/hiddenite",
+    "https://galleries.com/minerals/gemstone/hiddenit/hiddenit.htm",
+    "https://www.dncr.nc.gov/blog/2024/01/17/hiddenite-m-29",
+    "https://www.gemselect.com/gem-info/hiddenite/hiddenite-info.php"
+  ]
+}

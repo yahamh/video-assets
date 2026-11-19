@@ -1,0 +1,161 @@
+{
+  "id": "281-black-hematite-leaves-a-red-streak",
+  "number": 281,
+  "title": "Black hematite leaves a red streak",
+  "topic": "hematite red streak powder haima greek blood mars blueberries opportunity rover iron roses babylonian cylinder seals wet clay egyptian beads red chalk leonardo renaissance jeweler's rouge 70 percent iron",
+  "music": "music-281.wav",
+  "hook": {
+    "text": "Black hematite leaves a red streak.",
+    "gold": [
+      "hematite",
+      "streak."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Black hematite leaves a red streak.",
+      "say": "Black HEE-muh-tite leaves a red streak.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#3a3a44"
+      }
+    },
+    {
+      "text": "The powder is red brown though the stone looks black.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9c3a2a",
+        "label": "Red brown powder"
+      }
+    },
+    {
+      "text": "Its name comes from haima, the Greek word for blood.",
+      "say": "Its name comes from HIGH-mah, the Greek word for blood.",
+      "scene": {
+        "kind": "title",
+        "text": "Haima",
+        "sub": "Greek for blood"
+      }
+    },
+    {
+      "text": "NASA's rover found tiny hematite spheres on Mars, nicknamed blueberries.",
+      "say": "NASA's rover found tiny HEE-muh-tite spheres on Mars, nicknamed blueberries.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4a5a9c",
+        "label": "Mars blueberries"
+      }
+    },
+    {
+      "text": "Flat clusters of hematite crystals are called iron roses.",
+      "say": "Flat clusters of HEE-muh-tite crystals are called iron roses.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#5a5a64",
+        "label": "An iron rose"
+      }
+    },
+    {
+      "text": "Babylonian carvers made hematite cylinder seals about an inch tall.",
+      "say": "Babylonian carvers made HEE-muh-tite cylinder seals about an inch tall.",
+      "scene": {
+        "kind": "title",
+        "text": "Seals",
+        "sub": "About an inch tall"
+      }
+    },
+    {
+      "text": "Rolled across wet clay, each one left a picture signature.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8a8a94",
+        "label": "Rolled on wet clay"
+      }
+    },
+    {
+      "text": "Egyptians strung hematite beads over four thousand years ago.",
+      "say": "Egyptians strung HEE-muh-tite beads over four thousand years ago.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#3a3a44",
+        "label": "Hematite beads"
+      }
+    },
+    {
+      "text": "Leonardo and other Renaissance artists drew with red chalk made from hematite.",
+      "say": "Leonardo and other Renaissance artists drew with red chalk made from HEE-muh-tite.",
+      "scene": {
+        "kind": "title",
+        "text": "Chalk",
+        "sub": "Red, from hematite"
+      }
+    },
+    {
+      "text": "Jeweler's polishing rouge is the same chemical as hematite.",
+      "say": "Jeweler's polishing roozh is the same chemical as HEE-muh-tite.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#e8ecf0",
+        "label": "Polished with rouge"
+      }
+    },
+    {
+      "text": "Pure hematite is about 70 percent iron by weight.",
+      "say": "Pure HEE-muh-tite is about seventy percent iron by weight.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#7a7a84",
+        "label": "70 percent iron"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Black hematite leaves a red streak. The powder is red brown though the stone looks black. Its name comes from haima, the Greek word for blood. NASA's rover found tiny hematite spheres on Mars, nicknamed blueberries. Flat clusters of hematite crystals are called iron roses. Babylonian carvers made hematite cylinder seals about an inch tall. Rolled across wet clay, each one left a picture signature. Egyptians strung hematite beads over four thousand years ago. Leonardo and other Renaissance artists drew with red chalk made from hematite. Jeweler's polishing rouge is the same chemical as hematite. Pure hematite is about 70 percent iron by weight.",
+    "hashtags": [
+      "#hematite",
+      "#gemstones",
+      "#cylinderseals",
+      "#redochre",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.mindat.org/min-1856.html",
+    "https://geology.com/minerals/hematite.shtml",
+    "https://www.jpl.nasa.gov/news/mineral-in-mars-berries-adds-to-water-story/",
+    "https://www.scientificamerican.com/article/martian-quotblueberriesquot/",
+    "https://www.britannica.com/science/hematite",
+    "https://en.wikipedia.org/wiki/Hematite",
+    "https://www.metmuseum.org/toah/works-of-art/1987.96.5",
+    "https://www.spurlock.illinois.edu/collections/notable-collections/profiles/cylinder-seals.html",
+    "https://archaeologicalmuseum.jhu.edu/?p=2025",
+    "https://www.mfa.org/collections/object/string-of-beads-142067",
+    "https://www.brooklynmuseum.org/objects/3272",
+    "https://en.wikipedia.org/wiki/Red_chalk",
+    "https://batch.artuk.org/discover/stories/sanguine-a-history-of-red-chalk-drawings",
+    "https://cameo.mfa.org/wiki/Jewelers%27_rouge",
+    "https://en.wikipedia.org/wiki/Jeweler%27s_rouge"
+  ]
+}

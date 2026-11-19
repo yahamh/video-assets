@@ -1,0 +1,168 @@
+{
+  "id": "283-evil-eye-beads-have-their-own-village",
+  "number": 283,
+  "title": "Evil eye beads have their own village",
+  "topic": "evil eye bead nazar village izmir nazarkoy workshops molten glass iron rods wine bottles green walnuts eggs mediterranean 2500 years greek mati cracked envious cappadocia trees emoji 2018",
+  "style": "paper",
+  "plate": "Evil eye",
+  "theme": "sky",
+  "music": "music-283.wav",
+  "hook": {
+    "text": "Evil eye beads have their own village.",
+    "gold": [
+      "Evil",
+      "village."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Evil eye beads have their own village.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#2f5fb8",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A village near Izmir was renamed Nazarkoy, meaning evil eye village.",
+      "say": "A village near IZ-meer was renamed nah-ZAHR-kuh-ee, meaning evil eye village.",
+      "scene": {
+        "kind": "title",
+        "text": "Nazarkoy",
+        "sub": "Evil eye village",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "It earned that name because its workshops make so many beads.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2f5fb8",
+        "label": "Workshop beads",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Makers pull molten glass on iron rods and shape it by hand.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8742a",
+        "label": "Glass on iron rods",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Makers have melted green wine bottles to make green beads.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3e9a5a",
+        "label": "Wine bottle green",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Beads also come shaped like walnuts and eggs.",
+      "scene": {
+        "kind": "title",
+        "text": "Shapes",
+        "sub": "Walnuts and eggs",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Around the Mediterranean, glass eye beads date back about 2,500 years.",
+      "say": "Around the Mediterranean, glass eye beads date back about twenty five hundred years.",
+      "scene": {
+        "kind": "title",
+        "text": "2,500",
+        "sub": "Years of eye beads",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In Greece the charm is called the mati, meaning eye.",
+      "say": "In Greece the charm is called the MAH-tee, meaning eye.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2f5fb8",
+        "label": "The Greek mati",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Many say a cracked bead has soaked up an envious look.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#2f5fb8",
+        "label": "A cracked bead",
+        "velvet": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In Cappadocia, whole trees are hung with nazar charms.",
+      "say": "In kap-uh-DOH-shuh, whole trees are hung with nah-ZAHR charms.",
+      "scene": {
+        "kind": "title",
+        "text": "Trees",
+        "sub": "Hung with charms",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The nazar amulet became an emoji in 2018.",
+      "say": "The nah-ZAHR amulet became an emoji in twenty eighteen.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2f5fb8",
+        "label": "Its own emoji",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Evil eye beads have their own village. A village near Izmir was renamed Nazarkoy, meaning evil eye village. It earned that name because its workshops make so many beads. Makers pull molten glass on iron rods and shape it by hand. Makers have melted green wine bottles to make green beads. Beads also come shaped like walnuts and eggs. Around the Mediterranean, glass eye beads date back about 2,500 years. In Greece the charm is called the mati, meaning eye. Many say a cracked bead has soaked up an envious look. In Cappadocia, whole trees are hung with nazar charms. The nazar amulet became an emoji in 2018.",
+    "hashtags": [
+      "#evileye",
+      "#nazar",
+      "#glassbeads",
+      "#turkey",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://izmir.ktb.gov.tr/EN-240859/evil-eye-bead.html",
+    "https://testvisitizmir.izmir.bel.tr/en/Destinasyon/13226",
+    "https://emojipedia.org/%F0%9F%A7%BF",
+    "https://codepoints.net/U+1F9FF",
+    "https://www.cappadociapage.com/en/?p=1618",
+    "https://news.cgtn.com/news/2021-01-26/Have-you-ever-caught-the-evil-eye--XmF4vFpxxm/share_amp.html",
+    "https://dergipark.org.tr/en/download/article-file/275427",
+    "https://izmir.ktb.gov.tr/EN-243140/relative-evil-eye-bead-production-hand-and-processing-a-.html",
+    "https://dergipark.org.tr/en/download/article-file/2816218",
+    "https://www.metmuseum.org/art/collection/search/249958",
+    "https://glasscollection.cmog.org/objects/1890/bead",
+    "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+    "https://tooistanbul.com/?p=19504",
+    "https://en.wikipedia.org/wiki/Evil_eye",
+    "https://religionnews.com/2017/09/21/in-greece-the-evil-eye-is-trending"
+  ]
+}

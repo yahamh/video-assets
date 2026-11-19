@@ -1,0 +1,159 @@
+{
+  "id": "279-apatites-name-means-to-deceive",
+  "number": 279,
+  "title": "Apatite's name means to deceive",
+  "topic": "apatite apatao deceive misclassified beryl tourmaline asparagus stone neon blue madagascar 1990s paraiba look alike heated green mohs 5 earrings tooth enamel hydroxyapatite moon rocks apollo water",
+  "style": "lowpoly",
+  "music": "music-279.wav",
+  "hook": {
+    "text": "Apatite's name means to deceive.",
+    "gold": [
+      "Apatite's",
+      "deceive."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Apatite's name means to deceive.",
+      "say": "AP-uh-tite's name means to deceive.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#3ec8e8"
+      }
+    },
+    {
+      "text": "It comes from the Greek apatao, since experts kept misclassifying it.",
+      "say": "It comes from the Greek ah-PAH-tah-oh, since experts kept misclassifying it.",
+      "scene": {
+        "kind": "title",
+        "text": "Apatao",
+        "sub": "Greek: to deceive"
+      }
+    },
+    {
+      "text": "It was long mistaken for beryl and tourmaline.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#6fbf73",
+        "label": "Mistaken for beryl"
+      }
+    },
+    {
+      "text": "A clear green kind is called asparagus stone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#9bd45a",
+        "label": "Asparagus stone"
+      }
+    },
+    {
+      "text": "In the mid 1990s, neon blue apatite from Madagascar appeared.",
+      "say": "In the mid nineteen nineties, neon blue apatite from Madagascar appeared.",
+      "scene": {
+        "kind": "title",
+        "text": "Neon blue",
+        "sub": "Madagascar, 1990s"
+      }
+    },
+    {
+      "text": "It resembles Paraiba tourmaline at a far lower price.",
+      "say": "It resembles pah-rah-EE-bah tourmaline at a far lower price.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2ed0e0",
+        "label": "A Paraiba look alike"
+      }
+    },
+    {
+      "text": "Most vivid blue apatite is made by gently heating green stones.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#3ec8e8",
+        "label": "Heated from green"
+      }
+    },
+    {
+      "text": "Apatite defines number 5 on the Mohs scale.",
+      "say": "Apatite defines number five on the MOHZ scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 5",
+        "sub": "Apatite defines it"
+      }
+    },
+    {
+      "text": "At that softness it suits earrings and pendants better than rings.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "shape": "pear",
+        "tone": "#3ec8e8",
+        "label": "A pendant suits it"
+      }
+    },
+    {
+      "text": "Tooth enamel is mostly hydroxyapatite, a member of the apatite family.",
+      "say": "Tooth enamel is mostly hy-DROK-see-AP-uh-tite, a member of the apatite family.",
+      "scene": {
+        "kind": "title",
+        "text": "Enamel",
+        "sub": "Mostly hydroxyapatite"
+      }
+    },
+    {
+      "text": "Water was found locked inside apatite in Moon rocks from Apollo.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c8ccd4",
+        "label": "Moon water in apatite"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Apatite's name means to deceive. It comes from the Greek apatao, since experts kept misclassifying it. It was long mistaken for beryl and tourmaline. A clear green kind is called asparagus stone. In the mid 1990s, neon blue apatite from Madagascar appeared. It resembles Paraiba tourmaline at a far lower price. Most vivid blue apatite is made by gently heating green stones. Apatite defines number 5 on the Mohs scale. At that softness it suits earrings and pendants better than rings. Tooth enamel is mostly hydroxyapatite, a member of the apatite family. Water was found locked inside apatite in Moon rocks from Apollo.",
+    "hashtags": [
+      "#apatite",
+      "#gemstones",
+      "#neonblue",
+      "#moonrocks",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apatite",
+    "https://www.merriam-webster.com/dictionary/apatite",
+    "https://www.etymonline.com/word/apatite",
+    "https://bancroft.geol.ucsb.edu/-Overview/39-Overview.html",
+    "https://www.thejewelleryeditor.com/jewellery/know-how/apatite-the-great-unknown-gemstone",
+    "https://www.gemselect.com/gem-info/apatite/apatite-info.php",
+    "https://jckonline.com/?p=37435",
+    "https://www.gemadventurer.com/?p=963",
+    "https://www.gemsociety.org/article/apatite-jewelry-and-gemstone-information",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10026755",
+    "https://files.gemguide.com/20241217063552/2024GemFocus-DecApatite.pdf",
+    "https://www.britannica.com/science/Mohs-hardness",
+    "https://www.britannica.com/science/apatite",
+    "https://www.minerals.net/mineral/apatite.aspx",
+    "https://www.sciencefocus.com/the-human-body/how-hard-is-tooth-enamel-compared-to-other-materials/",
+    "https://en.wikipedia.org/wiki/Tooth_enamel",
+    "https://astrobiology.nasa.gov/news/water-content-on-the-moon-underestimated/",
+    "https://www.sciencedaily.com/releases/2010/07/100721132631.htm"
+  ]
+}

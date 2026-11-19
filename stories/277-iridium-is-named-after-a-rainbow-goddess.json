@@ -1,0 +1,165 @@
+{
+  "id": "277-iridium-is-named-after-a-rainbow-goddess",
+  "number": 277,
+  "title": "Iridium is named after a rainbow goddess",
+  "topic": "iridium iris rainbow goddess tennant 1803 platinum residue graphite aqua regia platinum iridium alloy 90 10 jewelers harden kilogram cylinder paris vault three keys 2019",
+  "style": "paper",
+  "plate": "Iridium",
+  "theme": "watercolor",
+  "music": "music-277.wav",
+  "hook": {
+    "text": "Iridium is named after a rainbow goddess.",
+    "gold": [
+      "Iridium",
+      "goddess."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Iridium is named after a rainbow goddess.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#9fb8e8",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Iris was the Greek goddess of the rainbow.",
+      "say": "EYE-ris was the Greek goddess of the rainbow.",
+      "scene": {
+        "kind": "title",
+        "text": "Iris",
+        "sub": "Goddess of rainbows",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Iridium got its name because its salts show many colors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d97ac0",
+        "label": "Many colors in salts",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "In 1803, Smithson Tennant found it in the leftovers of dissolved platinum.",
+      "say": "In eighteen oh three, Smithson Tennant found it in the leftovers of dissolved platinum.",
+      "scene": {
+        "kind": "title",
+        "text": "Tennant",
+        "sub": "Found it, 1803",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Other chemists had mistaken that black powder for graphite.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#34343c",
+        "label": "A black powder",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In bulk, even aqua regia cannot dissolve iridium.",
+      "say": "In bulk, even AH-kwuh REE-jee-uh cannot dissolve iridium.",
+      "scene": {
+        "kind": "title",
+        "text": "Acids",
+        "sub": "Aqua regia fails",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Jewelers often harden platinum with a little iridium.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "platinum",
+        "shape": "round",
+        "tone": "#e8ecf0",
+        "label": "Platinum plus iridium",
+        "velvet": "#5bb4e8"
+      }
+    },
+    {
+      "text": "A common alloy is 90 percent platinum and 10 percent iridium.",
+      "say": "A common alloy is ninety percent platinum and ten percent iridium.",
+      "scene": {
+        "kind": "title",
+        "text": "90 / 10",
+        "sub": "Platinum to iridium",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "For decades, the world's kilogram was a cylinder of that alloy.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#b8bcc8",
+        "label": "The world's kilogram",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Its vault needs three keys held by three officials.",
+      "scene": {
+        "kind": "title",
+        "text": "3 keys",
+        "sub": "One Paris vault",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "That cylinder stopped defining the kilogram in 2019.",
+      "say": "That cylinder stopped defining the kilogram in twenty nineteen.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#b8bcc8",
+        "label": "Retired in 2019",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Iridium is named after a rainbow goddess. Iris was the Greek goddess of the rainbow. Iridium got its name because its salts show many colors. In 1803, Smithson Tennant found it in the leftovers of dissolved platinum. Other chemists had mistaken that black powder for graphite. In bulk, even aqua regia cannot dissolve iridium. Jewelers often harden platinum with a little iridium. A common alloy is 90 percent platinum and 10 percent iridium. For decades, the world's kilogram was a cylinder of that alloy. Its vault needs three keys held by three officials. That cylinder stopped defining the kilogram in 2019.",
+    "hashtags": [
+      "#iridium",
+      "#platinum",
+      "#metals",
+      "#kilogram",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rsc.org/periodic-table/element/77/iridium",
+    "https://en.wikipedia.org/wiki/Iridium",
+    "https://periodic.lanl.gov/77.shtml",
+    "https://ebsco.com/research-starters/geology/iridium-ir",
+    "https://www.encyclopedia.com/people/science-and-technology/chemistry-biographies/smithson-tennant",
+    "https://www.britannica.com/science/iridium",
+    "https://www.bipm.org/mass-metrology/ipk",
+    "https://en.wikipedia.org/wiki/International_Prototype_of_the_Kilogram",
+    "https://undark.org/2019/01/14/kilogram-for-the-quantum-age-ipk/",
+    "https://www.nationalgeographic.com/science/article/kilogram-forever-changed-why-mass-matters",
+    "https://stuller.com/benchjeweler/resources/bencharticles/view/a-jeweler-s-guide-to-platinum-alloys",
+    "https://www.jewellerybusiness.com/?p=34486",
+    "https://www.ganoksin.com/article/platinum-alloys-features-benefits/",
+    "https://www.wordorigins.org/big-list-entries/iridium"
+  ]
+}
