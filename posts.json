@@ -2975,7 +2975,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1198665909388202",
+      "instagram": "https://www.instagram.com/reel/Df6HunZgqBL/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709719990056176916"
+    }
   },
   "192-this-burial-suit-has-2498-jade-pieces": {
     "at": "2026-11-19T08:00:00Z",
