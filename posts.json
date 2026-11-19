@@ -2667,7 +2667,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1650475716737105",
+      "instagram": "https://www.instagram.com/reel/Df7I7zxjgBs/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709866895536622869"
+    }
   },
   "168-cast-rings-use-a-6000-year-old-method": {
     "at": "2026-11-19T14:00:00Z",
@@ -2677,7 +2683,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3030898673914986",
+      "instagram": "https://www.instagram.com/reel/Df7QPjAkiRK/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709883113513536786",
+      "youtube": "https://www.youtube.com/watch?v=g7k3rQ2lBnY"
+    }
   },
   "169-rose-gold-was-once-called-russian-gold": {
     "at": "2026-11-19T16:30:00Z",
@@ -2686,7 +2699,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1172209122340177",
+      "instagram": "https://www.instagram.com/reel/Df7g77ZFNfE/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709920896017779986"
+    }
   },
   "170-this-diamond-sold-for-over-48-million": {
     "at": "2026-11-19T18:00:00Z",
@@ -3040,7 +3059,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1941238863518544",
+      "instagram": "https://www.instagram.com/reel/Df7WqStgFi3/"
+    }
   },
   "196-a-goldsmith-built-florences-giant-dome": {
     "at": "2026-11-17T08:30:00Z",
@@ -3552,7 +3576,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1851453792673214",
+      "instagram": "https://www.instagram.com/reel/Df7CWBEja32/",
+      "youtube": "https://www.youtube.com/watch?v=wAPIkvXPEeE"
+    }
   },
   "241-millefiori-glass-sometimes-hides-tiny-faces": {
     "at": "2026-11-19T12:30:00Z",
@@ -3560,7 +3590,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1512591437598542",
+      "instagram": "https://www.instagram.com/reel/Df7Fk_5kZbJ/"
+    }
   },
   "242-collectors-smell-bakelite-to-test-it": {
     "at": "2026-11-19T13:30:00Z",
@@ -3568,14 +3603,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1455474350006159",
+      "instagram": "https://www.instagram.com/reel/Df7MU3qHPuM/"
+    }
   },
   "243-green-powder-turns-shakudo-black": {
     "at": "2026-11-19T14:30:00Z",
     "zernio_id": "6afd908875fe14b717b423c1",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df7TOWwlY5j/"
+    }
   },
   "244-a-hand-crank-cuts-guilloche-patterns": {
     "at": "2026-11-19T15:30:00Z",
@@ -3583,21 +3627,34 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2575562119644600",
+      "instagram": "https://www.instagram.com/reel/Df7aF6-DTbq/"
+    }
   },
   "245-niello-helped-inspire-early-printmaking": {
     "at": "2026-11-19T16:00:00Z",
     "zernio_id": "6afd90a5ae542007c2ce5c7e",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df7dsc0iOAy/"
+    }
   },
   "246-locket-once-meant-a-window-bar": {
     "at": "2026-11-19T17:00:00Z",
     "zernio_id": "6afd90ac6a08ddb9915bf87e",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df7kkCDEUNF/"
+    }
   },
   "247-pearls-often-start-as-mississippi-mussel-shell": {
     "at": "2026-11-20T11:00:00Z",
@@ -3883,6 +3940,79 @@
   "283-evil-eye-beads-have-their-own-village": {
     "at": "2026-11-21T01:00:00Z",
     "zernio_id": "6afee885cb4478dad46996d2",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "284-hackmanite-changes-color-in-sunlight": {
+    "at": "2026-11-21T01:30:00Z",
+    "zernio_id": "6aff3434840f6f335fe60366",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "285-amazonites-namesake-river-has-no-amazonite": {
+    "at": "2026-11-21T02:00:00Z",
+    "zernio_id": "6aff343c1095d24be50aecaf",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "286-galalith-jewelry-is-made-from-milk": {
+    "at": "2026-11-21T02:30:00Z",
+    "zernio_id": "6aff344aeece9462b914458f",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "287-sphene-is-named-for-a-wedge": {
+    "at": "2026-11-21T03:00:00Z",
+    "zernio_id": "6aff345a3e26bdb989dfb152",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "288-howlite-is-a-white-stone-dyed-blue": {
+    "at": "2026-11-21T03:30:00Z",
+    "zernio_id": "6aff3464eece9462b914460d",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "289-bog-oak-jewelry-comes-from-ancient-trees": {
+    "at": "2026-11-21T08:00:00Z",
+    "zernio_id": "6aff346e328724a89a422595",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "290-diamond-hunters-follow-chrome-diopside": {
+    "at": "2026-11-21T08:30:00Z",
+    "zernio_id": "6aff347a04d2046f4126eea4",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "291-aventurine-is-a-gem-named-after-glass": {
+    "at": "2026-11-21T09:00:00Z",
+    "zernio_id": "6aff348104d2046f4126eeb9",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "292-a-radiant-diamond-looks-like-crushed-ice": {
+    "at": "2026-11-21T09:30:00Z",
+    "zernio_id": "6aff3489f713c5ebcb0ce812",
     "platforms": [
       "facebook",
       "instagram"
@@ -4430,7 +4560,11 @@
     "zernio_id": "6af63ecc615d96333081e432",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=Qik4cERkLo4"
+    }
   },
   "lesson-028-diamond-shape-vs-cut": {
     "at": "2026-11-20T16:00:00Z",
