@@ -1,0 +1,147 @@
+{
+  "id": "300-prehnite-grows-in-clusters-like-grapes",
+  "number": 300,
+  "title": "Prehnite grows in clusters like grapes",
+  "style": "lowpoly",
+  "topic": "prehnite grapes clusters rounded cavities volcanic rock pale green yellowish tint cape emerald not an emerald colonel von prehn late 1700s mohs 6 to 6.5 cabochon beads faceted australia cat's eye rare orange crystals kalahari manganese",
+  "music": "music-300.wav",
+  "hook": {
+    "text": "Prehnite grows in clusters like grapes.",
+    "gold": [
+      "Prehnite",
+      "grapes."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Prehnite grows in clusters like grapes.",
+      "say": "PRAY-nyte grows in clusters like grapes.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#a8d49a"
+      }
+    },
+    {
+      "text": "The rounded clusters form in cavities of volcanic rock.",
+      "scene": {
+        "kind": "title",
+        "text": "Cavities",
+        "sub": "In volcanic rock"
+      }
+    },
+    {
+      "text": "Its color is pale green, sometimes with a yellowish tint.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#a8d49a",
+        "label": "Pale green"
+      }
+    },
+    {
+      "text": "It is nicknamed Cape emerald, though it is not an emerald.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#7cc48a",
+        "label": "Cape emerald"
+      }
+    },
+    {
+      "text": "The name honors Colonel von Prehn, and dates to the late 1700s.",
+      "say": "The name honors Colonel von PRAYN, and dates to the late seventeen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Prehn",
+        "sub": "Late 1700s"
+      }
+    },
+    {
+      "text": "Prehnite measures 6 to 6.5 on the Mohs hardness scale.",
+      "say": "PRAY-nyte measures six to six and a half on the MOHZ hardness scale.",
+      "scene": {
+        "kind": "title",
+        "text": "6 to 6.5",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "It is usually cut as a smooth cabochon or as beads.",
+      "say": "It is usually cut as a smooth KAB-uh-shon or as beads.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#a8d49a",
+        "label": "Cabochons and beads"
+      }
+    },
+    {
+      "text": "Some prehnite from Australia is cut with facets too.",
+      "say": "Some PRAY-nyte from Australia is cut with facets too.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b6dca6",
+        "label": "Faceted stones"
+      }
+    },
+    {
+      "text": "Cat's eye prehnite has been reported, and it is very rare.",
+      "say": "Cat's eye PRAY-nyte has been reported, and it is very rare.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9cc88c",
+        "label": "Cat's eye, very rare"
+      }
+    },
+    {
+      "text": "Rare orange crystals have turned up in South Africa's Kalahari manganese field.",
+      "say": "Rare orange crystals have turned up in South Africa's kal-uh-HAR-ee MANG-guh-neez field.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#e8923a",
+        "label": "Rare orange crystals"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Prehnite grows in clusters like grapes. The rounded clusters form in cavities of volcanic rock. Its color is pale green, sometimes with a yellowish tint. It is nicknamed Cape emerald, though it is not an emerald. The name honors Colonel von Prehn, and dates to the late 1700s. Prehnite measures 6 to 6.5 on the Mohs hardness scale. It is usually cut as a smooth cabochon or as beads. Some prehnite from Australia is cut with facets too. Cat's eye prehnite has been reported, and it is very rare. Rare orange crystals have turned up in South Africa's Kalahari manganese field.",
+    "hashtags": [
+      "#prehnite",
+      "#capeemerald",
+      "#greengems",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.handbookofmineralogy.org/pdfs/prehnite.pdf",
+    "https://www.gemsociety.org/article/prehnite-jewelry-and-gemstone-information",
+    "https://www.mindat.org/min-3277.html",
+    "https://pure.uj.ac.za/en/publications/prehnite-the-first-mineral-discovered-in-south-africa-and-the-fir/",
+    "https://collections.museumsvictoria.com.au/specimens/2085521",
+    "https://www.minerals.net/gemstone/prehnite",
+    "https://www.britannica.com/topic/Cape-emerald",
+    "https://www.edelsteine.at/en/glossaries/lexicon/prehnite/",
+    "https://www.britannica.com/science/prehnite",
+    "https://www.jckonline.com/?p=36215",
+    "https://www.naturalhistory.si.edu/object/nmnhmineralsciences_1006193",
+    "https://m.minerals.net/Image/18/225/Prehnite.aspx",
+    "https://pure.uj.ac.za/en/publications/prehnite-from-the-kalahari-manganese-field-south-africa-and-its-p/"
+  ]
+}

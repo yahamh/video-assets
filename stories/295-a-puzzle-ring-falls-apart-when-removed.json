@@ -1,0 +1,157 @@
+{
+  "id": "295-a-puzzle-ring-falls-apart-when-removed",
+  "number": 295,
+  "title": "A puzzle ring falls apart when removed",
+  "style": "paper",
+  "plate": "Puzzle ring",
+  "theme": "sky",
+  "topic": "puzzle ring falls apart when removed several linked bands one ring comes apart solve outside bands first centuries nobody knows who invented gimmel ring latin twin partner one hoop until the wedding turkey still made sold four or six bands",
+  "music": "music-295.wav",
+  "hook": {
+    "text": "A puzzle ring falls apart when removed.",
+    "gold": [
+      "puzzle",
+      "removed."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A puzzle ring falls apart when removed.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "It is several linked bands that fit together as one ring.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "yellow",
+        "label": "Several linked bands",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Once it comes off the finger, the bands come apart.",
+      "scene": {
+        "kind": "title",
+        "text": "Apart",
+        "sub": "When it comes off",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "To solve one, bring the outside bands together first.",
+      "scene": {
+        "kind": "title",
+        "text": "Solve",
+        "sub": "Outside bands first",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Puzzle rings have been made for at least a few centuries.",
+      "scene": {
+        "kind": "title",
+        "text": "Centuries",
+        "sub": "At least a few",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Nobody knows who invented the first one, or where.",
+      "scene": {
+        "kind": "title",
+        "text": "Unknown",
+        "sub": "Who made the first",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "They likely grew out of the older gimmel ring.",
+      "say": "They likely grew out of the older GIM-ul ring.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "empty": true,
+        "metal": "yellow",
+        "label": "Older gimmel ring",
+        "velvet": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Gimmel comes from a Latin word for twin.",
+      "say": "GIM-ul comes from a Latin word for twin.",
+      "scene": {
+        "kind": "title",
+        "text": "Gimmel",
+        "sub": "Latin for twin",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "In some, each partner wore one hoop until the wedding.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "white",
+        "label": "One hoop each",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Puzzle rings are still made and sold in Turkey today.",
+      "scene": {
+        "kind": "title",
+        "text": "Turkey",
+        "sub": "Still made today",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Most puzzle rings have four or six bands.",
+      "scene": {
+        "kind": "title",
+        "text": "4 or 6",
+        "sub": "Bands on most rings",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A puzzle ring falls apart when removed. It is several linked bands that fit together as one ring. Once it comes off the finger, the bands come apart. To solve one, bring the outside bands together first. Puzzle rings have been made for at least a few centuries. Nobody knows who invented the first one, or where. They likely grew out of the older gimmel ring. Gimmel comes from a Latin word for twin. In some, each partner wore one hoop until the wedding. Puzzle rings are still made and sold in Turkey today. Most puzzle rings have four or six bands.",
+    "hashtags": [
+      "#puzzlering",
+      "#turkishweddingring",
+      "#ringdesign",
+      "#jewelrymaking",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Puzzle_ring",
+    "https://daviddarling.info/encyclopedia/P/puzzle_rings.html",
+    "https://www.dailysabah.com/life/the-10-most-romantic-gifts-to-get-in-turkey/news",
+    "https://gregpuzzles.com/blogs/greg-puzzles-blog/puzzle-rings",
+    "https://www.beadinggem.com/2010/07/how-to-make-and-solve-puzzle-ring.html",
+    "https://www.diamondregistry.com/the-ultimate-guide-to-puzzle-rings/",
+    "https://www.jewelryshoppingguide.com/?p=114744",
+    "https://www.puzzleworld.org/PuzzleWorld/msc/puzzle_ring_solution.htm",
+    "https://www.antiquejewel.com/glossary/puzzle-ring",
+    "https://detectingfinds.co.uk/?p=13479",
+    "https://johnrausch.com/PuzzleWorld/puz/puzzle_rings.htm",
+    "https://collections.vam.ac.uk/item/O77755/gimmel-ring-unknown",
+    "https://en.wikipedia.org/wiki/Gimmal_ring",
+    "https://www.langantiques.com/university/gimmel-ring/"
+  ]
+}

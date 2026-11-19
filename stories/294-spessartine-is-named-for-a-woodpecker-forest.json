@@ -1,0 +1,144 @@
+{
+  "id": "294-spessartine-is-named-for-a-woodpecker-forest",
+  "number": 294,
+  "title": "Spessartine is named for a woodpecker forest",
+  "style": "lowpoly",
+  "topic": "spessartine orange garnet spessart forest bavaria germany woodpecker specht largest unbroken forest named 1800s manganese orange member garnet family namibia early 1990s mandarin garnet orange fruit nigeria",
+  "music": "music-294.wav",
+  "hook": {
+    "text": "Spessartine is named for a woodpecker forest.",
+    "gold": [
+      "Spessartine",
+      "forest."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Spessartine is named for a woodpecker forest.",
+      "say": "SPESS-er-teen is named for a woodpecker forest.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#f08a30"
+      }
+    },
+    {
+      "text": "The Spessart is a wooded mountain region in Bavaria, Germany.",
+      "say": "The SHPESS-art is a wooded mountain region in Bavaria, Germany.",
+      "scene": {
+        "kind": "title",
+        "text": "Spessart",
+        "sub": "Bavaria, Germany"
+      }
+    },
+    {
+      "text": "The name goes back to an old German name meaning woodpecker forest.",
+      "scene": {
+        "kind": "title",
+        "text": "Specht",
+        "sub": "German: woodpecker"
+      }
+    },
+    {
+      "text": "It is one of the largest unbroken forest areas in Germany.",
+      "scene": {
+        "kind": "title",
+        "text": "Germany",
+        "sub": "Unbroken forest"
+      }
+    },
+    {
+      "text": "It got its name in the 1800s from where it was found.",
+      "say": "It got its name in the eighteen hundreds from where it was found.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f08a30",
+        "label": "Named in the 1800s"
+      }
+    },
+    {
+      "text": "Its orange color comes from manganese.",
+      "say": "Its orange color comes from MANG-guh-neez.",
+      "scene": {
+        "kind": "title",
+        "text": "Orange",
+        "sub": "From manganese"
+      }
+    },
+    {
+      "text": "Spessartine is the orange member of the garnet family.",
+      "say": "SPESS-er-teen is the orange member of the garnet family.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8782a",
+        "label": "Orange garnet"
+      }
+    },
+    {
+      "text": "In the early 1990s, vivid orange stones turned up in Namibia.",
+      "say": "In the early nineteen nineties, vivid orange stones turned up in Namibia.",
+      "scene": {
+        "kind": "title",
+        "text": "Namibia",
+        "sub": "Vivid orange stones"
+      }
+    },
+    {
+      "text": "Mandarin garnet is named after the orange fruit, not a place.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#f08a30",
+        "label": "Mandarin garnet"
+      }
+    },
+    {
+      "text": "By the end of the 1990s, Nigeria supplied orange stones too.",
+      "say": "By the end of the nineteen nineties, Nigeria supplied orange stones too.",
+      "scene": {
+        "kind": "title",
+        "text": "Nigeria",
+        "sub": "Another orange source"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Spessartine is named for a woodpecker forest. The Spessart is a wooded mountain region in Bavaria, Germany. The name goes back to an old German name meaning woodpecker forest. It is one of the largest unbroken forest areas in Germany. It got its name in the 1800s from where it was found. Its orange color comes from manganese. Spessartine is the orange member of the garnet family. In the early 1990s, vivid orange stones turned up in Namibia. Mandarin garnet is named after the orange fruit, not a place. By the end of the 1990s, Nigeria supplied orange stones too.",
+    "hashtags": [
+      "#spessartine",
+      "#mandaringarnet",
+      "#garnet",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.handbookofmineralogy.org/pdfs/spessartine.pdf",
+    "https://www.gemsociety.org/article/spessartite-garnet/",
+    "https://en.hessen-tourismus.de/nature-and-outdoors/nature-parks/naturpark-hessischer-spessart",
+    "https://kath-akademie-bayern.de/en/?p=32106",
+    "https://en.wikipedia.org/wiki/Spessart",
+    "https://en.wikipedia.org/wiki/Spessart_Nature_Park",
+    "https://mail.webmineral.com/data/Spessartine.shtml",
+    "https://www.langantiques.com/university/spessartinespessartite/",
+    "https://www.gemsociety.org/article/mandarin-garnet/",
+    "https://www.gemadventurer.com/gemstones/african-spessartite/",
+    "https://www.gia.edu/garnet-description?position=3",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002777",
+    "https://www.gemstone.org/mandarin-garnet",
+    "https://gemrockauctions.com/learn/a-z-of-gemstones/mandarin-garnet",
+    "https://www.ganoksin.com/article/spessartite-garnet/",
+    "https://gia.edu/doc/Winter-2000-Gems-Gemology-Localities-1990s.pdf"
+  ]
+}

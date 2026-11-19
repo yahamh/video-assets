@@ -1,0 +1,152 @@
+{
+  "id": "299-purple-sugilite-hid-inside-manganese-ore",
+  "number": 299,
+  "title": "Purple sugilite hid inside manganese ore",
+  "topic": "sugilite purple manganese ore sugi japan 1944 iwagi tiny crystals wessels mine south africa kalahari manganese mine overlooked mine waste dealers 1979 royal azel royal lavulite wesselite cabochons",
+  "music": "music-299.wav",
+  "hook": {
+    "text": "Purple sugilite hid inside manganese ore.",
+    "gold": [
+      "sugilite",
+      "ore."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Purple sugilite hid inside manganese ore.",
+      "say": "Purple SOO-ghee-lyte hid inside MANG-guh-neez ore.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#8a4fc0"
+      }
+    },
+    {
+      "text": "It is named for Sugi, who found it in Japan in 1944.",
+      "say": "It is named for SOO-ghee, who found it in Japan in nineteen forty four.",
+      "scene": {
+        "kind": "title",
+        "text": "Sugi",
+        "sub": "Japan, 1944"
+      }
+    },
+    {
+      "text": "Those tiny Japanese crystals were too small for jewelry.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#a89bb8",
+        "label": "Too small for jewelry"
+      }
+    },
+    {
+      "text": "Rich purple gem sugilite came from the Wessels mine in South Africa.",
+      "say": "Rich purple gem SOO-ghee-lyte came from the WESS-ulz mine in South Africa.",
+      "scene": {
+        "kind": "title",
+        "text": "Wessels",
+        "sub": "South Africa mine"
+      }
+    },
+    {
+      "text": "It turned up in a mine that was digging for manganese.",
+      "say": "It turned up in a mine that was digging for MANG-guh-neez.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8a4fc0",
+        "label": "A manganese mine"
+      }
+    },
+    {
+      "text": "At first, the purple rock was overlooked as mine waste.",
+      "scene": {
+        "kind": "title",
+        "text": "Waste",
+        "sub": "At first, overlooked"
+      }
+    },
+    {
+      "text": "Dealers saw its worth, and it reached the gem market in 1979.",
+      "say": "Dealers saw its worth, and it reached the gem market in nineteen seventy nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1979",
+        "sub": "Reaches the market"
+      }
+    },
+    {
+      "text": "Dealers sold it as Royal Azel and Royal Lavulite.",
+      "say": "Dealers sold it as ROY-ul uh-ZEL and ROY-ul LAV-yoo-lyte.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "shape": "oval",
+        "tone": "#8a4fc0",
+        "label": "Royal Azel"
+      }
+    },
+    {
+      "text": "One more trade name, wesselite, honors the mine.",
+      "say": "One more trade name, WESS-uh-lyte, honors the mine.",
+      "scene": {
+        "kind": "title",
+        "text": "Wesselite",
+        "sub": "Honors the mine"
+      }
+    },
+    {
+      "text": "Most gem sugilite is cut as smooth domes called cabochons.",
+      "say": "Most gem SOO-ghee-lyte is cut as smooth domes called KAB-uh-shonz.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#9a62d0",
+        "label": "Smooth domes"
+      }
+    },
+    {
+      "text": "The purple color comes from manganese.",
+      "say": "The purple color comes from MANG-guh-neez.",
+      "scene": {
+        "kind": "title",
+        "text": "Purple",
+        "sub": "From manganese"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Purple sugilite hid inside manganese ore. It is named for Sugi, who found it in Japan in 1944. Those tiny Japanese crystals were too small for jewelry. Rich purple gem sugilite came from the Wessels mine in South Africa. It turned up in a mine that was digging for manganese. At first, the purple rock was overlooked as mine waste. Dealers saw its worth, and it reached the gem market in 1979. Dealers sold it as Royal Azel and Royal Lavulite. One more trade name, wesselite, honors the mine. Most gem sugilite is cut as smooth domes called cabochons. The purple color comes from manganese.",
+    "hashtags": [
+      "#sugilite",
+      "#purplegems",
+      "#gemstones",
+      "#manganese",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.jstage.jst.go.jp/article/minerj/8/2/8_2_110/_article",
+    "https://www.handbookofmineralogy.org/pdfs/sugilite.pdf",
+    "https://gem-a.com/?p=7158",
+    "https://geology.com/minerals/sugilite.shtml",
+    "https://www.webmineral.com/data/Sugilite.shtml",
+    "https://www.gia.edu/doc/The-Occurrence-and-Gemological-Properties-of-Wessels-Mine-Sugilite.pdf",
+    "https://gemstones.com/gemopedia/sugilite",
+    "https://www.edelsteine.at/en/glossaries/lexicon/sugilite",
+    "https://www.gemdat.org/gem-3822.html",
+    "https://open.uct.ac.za/bitstream/11427/17066/1/thesis_sci_1988_dixon_roger.pdf",
+    "https://www.modernjeweler.com/web/online/Colored-Gemstone-Gem-Profiles/Sugilite/1$553",
+    "https://artsandculture.google.com/asset/2gGIgys0B5xAUg",
+    "https://www.gemsociety.org/article/sugilite-jewelry-and-gemstone-information/"
+  ]
+}

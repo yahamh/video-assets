@@ -1,0 +1,162 @@
+{
+  "id": "lesson-034-diamond-clarity-grades",
+  "series": "lesson",
+  "number": 34,
+  "title": "How diamond clarity is graded",
+  "topic": "diamond clarity grades gia scale eleven flawless internally flawless vvs vs si i1 i3 10x magnification inclusions blemishes five factors size number position center of the top eye clean look alike",
+  "music": "music-lesson-034.wav",
+  "hook": {
+    "text": "Diamond clarity has eleven grades.",
+    "gold": [
+      "clarity",
+      "grades."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond clarity has eleven grades.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-front-white-input.webp",
+        "after": "matthew-front-white-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    },
+    {
+      "text": "Clarity counts inclusions inside the stone and blemishes on its surface.",
+      "scene": {
+        "kind": "title",
+        "text": "Clarity",
+        "sub": "Inside and surface"
+      }
+    },
+    {
+      "text": "The GIA scale runs from Flawless down to I3.",
+      "say": "The GEE eye AY scale runs from Flawless down to eye three.",
+      "scene": {
+        "kind": "photo",
+        "src": "bridal-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.42,
+          "k": 1.3
+        },
+        "label": "Flawless down to I3"
+      }
+    },
+    {
+      "text": "Flawless means no inclusions or blemishes are visible at 10x.",
+      "say": "Flawless means no inclusions or blemishes are visible at ten times.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Flawless",
+          "Internally flawless",
+          "VVS",
+          "VS",
+          "SI and I"
+        ],
+        "active": 0,
+        "label": "GIA clarity scale"
+      }
+    },
+    {
+      "text": "Internally Flawless allows surface blemishes but no visible inclusions.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Flawless",
+          "Internally flawless",
+          "VVS",
+          "VS",
+          "SI and I"
+        ],
+        "active": 1,
+        "label": "GIA clarity scale"
+      }
+    },
+    {
+      "text": "At 10x, VVS inclusions are hard for a skilled grader to see.",
+      "say": "At ten times, vee vee ess inclusions are hard for a skilled grader to see.",
+      "scene": {
+        "kind": "title",
+        "text": "VVS",
+        "sub": "Hard to see at 10x"
+      }
+    },
+    {
+      "text": "Graders weigh five factors, starting with size and number.",
+      "scene": {
+        "kind": "title",
+        "text": "Five",
+        "sub": "Factors weighed"
+      }
+    },
+    {
+      "text": "An inclusion near the center of the top affects the grade more.",
+      "scene": {
+        "kind": "photo",
+        "src": "mix585-render-top.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.3
+        },
+        "label": "Center counts more"
+      }
+    },
+    {
+      "text": "Many are too small to see, which is why graders magnify.",
+      "scene": {
+        "kind": "title",
+        "text": "Magnify",
+        "sub": "Too small for the eye"
+      }
+    },
+    {
+      "text": "Neighboring VVS and VS diamonds usually look alike to the eye.",
+      "say": "Neighboring vee vee ess and vee ess diamonds usually look alike to the eye.",
+      "scene": {
+        "kind": "title",
+        "text": "Alike",
+        "sub": "Neighboring grades"
+      }
+    },
+    {
+      "text": "A render shows the diamond in the design before it is made.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: how diamond clarity is graded",
+    "caption": "Diamond clarity has eleven grades on the GIA scale, from Flawless down to I3. Graders look at inclusions inside the stone and blemishes on its surface, judge them at 10x, and weigh five factors, including how close a flaw sits to the center of the top. Neighboring VVS and VS diamonds usually look alike to the eye. A render shows the diamond in the design before it is made. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#diamondclarity",
+      "#diamondgrading",
+      "#gia",
+      "#jewelrymaking",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/diamond-clarity/",
+    "https://www.igi.org/some-clarity-on-diamond-clarity/",
+    "https://www.americangemsociety.org/understanding-diamond-clarity-the-4cs-of-diamonds/",
+    "https://4cs.gia.edu/en-us/blog/vvs-diamond-versus-vs-diamond/",
+    "https://www.gia.edu/gia-about/4cs-clarity",
+    "https://www.gemsociety.org/article/diamond-clarity/",
+    "https://4cs.gia.edu/en-us/blog/seven-things-to-know-about-diamond-clarity/",
+    "https://www.igi.org/diamond-clarity-chart-with-eye-clean-definition/"
+  ]
+}

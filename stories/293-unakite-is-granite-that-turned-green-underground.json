@@ -1,0 +1,144 @@
+{
+  "id": "293-unakite-is-granite-that-turned-green-underground",
+  "number": 293,
+  "title": "Unakite is granite that turned green underground",
+  "topic": "unakite granite pink feldspar green epidote hot fluids altered unaka mountains tennessee north carolina named 1874 mottled patches mohs 6 to 7 polish cabochons beads smooth dome old french head",
+  "music": "music-293.wav",
+  "hook": {
+    "text": "Unakite is granite that turned green underground.",
+    "gold": [
+      "Unakite",
+      "underground."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Unakite is granite that turned green underground.",
+      "say": "YOO-nuh-kyte is granite that turned green underground.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#6f9f62"
+      }
+    },
+    {
+      "text": "Hot fluids altered the granite, and green epidote grew in it.",
+      "say": "Hot fluids altered the granite, and green EP-uh-dote grew in it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5f9a5a",
+        "label": "Epidote grows in it"
+      }
+    },
+    {
+      "text": "Pink feldspar supplies the pink, and epidote supplies the green.",
+      "say": "Pink FELD-spar supplies the pink, and EP-uh-dote supplies the green.",
+      "scene": {
+        "kind": "title",
+        "text": "Feldspar",
+        "sub": "Plus green epidote"
+      }
+    },
+    {
+      "text": "Each piece is mottled, with patches of pink and green.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d98a92",
+        "label": "Mottled patches"
+      }
+    },
+    {
+      "text": "It is named for mountains between Tennessee and North Carolina.",
+      "scene": {
+        "kind": "title",
+        "text": "Unaka",
+        "sub": "Named for mountains"
+      }
+    },
+    {
+      "text": "The name goes back to 1874.",
+      "say": "The name goes back to eighteen seventy four.",
+      "scene": {
+        "kind": "title",
+        "text": "1874",
+        "sub": "The name appears"
+      }
+    },
+    {
+      "text": "Unakite measures about 6 to 7 on the Mohs hardness scale.",
+      "say": "YOO-nuh-kyte measures about six to seven on the MOHZ hardness scale.",
+      "scene": {
+        "kind": "title",
+        "text": "6 to 7",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "It takes a good polish and is cut into cabochons and beads.",
+      "say": "It takes a good polish and is cut into KAB-uh-shonz and beads.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#6f9f62",
+        "label": "Beads and cabochons"
+      }
+    },
+    {
+      "text": "A cabochon is a smooth dome with no facets.",
+      "say": "A KAB-uh-shon is a smooth dome with no facets.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d98a92",
+        "label": "A smooth dome"
+      }
+    },
+    {
+      "text": "The word cabochon comes from an old French word for head.",
+      "say": "The word KAB-uh-shon comes from an old French word for head.",
+      "scene": {
+        "kind": "title",
+        "text": "Cabochon",
+        "sub": "Old French for head"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Unakite is granite that turned green underground. Hot fluids altered the granite, and green epidote grew in it. Pink feldspar supplies the pink, and epidote supplies the green. Each piece is mottled, with patches of pink and green. It is named for mountains between Tennessee and North Carolina. The name goes back to 1874. Unakite measures about 6 to 7 on the Mohs hardness scale. It takes a good polish and is cut into cabochons and beads. A cabochon is a smooth dome with no facets. The word cabochon comes from an old French word for head.",
+    "hashtags": [
+      "#unakite",
+      "#pinkandgreen",
+      "#gemstones",
+      "#cabochon",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.radford.edu/jtso/GeologyofVirginia/Rocks/GeologyOfVARocks2-6f.html",
+    "https://geology.com/gemstones/unakite",
+    "https://micro.magnet.fsu.edu/primer/techniques/polarized/gallery/pages/unakitesmall.html",
+    "https://www.firemountaingems.com/resources/encyclobeadia/gem-notes/h817",
+    "https://www.merriam-webster.com/dictionary/unakite",
+    "https://en.wikipedia.org/wiki/Unaka_Range",
+    "https://www.geol.umd.edu/undergraduate/paper/councell.pdf",
+    "https://www.britannica.com/EBchecked/topic/613968/Unaka-Mountains",
+    "https://en.wikipedia.org/wiki/Epidote",
+    "https://geology.com/minerals/epidote.shtml",
+    "https://www.jtv.com/library/gemopedia/unakite",
+    "https://en.wikipedia.org/wiki/Unakite",
+    "https://www.merriam-webster.com/dictionary/cabochon",
+    "https://en.wikipedia.org/wiki/Cabochon"
+  ]
+}

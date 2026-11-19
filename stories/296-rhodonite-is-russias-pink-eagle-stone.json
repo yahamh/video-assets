@@ -1,0 +1,142 @@
+{
+  "id": "296-rhodonite-is-russias-pink-eagle-stone",
+  "number": 296,
+  "title": "Rhodonite is Russia's pink eagle stone",
+  "topic": "rhodonite russia pink eagle stone orlets ural folklore greek rose manganese pink black veins manganese oxide darken surface exposed ural mountains late 1700s workshops vases moscow metro columns massachusetts state gem",
+  "music": "music-296.wav",
+  "hook": {
+    "text": "Rhodonite is Russia's pink eagle stone.",
+    "gold": [
+      "Rhodonite",
+      "stone."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rhodonite is Russia's pink eagle stone.",
+      "say": "ROH-duh-nyte is Russia's pink eagle stone.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#e0708a"
+      }
+    },
+    {
+      "text": "Old Ural tales say eagles carried the stones to their nests.",
+      "say": "Old YOOR-ul tales say eagles carried the stones to their nests.",
+      "scene": {
+        "kind": "title",
+        "text": "Orlets",
+        "sub": "Eagle stone"
+      }
+    },
+    {
+      "text": "The name rhodonite comes from the Greek word for rose.",
+      "say": "The name ROH-duh-nyte comes from the Greek word for rose.",
+      "scene": {
+        "kind": "title",
+        "text": "Rose",
+        "sub": "Greek: rhodon"
+      }
+    },
+    {
+      "text": "Manganese gives it a pink to rose red color.",
+      "say": "MANG-guh-neez gives it a pink to rose red color.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0708a",
+        "label": "Pink from manganese"
+      }
+    },
+    {
+      "text": "Black manganese oxides thread through the pink as spidery veins.",
+      "say": "Black MANG-guh-neez oxides thread through the pink as spidery veins.",
+      "scene": {
+        "kind": "title",
+        "text": "Veins",
+        "sub": "Black manganese oxide"
+      }
+    },
+    {
+      "text": "Where rhodonite is exposed, the surface can darken to brown or black.",
+      "say": "Where ROH-duh-nyte is exposed, the surface can darken to brown or black.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5a3a40",
+        "label": "Darkens where exposed"
+      }
+    },
+    {
+      "text": "Ural rhodonite was first found and worked in the late 1700s.",
+      "say": "YOOR-ul ROH-duh-nyte was first found and worked in the late seventeen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "Urals",
+        "sub": "Late 1700s"
+      }
+    },
+    {
+      "text": "Ural workshops carved vases and other objects from it.",
+      "say": "YOOR-ul workshops carved vases and other objects from it.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#d9607c",
+        "label": "Carved into vases"
+      }
+    },
+    {
+      "text": "Columns in one Moscow metro station are faced with pink rhodonite.",
+      "say": "Columns in one Moscow metro station are faced with pink ROH-duh-nyte.",
+      "scene": {
+        "kind": "title",
+        "text": "Moscow",
+        "sub": "Metro columns"
+      }
+    },
+    {
+      "text": "Massachusetts named rhodonite its official state gem.",
+      "say": "mass-uh-CHOO-sits named ROH-duh-nyte its official state gem.",
+      "scene": {
+        "kind": "title",
+        "text": "State gem",
+        "sub": "Massachusetts"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Rhodonite is Russia's pink eagle stone. Old Ural tales say eagles carried the stones to their nests. The name rhodonite comes from the Greek word for rose. Manganese gives it a pink to rose red color. Black manganese oxides thread through the pink as spidery veins. Where rhodonite is exposed, the surface can darken to brown or black. Ural rhodonite was first found and worked in the late 1700s. Ural workshops carved vases and other objects from it. Columns in one Moscow metro station are faced with pink rhodonite. Massachusetts named rhodonite its official state gem.",
+    "hashtags": [
+      "#rhodonite",
+      "#pinkstone",
+      "#gemstones",
+      "#minerals",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://hongkong.gia.edu/gems-gemology/spring-2020-rhodonite-pyroxmangite-tanatz-alp",
+    "https://www.handbookofmineralogy.org/pdfs/rhodonite.pdf",
+    "https://en.wikipedia.org/wiki/Rhodonite",
+    "https://www.gemdat.org/gem-3407.html",
+    "https://geology.com/minerals/rhodonite.shtml",
+    "https://www.rockngem.com/rhodonite/",
+    "https://cameo.mfa.org/wiki/Rhodonite",
+    "https://www.metmuseum.org/art/collection/search/825843",
+    "https://www.rct.uk/collection/exhibitions/russia-royalty-the-romanovs/the-queens-gallery-buckingham-palace/baluster-vase",
+    "https://science.howstuffworks.com/environmental/earth/rhodonite.htm",
+    "https://en.wikipedia.org/wiki/Mayakovskaya_(Moscow_Metro)",
+    "https://litosonline.com/en/article/moscow-metros-stone-show",
+    "https://www.sec.state.ma.us/divisions/cis/ciskid/kid-facts/mf1a.htm"
+  ]
+}

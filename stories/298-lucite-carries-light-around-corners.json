@@ -1,0 +1,160 @@
+{
+  "id": "298-lucite-carries-light-around-corners",
+  "number": 298,
+  "title": "Lucite carries light around corners",
+  "style": "paper",
+  "plate": "Lucite",
+  "theme": "blush",
+  "topic": "lucite carries light around corners clear rod bends dupont brand name acrylic 1930s reverse carved back confetti glitter moonglow moonstone 1950s handbags sealed layers no smell acetate vinegar",
+  "music": "music-298.wav",
+  "hook": {
+    "text": "Lucite carries light around corners.",
+    "gold": [
+      "Lucite",
+      "corners."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lucite carries light around corners.",
+      "say": "LOO-site carries light around corners.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#bfe3f0",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "A clear Lucite rod carries a beam of light around bends.",
+      "say": "A clear LOO-site rod carries a beam of light around bends.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#cfe9f5",
+        "label": "Light around bends",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Lucite is DuPont's brand name for clear acrylic plastic.",
+      "say": "LOO-site is DuPont's brand name for clear uh-KRIL-ik plastic.",
+      "scene": {
+        "kind": "title",
+        "text": "Lucite",
+        "sub": "DuPont's brand name",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "DuPont began selling it in the 1930s.",
+      "say": "DuPont began selling it in the nineteen thirties.",
+      "scene": {
+        "kind": "title",
+        "text": "1930s",
+        "sub": "DuPont begins selling",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Makers carved designs on the back so they show through the front.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "shape": "oval",
+        "tone": "#bfe3f0",
+        "metal": "yellow",
+        "label": "Carved on the back",
+        "velvet": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Confetti Lucite holds glitter or tiny flakes inside the clear plastic.",
+      "say": "Confetti LOO-site holds glitter or tiny flakes inside the clear plastic.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d8c6f0",
+        "label": "Glitter inside",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Moonglow Lucite looks lit from within, like a moonstone.",
+      "say": "Moonglow LOO-site looks lit from within, like a moonstone.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8e4f4",
+        "label": "Lit from within",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "In the 1950s, Lucite handbags looked ultra modern and very stylish.",
+      "say": "In the nineteen fifties, LOO-site handbags looked ultra modern and very stylish.",
+      "scene": {
+        "kind": "title",
+        "text": "1950s",
+        "sub": "Lucite handbags",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Many had glitter or confetti sealed between layers of clear Lucite.",
+      "say": "Many had glitter or confetti sealed between layers of clear LOO-site.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfe9f5",
+        "label": "Sealed between layers",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Collectors say Lucite has no smell, but older acetate smells like vinegar.",
+      "say": "Collectors say LOO-site has no smell, but older acetate smells like vinegar.",
+      "scene": {
+        "kind": "title",
+        "text": "No smell",
+        "sub": "Versus vinegar",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Lucite carries light around corners. A clear Lucite rod carries a beam of light around bends. Lucite is DuPont's brand name for clear acrylic plastic. DuPont began selling it in the 1930s. Makers carved designs on the back so they show through the front. Confetti Lucite holds glitter or tiny flakes inside the clear plastic. Moonglow Lucite looks lit from within, like a moonstone. In the 1950s, Lucite handbags looked ultra modern and very stylish. Many had glitter or confetti sealed between layers of clear Lucite. Collectors say Lucite has no smell, but older acetate smells like vinegar.",
+    "hashtags": [
+      "#lucite",
+      "#vintagejewelry",
+      "#costumejewelry",
+      "#jewelrycollecting",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/polymethyl-methacrylate",
+    "https://www.materialintelligencemag.org/acrylic-introduction",
+    "https://cameo.mfa.org/wiki/Lucite",
+    "https://sfomuseum.org/exhibitions/classic-plastics-1870s-1970s/gallery",
+    "https://digital.sciencehistory.org/works/dr26xx39d",
+    "https://britannica.com/EBchecked/topic/350622/Lucite-153",
+    "https://www.morninggloryjewelry.com/articles/article/reverse-carved-lucite-jewelry/",
+    "https://skyjems.ca/pages/encyclopedia-lucite-jewellery",
+    "https://dustyoldthing.com/cs-antique-spotlight-lucite",
+    "https://www.causeafrockus.com/2013/12/lovely-lucite/",
+    "https://collections.vam.ac.uk/item/O147887",
+    "https://collections.vam.ac.uk/item/O1483246",
+    "https://www.antiquetrader.com/collectibles/fantastic-plastic-collecting-mid-century-costume-jewelry",
+    "https://www.jewelryshoppingguide.com/?p=115449"
+  ]
+}

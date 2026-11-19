@@ -1,0 +1,157 @@
+{
+  "id": "297-iron-makes-heliodor-gold-and-aquamarine-blue",
+  "number": 297,
+  "title": "Iron makes heliodor gold and aquamarine blue",
+  "style": "lowpoly",
+  "topic": "heliodor golden beryl iron aquamarine blue emerald chromium vanadium pure beryl colorless traces greek gift of the sun trade name namibia same deposits heat turns blue mohs 7.5 to 8",
+  "music": "music-297.wav",
+  "hook": {
+    "text": "Iron makes heliodor gold and aquamarine blue.",
+    "gold": [
+      "heliodor",
+      "blue."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Iron makes heliodor gold and aquamarine blue.",
+      "say": "Iron makes HEE-lee-oh-dor gold and AK-wuh-muh-REEN blue.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#f2c23a"
+      }
+    },
+    {
+      "text": "Heliodor and aquamarine are beryl, the same mineral as emerald.",
+      "say": "HEE-lee-oh-dor and AK-wuh-muh-REEN are BAIR-ul, the same mineral as EM-rald.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fa860",
+        "label": "Cousin of emerald"
+      }
+    },
+    {
+      "text": "Pure beryl is colorless, and tiny traces add the colors.",
+      "say": "Pure BAIR-ul is colorless, and tiny traces add the colors.",
+      "scene": {
+        "kind": "title",
+        "text": "Traces",
+        "sub": "Tiny amounts add color"
+      }
+    },
+    {
+      "text": "Emerald gets its green from chromium or vanadium.",
+      "say": "EM-rald gets its green from KROH-mee-um or vuh-NAY-dee-um.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fa860",
+        "label": "Green from chromium"
+      }
+    },
+    {
+      "text": "Iron colors heliodor a golden yellow.",
+      "say": "Iron colors HEE-lee-oh-dor a golden yellow.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f2c23a",
+        "label": "Golden yellow"
+      }
+    },
+    {
+      "text": "Iron colors aquamarine blue too, so one element paints both stones.",
+      "say": "Iron colors AK-wuh-muh-REEN blue too, so one element paints both stones.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#5bb4e8",
+        "label": "Same iron, blue stone"
+      }
+    },
+    {
+      "text": "The name comes from Greek words meaning gift of the sun.",
+      "say": "The name comes from Greek words meaning gift of the sun.",
+      "scene": {
+        "kind": "title",
+        "text": "Heliodor",
+        "sub": "Gift of the sun"
+      }
+    },
+    {
+      "text": "It began as a trade name for yellow beryl from Namibia.",
+      "say": "It began as a trade name for yellow BAIR-ul from Namibia.",
+      "scene": {
+        "kind": "title",
+        "text": "Namibia",
+        "sub": "A trade name"
+      }
+    },
+    {
+      "text": "Heliodor is often found in the same deposits as aquamarine.",
+      "say": "HEE-lee-oh-dor is often found in the same deposits as AK-wuh-muh-REEN.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#5bb4e8",
+        "label": "Found with aquamarine"
+      }
+    },
+    {
+      "text": "Heat can turn some yellow beryl blue.",
+      "say": "Heat can turn some yellow BAIR-ul blue.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4fa8e0",
+        "label": "Heat can turn it blue"
+      }
+    },
+    {
+      "text": "Heliodor rates about 7.5 to 8 on the Mohs hardness scale.",
+      "say": "HEE-lee-oh-dor rates about seven and a half to eight on the MOHZ hardness scale.",
+      "scene": {
+        "kind": "title",
+        "text": "7.5 to 8",
+        "sub": "On the Mohs scale"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Iron makes heliodor gold and aquamarine blue. Heliodor and aquamarine are beryl, the same mineral as emerald. Pure beryl is colorless, and tiny traces add the colors. Emerald gets its green from chromium or vanadium. Iron colors heliodor a golden yellow. Iron colors aquamarine blue too, so one element paints both stones. The name comes from Greek words meaning gift of the sun. It began as a trade name for yellow beryl from Namibia. Heliodor is often found in the same deposits as aquamarine. Heat can turn some yellow beryl blue. Heliodor rates about 7.5 to 8 on the Mohs hardness scale.",
+    "hashtags": [
+      "#heliodor",
+      "#beryl",
+      "#aquamarine",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/beryl",
+    "https://www.geo.utexas.edu/courses/347k/redesign/Gem_Notes/Beryl/beryl_main.htm",
+    "https://www.gia.edu/gia-gem-project-beryl",
+    "https://geology.com/gemstones/heliodor",
+    "https://www.gia.edu/gems-gemology/spring-2020-color-characteristics-blue-to-yellow-beryl",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002855",
+    "https://www.gemsociety.org/article/heliodor-golden-beryl-jewelry-gemstone-information",
+    "https://www.mindat.org/min-6727.html",
+    "https://www.edelsteine.at/en/glossaries/lexicon/beryl/",
+    "https://www.jckonline.com/?p=41926",
+    "https://www.gemadventurer.com/gemstones/golden-beryl/",
+    "https://www.handbookofmineralogy.org/pdfs/beryl.pdf"
+  ]
+}
