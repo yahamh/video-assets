@@ -1,0 +1,151 @@
+{
+  "id": "272-girandole-earrings-share-a-name-with-fireworks",
+  "number": 272,
+  "title": "Girandole earrings share a name with fireworks",
+  "topic": "girandole earrings italian girandola firework candlestick three drops bow pear paste glass hair ribbon taken apart paris pattern book 1770",
+  "music": "music-272.wav",
+  "hook": {
+    "text": "Girandole earrings share a name with fireworks.",
+    "gold": [
+      "Girandole",
+      "fireworks."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Girandole earrings share a name with fireworks.",
+      "say": "JEER-un-dole earrings share a name with fireworks.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear",
+        "tone": "#e8e0b0"
+      }
+    },
+    {
+      "text": "It comes from Italian girandola, tied to a verb meaning to turn.",
+      "say": "It comes from Italian jee-RAHN-doh-lah, tied to a verb meaning to turn.",
+      "scene": {
+        "kind": "title",
+        "text": "Girandola",
+        "sub": "Italian, to turn"
+      }
+    },
+    {
+      "text": "In English it first meant a firework in the 1600s.",
+      "say": "In English it first meant a firework in the sixteen hundreds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8742a",
+        "label": "A firework, 1600s"
+      }
+    },
+    {
+      "text": "The same word also names a branched candlestick.",
+      "scene": {
+        "kind": "title",
+        "text": "Candles",
+        "sub": "A branched candlestick"
+      }
+    },
+    {
+      "text": "The earrings are named after that candlestick.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#f1ece0",
+        "label": "Three branching drops"
+      }
+    },
+    {
+      "text": "The classic design is a bow with three pear shaped drops.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "earrings",
+        "metal": "yellow",
+        "shape": "pear",
+        "tone": "#e8ecf0",
+        "label": "Bow with three drops"
+      }
+    },
+    {
+      "text": "They were a leading earring style of the 1700s.",
+      "say": "They were a leading earring style of the seventeen hundreds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c9a14a",
+        "label": "Leading style, 1700s"
+      }
+    },
+    {
+      "text": "Some were made in glass paste instead of gems.",
+      "scene": {
+        "kind": "title",
+        "text": "Paste",
+        "sub": "Glass, not gems"
+      }
+    },
+    {
+      "text": "Heavy pairs could be tied to the hair with a ribbon.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#7a3fb0",
+        "label": "Tied with a ribbon"
+      }
+    },
+    {
+      "text": "When the style faded, many pairs were taken apart and reused.",
+      "scene": {
+        "kind": "title",
+        "text": "Reused",
+        "sub": "Pairs taken apart"
+      }
+    },
+    {
+      "text": "A Paris pattern book from 1770 showed girandole designs.",
+      "say": "A Paris pattern book from seventeen seventy showed JEER-un-dole designs.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2b6fd0",
+        "label": "Paris, 1770"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Girandole earrings share a name with fireworks. It comes from Italian girandola, tied to a verb meaning to turn. In English it first meant a firework in the 1600s. The same word also names a branched candlestick. The earrings are named after that candlestick. The classic design is a bow with three pear shaped drops. They were a leading earring style of the 1700s. Some were made in glass paste instead of gems. Heavy pairs could be tied to the hair with a ribbon. When the style faded, many pairs were taken apart and reused. A Paris pattern book from 1770 showed girandole designs.",
+    "hashtags": [
+      "#girandole",
+      "#earrings",
+      "#georgianjewelry",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/girandole",
+    "https://www.etymonline.com/word/girandole",
+    "https://en.wikipedia.org/wiki/Girandole",
+    "https://sothebys.com/en/articles/the-a-z-of-jewelry-g-is-for-girandole-earrings",
+    "https://collections.vam.ac.uk/item/O73252/earring-unknown",
+    "https://www.rijksmuseum.nl/en/collection/object/Designs-for-Earrings--dfa165112fc46abad7bfb93a8a7cc464",
+    "https://encyclopedia.com/fashion/encyclopedias-almanacs-transcripts-and-maps/earrings",
+    "https://collection.beta.fitz.ms/id/object/45720",
+    "https://collections.mfa.org/objects/592347/earrings",
+    "https://www.metmuseum.org/art/collection/search/712877",
+    "https://www.langantiques.com/university/?p=72557",
+    "https://art.thewalters.org/detail/32841/"
+  ]
+}

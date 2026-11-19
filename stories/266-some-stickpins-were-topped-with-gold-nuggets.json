@@ -1,0 +1,134 @@
+{
+  "id": "266-some-stickpins-were-topped-with-gold-nuggets",
+  "number": 266,
+  "title": "Some stickpins were topped with gold nuggets",
+  "topic": "stickpin cravat pin tie pin victorian men jewelry heads pearls cameos animals horseshoes gold nuggets quartz paired chain cartier cliquet 1920s tie clips",
+  "music": "music-266.wav",
+  "hook": {
+    "text": "Some stickpins were topped with gold nuggets.",
+    "gold": [
+      "stickpins",
+      "nuggets."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some stickpins were topped with gold nuggets.",
+      "scene": {
+        "kind": "hook",
+        "show": "nugget"
+      }
+    },
+    {
+      "text": "A stickpin held the folds of a slippery silk cravat in place.",
+      "say": "A stickpin held the folds of a slippery silk kruh-VAT in place.",
+      "scene": {
+        "kind": "title",
+        "text": "Cravat",
+        "sub": "Held by a long pin"
+      }
+    },
+    {
+      "text": "Men were already wearing them in the early 1800s.",
+      "say": "Men were already wearing them in the early eighteen hundreds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Early 1800s"
+      }
+    },
+    {
+      "text": "Victorian men wore very little jewelry, so a stickpin showed taste.",
+      "scene": {
+        "kind": "title",
+        "text": "Taste",
+        "sub": "One of few pieces"
+      }
+    },
+    {
+      "text": "Heads ranged from a single pearl to a carved cameo.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f1ece0",
+        "label": "A single pearl"
+      }
+    },
+    {
+      "text": "Playful heads showed little animals and horseshoes.",
+      "scene": {
+        "kind": "title",
+        "text": "Animals",
+        "sub": "Horseshoes too"
+      }
+    },
+    {
+      "text": "Some heads were real nuggets, or pieces of quartz holding gold.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e0a92e",
+        "label": "Real gold nuggets"
+      }
+    },
+    {
+      "text": "Some pins came in pairs joined by a fine chain.",
+      "scene": {
+        "kind": "title",
+        "text": "Pairs",
+        "sub": "Joined by a chain"
+      }
+    },
+    {
+      "text": "In the 1920s, Cartier made a clicking pin for lapels and hats.",
+      "say": "In the nineteen twenties, kar-tee-AY made a clicking pin for lapels and hats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2b3f8f",
+        "label": "Cartier, 1920s"
+      }
+    },
+    {
+      "text": "Stickpins faded as slimmer ties and tie clips took over.",
+      "scene": {
+        "kind": "title",
+        "text": "Tie clips",
+        "sub": "Took their place"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some stickpins were topped with gold nuggets. A stickpin held the folds of a slippery silk cravat in place. Men were already wearing them in the early 1800s. Victorian men wore very little jewelry, so a stickpin showed taste. Heads ranged from a single pearl to a carved cameo. Playful heads showed little animals and horseshoes. Some heads were real nuggets, or pieces of quartz holding gold. Some pins came in pairs joined by a fine chain. In the 1920s, Cartier made a clicking pin for lapels and hats. Stickpins faded as slimmer ties and tie clips took over.",
+    "hashtags": [
+      "#stickpin",
+      "#cravatpin",
+      "#victorianjewelry",
+      "#mensjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tie_pin",
+    "https://art.thewalters.org/detail/3490",
+    "https://www.londonmuseum.org.uk/collections/v/object-125663/pin-cravat-pin",
+    "https://www.langantiques.com/university/victorian-gentlemans-jewelry/",
+    "https://navettejewellery.org/2026/04/10/stick-pins/",
+    "https://www.sothebys.com/en/articles/a-glance-at-scarf-pins-tie-pins-and-stick-pins-for-aspiring-collectors",
+    "https://www.langantiques.com/university/?p=72533",
+    "https://www.langantiques.com/university/?p=72508",
+    "https://collections.vam.ac.uk/item/O153314",
+    "https://www.langantiques.com/university/jabot-pin/",
+    "https://www.slate.com/id/2167134?nav=tap3",
+    "https://www.gentlemansgazette.com/obscure-mens-jewelry/"
+  ]
+}

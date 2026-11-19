@@ -1,0 +1,139 @@
+{
+  "id": "268-the-oldest-known-beads-are-snail-shells",
+  "number": 268,
+  "title": "The oldest known beads are snail shells",
+  "topic": "oldest beads shell beads snail nassarius bizmoune 142,000 years morocco wear strung identity blombos 75,000 bone point holes algeria 200 km inland gifts same snail israel",
+  "style": "paper",
+  "plate": "Oldest beads",
+  "theme": "sky",
+  "music": "music-268.wav",
+  "hook": {
+    "text": "The oldest known beads are snail shells.",
+    "gold": [
+      "oldest",
+      "shells."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The oldest known beads are snail shells.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#e8d9c0",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "33 shells from a Moroccan cave are at least 142,000 years old.",
+      "say": "Thirty three shells from a Moroccan cave are at least one hundred forty two thousand years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8d9c0",
+        "label": "At least 142,000 years",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Wear marks suggest they were hung on strings or clothing.",
+      "scene": {
+        "kind": "title",
+        "text": "Wear",
+        "sub": "Marks of a string",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Researchers suggest beads helped people show identity without words.",
+      "scene": {
+        "kind": "title",
+        "text": "Identity",
+        "sub": "Without words",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "At Blombos Cave in South Africa, beads are about 75,000 years old.",
+      "say": "At BLOM-boss Cave in South Africa, beads are about seventy five thousand years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e0c9a6",
+        "label": "Blombos, 75,000 years",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The holes match ones made by pushing a bone point through.",
+      "scene": {
+        "kind": "title",
+        "text": "Holes",
+        "sub": "Pushed with a bone",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "In Algeria, a shell bead was found up to 200 kilometers inland.",
+      "say": "In Algeria, a shell bead was found up to two hundred kilometers inland.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9c3a0",
+        "label": "Found inland",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Researchers suggest early beads worked like gifts that built friendships.",
+      "scene": {
+        "kind": "title",
+        "text": "Gifts",
+        "sub": "Built friendships",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "The same sea snail turns up from Morocco to Israel.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#e8d9c0",
+        "label": "Same snail, far apart",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The oldest known beads are snail shells. 33 shells from a Moroccan cave are at least 142,000 years old. Wear marks suggest they were hung on strings or clothing. Researchers suggest beads helped people show identity without words. At Blombos Cave in South Africa, beads are about 75,000 years old. The holes match ones made by pushing a bone point through. In Algeria, a shell bead was found up to 200 kilometers inland. Researchers suggest early beads worked like gifts that built friendships. The same sea snail turns up from Morocco to Israel.",
+    "hashtags": [
+      "#beads",
+      "#shellbeads",
+      "#archaeology",
+      "#ancientjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://eprints.whiterose.ac.uk/206409/1/sciadv.abi8620.pdf",
+    "https://www.smithsonianmag.com/smart-news/worlds-oldest-jewelry-discovered-in-moroccan-cave-180978766/",
+    "https://sciencedaily.com/releases/2021/09/210922143305.htm",
+    "https://digitalcommons.usf.edu/kip_articles/3391",
+    "https://www.scientificamerican.com/article/ancient-shells-may-be-ear/",
+    "https://sciencedaily.com/releases/2004/04/040416014444.htm",
+    "https://archive.archaeology.org/online/interviews/vanhaeren.html",
+    "https://www.eurekalert.org/news-releases/697253",
+    "https://www.sciencedaily.com/releases/2007/06/070618091210.htm",
+    "https://conchsoc.org/node/3504",
+    "https://ora.ox.ac.uk/objects/uuid:fe11c830-4b98-48f8-ba8b-c8948c6b5dc5"
+  ]
+}

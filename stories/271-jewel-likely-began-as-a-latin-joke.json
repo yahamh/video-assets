@@ -1,0 +1,153 @@
+{
+  "id": "271-jewel-likely-began-as-a-latin-joke",
+  "number": 271,
+  "title": "Jewel likely began as a Latin joke",
+  "topic": "jewel word origin latin jocus joke game french jouel gem gemma bud jewelry jewellery spelling watch jewel ruby bearing patent 1704 17 jewels bijou breton finger ring",
+  "style": "paper",
+  "plate": "Jewel",
+  "theme": "mint",
+  "music": "music-271.wav",
+  "hook": {
+    "text": "Jewel likely began as a Latin joke.",
+    "gold": [
+      "Jewel",
+      "joke."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Jewel likely began as a Latin joke.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e0a92e",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Most dictionaries trace it to jocus, the Latin word for game.",
+      "say": "Most dictionaries trace it to YOH-kus, the Latin word for game.",
+      "scene": {
+        "kind": "title",
+        "text": "Jocus",
+        "sub": "Latin for game",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It reached English from French, as jouel, around the year 1300.",
+      "say": "It reached English from French, as zhoo-EL, around the year thirteen hundred.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "label": "French jouel",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Gem comes from the Latin word for a bud.",
+      "scene": {
+        "kind": "title",
+        "text": "Gem",
+        "sub": "From Latin for bud",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Americans write jewelry, and the British write jewellery.",
+      "say": "Americans write JOO-ul-ree, and the British write JOO-ul-uh-ree.",
+      "scene": {
+        "kind": "title",
+        "text": "Jewelry",
+        "sub": "Or jewellery",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "In a watch, a jewel is a tiny ruby or sapphire bearing.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c8203a",
+        "label": "A ruby bearing",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "A hard jewel keeps a pivot hole from wearing out of shape.",
+      "scene": {
+        "kind": "title",
+        "text": "Pivot",
+        "sub": "Hole stays round",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "An English patent from 1704 covered piercing rubies for watches.",
+      "say": "An English patent from seventeen oh four covered piercing rubies for watches.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d0382a",
+        "label": "Patent, 1704",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "A typical mechanical watch has about 17 jewels.",
+      "say": "A typical mechanical watch has about seventeen jewels.",
+      "scene": {
+        "kind": "title",
+        "text": "17",
+        "sub": "Jewels in a watch",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Bijou probably comes from a Breton word for finger ring.",
+      "say": "BEE-zhoo probably comes from a Breton word for finger ring.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#2b6fd0",
+        "label": "Bijou, a finger ring",
+        "velvet": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Jewel likely began as a Latin joke. Most dictionaries trace it to jocus, the Latin word for game. It reached English from French, as jouel, around the year 1300. Gem comes from the Latin word for a bud. Americans write jewelry, and the British write jewellery. In a watch, a jewel is a tiny ruby or sapphire bearing. A hard jewel keeps a pivot hole from wearing out of shape. An English patent from 1704 covered piercing rubies for watches. A typical mechanical watch has about 17 jewels. Bijou probably comes from a Breton word for finger ring.",
+    "hashtags": [
+      "#jewel",
+      "#wordorigins",
+      "#etymology",
+      "#watchjewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/jewel",
+    "https://www.dictionary.com/browse/jewel",
+    "https://www.cnrtl.fr/etymologie/joyau",
+    "https://www.etymonline.com/word/jewel",
+    "https://www.etymonline.com/word/gem",
+    "https://www.merriam-webster.com/dictionary/jewelry",
+    "https://www.britannica.com/dictionary/jewelry",
+    "https://www.europastar.com/watch-knowledge/1004082414-rubies.html",
+    "https://www.antique-pocket-watch.com/jewelled-bearings-history.html",
+    "https://en.wikipedia.org/wiki/Jewel_bearing",
+    "https://www.merriam-webster.com/dictionary/bijou",
+    "https://www.etymonline.com/word/bijou"
+  ]
+}

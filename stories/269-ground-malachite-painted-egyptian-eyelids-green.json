@@ -1,0 +1,142 @@
+{
+  "id": "269-ground-malachite-painted-egyptian-eyelids-green",
+  "number": 269,
+  "title": "Ground malachite painted Egyptian eyelids green",
+  "topic": "malachite eye paint egypt mallow greek copper deposits prospectors bands eye rings soft mohs russian veneer saint isaac columns gutenberg bible laser",
+  "music": "music-269.wav",
+  "hook": {
+    "text": "Ground malachite painted Egyptian eyelids green.",
+    "gold": [
+      "malachite",
+      "green."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ground malachite painted Egyptian eyelids green.",
+      "say": "Ground MAL-uh-kite painted Egyptian eyelids green.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#1f9d6a"
+      }
+    },
+    {
+      "text": "Egyptians used it as eye paint roughly 6,000 years ago.",
+      "say": "Egyptians used it as eye paint roughly six thousand years ago.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2fa86a",
+        "label": "Green eye paint"
+      }
+    },
+    {
+      "text": "The name comes from the Greek word for mallow, a green plant.",
+      "scene": {
+        "kind": "title",
+        "text": "Mallow",
+        "sub": "A green plant"
+      }
+    },
+    {
+      "text": "It forms above copper deposits, so it guided prospectors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2fb36b",
+        "label": "Above copper"
+      }
+    },
+    {
+      "text": "Its bands record changing water as the stone grew.",
+      "scene": {
+        "kind": "title",
+        "text": "Bands",
+        "sub": "Record changing water"
+      }
+    },
+    {
+      "text": "The most prized pattern is rounded rings like eyes.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#1f9d6a",
+        "label": "Eye like rings"
+      }
+    },
+    {
+      "text": "It is soft, about 3.5 to 4 on the Mohs scale.",
+      "say": "It is soft, about three point five to four on the MOHZ scale.",
+      "scene": {
+        "kind": "title",
+        "text": "Soft",
+        "sub": "3.5 to 4 on Mohs"
+      }
+    },
+    {
+      "text": "Big Russian malachite pieces were veneers of thin matched sheets.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3fc27a",
+        "label": "Thin matched sheets"
+      }
+    },
+    {
+      "text": "Saint Isaac's Cathedral in Saint Petersburg has ten malachite columns.",
+      "scene": {
+        "kind": "title",
+        "text": "Columns",
+        "sub": "Saint Isaac's has ten"
+      }
+    },
+    {
+      "text": "Scientists tested Gutenberg Bibles with a laser and found malachite green.",
+      "say": "Scientists tested GOO-ten-berg Bibles with a laser and found MAL-uh-kite green.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#2fa86a",
+        "label": "Gutenberg Bibles"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Ground malachite painted Egyptian eyelids green. Egyptians used it as eye paint roughly 6,000 years ago. The name comes from the Greek word for mallow, a green plant. It forms above copper deposits, so it guided prospectors. Its bands record changing water as the stone grew. The most prized pattern is rounded rings like eyes. It is soft, about 3.5 to 4 on the Mohs scale. Big Russian malachite pieces were veneers of thin matched sheets. Saint Isaac's Cathedral in Saint Petersburg has ten malachite columns. Scientists tested Gutenberg Bibles with a laser and found malachite green.",
+    "hashtags": [
+      "#malachite",
+      "#ancientegypt",
+      "#gemstones",
+      "#greenstone",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.merriam-webster.com/dictionary/malachite",
+    "https://www.etymonline.com/word/malachite",
+    "https://exhibitions.kelsey.lsa.umich.edu/ancient-color/map_green.php",
+    "https://www.metmuseum.org/art/collection/search/569280",
+    "https://www.getty.edu/news/color-series-history-of-green/",
+    "https://www.britannica.com/science/malachite",
+    "https://www.earth.com/news/malachite-mesmerizing",
+    "https://www.gemsociety.org/article/Malachite-jewelry-and-gemstone-information/",
+    "https://www.galleries.com/minerals/carbonat/malachit/malachit.htm",
+    "https://minerals.net/gemstone/malachite",
+    "https://ese.mst.edu/mineral-collection/malachite/",
+    "https://art.thewalters.org/detail/27492/",
+    "https://rockngem.com/malachite-part-ii-banded-beauty-comes-from-russia-and-the-congo",
+    "https://www.nature.com/articles/435577b",
+    "https://britishlibrary.typepad.co.uk/collectioncare/2014/03/the-colour-green.html"
+  ]
+}

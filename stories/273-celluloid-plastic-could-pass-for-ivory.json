@@ -1,0 +1,153 @@
+{
+  "id": "273-celluloid-plastic-could-pass-for-ivory",
+  "number": 273,
+  "title": "Celluloid plastic could pass for ivory",
+  "topic": "celluloid first plastic nitrocellulose camphor hyatt printer ivory coral tortoiseshell combs 1880s french ivory patent 1878 middle class pyralin dupont 1920s ping pong 1900",
+  "style": "lowpoly",
+  "music": "music-273.wav",
+  "hook": {
+    "text": "Celluloid plastic could pass for ivory.",
+    "gold": [
+      "Celluloid",
+      "ivory."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Celluloid plastic could pass for ivory.",
+      "say": "SEL-yuh-loyd plastic could pass for ivory.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#efe6d2"
+      }
+    },
+    {
+      "text": "It is often called the first commercially successful plastic.",
+      "scene": {
+        "kind": "title",
+        "text": "Plastic",
+        "sub": "Commercial success"
+      }
+    },
+    {
+      "text": "It was made from nitrocellulose softened with camphor.",
+      "say": "It was made from NY-troh-SEL-yuh-lohss softened with KAM-fer.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9c9a0",
+        "label": "With camphor"
+      }
+    },
+    {
+      "text": "It is credited to John Wesley Hyatt, a printer by trade.",
+      "say": "It is credited to John Wesley HY-ut, a printer by trade.",
+      "scene": {
+        "kind": "title",
+        "text": "Hyatt",
+        "sub": "A printer by trade"
+      }
+    },
+    {
+      "text": "It copied costly materials like ivory and coral.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#efe6d2",
+        "label": "Costly look alikes"
+      }
+    },
+    {
+      "text": "By the 1880s, fake tortoiseshell combs were selling well.",
+      "say": "By the eighteen eighties, fake tortoiseshell combs were selling well.",
+      "scene": {
+        "kind": "title",
+        "text": "Combs",
+        "sub": "Fake tortoiseshell"
+      }
+    },
+    {
+      "text": "Ivory look pieces were often sold as French Ivory.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f1ead8",
+        "label": "French Ivory"
+      }
+    },
+    {
+      "text": "In 1878, Hyatt got a US patent for making combs from celluloid.",
+      "say": "In eighteen seventy eight, HY-ut got a US patent for making combs from SEL-yuh-loyd.",
+      "scene": {
+        "kind": "title",
+        "text": "Patent",
+        "sub": "Combs, 1878"
+      }
+    },
+    {
+      "text": "It made look alikes of fine goods affordable to many.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8742a",
+        "label": "Within reach"
+      }
+    },
+    {
+      "text": "In the 1920s, DuPont sold celluloid dresser sets as Pyralin.",
+      "say": "In the nineteen twenties, du-PONT sold celluloid dresser sets as PY-ruh-lin.",
+      "scene": {
+        "kind": "title",
+        "text": "Pyralin",
+        "sub": "DuPont, 1920s"
+      }
+    },
+    {
+      "text": "Around 1900, celluloid also gave ping pong balls their bounce.",
+      "say": "Around nineteen hundred, celluloid also gave ping pong balls their bounce.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f4f4f4",
+        "label": "Ping pong, 1900"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Celluloid plastic could pass for ivory. It is often called the first commercially successful plastic. It was made from nitrocellulose softened with camphor. It is credited to John Wesley Hyatt, a printer by trade. It copied costly materials like ivory and coral. By the 1880s, fake tortoiseshell combs were selling well. Ivory look pieces were often sold as French Ivory. In 1878, Hyatt got a US patent for making combs from celluloid. It made look alikes of fine goods affordable to many. In the 1920s, DuPont sold celluloid dresser sets as Pyralin. Around 1900, celluloid also gave ping pong balls their bounce.",
+    "hashtags": [
+      "#celluloid",
+      "#vintagejewelry",
+      "#plastic",
+      "#antiquejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sciencehistory.org/stories/magazine/celluloid-the-eternal-substitute/",
+    "https://britannica.com/technology/celluloid",
+    "https://dashboard.si.edu/newsdesk/releases/national-museum-american-history-showcases-celluloid-first-plastic",
+    "https://sfomuseum.org/exhibitions/classic-plastics-1870s-1970s/gallery",
+    "https://cool.culturalheritage.org/jaic/articles/jaic30-02-003_4.html",
+    "https://www.cooperhewitt.org/?p=16525",
+    "https://collection.sciencemuseumgroup.org.uk/objects/co10554/ornate-hair-comb-of-tortoiseshell-effect-cellulose-nitrate",
+    "https://www.mfa.org/collections/object/comb-105968",
+    "https://patents.google.com/patent/US199909A/en",
+    "https://atlasobscura.com/articles/unbreakable-comb-history",
+    "https://www.brucemuseum.ca/collection/celluloid-the-first-modern-plastic/",
+    "https://www.smithsonianmag.com/smithsonian-institution/american-history-highlights-celluloid-and-the-dawn-of-the-plastic-age-139344351/",
+    "https://digital.sciencehistory.org/works/7p88ch910",
+    "https://ittf.com/history/documents/historyoftabletennis"
+  ]
+}

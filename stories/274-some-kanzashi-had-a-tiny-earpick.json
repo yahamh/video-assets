@@ -1,0 +1,165 @@
+{
+  "id": "274-some-kanzashi-had-a-tiny-earpick",
+  "number": 274,
+  "title": "Some kanzashi had a tiny earpick",
+  "topic": "kanzashi japanese hair ornaments earpick plain hairpins ward off evil edo age social class dangling coral agate tsumami silk pinched tweezers dries 24 hours kyoto apprentice geisha monthly flower cherry willow",
+  "style": "paper",
+  "plate": "Kanzashi",
+  "theme": "cream",
+  "music": "music-274.wav",
+  "hook": {
+    "text": "Some kanzashi had a tiny earpick.",
+    "gold": [
+      "kanzashi",
+      "earpick."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some kanzashi had a tiny earpick.",
+      "say": "Some kahn-ZAH-shee had a tiny earpick.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e8749a",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Kanzashi began as plain working hairpins for holding hair.",
+      "say": "kahn-ZAH-shee began as plain working hairpins for holding hair.",
+      "scene": {
+        "kind": "title",
+        "text": "Hairpin",
+        "sub": "Plain working pins",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "An old belief said a pointed stick could ward off evil.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#c9ced6",
+        "label": "Said to ward off evil",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In the Edo period, hair ornaments reflected age and social class.",
+      "say": "In the EH-doh period, hair ornaments reflected age and social class.",
+      "scene": {
+        "kind": "title",
+        "text": "Edo",
+        "sub": "Age and social class",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Some had dangling ornaments that swayed as the wearer walked.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8c14a",
+        "label": "Dangling ornaments",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Ball tipped ones were topped with coral or agate.",
+      "scene": {
+        "kind": "title",
+        "text": "Coral",
+        "sub": "Or agate tips",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Silk flower kanzashi are pinched from tiny squares with tweezers.",
+      "say": "Silk flower kahn-ZAH-shee are pinched from tiny squares with tweezers.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8749a",
+        "label": "Pinched silk squares",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "That craft is called tsumami, which means pinching.",
+      "say": "That craft is called tsoo-MAH-mee, which means pinching.",
+      "scene": {
+        "kind": "title",
+        "text": "Tsumami",
+        "sub": "Means pinching",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Each finished flower dries for about 24 hours.",
+      "say": "Each finished flower dries for about twenty four hours.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f1ece0",
+        "label": "Dries 24 hours",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Kyoto apprentice geisha wear a new flower ornament each month.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#e8749a",
+        "label": "A new flower monthly",
+        "velvet": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Cherry blossom is for April and willow is for June.",
+      "scene": {
+        "kind": "title",
+        "text": "Cherry",
+        "sub": "April. Willow is June.",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some kanzashi had a tiny earpick. Kanzashi began as plain working hairpins for holding hair. An old belief said a pointed stick could ward off evil. In the Edo period, hair ornaments reflected age and social class. Some had dangling ornaments that swayed as the wearer walked. Ball tipped ones were topped with coral or agate. Silk flower kanzashi are pinched from tiny squares with tweezers. That craft is called tsumami, which means pinching. Each finished flower dries for about 24 hours. Kyoto apprentice geisha wear a new flower ornament each month. Cherry blossom is for April and willow is for June.",
+    "hashtags": [
+      "#kanzashi",
+      "#japanesejewelry",
+      "#hairornaments",
+      "#tsumami",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O119780",
+    "https://japanobjects.com/features/kanzashi",
+    "https://www.dento-tokyo.metro.tokyo.lg.jp/english/items/13.html",
+    "https://thekyotoproject.org/english/kanzashi-2/",
+    "https://www.jef.or.jp/journal/pdf/J.Mind%20Pola_0603.pdf",
+    "https://projects.mcah.columbia.edu/jaanus/node/3337",
+    "https://art.thewalters.org/detail/6044//",
+    "https://museumcollection.tokyo/en/works/6864573",
+    "https://artsandculture.google.com/story/0QWByNve2FJiJQ",
+    "https://www.haradaeigo.com/japanese-culture/en/tsumami-zaiku",
+    "https://japan-documented.com/crafts/tsumami-kanzashi/",
+    "https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-1726/",
+    "https://en.wikipedia.org/wiki/Kanzashi"
+  ]
+}

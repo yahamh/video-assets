@@ -1,0 +1,141 @@
+{
+  "id": "270-moss-agate-contains-no-moss-at-all",
+  "number": 270,
+  "title": "Moss agate contains no moss at all",
+  "topic": "moss agate no moss inclusions manganese iron oxide dendrite greek tree cracks pseudofossils banding cabochon mohs quartz mocha stone red sea port coffee",
+  "style": "lowpoly",
+  "music": "music-270.wav",
+  "hook": {
+    "text": "Moss agate contains no moss at all.",
+    "gold": [
+      "Moss",
+      "moss"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Moss agate contains no moss at all.",
+      "scene": {
+        "kind": "hook",
+        "show": "rough",
+        "tone": "#3f8f5a"
+      }
+    },
+    {
+      "text": "In many stones, manganese or iron oxides form the shapes.",
+      "scene": {
+        "kind": "title",
+        "text": "Inside",
+        "sub": "Iron or manganese"
+      }
+    },
+    {
+      "text": "Dendrite comes from the Greek word for tree.",
+      "say": "DEN-dright comes from the Greek word for tree.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#3f8f5a",
+        "label": "Greek for tree"
+      }
+    },
+    {
+      "text": "Mineral water seeping through cracks grows those branching shapes.",
+      "scene": {
+        "kind": "title",
+        "text": "Cracks",
+        "sub": "Water seeps through"
+      }
+    },
+    {
+      "text": "They can look so like plants that they pass for fossils.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#6a8f4a",
+        "label": "Passes for fossils"
+      }
+    },
+    {
+      "text": "It lacks the banding of true agate, but the name stuck.",
+      "scene": {
+        "kind": "title",
+        "text": "Banding",
+        "sub": "True agate has it"
+      }
+    },
+    {
+      "text": "Cutters shape it into smooth domes called cabochons.",
+      "say": "Cutters shape it into smooth domes called KAB-uh-shonz.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#4a8f6a",
+        "label": "Smooth cabochon"
+      }
+    },
+    {
+      "text": "It is about 6.5 to 7 on the Mohs scale, like quartz.",
+      "say": "It is about six and a half to seven on the MOHZ scale, like quartz.",
+      "scene": {
+        "kind": "title",
+        "text": "6.5 to 7",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "Mocha stone, its old name, points to a Red Sea port.",
+      "say": "MOH-kuh stone, its old name, points to a Red Sea port.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a6a3a",
+        "label": "Mocha stone"
+      }
+    },
+    {
+      "text": "That same port gave coffee the word mocha.",
+      "say": "That same port gave coffee the word MOH-kuh.",
+      "scene": {
+        "kind": "title",
+        "text": "Mocha",
+        "sub": "Coffee's name too"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Moss agate contains no moss at all. In many stones, manganese or iron oxides form the shapes. Dendrite comes from the Greek word for tree. Mineral water seeping through cracks grows those branching shapes. They can look so like plants that they pass for fossils. It lacks the banding of true agate, but the name stuck. Cutters shape it into smooth domes called cabochons. It is about 6.5 to 7 on the Mohs scale, like quartz. Mocha stone, its old name, points to a Red Sea port. That same port gave coffee the word mocha.",
+    "hashtags": [
+      "#mossagate",
+      "#agate",
+      "#dendrites",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/science/moss-agate",
+    "https://en.wikipedia.org/wiki/Moss_agate",
+    "https://cameo.mfa.org/wiki/Moss_agate",
+    "https://rockngem.com/weird-words-dendritic",
+    "https://navettejewellery.org/2022/11/08/ornamental-gem-jewellery-lovely-landscapes-and-foliage/",
+    "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/agate",
+    "https://col.rct.uk/collection/9133/patch-box",
+    "https://www.britannica.com/place/Mocha-Yemen",
+    "https://www.smithsonianmag.com/smart-news/your-mocha-named-after-birthplace-coffee-trade-180965016/",
+    "https://www.gemdat.org/gem-2791.html",
+    "https://www.gemsociety.org/article/moss-agate-engagement-ring-guide/",
+    "https://www.gemselect.com/other-info/moss-agate-buying-guide.php",
+    "https://www.gemselect.com/other-info/about-dendritic-agate.php",
+    "https://en.wikipedia.org/wiki/Dendrite_(crystal)",
+    "https://mail.petrifiedwoodmuseum.org/Pseudofossils.htm"
+  ]
+}

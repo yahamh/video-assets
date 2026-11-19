@@ -1,0 +1,152 @@
+{
+  "id": "267-fluorescence-is-named-after-the-mineral-fluorite",
+  "number": 267,
+  "title": "Fluorescence is named after the mineral fluorite",
+  "topic": "fluorite fluorescence stokes 1852 fluorspar latin to flow flux fluorine soft mohs colors blue john derbyshire castleton boulton 1768 resin",
+  "style": "lowpoly",
+  "music": "music-267.wav",
+  "hook": {
+    "text": "Fluorescence is named after the mineral fluorite.",
+    "gold": [
+      "Fluorescence",
+      "fluorite."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fluorescence is named after the mineral fluorite.",
+      "say": "floor-ESS-ence is named after the mineral FLOOR-ite.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#7a3fb0"
+      }
+    },
+    {
+      "text": "George Stokes coined the word in 1852, from fluorspar.",
+      "say": "George STOHKS coined the word in eighteen fifty two, from FLOOR-spar.",
+      "scene": {
+        "kind": "title",
+        "text": "Fluorspar",
+        "sub": "Stokes, 1852"
+      }
+    },
+    {
+      "text": "Its name comes from a Latin word meaning to flow.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#5a3fb0",
+        "label": "Latin for to flow"
+      }
+    },
+    {
+      "text": "Metalmakers once used it as a flux.",
+      "scene": {
+        "kind": "title",
+        "text": "Flux",
+        "sub": "Used in metalmaking"
+      }
+    },
+    {
+      "text": "The element fluorine is also named after the mineral.",
+      "say": "The element FLOOR-een is also named after the mineral.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fb36b",
+        "label": "Fluorine, named for it"
+      }
+    },
+    {
+      "text": "Fluorite is soft, so it suits earrings better than rings.",
+      "say": "Fluorite is soft, so it suits earrings better than rings.",
+      "scene": {
+        "kind": "title",
+        "text": "Soft",
+        "sub": "About 4 on Mohs"
+      }
+    },
+    {
+      "text": "Traces of other elements give it nearly every color.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#2b6fd0",
+        "label": "Nearly every color"
+      }
+    },
+    {
+      "text": "Blue John is a banded purple and blue fluorite from Derbyshire.",
+      "say": "Blue John is a banded purple and blue fluorite from DAR-bee-sheer.",
+      "scene": {
+        "kind": "title",
+        "text": "Blue John",
+        "sub": "Banded purple and blue"
+      }
+    },
+    {
+      "text": "In Britain it comes only from two caverns near Castleton.",
+      "say": "In Britain it comes only from two caverns near KASS-ul-tun.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#7a3fb0",
+        "label": "Two caverns"
+      }
+    },
+    {
+      "text": "In 1768, Matthew Boulton asked for a mine lease to make vases.",
+      "say": "In seventeen sixty eight, Matthew BOHL-tun asked for a mine lease to make vases.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#c9a14a",
+        "label": "Boulton, 1768"
+      }
+    },
+    {
+      "text": "Raw Blue John is dried about a year, then soaked in resin.",
+      "scene": {
+        "kind": "title",
+        "text": "Resin",
+        "sub": "Dried, then soaked"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Fluorescence is named after the mineral fluorite. George Stokes coined the word in 1852, from fluorspar. Its name comes from a Latin word meaning to flow. Metalmakers once used it as a flux. The element fluorine is also named after the mineral. Fluorite is soft, so it suits earrings better than rings. Traces of other elements give it nearly every color. Blue John is a banded purple and blue fluorite from Derbyshire. In Britain it comes only from two caverns near Castleton. In 1768, Matthew Boulton asked for a mine lease to make vases. Raw Blue John is dried about a year, then soaked in resin.",
+    "hashtags": [
+      "#fluorite",
+      "#bluejohn",
+      "#fluorescence",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/winter-2024-fluorescence-phosphorescence",
+    "https://www.etymonline.com/word/fluorescence",
+    "https://www.britannica.com/science/fluorine",
+    "https://www.mindat.org/min-1576.html",
+    "https://commonminerals.esci.umn.edu/minerals-f/fluorite",
+    "https://www.gemselect.com/other-info/fluorite-buying-guide.php",
+    "https://geology.com/minerals/fluorite.shtml",
+    "https://exhibits.museum.state.il.us/exhibits/changes/htmls/tropical/upland_readmore_fluoritecolors.html",
+    "https://www.subbrit.org.uk/sites/treak-cliff-cavern/",
+    "https://depositsmag.com/2016/09/08/blue-john-stone-a-remarkable-fluorite-from-a-limestone-cavern/",
+    "https://en.wikipedia.org/wiki/Blue_John_(mineral)",
+    "https://www.regencyhistory.net/blog/blue-john-britains-georgian-gemstone",
+    "https://www.homesandantiques.com/antiques/what-is-blue-john"
+  ]
+}
