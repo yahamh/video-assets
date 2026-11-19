@@ -1,0 +1,149 @@
+{
+  "id": "290-diamond-hunters-follow-chrome-diopside",
+  "number": 290,
+  "title": "Diamond hunters follow chrome diopside",
+  "topic": "chrome diopside diamond hunters prospectors kimberlite greek double appearance chromium vivid green siberian emerald siberia deposit three greens trichroism star diopside four rayed star sapphire six needles dome cabochon fairly soft earrings pendants india",
+  "music": "music-290.wav",
+  "hook": {
+    "text": "Diamond hunters follow chrome diopside.",
+    "gold": [
+      "Diamond",
+      "diopside."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond hunters follow chrome diopside.",
+      "say": "Diamond hunters follow KROHM dy-OP-side.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#2fa860"
+      }
+    },
+    {
+      "text": "Chrome diopside turns up with kimberlite, the rock that carries diamonds.",
+      "say": "KROHM dy-OP-side turns up with KIM-ber-lite, the rock that carries diamonds.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2fa860",
+        "label": "Found with kimberlite"
+      }
+    },
+    {
+      "text": "The name diopside comes from Greek roots meaning double appearance.",
+      "say": "The name dy-OP-side comes from Greek roots meaning double appearance.",
+      "scene": {
+        "kind": "title",
+        "text": "Double",
+        "sub": "Greek roots"
+      }
+    },
+    {
+      "text": "Chromium gives it a vivid green, nicknamed Siberian emerald.",
+      "say": "KROH-mee-um gives it a vivid green, nicknamed Siberian emerald.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#1f9850",
+        "label": "Vivid chrome green"
+      }
+    },
+    {
+      "text": "Most gem chrome diopside comes from a deposit in Siberia.",
+      "say": "Most gem KROHM dy-OP-side comes from a deposit in Siberia.",
+      "scene": {
+        "kind": "title",
+        "text": "Siberia",
+        "sub": "Where most come from"
+      }
+    },
+    {
+      "text": "Turn one stone and it shows three different greens.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#5fb840",
+        "label": "Three greens"
+      }
+    },
+    {
+      "text": "Star diopside shows a four rayed star, while star sapphires show six.",
+      "say": "Star dy-OP-side shows a four rayed star, while star sapphires show six.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#1c1c20",
+        "label": "Four rayed star"
+      }
+    },
+    {
+      "text": "Tiny needles inside make the star, which shows only on a dome.",
+      "scene": {
+        "kind": "title",
+        "text": "Needles",
+        "sub": "Make the star"
+      }
+    },
+    {
+      "text": "Because it is fairly soft, it suits earrings and pendants best.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#2fa860",
+        "label": "Pendants suit it"
+      }
+    },
+    {
+      "text": "Nearly all star diopside comes from India.",
+      "say": "Nearly all star dy-OP-side comes from India.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#1c1c20",
+        "label": "Mostly from India"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Diamond hunters follow chrome diopside. Chrome diopside turns up with kimberlite, the rock that carries diamonds. The name diopside comes from Greek roots meaning double appearance. Chromium gives it a vivid green, nicknamed Siberian emerald. Most gem chrome diopside comes from a deposit in Siberia. Turn one stone and it shows three different greens. Star diopside shows a four rayed star, while star sapphires show six. Tiny needles inside make the star, which shows only on a dome. Because it is fairly soft, it suits earrings and pendants best. Nearly all star diopside comes from India.",
+    "hashtags": [
+      "#diopside",
+      "#chromediopside",
+      "#gemstones",
+      "#greengems",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.handbookofmineralogy.org/pdfs/diopside.pdf",
+    "https://www.juwelo.com/gemstone-information/diopside/",
+    "https://www.gemsociety.org/article/Diopside/",
+    "https://turnstone.ca/rom125di.htm",
+    "https://gia.edu/gia-news-research/great-potential-diopside-china-market",
+    "https://www.mdpi.com/2073-4352/13/5/727",
+    "https://en.wikipedia.org/wiki/Diopside",
+    "https://www.gemdat.org/gem-1294.html",
+    "https://www.edelsteine.at/dictionary/chrome-diopside/",
+    "https://en.wikipedia.org/wiki/Asterism_(gemology)",
+    "https://thegemmuseum.gallery/?p=3924",
+    "https://www.edelsteine.at/en/glossaries/lexicon/star-diopside/",
+    "https://skyjems.ca/pages/encyclopedia-diopside",
+    "https://www.gemselect.com/other-info/the-black-star-of-india.php",
+    "https://www.gemlab.co.in/?p=2772",
+    "https://www.edelsteine.at/en/glossaries/lexicon/diopside/"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "284-hackmanite-changes-color-in-sunlight",
+  "number": 284,
+  "title": "Hackmanite changes color in sunlight",
+  "topic": "hackmanite sodalite variety sodium lapis lazuli pyrite bancroft ontario 1906 130 tons england greenland quebec violet fades sunlight dark tenebrescence repeat heat victor hackman finnish geologist 2022 turku sodium atoms shift",
+  "music": "music-284.wav",
+  "hook": {
+    "text": "Hackmanite changes color in sunlight.",
+    "gold": [
+      "Hackmanite",
+      "sunlight."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hackmanite changes color in sunlight.",
+      "say": "HAK-muh-nyte changes color in sunlight.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#8a6fd0"
+      }
+    },
+    {
+      "text": "It is a variety of sodalite, a stone named for its sodium.",
+      "say": "It is a variety of SOH-duh-lyte, a stone named for its sodium.",
+      "scene": {
+        "kind": "title",
+        "text": "Sodalite",
+        "sub": "Named for sodium"
+      }
+    },
+    {
+      "text": "Sodalite looks like lapis lazuli but lacks its gold flecks of pyrite.",
+      "say": "SOH-duh-lyte looks like LAP-iss LAZ-yoo-lee but lacks its gold flecks of PY-rite.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#2a4fa8",
+        "label": "Looks like lapis"
+      }
+    },
+    {
+      "text": "In 1906, 130 tons of Ontario sodalite went to England.",
+      "say": "In nineteen oh six, one hundred thirty tons of Ontario SOH-duh-lyte went to England.",
+      "scene": {
+        "kind": "title",
+        "text": "1906",
+        "sub": "130 tons to England"
+      }
+    },
+    {
+      "text": "Freshly dug in Greenland or Quebec, it is pale to deep violet.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8a6fd0",
+        "label": "Violet when fresh"
+      }
+    },
+    {
+      "text": "In sunlight it fades to gray or greenish white.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#cfd6d0",
+        "label": "Fades in sunlight"
+      }
+    },
+    {
+      "text": "Days in the dark bring the violet back, a trait called tenebrescence.",
+      "say": "Days in the dark bring the violet back, a trait called TEN-uh-BRES-ents.",
+      "scene": {
+        "kind": "title",
+        "text": "Returns",
+        "sub": "Called tenebrescence"
+      }
+    },
+    {
+      "text": "The change can repeat practically forever, until heat ends it for good.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#9a7fe0",
+        "label": "Repeats for ages"
+      }
+    },
+    {
+      "text": "Hackmanite honors Finnish geologist Victor Hackman.",
+      "say": "HAK-muh-nyte honors Finnish geologist Victor HAK-mun.",
+      "scene": {
+        "kind": "title",
+        "text": "Hackman",
+        "sub": "Finnish geologist"
+      }
+    },
+    {
+      "text": "In 2022, researchers in Finland traced the change to shifting sodium atoms.",
+      "say": "In twenty twenty two, researchers in Finland traced the change to shifting sodium atoms.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a6fd0",
+        "label": "Sodium atoms shift"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Hackmanite changes color in sunlight. It is a variety of sodalite, a stone named for its sodium. Sodalite looks like lapis lazuli but lacks its gold flecks of pyrite. In 1906, 130 tons of Ontario sodalite went to England. Freshly dug in Greenland or Quebec, it is pale to deep violet. In sunlight it fades to gray or greenish white. Days in the dark bring the violet back, a trait called tenebrescence. The change can repeat practically forever, until heat ends it for good. Hackmanite honors Finnish geologist Victor Hackman. In 2022, researchers in Finland traced the change to shifting sodium atoms.",
+    "hashtags": [
+      "#hackmanite",
+      "#sodalite",
+      "#gemstones",
+      "#colorchange",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://galleries.com/minerals/silicate/sodalite/sodalite.htm",
+    "https://www.handbookofmineralogy.org/pdfs/sodalite.pdf",
+    "https://cameo.mfa.org/wiki/Sodalite",
+    "https://www.gemstones.com/gemopedia/sodalite",
+    "https://www.geologyontario.mndm.gov.on.ca/mndmfiles/mdi/data/records/MDI31F04SW00012.html",
+    "https://uwaterloo.ca/earth-sciences-museum/resources/detailed-rocks-and-minerals-articles/sodalite",
+    "https://www.gemstones.com/gemopedia/hackmanite",
+    "https://www.gemselect.com/other-info/hackmanite.php",
+    "https://www.minerals.net/mineral-variety/Mineral/Hackmanite.aspx",
+    "https://gia.edu/gems-gemology/spring-2009-hackmanite-sodalite-kondo",
+    "https://www.eurekalert.org/news-releases/956531",
+    "https://www.ens-lyon.fr/en/article/research/new-photochromic-materials-make-us-see-all-colors"
+  ]
+}

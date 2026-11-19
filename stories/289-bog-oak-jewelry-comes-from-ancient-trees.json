@@ -1,0 +1,157 @@
+{
+  "id": "289-bog-oak-jewelry-comes-from-ancient-trees",
+  "number": 289,
+  "title": "Bog oak jewelry comes from ancient trees",
+  "topic": "bog oak irish jewelry ancient trees peat black tannins iron acidic bog water 5000 years old george iv 1821 shamrock box gold 1851 great exhibition furniture book of kells interlace dense stone dries four to six years county longford still carved",
+  "style": "paper",
+  "plate": "Bog oak",
+  "theme": "cream",
+  "music": "music-289.wav",
+  "hook": {
+    "text": "Bog oak jewelry comes from ancient trees.",
+    "gold": [
+      "Bog",
+      "trees."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Bog oak jewelry comes from ancient trees.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#2a2420",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It is oak that turned black after lying buried in peat.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2e2824",
+        "label": "Oak turned black",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Tannins in the wood react with iron in the acidic bog water.",
+      "say": "TAN-inz in the wood react with iron in the acidic bog water.",
+      "scene": {
+        "kind": "title",
+        "text": "Tannins",
+        "sub": "React with iron",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Irish bog oak is commonly around 5,000 years old.",
+      "say": "Irish bog oak is commonly around five thousand years old.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#3a302a",
+        "label": "Commonly 5,000 years",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "In 1821, George IV received a bog oak and gold shamrock box.",
+      "say": "In eighteen twenty one, George the Fourth received a bog oak and gold shamrock box.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "brooch",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#2e2824",
+        "label": "Bog oak and gold",
+        "velvet": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Irish makers sent bog oak furniture to the 1851 Great Exhibition.",
+      "say": "Irish makers sent bog oak furniture to the eighteen fifty one Great Exhibition.",
+      "scene": {
+        "kind": "title",
+        "text": "1851",
+        "sub": "Great Exhibition",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Designs often copied interlaced patterns from the Book of Kells.",
+      "say": "Designs often copied interlaced patterns from the Book of KELZ.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3a302a",
+        "label": "Book of Kells designs",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Bog oak is so dense that one carver compares it to stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Dense",
+        "sub": "Like carving stone",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "In one workshop, fresh bog oak dries for four to six years.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#2a2420",
+        "label": "Dries for years",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Bog oak is still carved today, including in County Longford.",
+      "scene": {
+        "kind": "title",
+        "text": "Longford",
+        "sub": "Still carved today",
+        "color": "#4cc3a8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Bog oak jewelry comes from ancient trees. It is oak that turned black after lying buried in peat. Tannins in the wood react with iron in the acidic bog water. Irish bog oak is commonly around 5,000 years old. In 1821, George IV received a bog oak and gold shamrock box. Irish makers sent bog oak furniture to the 1851 Great Exhibition. Designs often copied interlaced patterns from the Book of Kells. Bog oak is so dense that one carver compares it to stone. In one workshop, fresh bog oak dries for four to six years. Bog oak is still carved today, including in County Longford.",
+    "hashtags": [
+      "#bogoak",
+      "#irishjewelry",
+      "#woodjewelry",
+      "#ireland",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O71678/brooch-unknown/",
+    "https://www.dictionary.com/browse/bog%20oak",
+    "https://instituteofmaking.org.uk/materials-library/library/bog-oak",
+    "https://www.finewoodworking.com/2026/10/19/beauty-in-the-bogs",
+    "https://www.westernpeople.ie/life/bog-oak-timber-from-our-ancient-past_arid-108934.html",
+    "https://dublincastle.ie/?p=6398",
+    "https://www.rct.uk/collection/4036/shamrock-shaped-snuff-box",
+    "https://www.rct.uk/collection/28295/throne-chair",
+    "https://collections.vam.ac.uk/item/O53091",
+    "https://www.iada.ie/?p=2519",
+    "https://collections.nationalmuseumsni.org/object-belum-t970",
+    "https://www.irishtimes.com/life-and-style/people/branching-out-the-woodworkers-breathing-new-life-into-an-old-craft-1.1937599",
+    "https://www.farmersjournal.ie/life/craft/meet-the-maker-irish-bog-oak-sculptor-eamonn-heffernan-801832",
+    "https://thewildgeese.irish/profiles/blogs/inishowen-bogwood-sculptures-some-history-of-bogwood",
+    "https://longford.ie/en/visit/see-and-do/bog-oak-sculptures"
+  ]
+}

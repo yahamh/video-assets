@@ -1,0 +1,149 @@
+{
+  "id": "292-a-radiant-diamond-looks-like-crushed-ice",
+  "number": 292,
+  "title": "A radiant diamond looks like crushed ice",
+  "topic": "radiant cut diamond crushed ice henry grossbard late 1970s emerald cut out of style sparkle eight sides corners cut off chipping princess cut durable step facets brilliant facets flash twinkle patent expired copied original radiant cut",
+  "style": "paper",
+  "plate": "Radiant",
+  "theme": "watercolor",
+  "music": "music-292.wav",
+  "hook": {
+    "text": "A radiant diamond looks like crushed ice.",
+    "gold": [
+      "radiant",
+      "ice."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A radiant diamond looks like crushed ice.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#e8f0f8",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Master cutter Henry Grossbard created the radiant cut in the late 1970s.",
+      "say": "Master cutter Henry GROSS-bard created the radiant cut in the late nineteen seventies.",
+      "scene": {
+        "kind": "title",
+        "text": "Henry",
+        "sub": "Grossbard, late 1970s",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Emerald cuts had gone out of style, so he added sparkle.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#dfe6ee",
+        "label": "Sparkle added",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Its outline has eight sides, with the four corners cut off.",
+      "scene": {
+        "kind": "title",
+        "text": "8 sides",
+        "sub": "Corners cut off",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Those trimmed corners help protect it from chipping.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8eef5",
+        "label": "Resists chipping",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Unlike a princess cut, its trimmed corners make it more durable.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "platinum",
+        "shape": "cushion",
+        "tone": "#eef2f8",
+        "label": "More durable",
+        "velvet": "#c8dc3c"
+      }
+    },
+    {
+      "text": "An emerald cut has long step facets, a radiant has brilliant ones.",
+      "scene": {
+        "kind": "title",
+        "text": "Facets",
+        "sub": "Step versus brilliant",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Mixed facets give some areas a flash and others a soft twinkle.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#f4f6fa",
+        "label": "Flash and twinkle",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "After its patent expired, other cutters copied the style.",
+      "scene": {
+        "kind": "title",
+        "text": "Patent",
+        "sub": "Expired, then copied",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "The original is branded The Original Radiant Cut.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#eef2f8",
+        "label": "Original Radiant Cut",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A radiant diamond looks like crushed ice. Master cutter Henry Grossbard created the radiant cut in the late 1970s. Emerald cuts had gone out of style, so he added sparkle. Its outline has eight sides, with the four corners cut off. Those trimmed corners help protect it from chipping. Unlike a princess cut, its trimmed corners make it more durable. An emerald cut has long step facets, a radiant has brilliant ones. Mixed facets give some areas a flash and others a soft twinkle. After its patent expired, other cutters copied the style. The original is branded The Original Radiant Cut.",
+    "hashtags": [
+      "#radiantcut",
+      "#diamonds",
+      "#diamondcuts",
+      "#engagementrings",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/select-radiant-cut-diamond-2/",
+    "https://jckonline.com/?p=36532",
+    "https://patents.google.com/patent/US4020649A/en",
+    "https://isb.idaho.gov/?p=30183",
+    "https://files.whiteflash.com/diamond-education/diamond-shapes/radiant-cut/",
+    "https://www.diamondpriceguru.com/?p=4990",
+    "https://patents.google.com/patent/US4118950A/en",
+    "https://4cs.gia.edu/en-us/blog/about-diamond-shape/",
+    "https://www.gabrielny.com/blog/what-is-a-radiant-cut-diamond/",
+    "https://www.royalcoster.com/blog/the-radiant-cut-diamond",
+    "https://www.brilliance.com/diamonds/what-is-a-radiant-diamond"
+  ]
+}

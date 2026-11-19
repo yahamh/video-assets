@@ -1,0 +1,144 @@
+{
+  "id": "287-sphene-is-named-for-a-wedge",
+  "number": 287,
+  "title": "Sphene is named for a wedge",
+  "topic": "sphene titanite greek wedge flat wedge shaped crystals twinned hauy 1801 titanium 1982 official name jewelers fire dispersion 0.051 diamond 0.044 three colors trichroic soft mohs 5 chrome sphene chromium",
+  "music": "music-287.wav",
+  "hook": {
+    "text": "Sphene is named for a wedge.",
+    "gold": [
+      "Sphene",
+      "wedge."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sphene is named for a wedge.",
+      "say": "SFEEN is named for a wedge.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#b8d430"
+      }
+    },
+    {
+      "text": "Its crystals often grow as flat wedges, and many are twinned.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#b8d430",
+        "label": "Flat wedge crystals"
+      }
+    },
+    {
+      "text": "French mineralogist Rene Just Hauy chose the name in 1801.",
+      "say": "French mineralogist Rene Just ah-WEE chose the name in eighteen oh one.",
+      "scene": {
+        "kind": "title",
+        "text": "Hauy",
+        "sub": "Named it, 1801"
+      }
+    },
+    {
+      "text": "Its other name, titanite, refers to the titanium it contains.",
+      "say": "Its other name, TY-tuh-nyte, refers to the titanium it contains.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#a8d030",
+        "label": "Named for titanium"
+      }
+    },
+    {
+      "text": "Since 1982, mineralogists officially say titanite, yet jewelers still say sphene.",
+      "say": "Since nineteen eighty two, mineralogists officially say TY-tuh-nyte, yet jewelers still say SFEEN.",
+      "scene": {
+        "kind": "title",
+        "text": "1982",
+        "sub": "Titanite is official"
+      }
+    },
+    {
+      "text": "Fire is how a gem splits white light into colored flashes.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#c8e050",
+        "label": "Fire splits light"
+      }
+    },
+    {
+      "text": "Sphene's fire measures 0.051, while diamond's measures 0.044.",
+      "say": "SFEEN's fire measures zero point oh five one, while diamond's measures zero point oh four four.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d0e040",
+        "label": "0.051 versus 0.044"
+      }
+    },
+    {
+      "text": "Turn a sphene and it shows three different colors.",
+      "say": "Turn a SFEEN and it shows three different colors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#8cc040",
+        "label": "Three colors"
+      }
+    },
+    {
+      "text": "It is soft, only 5 to 5.5 on the Mohs scale.",
+      "say": "It is soft, only five to five and a half on the MOHZ scale.",
+      "scene": {
+        "kind": "title",
+        "text": "5 to 5.5",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "Chrome sphene is the intense green kind, colored by chromium.",
+      "say": "KROHM SFEEN is the intense green kind, colored by KROH-mee-um.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "cushion",
+        "tone": "#3cb860",
+        "label": "Chrome sphene"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Sphene is named for a wedge. Its crystals often grow as flat wedges, and many are twinned. French mineralogist Rene Just Hauy chose the name in 1801. Its other name, titanite, refers to the titanium it contains. Since 1982, mineralogists officially say titanite, yet jewelers still say sphene. Fire is how a gem splits white light into colored flashes. Sphene's fire measures 0.051, while diamond's measures 0.044. Turn a sphene and it shows three different colors. It is soft, only 5 to 5.5 on the Mohs scale. Chrome sphene is the intense green kind, colored by chromium.",
+    "hashtags": [
+      "#sphene",
+      "#titanite",
+      "#gemstones",
+      "#gemfire",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/1911_Encyclop%C3%A6dia_Britannica/Sphene",
+    "https://www.edelsteine.at/en/glossaries/lexicon/sphene-titanite/",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002869",
+    "https://cameo.mfa.org/wiki/Sphene",
+    "https://www.handbookofmineralogy.org/pdfs/titanite.pdf",
+    "https://www.gemselect.com/gem-info/sphene/sphene-info.php",
+    "https://geology.com/minerals/titanite.shtml",
+    "https://www.gemguide.com/sphene-a-mineral-emanates-fire-with-two-names/",
+    "https://www.gemdat.org/gem-3977.html",
+    "https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.66%3A_Sphene"
+  ]
+}

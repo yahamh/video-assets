@@ -1,0 +1,165 @@
+{
+  "id": "286-galalith-jewelry-is-made-from-milk",
+  "number": 286,
+  "title": "Galalith jewelry is made from milk",
+  "topic": "galalith milk stone greek gala lithos casein protein formaldehyde hardened sheets soaked year wilhelm krische hanover 1890s school board slate failed colored ivory horn not molded cut carved art deco costume jewelry 1920s 1930s celluloid nonflammable buttons still made",
+  "style": "paper",
+  "plate": "Galalith",
+  "theme": "mint",
+  "music": "music-286.wav",
+  "hook": {
+    "text": "Galalith jewelry is made from milk.",
+    "gold": [
+      "Galalith",
+      "milk."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Galalith jewelry is made from milk.",
+      "say": "GAL-uh-lith jewelry is made from milk.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#f3ead0",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "The name comes from Greek words for milk and stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Milk",
+        "sub": "Plus stone, in Greek",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It is a plastic made from casein, the main protein in milk.",
+      "say": "It is a plastic made from KAY-seen, the main protein in milk.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f6f0e0",
+        "label": "Casein, milk protein",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Sheets an inch thick soaked in formaldehyde for up to a year.",
+      "say": "Sheets an inch thick soaked in for-MAL-duh-hide for up to a year.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8dcc0",
+        "label": "Soaked up to a year",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "In the 1890s, Wilhelm Krische sought a wipe clean replacement for slate.",
+      "say": "In the eighteen nineties, Wilhelm KRISH-uh sought a wipe clean replacement for slate.",
+      "scene": {
+        "kind": "title",
+        "text": "Krische",
+        "sub": "Hanover, 1890s",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "It failed as a board yet proved useful for many other things.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#c8c0b0",
+        "label": "Failed as a board",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Makers colored it to look like ivory or horn.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e7d5a8",
+        "label": "Looks like ivory",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It could not be molded, so makers cut and carved it.",
+      "scene": {
+        "kind": "title",
+        "text": "Cut",
+        "sub": "Never molded",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Costume jewelry designers loved it in the 1920s and 1930s.",
+      "say": "Costume jewelry designers loved it in the nineteen twenties and nineteen thirties.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#f0e6c8",
+        "label": "Art Deco galalith",
+        "velvet": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Unlike celluloid, it was virtually nonflammable.",
+      "say": "Unlike SEL-yuh-loid, it was virtually nonflammable.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#f6f0e0",
+        "label": "Nonflammable",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Galalith is still made today, mostly for buttons.",
+      "say": "GAL-uh-lith is still made today, mostly for buttons.",
+      "scene": {
+        "kind": "title",
+        "text": "Buttons",
+        "sub": "Still made today",
+        "color": "#f7c23a"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Galalith jewelry is made from milk. The name comes from Greek words for milk and stone. It is a plastic made from casein, the main protein in milk. Sheets an inch thick soaked in formaldehyde for up to a year. In the 1890s, Wilhelm Krische sought a wipe clean replacement for slate. It failed as a board yet proved useful for many other things. Makers colored it to look like ivory or horn. It could not be molded, so makers cut and carved it. Costume jewelry designers loved it in the 1920s and 1930s. Unlike celluloid, it was virtually nonflammable. Galalith is still made today, mostly for buttons.",
+    "hashtags": [
+      "#galalith",
+      "#artdeco",
+      "#vintagejewelry",
+      "#plastic",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.ganoksin.com/article/galalith-jewelry-milk-stone/",
+    "https://cameo.mfa.org/wiki/Casein_plastic",
+    "https://en.wikipedia.org/wiki/Galalith",
+    "https://www.austbuttonhistory.com/?p=12876",
+    "https://gsia.org.uk/sites/reprints/1999/gi199944.pdf",
+    "https://www.decolish.com/Casein.html",
+    "https://www.britannica.com/science/Bakelite",
+    "https://navettejewellery.org/2023/08/16/plastics-in-antique-jewellery-natural-semi-synthetic-and-synthetic-part-iii-semi-synthetic-celluloid-and-casein/",
+    "https://www.causeafrockus.com/?p=5352",
+    "https://plastic-en.tool.cultureelerfgoed.nl/plastics/detail/CF"
+  ]
+}

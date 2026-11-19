@@ -1,0 +1,147 @@
+{
+  "id": "285-amazonites-namesake-river-has-no-amazonite",
+  "number": 285,
+  "title": "Amazonite's namesake river has no amazonite",
+  "topic": "amazonite amazon river no deposits brazil minas gerais blue green lead water feldspar copper guess heat radiation restore egyptian beads amulets tiny ilmen urals crystal peak colorado smoky quartz virginia morefield",
+  "style": "lowpoly",
+  "music": "music-285.wav",
+  "hook": {
+    "text": "Amazonite's namesake river has no amazonite.",
+    "gold": [
+      "Amazonite's",
+      "amazonite."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Amazonite's namesake river has no amazonite.",
+      "say": "AM-uh-zuh-nyte's namesake river has no AM-uh-zuh-nyte.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#5fc2b0"
+      }
+    },
+    {
+      "text": "Brazil does mine amazonite, in states such as Minas Gerais.",
+      "say": "Brazil does mine AM-uh-zuh-nyte, in states such as MEE-nus zheh-RYSE.",
+      "scene": {
+        "kind": "title",
+        "text": "Brazil",
+        "sub": "Minas Gerais"
+      }
+    },
+    {
+      "text": "Its blue green color mainly comes from lead and water in feldspar.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#5fc2b0",
+        "label": "Lead and water"
+      }
+    },
+    {
+      "text": "For years, people guessed that copper made it green.",
+      "scene": {
+        "kind": "title",
+        "text": "Copper",
+        "sub": "A wrong guess"
+      }
+    },
+    {
+      "text": "Heat strips the color, yet radiation can restore it after mild heating.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#e8d9b8",
+        "label": "Heat strips color"
+      }
+    },
+    {
+      "text": "Egyptians made amazonite beads and amulets over 3,000 years ago.",
+      "say": "Egyptians made AM-uh-zuh-nyte beads and amulets over three thousand years ago.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#5fc2b0",
+        "label": "Egyptian beads"
+      }
+    },
+    {
+      "text": "Carvers made tiny amazonite amulets, some under two centimeters across.",
+      "say": "Carvers made tiny AM-uh-zuh-nyte amulets, some under two centimeters across.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#4fb0a0",
+        "label": "A tiny amulet"
+      }
+    },
+    {
+      "text": "Russia's Ilmen Mountains in the southern Urals are a historic source.",
+      "say": "Russia's Ill-men Mountains in the southern YOOR-ulz are a historic source.",
+      "scene": {
+        "kind": "title",
+        "text": "Ilmen",
+        "sub": "Southern Urals"
+      }
+    },
+    {
+      "text": "Colorado's Crystal Peak area grows blue amazonite beside black smoky quartz.",
+      "say": "Colorado's Crystal Peak area grows blue AM-uh-zuh-nyte beside black smoky quartz.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#4fb0c8",
+        "label": "With smoky quartz"
+      }
+    },
+    {
+      "text": "Virginia's Morefield Mine is considered the best American source.",
+      "say": "Virginia's MOR-feeld Mine is considered the best American source.",
+      "scene": {
+        "kind": "title",
+        "text": "Virginia",
+        "sub": "Morefield Mine"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Amazonite's namesake river has no amazonite. Brazil does mine amazonite, in states such as Minas Gerais. Its blue green color mainly comes from lead and water in feldspar. For years, people guessed that copper made it green. Heat strips the color, yet radiation can restore it after mild heating. Egyptians made amazonite beads and amulets over 3,000 years ago. Carvers made tiny amazonite amulets, some under two centimeters across. Russia's Ilmen Mountains in the southern Urals are a historic source. Colorado's Crystal Peak area grows blue amazonite beside black smoky quartz. Virginia's Morefield Mine is considered the best American source.",
+    "hashtags": [
+      "#amazonite",
+      "#gemstones",
+      "#feldspar",
+      "#ancientegypt",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://naturalhistory.si.edu/node/13955",
+    "https://www.oum.ox.ac.uk/corsi/stones/view/704.html",
+    "https://cameo.mfa.org/wiki/Amazonite",
+    "https://gia.edu/gems-gemology/fall-2017-gemnews-impregnated-amazonite",
+    "https://msaweb.org/AmMin/AM70/AM70_794.pdf",
+    "https://en.wikipedia.org/wiki/Amazonite",
+    "https://gemdat.org/gem-184.html",
+    "https://worcester.emuseum.com/objects/30950/string-of-beads-and-amulets",
+    "https://www.mfa.org/collections/object/sun-disc-amulet-146858",
+    "https://art.thewalters.org/object/42.57",
+    "https://coloradogeologicalsurvey.org/geology/gemstones/",
+    "https://en.wikipedia.org/wiki/Mineralogy_of_the_Pikes_Peak_Region",
+    "https://www.energy.virginia.gov/geology/Amazonite.shtml",
+    "https://www.britannica.com/print/article/18797",
+    "https://www.gemsociety.org/article/amazonite"
+  ]
+}

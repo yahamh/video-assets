@@ -1,0 +1,146 @@
+{
+  "id": "288-howlite-is-a-white-stone-dyed-blue",
+  "number": 288,
+  "title": "Howlite is a white stone dyed blue",
+  "topic": "howlite white stone dyed blue porous takes dye turquoise look alike lapis coral turquenite white turquoise henry how 1868 silicoborocalcite cauliflower nodules spiderweb veins california",
+  "style": "lowpoly",
+  "music": "music-288.wav",
+  "hook": {
+    "text": "Howlite is a white stone dyed blue.",
+    "gold": [
+      "Howlite",
+      "blue."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Howlite is a white stone dyed blue.",
+      "say": "HOW-lite is a white stone dyed blue.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#5fc8d8"
+      }
+    },
+    {
+      "text": "It is porous, so it takes dye easily and holds bright color.",
+      "scene": {
+        "kind": "title",
+        "text": "Porous",
+        "sub": "Takes dye easily"
+      }
+    },
+    {
+      "text": "Dyed greenish blue, it is a famous turquoise look alike.",
+      "say": "Dyed greenish blue, it is a famous TUR-koyz look alike.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3ec0c8",
+        "label": "Passes for turquoise"
+      }
+    },
+    {
+      "text": "It is also dyed deep blue like lapis, or red like coral.",
+      "say": "It is also dyed deep blue like LAP-iss, or red like coral.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c8503c",
+        "label": "Red like coral"
+      }
+    },
+    {
+      "text": "Blue dyed howlite is sold under the trade name turquenite.",
+      "say": "Blue dyed HOW-lite is sold under the trade name TUR-kwuh-nite.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "white",
+        "shape": "round",
+        "tone": "#3ec0c8",
+        "label": "Sold as turquenite"
+      }
+    },
+    {
+      "text": "Plain white howlite is sold as white turquoise, which it is not.",
+      "say": "Plain white HOW-lite is sold as white TUR-koyz, which it is not.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f2f2ee",
+        "label": "Called white turquoise"
+      }
+    },
+    {
+      "text": "Howlite honors Henry How, who described it in 1868.",
+      "say": "HOW-lite honors Henry How, who described it in eighteen sixty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "How",
+        "sub": "Henry How, 1868"
+      }
+    },
+    {
+      "text": "His own first name for it was silicoborocalcite.",
+      "say": "His own first name for it was SIL-ih-koh-BOR-oh-KAL-site.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#eeeeee",
+        "label": "Silicoborocalcite"
+      }
+    },
+    {
+      "text": "Its white nodules look like cauliflower heads with spiderweb veins.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e8e8e0",
+        "label": "Cauliflower nodules"
+      }
+    },
+    {
+      "text": "California supplies almost all the howlite on the market.",
+      "say": "California supplies almost all the HOW-lite on the market.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#dcdcd4",
+        "label": "Mostly California"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Howlite is a white stone dyed blue. It is porous, so it takes dye easily and holds bright color. Dyed greenish blue, it is a famous turquoise look alike. It is also dyed deep blue like lapis, or red like coral. Blue dyed howlite is sold under the trade name turquenite. Plain white howlite is sold as white turquoise, which it is not. Howlite honors Henry How, who described it in 1868. His own first name for it was silicoborocalcite. Its white nodules look like cauliflower heads with spiderweb veins. California supplies almost all the howlite on the market.",
+    "hashtags": [
+      "#howlite",
+      "#turquoise",
+      "#gemstones",
+      "#dyedstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.biographi.ca/en/bio/how_henry_10E.html",
+    "https://www.gemstones.com/gemopedia/howlite",
+    "https://gemstones.com/gemopedia/howlite",
+    "https://rruff.info/rruff_1.0/uploads/CM13_370.pdf",
+    "https://www.edelsteine.at/en/glossaries/lexicon/howlite",
+    "https://galleries.com/minerals/silicate/howlite/howlite.htm",
+    "https://www.firemountaingems.com/resources/encyclobeadia/gem-notes/gmstnprprtshwlt",
+    "https://www.gemselect.com/other-info/howlite-gemstones.php",
+    "https://www.minerals.net/mineral/howlite"
+  ]
+}

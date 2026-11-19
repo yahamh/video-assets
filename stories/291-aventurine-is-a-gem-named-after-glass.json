@@ -1,0 +1,145 @@
+{
+  "id": "291-aventurine-is-a-gem-named-after-glass",
+  "number": 291,
+  "title": "Aventurine is a gem named after glass",
+  "topic": "aventurine named after glass venetian murano a ventura by chance legend copper accident pasta stellaria starry paste copper crystals cool slowly miotti family secret aventurescence fuchsite green mica qing dynasty snuff bottles",
+  "style": "lowpoly",
+  "music": "music-291.wav",
+  "hook": {
+    "text": "Aventurine is a gem named after glass.",
+    "gold": [
+      "Aventurine",
+      "glass."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Aventurine is a gem named after glass.",
+      "say": "uh-VEN-chuh-reen is a gem named after glass.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#3fa87a"
+      }
+    },
+    {
+      "text": "Sparkly Venetian glass came first, and the quartz borrowed the name.",
+      "say": "Sparkly veh-NEE-shun glass came first, and the quartz borrowed the name.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#d9a441",
+        "label": "Glass came first"
+      }
+    },
+    {
+      "text": "The name goes back to the Italian a ventura, meaning by chance.",
+      "say": "The name goes back to the Italian ah ven-TOO-rah, meaning by chance.",
+      "scene": {
+        "kind": "title",
+        "text": "A ventura",
+        "sub": "Italian: by chance"
+      }
+    },
+    {
+      "text": "Legend says a Murano glassmaker dropped copper into molten glass by accident.",
+      "say": "Legend says a moo-RAH-no glassmaker dropped copper into molten glass by accident.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#c9743a",
+        "label": "A legend of copper"
+      }
+    },
+    {
+      "text": "Early Venetians called it pasta stellaria, which means starry paste.",
+      "say": "Early Venetians called it PAH-stah stel-LAH-ree-ah, which means starry paste.",
+      "scene": {
+        "kind": "title",
+        "text": "Stellaria",
+        "sub": "Starry paste"
+      }
+    },
+    {
+      "text": "Its glitter is tiny copper crystals that grow as it cools.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#d9a441",
+        "label": "Copper crystals"
+      }
+    },
+    {
+      "text": "The Miotti family of Venice guarded the recipe for generations.",
+      "say": "The mee-OT-tee family of Venice guarded the recipe for generations.",
+      "scene": {
+        "kind": "title",
+        "text": "Miotti",
+        "sub": "A family secret"
+      }
+    },
+    {
+      "text": "The gem's sparkle is called aventurescence, from the same root.",
+      "say": "The gem's sparkle is called uh-VEN-chuh-RES-ents, from the same root.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#3fa87a",
+        "label": "Aventurescence"
+      }
+    },
+    {
+      "text": "Green aventurine owes much of its glitter to fuchsite, a green mica.",
+      "say": "Green uh-VEN-chuh-reen owes much of its glitter to FYOOK-site, a green mica.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#3fa87a",
+        "label": "Green with fuchsite"
+      }
+    },
+    {
+      "text": "Qing dynasty workshops in China made snuff bottles from aventurine glass.",
+      "say": "CHING dynasty workshops in China made snuff bottles from aventurine glass.",
+      "scene": {
+        "kind": "title",
+        "text": "Qing",
+        "sub": "Snuff bottles, China"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Aventurine is a gem named after glass. Sparkly Venetian glass came first, and the quartz borrowed the name. The name goes back to the Italian a ventura, meaning by chance. Legend says a Murano glassmaker dropped copper into molten glass by accident. Early Venetians called it pasta stellaria, which means starry paste. Its glitter is tiny copper crystals that grow as it cools. The Miotti family of Venice guarded the recipe for generations. The gem's sparkle is called aventurescence, from the same root. Green aventurine owes much of its glitter to fuchsite, a green mica. Qing dynasty workshops in China made snuff bottles from aventurine glass.",
+    "hashtags": [
+      "#aventurine",
+      "#goldstone",
+      "#muranoglass",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.tib-op.org/ojs/index.php/glass-europe/article/download/2629/2768",
+    "https://www.epigem.de/en-us/topics/aventurine.html",
+    "https://sites.courtauld.ac.uk/illuminating-objects/?p=441",
+    "https://en.wiktionary.org/wiki/aventurine",
+    "https://sites.courtauld.ac.uk/illuminating-objects/illuminating-objects-home/venetian-chalcedony-adventurine-glass-bowl/",
+    "https://geo.libretexts.org/Bookshelves/Geology/Gemology/16%3A_Gemstones/16.38%3A_Goldstone",
+    "https://geology.com/gemstones/goldstone",
+    "https://geology.com/gemstones/aventurine",
+    "https://www.gemstones.com/gemopedia/aventurine-quartz",
+    "https://www.metmuseum.org/art/collection/search/41517",
+    "https://glasscollection.cmog.org/objects/23757/snuff-bottle"
+  ]
+}
