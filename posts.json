@@ -2652,7 +2652,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4727942764109168",
+      "instagram": "https://www.instagram.com/reel/Df6-nNHjp7Y/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709843636606831893"
+    }
   },
   "167-this-famous-pearl-is-just-two-brushstrokes": {
     "at": "2026-11-19T13:00:00Z",
@@ -2990,7 +2996,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1120750960751366",
+      "instagram": "https://www.instagram.com/reel/Df6m1lMlEtB/",
+      "youtube": "https://www.youtube.com/watch?v=uiR4x5CyhKg"
+    }
   },
   "193-oregon-sunstones-colors-come-from-copper-specks": {
     "at": "2026-11-19T09:30:00Z",
@@ -2999,7 +3011,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1859534631990128",
+      "instagram": "https://www.instagram.com/reel/Df6w9YBG3hn/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709812860158823688"
+    }
   },
   "194-warriors-once-decorated-shields-with-red-coral": {
     "at": "2026-11-19T10:30:00Z",
@@ -3008,7 +3026,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1693802335792770",
+      "instagram": "https://www.instagram.com/reel/Df63xVjnDBX/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7709828249051778324"
+    }
   },
   "195-colored-titanium-works-like-a-soap-bubble": {
     "at": "2026-11-19T15:00:00Z",
@@ -3236,7 +3260,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1669369701202184",
+      "instagram": "https://www.instagram.com/reel/Df6qJSeFLzO/"
+    }
   },
   "213-romans-wore-their-keys-as-rings": {
     "at": "2026-11-19T09:00:00Z",
@@ -3244,7 +3273,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1125866400186742",
+      "instagram": "https://www.instagram.com/reel/Df6thmQgmkY/"
+    }
   },
   "214-west-point-ring-gold-flew-to-space": {
     "at": "2026-11-19T10:00:00Z",
@@ -3253,7 +3287,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1506998431489954",
+      "instagram": "https://www.instagram.com/reel/Df60fdfDezz/",
+      "youtube": "https://www.youtube.com/watch?v=0ZaRGG5fYvw"
+    }
   },
   "215-the-safety-pin-began-as-jewelry": {
     "at": "2026-11-19T22:00:00Z",
@@ -3498,7 +3538,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1839620833911615",
+      "instagram": "https://www.instagram.com/reel/Df67N2_CuHR/"
+    }
   },
   "240-a-roman-cup-glows-red-when-backlit": {
     "at": "2026-11-19T12:00:00Z",
@@ -3775,6 +3820,72 @@
     "platforms": [
       "instagram",
       "tiktok"
+    ]
+  },
+  "275-tungsten-means-heavy-stone-in-swedish": {
+    "at": "2026-11-20T18:30:00Z",
+    "zernio_id": "6afee837599cd7ed411d70cc",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "276-electrum-shares-its-name-with-electricity": {
+    "at": "2026-11-20T19:00:00Z",
+    "zernio_id": "6afee83d8ff42110c77c3290",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "277-iridium-is-named-after-a-rainbow-goddess": {
+    "at": "2026-11-20T20:00:00Z",
+    "zernio_id": "6afee845599cd7ed411d7113",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "278-tigers-eye-hides-blue-fibers": {
+    "at": "2026-11-20T20:30:00Z",
+    "zernio_id": "6afee84e8ff42110c77c32e2",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "279-apatites-name-means-to-deceive": {
+    "at": "2026-11-20T21:30:00Z",
+    "zernio_id": "6afee854d77d2295d051cb63",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "280-tumbaga-is-copper-dressed-as-gold": {
+    "at": "2026-11-20T22:30:00Z",
+    "zernio_id": "6afee85d599cd7ed411d716f",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "281-black-hematite-leaves-a-red-streak": {
+    "at": "2026-11-20T23:30:00Z",
+    "zernio_id": "6afee86c34db1b676523eddc",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "282-hiddenite-honors-a-man-named-hidden": {
+    "at": "2026-11-21T00:30:00Z",
+    "zernio_id": "6afee87265cbaa96c23e2600",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "283-evil-eye-beads-have-their-own-village": {
+    "at": "2026-11-21T01:00:00Z",
+    "zernio_id": "6afee885cb4478dad46996d2",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
