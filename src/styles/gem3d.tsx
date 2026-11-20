@@ -60,7 +60,7 @@ export function outlineAt(cut: Cut, t: number): [number, number] {
       return [Math.sign(c) * Math.pow(Math.abs(c), 2 / p), 0.97 * Math.sign(s) * Math.pow(Math.abs(s), 2 / p)];
     }
     case "pear":
-      return [1.3 * Math.sin(t) * Math.cos(t / 2), -1.5 * Math.cos(t)];
+      return [1.3 * Math.sin(t) * Math.abs(Math.cos(t / 2)), -1.5 * Math.cos(t)];
     case "marquise":
       return [Math.sin(t) * Math.abs(Math.sin(t)), 1.75 * Math.cos(t)];
     case "heart":
@@ -289,10 +289,10 @@ function gemNodes(faces: Face[], xf: Xf, stops: RGB[], st: GemStyle, uid: string
 // ---------------------------------------------------------------------------------------------------------------------
 // The shank: a band with a slight taper, soft edges, and shoulders that rise toward the head.
 // ---------------------------------------------------------------------------------------------------------------------
-function bandFaces(Rin: number, th: number, bw: number, rise: number, seg: number): Face[] {
+function bandFaces(Rin: number, th: number, bw: number, rise: number, seg: number, taper = true): Face[] {
   const faces: Face[] = [];
   const rOut = (a: number) => Rin + th + rise * Math.exp(-Math.pow(a / 0.62, 2));
-  const wAt = (a: number) => bw * (0.62 + 0.38 * ((1 - Math.cos(a)) / 2));
+  const wAt = (a: number) => (taper ? bw * (0.62 + 0.38 * ((1 - Math.cos(a)) / 2)) : bw);
   const vert = (a: number, ax: number, r: number): V3 => [r * Math.sin(a), ax, r * Math.cos(a)];
   const prof = (a: number): [number, number][] => {
     const w = wAt(a) / 2;
@@ -338,6 +338,11 @@ export type PieceSpec = {
   rise?: number;
   hh?: number;
   band?: boolean; // false: the stone alone (with its halo)
+  noGem?: boolean; // no centre stone: a plain band, or an eternity band with stones all around
+  bandTh?: number;
+  bandW?: number;
+  eternity?: { n: number; stops: RGB[]; size?: number }; // stones set all the way around the band
+  petals?: { n: number; cut: Cut; stops: RGB[]; r: number; s: number }; // a flower of stones round the centre (brooch)
 };
 
 const prongPoints = (cut: Cut, count: number): [number, number][] => {
@@ -352,10 +357,10 @@ const prongPoints = (cut: Cut, count: number): [number, number][] => {
 
 export function ringBottom(spec: PieceSpec, yaw: number, elev: number, oy: number, k: number): number {
   const rr = spec.rr ?? 1.85;
-  const ro = rr + BAND_TH;
+  const ro = rr + (spec.bandTh ?? BAND_TH);
   const A = Math.sin(yaw) * Math.sin(elev);
   const B = Math.cos(elev);
-  return oy + k * (ro * Math.sqrt(A * A + B * B) + (BAND_W / 2) * Math.abs(Math.cos(yaw)) * Math.sin(elev));
+  return oy + k * (ro * Math.sqrt(A * A + B * B) + ((spec.bandW ?? BAND_W) / 2) * Math.abs(Math.cos(yaw)) * Math.sin(elev));
 }
 
 // Where the stone's girdle centre sits above the middle of the band, in half widths.
@@ -363,7 +368,7 @@ export function stoneHeight(spec: PieceSpec): number {
   const rr = spec.rr ?? 1.85;
   const rise = spec.rise ?? 0.3;
   const hp = spec.cut === "emerald" ? 0.8 : 0.92;
-  return spec.band === false ? 0 : rr + BAND_TH + rise * 0.55 + (spec.halo ? 0.15 + 0.55 : (spec.hh ?? 0.3) + hp);
+  return spec.band === false ? 0 : rr + (spec.bandTh ?? BAND_TH) + rise * 0.55 + (spec.halo ? 0.15 + 0.55 : (spec.hh ?? 0.3) + hp);
 }
 
 export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: number; oy: number; k: number; t: number; style: PieceStyle; uid: string; seed?: number }> = ({ spec, yaw, elev, ox, oy, k, t, style, uid, seed = 1 }) => {
@@ -372,16 +377,17 @@ export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: n
   const metal = style.metals?.[spec.metal] ?? METALS[spec.metal];
   const mc = (s: number) => rgb(ramp(metal, s));
   const rr = spec.rr ?? 1.85;
-  const th = BAND_TH;
-  const bw = BAND_W;
-  const rise = spec.rise ?? 0.3;
+  const th = spec.bandTh ?? BAND_TH;
+  const bw = spec.bandW ?? BAND_W;
+  const noGem = !!spec.noGem;
+  const rise = spec.rise ?? (noGem ? 0 : 0.3);
   const hh = spec.hh ?? 0.3;
   const hasBand = spec.band !== false;
   const hp = spec.cut === "emerald" ? 0.8 : 0.92;
   const zBase = hasBand ? rr + th + rise * 0.55 : -1.2;
   const zg = hasBand ? (spec.halo ? zBase + 0.15 + 0.55 : zBase + hh + hp) : 0;
   const c = cutCenter(spec.cut);
-  const gemFs = place(gemFaces(spec.cut), [0, 0, zg], [1, 0, 0], [0, 1, 0], [0, 0, 1], 1, !!spec.halo && hasBand);
+  const gemFs = noGem ? [] : place(gemFaces(spec.cut), [0, 0, zg], [1, 0, 0], [0, 1, 0], [0, 0, 1], 1, !!spec.halo && hasBand);
   const gemDepth = depthOf(xf, [c[0], c[1], zg - 0.3]);
   const edgeW = (style.outlineW ?? 0) * (k / 130);
 
@@ -390,7 +396,7 @@ export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: n
   const shoulderBack: { depth: number; node: React.ReactNode }[] = [];
   const shoulderFront: { depth: number; node: React.ReactNode }[] = [];
   if (hasBand) {
-    const fs = bandFaces(rr, th, bw, rise, k < 100 ? 80 : 120);
+    const fs = bandFaces(rr, th, bw, rise, k < 100 ? 80 : 120, !noGem);
     const items: { d: string; depth: number; fill: string }[] = [];
     for (const f of fs) {
       const nW = rotN(xf, f.n);
@@ -427,7 +433,7 @@ export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: n
   const haloFront: { depth: number; node: React.ReactNode }[] = [];
   let cupNode: React.ReactNode = null;
   let tray: React.ReactNode = null;
-  if (spec.halo) {
+  if (spec.halo && !noGem) {
     const dOut = 0.6;
     const hs = 0.23;
     const offPt = (t: number, d: number, z: number): V3 => {
@@ -485,7 +491,7 @@ export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: n
   const prongBack: React.ReactNode[] = [];
   const prongFront: React.ReactNode[] = [];
   const gallery: { back: React.ReactNode[]; front: React.ReactNode[] } = { back: [], front: [] };
-  if (hasBand && !spec.halo && (spec.prongs ?? 4) > 0) {
+  if (hasBand && !noGem && !spec.halo && (spec.prongs ?? 4) > 0) {
     const pts = prongPoints(spec.cut, spec.prongs ?? 4);
     pts.forEach((o, j) => {
       const P = (s: number, z: number): V3 => [c[0] + s * (o[0] - c[0]), c[1] + s * (o[1] - c[1]), z];
@@ -522,6 +528,63 @@ export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: n
     }
   }
 
+  // an eternity band: stones all the way round, those facing us
+  const eternityNodes: { depth: number; node: React.ReactNode }[] = [];
+  if (spec.eternity && hasBand) {
+    const e = spec.eternity;
+    const r = rr + th - 0.01;
+    for (let j = 0; j < e.n; j++) {
+      const a = -Math.PI + ((j + 0.5) / e.n) * TAU;
+      const bz: V3 = [Math.sin(a), 0, Math.cos(a)];
+      if (dot(rotN(xf, bz), cam) < 0.04) continue;
+      const by: V3 = [0, 1, 0];
+      const bx = cross(by, bz);
+      const o: V3 = [r * bz[0], 0, r * bz[2]];
+      const fs2 = place(gemFaces("round"), o, bx, by, bz, e.size ?? bw * 0.46, true);
+      eternityNodes.push({ depth: depthOf(xf, o), node: <g key={`e${j}`}>{gemNodes(fs2, xf, e.stops, { ...style.gem, strokeW: (style.gem.strokeW ?? 0) * 0.35, sparkles: false }, `${uid}e${j}`, seed + j, t)}</g> });
+    }
+    eternityNodes.sort((a2, b2) => a2.depth - b2.depth);
+  }
+  // a flower of stones with a plate under it (a brooch)
+  const petalBack: { depth: number; node: React.ReactNode }[] = [];
+  const petalFront: { depth: number; node: React.ReactNode }[] = [];
+  let plateNode: React.ReactNode = null;
+  if (spec.petals) {
+    const pt = spec.petals;
+    const z0 = zg - 0.04;
+    const Rp = pt.r + pt.s * 1.35;
+    const circ = (R: number, z: number) => Array.from({ length: 48 }, (_, i) => proj(xf, [R * Math.cos((i / 48) * TAU), R * Math.sin((i / 48) * TAU), z]));
+    const topC = circ(Rp, z0 - 0.02);
+    const wallItems: { d: string; depth: number; fill: string }[] = [];
+    const lowC = circ(Rp, z0 - 0.26);
+    for (let i = 0; i < 48; i++) {
+      const a = ((i + 0.5) / 48) * TAU;
+      const nW = rotN(xf, [Math.cos(a), Math.sin(a), 0]);
+      if (dot(nW, cam) <= 0.001) continue;
+      const q = [topC[i], topC[(i + 1) % 48], lowC[(i + 1) % 48], lowC[i]];
+      wallItems.push({ d: pathOf(q), depth: (topC[i][2] + lowC[i][2]) / 2, fill: mc(metalTone(nW, cam, style.metalLevels)) });
+    }
+    wallItems.sort((a2, b2) => a2.depth - b2.depth);
+    plateNode = (
+      <g>
+        {style.outline && <path d={pathOf(topC)} fill={style.outline} stroke={style.outline} strokeWidth={edgeW * 1.5} strokeLinejoin="round" />}
+        {wallItems.map((q, i) => <path key={i} d={q.d} fill={q.fill} stroke={q.fill} strokeWidth={0.7} />)}
+        <path d={pathOf(topC)} fill={mc(0.66)} />
+        <path d={pathOf(circ(Rp - 0.05, z0 - 0.02))} fill="none" stroke={mc(0.95)} strokeWidth={2.2} opacity={0.7} />
+      </g>
+    );
+    for (let i = 0; i < pt.n; i++) {
+      const a = (i / pt.n) * TAU + 0.3;
+      const out: V3 = [Math.cos(a), Math.sin(a), 0];
+      const org: V3 = [pt.r * out[0], pt.r * out[1], z0];
+      const fs2 = place(gemFaces(pt.cut), org, [-out[1], out[0], 0], out, [0, 0, 1], pt.s, true);
+      const node = <g key={`pt${i}`}>{gemNodes(fs2, xf, pt.stops, { ...style.gem, sparkles: false }, `${uid}p${i}`, seed + i * 2, t)}</g>;
+      (depthOf(xf, org) < gemDepth ? petalBack : petalFront).push({ depth: depthOf(xf, org), node });
+    }
+    petalBack.sort((a2, b2) => a2.depth - b2.depth);
+    petalFront.sort((a2, b2) => a2.depth - b2.depth);
+  }
+
   haloBack.sort((a, b) => a.depth - b.depth);
   haloFront.sort((a, b) => a.depth - b.depth);
   shoulderBack.sort((a, b) => a.depth - b.depth);
@@ -529,13 +592,17 @@ export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: n
   return (
     <g>
       {bandNodes}
+      {eternityNodes.map((x) => x.node)}
+      {plateNode}
+      {petalBack.map((x) => x.node)}
       {cupNode}
       {tray}
       {shoulderBack.map((s) => s.node)}
       {gallery.back}
       {prongBack}
       {haloBack.map((s) => s.node)}
-      {gemNodes(gemFs, xf, spec.stops, style.gem, `${uid}m`, seed, t)}
+      {noGem ? null : gemNodes(gemFs, xf, spec.stops, style.gem, `${uid}m`, seed, t)}
+      {petalFront.map((x) => x.node)}
       {gallery.front}
       {prongFront}
       {haloFront.map((s) => s.node)}
@@ -543,3 +610,6 @@ export const Piece: React.FC<{ spec: PieceSpec; yaw: number; elev: number; ox: n
     </g>
   );
 };
+
+export { proj, rotN, camVec, depthOf, place, gemNodes, metalTone, pathOf, faceNormal, gemTone, gemColor, quant, unit, cross, dot, cutCenter, TAU, clamp01, env, reflect };
+export type { Xf, Face };

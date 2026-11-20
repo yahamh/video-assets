@@ -110,7 +110,8 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
 }
 ```
 
-- `style` and `theme` (the look): **rotate the looks** (ali, 3 Nov 2026: "rotate, don't use only one style"). Never one
+- `style` and `theme` (the look): **from story 310 the look is set by the number** (`jewelbox`, `deco`, `gouache`
+  in turn, see "The three looks" below; no `theme`, no `plate`). For older stories: **rotate the looks** (ali, 3 Nov 2026: "rotate, don't use only one style"). Never one
   look only, and a story never looks like either of the two stories before it (`check.py` refuses it). The looks:
   - `"style": "paper"`, no theme: the cut-paper look (since story 014: warm cream paper, one big painted shape per scene,
     thin white line work, confetti, small typed captions, the hook in big italic capitals; `src/paper/`).
@@ -178,13 +179,53 @@ cards. `check.py` now enforces what follows from story 310.
   pictures, white-background product shots); "cover" fills the frame around `focus` (portrait pictures and close-ups).
   **The first scene (the hook words cover its top) can be a `real` scene instead of `hook`** (`check.py` allows both),
   and then it should be "cover": a close, striking crop of the subject, like the Hope Diamond filling the frame. The credit line is only needed for `by`. A picture is used in one story only.
-- **Never the same piece twice running.** Pick the piece, cut, color and metal that fit this subject (a Colombian emerald
+- **Never the same piece twice running** (in the three new looks see "The three looks", the `piece` setting;
+  the rule below is the old scenes' version). Pick the piece, cut, color and metal that fit this subject (a Colombian emerald
   is an emerald cut and green, the Cullinan a pear, the Pink Star an oval and pink, a posy ring a plain gold band), and
   never the first picture of either of the three stories before. The same plain gem (shape and color) is allowed twice
   in a story at most. At most 3 text cards (`title`) a story: use a piece (`jewel`), people (`cast`) or a real picture on the
   other lines.
 - The file gets `"images": [ ... ]` next to `sources`; `check.py` refuses a picture without a license class, a Commons or
   Met page, an artist, or (for `by`) the credit in the caption.
+
+## The three looks (from story 310; ali, 20 Nov 2026: "Try all and see which one is the best")
+
+From story 310 the stories take turns in three full-color looks that draw every piece as a real 3D object (cut stones
+with real facets, rings with a band, shoulders, prongs and a halo; `src/styles/gem3d.tsx`, `newlook.tsx`, `looks.tsx`).
+**`check.py` sets the look from the number: `(number - 310) % 3`, 0 is `jewelbox`, 1 is `deco`, 2 is `gouache`.** After a few
+days of real posts the views and retention per look decide which one stays (the Zernio route in the run log).
+
+- `jewelbox`: deep navy, glossy gold and platinum, fire and sparkles in the stones, a mirror floor, gold type.
+- `deco`: a flat poster, bright blue with sunburst rays and a gold double frame, quantized shading, a navy outline.
+- `gouache`: soft painted teal and plum, paper-and-paint texture, serif italics.
+- **Only four scene kinds exist in these looks:** `hook` (the first scene, the hero piece under the hook words), `piece`
+  (a piece, with an optional headline), `title` (a big word and a small line over the piece) and `real` (a photograph,
+  see above). Old scenes (cast, cut, jewel, parcel...) are not drawn in them and `check.py` refuses them. Show people and
+  places with a `real` picture.
+- **Every story has a `piece`** next to `title`: the hero piece, used by every scene that doesn't name its own:
+  `"piece": { "piece": "ring", "stone": "emerald", "cut": "emerald", "metal": "platinum", "halo": 8, "shoulder": 3 }`.
+- **Settings** (in the story's `piece` or in any `piece` / `hook` scene; a scene that names another `piece` starts from
+  that piece alone, only the metal carries over):
+  - `piece`: `ring` (cut stone in prongs; `prongs` 4 or 6, `halo` small stones round it, `halo_stone`, `shoulder`
+    stones on each shoulder), `eternity` (`stones` all round the band), `band` (plain), `bracelet` (`stones`), `necklace`
+    (a pendant on a chain; `cut` pear by default), `strand` (a pearl necklace, `tone`), `pearl` (one pearl with a diamond,
+    `tone`), `earrings` (drops), `brooch` (a flower; `petals`), `egg` (an enameled egg, `tone` any color name), `rough`
+    (an uncut crystal), `stone` (a loose cut stone, turning).
+  - `stone`: sapphire, ruby, emerald, diamond, amethyst, topaz, aquamarine, morganite, citrine, peridot, tanzanite,
+    pink, yellow, blue. `cut`: round, oval, pear, marquise, heart, cushion, emerald (`step`, `baguette`, `asscher` are the
+    same step cut; `radiant`, `princess` the cushion). `metal`: platinum, yellow, rose. `tone` (pearl): white, cream,
+    pink, black, gold.
+  - `yaw` and `elev` turn the piece (radians); left out, it turns slowly by itself. `label` (and `sub`) put a headline
+    over it ("The Sancy", "a pear of 55 carats").
+- **A different piece every story, and inside the story.** Fit the subject (the Hope is a blue cushion, the Cullinan a
+  pear, a posy ring a plain gold `band`, the Great Imperial Crown a `stone` spinel `cushion` or an `egg` for Faberge).
+  The first stone must differ from the previous 3 stories, never three of the same kind of piece in a row, and no
+  more than two lines of a story show the same piece: change `piece`, `stone`, `cut` or `metal` from line to line (a `ring` on
+  the hook, a `stone` on the number line, a `real` picture for the person).
+- **Text cards.** A `title` card is a big word or number and a small line over the piece, 14 letters at most ("12
+  carats", "Eternity", "1477"). Never more than 3 a story.
+- **Look at it in its own look** (`node scripts/stills.mjs`, WRITER-TASK step 6): the hook words at the top must not
+  touch the piece, captions sit lower down, and a piece must not be cut off.
 
 ## Scenes
 

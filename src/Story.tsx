@@ -36,6 +36,9 @@ import { Grid } from "./scenes/Grid";
 import { Steps } from "./scenes/Steps";
 import { Mix } from "./scenes/Mix";
 import { Real } from "./scenes/Real";
+import { Piece } from "./scenes/Piece";
+import { LookId, NewBadge, NewCaptions, NewEnd, NewHook, NewLookCtx, NewOverlay, PieceDef, isNewLook, newLookScene } from "./styles/newlook";
+import { LOOKS } from "./styles/looks";
 import { LpEnd } from "./lp/scenes";
 import { lowPolyScene } from "./lp/registry";
 import { paperScene } from "./paper/registry";
@@ -65,6 +68,7 @@ export const SCENES: Record<string, React.FC<SceneProps>> = {
   steps: Steps,
   mix: Mix,
   real: Real,
+  piece: Piece,
 };
 
 const f = (s: number) => Math.round(s * FPS);
@@ -72,33 +76,47 @@ const PUNCH_S = 0.3;
 
 // One scene. It cuts in hard with a quick zoom settle and a flash, then keeps pushing in slowly.
 // In the paper look the cut is softer: a small settle and a cream flash.
-const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: number; first: boolean; hook: boolean; look: string }> = ({ kind, p, len, first, hook, look }) => {
+const SceneSlot: React.FC<{ kind: string; p: Record<string, unknown>; len: number; first: boolean; hook: boolean; look: string; idx: number; number: number; heroDef: PieceDef }> = ({ kind, p, len, first, hook, look, idx, number, heroDef }) => {
   const t = useCurrentFrame() / FPS;
-  const paper = look === "paper";
+  const nl = isNewLook(look);
+  const paper = look === "paper" || nl;
   const tone = React.useContext(PaperTone);
-  const Scene = (paper && paperScene(kind, p)) || (look === "lowpoly" && lowPolyScene(kind, p)) || SCENES[kind];
+  const Scene = (look === "paper" && paperScene(kind, p)) || (look === "lowpoly" && lowPolyScene(kind, p)) || (nl && newLookScene(kind)) || SCENES[kind];
   if (!Scene) throw new Error(`Unknown scene "${kind}"`);
   const settle = first ? 1 : easeOut(prog(t, 0, PUNCH_S));
   const scale = paper ? (1.05 - 0.05 * settle) * (1 + 0.03 * Math.min(1, t / Math.max(1, len))) : (1.14 - 0.14 * settle) * (1 + 0.06 * Math.min(1, t / Math.max(1, len)));
   const flash = first ? 0 : interpolate(t, [0, 0.12], [paper ? 0.4 : 0.55, 0], clamp);
   return (
-    <AbsoluteFill style={paper ? { background: tone } : undefined}>
-      <AbsoluteFill style={{ transform: `scale(${scale})` }}>
-        <Scene t={t} dur={len} p={p} hook={hook} />
-      </AbsoluteFill>
-      {flash > 0 && <AbsoluteFill style={{ background: paper ? CREAM : "#fff6dd", opacity: flash }} />}
+    <AbsoluteFill style={nl ? { background: LOOKS[look as LookId].base } : look === "paper" ? { background: tone } : undefined}>
+      <NewLookCtx.Provider value={{ look: (nl ? look : "jewelbox") as LookId, idx, number, hero: heroDef }}>
+        <AbsoluteFill style={{ transform: `scale(${scale})` }}>
+          <Scene t={t} dur={len} p={p} hook={hook} />
+        </AbsoluteFill>
+      </NewLookCtx.Provider>
+      {flash > 0 && <AbsoluteFill style={{ background: nl ? "#fff6dd" : paper ? CREAM : "#fff6dd", opacity: nl ? flash * 0.6 : flash }} />}
     </AbsoluteFill>
   );
 };
 
-const CaptionSlot: React.FC<{ text: string; speak: number; len: number; words?: { w: string; a: number; b: number }[]; paper: boolean }> = ({ text, speak, len, words, paper }) => {
+const CaptionSlot: React.FC<{ text: string; speak: number; len: number; words?: { w: string; a: number; b: number }[]; paper: boolean; look: string }> = ({ text, speak, len, words, paper, look }) => {
   const t = useCurrentFrame() / FPS;
+  if (isNewLook(look)) return <NewCaptions look={look} words={timeWords(text, speak, words)} t={t} end={len} />;
   const Caps = paper ? PaperCaptions : Captions;
   return <Caps words={timeWords(text, speak, words)} t={t} end={len} />;
 };
 
-const SceneEnd: React.FC<{ p: Record<string, unknown>; look: string }> = ({ p, look }) => {
+const SceneEnd: React.FC<{ p: Record<string, unknown>; look: string; number: number; heroDef: PieceDef }> = ({ p, look, number, heroDef }) => {
   const t = useCurrentFrame() / FPS;
+  if (isNewLook(look)) {
+    return (
+      <NewLookCtx.Provider value={{ look, idx: 9, number, hero: heroDef }}>
+        <AbsoluteFill>
+          <NewEnd t={t} dur={2} p={p} look={look} />
+          <AbsoluteFill style={{ background: "#fff6dd", opacity: interpolate(t, [0, 0.12], [0.3, 0], clamp) }} />
+        </AbsoluteFill>
+      </NewLookCtx.Provider>
+    );
+  }
   const Card = look === "paper" ? PaperEnd : look === "lowpoly" ? LpEnd : End;
   return (
     <AbsoluteFill>
@@ -121,7 +139,10 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   // where a voice is speaking, for the sounds to duck under (src/mix.ts)
   const spoken = slots.filter((s) => s.line.audio).map((s) => [s.start, s.start + speakSeconds(s.line)] as const);
   const look = story.style ?? "drawn";
+  const nl = isNewLook(look);
+  const heroDef = ((story as unknown as { piece?: PieceDef }).piece ?? {}) as PieceDef;
   const paper = look === "paper";
+  const bright = paper || nl;
   const theme = paper ? story.theme ?? "cream" : "cream";
   // the paper look trades the dark hits for light ones: a bell for the boom, a pop for an impact or a crack
   const BRIGHT: Record<string, string> = { boom: "bell", impact: "pop", crack: "pop", heartbeat: "pluck", creak: "drip", horn: "bell", steps: "pluck" };
@@ -138,7 +159,7 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
     ...(s.line.sfx ?? []).map((x) => ({ ...x, at: s.start + x.at })),
   ]);
   sounds.push({ at: endStart - 0.06, name: "whoosh", vol: 0.5 }, { at: endStart + 0.1, name: "shimmer", vol: 0.6 });
-  if (paper) {
+  if (bright) {
     sounds.push({ at: endStart + 0.1, name: "bell", vol: 0.6 });
     // a soft pluck as each group of caption words comes up
     slots.forEach((s, i) => {
@@ -151,7 +172,7 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
   const hook = story.hook;
   const hookOut = hook ? slots[0].len : 0;
   if (hook) sounds.push({ at: 0, name: "boom", vol: 0.75 }, { at: 0, name: "shimmer", vol: 0.7 });
-  if (paper) sounds.forEach((x) => (x.name = BRIGHT[x.name] ?? x.name));
+  if (bright) sounds.forEach((x) => (x.name = BRIGHT[x.name] ?? x.name));
   // Which file each sound plays. With the key of the music known (story.tonal), the notes are notes of the chord that is
   // playing: caption plucks walk up and down the chord, bells ring on its root, the shimmer is in the key.
   const tonal = story.tonal;
@@ -174,31 +195,33 @@ export const StoryVideo: React.FC<{ story: Story }> = ({ story }) => {
     });
   // the paper plate header stays from the first frame, like the top of a book's plate
   const Hook = paper ? PaperHook : HookText;
+  const NL = nl ? (look as LookId) : null;
   const badge = Math.min(paper ? 1 : interpolate(t, [hookOut, hookOut + 0.3], [hook ? 0 : 1, 1], clamp), interpolate(t, [endStart - 0.1, endStart], [1, 0], clamp));
 
   return (
     <PaperTone.Provider value={PAPER_TONES[theme] ?? PAPER}>
-    <AbsoluteFill style={{ background: paper ? PAPER_TONES[theme] ?? PAPER : BG }}>
+    <AbsoluteFill style={{ background: NL ? LOOKS[NL].base : paper ? PAPER_TONES[theme] ?? PAPER : BG }}>
       {paper && theme !== "cream" ? <ThemeDefs /> : null}
       <ThemedScenes theme={theme}>
       {slots.map((s, i) => (
         <Sequence key={i} from={f(s.start)} durationInFrames={f(s.len)} layout="none">
-          <SceneSlot kind={s.line.scene.kind} p={s.line.scene} len={s.len} first={i === 0} hook={i === 0 && !!story.hook} look={look} />
+          <SceneSlot kind={s.line.scene.kind} p={s.line.scene} len={s.len} first={i === 0} hook={i === 0 && !!story.hook} look={look} idx={i} number={story.number} heroDef={heroDef} />
         </Sequence>
       ))}
       <Sequence from={f(endStart)} layout="none">
-        <SceneEnd p={story.end ?? {}} look={look} />
+        <SceneEnd p={story.end ?? {}} look={look} number={story.number} heroDef={heroDef} />
       </Sequence>
       </ThemedScenes>
       <ThemedUi theme={theme}>
-      {paper ? <PaperOverlay frame={frame} /> : <Overlay frame={frame} />}
-      {paper ? <PaperBadge number={story.number} plate={story.plate} opacity={badge} /> : <Badge number={story.number} series={story.series} opacity={badge} />}
-      {hook && t < hookOut && (
+      {NL ? <NewOverlay look={NL} frame={frame} /> : paper ? <PaperOverlay frame={frame} /> : <Overlay frame={frame} />}
+      {NL ? <NewBadge look={NL} number={story.number} opacity={badge} /> : paper ? <PaperBadge number={story.number} plate={story.plate} opacity={badge} /> : <Badge number={story.number} series={story.series} opacity={badge} />}
+      {hook && t < hookOut && NL && <NewHook look={NL} text={hook.text} gold={hook.gold ?? []} t={t} out={hookOut} />}
+      {hook && t < hookOut && !NL && (
         <Hook text={hook.text} gold={hook.gold ?? []} t={t} out={hookOut} words={hook.text === slots[0].line.text ? timeWords(hook.text, speakSeconds(slots[0].line), slots[0].line.words) : undefined} />
       )}
       {slots.map((s, i) => (hook && i === 0 ? null :
         <Sequence key={`c${i}`} from={f(s.start)} durationInFrames={f(s.len)} layout="none">
-          <CaptionSlot text={s.line.text} speak={speakSeconds(s.line)} len={s.len} words={s.line.words} paper={paper} />
+          <CaptionSlot text={s.line.text} speak={speakSeconds(s.line)} len={s.len} words={s.line.words} paper={paper} look={look} />
         </Sequence>
       ))}
       </ThemedUi>

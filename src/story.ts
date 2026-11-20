@@ -21,8 +21,9 @@ export type Story = {
   series?: string; // "lesson" for the render lessons (lessons/), left out for the jewelry stories
   number: number;
   title: string;
-  style?: string; // "paper" (src/paper, ali 30 Oct 2026, every story from 014 on), "lowpoly" (src/lp, 007 to 013); left out, the drawn look
+  style?: string; // "paper" (src/paper, ali 30 Oct 2026, every story from 014 on), "lowpoly" (src/lp, 007 to 013); left out, the drawn look; "jewelbox", "deco" or "gouache" from story 310
   theme?: string; // paper look only (src/paper/themes.tsx, ali 3 Nov 2026): cream (the default), midnight, blueprint, riso, oldprint, sunset or watercolor
+  piece?: Record<string, unknown>; // the three new looks (jewelbox, deco, gouache; stories 310 on): the story's hero piece (src/styles/newlook.tsx, PieceDef)
   plate?: string; // paper look: the story's name in italics under the plate header ("Crater of Diamonds")
   lines: Line[];
   music?: string;

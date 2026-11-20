@@ -24,11 +24,10 @@ follow it exactly; for lessons, read WRITING-LESSONS.md too.
    `sources`. If a fact can't be confirmed twice, leave it out or pick another story.
    Then find a real picture of the subject (WRITING.md, "Pieces and pictures": the `images-tmp` job, license check, a `real`
    scene, credit) and give the story a piece and stone that fit it, different from the three stories before.
-4. Pick each story's look (WRITING.md, "style and theme": rotate, never the same as either of the two stories before
-   it; just rotate (the 20 Nov review found no real difference between looks on Instagram);
-   never a one-ink theme) and set `"style"`, `"theme"` where it has one, a `"plate"` (the
-   story's name in italics under the plate header, for the paper look; the other looks leave it out) and
-   `"music": "music-NNN.wav"`. The workflow makes the music itself (from the story number), so never commit it; to hear
+4. The look is set by the number (WRITING.md, "The three looks": from story 310 `(number - 310) % 3`, 0 `jewelbox`, 1
+   `deco`, 2 `gouache`, ali's "try all and see which one is the best", 20 Nov); set `"style"` to it, give the story a `"piece"` (its
+   hero: piece, stone, cut, metal; different from the 3 stories before) and draw every line with the four scenes those
+   looks have (`hook`, `piece`, `title`, `real`; no `theme`, no `plate`), plus `"music": "music-NNN.wav"`. The workflow makes the music itself (from the story number), so never commit it; to hear
    or render it here, `python3 scripts/music.py public/music-NNN.wav 45 NNN bright`.
 5. Run `python3 scripts/check.py stories/*.json lessons/*.json` and fix everything it reports.
 6. Look at it: `npm ci` once, then `node scripts/stills.mjs stories/NNN-x.json /tmp/stills 2.5 9.1 ...` for stills of the busiest lines, and

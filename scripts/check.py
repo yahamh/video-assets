@@ -20,6 +20,16 @@ IMG = ROOT / "public" / "img"
 # ali, 20 Nov 2026: "completely different pieces and changes every video, you can even include images from online of the
 # subjects". From this story on every story shows its real subject and varies its hero stone (WRITING.md, "Pieces and pictures").
 REAL_FROM = 310
+# ali, 20 Nov 2026 ("Try all and see which one is the best"): from story 310 the three new looks take turns, one per story,
+# and every story draws its own properly built piece in 3D (src/styles/newlook.tsx, gem3d.tsx; WRITING.md, "The three looks").
+NEWLOOK_FROM = 310
+NEW_LOOKS = ["jewelbox", "deco", "gouache"]
+NEW_KINDS = {"hook", "piece", "title", "real"}
+PIECES = {"ring", "eternity", "band", "bracelet", "necklace", "strand", "pearl", "earrings", "brooch", "egg", "rough", "stone"}
+STONE_NAMES = {"sapphire", "ruby", "emerald", "diamond", "amethyst", "topaz", "aquamarine", "morganite", "citrine", "peridot", "tanzanite", "pink", "yellow", "blue"}
+CUT_NAMES = {"round", "oval", "pear", "marquise", "heart", "cushion", "emerald", "step", "baguette", "asscher", "radiant", "princess", "square"}
+METAL_NAMES = {"platinum", "yellow", "rose"}
+PIECE_NUM = {"halo", "prongs", "shoulder", "petals", "stones"}
 IMG_OK = {"pd": "public domain, CC0 or the Met's Open Access", "by": "CC BY, with the credit on screen and in the caption"}  # CC BY-SA never without ali's word
 IMG_HOSTS = ("https://commons.wikimedia.org/", "https://www.metmuseum.org/")
 # Words and phrases that make a story sound machine-written (WRITING.md, "How it should sound").
@@ -117,6 +127,91 @@ def hero(s):
     return None
 
 
+def piece_problems(d, where):
+    """What is wrong with one piece definition (the story's own `piece`, or a piece scene's own settings)."""
+    out = []
+    if d.get("piece") is not None and d["piece"] not in PIECES:
+        out.append(f"{where}: piece {d['piece']!r} isn't one of {', '.join(sorted(PIECES))}")
+    if d.get("stone") is not None and str(d["stone"]).lower() not in STONE_NAMES:
+        out.append(f"{where}: stone {d['stone']!r} isn't one of {', '.join(sorted(STONE_NAMES))}")
+    if d.get("halo_stone") is not None and str(d["halo_stone"]).lower() not in STONE_NAMES:
+        out.append(f"{where}: halo_stone {d['halo_stone']!r} isn't one of {', '.join(sorted(STONE_NAMES))}")
+    if d.get("cut") is not None and str(d["cut"]).lower() not in CUT_NAMES:
+        out.append(f"{where}: cut {d['cut']!r} isn't one of {', '.join(sorted(CUT_NAMES))}")
+    if d.get("metal") is not None and d["metal"] not in METAL_NAMES:
+        out.append(f"{where}: metal {d['metal']!r} isn't one of {', '.join(sorted(METAL_NAMES))}")
+    for k in PIECE_NUM:
+        top = 60 if k == "stones" else 24
+        if d.get(k) is not None and (not isinstance(d[k], int) or isinstance(d[k], bool) or not 0 <= d[k] <= top):
+            out.append(f"{where}: {k} should be a whole number from 0 to {top}")
+    return out
+
+
+def piece_key(s):
+    """The story's hero: (piece kind, what it is set with: stone or pearl/egg tone, cut, metal), from the story's `piece`
+    plus the first scene that draws a piece with its own settings."""
+    d = dict(s.get("piece") or {})
+    for l in s.get("lines", []):
+        sc = l.get("scene") or {}
+        if sc.get("kind") in ("real", "title"):
+            continue
+        d.update({k: v for k, v in sc.items() if k in ("piece", "stone", "cut", "metal", "tone")})
+        break
+    kind = d.get("piece") or "ring"
+    made = str(d.get("stone") or d.get("tone") or "").lower() or None
+    return (kind, made, str(d.get("cut") or "").lower() or None, d.get("metal"))
+
+
+def newlook_checks(s, say):
+    """The three new looks (jewelbox, deco, gouache): scenes they can draw, the piece, and not the same stone again."""
+    d = s.get("piece")
+    if not isinstance(d, dict) or not d:
+        say('missing "piece": the story\'s hero piece, like {"piece": "ring", "stone": "emerald", "cut": "emerald", "metal": "platinum", "halo": 8}')
+    else:
+        for m in piece_problems(d, "piece"):
+            say(m)
+    for i, l in enumerate(s["lines"], 1):
+        sc = l.get("scene") or {}
+        kind = sc.get("kind")
+        if kind not in NEW_KINDS:
+            say(f"line {i}: scene {kind!r} doesn't exist in the {s.get('style')} look; use {', '.join(sorted(NEW_KINDS))}")
+        if kind in ("piece", "hook"):
+            for m in piece_problems(sc, f"line {i}"):
+                say(m)
+        if kind == "title" and not str(sc.get("text", "")).strip():
+            say(f"line {i}: a title card needs its big word in text")
+        if kind == "title" and len(str(sc.get("text", ""))) > 14:
+            say(f"line {i}: title text is {len(sc['text'])} letters, keep it to 14 or fewer so it fills the frame")
+    pieces = [l for l in s["lines"] if (l.get("scene") or {}).get("kind") in ("piece", "hook")]
+    if not pieces:
+        say("a story in this look needs at least one piece scene")
+    shown = {}
+    for l in pieces:
+        sc = l["scene"]
+        d = dict(s.get("piece") or {})
+        if sc.get("piece") and sc["piece"] != d.get("piece"):
+            d = {"metal": d.get("metal")}
+        d.update({k: v for k, v in sc.items() if k in ("piece", "stone", "cut", "metal", "tone", "halo", "stones", "petals")})
+        key = (d.get("piece") or "ring", str(d.get("stone") or d.get("tone") or "").lower(), str(d.get("cut") or "").lower(), d.get("metal"))
+        shown[key] = shown.get(key, 0) + 1
+    if any(n > 2 for n in shown.values()):
+        say("the same piece (kind, stone, cut and metal) on more than 2 lines: change the piece, stone, cut or metal from line to line, or show a real picture")
+    mine = piece_key(s)
+    prev = []
+    for back in (1, 2, 3):
+        o = all_stories().get(s["number"] - back)
+        if o and o["number"] >= NEWLOOK_FROM and o.get("piece"):
+            prev.append(piece_key(o))
+    for k in prev:
+        if mine[1] and k[1] == mine[1] and mine[0] == k[0]:
+            say(f"the first piece ({mine[0]}, {mine[1]}) is the same as a story just before: pick another stone or another kind of piece")
+            break
+    if mine[1] and mine[0] not in ("pearl", "egg") and any(k[1] == mine[1] and k[0] not in ("pearl", "egg") for k in prev):
+        say(f"the first stone ({mine[1]}) was in one of the 3 stories before this: ali asked for a different stone every video")
+    if len(prev) >= 2 and all(k[0] == mine[0] for k in prev[:2]):
+        say(f"three {mine[0]} stories in a row: pick another kind of piece ({', '.join(sorted(PIECES))})")
+
+
 def real_pictures(path, s, say):
     """The real photographs a story shows (public/img): each one needs its license worked out and its credit shown."""
     imgs = {i.get("src"): i for i in s.get("images") or []}
@@ -178,6 +273,10 @@ def check(path, seen):
             say("stories 001 to 006 are the dark gold line drawing: no style")
         elif 7 <= s["number"] < 14 and s.get("style") != "lowpoly":
             say('style should be "lowpoly" (stories 007 to 013)')
+        elif s["number"] >= NEWLOOK_FROM:
+            want = NEW_LOOKS[(s["number"] - NEWLOOK_FROM) % 3]
+            if s.get("style") != want:
+                say(f'style should be "{want}" (the three new looks take turns from story {NEWLOOK_FROM}: jewelbox, deco, gouache; this is number {s["number"]})')
         elif s["number"] >= 14 and s.get("style") not in (None, "paper", "lowpoly", "drawn"):
             say('style should be "paper", "lowpoly" or "drawn" (the dark gold line drawing)')
         if s.get("theme") is not None and (s.get("style") != "paper" or s["theme"] not in THEMES) and not (s["number"] < ONE_INK_FROM and s["theme"] in ONE_INK):
@@ -190,13 +289,15 @@ def check(path, seen):
             for l in s["lines"]:
                 for what in paper_only(l.get("scene") or {}):
                     say(f"{what} only exists in the paper style: change it or use the paper style for this story")
+    if series == "story" and s["number"] >= NEWLOOK_FROM:
+        newlook_checks(s, say)
     reals = real_pictures(path, s, say) if series == "story" else 0
     if series == "story" and s["number"] >= REAL_FROM:
         if not reals and not s.get("no_real_image"):
             say('no real picture: show the actual subject (a "real" scene from public/img, found with scripts/fetch_images.py), or set "no_real_image" to the reason none is free to use')
         if sum(1 for l in s["lines"] if (l.get("scene") or {}).get("kind") == "title") > 3:
             say("more than 3 text cards: use a piece, a person or a real picture on the other lines")
-        mine = hero(s)
+        mine = hero(s) if s["number"] < NEWLOOK_FROM else None
         for back in (1, 2, 3):
             o = all_stories().get(s["number"] - back)
             if mine and o and mine[0] and mine == hero(o):
