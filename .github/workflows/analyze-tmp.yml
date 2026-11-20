@@ -5,7 +5,7 @@ name: Analyze tmp
 on:
   push:
     branches: [analysis-tmp]
-    paths: [.github/workflows/analyze-tmp.yml, scripts/analyze_tmp.py, scripts/analyze2_tmp.py, analysis-run.txt]
+    paths: [.github/workflows/analyze-tmp.yml, scripts/analyze_tmp.py, scripts/analyze2_tmp.py, scripts/analyze3_tmp.py, analysis-run.txt]
 
 permissions:
   contents: write
@@ -13,19 +13,19 @@ permissions:
 jobs:
   go:
     runs-on: ubuntu-24.04
-    timeout-minutes: 25
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - name: Read Zernio
         env:
           ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
           ZERNIO_API_URL: ${{ secrets.ZERNIO_API_URL }}
-        run: python3 scripts/analyze2_tmp.py
+        run: python3 scripts/analyze3_tmp.py
       - name: Save
         if: always()
         run: |
           git config user.name "Claude"
           git config user.email "noreply@anthropic.com"
-          git add -f analysis2
+          git add -f analysis3
           git commit -q -m "analysis data" || exit 0
           git push -q origin HEAD:analysis-tmp
