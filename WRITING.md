@@ -67,6 +67,22 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
 - Spread them out: famous stones, royal jewels, the makers (Cartier, Faberge, Tiffany, Lalique, Van Cleef), lost and
   found, wedding and engagement customs, pearls and the sea, ancient and buried treasure, science made simple (how a
   pearl forms, why a ruby is red), and what happened on this day.
+- **From 20 Nov 2026 (ali, after the review of 1,057 posts, `revamp/stories/video-analysis-2026-11-20.md`): only
+  these four groups.** Stories about names people already know averaged 1,098 views on Instagram, diamonds 720,
+  everyday jewelry, gold and pearls 578, and minerals, word origins and techniques 369. Since 9 Nov half of what we
+  posted was in the last group, and 45 of the 61 waiting stories are. So every new story is one of:
+  1. a name the viewer already knows: Tiffany, Cartier, Van Cleef, Bulgari, Harry Winston, Faberge, Mikimoto, Diana,
+     Queen Elizabeth, Queen Victoria, Napoleon and Josephine, Elizabeth Taylor, Audrey Hepburn, Grace Kelly, the Crown
+     Jewels, famous stones such as the Hope, the Cullinan, the Tiffany Yellow (the usual rules still apply: bright,
+     no thefts or curses, nothing contested);
+  2. a diamond: a record stone, a grade, a cut, a color, how one is made into a ring;
+  3. an engagement or wedding ring, or a wedding custom;
+  4. gold or pearls: a record, a famous piece, a number everyone can picture.
+  The first three words of the hook name the thing everyone has a picture of (Tiffany, Diana, the Queen, a diamond, a
+  ring, gold, pearls). Test: would a stranger scrolling past know the main noun without being told? If not, pick
+  another. A mineral, a word origin or a technique is allowed only when it hangs on one of the four groups above.
+  At least 4 in 10 stories of a run are group 1. Keep `topic` unique as before: take a new angle on a known name, not
+  the same story again.
 - `topic` names the jewel or event in a few words ("cullinan diamond", "mikimoto cultured pearl"). `check.py` refuses a
   topic that was told before.
 - People in the story are drawn as simple figures in the clothes of their time, never a likeness. Living private

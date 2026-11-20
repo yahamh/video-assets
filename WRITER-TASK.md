@@ -19,7 +19,7 @@ follow it exactly; for lessons, read WRITING-LESSONS.md too.
    `posts.json` has no entry for it, or its `at` is still in the future (posts.json lists every video booked to
    post, three a day). If as many stories are waiting as the target above, stop here.
 2. Otherwise write new stories until the target wait, at most 10 in one run (the stage's times a day; the quality rules don't loosen), numbered after the highest `number` in `stories/`. Pick topics that
-   aren't told yet (every story has a `topic`) and spread them across the kinds listed in WRITING.md.
+   aren't told yet (every story has a `topic`) and spread them across the four groups in WRITING.md ("From 20 Nov 2026": names people know, diamonds, engagement and wedding rings, gold and pearls; at least 4 in 10 are names people know; no more minerals, word origins or techniques on their own).
 3. For each story, search the web and confirm every fact in two sources that don't copy each other; put both links in
    `sources`. If a fact can't be confirmed twice, leave it out or pick another story.
 4. Pick each story's look (WRITING.md, "style and theme": rotate, never the same as either of the two stories before
