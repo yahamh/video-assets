@@ -3510,11 +3510,9 @@
   },
   "227-japans-ama-divers-whistle-when-they-surface": {
     "at": "2026-11-20T19:00:00Z",
-    "zernio_id": "6b001b3745f5c6dd6c3e9f20",
+    "zernio_id": "6b0033d657641a0d82ca2a58",
     "platforms": [
-      "facebook",
-      "instagram",
-      "tiktok"
+      "instagram"
     ]
   },
   "228-filigrees-name-means-thread-and-grain": {
@@ -3539,7 +3537,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1871594750692893",
+      "instagram": "https://www.instagram.com/reel/Df9ZVbmjQFj/",
+      "youtube": "https://www.youtube.com/watch?v=X6T-V-U5wKc"
+    }
   },
   "230-idar-obersteins-cutters-worked-lying-down": {
     "at": "2026-11-20T10:30:00Z",
@@ -3547,7 +3551,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1129133819849172",
+      "instagram": "https://www.instagram.com/reel/Df9cm35iE3C/"
+    }
   },
   "231-rhinestones-are-named-for-the-rhine-river": {
     "at": "2026-11-18T11:00:00Z",
@@ -3766,10 +3775,10 @@
   },
   "249-a-roman-bulla-was-a-gold-bubble": {
     "at": "2026-11-20T22:00:00Z",
-    "zernio_id": "6b001b59a8efab0efbffd2d9",
+    "zernio_id": "6b0033ce57641a0d82ca2a22",
     "platforms": [
-      "instagram",
-      "tiktok"
+      "facebook",
+      "instagram"
     ]
   },
   "250-posy-rings-hid-tiny-poems-inside": {
@@ -3823,9 +3832,8 @@
   },
   "256-a-cairngorm-albert-found-became-victorias-brooch": {
     "at": "2026-11-20T23:00:00Z",
-    "zernio_id": "6b001b669af5912ba53493f9",
+    "zernio_id": "6b0033bb760914d2ad20928c",
     "platforms": [
-      "facebook",
       "instagram",
       "youtube"
     ]
@@ -3872,11 +3880,10 @@
   },
   "262-brooch-comes-from-a-word-for-skewer": {
     "at": "2026-11-20T21:00:00Z",
-    "zernio_id": "6afe37aef7e5737ac6ccb51e",
+    "zernio_id": "6b0033df85ba53ce4f760f8f",
     "platforms": [
       "facebook",
-      "instagram",
-      "tiktok"
+      "instagram"
     ]
   },
   "263-vulcanite-is-rubber-hardened-into-jewelry": {
@@ -3898,11 +3905,10 @@
   },
   "265-bolo-ties-are-official-in-three-states": {
     "at": "2026-11-21T00:00:00Z",
-    "zernio_id": "6afe37c79bf0750ffefb7227",
+    "zernio_id": "6b0033e785ba53ce4f760fda",
     "platforms": [
       "facebook",
-      "instagram",
-      "tiktok"
+      "instagram"
     ]
   },
   "266-some-stickpins-were-topped-with-gold-nuggets": {
@@ -4058,7 +4064,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2677834079330094",
+      "instagram": "https://www.instagram.com/reel/Df9f_K_kpRf/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710207023241186566"
+    }
   },
   "282-hiddenite-honors-a-man-named-hidden": {
     "at": "2026-11-20T12:30:00Z",
@@ -4170,9 +4182,8 @@
   },
   "295-a-puzzle-ring-falls-apart-when-removed": {
     "at": "2026-11-20T21:30:00Z",
-    "zernio_id": "6b001b4e946eed2aadf8d7ea",
+    "zernio_id": "6b0033c5760914d2ad2092ab",
     "platforms": [
-      "facebook",
       "instagram"
     ]
   },
@@ -4276,11 +4287,10 @@
   },
   "308-rutilated-quartzs-golden-needles-arent-gold": {
     "at": "2026-11-21T17:30:00Z",
-    "zernio_id": "6affd8879ff28736d49cc584",
+    "zernio_id": "6b0033ed760914d2ad2093ae",
     "platforms": [
       "facebook",
-      "instagram",
-      "tiktok"
+      "instagram"
     ]
   },
   "309-sea-glass-takes-decades-to-frost": {
@@ -4290,6 +4300,78 @@
       "facebook",
       "instagram",
       "youtube"
+    ]
+  },
+  "310-a-diamond-with-two-fronts": {
+    "at": "2026-11-21T18:30:00Z",
+    "zernio_id": "6b0033f30f5e2ce78f504500",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "311-the-pink-diamond-france-kept": {
+    "at": "2026-11-21T19:00:00Z",
+    "zernio_id": "6b0033f657641a0d82ca2ae8",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "312-napoleon-s-emerald-diadem-now-holds-turquoise": {
+    "at": "2026-11-21T19:30:00Z",
+    "zernio_id": "6b0033fb85ba53ce4f761037",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "313-sisi-braided-27-diamond-stars": {
+    "at": "2026-11-21T20:00:00Z",
+    "zernio_id": "6b0034000f5e2ce78f504532",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "314-queen-elizabeth-called-them-granny-s-chips": {
+    "at": "2026-11-21T20:30:00Z",
+    "zernio_id": "6b0034030655b9b2793d64be",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "315-catherine-the-great-s-ruby-is-a-spinel": {
+    "at": "2026-11-21T21:00:00Z",
+    "zernio_id": "6b003407b346330e23bac2b3",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "316-a-whole-palace-inside-an-egg": {
+    "at": "2026-11-21T21:30:00Z",
+    "zernio_id": "6b00340b85ba53ce4f761099",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "317-a-roman-handshake-became-a-ring": {
+    "at": "2026-11-21T22:00:00Z",
+    "zernio_id": "6b00340f2ea41758f3b99ea6",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "318-the-bride-sent-the-diamond-ring": {
+    "at": "2026-11-21T22:30:00Z",
+    "zernio_id": "6b0034122ea41758f3b99eb5",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
