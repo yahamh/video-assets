@@ -1,0 +1,167 @@
+{
+  "id": "333-a-pearl-found-in-a-puppy-s-mouth",
+  "number": 333,
+  "title": "A pearl found in a puppy's mouth",
+  "style": "gouache",
+  "topic": "la peregrina pearl elizabeth taylor richard burton 1969 37000 puppy caesars palace christie's 13 december 2011 11842500 record gulf of panama philip the second joseph bonaparte 1813 velazquez",
+  "music": "music-333.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "cream",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A pearl found in a puppy's mouth.",
+    "gold": [
+      "puppy's",
+      "mouth."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pearl found in a puppy's mouth.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It is La Peregrina, a pear shaped pearl of about 50 carats.",
+      "say": "It is la peh-reh-GREE-na, a pear shaped pearl of about fifty carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "About 50 carats"
+      }
+    },
+    {
+      "text": "It was reportedly found in the Gulf of Panama in the 1500s.",
+      "say": "It was reportedly found in the Gulf of Panama in the fifteen hundreds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "platinum",
+        "label": "Gulf of Panama"
+      }
+    },
+    {
+      "text": "Philip II of Spain is among its first recorded owners.",
+      "say": "Philip the Second of Spain is among its first recorded owners.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "cushion",
+        "petals": 10,
+        "metal": "yellow",
+        "label": "Philip II of Spain"
+      }
+    },
+    {
+      "text": "Later a Spanish queen wore it in a Velázquez portrait.",
+      "say": "Later a Spanish queen wore it in a veh-LAHS-keth portrait.",
+      "scene": {
+        "kind": "real",
+        "src": "333-a-pearl-found-in-a-puppy-s-mouth-0.jpg",
+        "fit": "card",
+        "label": "Queen Isabel, painted by Velázquez",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Joseph Bonaparte took it out of Spain in 1813.",
+      "say": "Joseph Bonaparte took it out of Spain in eighteen thirteen.",
+      "scene": {
+        "kind": "title",
+        "text": "1813",
+        "sub": "It left Spain",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "rose"
+      }
+    },
+    {
+      "text": "In 1969 Richard Burton bought it for Elizabeth Taylor for $37,000.",
+      "say": "In nineteen sixty nine Richard Burton bought it for Elizabeth Taylor for thirty seven thousand dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Burton paid $37,000"
+      }
+    },
+    {
+      "text": "She wrote that she found it in her puppy's mouth, unscratched.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "rose",
+        "label": "Found in a puppy's mouth"
+      }
+    },
+    {
+      "text": "In 2011 Christie's sold it for $11,842,500.",
+      "say": "In twenty eleven Christie's sold it for eleven million, eight hundred forty two thousand, five hundred dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Christie's, 2011"
+      }
+    },
+    {
+      "text": "That was a world auction record for a pearl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "A world record for a pearl"
+      }
+    }
+  ],
+  "post": {
+    "caption": "La Peregrina is a pear shaped natural pearl of about 50 carats, reportedly found in the Gulf of Panama in the 1500s. Philip II of Spain is among its first recorded owners. Richard Burton bought it for Elizabeth Taylor in 1969 for $37,000, and she wrote that she found it in her puppy's mouth without a scratch. Christie's sold it on December 13, 2011, for $11,842,500, a world auction record for a pearl.",
+    "hashtags": [
+      "#elizabethtaylor",
+      "#laperegrina",
+      "#pearl",
+      "#christies",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/La_Peregrina_pearl",
+    "https://cijintl.com/in-the-press/christie-s-la-peregrina-makes-history.html",
+    "https://csmonitor.com/Business/Latest-News-Wires/2011/1214/Elizabeth-Taylor-auction-nets-record-millions-VIDEO",
+    "https://www.guinnessworldrecords.com/world-records/62550-most-expensive-pearl",
+    "https://www.hellomagazine.com/fashion/201112146785/elizabeth-taylor-pearl-auction-11-million/",
+    "https://www.aol.com/lifestyle/story-behind-worlds-most-famous-204500648.html",
+    "https://www.jckonline.com/editorial-article/this-day-in-jewelry-history-elizabeth-taylor-meets-la-peregrina/",
+    "https://www.winterson.co.uk/blog/la-peregrina-famous-pearl-jewels",
+    "https://thecourtjeweller.com/2023/06/a-wonderful-wandering-royal-pearl-and-the-movie-star-who-treasured-it.html",
+    "https://www.barnebys.com/blog/la-peregrina-and-le-pelegrina-the-worlds-most-famous-pearls",
+    "https://rapaport.com/magazine-article/pearl-perfection/"
+  ],
+  "images": [
+    {
+      "src": "333-a-pearl-found-in-a-puppy-s-mouth-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Diego Velázquez",
+      "page": "https://commons.wikimedia.org/wiki/File:La_reina_Isabel_de_Borb%C3%B3n_a_caballo.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "331-she-wore-her-real-ring-on-screen",
+  "number": 331,
+  "title": "She wore her real ring on screen",
+  "style": "jewelbox",
+  "topic": "grace kelly engagement ring cartier prince rainier 10.5 carat emerald cut diamond two baguettes platinum ruby diamond band christmas 1955 january 5 1956 high society april 19 1956 grimaldi",
+  "music": "music-331.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "She wore her real ring on screen.",
+    "gold": [
+      "real",
+      "ring",
+      "on",
+      "screen."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "She wore her real ring on screen.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Prince Rainier of Monaco proposed over Christmas in 1955.",
+      "say": "Prince ruh-NEER of Monaco proposed over Christmas in nineteen fifty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "Christmas, 1955"
+      }
+    },
+    {
+      "text": "Her first ring was a band of rubies and diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 16,
+        "label": "Monaco's red and white"
+      }
+    },
+    {
+      "text": "The engagement was announced on January 5, 1956.",
+      "say": "The engagement was announced on January fifth, nineteen fifty six.",
+      "scene": {
+        "kind": "title",
+        "text": "Philadelphia",
+        "sub": "Engaged, January 1956",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 14
+      }
+    },
+    {
+      "text": "Then came a Cartier ring set with an emerald cut diamond.",
+      "say": "Then came a kar-TYAY ring set with an emerald cut diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "emerald",
+        "label": "Emerald cut, from Cartier"
+      }
+    },
+    {
+      "text": "Two baguette diamonds sit on its sides, in a platinum band.",
+      "say": "Two ba-GET diamonds sit on its sides, in a platinum band.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "Two baguettes, platinum"
+      }
+    },
+    {
+      "text": "In High Society she wore the real ring, not a prop.",
+      "scene": {
+        "kind": "real",
+        "src": "331-she-wore-her-real-ring-on-screen-0.jpg",
+        "fit": "card",
+        "label": "On the set of High Society",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They married in Monaco on April 19, 1956.",
+      "say": "They married in Monaco on April nineteenth, nineteen fifty six.",
+      "scene": {
+        "kind": "real",
+        "src": "331-she-wore-her-real-ring-on-screen-1.jpg",
+        "fit": "card",
+        "label": "The wedding, April 1956",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Today the ring belongs to the Grimaldi family of Monaco.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The Grimaldi family"
+      }
+    },
+    {
+      "text": "The center diamond weighs about 10.5 carats.",
+      "say": "The center diamond weighs about ten point five carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "emerald",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "About 10.5 carats"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Prince Rainier of Monaco proposed to Grace Kelly over Christmas in 1955 with a band of rubies and diamonds, and the engagement was announced on January 5, 1956. Her Cartier ring has an emerald cut diamond of about 10.5 carats with two baguette diamonds in platinum, and she wore the real ring in High Society. They married in Monaco on April 19, 1956.",
+    "hashtags": [
+      "#gracekelly",
+      "#engagementring",
+      "#cartier",
+      "#monaco",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.thejewelleryeditor.com/2011/06/grace-kellys-engagement-ring",
+    "https://theknot.com/content/grace-kelly-engagement-ring",
+    "https://www.vrai.com/journal/post/grace-kellys-engagement-rings",
+    "https://www.monaco-tribune.com/en/2025/10/cartier-and-the-captivating-allure-of-princess-grace-of-monaco/",
+    "https://www.baunat.com/en/grace-kelly-the-engagement-ring-that-changed-her-life",
+    "https://thediamondcollective.world/discover/grace-kelly-engagement-ring/",
+    "https://www.aol.com/articles/grace-kelly-engagement-ring-proved-120100027.html",
+    "https://en.wikipedia.org/wiki/Wedding_of_Rainier_III,_Prince_of_Monaco,_and_Grace_Kelly",
+    "https://www.imdb.com/title/tt0049314/trivia",
+    "https://www.history.com/this-day-in-history/april-19/grace-kelly-and-prince-rainier-marry",
+    "https://www.hellomagazine.com/brides/848999/grace-kelly-real-cartier-engagement-ring-historic-diamond/"
+  ],
+  "images": [
+    {
+      "src": "331-she-wore-her-real-ring-on-screen-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Lubbock Evening Journal",
+      "page": "https://commons.wikimedia.org/wiki/File:Charles_Walters_Frank_Sinatra_Grace_Kelly_on_the_set_of_High_Society_1956.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "331-she-wore-her-real-ring-on-screen-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "AP",
+      "page": "https://commons.wikimedia.org/wiki/File:Wedding_of_Rainier_III,_Prince_of_Monaco,_and_Grace_Kelly_(2).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

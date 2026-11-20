@@ -1,0 +1,158 @@
+{
+  "id": "lesson-035-bezel-setting",
+  "series": "lesson",
+  "number": 35,
+  "title": "What a bezel setting is",
+  "topic": "bezel setting continuous metal rim girdle full half partial rub over tube setting secure soft stones opal solder seat burnish prongs less light 0.5 mm rim wall",
+  "music": "music-lesson-035.wav",
+  "hook": {
+    "text": "A bezel swaps claws for a rim.",
+    "gold": [
+      "claws",
+      "rim."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A bezel swaps claws for a rim.",
+      "scene": {
+        "kind": "photo",
+        "src": "pendant-pear-render.webp",
+        "focus": {
+          "x": 0.55,
+          "y": 0.52,
+          "k": 1.25
+        },
+        "label": "This stone sits in claws"
+      }
+    },
+    {
+      "text": "A bezel is a thin metal rim that wraps the stone's edge.",
+      "scene": {
+        "kind": "title",
+        "text": "Bezel",
+        "sub": "A rim around the stone"
+      }
+    },
+    {
+      "text": "Full bezels wrap the stone, and half bezels leave two sides open.",
+      "scene": {
+        "kind": "title",
+        "text": "Full or half",
+        "sub": "Wrap or open sides"
+      }
+    },
+    {
+      "text": "Bezels are among the most secure settings, with nothing to snag.",
+      "scene": {
+        "kind": "title",
+        "text": "Secure",
+        "sub": "Nothing to snag"
+      }
+    },
+    {
+      "text": "That is why bezels suit soft stones like opal.",
+      "scene": {
+        "kind": "title",
+        "text": "Opal",
+        "sub": "A soft stone, well protected"
+      }
+    },
+    {
+      "text": "A setter solders the rim on and cuts a seat inside.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Shape the rim",
+          "Solder it on",
+          "Cut a seat",
+          "Push it over",
+          "Burnish"
+        ],
+        "active": 1,
+        "label": "Setting a bezel"
+      }
+    },
+    {
+      "text": "Then the edge is pushed over the stone and burnished smooth.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Shape the rim",
+          "Solder it on",
+          "Cut a seat",
+          "Push it over",
+          "Burnish"
+        ],
+        "active": 3,
+        "label": "Setting a bezel"
+      }
+    },
+    {
+      "text": "A bezel lets in slightly less light than prongs do.",
+      "scene": {
+        "kind": "photo",
+        "src": "cad-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.1,
+          "k": 1.2
+        },
+        "label": "Prongs let in more light"
+      }
+    },
+    {
+      "text": "In 3D, keep the rim wall at least half a millimeter thick.",
+      "scene": {
+        "kind": "title",
+        "text": "0.5 mm",
+        "sub": "Thinnest rim wall"
+      },
+      "say": "In three D, keep the rim wall at least half a millimeter thick."
+    },
+    {
+      "text": "So a bezel holds the stone with a rim instead of claws.",
+      "scene": {
+        "kind": "title",
+        "text": "A rim",
+        "sub": "Instead of claws"
+      }
+    },
+    {
+      "text": "A render shows the rim around the stone before anything is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-rose-input.webp",
+        "after": "matthew-rose-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: what a bezel setting is",
+    "caption": "A bezel setting holds a stone with a thin rim of metal instead of claws. Full bezels wrap the whole stone and half bezels leave two sides open, and bezels are among the most secure settings, which is why they suit soft stones like opal. A bezel lets in slightly less light than prongs, and in 3D the rim wall should be at least half a millimeter thick. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#bezelsetting",
+      "#jewelrymaking",
+      "#jewelrydesign",
+      "#gemsetting",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/?p=39609",
+    "https://skyjems.ca/pages/encyclopedia-bezel-setting",
+    "https://en.wikipedia.org/wiki/Bezel_(jewellery)",
+    "https://www.borsheims.com/blog/?p=17827",
+    "https://www.bluenile.com/blog/fashion/bezel-setting-guide",
+    "https://www.gemsociety.org/article/protective-gem-settings/",
+    "https://www.ganoksin.com/article/bezel-setting-method/",
+    "https://www.cooksongold.com/downloads/files/Cooksongold%203D%20Precious%20Metal%20Printing%20Design%20Guidelines.pdf",
+    "https://www.cooksongold.com/blog/learn/how-to-make-tube-settings-for-stones/"
+  ]
+}

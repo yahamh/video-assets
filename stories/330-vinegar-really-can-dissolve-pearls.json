@@ -1,0 +1,161 @@
+{
+  "id": "330-vinegar-really-can-dissolve-pearls",
+  "number": 330,
+  "title": "Vinegar really can dissolve pearls",
+  "style": "gouache",
+  "topic": "cleopatra pearl vinegar legend pliny the elder natural history book 9 mark antony 10 million sesterces plancus calcium carbonate prudence jones montclair 2010 24 to 36 hours",
+  "music": "music-330.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "white",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Vinegar really can dissolve pearls.",
+    "gold": [
+      "dissolve",
+      "pearls."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Vinegar really can dissolve pearls.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Legend says Cleopatra once drank a pearl dissolved in vinegar.",
+      "scene": {
+        "kind": "real",
+        "src": "330-vinegar-really-can-dissolve-pearls-0.jpg",
+        "fit": "card",
+        "label": "Tiepolo's painting of the story",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She bet Mark Antony she could spend 10 million sesterces on dinner.",
+      "say": "She bet Mark Antony she could spend ten million SES-ter-sez on one dinner.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "A bet over dinner"
+      }
+    },
+    {
+      "text": "Pliny the Elder wrote it down around 77 AD.",
+      "say": "PLIN-ee the Elder wrote it down around seventy seven A D.",
+      "scene": {
+        "kind": "title",
+        "text": "Pliny",
+        "sub": "Wrote it around 77 AD",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "He was born about 50 years after Cleopatra died.",
+      "say": "He was born about fifty years after Cleopatra died.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "Not an eyewitness"
+      }
+    },
+    {
+      "text": "A judge named Plancus stopped her before the second pearl.",
+      "say": "A judge named PLANG-kus stopped her before the second pearl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "rose",
+        "label": "One pearl left"
+      }
+    },
+    {
+      "text": "Pearls are mostly calcium carbonate, which acid dissolves.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "platinum",
+        "label": "Calcium carbonate"
+      }
+    },
+    {
+      "text": "In 2010 a classicist tested the idea on a one gram pearl.",
+      "say": "In twenty ten a classicist tested the idea on a one gram pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "2010",
+        "sub": "A classicist's test",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "In ordinary vinegar it took 24 to 36 hours to dissolve.",
+      "say": "In ordinary vinegar it took twenty four to thirty six hours to dissolve.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "platinum",
+        "label": "24 to 36 hours"
+      }
+    },
+    {
+      "text": "Heat or grinding makes a pearl dissolve much faster.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "Heat makes it faster"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Legend says Cleopatra bet Mark Antony she could spend ten million sesterces on one dinner, then dropped a pearl in vinegar and drank it. The Roman writer Pliny the Elder told the story around 77 AD, about 50 years after she died. In 2010 a classicist at Montclair State University found a one gram pearl took 24 to 36 hours to dissolve in ordinary vinegar, and heat or grinding makes it faster.",
+    "hashtags": [
+      "#cleopatra",
+      "#pearl",
+      "#ancientrome",
+      "#historyfacts",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://penelope.uchicago.edu/Thayer/E/Journals/CJ/52/5/Cleopatras_Pearls*.html",
+    "https://penelope.uchicago.edu/encyclopaedia_romana/miscellanea/cleopatra/cabanel.html",
+    "https://www.ancient-origins.net/myths-legends-africa/roman-historian-s-cleopatra-s-pearl-story-it-fact-or-fiction-0015767",
+    "https://hoaxes.org/weblog/comments/cleopatra_pearl_vinegar",
+    "https://talesoftimesforgotten.com/2020/11/02/did-cleopatra-really-dissolve-a-pearl-in-vinegar/",
+    "https://www.caymancompass.com/2010/08/04/how-cleopatra-won-her-bet/",
+    "https://digitalcommons.montclair.edu/classics-gnrl-hmnties-facpubs/2",
+    "https://ebsco.com/research-starters/biography/pliny-elder",
+    "https://en.wikipedia.org/wiki/Natural_History_(Pliny)"
+  ],
+  "images": [
+    {
+      "src": "330-vinegar-really-can-dissolve-pearls-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Giovanni Battista Tiepolo",
+      "page": "https://commons.wikimedia.org/wiki/File:Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

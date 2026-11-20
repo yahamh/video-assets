@@ -1,0 +1,173 @@
+{
+  "id": "328-a-royal-ring-anyone-could-buy",
+  "number": 328,
+  "title": "A royal ring anyone could buy",
+  "style": "jewelbox",
+  "topic": "princess diana engagement ring garrard oval sapphire ceylon 12 carat 14 diamonds 18 carat white gold catalog 1981 william catherine kenya october 2010 rucksack",
+  "music": "music-328.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "oval",
+    "metal": "platinum",
+    "halo": 14
+  },
+  "hook": {
+    "text": "A royal ring anyone could buy.",
+    "gold": [
+      "anyone",
+      "could",
+      "buy."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A royal ring anyone could buy.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It was picked from a selection of rings at Garrard.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "Garrard, London"
+      }
+    },
+    {
+      "text": "Its center is an oval sapphire of about 12 carats.",
+      "say": "Its center is an oval sapphire of about twelve carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "oval",
+        "label": "About 12 carats"
+      }
+    },
+    {
+      "text": "The sapphire came from Ceylon, now called Sri Lanka.",
+      "say": "The sapphire came from sih-LON, now called Sri Lanka.",
+      "scene": {
+        "kind": "title",
+        "text": "Ceylon",
+        "sub": "Now Sri Lanka",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Fourteen diamonds surround it, set in 18 carat white gold.",
+      "say": "Fourteen diamonds surround it, set in eighteen carat white gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 14,
+        "label": "14 diamonds around it"
+      }
+    },
+    {
+      "text": "Diana married Prince Charles on July 29, 1981.",
+      "say": "Diana married Prince Charles on July twenty ninth, nineteen eighty one.",
+      "scene": {
+        "kind": "real",
+        "src": "328-a-royal-ring-anyone-could-buy-0.jpg",
+        "fit": "card",
+        "label": "Diana and Charles, 1981",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In October 2010 William gave it to Catherine in Kenya.",
+      "say": "In October twenty ten William gave it to Catherine in Kenya.",
+      "scene": {
+        "kind": "title",
+        "text": "Kenya",
+        "sub": "October 2010",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "He carried it in a rucksack for about three weeks.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 12,
+        "label": "Three weeks in a rucksack"
+      }
+    },
+    {
+      "text": "Garrard staff say it echoes a sapphire brooch Albert gave Victoria.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "petals": 12,
+        "metal": "platinum",
+        "label": "Albert's brooch, 1840"
+      }
+    },
+    {
+      "text": "Catherine, Princess of Wales, wears it now.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Worn by Catherine"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Princess Diana's engagement ring was picked from a selection of rings at Garrard in London. It has an oval sapphire of about 12 carats from Ceylon, now Sri Lanka, circled by 14 diamonds in 18 carat white gold. She married Prince Charles on July 29, 1981. In October 2010 Prince William gave the ring to Catherine in Kenya after carrying it in a rucksack for about three weeks.",
+    "hashtags": [
+      "#princessdiana",
+      "#engagementring",
+      "#sapphire",
+      "#garrard",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://garrard.com/en/2021/something-blue-a-royal-love-story-princess-diana-engagement-ring/",
+    "https://www.hellomagazine.com/brides/20220221133649/princess-diana-engagement-ring-prince-charles-not-royal-heirloom/",
+    "https://theknot.com/content/princess-diana-engagement-ring",
+    "https://vrai.com/journal/post/princess-diana-engagement-ring",
+    "https://www.mentalfloss.com/article/637627/prince-charles-princess-diana-wedding-facts",
+    "https://marieclaire.co.uk/fashion/princess-diana-engagement-ring-worth-715970",
+    "https://www.aol.com/princess-diana-12-carat-sapphire-140000745.html",
+    "https://www.everydayexceptional.royal.uk/his-royal-highness-prince-william-wales-and-miss-catherine-middleton-are-engaged-be-married",
+    "https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer",
+    "https://www.hellomagazine.com/royalty/2019102279507/kate-middleton-prince-william-nine-year-engagement-anniversary/",
+    "https://www.aol.com/lifestyle/princess-dianas-engagement-ring-inspired-200000112.html"
+  ],
+  "images": [
+    {
+      "src": "328-a-royal-ring-anyone-could-buy-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "United Press International",
+      "page": "https://commons.wikimedia.org/wiki/File:Wedding_of_Prince_Charles_and_Lady_Diana.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

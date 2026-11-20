@@ -1,0 +1,174 @@
+{
+  "id": "335-the-first-blow-broke-the-knife",
+  "number": 335,
+  "title": "The first blow broke the knife",
+  "style": "deco",
+  "topic": "cullinan diamond 1905 premier mine pretoria 3106 carats 1907 150000 pounds king edward birthday joseph asscher 1908 steel knife broke nine major stones 96 cullinan i 530.2 carats sovereign's scepter",
+  "music": "music-335.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "The first blow broke the knife.",
+    "gold": [
+      "first",
+      "blow",
+      "broke",
+      "knife."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The first blow broke the knife.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Cullinan Diamond was found in 1905 at the Premier Mine.",
+      "say": "The KULL-in-un Diamond was found in nineteen oh five at the Premier Mine.",
+      "scene": {
+        "kind": "real",
+        "src": "335-the-first-blow-broke-the-knife-0.jpg",
+        "fit": "card",
+        "label": "A replica of the rough stone",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The rough stone weighed about 3,106 carats, over a pound.",
+      "say": "The rough stone weighed about three thousand one hundred six carats, over a pound.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "About 3,106 carats"
+      }
+    },
+    {
+      "text": "In 1907 the Transvaal government bought it for 150,000 pounds.",
+      "say": "In nineteen oh seven the TRANS-vahl government bought it for one hundred fifty thousand pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "Cullinan",
+        "sub": "Named for the mine's chairman",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Then they gave it to King Edward as a birthday present.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "A birthday present"
+      }
+    },
+    {
+      "text": "In February 1908 Joseph Asscher tried to split it in Amsterdam.",
+      "say": "In February nineteen oh eight Joseph ASH-er tried to split it in Amsterdam.",
+      "scene": {
+        "kind": "real",
+        "src": "335-the-first-blow-broke-the-knife-1.jpg",
+        "fit": "card",
+        "label": "Joseph Asscher, 1908",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His first blow broke the steel knife.",
+      "scene": {
+        "kind": "title",
+        "text": "The knife",
+        "sub": "Broke on the first blow",
+        "piece": "rough",
+        "stone": "diamond"
+      }
+    },
+    {
+      "text": "His second blow split the diamond cleanly.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Split cleanly"
+      }
+    },
+    {
+      "text": "It became nine major stones and 96 small ones.",
+      "say": "It became nine major stones and ninety six small ones.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Nine major stones"
+      }
+    },
+    {
+      "text": "The largest, 530.2 carats, now sits in a royal scepter.",
+      "say": "The largest, five hundred thirty point two carats, now sits in a royal scepter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Cullinan I, 530.2 carats"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Cullinan Diamond was found at the Premier Mine near Pretoria in 1905 and weighed about 3,106 carats. The Transvaal government bought it in 1907 for 150,000 pounds and gave it to King Edward as a birthday present. In February 1908 Joseph Asscher's first blow in Amsterdam broke his steel knife, the second blow split the diamond, and the largest stone, 530.2 carats, is set in the Sovereign's Scepter.",
+    "hashtags": [
+      "#cullinan",
+      "#diamond",
+      "#crownjewels",
+      "#asscher",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cullinan_Diamond",
+    "https://www.worldhistory.org/Cullinan_Diamond/",
+    "https://www.earthmagazine.org/article/january-26-1905-worlds-largest-gem-quality-diamond-unearthed/",
+    "https://www.britannica.com/topic/Cullinan-Diamond",
+    "https://www.rct.uk/collection/themes/trails/the-crown-jewels/the-cullinan-diamond",
+    "https://www.rct.uk/collection/31712",
+    "https://www.miningweekly.com/article/the-fate-of-the-cullinan-diamond-2015-12-04-1",
+    "https://www.guinnessworldrecords.com/news/2023/11/how-the-worlds-largest-diamond-came-to-be-part-of-the-uks-crown-jewels-760624",
+    "https://www.history.com/this-day-in-history/worlds-largest-diamond-found",
+    "https://www.gia.edu/research-news-british-royal-jewels-beautiful-historic"
+  ],
+  "images": [
+    {
+      "src": "335-the-first-blow-broke-the-knife-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Parent Géry",
+      "page": "https://commons.wikimedia.org/wiki/File:Cullinan_copie_(R%C3%A9publique_d'Afrique_du_Sud).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "335-the-first-blow-broke-the-knife-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Joseph_Asscher_splitting_the_Cullinan_diamond.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

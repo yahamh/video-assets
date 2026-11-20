@@ -1,0 +1,178 @@
+{
+  "id": "329-a-spell-is-written-on-its-back",
+  "number": 329,
+  "title": "A spell is written on its back",
+  "style": "deco",
+  "topic": "tutankhamun gold funerary mask book of the dead spell 151b 10 kilograms lapis lazuli quartz obsidian cobra vulture howard carter tomb 1922 coffin lid 28 october 1925 5000 objects",
+  "music": "music-329.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "yellow",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A spell is written on its back.",
+    "gold": [
+      "spell",
+      "back."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A spell is written on its back.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "This is the gold mask of King Tutankhamun.",
+      "say": "This is the gold mask of King too-tan-KAH-mun.",
+      "scene": {
+        "kind": "real",
+        "src": "329-a-spell-is-written-on-its-back-0.jpg",
+        "fit": "card",
+        "label": "The gold mask",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The spell is chapter 151 of the Book of the Dead.",
+      "say": "The spell is chapter one fifty one of the Book of the Dead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "yellow",
+        "metal": "yellow",
+        "label": "Chapter 151"
+      }
+    },
+    {
+      "text": "It was meant to protect the king in the afterlife.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "round",
+        "metal": "yellow",
+        "petals": 10,
+        "label": "Protection for the afterlife"
+      }
+    },
+    {
+      "text": "The mask weighs about 10 kilograms, or 22 pounds.",
+      "say": "The mask weighs about ten kilograms, or twenty two pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "About 10 kilograms"
+      }
+    },
+    {
+      "text": "Its eyes are quartz and obsidian, its brows lapis lazuli.",
+      "say": "Its eyes are quartz and obsidian, its brows LAP-iss LAZ-yuh-lee.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Lapis lazuli brows"
+      }
+    },
+    {
+      "text": "Its cobra and vulture stand for Lower and Upper Egypt.",
+      "scene": {
+        "kind": "title",
+        "text": "Two lands",
+        "sub": "Lower and Upper Egypt",
+        "piece": "bracelet",
+        "stone": "yellow",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Howard Carter's team found the tomb in November 1922.",
+      "say": "Howard Carter's team found the tomb in November nineteen twenty two.",
+      "scene": {
+        "kind": "real",
+        "src": "329-a-spell-is-written-on-its-back-1.jpg",
+        "fit": "card",
+        "label": "Carter and Callender in the tomb",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The mask came into view on October 28, 1925.",
+      "say": "The mask came into view on October twenty eighth, nineteen twenty five.",
+      "scene": {
+        "kind": "title",
+        "text": "1925",
+        "sub": "The coffin lid lifted",
+        "piece": "earrings",
+        "stone": "yellow",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Carter's team found more than 5,000 objects in that tomb.",
+      "say": "Carter's team found more than five thousand objects in that tomb.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "More than 5,000 objects"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tutankhamun's gold funeral mask weighs about 10 kilograms, or 22 pounds, and a protective spell from the Book of the Dead, chapter 151, is written on its back. It has quartz and obsidian eyes, lapis lazuli brows and a cobra and a vulture for Lower and Upper Egypt. Howard Carter's team found the tomb in November 1922, and the mask came into view on October 28, 1925, when the coffin lid was lifted.",
+    "hashtags": [
+      "#tutankhamun",
+      "#kingtut",
+      "#ancientegypt",
+      "#goldmask",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun",
+    "https://smarthistory.org/tutankhamuns-tomb-innermost-coffin-and-death-mask",
+    "https://globalegyptianmuseum.org/detail.aspx?id=15062",
+    "https://egypt-museum.com/mask-of-tutankhamun/",
+    "https://thamesandhudson.com/news/the-timeless-treasures-of-king-tut",
+    "https://tutankhamun.griffith.ox.ac.uk/seasons/4th-season-1925-1926",
+    "https://www.history.com/articles/king-tut-tomb-artifacts",
+    "https://www.livescience.com/king-tut-treasures-ancient-egypt",
+    "https://www.xetra-gold.com/en/detail/1023-kilograms/",
+    "https://www.smithsonianmag.com/smart-news/tutankhamuns-iconic-gold-death-mask-is-getting-a-new-home-180986801/",
+    "https://en.wikipedia.org/wiki/Tutankhamun",
+    "https://egyptianmuseumcairo.eg/?p=2612"
+  ],
+  "images": [
+    {
+      "src": "329-a-spell-is-written-on-its-back-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Roland Unger",
+      "page": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "329-a-spell-is-written-on-its-back-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Harry Burton",
+      "page": "https://commons.wikimedia.org/wiki/File:Howard_Carter_and_Arthur_Callender_in_Tutankhamun's_tomb.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

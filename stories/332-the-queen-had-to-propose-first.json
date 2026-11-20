@@ -1,0 +1,176 @@
+{
+  "id": "332-the-queen-had-to-propose-first",
+  "number": 332,
+  "title": "The queen had to propose first",
+  "style": "deco",
+  "topic": "queen victoria prince albert proposal 15 october 1839 gold snake ring emerald birthstone eternal love wedding 10 february 1840 sapphire brooch rcin 200193",
+  "music": "music-332.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "emerald",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The queen had to propose first.",
+    "gold": [
+      "queen",
+      "propose",
+      "first."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The queen had to propose first.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Royal tradition said a reigning queen could not be proposed to.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "A reigning queen"
+      }
+    },
+    {
+      "text": "On October 15, 1839, Victoria proposed to Prince Albert.",
+      "say": "On October fifteenth, eighteen thirty nine, Victoria proposed to Prince Albert.",
+      "scene": {
+        "kind": "title",
+        "text": "1839",
+        "sub": "She proposed first",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Albert gave her a gold ring shaped as a coiled snake.",
+      "scene": {
+        "kind": "real",
+        "src": "332-the-queen-had-to-propose-first-0.jpg",
+        "fit": "card",
+        "label": "Prince Albert",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The snake was set with an emerald, her birthstone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Her birthstone"
+      }
+    },
+    {
+      "text": "In the 1800s a snake meant everlasting love.",
+      "say": "In the eighteen hundreds a snake meant everlasting love.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Eternal love"
+      }
+    },
+    {
+      "text": "They married on February 10, 1840, at St James's Palace.",
+      "say": "They married on February tenth, eighteen forty, at Saint James's Palace.",
+      "scene": {
+        "kind": "real",
+        "src": "332-the-queen-had-to-propose-first-1.jpg",
+        "fit": "card",
+        "label": "The wedding, 1840",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The day before, Albert gave her a sapphire brooch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "petals": 12,
+        "metal": "platinum",
+        "label": "The wedding eve gift"
+      }
+    },
+    {
+      "text": "In her will she made it an heirloom of the Crown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A Crown heirloom"
+      }
+    },
+    {
+      "text": "It is still part of the Royal Collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "The Royal Collection"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Royal tradition said a reigning queen could not be proposed to, so Queen Victoria proposed to Prince Albert on October 15, 1839. Albert gave her a gold ring shaped as a coiled snake set with an emerald, her birthstone, and in the 1800s a snake meant everlasting love. They married on February 10, 1840, and the day before Albert gave her a sapphire brooch that is still in the Royal Collection.",
+    "hashtags": [
+      "#queenvictoria",
+      "#princealbert",
+      "#snakering",
+      "#royalwedding",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.royal.uk/timeline-queen-victoria-and-prince-albert",
+    "https://www.csmonitor.com/Books/2012/0524/Queen-Victoria-6-stories-from-her-diaries/Proposing-to-Albert",
+    "https://en.wikipedia.org/wiki/Wedding_of_Queen_Victoria_and_Prince_Albert",
+    "https://shaunadoeshistory.co.uk/2024/10/15/the-engagement-of-queen-victoria-prince-albert/",
+    "https://www.aol.com/12-hidden-details-might-not-110000065.html",
+    "https://aureusboutique.com/blogs/articles/queen-victorias-snake-engagement-ring",
+    "https://royalcentral.co.uk/?p=192482",
+    "https://www.theknot.com/content/royal-jewelry-collections",
+    "https://www.1stdibs.com/blogs/the-study/?p=335096",
+    "https://rct.uk/collection/exhibitions/victoria-albert-art-love/the-queens-gallery-buckingham-palace/queen-victorias-wedding-brooch",
+    "https://royalcentral.co.uk/features/queen-victorias-sapphire-brooch-126609/",
+    "https://www.hellomagazine.com/royalty/2017030137040/all-the-details-on-the-queen-s-historic-queen-victoria-wedding-brooch/"
+  ],
+  "images": [
+    {
+      "src": "332-the-queen-had-to-propose-first-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "After: George Patten After: Charles Eden Wagstaff Printed by: Ligny frères Published by: Rosselin",
+      "page": "https://commons.wikimedia.org/wiki/File:S.A._Royal_le_Prince_Albert,_Epoux_de_la_Reine_d'Agleterre_(BM_1874,1114.650).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "332-the-queen-had-to-propose-first-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "George Hayter",
+      "page": "https://commons.wikimedia.org/wiki/File:George_Hayter_-_The_Marriage_of_Queen_Victoria,_10_February_1840_-_WGA11229.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

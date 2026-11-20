@@ -1,0 +1,166 @@
+{
+  "id": "334-one-nugget-made-five-royal-rings",
+  "number": 334,
+  "title": "One nugget made five royal rings",
+  "style": "jewelbox",
+  "topic": "welsh gold royal wedding rings clogau st david's mine bontddu 1923 bowes lyon one nugget queen mother elizabeth margaret anne diana clarence house wartski catherine 2011 camilla less than one gram",
+  "music": "music-334.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "rose"
+  },
+  "hook": {
+    "text": "One nugget made five royal rings.",
+    "gold": [
+      "nugget",
+      "five",
+      "royal",
+      "rings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One nugget made five royal rings.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The gold came from the Clogau St David's mine in North Wales.",
+      "say": "The gold came from the CLOG-eye Saint David's mine in North Wales.",
+      "scene": {
+        "kind": "title",
+        "text": "Clogau",
+        "sub": "Near Bontddu, North Wales",
+        "piece": "band",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "That mine closed in 1998.",
+      "say": "That mine closed in nineteen ninety eight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "Closed in 1998"
+      }
+    },
+    {
+      "text": "Elizabeth Bowes Lyon wore the first royal Welsh gold ring in 1923.",
+      "say": "Elizabeth BOHZ LY-un wore the first royal Welsh gold ring in nineteen twenty three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "rose",
+        "label": "The first, 1923"
+      }
+    },
+    {
+      "text": "Her daughters Elizabeth and Margaret married in 1947 and 1960.",
+      "say": "Her daughters Elizabeth and Margaret married in nineteen forty seven and nineteen sixty.",
+      "scene": {
+        "kind": "real",
+        "src": "334-one-nugget-made-five-royal-rings-0.jpg",
+        "fit": "card",
+        "label": "Princess Elizabeth, 1947",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Princess Anne used it in 1973 and Diana in 1981.",
+      "say": "Princess Anne used it in nineteen seventy three and Diana in nineteen eighty one.",
+      "scene": {
+        "kind": "title",
+        "text": "1973 and 1981",
+        "sub": "Anne and Diana",
+        "piece": "band",
+        "metal": "rose",
+        "stone": "citrine"
+      }
+    },
+    {
+      "text": "Clarence House said all five rings came from one nugget.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "yellow",
+        "label": "One nugget, five rings"
+      }
+    },
+    {
+      "text": "Wartski made Catherine's 2011 ring from Welsh gold the Queen gave William.",
+      "say": "WORT-skee made Catherine's twenty eleven ring from Welsh gold the Queen gave William.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "rose",
+        "stone": "blue",
+        "label": "Catherine, 2011"
+      }
+    },
+    {
+      "text": "Charles and Camilla's 2005 rings are Welsh gold from Wartski too.",
+      "say": "Charles and Camilla's twenty oh five rings are Welsh gold from WORT-skee too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "pink",
+        "label": "Charles and Camilla, 2005"
+      }
+    },
+    {
+      "text": "Reports say less than one gram of that nugget remains.",
+      "scene": {
+        "kind": "title",
+        "text": "One gram",
+        "sub": "Is left of the nugget",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "topaz"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Welsh gold from the Clogau St David's mine in North Wales made the wedding rings of the Queen Mother in 1923, Queen Elizabeth II in 1947, Princess Margaret in 1960, Princess Anne in 1973 and Diana in 1981. Clarence House has said all five came from one nugget. Wartski made Catherine's 2011 ring from Welsh gold the Queen gave William, and reports say less than one gram of the original nugget remains.",
+    "hashtags": [
+      "#welshgold",
+      "#royalwedding",
+      "#weddingring",
+      "#wales",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gold.org/news-and-events/press-releases/catherine-middleton-wear-wedding-ring-made-welsh-gold",
+    "https://en.wikipedia.org/wiki/Clogau",
+    "https://en.wikipedia.org/wiki/Welsh_gold",
+    "https://eryri.gov.wales/walk/clogau-trail/",
+    "https://graziadaily.co.uk/celebrity/news/clogau-st-david-gold-mine-reopens",
+    "https://en.wikipedia.org/wiki/Wedding_of_Prince_Albert_and_Lady_Elizabeth_Bowes-Lyon",
+    "https://www.womanandhome.com/life/royal-news/how-the-rarest-gold-in-the-world-connects-different-generations-of-the-royal-family",
+    "https://www.thecourtjeweller.com/2020/11/the-queens-bridal-jewels.html",
+    "https://www.hellomagazine.com/brides/517957/princess-kate-princess-eugenie-royal-wedding-ring-secrets-exclusive",
+    "https://britishheritage.com/history/royal-wedding-rings-welsh-gold-nugget/",
+    "https://magazine.cim.org/en/in-search/royal-gold-en/",
+    "https://www.clogau.co.uk/pages/royal-heritage",
+    "https://royal.uk/miss-middletons-wedding-ring",
+    "https://www.dailypost.co.uk/news/local-news/llandudnos-link-catherine-middletons-welsh-2697266"
+  ],
+  "images": [
+    {
+      "src": "334-one-nugget-made-five-royal-rings-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Associated Press",
+      "page": "https://commons.wikimedia.org/wiki/File:Princess_Elizabeth_and_Duke_of_Edinburgh_wedding_portrait.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
