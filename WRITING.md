@@ -192,8 +192,11 @@ cards. `check.py` now enforces what follows from story 310.
 
 From story 310 the stories take turns in three full-color looks that draw every piece as a real 3D object (cut stones
 with real facets, rings with a band, shoulders, prongs and a halo; `src/styles/gem3d.tsx`, `newlook.tsx`, `looks.tsx`).
-**`check.py` sets the look from the number: `(number - 310) % 3`, 0 is `jewelbox`, 1 is `deco`, 2 is `gouache`.** After a few
-days of real posts the views and retention per look decide which one stays (the Zernio route in the run log).
+**`check.py` sets the look from the number: `(number - 310) % 3`, 0 is `jewelbox`, 1 is `deco`, 2 is `gouache`.** Never
+pick a look from a handful of posts (ali, 20 Nov: "based on only one?"): keep rotating evenly until each look has at least 10 stories
+(about 30 in all, 2 to 4 platforms each, every post at least 40 hours old), compare the same topic groups and time slots, and name a
+winner only if it is clearly ahead on views and watch time on more than one platform; otherwise the rotation goes on. Earliest read:
+about 27 Nov (the Zernio route in the run log).
 
 - `jewelbox`: deep navy, glossy gold and platinum, fire and sparkles in the stones, a mirror floor, gold type.
 - `deco`: a flat poster, bright blue with sunburst rays and a gold double frame, quantized shading, a navy outline.
