@@ -1,0 +1,29 @@
+name: Images tmp
+
+# Finds real pictures of a story's subject (Wikimedia Commons, the Met's Open Access) and checks each license, into
+# images-out/ on this branch. Read only: posts nothing, never merged.
+on:
+  push:
+    branches: [images-tmp]
+    paths: [.github/workflows/images-tmp.yml, scripts/fetch_images.py, images-request.json]
+
+permissions:
+  contents: write
+
+jobs:
+  go:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install -q pillow
+      - name: Find pictures
+        run: python3 scripts/fetch_images.py
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "Claude"
+          git config user.email "noreply@anthropic.com"
+          git add -f images-out
+          git commit -q -m "image candidates" || exit 0
+          git push -q origin HEAD:images-tmp

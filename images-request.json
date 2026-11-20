@@ -1,0 +1,12 @@
+{"queries": [
+ {"key": "diana-ring", "commons": ["Diana Princess of Wales engagement ring sapphire", "Kate Middleton engagement ring", "Princess Diana 1981"], "met": ["sapphire ring"], "max": 6},
+ {"key": "tiffany", "commons": ["Tiffany & Co blue box", "Tiffany Blue Box", "Tiffany & Co flagship Fifth Avenue"], "met": ["Tiffany & Co. brooch"], "max": 6},
+ {"key": "hope", "commons": ["Hope Diamond", "Hope Diamond Smithsonian National Museum of Natural History"], "max": 6},
+ {"key": "cullinan", "commons": ["Cullinan diamond", "Cullinan I Great Star of Africa sceptre"], "max": 6},
+ {"key": "victoria", "commons": ["Queen Victoria brooch", "Queen Victoria jewellery portrait"], "met": ["Queen Victoria brooch"], "max": 6},
+ {"key": "cartier", "commons": ["Cartier Love bracelet", "Cartier Panthere", "Cartier tiara"], "met": ["Cartier"], "max": 6},
+ {"key": "faberge", "commons": ["Faberge egg", "Imperial Faberge egg"], "met": ["Fabergé"], "max": 6},
+ {"key": "pearls", "commons": ["Queen Elizabeth II pearl necklace", "pearl necklace Mikimoto"], "met": ["pearl necklace"], "max": 6},
+ {"key": "pink-star", "commons": ["Pink Star diamond", "Argyle pink diamond"], "max": 5},
+ {"key": "nugget", "commons": ["Welcome Stranger gold nugget", "gold nugget"], "max": 5}
+]}
