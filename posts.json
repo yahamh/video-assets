@@ -3771,7 +3771,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1182208364482862",
+      "instagram": "https://www.instagram.com/reel/Df9jfA0HIdP/"
+    }
   },
   "249-a-roman-bulla-was-a-gold-bubble": {
     "at": "2026-11-20T22:00:00Z",
@@ -3795,7 +3800,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1085986424402654",
+      "instagram": "https://www.instagram.com/reel/Df9t9ApCa9g/"
+    }
   },
   "252-trembler-brooches-shake-diamonds-on-tiny-springs": {
     "at": "2026-11-21T01:30:00Z",
@@ -3812,14 +3822,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1858101128654260",
+      "instagram": "https://www.instagram.com/reel/Df908UtDeXQ/",
+      "youtube": "https://www.youtube.com/watch?v=DAyJOLdsel0"
+    }
   },
   "254-chatelaines-stood-in-for-missing-pockets": {
     "at": "2026-11-20T14:30:00Z",
     "zernio_id": "6afde3cafc78b95143dcaac1",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df93_jfiUSa/"
+    }
   },
   "255-intaglio-gems-can-hide-a-battle-scene": {
     "at": "2026-11-20T15:00:00Z",
@@ -3828,7 +3848,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1679551810345395",
+      "instagram": "https://www.instagram.com/reel/Df97tzCj5cZ/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710269456064187669"
+    }
   },
   "256-a-cairngorm-albert-found-became-victorias-brooch": {
     "at": "2026-11-20T23:00:00Z",
@@ -3843,7 +3869,11 @@
     "zernio_id": "6afde3eefc78b95143dcab71",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-CcULAoRz/"
+    }
   },
   "258-fordite-is-jewelry-made-from-car-paint": {
     "at": "2026-11-20T16:30:00Z",
@@ -3851,7 +3881,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1418725253613669",
+      "instagram": "https://www.instagram.com/reel/Df-F0tqDeMp/"
+    }
   },
   "259-cufflinks-were-once-called-sleeve-buttons": {
     "at": "2026-11-20T20:00:00Z",
@@ -3893,7 +3928,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3032683617080505",
+      "instagram": "https://www.instagram.com/reel/Df9nNVDnJ09/",
+      "youtube": "https://www.youtube.com/watch?v=SMiiNdxsKK8"
+    }
   },
   "264-obsidian-is-glass-made-by-volcanoes": {
     "at": "2026-11-20T15:30:00Z",
@@ -3901,7 +3942,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1857577038599262",
+      "instagram": "https://www.instagram.com/reel/Df9-44ljO_r/"
+    }
   },
   "265-bolo-ties-are-official-in-three-states": {
     "at": "2026-11-21T00:00:00Z",
@@ -4079,7 +4125,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1763560381406371",
+      "instagram": "https://www.instagram.com/reel/Df9qZ8TEQUr/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710230396666989845"
+    }
   },
   "283-evil-eye-beads-have-their-own-village": {
     "at": "2026-11-21T01:00:00Z",
@@ -4096,7 +4148,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1683691083245875",
+      "instagram": "https://www.instagram.com/reel/Df9xUsUFAeN/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710245906347576584"
+    }
   },
   "285-amazonites-namesake-river-has-no-amazonite": {
     "at": "2026-11-21T08:30:00Z",
@@ -4372,6 +4430,81 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "319-a-punk-princess-wore-eug-nie-s-pearl-tiara": {
+    "at": "2026-11-21T23:00:00Z",
+    "zernio_id": "6b0081220adc6e2263ce9b40",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "320-over-half-this-diamond-was-cut-away": {
+    "at": "2026-11-21T23:30:00Z",
+    "zernio_id": "6b0081260adc6e2263ce9b6a",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "321-she-announced-her-engagement-without-a-ring": {
+    "at": "2026-11-22T00:00:00Z",
+    "zernio_id": "6b00812d0d064ad289196998",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "322-estimated-2-million-sold-for-36-million": {
+    "at": "2026-11-22T00:30:00Z",
+    "zernio_id": "6b00813239545ca7ca654ee7",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "323-mansa-musa-handed-out-loads-of-gold": {
+    "at": "2026-11-22T01:00:00Z",
+    "zernio_id": "6b0081360adc6e2263ce9beb",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "324-a-noodle-seller-s-son-grew-pearls": {
+    "at": "2026-11-22T01:30:00Z",
+    "zernio_id": "6b00813c39545ca7ca654f2c",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "325-legend-says-this-diamond-copies-her-lips": {
+    "at": "2026-11-22T02:00:00Z",
+    "zernio_id": "6b0081410d064ad2891969f0",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "326-her-groom-designed-her-ruby-ring-himself": {
+    "at": "2026-11-22T02:30:00Z",
+    "zernio_id": "6b0081470d064ad289196a19",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "327-meghan-s-wedding-tiara-began-as-a-brooch": {
+    "at": "2026-11-22T03:00:00Z",
+    "zernio_id": "6b00814dacb9e984d6495d7e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
@@ -4927,7 +5060,11 @@
     "zernio_id": "6af78debf5181a1d5f4b65c4",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=2q1fhKaaXmc"
+    }
   },
   "lesson-029-lab-grown-vs-mined-diamonds": {
     "at": "2026-11-21T16:00:00Z",
