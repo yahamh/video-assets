@@ -1,5 +1,5 @@
 {
-  "note": "6 Nov 2026: series.gemsize books the gem size Shorts (uploads/, ids starting gs-, \"How big is a 1 carat oval?\" and the other shapes, from the gem size thread) on YouTube only, one a day at 17:00, between the lesson (16:00) and the 18:00 story re-post. Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026. move: videos booked but not posted yet that go to a new time (and platforms, when given), booked again there before the old booking comes off Zernio; \"<id>#retry\" moves a re-post. skip_youtube: {series: [from, until]} leaves YouTube out of that series' bookings in that span. 30 Oct, ali chose \"All by Monday\" for the 9 Rhino Shorts and 6 two-tone videos: they're spread so YouTube never gets more than 9 uploads in 24 hours (with the daily Social Short), and the stories skip YouTube on 31 Oct and 1 Nov to make room. youtube_later: {id: time} puts a video that skipped YouTube up there alone at that time; 31 Oct, ali said we don't post enough on YouTube, so stories 011-016 go up there too. 31 Oct: YouTube refused a 10th upload in 24 hours, and Social puts up 2 a day there, so the Rhino and two-tone YouTube posts and the story re-posts were spread to 1-5 Nov for 9 or fewer a day in all. The upload series' next two (yt-rhino-update, yt-rhino-pick, ali 31 Oct \"more videos about the rhino plugin\") go on 5 Nov 20:30 and 6 Nov 14:10 UTC, the first times that keep every 24 hours at 9 or fewer with stories at 14, 18 and 23 and a lesson at 16 every day. youtube_text: [{video, post?, old, new, description?}] swaps one sentence of a live YouTube description (used 31 Oct for the Rhino how-to and tutorial l1: \"Your file is never stored. It's only used to make your render.\" in place of the old line, ali; done, so the list is gone). 31 Oct: the stories and the two-tone (feature) videos also go to the HeyGema Facebook page (connected in Zernio 30 Oct), which Social doesn't post them to; the lessons stay YouTube only (ali 28 Oct) and the Rhino Shorts stay YouTube only here (Social posts them on Instagram, TikTok and Facebook). 5 Nov (ali: post 30 a day in reels): stories now post at 10 times a day (\"times\") on Instagram, TikTok and Facebook, which is 30 posts a day; \"youtube_times\" lists the only story times that also go to YouTube, so it stays at 9 or fewer uploads in 24 hours.",
+  "note": "6 Nov 2026: series.gemsize books the gem size Shorts (uploads/, ids starting gs-, \"How big is a 1 carat oval?\" and the other shapes, from the gem size thread) on YouTube only, one a day at 17:00, between the lesson (16:00) and the 18:00 story re-post. Each finished story is booked in Zernio at the next free time below (UTC), in story order, three a day; posts.json lists what's booked. series.lesson does the same for the render lessons (lessons/): one a day at 16:00, YouTube only. series.upload books the videos made elsewhere (uploads/, ids starting yt-: the Rhino plug-in how-to and its Shorts) on YouTube at its own times, not before its \"from\": one a day, so YouTube stays under the channel's 10 uploads a day with the stories, lessons and Social. series.feature does the same for the two-tone videos (uploads/, ids starting ft-) on Instagram, TikTok and YouTube, one a day at 20:30 from 1 Nov (after the YouTube re-posts of 30-31 Oct). now lists videos that post the moment they're made. paused: true stops new bookings (posts already booked stay booked in Zernio). accounts are the HeyGema accounts in Zernio; YouTube's id is read from Zernio. Booking started 28 Oct 2026. move: videos booked but not posted yet that go to a new time (and platforms, when given), booked again there before the old booking comes off Zernio; \"<id>#retry\" moves a re-post. skip_youtube: {series: [from, until]} leaves YouTube out of that series' bookings in that span. 30 Oct, ali chose \"All by Monday\" for the 9 Rhino Shorts and 6 two-tone videos: they're spread so YouTube never gets more than 9 uploads in 24 hours (with the daily Social Short), and the stories skip YouTube on 31 Oct and 1 Nov to make room. youtube_later: {id: time} puts a video that skipped YouTube up there alone at that time; 31 Oct, ali said we don't post enough on YouTube, so stories 011-016 go up there too. 31 Oct: YouTube refused a 10th upload in 24 hours, and Social puts up 2 a day there, so the Rhino and two-tone YouTube posts and the story re-posts were spread to 1-5 Nov for 9 or fewer a day in all. The upload series' next two (yt-rhino-update, yt-rhino-pick, ali 31 Oct \"more videos about the rhino plugin\") go on 5 Nov 20:30 and 6 Nov 14:10 UTC, the first times that keep every 24 hours at 9 or fewer with stories at 14, 18 and 23 and a lesson at 16 every day. youtube_text: [{video, post?, old, new, description?}] swaps one sentence of a live YouTube description (used 31 Oct for the Rhino how-to and tutorial l1: \"Your file is never stored. It's only used to make your render.\" in place of the old line, ali; done, so the list is gone). 31 Oct: the stories and the two-tone (feature) videos also go to the HeyGema Facebook page (connected in Zernio 30 Oct), which Social doesn't post them to; the lessons stay YouTube only (ali 28 Oct) and the Rhino Shorts stay YouTube only here (Social posts them on Instagram, TikTok and Facebook). 5 Nov (ali: post 30 a day in reels): stories now post at 10 times a day (\"times\") on Instagram, TikTok and Facebook, which is 30 posts a day; \"youtube_times\" lists the only story times that also go to YouTube, so it stays at 9 or fewer uploads in 24 hours. 20 Nov 2026 (ali picked \"topics and slots\" after the video review): the best of the waiting stories swap places with weaker ones in the 18:00 to 02:30 UTC slots (move, each keeping the platforms of the slot it goes to).",
   "paused": false,
   "times": [
     "00:00",
@@ -315,6 +315,158 @@
         "facebook",
         "instagram",
         "tiktok"
+      ]
+    },
+    "256-a-cairngorm-albert-found-became-victorias-brooch": {
+      "at": "2026-11-20T23:00:00Z",
+      "platforms": [
+        "instagram",
+        "youtube"
+      ]
+    },
+    "264-obsidian-is-glass-made-by-volcanoes": {
+      "at": "2026-11-20T15:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "247-pearls-often-start-as-mississippi-mussel-shell": {
+      "at": "2026-11-20T23:30:00Z",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    "281-black-hematite-leaves-a-red-streak": {
+      "at": "2026-11-20T11:00:00Z",
+      "platforms": [
+        "facebook",
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "250-posy-rings-hid-tiny-poems-inside": {
+      "at": "2026-11-21T00:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "282-hiddenite-honors-a-man-named-hidden": {
+      "at": "2026-11-20T12:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "252-trembler-brooches-shake-diamonds-on-tiny-springs": {
+      "at": "2026-11-21T01:30:00Z",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "284-hackmanite-changes-color-in-sunlight": {
+      "at": "2026-11-20T13:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "292-a-radiant-diamond-looks-like-crushed-ice": {
+      "at": "2026-11-20T18:30:00Z",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    "275-tungsten-means-heavy-stone-in-swedish": {
+      "at": "2026-11-21T09:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "295-a-puzzle-ring-falls-apart-when-removed": {
+      "at": "2026-11-20T21:30:00Z",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    "279-apatites-name-means-to-deceive": {
+      "at": "2026-11-21T11:00:00Z",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    "249-a-roman-bulla-was-a-gold-bubble": {
+      "at": "2026-11-20T22:00:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "263-vulcanite-is-rubber-hardened-into-jewelry": {
+      "at": "2026-11-20T12:00:00Z",
+      "platforms": [
+        "facebook",
+        "instagram",
+        "youtube"
+      ]
+    },
+    "290-diamond-hunters-follow-chrome-diopside": {
+      "at": "2026-11-21T02:00:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "285-amazonites-namesake-river-has-no-amazonite": {
+      "at": "2026-11-21T08:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram",
+        "tiktok"
+      ]
+    },
+    "304-mother-of-pearls-rainbow-isnt-pigment": {
+      "at": "2026-11-21T02:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "286-galalith-jewelry-is-made-from-milk": {
+      "at": "2026-11-21T15:30:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
+      ]
+    },
+    "259-cufflinks-were-once-called-sleeve-buttons": {
+      "at": "2026-11-20T20:00:00Z",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    "277-iridium-is-named-after-a-rainbow-goddess": {
+      "at": "2026-11-20T17:00:00Z",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    "227-japans-ama-divers-whistle-when-they-surface": {
+      "at": "2026-11-20T19:00:00Z",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    "276-electrum-shares-its-name-with-electricity": {
+      "at": "2026-11-20T09:00:00Z",
+      "platforms": [
+        "facebook",
+        "instagram"
       ]
     }
   },
