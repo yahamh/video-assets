@@ -21,10 +21,15 @@
       "text": "A Roman bulla was a gold bubble.",
       "say": "A Roman BUL-uh was a gold bubble.",
       "scene": {
-        "kind": "hook",
-        "show": "gem",
-        "shape": "round",
-        "tone": "#d9a441"
+        "kind": "real",
+        "src": "249-a-roman-bulla-was-a-gold-bubble-0.jpg",
+        "fit": "cover",
+        "focus": {
+          "x": 0.5,
+          "y": 0.72,
+          "k": 1.1
+        },
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
@@ -57,11 +62,16 @@
     {
       "text": "Each hollow pendant held a lucky charm.",
       "scene": {
-        "kind": "reveal",
-        "item": "gem",
-        "shape": "round",
-        "tone": "#c4a24a",
-        "label": "A lucky charm"
+        "kind": "real",
+        "src": "249-a-roman-bulla-was-a-gold-bubble-1.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "A gold bulla pendant",
+        "credit": "CC0, via Wikimedia Commons"
       }
     },
     {
@@ -87,12 +97,16 @@
       "text": "Etruscan gold bullae survive from at least the 5th century BC.",
       "say": "Etruscan gold BUL-ee survive from at least the fifth century B C.",
       "scene": {
-        "kind": "jewel",
-        "piece": "brooch",
-        "metal": "yellow",
-        "shape": "round",
-        "tone": "#d9a441",
-        "label": "Etruscan gold"
+        "kind": "real",
+        "src": "249-a-roman-bulla-was-a-gold-bubble-2.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "An Etruscan bulla",
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
@@ -140,5 +154,31 @@
     "https://colorsandstones.eu/2020/11/26/bulla-for-boys-lunula-for-girls/",
     "https://en.wikipedia.org/wiki/Lunula_(amulet)",
     "https://www.romansinfocus.com/sites/www.romansinfocus.com/files/The%20bulla.pdf"
+  ],
+  "images": [
+    {
+      "src": "249-a-roman-bulla-was-a-gold-bubble-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Necklace_with_lenticular_bulla,_Ostia,_Augustan_age,_gold,_inv._13379_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01141.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "249-a-roman-bulla-was-a-gold-bubble-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Unknown",
+      "page": "https://commons.wikimedia.org/wiki/File:Pendant,_bulla_(lentoid)_MET_DP257506.jpg",
+      "credit": "CC0, via Wikimedia Commons"
+    },
+    {
+      "src": "249-a-roman-bulla-was-a-gold-bubble-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( Category:Etruscans ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Etruscan_-_Bulla_with_Daedalus_and_Icarus_-_Walters_57371_-_Side_A.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
   ]
 }

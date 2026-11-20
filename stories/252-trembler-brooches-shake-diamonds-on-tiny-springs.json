@@ -38,11 +38,16 @@
     {
       "text": "The flower sits on a tiny spring and quivers with every move.",
       "scene": {
-        "kind": "reveal",
-        "item": "gem",
-        "shape": "round",
-        "tone": "#eef4f7",
-        "label": "A tiny spring"
+        "kind": "real",
+        "src": "252-trembler-brooches-shake-diamonds-on-tiny-springs-0.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "A flower brooch, England",
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
@@ -135,5 +140,15 @@
     "https://artsandculture.google.com/asset/spray-ornament-unknown/9gEO3uCmCfS54A",
     "https://www.woolleyandwallis.co.uk/news/news/victorian-insect-jewellery/",
     "https://artsandculture.google.com/asset/en-tremblant-flower-bouquet-of-gemstones/JgHbQ-wzXXgw2g"
+  ],
+  "images": [
+    {
+      "src": "252-trembler-brooches-shake-diamonds-on-tiny-springs-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown artist Unknown artist",
+      "page": "https://commons.wikimedia.org/wiki/File:Brooch_(England),_18th_century_(CH_18800413).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
   ]
 }

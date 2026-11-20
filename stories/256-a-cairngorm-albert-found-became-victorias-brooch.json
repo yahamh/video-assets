@@ -76,21 +76,31 @@
       "text": "Albert leased Balmoral in 1848 and bought it in 1852.",
       "say": "Albert leased bal-MOR-ul in eighteen forty eight and bought it in eighteen fifty two.",
       "scene": {
-        "kind": "title",
-        "text": "Balmoral",
-        "sub": "Bought in 1852",
-        "color": "#ec6a9c"
+        "kind": "real",
+        "src": "256-a-cairngorm-albert-found-became-victorias-brooch-0.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "Victoria's sketch of Balmoral",
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
       "text": "Sir Walter Scott's writing made Scotland a popular place to visit.",
       "scene": {
-        "kind": "reveal",
-        "item": "gem",
-        "shape": "oval",
-        "tone": "#2f6fd0",
-        "label": "Scott's pull",
-        "color": "#f7c23a"
+        "kind": "real",
+        "src": "256-a-cairngorm-albert-found-became-victorias-brooch-1.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "Balmoral Castle",
+        "credit": "Photo: Mike McBey, CC BY 2.0"
       }
     },
     {
@@ -124,7 +134,7 @@
     }
   ],
   "post": {
-    "caption": "A cairngorm Albert found became Victoria's brooch. Prince Albert picked up a cairngorm on Lochnagar in 1848. He had it set in a gold plaid brooch for Victoria. Cairngorm is smoky quartz named for the Cairngorm Mountains. Natural radiation gives it the smoky color. Albert leased Balmoral in 1848 and bought it in 1852. Sir Walter Scott's writing made Scotland a popular place to visit. Many Scottish pebble pieces were actually made in Birmingham. Banded agate forms in gas bubbles inside cooled lava. One kind is called fortification agate because its bands look like walls.",
+    "caption": "A cairngorm Albert found became Victoria's brooch. Prince Albert picked up a cairngorm on Lochnagar in 1848. He had it set in a gold plaid brooch for Victoria. Cairngorm is smoky quartz named for the Cairngorm Mountains. Natural radiation gives it the smoky color. Albert leased Balmoral in 1848 and bought it in 1852. Sir Walter Scott's writing made Scotland a popular place to visit. Many Scottish pebble pieces were actually made in Birmingham. Banded agate forms in gas bubbles inside cooled lava. One kind is called fortification agate because its bands look like walls.\n\nPhoto: Mike McBey, CC BY 2.0",
     "hashtags": [
       "#scottishpebble",
       "#cairngorm",
@@ -146,5 +156,23 @@
     "https://blog.nms.ac.uk/2018/12/19/what-are-agates",
     "https://www.nms.ac.uk/discover-catalogue/geology-to-jewellery-the-history-and-science-of-cairngorm-quartz",
     "https://en.wikipedia.org/wiki/Smoky_quartz"
+  ],
+  "images": [
+    {
+      "src": "256-a-cairngorm-albert-found-became-victorias-brooch-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Queen Victoria",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Victoria,_sketch_of_new_Balmoral_Castle,_1852.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "256-a-cairngorm-albert-found-became-victorias-brooch-1.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Mike McBey",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Queen's_Balmoral_Castle,_April_1978_(32570221488).jpg",
+      "credit": "Photo: Mike McBey, CC BY 2.0"
+    }
   ]
 }

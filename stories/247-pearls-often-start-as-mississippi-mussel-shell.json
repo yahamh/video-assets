@@ -23,10 +23,15 @@
       "text": "Pearls often start as Mississippi mussel shell.",
       "say": "Pearls often start as miss-ih-SIP-ee mussel shell.",
       "scene": {
-        "kind": "hook",
-        "show": "round-pearl",
-        "tone": "#f2ece4",
-        "color": "#ec6a9c"
+        "kind": "real",
+        "src": "247-pearls-often-start-as-mississippi-mussel-shell-0.jpg",
+        "fit": "cover",
+        "focus": {
+          "x": 0.5,
+          "y": 0.4,
+          "k": 1.08
+        },
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
@@ -52,10 +57,16 @@
       "text": "Most of the shell comes from the Mississippi and Tennessee river systems.",
       "say": "Most of the shell comes from the miss-ih-SIP-ee and Tennessee river systems.",
       "scene": {
-        "kind": "title",
-        "text": "Rivers",
-        "sub": "Mississippi, Tennessee",
-        "color": "#4cc3a8"
+        "kind": "real",
+        "src": "247-pearls-often-start-as-mississippi-mussel-shell-1.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "Loading mussels, Iowa",
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
@@ -139,5 +150,23 @@
     "https://www.gia.edu/gia-news-research/lure-american-freshwater-pearls-revisiting-latendresse-family",
     "https://www.gia.edu/gia-news-research/differences-between-pearl-types",
     "https://factsanddetails.com/japan/cat24/sub159/item933.html"
+  ],
+  "images": [
+    {
+      "src": "247-pearls-often-start-as-mississippi-mussel-shell-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "George Frederick Kunz",
+      "page": "https://commons.wikimedia.org/wiki/File:FMIB_39852_Shells_of_Fresh-Water_Mussel_(Unio_crassidens)_Mississippi_River.jpeg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "247-pearls-often-start-as-mississippi-mussel-shell-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Hugh McCormick Smith",
+      "page": "https://commons.wikimedia.org/wiki/File:FMIB_38868_Loading_Mussels_on_Scows_at_Leclaire,_Iowa,_for_Transportation_to_Muscatine.jpeg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
   ]
 }

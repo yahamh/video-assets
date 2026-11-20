@@ -20,8 +20,15 @@
       "text": "Japan's ama divers whistle when they surface.",
       "say": "Japan's AH-mah divers whistle when they surface.",
       "scene": {
-        "kind": "hook",
-        "show": "pearl"
+        "kind": "real",
+        "src": "227-japans-ama-divers-whistle-when-they-surface-0.jpg",
+        "fit": "cover",
+        "focus": {
+          "x": 0.6,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
@@ -48,20 +55,32 @@
       "text": "One dive lasts about a minute and reaches around 20 meters.",
       "say": "One dive lasts about a minute and reaches around twenty meters.",
       "scene": {
-        "kind": "title",
-        "text": "One minute",
-        "sub": "Down to 20 meters"
+        "kind": "real",
+        "src": "227-japans-ama-divers-whistle-when-they-surface-1.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "An ama diver",
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
       "text": "Many ama still decline air tanks, partly to avoid overfishing.",
       "say": "Many AH-mah still decline air tanks, partly to avoid overfishing.",
       "scene": {
-        "kind": "reveal",
-        "item": "gem",
-        "shape": "round",
-        "tone": "#cfe6f2",
-        "label": "No air tanks"
+        "kind": "real",
+        "src": "227-japans-ama-divers-whistle-when-they-surface-2.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "Ama on the beach",
+        "credit": "Public domain, via Wikimedia Commons"
       }
     },
     {
@@ -136,5 +155,31 @@
     "https://www.kankomie.or.jp/spot/3180",
     "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201112/201112_13.html",
     "https://www.bunka.pref.mie.lg.jp/common/content/000879725.pdf"
+  ],
+  "images": [
+    {
+      "src": "227-japans-ama-divers-whistle-when-they-surface-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Fg2",
+      "page": "https://commons.wikimedia.org/wiki/File:Ama.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "227-japans-ama-divers-whistle-when-they-surface-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Fg2",
+      "page": "https://commons.wikimedia.org/wiki/File:Ama2.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "227-japans-ama-divers-whistle-when-they-surface-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "岩瀬禎之",
+      "page": "https://commons.wikimedia.org/wiki/File:The_working_amas.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
   ]
 }

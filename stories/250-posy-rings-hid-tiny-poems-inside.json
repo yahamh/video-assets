@@ -44,13 +44,16 @@
       "text": "A posy ring carries a short verse, often engraved inside the band.",
       "say": "A POH-zee ring carries a short verse, often engraved inside the band.",
       "scene": {
-        "kind": "reveal",
-        "item": "ring",
-        "shape": "plain",
-        "metal": "yellow",
-        "light": "#fff2c4",
-        "label": "Verse inside",
-        "color": "#f7c23a"
+        "kind": "real",
+        "src": "250-posy-rings-hid-tiny-poems-inside-0.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.5,
+          "y": 0.5,
+          "k": 1.1
+        },
+        "label": "A posy ring",
+        "credit": "Photo: Portable Antiquities Scheme, CC BY 2.0"
       }
     },
     {
@@ -129,7 +132,7 @@
     }
   ],
   "post": {
-    "caption": "Posy rings hid tiny poems inside. Posy is short for poesy, an old word for poetry. A posy ring carries a short verse, often engraved inside the band. Only the giver and the wearer knew the words. Early ones often showed the words on the outside. Early posies were mostly French, the language of courtly love. A gold ring about 700 years old was found in Norfolk. Its French words mean I love you by faith. Jewelers kept ready made posy rings and books of stock phrases. A British Museum ring has stars outside and a star poem inside.",
+    "caption": "Posy rings hid tiny poems inside. Posy is short for poesy, an old word for poetry. A posy ring carries a short verse, often engraved inside the band. Only the giver and the wearer knew the words. Early ones often showed the words on the outside. Early posies were mostly French, the language of courtly love. A gold ring about 700 years old was found in Norfolk. Its French words mean I love you by faith. Jewelers kept ready made posy rings and books of stock phrases. A British Museum ring has stars outside and a star poem inside.\n\nPhoto: Portable Antiquities Scheme, CC BY 2.0",
     "hashtags": [
       "#posyring",
       "#medievaljewelry",
@@ -149,5 +152,15 @@
     "https://api.vam.ac.uk/v2/object/O117008",
     "https://www.etymonline.com/word/posy",
     "https://www.countrylife.co.uk/lifestyle/jewellery/once-englands-most-popular-item-of-jewellery-william-of-orange-henry-viii-and-shakespeare-all-fell-under-the-spell-of-posey-rings"
+  ],
+  "images": [
+    {
+      "src": "250-posy-rings-hid-tiny-poems-inside-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Portable Antiquities Scheme",
+      "page": "https://commons.wikimedia.org/wiki/File:79_Posy_ring_Fleet.jpg",
+      "credit": "Photo: Portable Antiquities Scheme, CC BY 2.0"
+    }
   ]
 }
