@@ -1,0 +1,164 @@
+{
+  "id": "336-lincoln-planned-his-wedding-that-morning",
+  "number": 336,
+  "title": "Lincoln planned his wedding that morning",
+  "style": "gouache",
+  "topic": "abraham lincoln mary todd wedding ring love is eternal 4 november 1842 springfield illinois charles dresser chatterton's jewelry gold band forty years",
+  "music": "music-336.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Lincoln planned his wedding that morning.",
+    "gold": [
+      "wedding",
+      "that",
+      "morning."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lincoln planned his wedding that morning.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Abraham Lincoln married Mary Todd on November 4, 1842.",
+      "say": "Abraham Lincoln married Mary Todd on November fourth, eighteen forty two.",
+      "scene": {
+        "kind": "real",
+        "src": "336-lincoln-planned-his-wedding-that-morning-0.jpg",
+        "fit": "card",
+        "label": "Mary Todd, about 1846",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The wedding was in Springfield, Illinois, at her sister's home.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "blue",
+        "label": "Springfield, Illinois"
+      }
+    },
+    {
+      "text": "That morning Lincoln went to see Reverend Charles Dresser.",
+      "scene": {
+        "kind": "real",
+        "src": "336-lincoln-planned-his-wedding-that-morning-1.jpg",
+        "fit": "card",
+        "label": "Abraham Lincoln, about 1846",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The wedding took place that same evening.",
+      "scene": {
+        "kind": "title",
+        "text": "That evening",
+        "sub": "Springfield, Illinois",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "ruby"
+      }
+    },
+    {
+      "text": "Tradition says he bought the ring at Chatterton's jewelry shop.",
+      "say": "Tradition says he bought the ring at CHAT-er-tunz jewelry shop.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "citrine",
+        "label": "Chatterton's jewelry shop"
+      }
+    },
+    {
+      "text": "The ring was a plain gold band.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "A plain gold band"
+      }
+    },
+    {
+      "text": "Inside it were engraved the words Love is Eternal.",
+      "scene": {
+        "kind": "title",
+        "text": "Eternal",
+        "sub": "Love is Eternal, inside the band",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "amethyst"
+      }
+    },
+    {
+      "text": "Reports say it also read A L to Mary, with the date.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "peridot",
+        "label": "A longer engraving"
+      }
+    },
+    {
+      "text": "Mary wore the ring for about forty years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "topaz",
+        "label": "About forty years"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Abraham Lincoln married Mary Todd in Springfield, Illinois, on November 4, 1842, at her sister's home. Lincoln went to see Reverend Charles Dresser that morning and the wedding took place that evening. Tradition says he bought the plain gold ring at Chatterton's jewelry shop, it was engraved inside with Love is Eternal, and Mary wore it for about forty years.",
+    "hashtags": [
+      "#abrahamlincoln",
+      "#marytodd",
+      "#weddingring",
+      "#americanhistory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nps.gov/liho/learn/historyculture/springfield1.htm",
+    "https://www.nps.gov/liho/learn/historyculture/ring.htm",
+    "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/lincoln-mary-todd-1818-1882",
+    "https://www.history.com/this-day-in-history/november-4/abraham-lincoln-marries-mary-todd",
+    "https://www.hmdb.org/m.asp?m=48874",
+    "https://www.landmarks.org/?p=6609",
+    "https://rogerjnorton.com/Lincoln76.html",
+    "https://drloihjournal.blogspot.com/2018/10/abraham-lincoln-and-mary-todd-a-surprising-enduring-union.html?m=0",
+    "https://shawlocal.com/news/2023/11/04/saturday-marks-abraham-and-mary-todd-lincolns-181st-wedding-anniversary"
+  ],
+  "images": [
+    {
+      "src": "336-lincoln-planned-his-wedding-that-morning-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Shepherd, Nicolas H., photographer.",
+      "page": "https://commons.wikimedia.org/wiki/File:Mary_Todd_Lincoln_1846-1847.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "336-lincoln-planned-his-wedding-that-morning-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Attributed to Nicholas H. Shepherd, based on the recollections of Gibson W. Harris , a law student in Lincoln's office f",
+      "page": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_by_Nicholas_Shepherd,_1846-crop.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
