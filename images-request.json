@@ -1,16 +1,10 @@
 {"queries": [
- {"key": "c-sancy", "commons": ["Sancy diamond", "Diamant Sancy Louvre", "Sancy diamond Astor"], "max": 8},
- {"key": "c-hortensia", "commons": ["Hortensia diamond Louvre", "Diamant Hortensia", "Louvre crown jewels diamond pink"], "max": 6},
- {"key": "c-marielouise", "commons": ["Marie Louise diadem Smithsonian", "Napoleon diamond necklace Marie Louise", "Marie Louise empress diadem turquoise"], "max": 8},
- {"key": "c-maximilian", "commons": ["Mary of Burgundy portrait", "Maximilian I Holy Roman Emperor portrait", "Maximilian and Mary of Burgundy wedding"], "max": 8},
- {"key": "c-betrothal", "commons": ["Roman betrothal ring gold", "Roman gold ring clasped hands", "fede ring hands clasped"], "met": ["betrothal ring", "fede ring"], "max": 8},
- {"key": "c-antoinette", "commons": ["Marie Antoinette pearl", "Marie Antoinette portrait Vigee Le Brun", "Marie Antoinette jewelry pendant"], "max": 8},
- {"key": "c-sisi", "commons": ["Empress Elisabeth diamond stars hair Winterhalter", "Empress Elisabeth of Austria Winterhalter 1865", "Sisi diamond star hair ornament"], "max": 8},
- {"key": "c-imperial-crown", "commons": ["Great Imperial Crown of Russia", "Russian Diamond Fund crown", "Catherine the Great crown diamonds"], "max": 8},
- {"key": "c-faberge", "commons": ["Faberge Winter Egg", "Faberge Coronation Egg", "Faberge Peacock egg", "Faberge Lilies of the Valley egg"], "met": ["Faberge egg"], "max": 8},
- {"key": "c-jackie", "commons": ["Jacqueline Kennedy 1953 engagement", "Van Cleef Arpels toi et moi ring", "Jacqueline Bouvier John F Kennedy engagement"], "max": 8},
- {"key": "c-tuttifrutti", "commons": ["Cartier Tutti Frutti", "Cartier tutti frutti bracelet", "Cartier Art Deco carved emerald ruby sapphire"], "max": 8},
- {"key": "c-eugenie", "commons": ["Empress Eugenie jewels", "Empress Eugenie Winterhalter", "Eugenie diamond bow brooch Louvre"], "max": 8},
- {"key": "c-queenmary", "commons": ["Queen Mary Cullinan brooch", "Queen Mary Delhi Durbar crown", "Queen Mary of Teck jewels"], "max": 8},
- {"key": "c-pearlpagoda", "commons": ["Mikimoto Pearl Pagoda", "Mikimoto pearl necklace", "Kokichi Mikimoto portrait"], "max": 8}
+ {"key": "c-tiffany", "commons": ["Tiffany Diamond", "Tiffany Yellow Diamond", "Audrey Hepburn Breakfast at Tiffany's 1961", "Bird on a Rock Schlumberger"], "max": 8},
+ {"key": "c-pearlpendant", "commons": ["Marie Antoinette pearl pendant", "natural pearl pendant diamond 18th century", "Marie Antoinette jewels Sotheby's"], "max": 8},
+ {"key": "c-mansa", "commons": ["Mansa Musa Catalan Atlas", "Mansa Musa", "Mali Empire gold nugget"], "max": 8},
+ {"key": "c-marquise", "commons": ["marquise cut diamond", "marquise diamond ring", "Madame de Pompadour Boucher portrait"], "max": 8},
+ {"key": "c-margaret", "commons": ["Princess Margaret wedding 1960", "Princess Margaret Antony Armstrong-Jones engagement", "Princess Margaret Poltimore tiara"], "max": 8},
+ {"key": "c-bandeau", "commons": ["Queen Mary bandeau tiara", "Meghan Markle wedding 2018 tiara", "Queen Mary diamond bandeau"], "max": 8},
+ {"key": "c-jackie", "commons": ["Jacqueline Bouvier 1953", "Jacqueline Bouvier John F. Kennedy engagement 1953", "John F. Kennedy Jacqueline wedding Newport 1953"], "max": 8},
+ {"key": "c-mikimoto2", "commons": ["Mikimoto cultured pearl", "Mikimoto Pearl Island Toba ama diver", "Ama diver pearl Mikimoto"], "max": 8}
 ]}
