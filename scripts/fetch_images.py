@@ -122,11 +122,15 @@ def save(cand, path):
     tmp = path + ".src"
     open(tmp, "wb").write(data)
     try:
-        from PIL import Image
+        from PIL import Image, ImageFile
+        ImageFile.LOAD_TRUNCATED_IMAGES = True
         im = Image.open(tmp).convert("RGB")
         cand["w"], cand["h"] = im.size
         im.thumbnail((1400, 1400))
         im.save(path, "JPEG", quality=88)
+    except Exception as e:
+        print("  could not read the picture:", str(e)[:80])
+        return False
     finally:
         os.remove(tmp)
     return True
@@ -157,5 +161,6 @@ for q in req["queries"]:
             print(f"  {i} {c['cls']:2} {c['license'][:22]:22} {c['title'][:70]}")
         time.sleep(1.2)
     allc[key] = done
+    json.dump(allc, open(os.path.join(OUT, "candidates.json"), "w"), indent=1)
 json.dump(allc, open(os.path.join(OUT, "candidates.json"), "w"), indent=1)
 print("done", sum(len(v) for v in allc.values()), "pictures")
