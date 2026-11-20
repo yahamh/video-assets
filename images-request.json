@@ -1,10 +1,13 @@
 {"queries": [
- {"key": "c-tiffany", "commons": ["Tiffany Diamond", "Tiffany Yellow Diamond", "Audrey Hepburn Breakfast at Tiffany's 1961", "Bird on a Rock Schlumberger"], "max": 8},
- {"key": "c-pearlpendant", "commons": ["Marie Antoinette pearl pendant", "natural pearl pendant diamond 18th century", "Marie Antoinette jewels Sotheby's"], "max": 8},
- {"key": "c-mansa", "commons": ["Mansa Musa Catalan Atlas", "Mansa Musa", "Mali Empire gold nugget"], "max": 8},
- {"key": "c-marquise", "commons": ["marquise cut diamond", "marquise diamond ring", "Madame de Pompadour Boucher portrait"], "max": 8},
- {"key": "c-margaret", "commons": ["Princess Margaret wedding 1960", "Princess Margaret Antony Armstrong-Jones engagement", "Princess Margaret Poltimore tiara"], "max": 8},
- {"key": "c-bandeau", "commons": ["Queen Mary bandeau tiara", "Meghan Markle wedding 2018 tiara", "Queen Mary diamond bandeau"], "max": 8},
- {"key": "c-jackie", "commons": ["Jacqueline Bouvier 1953", "Jacqueline Bouvier John F. Kennedy engagement 1953", "John F. Kennedy Jacqueline wedding Newport 1953"], "max": 8},
- {"key": "c-mikimoto2", "commons": ["Mikimoto cultured pearl", "Mikimoto Pearl Island Toba ama diver", "Ama diver pearl Mikimoto"], "max": 8}
+ {"key": "d-diana", "commons": ["Diana Princess of Wales 1981 engagement", "Charles and Diana wedding 1981", "Garrard sapphire engagement ring", "Diana Princess of Wales sapphire ring", "Prince Charles Lady Diana Spencer 1981"], "max": 8},
+ {"key": "d-tut", "commons": ["Mask of Tutankhamun", "Tutankhamun gold mask Egyptian Museum", "Howard Carter Tutankhamun 1922 Harry Burton", "Tutankhamun funerary mask gold"], "max": 8},
+ {"key": "d-grace", "commons": ["Grace Kelly 1956", "Grace Kelly Prince Rainier wedding 1956", "Grace Kelly High Society 1956", "Grace Kelly engagement Rainier Monaco"], "max": 8},
+ {"key": "d-victoria", "commons": ["Queen Victoria Prince Albert engagement 1839", "Queen Victoria wedding 1840 Hayter", "snake ring Queen Victoria engagement", "Prince Albert Winterhalter 1842", "Queen Victoria 1840 portrait"], "max": 8},
+ {"key": "d-cleopatra", "commons": ["Banquet of Cleopatra Tiepolo", "Cleopatra dissolving pearl vinegar painting", "Cleopatra Antony banquet pearl", "Cleopatra Marc Antony pearl painting"], "max": 8},
+ {"key": "d-peregrina", "commons": ["La Peregrina pearl", "Mary I of England Antonis Mor pearl pendant", "Elizabeth Taylor 1950s portrait", "Elizabeth Taylor La Peregrina necklace Cartier"], "max": 8},
+ {"key": "d-lincoln", "commons": ["Mary Todd Lincoln 1846 daguerreotype", "Abraham Lincoln 1846 daguerreotype", "Lincoln wedding ring Love is Eternal", "Abraham Lincoln Mary Todd Lincoln"], "max": 8},
+ {"key": "d-wallis", "commons": ["Wallis Simpson Duke of Windsor wedding 1937", "Duchess of Windsor jewels Cartier", "Duke and Duchess of Windsor 1950s", "Wallis Simpson emerald ring"], "max": 8},
+ {"key": "d-cullinan", "commons": ["Cullinan diamond", "Cullinan diamond rough 3106 carats", "Great Star of Africa sceptre Cullinan I", "Joseph Asscher Cullinan diamond cutting 1908", "Thomas Cullinan Premier Mine"], "max": 8},
+ {"key": "d-welsh", "commons": ["Clogau St David's gold mine", "Welsh gold wedding ring", "Princess Elizabeth Prince Philip engagement 1947", "Wedding of Princess Elizabeth 1947", "Queen Elizabeth the Queen Mother wedding ring Welsh gold"], "max": 8},
+ {"key": "d-bezel", "commons": ["bezel set ring", "bezel setting gemstone", "bezel set diamond ring"], "max": 6}
 ]}
