@@ -16,6 +16,12 @@ LENGTH = {"story": (30.0, 40.0), "lesson": (30.0, 45.0)}
 FOLDERS = {"story": "stories", "lesson": "lessons"}
 LESSON_FIRST = {"compare", "photo"}  # a lesson opens on a real render: the 3D file turning into it, or the render itself
 RENDERS = ROOT / "public" / "renders"
+IMG = ROOT / "public" / "img"
+# ali, 20 Nov 2026: "completely different pieces and changes every video, you can even include images from online of the
+# subjects". From this story on every story shows its real subject and varies its hero stone (WRITING.md, "Pieces and pictures").
+REAL_FROM = 310
+IMG_OK = {"pd": "public domain, CC0 or the Met's Open Access", "by": "CC BY, with the credit on screen and in the caption"}  # CC BY-SA never without ali's word
+IMG_HOSTS = ("https://commons.wikimedia.org/", "https://www.metmuseum.org/")
 # Words and phrases that make a story sound machine-written (WRITING.md, "How it should sound").
 BANNED = [
     "imagine", "little did", "in a world", "here's the twist", "but here's", "here's the thing", "here's why",
@@ -89,6 +95,58 @@ def rotation():
     return out
 
 
+_ALL = {}
+
+
+def all_stories():
+    if not _ALL:
+        for p in (ROOT / "stories").glob("*.json"):
+            d = json.loads(p.read_text())
+            if d.get("number") is not None:
+                _ALL[d["number"]] = d
+    return _ALL
+
+
+def hero(s):
+    """What the story's first picture shows, for the 'never the same stone twice running' rule."""
+    for l in s.get("lines", []):
+        sc = l.get("scene") or {}
+        if sc.get("kind") in ("real", "title"):
+            continue
+        return (sc.get("piece") or sc.get("item") or sc.get("show") or sc.get("stone"), sc.get("shape"), (sc.get("tone") or sc.get("color") or "").lower())
+    return None
+
+
+def real_pictures(path, s, say):
+    """The real photographs a story shows (public/img): each one needs its license worked out and its credit shown."""
+    imgs = {i.get("src"): i for i in s.get("images") or []}
+    scenes = [l.get("scene") or {} for l in s["lines"] if (l.get("scene") or {}).get("kind") == "real"]
+    for sc in scenes:
+        src = sc.get("src")
+        i = imgs.get(src)
+        if not isinstance(src, str) or not (IMG / src).is_file():
+            say(f"a real scene names public/img/{src}, which isn't there")
+        if not i:
+            say(f"real picture {src}: add it to the story's images (src, license, cls, artist, page, credit)")
+            continue
+        if i.get("cls") not in IMG_OK:
+            say(f"real picture {src}: license class {i.get('cls')!r} isn't allowed (only {', '.join(IMG_OK)}; CC BY-SA, NC, ND, fair use and unknown are out)")
+        if not str(i.get("page", "")).startswith(IMG_HOSTS):
+            say(f"real picture {src}: page should be its Wikimedia Commons or Met page, the proof of the license")
+        if not i.get("license") or not i.get("artist"):
+            say(f"real picture {src}: write down its license and its artist")
+        if i.get("cls") == "by":
+            if not sc.get("credit"):
+                say(f"real picture {src} is CC BY: the scene needs a credit line on screen")
+            if i.get("credit") and i["credit"] not in s["post"].get("caption", ""):
+                say(f"real picture {src} is CC BY: put {i['credit']!r} in post.caption")
+    for src in imgs:
+        for n, other in all_stories().items():
+            if n != s["number"] and any(j.get("src") == src for j in other.get("images") or []):
+                say(f"picture {src} was already used in story {n}")
+    return len(scenes)
+
+
 def check(path, seen):
     problems = []
     say = lambda m: problems.append(f"{path.name}: {m}")
@@ -132,6 +190,26 @@ def check(path, seen):
             for l in s["lines"]:
                 for what in paper_only(l.get("scene") or {}):
                     say(f"{what} only exists in the paper style: change it or use the paper style for this story")
+    reals = real_pictures(path, s, say) if series == "story" else 0
+    if series == "story" and s["number"] >= REAL_FROM:
+        if not reals and not s.get("no_real_image"):
+            say('no real picture: show the actual subject (a "real" scene from public/img, found with scripts/fetch_images.py), or set "no_real_image" to the reason none is free to use')
+        if sum(1 for l in s["lines"] if (l.get("scene") or {}).get("kind") == "title") > 3:
+            say("more than 3 text cards: use a piece, a person or a real picture on the other lines")
+        mine = hero(s)
+        for back in (1, 2, 3):
+            o = all_stories().get(s["number"] - back)
+            if mine and o and mine[0] and mine == hero(o):
+                say(f"the first picture ({mine[0]}, {mine[1]}, {mine[2]}) is the same as story {o['number']}'s: pick another piece, cut or color that fits this subject")
+                break
+        gems = {}
+        for l in s["lines"]:
+            sc = l.get("scene") or {}
+            if (sc.get("item") or sc.get("show") or sc.get("stone")) == "gem":
+                k = (sc.get("shape"), (sc.get("tone") or sc.get("color") or "").lower())
+                gems[k] = gems.get(k, 0) + 1
+        if any(n > 2 for n in gems.values()):
+            say("the same plain gem (shape and color) three times: a story that needs a different stone on every line shows the real piece instead")
     total = END_S
     spoken = " ".join(l.get("say") or l.get("text", "") for l in s["lines"])
     sentences = [x.split() for x in re.split(r"(?<=[.!?])\s+", spoken.strip()) if x.strip()]
@@ -155,6 +233,8 @@ def check(path, seen):
             say(f"line {i}: unknown scene {kind!r} (have {', '.join(sorted(SCENES))})")
         scene = line.get("scene") or {}
         for pic in [scene.get(k) for k in ("src", "before", "after")] + list(scene.get("srcs") or []):
+            if kind == "real":
+                break  # real pictures live in public/img and are checked by real_pictures()
             if isinstance(pic, str) and pic and not (RENDERS / pic).is_file():
                 say(f"line {i}: there's no public/renders/{pic}")
         n = len(text.split())
@@ -183,8 +263,8 @@ def check(path, seen):
         if g.lower() not in hook.get("text", "").lower():
             say(f"hook.gold word {g!r} isn't in the hook text")
     first = s["lines"][0].get("scene", {}).get("kind") if s["lines"] else None
-    if series == "story" and first != "hook":
-        say("the first scene should be kind 'hook': the payoff, big and moving")
+    if series == "story" and first not in ("hook", "real"):
+        say("the first scene should be kind 'hook' (the payoff, big and moving) or a 'real' picture of the subject")
     if series == "lesson" and first not in LESSON_FIRST:
         say("a lesson's first scene should be compare (the 3D file turning into its render) or photo (a render)")
     if series == "lesson":

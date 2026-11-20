@@ -35,6 +35,7 @@ import { Compare } from "./scenes/Compare";
 import { Grid } from "./scenes/Grid";
 import { Steps } from "./scenes/Steps";
 import { Mix } from "./scenes/Mix";
+import { Real } from "./scenes/Real";
 import { LpEnd } from "./lp/scenes";
 import { lowPolyScene } from "./lp/registry";
 import { paperScene } from "./paper/registry";
@@ -63,6 +64,7 @@ export const SCENES: Record<string, React.FC<SceneProps>> = {
   grid: Grid,
   steps: Steps,
   mix: Mix,
+  real: Real,
 };
 
 const f = (s: number) => Math.round(s * FPS);

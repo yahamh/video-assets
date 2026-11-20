@@ -124,8 +124,10 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   Low poly and the dark drawing share the basic scenes and options; everything under "The paper look adds a few options"
   below is paper only, and `check.py` says so when a low-poly or dark story uses one. How to pick: take the look that
   has gone unused longest among those that can draw the story (look at the last few stories' `style` and `theme`).
-  **Two stories in three should be low poly or the dark drawing** (ali, 5 Nov 2026: "do more of the style that performs
-  best"). The views Zernio reports for the posts from 28 Oct to 4 Nov: on Instagram the dark drawing averaged about 1,300
+  **Update 20 Nov 2026:** the 1,057 posts since then show no real difference between the looks on Instagram (dark drawing
+  464 views a reel on average, low poly 440, paper 472), so just rotate them; ali is picking a new full-color look
+  (`revamp/stories/art-style-samples`). The old rule, kept for the record: **two stories in three low poly or the dark
+  drawing** (ali, 5 Nov 2026: "do more of the style that performs best"). The views Zernio reports for the posts from 28 Oct to 4 Nov: on Instagram the dark drawing averaged about 1,300
   views a reel (3 stories), low poly 900 (8), paper 560 (6); on YouTube the dark drawing and low poly both about 125 a
   video, paper 23. (Zernio gives no numbers for TikTok or, mostly, Facebook.) So the order is low poly, dark drawing,
   paper, and again, which `check.py` allows; write those stories with basic scenes, and use paper for the story that needs
@@ -147,6 +149,42 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   shimmer are played in that key and chord (`scripts/tones.py`), and the sound between scenes changes too. To hear one:
   `python3 scripts/music.py public/music-NNN.wav 45 NNN bright`; `python3 scripts/check_music.py` checks the engine.
 - Hashtags: 3 to 6, specific to the story, different from the last few stories.
+
+## Pieces and pictures (from story 310; ali, 20 Nov 2026)
+
+ali: "the ring isn't even properly made and you always use the same stone, it's too repetitive. We need completely
+different pieces and changes every video, you can even include images from online of the subjects." Of 916 hero scenes in
+stories 150 to 309, 642 were the same plain `gem` (mostly round, oval or cushion, the same gold) and 729 lines were text
+cards. `check.py` now enforces what follows from story 310.
+
+- **Show the real subject.** Every story has at least one `real` scene: the actual jewel, person, shop or object, from
+  Wikimedia Commons or the Met's Open Access (`src/scenes/Real.tsx`). Open the story on one when there is a good picture
+  (the hook should be what everyone can picture). If no free picture exists, set `"no_real_image": "why"` in the file.
+- **Finding pictures.** Cloud sessions can't reach Wikimedia, so a GitHub job does it: put `{"queries": [{"key":
+  "310-hope", "commons": ["Hope Diamond", ...], "met": ["..."], "files": ["File:Exact name.jpg"], "max": 6}]}` in
+  `images-request.json` on the throwaway branch `images-tmp` (the job is `.github/workflows/images-tmp.yml`, script
+  `scripts/fetch_images.py`, it commits `images-out/` with a `candidates.json`), push, wait about 2 minutes, fetch it with
+  `git archive origin/images-tmp images-out | tar -x`. LOOK at every candidate (the Read tool shows images) and pick the
+  one that really is the subject, sharp, with nothing in front of it. Never push this to `stories`.
+- **Rights.** The job keeps only `pd` (public domain, CC0, the Met's Open Access: no credit needed) and `by` (CC BY: the
+  artist's credit must show on screen and be in `post.caption`). CC BY-SA, NC, ND, fair use and unknown licenses are
+  dropped and never used without ali's word. Open the picture's Commons page and read the license yourself too (a file
+  can be wrongly tagged); say so in the log when you doubt one. Photos of living private people stay out like their names.
+- **Using one.** Copy the chosen file (at most 1400 px, JPEG) to `public/img/<story id>-N.jpg`, add it to the story's
+  `images` (`src`, `license`, `cls` "pd" or "by", `artist`, `page` (its Commons or Met page), `credit` ("Photo: Name, CC BY
+  4.0")), and use it:
+  `{ "kind": "real", "src": "310-hope-0.jpg", "fit": "card", "focus": { "x": 0.5, "y": 0.5, "k": 1.12 }, "label": "The Hope Diamond", "credit": "Photo: ..." }`.
+  `fit` "card" shows the whole picture on a blurred copy of itself, between the label and the captions (landscape
+  pictures, white-background product shots); "cover" fills the frame around `focus` (portrait pictures and close-ups).
+  **The first scene (the hook words cover its top) can be a `real` scene instead of `hook`** (`check.py` allows both),
+  and then it should be "cover": a close, striking crop of the subject, like the Hope Diamond filling the frame. The credit line is only needed for `by`. A picture is used in one story only.
+- **Never the same piece twice running.** Pick the piece, cut, color and metal that fit this subject (a Colombian emerald
+  is an emerald cut and green, the Cullinan a pear, the Pink Star an oval and pink, a posy ring a plain gold band), and
+  never the first picture of either of the three stories before. The same plain gem (shape and color) is allowed twice
+  in a story at most. At most 3 text cards (`title`) a story: use a piece (`jewel`), people (`cast`) or a real picture on the
+  other lines.
+- The file gets `"images": [ ... ]` next to `sources`; `check.py` refuses a picture without a license class, a Commons or
+  Met page, an artist, or (for `by`) the credit in the caption.
 
 ## Scenes
 

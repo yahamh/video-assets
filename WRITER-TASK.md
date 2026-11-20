@@ -22,8 +22,10 @@ follow it exactly; for lessons, read WRITING-LESSONS.md too.
    aren't told yet (every story has a `topic`) and spread them across the four groups in WRITING.md ("From 20 Nov 2026": names people know, diamonds, engagement and wedding rings, gold and pearls; at least 4 in 10 are names people know; no more minerals, word origins or techniques on their own).
 3. For each story, search the web and confirm every fact in two sources that don't copy each other; put both links in
    `sources`. If a fact can't be confirmed twice, leave it out or pick another story.
+   Then find a real picture of the subject (WRITING.md, "Pieces and pictures": the `images-tmp` job, license check, a `real`
+   scene, credit) and give the story a piece and stone that fit it, different from the three stories before.
 4. Pick each story's look (WRITING.md, "style and theme": rotate, never the same as either of the two stories before
-   it; two in three low poly or the dark drawing, since they get several times the views of paper on Instagram and YouTube;
+   it; just rotate (the 20 Nov review found no real difference between looks on Instagram);
    never a one-ink theme) and set `"style"`, `"theme"` where it has one, a `"plate"` (the
    story's name in italics under the plate header, for the paper look; the other looks leave it out) and
    `"music": "music-NNN.wav"`. The workflow makes the music itself (from the story number), so never commit it; to hear
