@@ -3487,7 +3487,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1853340869191581",
+      "instagram": "https://www.instagram.com/reel/Df9LhtKAFQf/",
+      "youtube": "https://www.youtube.com/watch?v=A5avrswz9J0"
+    }
   },
   "226-georgian-gems-hid-tinted-foil-underneath": {
     "at": "2026-11-20T08:30:00Z",
@@ -3495,13 +3501,20 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1161438996224344",
+      "instagram": "https://www.instagram.com/reel/Df9O4mZFcJD/"
+    }
   },
   "227-japans-ama-divers-whistle-when-they-surface": {
     "at": "2026-11-20T19:00:00Z",
-    "zernio_id": "6afff96553a0d22eb00ae0fa",
+    "zernio_id": "6b001b3745f5c6dd6c3e9f20",
     "platforms": [
-      "instagram"
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "228-filigrees-name-means-thread-and-grain": {
@@ -3511,7 +3524,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "partial",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1523607617505570",
+      "instagram": "https://www.instagram.com/reel/Df9VqjFnAHU/",
+      "tiktok": "failed: You have created too many posts in the last 24 hours via the API. Please try posting directly in the TikTok app or wait before posting again."
+    }
   },
   "229-pounamu-pendants-were-once-carved-with-stone": {
     "at": "2026-11-20T10:00:00Z",
@@ -3732,7 +3751,7 @@
   },
   "247-pearls-often-start-as-mississippi-mussel-shell": {
     "at": "2026-11-20T23:30:00Z",
-    "zernio_id": "6afff8cc0677871ffa3779bb",
+    "zernio_id": "6b001b72f05046144442311a",
     "platforms": [
       "instagram"
     ]
@@ -3747,15 +3766,15 @@
   },
   "249-a-roman-bulla-was-a-gold-bubble": {
     "at": "2026-11-20T22:00:00Z",
-    "zernio_id": "6afff91f0677871ffa377acb",
+    "zernio_id": "6b001b59a8efab0efbffd2d9",
     "platforms": [
-      "facebook",
-      "instagram"
+      "instagram",
+      "tiktok"
     ]
   },
   "250-posy-rings-hid-tiny-poems-inside": {
     "at": "2026-11-21T00:30:00Z",
-    "zernio_id": "6afff8de53a0d22eb00ade47",
+    "zernio_id": "6b001b7ed27082d3fca9ea50",
     "platforms": [
       "facebook",
       "instagram"
@@ -3771,7 +3790,7 @@
   },
   "252-trembler-brooches-shake-diamonds-on-tiny-springs": {
     "at": "2026-11-21T01:30:00Z",
-    "zernio_id": "6afff8f053a0d22eb00adea8",
+    "zernio_id": "6b001b86f05046144442316f",
     "platforms": [
       "instagram",
       "tiktok"
@@ -3804,8 +3823,9 @@
   },
   "256-a-cairngorm-albert-found-became-victorias-brooch": {
     "at": "2026-11-20T23:00:00Z",
-    "zernio_id": "6afff8b853a0d22eb00add82",
+    "zernio_id": "6b001b669af5912ba53493f9",
     "platforms": [
+      "facebook",
       "instagram",
       "youtube"
     ]
@@ -3827,7 +3847,7 @@
   },
   "259-cufflinks-were-once-called-sleeve-buttons": {
     "at": "2026-11-20T20:00:00Z",
-    "zernio_id": "6afff9550677871ffa377bdb",
+    "zernio_id": "6b001b42f050461444423045",
     "platforms": [
       "instagram"
     ]
@@ -3995,7 +4015,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29261338760227452",
+      "instagram": "https://www.instagram.com/reel/Df9SWmylC10/"
+    }
   },
   "277-iridium-is-named-after-a-rainbow-goddess": {
     "at": "2026-11-20T17:00:00Z",
@@ -4145,8 +4170,9 @@
   },
   "295-a-puzzle-ring-falls-apart-when-removed": {
     "at": "2026-11-20T21:30:00Z",
-    "zernio_id": "6afff90f0677871ffa377a76",
+    "zernio_id": "6b001b4e946eed2aadf8d7ea",
     "platforms": [
+      "facebook",
       "instagram"
     ]
   },
