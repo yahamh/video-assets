@@ -3513,7 +3513,11 @@
     "zernio_id": "6b0033d657641a0d82ca2a58",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-XHOeD7OB/"
+    }
   },
   "228-filigrees-name-means-thread-and-grain": {
     "at": "2026-11-20T09:30:00Z",
@@ -3784,7 +3788,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1622708862298361",
+      "instagram": "https://www.instagram.com/reel/Df-rgyYk8Bn/"
+    }
   },
   "250-posy-rings-hid-tiny-poems-inside": {
     "at": "2026-11-21T00:30:00Z",
@@ -3893,7 +3902,11 @@
     "zernio_id": "6b001b42f050461444423045",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-d_D_gTGq/"
+    }
   },
   "260-hatpins-got-their-own-city-laws": {
     "at": "2026-11-20T18:00:00Z",
@@ -3903,7 +3916,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1149007897529976",
+      "instagram": "https://www.instagram.com/reel/Df-QfgpEpUk/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710316184045931782",
+      "youtube": "https://www.youtube.com/watch?v=40GrSlCc0Ws"
+    }
   },
   "261-a-draw-plate-stretches-gold-into-thread": {
     "at": "2026-11-20T19:30:00Z",
@@ -3911,7 +3931,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29749842601373102",
+      "instagram": "https://www.instagram.com/reel/Df-aU_XABBU/"
+    }
   },
   "262-brooch-comes-from-a-word-for-skewer": {
     "at": "2026-11-20T21:00:00Z",
@@ -3919,7 +3944,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1708214450706625",
+      "instagram": "https://www.instagram.com/reel/Df-k7piEigv/"
+    }
   },
   "263-vulcanite-is-rubber-hardened-into-jewelry": {
     "at": "2026-11-20T12:00:00Z",
@@ -4051,7 +4081,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-MsTEiqPG/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710307668874857736"
+    }
   },
   "275-tungsten-means-heavy-stone-in-swedish": {
     "at": "2026-11-21T09:30:00Z",
@@ -4079,7 +4114,11 @@
     "zernio_id": "6afff95ef1495db5b793d12a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-Jem8jV8-/"
+    }
   },
   "278-tigers-eye-hides-blue-fibers": {
     "at": "2026-11-20T20:30:00Z",
@@ -4087,7 +4126,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-hNKkkU87/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710353892021652757"
+    }
   },
   "279-apatites-name-means-to-deceive": {
     "at": "2026-11-21T11:00:00Z",
@@ -4101,7 +4145,11 @@
     "zernio_id": "6afee85d599cd7ed411d716f",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-u9PxE1D1/"
+    }
   },
   "281-black-hematite-leaves-a-red-streak": {
     "at": "2026-11-20T11:00:00Z",
@@ -4218,7 +4266,11 @@
     "zernio_id": "6afff8fd0166a3749c45b3ff",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-TjfGDfBP/"
+    }
   },
   "293-unakite-is-granite-that-turned-green-underground": {
     "at": "2026-11-21T10:00:00Z",
@@ -4243,7 +4295,11 @@
     "zernio_id": "6b0033c5760914d2ad2092ab",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-oHB7meMf/"
+    }
   },
   "296-rhodonite-is-russias-pink-eagle-stone": {
     "at": "2026-11-21T11:30:00Z",
@@ -4505,6 +4561,70 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "328-a-royal-ring-anyone-could-buy": {
+    "at": "2026-11-22T03:30:00Z",
+    "zernio_id": "6b00d47bbb0444de2d87edd9",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "329-a-spell-is-written-on-its-back": {
+    "at": "2026-11-22T08:00:00Z",
+    "zernio_id": "6b00d47f6653f11e8e2f9be7",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "330-vinegar-really-can-dissolve-pearls": {
+    "at": "2026-11-22T08:30:00Z",
+    "zernio_id": "6b00d483bb0444de2d87ee08",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "331-she-wore-her-real-ring-on-screen": {
+    "at": "2026-11-22T09:00:00Z",
+    "zernio_id": "6b00d486bb0444de2d87ee22",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "332-the-queen-had-to-propose-first": {
+    "at": "2026-11-22T09:30:00Z",
+    "zernio_id": "6b00d489bb0444de2d87ee3a",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "333-a-pearl-found-in-a-puppy-s-mouth": {
+    "at": "2026-11-22T10:00:00Z",
+    "zernio_id": "6b00d48d6653f11e8e2f9c46",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "334-one-nugget-made-five-royal-rings": {
+    "at": "2026-11-22T10:30:00Z",
+    "zernio_id": "6b00d49198bf05291ea10710",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "335-the-first-blow-broke-the-knife": {
+    "at": "2026-11-22T11:00:00Z",
+    "zernio_id": "6b00d495bb0444de2d87ee84",
+    "platforms": [
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -5104,6 +5224,13 @@
   "lesson-034-diamond-clarity-grades": {
     "at": "2026-11-26T16:00:00Z",
     "zernio_id": "6aff86ff20ea68d0fa0d7359",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-035-bezel-setting": {
+    "at": "2026-11-27T16:00:00Z",
+    "zernio_id": "6b00d49a6653f11e8e2f9c7f",
     "platforms": [
       "youtube"
     ]
