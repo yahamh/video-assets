@@ -8,7 +8,8 @@ import "@fontsource/instrument-serif/400.css";
 import "@fontsource/instrument-serif/400-italic.css";
 import { AbsoluteFill, Audio, staticFile, useCurrentFrame } from "remotion";
 import { FPS, easeOut, prog } from "../look";
-import { EMERALD, Ring, RUBY, Stone, StoneProps } from "./common";
+import { DIAMOND, EMERALD, RUBY, SAPPHIRE } from "./common";
+import { Piece, PieceSpec, ringBottom } from "./gem3d";
 import { LOOKS, Look, Medal } from "./looks";
 
 // A 10 second sample of one real story (Diana's sapphire ring) in each new look: same script, same beats, same timing,
@@ -35,45 +36,43 @@ const CAPTIONS: Record<string, string> = {
 
 type Hero = { node: React.ReactNode; floorY: number | null; medal: Medal };
 
+// One real piece in every shot, built properly (see gem3d.tsx): a different cut, a different stone and a different metal each time.
 function layout(L: Look, b: Beat, lt: number, t: number): Hero {
-  const pop = b.kind === "hook" ? 1 : 0.9 + 0.1 * easeOut(prog(lt, 0, 0.5));
+  const pop = b.kind === "hook" ? 1 : 0.92 + 0.08 * easeOut(prog(lt, 0, 0.5));
   const push = 1 + 0.035 * prog(lt, 0, b.t1 - b.t0);
-  const bob = Math.sin(t * 1.5) * 7;
-  const base: StoneProps = { t, rx: 255, ry: 200, ...L.stone, seed: 1 };
-  const RR = { R: 215, bw: 70 };
-  const metal = L.metal;
-  if (b.kind === "hook" || b.kind === "ring") {
-    const s = (b.kind === "hook" ? 0.95 : 0.84) * pop * push;
-    const oy = 1290;
-    const bottom = oy + 250 * s;
+  const st = L.render;
+  const sapphire: PieceSpec = { cut: "oval", stops: SAPPHIRE, metal: "platinum", halo: { n: 14, stops: DIAMOND }, rr: 1.9, rise: 0.34 };
+  if (b.kind === "hook") {
+    const k = 165 * pop * push;
+    const yaw = 0.62 + Math.sin(t * 0.9) * 0.1;
+    const elev = 0.5;
+    const oy = 1200;
     return {
-      floorY: bottom + 2,
-      medal: b.kind === "hook" ? { cy: 1090, rx: 470, ry: 550 } : { cy: 1100, rx: 470, ry: 520 },
-      node: (
-        <g transform={`translate(540 ${oy + bob * 0.4}) scale(${s})`}>
-          <Ring {...base} {...RR} metal={metal} />
-        </g>
-      ),
+      floorY: ringBottom(sapphire, yaw, elev, oy, k) + 2,
+      medal: { cy: 1090, rx: 470, ry: 560 },
+      node: <Piece spec={sapphire} yaw={yaw} elev={elev} ox={540} oy={oy} k={k} t={t} style={st} uid="hook" seed={1} />,
     };
   }
   if (b.kind === "row") {
-    const bottom = 1300;
-    const rings: [number, number, StoneProps["stops"], number][] = [
-      [205, 0.4, RUBY, 5],
-      [875, 0.4, EMERALD, 7],
-      [540, 0.62, L.stone.stops, 1],
+    const rings: { x: number; k: number; yaw: number; spec: PieceSpec; seed: number }[] = [
+      { x: 150, k: 80, yaw: 0.5, seed: 5, spec: { cut: "oval", stops: RUBY, metal: "rose", prongs: 4, rr: 1.85 } },
+      { x: 930, k: 80, yaw: -0.5, seed: 7, spec: { cut: "emerald", stops: EMERALD, metal: "yellow", prongs: 4, rr: 1.85, shoulder: { n: 3, stops: DIAMOND } } },
+      { x: 540, k: 128, yaw: 0.62, seed: 1, spec: sapphire },
     ];
+    const baseline = 1450;
+    const elev = 0.5;
     return {
-      floorY: bottom + 2,
-      medal: { cy: 1080, rx: 480, ry: 400 },
+      floorY: baseline + 2,
+      medal: { cy: 1060, rx: 480, ry: 430 },
       node: (
         <g>
-          {rings.map(([x, sc, stops, seed], i) => {
-            const k = sc * pop * push;
+          {rings.map((r, i) => {
+            const k = r.k * pop * push;
             const rise = (1 - easeOut(prog(lt, 0.05 + i * 0.12, 0.6 + i * 0.12))) * 70;
+            const oy = baseline - (ringBottom(r.spec, r.yaw, elev, 0, k)) + rise;
             return (
-              <g key={i} transform={`translate(${x} ${bottom - 250 * k + rise}) scale(${k})`} opacity={0.35 + 0.65 * easeOut(prog(lt, i * 0.12, 0.35 + i * 0.12))}>
-                <Ring {...base} {...RR} stops={i === 2 ? L.stone.stops : stops} seed={seed} halo={i === 2 ? 14 : 10} metal={metal} sparkles={i === 2} />
+              <g key={i} opacity={0.35 + 0.65 * easeOut(prog(lt, i * 0.12, 0.35 + i * 0.12))}>
+                <Piece spec={r.spec} yaw={r.yaw + Math.sin(t * 0.8 + i) * 0.06} elev={elev} ox={r.x} oy={oy} k={k} t={t} style={st} uid={`row${i}`} seed={r.seed} />
               </g>
             );
           })}
@@ -83,25 +82,31 @@ function layout(L: Look, b: Beat, lt: number, t: number): Hero {
   }
   if (b.kind === "stone") {
     const shown = Math.min(14, Math.floor(prog(lt, 0.15, 1.7) * 14.99));
+    const spec: PieceSpec = { ...sapphire, band: false, halo: { n: 14, stops: DIAMOND, shown } };
     return {
       floorY: null,
-      medal: { cy: 940, rx: 470, ry: 470 },
-      node: (
-        <g transform={`translate(540 ${940 + bob}) scale(${1.32 * pop * push})`}>
-          <Stone {...base} haloShown={shown} />
-        </g>
-      ),
+      medal: { cy: 960, rx: 470, ry: 470 },
+      node: <Piece spec={spec} yaw={0.15 * Math.sin(t * 0.7)} elev={1.0} ox={540} oy={980 + Math.sin(t * 1.5) * 6} k={250 * pop * push} t={t} style={st} uid="stone" seed={1} />,
     };
   }
-  // title: the stone alone, bigger
+  if (b.kind === "ring") {
+    const k = 150 * pop * push;
+    const yaw = 1.05 + Math.sin(t * 0.9) * 0.12;
+    const elev = 0.3;
+    const oy = 1135;
+    const spec: PieceSpec = { ...sapphire, halo: { n: 14, stops: DIAMOND }, rise: 0.4 };
+    return {
+      floorY: ringBottom(spec, yaw, elev, oy, k) + 2,
+      medal: { cy: 1100, rx: 470, ry: 520 },
+      node: <Piece spec={spec} yaw={yaw} elev={elev} ox={540} oy={oy} k={k} t={t} style={st} uid="ring" seed={2} />,
+    };
+  }
+  // title: the loose stone alone, turning
+  const loose: PieceSpec = { cut: "oval", stops: SAPPHIRE, metal: "platinum", band: false };
   return {
     floorY: null,
-    medal: { cy: 1120, rx: 480, ry: 470 },
-    node: (
-      <g transform={`translate(540 ${1120 + bob}) scale(${1.12 * pop * push})`}>
-        <Stone {...base} rx={335} ry={270} halo={0} />
-      </g>
-    ),
+    medal: { cy: 1130, rx: 480, ry: 470 },
+    node: <Piece spec={loose} yaw={t * 0.8} elev={0.4} ox={540} oy={1070 + Math.sin(t * 1.5) * 6} k={380 * pop * push} t={t} style={st} uid="loose" seed={1} />,
   };
 }
 

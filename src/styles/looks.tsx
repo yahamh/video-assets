@@ -1,6 +1,7 @@
 import React from "react";
 import { rand } from "../look";
 import { DIAMOND, MetalKit, RGB, SAPPHIRE, StoneProps, hex, rise } from "./common";
+import { PieceStyle } from "./gem3d";
 
 // Three full-colour looks for the stories. Each one gives the sample its background, its hero stone and metal,
 // its frame, and its type. Nothing here is one-ink: every look keeps the story's own jewel colour and a second, warm colour.
@@ -18,6 +19,7 @@ export type Look = {
   metal: MetalKit;
   reflect: boolean;
   heroFilter?: string;
+  render: PieceStyle;
   Hook: React.FC<{ lines: string[]; gold: string[]; t: number }>;
   Caption: React.FC<{ text: string; t: number }>;
   Title: React.FC<{ big: string; sub: string; t: number }>;
@@ -145,6 +147,7 @@ export const JEWELBOX: Look = {
   stone: { stops: SAPPHIRE, contrast: 1.12 },
   metal: { band: "url(#jbMetal)", light: "#ffffff", shade: "#4b5463", shine: true },
   reflect: true,
+  render: { gem: { contrast: 1.12, fire: true, sparkles: true } },
   Hook: JbHook,
   Caption: JbCaption,
   Title: JbTitle,
@@ -255,6 +258,7 @@ export const DECO: Look = {
   stone: { stops: ["#0a1f6b", "#1642b8", "#2f6af0", "#7fb0ff", "#e3f0ff"].map(hex), levels: 5, contrast: 1.2, stroke: GOLD, strokeW: 4, diaStroke: GOLD },
   metal: { band: GOLD, edge: GOLD_D, light: "#fff2b8", shade: "#c8901f", flat: true },
   reflect: false,
+  render: { gem: { levels: 5, contrast: 1.2, stroke: GOLD, strokeW: 4 }, metalLevels: 4, outline: "#071a52", outlineW: 11, metals: { platinum: ["#33508f", "#7e9fe0", "#cfe0ff", "#f4f8ff", "#ffffff"].map(hex) } },
   Hook: DecoHook,
   Caption: DecoCaption,
   Title: DecoTitle,
@@ -374,6 +378,7 @@ export const GOUACHE: Look = {
   metal: { band: "#e0dbcd", light: "#fffaf0", shade: "#6f7683", shine: true },
   reflect: false,
   heroFilter: "url(#gPaint)",
+  render: { gem: { contrast: 0.92, sparkles: true }, metals: { platinum: ["#4d4a5a", "#8d8a99", "#cfc9c6", "#f4eee4", "#fffaf0"].map(hex) } },
   Hook: GouacheHook,
   Caption: GouacheCaption,
   Title: GouacheTitle,
