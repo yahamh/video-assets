@@ -134,9 +134,17 @@ const Pearl: React.FC<{ x: number; y: number; r: number; tone: string; L: Look; 
 };
 
 // A Fabergé-style egg: enamel, gold bands, pearls, a stone on top.
+// enamel colors for an egg that are not a stone's color name
+const ENAMEL: Record<string, RGB[]> = {
+  white: mk(["#8d887c", "#c7c1b3", "#e9e5d9", "#f8f6ee", "#ffffff", "#ffffff"]),
+  cream: mk(["#8a7c5a", "#c9b98e", "#e9dcb4", "#f8efd2", "#fffbe8", "#ffffff"]),
+  black: mk(["#05060a", "#14161e", "#2a2e3a", "#4a5064", "#7a8196", "#c9cfdc"]),
+  green: EMERALD, red: RUBY, purple: STONES.amethyst, orange: STONES.topaz, turquoise: STONES.aquamarine, yellow: STONES.yellow,
+};
 const Egg: React.FC<{ def: PieceDef; L: Look; t: number; cx: number; cy: number; k: number; uid: string; seed: number }> = ({ def, L, t, cx, cy, k, uid, seed }) => {
   const mc = mcOf(L, metalOf(def.metal, "yellow"));
-  const st = stone(def.tone && STONES[def.tone] ? def.tone : def.stone ?? "ruby");
+  const tone = (def.tone ?? "").toLowerCase();
+  const st = ENAMEL[tone] ?? stone(STONES[tone] ? tone : def.stone ?? "ruby");
   const rx = 0.7 * k;
   const ry = 1.0 * k;
   const f = flat(L);
@@ -400,6 +408,44 @@ const Shell: React.FC<{ L: Look; t: number; idx: number; hero: Hero; children?: 
   );
 };
 
+// Advance widths (per 1000 px of type, ASCII 32 to 126) measured from the fonts the three looks use, so a title can be fitted exactly.
+const ADV: Record<string, number[]> = {
+  PF900: [223,306,417,609,608,719,938,222,334,334,473,565,278,469,282,366,675,392,553,512,550,489,591,488,588,582,306,304,598,627,598,540,888,692,704,717,811,650,608,756,829,401,390,754,626,965,732,827,678,827,721,613,699,693,693,1010,729,644,607,340,366,340,524,591,304,531,601,503,609,503,365,570,622,330,317,609,328,916,625,576,612,600,481,472,350,622,520,798,547,529,472,353,274,353,681],
+  I700: [237,338,552,649,655,1016,672,339,377,377,559,679,334,468,334,388,674,431,630,646,676,622,649,582,651,649,334,343,679,679,679,560,1016,747,662,740,722,607,587,750,747,281,584,719,565,932,762,771,648,777,657,655,667,732,747,1038,738,731,664,377,388,377,487,476,365,581,630,588,630,596,398,632,623,271,271,580,271,913,623,613,630,630,407,560,366,623,600,850,580,602,573,469,372,469,679],
+  I800: [219,358,586,655,660,1029,683,354,382,382,583,686,353,471,353,400,692,441,638,657,688,634,662,588,664,662,353,360,686,686,686,579,1036,770,665,744,723,610,585,752,749,286,590,738,565,943,766,773,652,782,662,660,677,727,770,1059,761,752,679,382,400,382,493,484,382,588,638,595,638,601,410,639,635,283,283,593,283,927,635,619,638,638,420,573,382,635,615,863,594,618,581,486,388,486,686],
+  IS: [170,237,371,635,417,590,579,233,340,340,444,531,217,430,213,258,460,249,404,371,393,382,404,364,433,402,213,217,531,531,531,317,660,457,478,480,530,453,408,521,546,249,249,496,413,665,540,540,466,540,513,407,461,536,457,651,546,477,427,325,258,325,433,376,354,399,443,339,457,355,288,402,470,223,215,451,220,704,470,408,444,442,318,308,259,454,393,597,385,401,353,318,252,318,531],
+  ISI: [170,275,374,629,424,591,525,235,346,346,449,531,219,426,219,258,461,248,404,373,394,387,411,365,437,414,299,301,531,531,531,358,665,457,479,475,536,454,411,514,545,250,251,499,414,665,542,540,469,541,525,424,461,537,458,653,545,478,427,326,256,326,431,372,355,474,431,351,474,348,273,401,476,288,266,447,240,745,521,414,450,425,368,302,272,508,412,609,450,418,385,320,252,320,531],
+};
+const textW = (face: string, s: string, size: number, ls: number, upper: boolean): number => {
+  let w = 0;
+  for (const ch of upper ? s.toUpperCase() : s) {
+    const c = ch.charCodeAt(0);
+    w += ((c >= 32 && c < 127 ? ADV[face][c - 32] : 600) / 1000) * size + ls * size;
+  }
+  return w;
+};
+// Each look's big word and small line: font, size, letter spacing (em), and the point the whole title is scaled around.
+const FIT: Record<LookId, { big: [string, number, number]; sub: [string, number, number, boolean]; origin: number; width: number }> = {
+  jewelbox: { big: ["PF900", 230, 0], sub: ["I700", 40, 0.26, true], origin: 150, width: 960 },
+  deco: { big: ["PF900", 220, 0.02], sub: ["I800", 38, 0.34, true], origin: 150, width: 860 },
+  gouache: { big: ["IS", 250, 0], sub: ["ISI", 68, 0, false], origin: 330, width: 960 },
+};
+
+// A big word and a small line at the top of a scene, kept on one line and shrunk to fit the frame (960 px wide at most, 860 inside the Deco frame).
+// `max` is the most it may be scaled to: a title card uses all of it, a headline over a piece about half.
+const FitTitle: React.FC<{ look: LookId; big: string; sub: string; t: number; max: number }> = ({ look, big, sub, t, max }) => {
+  const L = LOOKS[look];
+  const f = FIT[look];
+  const wBig = textW(f.big[0], big, f.big[1], f.big[2], false);
+  const wSub = sub ? textW(f.sub[0], sub, f.sub[1], f.sub[2], f.sub[3]) : 0;
+  const fit = Math.min(max, f.width / Math.max(1, wBig), f.width / Math.max(1, wSub));
+  return (
+    <div style={{ position: "absolute", inset: 0, transform: `scale(${fit})`, transformOrigin: `50% ${f.origin}px`, whiteSpace: "nowrap" }}>
+      <L.Title big={big} sub={sub} t={t} />
+    </div>
+  );
+};
+
 // A hero piece, with an optional headline over it. The first scene of a story (hook) keeps the piece below the hook words.
 export const PieceScene: React.FC<SceneProps> = ({ t, p, hook }) => {
   const { look, idx, number, hero: base } = useContext(NewLookCtx);
@@ -411,7 +457,7 @@ export const PieceScene: React.FC<SceneProps> = ({ t, p, hook }) => {
   const label = str(p.label, "");
   return (
     <Shell L={L} t={t} idx={idx} hero={h}>
-      {!hook && label && <L.Title big={label} sub={str(p.sub, "")} t={t} />}
+      {!hook && label && <FitTitle look={look} big={label} sub={str(p.sub, "")} t={t} max={0.5} />}
     </Shell>
   );
 };
@@ -425,16 +471,10 @@ export const TitleScene: React.FC<SceneProps> = ({ t, p, hook }) => {
   const v = views[(idx + number) % views.length];
   const d2: PieceDef = { ...def, yaw: def.yaw ?? v[0], elev: def.elev ?? v[1] };
   const pop = 0.9 + 0.1 * Math.min(1, t / 0.5);
-  // a long word shrinks to fit the frame (the type sizes are made for about nine letters)
-  const big = str(p.text, "");
-  const perChar = look === "gouache" ? 92 : look === "deco" ? 104 : 110;
-  const fit = Math.min(1, 980 / Math.max(1, big.length * perChar));
   const h = heroFor(d2, { L, t, pop: pop * 0.9, idx, top: 520, bottom: 1170, uid: `t${idx}`, seed: 2 + ((number + idx * 5) % 9) });
   return (
     <Shell L={L} t={t} idx={idx} hero={h}>
-      <div style={{ position: "absolute", inset: 0, transform: `scale(${fit})`, transformOrigin: "50% 160px" }}>
-        <L.Title big={big} sub={str(p.sub, "")} t={t} />
-      </div>
+      <FitTitle look={look} big={str(p.text, "")} sub={str(p.sub, "")} t={t} max={1} />
     </Shell>
   );
 };
@@ -545,13 +585,14 @@ export const NewBadge: React.FC<{ look: LookId; number: number; opacity: number 
 export const NewEnd: React.FC<SceneProps & { look: LookId }> = ({ t, p, look }) => {
   const { hero, number } = useContext(NewLookCtx);
   const L = LOOKS[look];
-  const def: PieceDef = { piece: "stone", stone: hero.stone ?? "sapphire", cut: hero.cut ?? "oval", metal: hero.metal ?? "platinum", yaw: 0 };
+  // the end card shows the story's own piece again (a sapphire when the story names none)
+  const def: PieceDef = hero.piece ? { ...hero, yaw: hero.yaw ?? 0, label: undefined } : { piece: "stone", stone: "sapphire", cut: "oval", metal: "platinum", yaw: 0 };
   const h = heroFor(def, { L, t, pop: 1, idx: 9, top: 560, bottom: 1200, uid: "end", seed: 3 + (number % 7) });
   const line = str(p.line, "A new jewelry story every day");
   const handle = str(p.handle, "HeyGema");
   return (
     <Shell L={L} t={t} idx={9} hero={h}>
-      <L.Title big={handle} sub={line} t={t} />
+      <FitTitle look={look} big={handle} sub={line} t={t} max={1} />
     </Shell>
   );
 };

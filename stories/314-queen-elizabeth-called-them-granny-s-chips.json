@@ -1,0 +1,152 @@
+{
+  "id": "314-queen-elizabeth-called-them-granny-s-chips",
+  "number": 314,
+  "title": "Queen Elizabeth called them Granny's Chips",
+  "style": "deco",
+  "topic": "queen elizabeth granny's chips cullinan iii and iv brooch queen mary joseph asscher amsterdam 1908 first blow broke the knife camilla crown 2023",
+  "music": "music-314.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Queen Elizabeth called them Granny's Chips.",
+    "gold": [
+      "Granny's",
+      "Chips."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Queen Elizabeth called them Granny's Chips.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "They were cut from the Cullinan, a 3,106 carat rough diamond.",
+      "say": "They were cut from the Cullinan, a three thousand one hundred six carat rough diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "The Cullinan"
+      }
+    },
+    {
+      "text": "In Amsterdam in 1908, the first blow broke the cleaver's knife.",
+      "say": "In Amsterdam in nineteen oh eight, the first blow broke the cleaver's knife.",
+      "scene": {
+        "kind": "title",
+        "text": "1908",
+        "sub": "Joseph Asscher"
+      }
+    },
+    {
+      "text": "Stones three and four, 158 carats together, went to Queen Mary.",
+      "say": "Stones three and four, one hundred fifty eight carats together, went to Queen Mary.",
+      "scene": {
+        "kind": "title",
+        "text": "158 carats",
+        "sub": "Stones three and four",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "She wore them hooked together as a brooch.",
+      "scene": {
+        "kind": "real",
+        "src": "314-queen-elizabeth-called-them-granny-s-chips-0.jpg",
+        "fit": "card",
+        "label": "Queen Mary",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Her granddaughter Elizabeth inherited it in 1953.",
+      "say": "Her granddaughter Elizabeth inherited it in nineteen fifty three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "pear",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "Inherited in 1953"
+      }
+    },
+    {
+      "text": "In 1958 at the Asscher works in Amsterdam she revealed the nickname.",
+      "say": "In nineteen fifty eight at the Asscher works in Amsterdam she revealed the nickname.",
+      "scene": {
+        "kind": "title",
+        "text": "Nickname",
+        "sub": "Granny's Chips",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "pear",
+        "petals": 9
+      }
+    },
+    {
+      "text": "Granny's for her grandmother, and chips for the larger stone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "label": "Granny's Chips"
+      }
+    },
+    {
+      "text": "In 2023 they were set in a crown for Queen Camilla.",
+      "say": "In twenty twenty three they were set in a crown for Queen Camilla.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Queen Camilla's crown"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cullinan III and IV were cut from the 3,106 carat Cullinan, and Queen Elizabeth the Second called the brooch Granny's Chips. In Amsterdam in 1908 the first blow broke the cleaver's knife, and three cutters worked fourteen hours a day for eight months. Queen Mary wore the two stones hooked together as a brooch, and Elizabeth inherited it in 1953.",
+    "hashtags": [
+      "#cullinan",
+      "#queenelizabeth",
+      "#grannyschips",
+      "#royaljewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/stories/the-crown-jewels/the-cullinan-diamond",
+    "https://4cs.gia.edu/en-us/blog/famous-diamonds-grannys-chips/",
+    "https://en.wikipedia.org/wiki/Cullinan_Diamond",
+    "https://royalasscher.com/blogs/blog/the-cullinan",
+    "https://www.goodto.com/entertainment/the-late-queen-elizabeth-iis-witty-nickname-for-pound50m-diamond-brooch",
+    "https://www.thecourtjeweller.com/2022/01/the-queens-cullinan-diamonds.html",
+    "https://col.rct.uk/collection/31704/queen-camillas-crown"
+  ],
+  "images": [
+    {
+      "src": "314-queen-elizabeth-called-them-granny-s-chips-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Royal Collection RCIN 2084643",
+      "page": "https://commons.wikimedia.org/wiki/File:1914_Queen_Mary_Autochrome.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "318-the-bride-sent-the-diamond-ring",
+  "number": 318,
+  "title": "The bride sent the diamond ring",
+  "style": "gouache",
+  "topic": "mary of burgundy maximilian 1477 diamond ring betrothal moroltinger proxy wedding bruges ghent durer woodcut costanzo sforza 1475 flat diamonds m",
+  "music": "music-318.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The bride sent the diamond first.",
+    "gold": [
+      "bride",
+      "diamond"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The bride sent the diamond first.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1476 Mary of Burgundy sent a diamond to the Habsburgs.",
+      "say": "In fourteen seventy six Mary of Burgundy sent a diamond to the Habsburgs.",
+      "scene": {
+        "kind": "real",
+        "src": "318-the-bride-sent-the-diamond-ring-0.jpg",
+        "fit": "card",
+        "label": "Mary of Burgundy",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She ruled Burgundy, and Maximilian was an archduke of Austria.",
+      "scene": {
+        "kind": "title",
+        "text": "Burgundy",
+        "sub": "Meets Austria"
+      }
+    },
+    {
+      "text": "They first married by proxy in Bruges in April 1477.",
+      "say": "They first married by proxy in Bruges in April fourteen seventy seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "Married by proxy"
+      }
+    },
+    {
+      "text": "An adviser told Maximilian to have a diamond ring ready.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A ring set with a diamond"
+      }
+    },
+    {
+      "text": "They married in person at Ghent on August 19, 1477.",
+      "say": "They married in person at Ghent on August nineteenth, fourteen seventy seven.",
+      "scene": {
+        "kind": "title",
+        "text": "Ghent",
+        "sub": "August 1477",
+        "piece": "band",
+        "metal": "rose"
+      }
+    },
+    {
+      "text": "Albrecht Dürer made a woodcut of their betrothal in 1515.",
+      "say": "Albrecht DYOO-rer made a woodcut of their betrothal in fifteen fifteen.",
+      "scene": {
+        "kind": "real",
+        "src": "318-the-bride-sent-the-diamond-ring-1.jpg",
+        "fit": "card",
+        "label": "Mary of Burgundy",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Many people call hers the first diamond engagement ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "prongs": 6,
+        "halo": 8,
+        "label": "Called the first"
+      }
+    },
+    {
+      "text": "Yet Costanzo Sforza gave Camilla d'Aragona a diamond ring in 1475.",
+      "say": "Yet Costanzo Sforza gave Camilla d'Aragona a diamond ring in fourteen seventy five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "rose",
+        "label": "Italy, 1475"
+      }
+    },
+    {
+      "text": "Tradition says her ring held flat diamonds shaped like an M.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "label": "Flat diamonds in an M"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1476 Mary of Burgundy sent a diamond to the Habsburgs, and in 1477 an adviser told Maximilian to have a ring set with a diamond ready. They married in person at Ghent on August 19, 1477. Many call hers the first diamond engagement ring, though an Italian lord gave one in 1475, and tradition says it held flat diamonds shaped like an M.",
+    "hashtags": [
+      "#maryofburgundy",
+      "#engagementring",
+      "#diamondring",
+      "#maximilian",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/engagement-rings-through-the-ages-2/",
+    "https://www.nationalgeographic.com/premium/article/diamond-engagement-rings-history-marketing",
+    "https://www.republicofamsterdamradio.com/episodes/historyofthenetherlands/episode-37-mary-marries-maxi",
+    "https://www.unofficialroyalty.com/mary-duchess-of-burgundy-archduchess-of-austria/",
+    "https://archduchessinvestigates.com/?p=3307",
+    "https://de.wikipedia.org/wiki/Maria_von_Burgund",
+    "https://www.nga.gov/collection/art-object-page.56898.html",
+    "https://metmuseum.org/art/collection/search/396912",
+    "https://www.jckonline.com/editorial-article/history-of-engagement-rings-book/",
+    "https://verilymag.com/culture/think-diamond-engagement-rings-are-just-marketing-think-again-2025/"
+  ],
+  "images": [
+    {
+      "src": "318-the-bride-sent-the-diamond-ring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Bernhard Strigel",
+      "page": "https://commons.wikimedia.org/wiki/File:Strigel_-_Portrait_of_Mary_of_Burgundy.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "318-the-bride-sent-the-diamond-ring-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Possibly Michael Pacher",
+      "page": "https://commons.wikimedia.org/wiki/File:Mary_of_Burgundy_(1458%E2%80%931482),_by_Netherlandish_or_South_German_School_of_the_late_15th_Century.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

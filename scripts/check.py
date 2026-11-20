@@ -285,7 +285,7 @@ def check(path, seen):
             problems[-1] += ", ".join(sorted(THEMES))
         if s.get("style") in ("lowpoly", "paper") and any((l.get("scene") or {}).get("show") == "sandwich" for l in s["lines"]):
             say(f"the sandwich hook only exists drawn: pick another hook for a {s['style']} story")
-        if s.get("style") != "paper":
+        if s.get("style") != "paper" and s.get("style") not in NEW_LOOKS:
             for l in s["lines"]:
                 for what in paper_only(l.get("scene") or {}):
                     say(f"{what} only exists in the paper style: change it or use the paper style for this story")

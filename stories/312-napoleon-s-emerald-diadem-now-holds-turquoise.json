@@ -1,0 +1,174 @@
+{
+  "id": "312-napoleon-s-emerald-diadem-now-holds-turquoise",
+  "number": 312,
+  "title": "Napoleon's emerald diadem now holds turquoise",
+  "style": "gouache",
+  "topic": "marie louise diadem napoleon wedding gift nitot colombian emeralds van cleef arpels persian turquoise marjorie merriweather post smithsonian",
+  "music": "music-312.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Napoleon's emerald diadem now holds turquoise.",
+    "gold": [
+      "emerald",
+      "turquoise."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Napoleon's emerald diadem now holds turquoise.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Napoleon gave it to his second wife, Marie Louise, in 1810.",
+      "say": "Napoleon gave it to his second wife, Marie Louise, in eighteen ten.",
+      "scene": {
+        "kind": "real",
+        "src": "312-napoleon-s-emerald-diadem-now-holds-turquoise-0.jpg",
+        "fit": "card",
+        "label": "Empress Marie Louise",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Paris jeweler Nitot set it with 79 emeralds from Colombia.",
+      "say": "The Paris jeweler Nitot set it with seventy nine emeralds from Colombia.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "emerald",
+        "cut": "emerald",
+        "label": "79 Colombian emeralds"
+      }
+    },
+    {
+      "text": "It also had more than a thousand diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "Diamonds",
+        "sub": "More than a thousand",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Van Cleef and Arpels bought it from the family in the 1950s.",
+      "say": "Van Cleef and Arpels bought it from the family in the nineteen fifties.",
+      "scene": {
+        "kind": "title",
+        "text": "1950s",
+        "sub": "Van Cleef and Arpels",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "They replaced the emeralds with 79 Persian turquoise stones.",
+      "say": "They replaced the emeralds with seventy nine Persian turquoise stones.",
+      "scene": {
+        "kind": "real",
+        "src": "312-napoleon-s-emerald-diadem-now-holds-turquoise-1.jpg",
+        "fit": "card",
+        "label": "The diadem today",
+        "credit": "Photo: Cliff from Arlington, Virginia, USA, CC BY 2.0"
+      }
+    },
+    {
+      "text": "The turquoise weighs about 540 carats in all.",
+      "say": "The turquoise weighs about five hundred forty carats in all.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "label": "About 540 carats"
+      }
+    },
+    {
+      "text": "Marjorie Merriweather Post wore it to a Red Cross ball in 1967.",
+      "say": "Marjorie Merriweather Post wore it to a Red Cross ball in nineteen sixty seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1967",
+        "sub": "A Red Cross ball",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "In 1971 she gave the Smithsonian the money to buy it.",
+      "say": "In nineteen seventy one she gave the Smithsonian the money to buy it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Given in 1971"
+      }
+    },
+    {
+      "text": "It has been at the Smithsonian in Washington ever since.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Smithsonian, Washington"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Napoleon gave Marie Louise this diadem in 1810, set with 79 Colombian emeralds by the Paris jeweler Nitot. In the 1950s Van Cleef and Arpels bought it and replaced the emeralds with 79 Persian turquoise stones. Marjorie Merriweather Post wore it in 1967 and in 1971 gave the Smithsonian the money to buy it. Photo: Cliff from Arlington, Virginia, USA, CC BY 2.0.",
+    "hashtags": [
+      "#napoleon",
+      "#diadem",
+      "#turquoise",
+      "#smithsonian",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002698",
+    "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/12/16/how-turquoise-replaced-emeralds-in-this-royal-diadem/",
+    "https://en.wikipedia.org/wiki/Marie_Louise_Diadem",
+    "https://collections.louvre.fr/en/ark:/53355/cl010113263",
+    "https://legemmologue.com/wp-content/uploads/2025/12/Chabrol-Coupeau_2025_GEMMES_parure-emeraude.pdf",
+    "https://www.thecourtjeweller.com/2022/03/marjorie-merriweather-posts-royal-jewels.html"
+  ],
+  "images": [
+    {
+      "src": "312-napoleon-s-emerald-diadem-now-holds-turquoise-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Robert Lefèvre",
+      "page": "https://commons.wikimedia.org/wiki/File:Lefevre_Maria_Luigia.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "312-napoleon-s-emerald-diadem-now-holds-turquoise-1.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Cliff from Arlington, Virginia, USA",
+      "page": "https://commons.wikimedia.org/wiki/File:Marie_Louise_Diadem.jpg",
+      "credit": "Photo: Cliff from Arlington, Virginia, USA, CC BY 2.0"
+    }
+  ]
+}

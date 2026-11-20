@@ -361,9 +361,9 @@ const GouacheCaption: Look["Caption"] = ({ text, t }) => (
 );
 
 const GouacheTitle: Look["Title"] = ({ big, sub, t }) => (
-  <div style={{ ...wrapStyle, top: 130 }}>
-    <div style={{ ...rise(t, 0.02, 0.3), fontFamily: SERIF_I, fontSize: 280, lineHeight: 1, color: "#fff1d0", textShadow: "0 6px 26px rgba(20,8,24,.6)" }}>{big}</div>
-    <div style={{ ...rise(t, 0.15, 0.3), fontFamily: SERIF_I, fontStyle: "italic", fontSize: 74, color: "#ffc77a", marginTop: 4 }}>{sub}</div>
+  <div style={{ ...wrapStyle, top: 170 }}>
+    <div style={{ ...rise(t, 0.02, 0.3), fontFamily: SERIF_I, fontSize: 250, lineHeight: 1, color: "#fff1d0", textShadow: "0 6px 26px rgba(20,8,24,.6)" }}>{big}</div>
+    <div style={{ ...rise(t, 0.15, 0.3), fontFamily: SERIF_I, fontStyle: "italic", fontSize: 68, color: "#ffc77a", marginTop: 4 }}>{sub}</div>
   </div>
 );
 

@@ -1,0 +1,167 @@
+{
+  "id": "311-the-pink-diamond-france-kept",
+  "number": 311,
+  "title": "The pink diamond France kept",
+  "style": "deco",
+  "topic": "hortensia diamond pink five sided louis the fourteenth jean pitau queen hortense eugenie hair ornament bapst crown jewels sale 1887 louvre",
+  "music": "music-311.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "pink",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "The pink diamond France kept.",
+    "gold": [
+      "pink",
+      "kept."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The pink diamond France kept.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Hortensia is a pale pink diamond of about 21 carats.",
+      "say": "The Hortensia is a pale pink diamond of about twenty one carats.",
+      "scene": {
+        "kind": "real",
+        "src": "311-the-pink-diamond-france-kept-0.jpg",
+        "fit": "card",
+        "label": "The Hortensia",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It is flat and five sided, about two centimeters across.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "cushion",
+        "label": "Flat and five sided"
+      }
+    },
+    {
+      "text": "It probably began in the Golconda region of India.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "Probably from India"
+      }
+    },
+    {
+      "text": "Louis the Fourteenth owned it by 1691.",
+      "say": "Louis the Fourteenth owned it by sixteen ninety one.",
+      "scene": {
+        "kind": "title",
+        "text": "1691",
+        "sub": "Louis the Fourteenth",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "cushion",
+        "halo": 10,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "His jeweler may have brought it back from the Netherlands.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "The king's jeweler"
+      }
+    },
+    {
+      "text": "The name honors Queen Hortense, though nothing shows she wore it.",
+      "scene": {
+        "kind": "title",
+        "text": "Hortense",
+        "sub": "Queen of Holland",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "cushion",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 1856 it went into a hair ornament for Empress Eugénie.",
+      "say": "In eighteen fifty six it went into a hair ornament for Empress yoo-ZHAY-nee.",
+      "scene": {
+        "kind": "real",
+        "src": "311-the-pink-diamond-france-kept-1.jpg",
+        "fit": "card",
+        "label": "Empress Eugénie",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1887 France sold most crown jewels but kept this one.",
+      "say": "In eighteen eighty seven France sold most crown jewels but kept this one.",
+      "scene": {
+        "kind": "title",
+        "text": "1887",
+        "sub": "Kept by the Louvre"
+      }
+    },
+    {
+      "text": "It has belonged to the Louvre ever since.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "cushion",
+        "label": "The Hortensia"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Hortensia is a pale pink diamond of about 21 carats, flat and five sided. It was in the French crown jewels under Louis the Fourteenth, and its name honors Queen Hortense, though nothing shows she wore it. It went into a hair ornament for Empress Eugenie in 1856. When France sold most of its crown jewels in 1887, it was kept, and it still belongs to the Louvre.",
+    "hashtags": [
+      "#hortensia",
+      "#pinkdiamond",
+      "#frenchcrownjewels",
+      "#louvre",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.louvre.fr/en/ark:/53355/cl010103120",
+    "https://en.wikipedia.org/wiki/Hortensia_diamond",
+    "https://thediamondcollective.world/historic-diamonds/hortensia-diamond/",
+    "https://langantiques.com/university/?p=72801",
+    "https://museumdiamonds.com/hortensia/",
+    "https://sothebys.com/en/auctions/ecatalogue/2008/magnificent-jewels-noble-jewels-and-jewels-from-the-collection-of-lily-marinho-ge0802/lot.427.html"
+  ],
+  "images": [
+    {
+      "src": "311-the-pink-diamond-france-kept-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Tangopaso",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamant_Hortensia_(Louvre).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "311-the-pink-diamond-france-kept-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Studio of Franz Xaver Winterhalter",
+      "page": "https://commons.wikimedia.org/wiki/File:Empress_Eugenie_by_Franz_Xaver_Winterhalter.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "316-a-whole-palace-inside-an-egg",
+  "number": 316,
+  "title": "A whole palace inside an egg",
+  "style": "jewelbox",
+  "topic": "faberge gatchina palace egg 1901 nicholas the second maria feodorovna four colors of gold perkhin walters art museum baltimore surprise",
+  "music": "music-316.wav",
+  "piece": {
+    "piece": "egg",
+    "tone": "white",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A whole palace inside an egg.",
+    "gold": [
+      "palace",
+      "egg."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A whole palace inside an egg.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Nicholas the Second gave it to his mother for Easter in 1901.",
+      "say": "Nicholas the Second gave it to his mother for Easter in nineteen oh one.",
+      "scene": {
+        "kind": "real",
+        "src": "316-a-whole-palace-inside-an-egg-0.jpg",
+        "fit": "card",
+        "label": "The Gatchina Palace Egg",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Inside is a tiny gold model of Gatchina Palace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "A palace in gold"
+      }
+    },
+    {
+      "text": "The palace is made in four colors of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Four colors",
+        "sub": "Of gold",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "rose",
+        "stones": 14
+      }
+    },
+    {
+      "text": "It even has tiny cannons and trees.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "emerald",
+        "label": "Tiny cannons and trees"
+      }
+    },
+    {
+      "text": "The palace lifts out of the egg.",
+      "scene": {
+        "kind": "real",
+        "src": "316-a-whole-palace-inside-an-egg-1.jpg",
+        "fit": "card",
+        "label": "It lifts out",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Fabergé's workmaster Mikhail Perkhin made the model.",
+      "say": "Fabergé's workmaster Mikhail PER-khin made the model.",
+      "scene": {
+        "kind": "title",
+        "text": "Perkhin",
+        "sub": "Fabergé's workmaster",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Its shell is layers of translucent enamel over engraved gold.",
+      "scene": {
+        "kind": "real",
+        "src": "316-a-whole-palace-inside-an-egg-2.jpg",
+        "fit": "card",
+        "label": "Layers of enamel",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It stands about five inches tall.",
+      "scene": {
+        "kind": "title",
+        "text": "Five inches",
+        "sub": "About twelve centimeters",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "In 1930 Henry Walters bought it from a former Gatchina Palace official.",
+      "say": "In nineteen thirty Henry Walters bought it from a former Gatchina Palace official.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "label": "Henry Walters, Baltimore"
+      }
+    },
+    {
+      "text": "The Walters Art Museum in Baltimore still has the egg.",
+      "scene": {
+        "kind": "piece",
+        "piece": "egg",
+        "tone": "white",
+        "label": "Walters Art Museum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Nicholas the Second gave his mother this Faberge egg for Easter in 1901. Inside is a tiny gold model of Gatchina Palace in four colors of gold, made by the workmaster Mikhail Perkhin, and it lifts out of the egg. Henry Walters of Baltimore bought it in 1930, and the Walters Art Museum still has it.",
+    "hashtags": [
+      "#faberge",
+      "#fabergeegg",
+      "#gatchina",
+      "#imperialeggs",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://art.thewalters.org/object/44.500/",
+    "https://atlasobscura.com/articles/a-mothers-day-gift-idea-from-imperial-russia",
+    "https://www.faberge.com/blogs/news/tatiana-faberge-and-john-andrew-s-american-diary",
+    "https://www.worldhistory.org/image/13946/gatchina-palace-egg-by-faberge/.md",
+    "https://en.wikipedia.org/wiki/Gatchina_Palace_(Faberg%C3%A9_egg)",
+    "https://wintraecken.nl/mieks/faberge/eggs/1901-Gatchina-Palace-Egg.htm",
+    "https://www.history.com/news/romanov-family-russia-mystery-faberge-easter-eggs"
+  ],
+  "images": [
+    {
+      "src": "316-a-whole-palace-inside-an-egg-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "museado",
+      "page": "https://commons.wikimedia.org/wiki/File:Gatchina_Palace_Faberg%C3%A9_Egg,_1901,_surprise,_front_view.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "316-a-whole-palace-inside-an-egg-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "museado",
+      "page": "https://commons.wikimedia.org/wiki/File:Gatchina_Palace_Faberg%C3%A9_Egg,_1901,_surprise,_side_wiew.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "316-a-whole-palace-inside-an-egg-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "museado",
+      "page": "https://commons.wikimedia.org/wiki/File:Gatchina_Palace_Faberg%C3%A9_Egg,_1901,_detail_of_the_shell.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

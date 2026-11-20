@@ -1,0 +1,173 @@
+{
+  "id": "317-a-roman-handshake-became-a-ring",
+  "number": 317,
+  "title": "A Roman handshake became a ring",
+  "style": "deco",
+  "topic": "fede ring clasped hands roman fides betrothal mani in fede gimmel ring claddagh walters museum",
+  "music": "music-317.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Roman handshake became a ring.",
+    "gold": [
+      "handshake",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Roman handshake became a ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Romans made rings with two clasped right hands.",
+      "scene": {
+        "kind": "title",
+        "text": "Right hands",
+        "sub": "Roman rings",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The right hand was sacred to Fides, the goddess of good faith.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Fides, goddess of good faith"
+      }
+    },
+    {
+      "text": "Medieval goldsmiths brought the design back in the 12th century.",
+      "say": "Medieval goldsmiths brought the design back in the twelfth century.",
+      "scene": {
+        "kind": "title",
+        "text": "12th century",
+        "sub": "Goldsmiths revive it",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Betrothal rings often took the form of clasped hands.",
+      "scene": {
+        "kind": "real",
+        "src": "317-a-roman-handshake-became-a-ring-0.jpg",
+        "fit": "card",
+        "label": "A Renaissance fede ring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The name fede comes from Italian, mani in fede, hands in faith.",
+      "say": "The name fay-day comes from Italian, MAH-nee in fay-day, hands in faith.",
+      "scene": {
+        "kind": "title",
+        "text": "Mani in fede",
+        "sub": "Hands in faith",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 16
+      }
+    },
+    {
+      "text": "Some rings had two hoops, one worn by each partner.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "rose",
+        "label": "Two hoops"
+      }
+    },
+    {
+      "text": "At the wedding the two hoops were joined into one ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "One ring again"
+      }
+    },
+    {
+      "text": "The Claddagh ring is a fede ring with a heart and crown.",
+      "say": "The KLAD-uh ring is a fay-day ring with a heart and crown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "heart",
+        "metal": "yellow",
+        "label": "The Irish Claddagh"
+      }
+    },
+    {
+      "text": "The clasped hands stayed popular on rings until the 1800s.",
+      "say": "The clasped hands stayed popular on rings until the eighteen hundreds.",
+      "scene": {
+        "kind": "real",
+        "src": "317-a-roman-handshake-became-a-ring-1.jpg",
+        "fit": "card",
+        "label": "A sixth century gold ring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The fede ring shows two clasped hands, a design that began with the Romans. Its name comes from the Italian mani in fede, hands in faith. Medieval goldsmiths brought it back in the 12th century, Renaissance couples used it for betrothals, and the Irish Claddagh ring is a fede ring with a heart and crown.",
+    "hashtags": [
+      "#federing",
+      "#betrothalring",
+      "#weddingtraditions",
+      "#claddagh",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O126782/ring-unknown",
+    "https://collections.mfa.org/objects/259587/ring-with-cameo-of-clasped-hands",
+    "https://wb.britishmuseum.org/MCN6170",
+    "https://www.metmuseum.org/en/essays/courtship-and-betrothal-in-the-italian-renaissance",
+    "https://art.thewalters.org/detail/5973",
+    "https://art.thewalters.org/detail/12674",
+    "https://www.londonmuseum.org.uk/collections/v/object-119219/fede-ring-gimmel-ring/",
+    "https://en.wikipedia.org/wiki/Claddagh_ring",
+    "https://www.britannica.com/topic/Claddagh-ring"
+  ],
+  "images": [
+    {
+      "src": "317-a-roman-handshake-became-a-ring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( Europe ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:European_-_Ring_with_Clasped_Right_Hands_-_Walters_571636.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "317-a-roman-handshake-became-a-ring-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( Byzantine Empire ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Marriage_Ring_-_Walters_571715_-_Top.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

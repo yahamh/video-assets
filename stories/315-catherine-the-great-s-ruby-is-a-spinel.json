@@ -1,0 +1,180 @@
+{
+  "id": "315-catherine-the-great-s-ruby-is-a-spinel",
+  "number": 315,
+  "title": "Catherine the Great's ruby is a spinel",
+  "style": "gouache",
+  "topic": "great imperial crown of russia catherine the great coronation 1762 eckart pauzie 4936 diamonds red spinel 398 carats fersman diamond fund kremlin",
+  "music": "music-315.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "ruby",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Catherine the Great's ruby is a spinel.",
+    "gold": [
+      "ruby",
+      "spinel."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Catherine the Great's ruby is a spinel.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Her crown was made for her coronation in Moscow in 1762.",
+      "say": "Her crown was made for her coronation in Moscow in seventeen sixty two.",
+      "scene": {
+        "kind": "real",
+        "src": "315-catherine-the-great-s-ruby-is-a-spinel-0.jpg",
+        "fit": "card",
+        "label": "The Imperial regalia",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Two jewelers built it in about two months.",
+      "scene": {
+        "kind": "title",
+        "text": "Two months",
+        "sub": "Two jewelers"
+      }
+    },
+    {
+      "text": "It holds nearly five thousand diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 26,
+        "label": "4,936 diamonds"
+      }
+    },
+    {
+      "text": "On top sits a red stone of almost 400 carats.",
+      "say": "On top sits a red stone of almost four hundred carats.",
+      "scene": {
+        "kind": "real",
+        "src": "315-catherine-the-great-s-ruby-is-a-spinel-1.jpg",
+        "fit": "card",
+        "label": "The red stone",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "For centuries it was thought to be a ruby.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 12,
+        "label": "Thought to be a ruby"
+      }
+    },
+    {
+      "text": "In the Soviet era, tests showed it is a spinel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "ruby",
+        "label": "A spinel"
+      }
+    },
+    {
+      "text": "It may be the second largest gem spinel in the world.",
+      "scene": {
+        "kind": "title",
+        "text": "Second largest",
+        "sub": "Gem spinel",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 10
+      }
+    },
+    {
+      "text": "The openwork frame keeps the whole crown near two kilograms.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 22,
+        "label": "An openwork frame"
+      }
+    },
+    {
+      "text": "Every Russian ruler crowned after Catherine wore it, up to 1896.",
+      "say": "Every Russian ruler crowned after Catherine wore it, up to eighteen ninety six.",
+      "scene": {
+        "kind": "title",
+        "text": "1896",
+        "sub": "Nicholas the Second",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Today it is kept in the Diamond Fund in the Moscow Kremlin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Diamond Fund, Moscow"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Great Imperial Crown of Russia was made for Catherine the Great's coronation in 1762 in about two months. It holds 4,936 diamonds, and the big red stone on top, almost 400 carats, was thought to be a ruby for centuries. In the Soviet era it was shown to be a spinel. Every Russian ruler crowned after Catherine wore it up to 1896.",
+    "hashtags": [
+      "#catherinethegreat",
+      "#imperialcrown",
+      "#spinel",
+      "#russiancrownjewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gokhran.ru/en/diamond-fund/collections/the-imperial-regalia/index.phtml",
+    "https://rapaport.com/magazine-article/power-symbol/",
+    "https://en.wikipedia.org/wiki/Spinel_of_the_Great_Imperial_Crown",
+    "https://www.rockngem.com/the-diamond-fund-exploring-russias-jeweled-past/",
+    "https://gw2ru.com/arts/1289-moscow-kremlin-diamond-fund",
+    "https://en.wikipedia.org/wiki/Coronations_in_Russia",
+    "https://www.worldhistory.org/Catherine_the_Great/"
+  ],
+  "images": [
+    {
+      "src": "315-catherine-the-great-s-ruby-is-a-spinel-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "BAGANTZ",
+      "page": "https://commons.wikimedia.org/wiki/File:RussianRegalia.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "315-catherine-the-great-s-ruby-is-a-spinel-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Image_of_the_spinel_of_the_Great_Imperial_Crown_from_the_Fersman_catalogue_(1925).png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

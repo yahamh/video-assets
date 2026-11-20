@@ -1,0 +1,159 @@
+{
+  "id": "313-sisi-braided-27-diamond-stars",
+  "number": 313,
+  "title": "Sisi braided 27 diamond stars",
+  "style": "jewelbox",
+  "topic": "empress elisabeth sisi diamond stars koechert hair ornaments winterhalter star dress dresden 1865 granddaughter 1902 wedding revived",
+  "music": "music-313.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "white",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Sisi braided 27 diamond stars.",
+    "gold": [
+      "27",
+      "stars."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sisi braided 27 diamond stars.",
+      "say": "Sisi braided twenty seven diamond stars.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Köchert, the Vienna court jeweler, made them for her.",
+      "say": "KER-khert, the Vienna court jeweler, made them for her.",
+      "scene": {
+        "kind": "title",
+        "text": "Köchert",
+        "sub": "Vienna court jeweler"
+      }
+    },
+    {
+      "text": "The best known stars have ten points, set with diamonds and pearls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "label": "Ten points"
+      }
+    },
+    {
+      "text": "Reportedly, the Queen of the Night in The Magic Flute inspired them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "cut": "round",
+        "label": "The Queen of the Night"
+      }
+    },
+    {
+      "text": "In 1865 she wore them at her brother's wedding in Dresden.",
+      "say": "In eighteen sixty five she wore them at her brother's wedding in Dresden.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 20,
+        "label": "Dresden, 1865"
+      }
+    },
+    {
+      "text": "That year Winterhalter painted her in a dress covered in silver stars.",
+      "scene": {
+        "kind": "real",
+        "src": "313-sisi-braided-27-diamond-stars-0.jpg",
+        "fit": "card",
+        "label": "Winterhalter, 1865",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Soon stars were in fashion in hair across Europe.",
+      "scene": {
+        "kind": "title",
+        "text": "Europe",
+        "sub": "A new fashion",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10
+      }
+    },
+    {
+      "text": "Some went to her ladies in waiting and the rest to family.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "label": "Gifts for her ladies"
+      }
+    },
+    {
+      "text": "Her granddaughter wore all 27 on her wedding day in 1902.",
+      "say": "Her granddaughter wore all twenty seven on her wedding day in nineteen oh two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Her granddaughter's wedding"
+      }
+    },
+    {
+      "text": "Köchert still makes the stars from the original designs.",
+      "say": "KER-khert still makes the stars from the original designs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "label": "Still made today"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Empress Elisabeth of Austria, known as Sisi, owned a set of 27 diamond stars to wear in her hair. The Vienna court jeweler Koechert made them, and they are still made from the original designs. In 1865 she wore them at her brother's wedding in Dresden, and Winterhalter painted her in a dress covered with silver stars.",
+    "hashtags": [
+      "#sisi",
+      "#empresselisabeth",
+      "#diamondstars",
+      "#koechert",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.habsburger.net/en/items/sisis-stars-famous-jewels-empress-elisabeth-wore-her-hair",
+    "https://koechert.com/sisi-stars/?lang=en",
+    "https://koechert.com/geschichte-des-hauses/?lang=en",
+    "https://www.wien.info/de/aktuell/grandnew/wiener-schmuck-1136244",
+    "https://www.historyofroyalwomen.com/?p=156087",
+    "https://odettelopez.substack.com/p/sissis-stars-the-twinkling-hair-ornaments",
+    "https://en.wikipedia.org/wiki/Portrait_of_Empress_Elisabeth_of_Austria"
+  ],
+  "images": [
+    {
+      "src": "313-sisi-braided-27-diamond-stars-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Franz Xaver Winterhalter",
+      "page": "https://commons.wikimedia.org/wiki/File:Elisabeth_of_Austria,_by_Franz_Xaver_Winterhalter.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

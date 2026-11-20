@@ -1,0 +1,160 @@
+{
+  "id": "310-a-diamond-with-two-fronts",
+  "number": 310,
+  "title": "A diamond with two fronts",
+  "style": "jewelbox",
+  "topic": "sancy diamond faceted on both sides nicolas de sancy james the first mazarin louis the fifteenth crown demidov astor tiara louvre",
+  "music": "music-310.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A diamond with two fronts.",
+    "gold": [
+      "two",
+      "fronts."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond with two fronts.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Sancy weighs 55 carats and has facets on both sides.",
+      "say": "The Sancy weighs fifty five carats and has facets on both sides.",
+      "scene": {
+        "kind": "real",
+        "src": "310-a-diamond-with-two-fronts-0.jpg",
+        "fit": "card",
+        "label": "The Sancy",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It is probably Indian, though nobody knows which mine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "Probably from India"
+      }
+    },
+    {
+      "text": "Its name comes from Nicolas de Sancy, a French diplomat.",
+      "scene": {
+        "kind": "title",
+        "text": "De Sancy",
+        "sub": "A French diplomat"
+      }
+    },
+    {
+      "text": "Legend says King Henri the Third wore it on a small cap.",
+      "say": "Legend says King Henri the Third wore it on a small cap.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 9,
+        "label": "A cap jewel, said the legend"
+      }
+    },
+    {
+      "text": "King James the First of England bought it in the early 1600s.",
+      "say": "King James the First of England bought it in the early sixteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "England",
+        "sub": "King James the First",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Cardinal Mazarin owned it and left it to the king of France.",
+      "scene": {
+        "kind": "title",
+        "text": "Mazarin",
+        "sub": "Left it to the king",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 1722 it sat at the top of Louis the Fifteenth's crown.",
+      "say": "In seventeen twenty two it sat at the top of Louis the Fifteenth's crown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "marquise",
+        "label": "Top of the crown"
+      }
+    },
+    {
+      "text": "Nancy Astor later wore it in a Cartier tiara.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "yellow",
+        "prongs": 6,
+        "halo": 10,
+        "label": "Nancy Astor"
+      }
+    },
+    {
+      "text": "The Louvre bought it from the Astor family in the 1970s.",
+      "say": "The Louvre bought it from the Astor family in the nineteen seventies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "label": "Louvre collection"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Sancy diamond is faceted on both sides, which makes it unusual among famous diamonds. It is named for Nicolas de Sancy, a French diplomat. Legend says King Henri the Third wore it on a cap. It passed through English and French kings, a Russian prince's wife and Nancy Astor's Cartier tiara, and the Louvre bought it from the Astor family in the 1970s.",
+    "hashtags": [
+      "#sancy",
+      "#diamond",
+      "#frenchcrownjewels",
+      "#louvre",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/topic/Sancy-Diamond",
+    "https://collections.louvre.fr/en/ark:/53355/cl010100996",
+    "https://en.wikipedia.org/wiki/Sancy",
+    "https://langantiques.com/university/?p=72827",
+    "https://www.baunat.com/en/sancy-diamond",
+    "https://royalwatcherblog.com/2019/05/19/astor-tiara",
+    "https://www.museum.nl/en/diamant-museum-amsterdam/showpiece/crown-of-louis-xv"
+  ],
+  "images": [
+    {
+      "src": "310-a-diamond-with-two-fronts-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Tangopaso",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamant_le_Sancy_(Louvre).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
