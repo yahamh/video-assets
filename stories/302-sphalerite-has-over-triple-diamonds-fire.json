@@ -1,0 +1,141 @@
+{
+  "id": "302-sphalerite-has-over-triple-diamonds-fire",
+  "number": 302,
+  "title": "Sphalerite has over triple diamond's fire",
+  "topic": "sphalerite fire dispersion 0.156 diamond 0.044 rare spain orange red ruby blende soft mohs 3.5 to 4 cleavage cutting challenge earrings brooches greek treacherous lead ore galena zinc main ore",
+  "music": "music-302.wav",
+  "hook": {
+    "text": "Sphalerite has over triple diamond's fire.",
+    "gold": [
+      "Sphalerite",
+      "fire."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sphalerite has over triple diamond's fire.",
+      "say": "SFAL-uh-ryte has over triple diamond's fire.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#e0702c"
+      }
+    },
+    {
+      "text": "Fire means dispersion, how strongly a gem splits light into colors.",
+      "say": "Fire means dih-SPUR-zhun, how strongly a gem splits light into colors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0702c",
+        "label": "Splits light"
+      }
+    },
+    {
+      "text": "Sphalerite scores about 0.156, and diamond only 0.044.",
+      "say": "SFAL-uh-ryte scores about zero point one five six, and diamond only zero point zero four four.",
+      "scene": {
+        "kind": "title",
+        "text": "0.156",
+        "sub": "Diamond is 0.044"
+      }
+    },
+    {
+      "text": "Faceted stones are rare, and the best known source is northern Spain.",
+      "scene": {
+        "kind": "title",
+        "text": "Spain",
+        "sub": "Best known source"
+      }
+    },
+    {
+      "text": "A clear red Spanish stone is called ruby blende.",
+      "say": "A clear red Spanish stone is called ruby BLEND.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#d9402a",
+        "label": "Ruby blende"
+      }
+    },
+    {
+      "text": "It is soft, with a Mohs hardness of 3.5 to 4.",
+      "say": "It is soft, with a MOHZ hardness of three and a half to four.",
+      "scene": {
+        "kind": "title",
+        "text": "3.5 to 4",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "It also splits easily along flat planes, so cutting is a challenge.",
+      "scene": {
+        "kind": "title",
+        "text": "Cleavage",
+        "sub": "Splits along planes"
+      }
+    },
+    {
+      "text": "Its name comes from a Greek word meaning treacherous.",
+      "scene": {
+        "kind": "title",
+        "text": "Greek",
+        "sub": "Means treacherous"
+      }
+    },
+    {
+      "text": "People could mistake it for lead ore, but it yields no lead.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#8a5a2c",
+        "label": "Looks like lead ore"
+      }
+    },
+    {
+      "text": "Today it is the world's main ore of zinc.",
+      "scene": {
+        "kind": "title",
+        "text": "Zinc",
+        "sub": "The main ore"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Sphalerite has over triple diamond's fire. Fire means dispersion, how strongly a gem splits light into colors. Sphalerite scores about 0.156, and diamond only 0.044. Faceted stones are rare, and the best known source is northern Spain. A clear red Spanish stone is called ruby blende. It is soft, with a Mohs hardness of 3.5 to 4. It also splits easily along flat planes, so cutting is a challenge. Its name comes from a Greek word meaning treacherous. People could mistake it for lead ore, but it yields no lead. Today it is the world's main ore of zinc.",
+    "hashtags": [
+      "#sphalerite",
+      "#gemstones",
+      "#rarestones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/spring-2024-gemnews-sphalerite-from-spain",
+    "https://geology.com/minerals/sphalerite.shtml",
+    "https://www.gemselect.com/gem-info/sphalerite/sphalerite-info.php",
+    "https://www.gemadventurer.com/gemstones/spanish-sphalerite/",
+    "https://mail.gem-sphalerite.com/physical-properties",
+    "https://zeus.phys.uconn.edu/halld/diamonds/diamondgems.html",
+    "https://www.gemsociety.org/article/gemstone-dispersion/",
+    "https://www.gemsociety.org/article/sphalerite-buying-guide",
+    "https://www.handbookofmineralogy.org/pdfs/sphalerite.pdf",
+    "https://rocksminerals.flexiblelearning.auckland.ac.nz/minerals/sphalerite.html",
+    "https://en.wikipedia.org/wiki/Sphalerite",
+    "https://www.gemsociety.org/article/sphalerite-jewelry-and-gemstone-information",
+    "https://gem-sphalerite.com/history",
+    "https://zh.mindat.org/loc-28403.html",
+    "https://gem-sphalerite.com/sold-spanish-sphalerites/61-10280-sphalerite-gemstone",
+    "https://www.lot-art.com/auction-lots-source-click/47023348",
+    "https://www.usgs.gov/media/images/sphalerite",
+    "https://www.earthmagazine.org/article/mineral-resource-month-zinc/"
+  ]
+}

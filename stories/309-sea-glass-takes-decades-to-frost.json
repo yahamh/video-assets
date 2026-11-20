@@ -1,0 +1,144 @@
+{
+  "id": "309-sea-glass-takes-decades-to-frost",
+  "number": 309,
+  "title": "Sea glass takes decades to frost",
+  "style": "lowpoly",
+  "topic": "sea glass takes decades to frost old bottles tableware waves sand tumble smooth tiny curved pits green brown common red orange rarest sunlight old clear glass manganese purple festival july connecticut contest frosted bottles drill pendant diamond bit bezel ring",
+  "music": "music-309.wav",
+  "hook": {
+    "text": "Sea glass takes decades to frost.",
+    "gold": [
+      "decades",
+      "frost."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sea glass takes decades to frost.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "round",
+        "tone": "#7fcfb8"
+      }
+    },
+    {
+      "text": "It starts as pieces of old bottles and tableware.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#5aa86a",
+        "label": "Old bottle glass"
+      }
+    },
+    {
+      "text": "Waves and sand tumble the broken pieces until the edges turn smooth.",
+      "scene": {
+        "kind": "title",
+        "text": "Tumbled",
+        "sub": "Waves and sand"
+      }
+    },
+    {
+      "text": "Real frosted sea glass is covered in tiny curved pits.",
+      "scene": {
+        "kind": "title",
+        "text": "Pitted",
+        "sub": "Tiny curved pits"
+      }
+    },
+    {
+      "text": "Green and brown are among the most common colors.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a6a3a",
+        "label": "Common colors"
+      }
+    },
+    {
+      "text": "Red and orange are among the rarest.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e0602a",
+        "label": "Among the rarest"
+      }
+    },
+    {
+      "text": "Sunlight can turn old clear glass made with manganese purple.",
+      "say": "Sunlight can turn old clear glass made with MANG-guh-neez purple.",
+      "scene": {
+        "kind": "title",
+        "text": "Purple",
+        "sub": "From manganese"
+      }
+    },
+    {
+      "text": "Each July, a sea glass festival in Connecticut gathers collectors and jewelers.",
+      "say": "Each July, a sea glass festival in kuh-NET-ih-kut gathers collectors and jewelers.",
+      "scene": {
+        "kind": "title",
+        "text": "Festival",
+        "sub": "Each July"
+      }
+    },
+    {
+      "text": "A contest there has a category for frosted bottles.",
+      "scene": {
+        "kind": "title",
+        "text": "Contest",
+        "sub": "Frosted bottles"
+      }
+    },
+    {
+      "text": "Jewelers drill a small hole with a diamond bit for a pendant.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "round",
+        "tone": "#7fcfb8",
+        "label": "A drilled pendant"
+      }
+    },
+    {
+      "text": "For a ring, a thin silver rim called a bezel holds it.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "white",
+        "shape": "oval",
+        "tone": "#7fcfb8",
+        "label": "A bezel setting"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Sea glass takes decades to frost. It starts as pieces of old bottles and tableware. Waves and sand tumble the broken pieces until the edges turn smooth. Real frosted sea glass is covered in tiny curved pits. Green and brown are among the most common colors. Red and orange are among the rarest. Sunlight can turn old clear glass made with manganese purple. Each July, a sea glass festival in Connecticut gathers collectors and jewelers. A contest there has a category for frosted bottles. Jewelers drill a small hole with a diamond bit for a pendant. For a ring, a thin silver rim called a bezel holds it.",
+    "hashtags": [
+      "#seaglass",
+      "#beachglass",
+      "#handmadejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://seaglassassociation.org/genuine-vs-artificial/",
+    "http://www.seaglassjournal.com/whatisseaglass.htm",
+    "https://theconversation.com/sea-glass-a-treasure-formed-from-trash-is-on-the-decline-as-single-use-plastic-takes-over-212666",
+    "https://www.wunc.org/2025-07-28/looking-for-seaglass-a-guide-to-finding-your-beachs-hidden-treasure",
+    "https://bytheseajewelry.com/pages.php?pageid=25",
+    "https://www.inquirer.com/philly/news/20120721_Sea_glass_becoming_harder_to_find.html",
+    "https://www.nationalgeographic.com/magazine/article/in-search-of-authentic-sea-glass",
+    "https://libanswers.cmog.org/faq/259152",
+    "https://www.beachcombingmagazine.com/blogs/news/the-science-of-sea-glass"
+  ]
+}

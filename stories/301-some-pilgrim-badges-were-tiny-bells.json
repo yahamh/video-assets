@@ -1,0 +1,155 @@
+{
+  "id": "301-some-pilgrim-badges-were-tiny-bells",
+  "number": 301,
+  "title": "Some pilgrim badges were tiny bells",
+  "style": "paper",
+  "plate": "Pilgrim badge",
+  "theme": "mint",
+  "topic": "pilgrim badges tiny bells british museum canterbury hats cloaks proof of trip lead tin pewter low melting quick to cast stone molds 100000 a year silver bright dredged thames rattles london museum shells",
+  "music": "music-301.wav",
+  "hook": {
+    "text": "Some pilgrim badges were tiny bells.",
+    "gold": [
+      "pilgrim",
+      "bells."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Some pilgrim badges were tiny bells.",
+      "scene": {
+        "kind": "hook",
+        "show": "brooch",
+        "tone": "#9aa7b0",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The British Museum has one made in Canterbury around 1325 to 1350.",
+      "say": "The British Museum has one made in Canterbury around thirteen twenty five to thirteen fifty.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "label": "Made in Canterbury",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Pilgrims pinned badges to hats and cloaks,",
+      "scene": {
+        "kind": "title",
+        "text": "Pinned on",
+        "sub": "Hats and cloaks",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "to show where they had been.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "label": "Proof of the trip",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Many were cast from lead and tin, a mix called pewter.",
+      "say": "Many were cast from lead and tin, a mix called PYOO-ter.",
+      "scene": {
+        "kind": "title",
+        "text": "Pewter",
+        "sub": "Lead and tin",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "It melts at a low temperature, so badges were quick to make.",
+      "scene": {
+        "kind": "title",
+        "text": "Quick",
+        "sub": "To cast",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Makers poured the hot metal into molds carved from stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Stone",
+        "sub": "Molds carved from it",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "At the busiest shrines, around 100,000 badges may have sold each year.",
+      "say": "At the busiest shrines, around one hundred thousand badges may have sold each year.",
+      "scene": {
+        "kind": "title",
+        "text": "100,000",
+        "sub": "Badges a year, maybe",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Fresh from the mold, they gleamed like silver.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "label": "Silver bright",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Most that survive were dredged from the Thames in London.",
+      "say": "Most that survive were dredged from the Temz in London.",
+      "scene": {
+        "kind": "title",
+        "text": "Thames",
+        "sub": "Dredged from the river",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "One souvenir rattle in the London Museum once held shells.",
+      "scene": {
+        "kind": "reveal",
+        "item": "brooch",
+        "label": "Held shells",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Some pilgrim badges were tiny bells. The British Museum has one made in Canterbury around 1325 to 1350. Pilgrims pinned badges to hats and cloaks, to show where they had been. Many were cast from lead and tin, a mix called pewter. It melts at a low temperature, so badges were quick to make. Makers poured the hot metal into molds carved from stone. At the busiest shrines, around 100,000 badges may have sold each year. Fresh from the mold, they gleamed like silver. Most that survive were dredged from the Thames in London. One souvenir rattle in the London Museum once held shells.",
+    "hashtags": [
+      "#pilgrimbadge",
+      "#pewter",
+      "#medievaljewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/art/collection/search/473470",
+    "https://historicengland.org.uk/research/results/reports/2582/PEWTEROBJECTSFROMTHEMUSEUMOFLONDON",
+    "https://ourresearch.reading.ac.uk/medieval-ritual-landscape/recording-and-xrf-ing-in-norfolk/",
+    "https://medievallondon.ace.fordham.edu/collections/show/28",
+    "https://www.thebecketstory.org.uk/pilgrimage/souvenirs",
+    "https://www.londonmuseum.org.uk/collections/v/object-37311/virgin-and-child-badge-matrix",
+    "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Pilgrim-Badge/",
+    "https://medievalartresearch.com/2016/03/29/british-museum-handling-session-becket-and-pilgrimage/",
+    "https://doaj.org/article/723f17088cf04df28eb21408f91fc803",
+    "https://www.britishmuseum.org/collection/object/H_1856-0701-2185",
+    "https://canterburymuseums.co.uk/collections/the-beaney/people-places/pilgrim-badges/",
+    "https://www.historytoday.com/node/55379",
+    "https://canterburymuseums.co.uk/pilgrim-souvenirs-becket-badges-and-sea-shells/",
+    "https://static1.squarespace.com/static/65df7835178a9d2b20f8d501/t/660c266f8f588173cbaa5f22/1712072310742/journal-volume-142-15_res_and_disc.pdf",
+    "https://blogs.canterbury.ac.uk/kenthistory/?p=274",
+    "https://www.britishmuseum.org/collection/object/H_1856-0701-2044",
+    "https://www.londonmuseum.org.uk/collections/v/object-30390/st-thomas-becket",
+    "https://www.londonmuseum.org.uk/collections/v/object-37292/rattle-with-shell-fragments"
+  ]
+}

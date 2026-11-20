@@ -1,0 +1,141 @@
+{
+  "id": "305-bloodstone-is-green-with-red-spots",
+  "number": 305,
+  "title": "Bloodstone is green with red spots",
+  "topic": "bloodstone green red spots chalcedony iron oxide name look like blood heliotrope greek sun turner ancient writers red sun bowl of water roman engravers signet ring stones intaglio mohs 6.5 to 7 india brazil australia march birthstone aquamarine",
+  "music": "music-305.wav",
+  "hook": {
+    "text": "Bloodstone is green with red spots.",
+    "gold": [
+      "Bloodstone",
+      "spots."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Bloodstone is green with red spots.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#2f6b4a"
+      }
+    },
+    {
+      "text": "It is dark green chalcedony, flecked with red spots of iron oxide.",
+      "say": "It is dark green kal-SED-oh-nee, flecked with red spots of iron oxide.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#2f6b4a",
+        "label": "Red iron oxide"
+      }
+    },
+    {
+      "text": "The name comes from the red spots, which look like blood.",
+      "scene": {
+        "kind": "title",
+        "text": "Blood",
+        "sub": "Spots look like it"
+      }
+    },
+    {
+      "text": "Its other name is heliotrope, Greek for sun turner.",
+      "say": "Its other name is HEE-lee-oh-trohp, Greek for sun turner.",
+      "scene": {
+        "kind": "title",
+        "text": "Heliotrope",
+        "sub": "Greek: sun turner"
+      }
+    },
+    {
+      "text": "Ancient writers said it showed a red sun in a water bowl.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#8a2a22",
+        "label": "A red sun"
+      }
+    },
+    {
+      "text": "Roman engravers carved it into signet ring stones.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#2f6b4a",
+        "label": "Signet ring stone"
+      }
+    },
+    {
+      "text": "A design cut into the stone is called an intaglio.",
+      "say": "A design cut into the stone is called an in-TAL-yoh.",
+      "scene": {
+        "kind": "title",
+        "text": "Intaglio",
+        "sub": "Cut into the stone"
+      }
+    },
+    {
+      "text": "Bloodstone measures about 6.5 to 7 on the Mohs scale.",
+      "say": "Bloodstone measures about six and a half to seven on the MOHZ scale.",
+      "scene": {
+        "kind": "title",
+        "text": "6.5 to 7",
+        "sub": "On the Mohs scale"
+      }
+    },
+    {
+      "text": "Most bloodstone sold today comes from India.",
+      "scene": {
+        "kind": "title",
+        "text": "India",
+        "sub": "Most of it today"
+      }
+    },
+    {
+      "text": "Brazil and Australia are other sources.",
+      "say": "Brazil and Australia are other sources.",
+      "scene": {
+        "kind": "title",
+        "text": "Brazil",
+        "sub": "And Australia too"
+      }
+    },
+    {
+      "text": "It is one of March's two birthstones, next to aquamarine.",
+      "say": "It is one of March's two birthstones, next to AK-wuh-muh-REEN.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "oval",
+        "tone": "#2f6b4a",
+        "label": "March birthstone"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Bloodstone is green with red spots. It is dark green chalcedony, flecked with red spots of iron oxide. The name comes from the red spots, which look like blood. Its other name is heliotrope, Greek for sun turner. Ancient writers said it showed a red sun in a water bowl. Roman engravers carved it into signet ring stones. A design cut into the stone is called an intaglio. Bloodstone measures about 6.5 to 7 on the Mohs scale. Most bloodstone sold today comes from India. Brazil and Australia are other sources. It is one of March's two birthstones, next to aquamarine.",
+    "hashtags": [
+      "#bloodstone",
+      "#heliotrope",
+      "#marchbirthstone",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/birthstones/march-birthstones",
+    "https://americangemsociety.org/bloodstone-overview",
+    "https://www.britannica.com/science/bloodstone",
+    "https://geology.com/gemstones/bloodstone/"
+  ]
+}

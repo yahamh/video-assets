@@ -1,0 +1,144 @@
+{
+  "id": "303-the-briolette-has-no-flat-top",
+  "number": 303,
+  "title": "The briolette has no flat top",
+  "style": "lowpoly",
+  "topic": "briolette no flat top table pear shape pendeloque triangular facets all over no front or back drilled narrow end hangs wire drop pendants earrings india 1600s french merchant louis fourteenth napoleon necklace empress smithsonian",
+  "music": "music-303.wav",
+  "hook": {
+    "text": "The briolette has no flat top.",
+    "gold": [
+      "briolette",
+      "top."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The briolette has no flat top.",
+      "say": "The BREE-oh-LET has no flat top.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "pear",
+        "tone": "#f0a8c8"
+      }
+    },
+    {
+      "text": "Most cut gems have a flat facet on top called the table.",
+      "say": "Most cut gems have a flat facet on top called the table.",
+      "scene": {
+        "kind": "title",
+        "text": "Table",
+        "sub": "The flat top facet"
+      }
+    },
+    {
+      "text": "A pear shape has a table, but a briolette has none.",
+      "say": "A pear shape has a table, but a BREE-oh-LET has none.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#f0a8c8",
+        "label": "No table"
+      }
+    },
+    {
+      "text": "A briolette is covered all over with triangular facets.",
+      "say": "A BREE-oh-LET is covered all over with triangular facets.",
+      "scene": {
+        "kind": "title",
+        "text": "Facets",
+        "sub": "All over the stone"
+      }
+    },
+    {
+      "text": "So it has no front or back and catches light everywhere.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "pear",
+        "tone": "#e8b84a",
+        "label": "No front or back"
+      }
+    },
+    {
+      "text": "Drilled at the narrow end, it hangs freely from a wire.",
+      "scene": {
+        "kind": "title",
+        "text": "Drilled",
+        "sub": "At the narrow end"
+      }
+    },
+    {
+      "text": "That is why briolettes are usually drop pendants and earrings.",
+      "say": "That is why BREE-oh-LETS are usually drop pendants and earrings.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "pear",
+        "tone": "#f0a8c8",
+        "label": "Drop pendant"
+      }
+    },
+    {
+      "text": "GIA researchers link the cut to India, by the 1600s.",
+      "say": "The G I A researchers link the cut to India, by the sixteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "India",
+        "sub": "By the 1600s"
+      }
+    },
+    {
+      "text": "A French gem merchant sold briolettes to King Louis the Fourteenth.",
+      "say": "A French gem merchant sold BREE-oh-LETS to King Louis the Fourteenth.",
+      "scene": {
+        "kind": "title",
+        "text": "France",
+        "sub": "A merchant's sale"
+      }
+    },
+    {
+      "text": "Napoleon's necklace for his empress includes briolettes and sits in the Smithsonian.",
+      "say": "Napoleon's necklace for his empress includes BREE-oh-LETS and sits in the Smithsonian.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "necklace",
+        "metal": "yellow",
+        "shape": "pear",
+        "tone": "#e8f0f6",
+        "label": "In the Smithsonian"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The briolette has no flat top. Most cut gems have a flat facet on top called the table. A pear shape has a table, but a briolette has none. A briolette is covered all over with triangular facets. So it has no front or back and catches light everywhere. Drilled at the narrow end, it hangs freely from a wire. That is why briolettes are usually drop pendants and earrings. GIA researchers link the cut to India, by the 1600s. A French gem merchant sold briolettes to King Louis the Fourteenth. Napoleon's necklace for his empress includes briolettes and sits in the Smithsonian.",
+    "hashtags": [
+      "#briolette",
+      "#gemcuts",
+      "#diamonds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://merriam-webster.com/dictionary/briolette",
+    "https://www.britannica.com/art/drop-cut",
+    "https://gubelin.com/pages/edelstein-schliffe",
+    "https://www.berganza.com/knowledge/gemmology/cuts/briolette-cut",
+    "https://beladora.com/blogs/blog/the-briolette-dimensions-of-sparkle",
+    "https://levysfinejewelry.com/pages/history-of-diamond-cutting-briolette-cut",
+    "https://thediamondcollective.world/historic-diamonds/briolette-cut-diamond/",
+    "https://langantiques.com/university/?p=69815",
+    "https://www.jckonline.com/?p=37695",
+    "https://www.gemselect.com/other-info/briolette-history.php",
+    "https://naturalhistory.si.edu/object/nmnhmineralsciences_1002083",
+    "https://4cs.gia.edu/en-us/blog/famous-diamonds-napoleon-diamond-necklace/",
+    "https://en.wikipedia.org/wiki/Napoleon_Diamond_Necklace"
+  ]
+}

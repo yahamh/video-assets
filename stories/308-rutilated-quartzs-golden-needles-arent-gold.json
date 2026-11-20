@@ -1,0 +1,133 @@
+{
+  "id": "308-rutilated-quartzs-golden-needles-arent-gold",
+  "number": 308,
+  "title": "Rutilated quartz's golden needles aren't gold",
+  "topic": "rutilated quartz golden needles not gold clear quartz fine hair like needles rutile titanium dioxide white pigment paint latin rutilus red silvery copper venus hair stone angel hair six rayed star brazil bahia mohs 6 to 6.5 quartz 7",
+  "music": "music-308.wav",
+  "hook": {
+    "text": "Rutilated quartz's golden needles aren't gold.",
+    "gold": [
+      "golden",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rutilated quartz's golden needles aren't gold.",
+      "say": "ROO-tuh-LAY-tid quartz's golden needles aren't gold.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "oval",
+        "tone": "#e3c066"
+      }
+    },
+    {
+      "text": "It is clear quartz with fine hair like needles of rutile.",
+      "say": "It is clear quartz with fine hair like needles of ROO-teel.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#e8d9a0",
+        "label": "Clear quartz"
+      }
+    },
+    {
+      "text": "Rutile is titanium dioxide, so the golden needles are not gold.",
+      "say": "ROO-teel is ty-TAY-nee-um dy-OK-side, so the golden needles are not gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Titanium",
+        "sub": "Dioxide, not gold"
+      }
+    },
+    {
+      "text": "Titanium dioxide is also the white pigment used in paint.",
+      "scene": {
+        "kind": "title",
+        "text": "Paint",
+        "sub": "The same compound"
+      }
+    },
+    {
+      "text": "Rutile gets its name from the Latin word rutilus, meaning red.",
+      "say": "ROO-teel gets its name from the Latin word ROO-tih-lus, meaning red.",
+      "scene": {
+        "kind": "title",
+        "text": "Rutilus",
+        "sub": "Latin for red"
+      }
+    },
+    {
+      "text": "The needles are usually golden, and some are silvery or copper red.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#c8763a",
+        "label": "Copper red needles"
+      }
+    },
+    {
+      "text": "Some sellers call it Venus hair stone or angel hair quartz.",
+      "scene": {
+        "kind": "title",
+        "text": "Venus hair",
+        "sub": "A trade name"
+      }
+    },
+    {
+      "text": "Some needles cross to form a six rayed star inside the quartz.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#e3c066",
+        "label": "A six rayed star"
+      }
+    },
+    {
+      "text": "Brazil, including the state of Bahia, is the main source.",
+      "say": "Brazil, including the state of bah-EE-uh, is the main source.",
+      "scene": {
+        "kind": "title",
+        "text": "Brazil",
+        "sub": "The main source"
+      }
+    },
+    {
+      "text": "Rutile is a bit softer than quartz, at 6 to 6.5.",
+      "say": "Rutile is a bit softer than quartz, at six to six and a half on the MOHZ scale.",
+      "scene": {
+        "kind": "title",
+        "text": "6 to 6.5",
+        "sub": "Rutile, Mohs scale"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Rutilated quartz's golden needles aren't gold. It is clear quartz with fine hair like needles of rutile. Rutile is titanium dioxide, so the golden needles are not gold. Titanium dioxide is also the white pigment used in paint. Rutile gets its name from the Latin word rutilus, meaning red. The needles are usually golden, and some are silvery or copper red. Some sellers call it Venus hair stone or angel hair quartz. Some needles cross to form a six rayed star inside the quartz. Brazil, including the state of Bahia, is the main source. Rutile is a bit softer than quartz, at 6 to 6.5.",
+    "hashtags": [
+      "#rutilatedquartz",
+      "#venushair",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/doc/GG-WN18-Micro-World.pdf",
+    "https://www.gia.edu/gems-gemology/fall-2017-microworld-silvery-rutile-inclusions-quartz",
+    "https://en.institut-seltene-erden.de/?p=5129",
+    "https://www.nmnhs.com/gemmology/classification/gem_id_en-4DB05-Rutile.html",
+    "https://www.usgs.gov/centers/nmic/titanium-statistics-and-information",
+    "https://www.handbookofmineralogy.org/pdfs/rutile.pdf",
+    "https://www.techno-science.net/fr/definitions/rutile",
+    "https://www.mindat.org/min-3486.html",
+    "https://studylight.org/encyclopedias/eng/bri/r/rutile.html"
+  ]
+}

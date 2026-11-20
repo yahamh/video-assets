@@ -1,0 +1,148 @@
+{
+  "id": "304-mother-of-pearls-rainbow-isnt-pigment",
+  "number": 304,
+  "title": "Mother of pearl's rainbow isn't pigment",
+  "style": "paper",
+  "plate": "Mother of pearl",
+  "theme": "watercolor",
+  "topic": "mother of pearl nacre inner shell layer coats a pearl aragonite chalk chemical recipe microscopic plates stacked half a micrometer thick light between layers rainbow shimmer tilt colors shift orient far tougher one pearl 2615 layers 548 days",
+  "music": "music-304.wav",
+  "hook": {
+    "text": "Mother of pearl's rainbow isn't pigment.",
+    "gold": [
+      "rainbow",
+      "pigment."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mother of pearl's rainbow isn't pigment.",
+      "scene": {
+        "kind": "hook",
+        "show": "clam",
+        "tone": "#e8b4c8",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "It is nacre, the shimmering inner layer of mollusk shells.",
+      "say": "It is NAY-ker, the shimmering inner layer of mollusk shells.",
+      "scene": {
+        "kind": "reveal",
+        "item": "clam",
+        "label": "Inner shell layer",
+        "light": "#fff2c4",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "It is also the material that coats a pearl.",
+      "scene": {
+        "kind": "reveal",
+        "item": "round-pearl",
+        "tone": "#f0e4ea",
+        "label": "Coats a pearl",
+        "light": "#f6e7ff",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Nacre is mostly aragonite, a mineral with chalk's chemical recipe.",
+      "say": "Nacre is mostly uh-RAG-uh-nyte, a mineral with chalk's chemical recipe.",
+      "scene": {
+        "kind": "title",
+        "text": "Aragonite",
+        "sub": "Chalk's chemistry",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "That mineral forms microscopic plates, stacked in overlapping layers.",
+      "scene": {
+        "kind": "title",
+        "text": "Stacked",
+        "sub": "Microscopic plates",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "Each plate is only about half a micrometer thick.",
+      "say": "Each plate is only about half a MY-kroh-mee-ter thick.",
+      "scene": {
+        "kind": "title",
+        "text": "Thin",
+        "sub": "Half a micrometer",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Light bouncing off and between those layers makes the rainbow shimmer.",
+      "scene": {
+        "kind": "reveal",
+        "item": "opal",
+        "openAt": 0.2,
+        "label": "Light between layers",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Tilt a piece, and the colors shift.",
+      "scene": {
+        "kind": "title",
+        "text": "Tilt",
+        "sub": "And colors shift",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "Gem labs call the shimmer on a pearl orient.",
+      "say": "Gem labs call the shimmer on a pearl OR-ee-ent.",
+      "scene": {
+        "kind": "title",
+        "text": "Orient",
+        "sub": "A pearl's shimmer",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "Aragonite is brittle, yet nacre is far tougher than the mineral alone.",
+      "scene": {
+        "kind": "title",
+        "text": "Tough",
+        "sub": "Than plain aragonite",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "One studied pearl had 2,615 layers, built over 548 days.",
+      "say": "One studied pearl had two thousand six hundred fifteen layers, built over five hundred forty eight days.",
+      "scene": {
+        "kind": "title",
+        "text": "2,615",
+        "sub": "Layers in one pearl",
+        "color": "#ec6a9c"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Mother of pearl's rainbow isn't pigment. It is nacre, the shimmering inner layer of mollusk shells. It is also the material that coats a pearl. Nacre is mostly aragonite, a mineral with chalk's chemical recipe. That mineral forms microscopic plates, stacked in overlapping layers. Each plate is only about half a micrometer thick. Light bouncing off and between those layers makes the rainbow shimmer. Tilt a piece, and the colors shift. Gem labs call the shimmer on a pearl orient. Aragonite is brittle, yet nacre is far tougher than the mineral alone. One studied pearl had 2,615 layers, built over 548 days.",
+    "hashtags": [
+      "#motherofpearl",
+      "#nacre",
+      "#pearls",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://cameo.mfa.org/wiki/Mother-of-pearl",
+    "https://www.discoverwildlife.com/wildlife/insects-invertebrates/facts-about-pearls",
+    "https://www.smithsonianmag.com/smart-news/how-pearls-obtain-their-remarkable-symmetry-180979060/",
+    "https://meyersgroup.ucsd.edu/papers/journals/Meyers%20261.pdf",
+    "https://news.wisc.edu/mother-of-pearl-classic-beauty-and-remarkable-strength/",
+    "https://www.bme.psu.edu/labs/Yang-Lab/publications%20PDF/Acta%20Biomaterialia%202017%20Nacre%20review.pdf"
+  ]
+}

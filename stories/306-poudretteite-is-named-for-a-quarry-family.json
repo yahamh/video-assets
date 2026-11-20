@@ -1,0 +1,134 @@
+{
+  "id": "306-poudretteite-is-named-for-a-quarry-family",
+  "number": 306,
+  "title": "Poudretteite is named for a quarry family",
+  "style": "lowpoly",
+  "topic": "poudretteite named for quarry family poudrette quebec mont saint hilaire seven tiny crystals mid 1960s few millimeters colorless recognized new mineral 1986 only known until 2000 mogok myanmar gem quality three carats purple pink mohs 5 smithsonian 9.41 carats",
+  "music": "music-306.wav",
+  "hook": {
+    "text": "Poudretteite is named for a quarry family.",
+    "gold": [
+      "Poudretteite",
+      "family."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Poudretteite is named for a quarry family.",
+      "say": "poo-DRET-yte is named for a quarry family.",
+      "scene": {
+        "kind": "hook",
+        "show": "gem",
+        "shape": "cushion",
+        "tone": "#e88aa8"
+      }
+    },
+    {
+      "text": "The Poudrette family owned and ran a quarry in Quebec.",
+      "say": "The poo-DRET family owned and ran a quarry in Quebec.",
+      "scene": {
+        "kind": "title",
+        "text": "Quebec",
+        "sub": "Poudrette quarry"
+      }
+    },
+    {
+      "text": "Seven tiny crystals turned up there in the mid 1960s.",
+      "say": "Seven tiny crystals turned up there in the mid nineteen sixties.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "round",
+        "tone": "#f3dfe6",
+        "label": "Seven tiny crystals"
+      }
+    },
+    {
+      "text": "Each was only a few millimeters across and nearly colorless.",
+      "scene": {
+        "kind": "title",
+        "text": "Tiny",
+        "sub": "A few millimeters"
+      }
+    },
+    {
+      "text": "It was not recognized as a new mineral until 1986.",
+      "say": "It was not recognized as a new mineral until nineteen eighty six.",
+      "scene": {
+        "kind": "title",
+        "text": "1986",
+        "sub": "A new mineral"
+      }
+    },
+    {
+      "text": "Until 2000, those Quebec crystals were the only known poudretteite.",
+      "say": "Until the year two thousand, those Quebec crystals were the only known poo-DRET-yte.",
+      "scene": {
+        "kind": "title",
+        "text": "2000",
+        "sub": "The only known"
+      }
+    },
+    {
+      "text": "That year, a stone from Mogok in Myanmar proved to be one.",
+      "scene": {
+        "kind": "jewel",
+        "piece": "ring",
+        "metal": "yellow",
+        "shape": "cushion",
+        "tone": "#e88aa8",
+        "label": "First gem quality"
+      }
+    },
+    {
+      "text": "It weighed about three carats and glowed purple pink.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "cushion",
+        "tone": "#b86aa8",
+        "label": "Purple pink"
+      }
+    },
+    {
+      "text": "Poudretteite is about 5 on the Mohs scale, where diamond is 10.",
+      "say": "poo-DRET-yte is about five on the MOHZ scale, where diamond is ten.",
+      "scene": {
+        "kind": "title",
+        "text": "Mohs 5",
+        "sub": "Diamond is 10"
+      }
+    },
+    {
+      "text": "The Smithsonian holds one among the largest ever cut, at 9.41 carats.",
+      "say": "The Smithsonian holds one among the largest ever cut, at nine point four one carats.",
+      "scene": {
+        "kind": "reveal",
+        "item": "gem",
+        "shape": "oval",
+        "tone": "#f1b6c8",
+        "label": "In the Smithsonian"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Poudretteite is named for a quarry family. The Poudrette family owned and ran a quarry in Quebec. Seven tiny crystals turned up there in the mid 1960s. Each was only a few millimeters across and nearly colorless. It was not recognized as a new mineral until 1986. Until 2000, those Quebec crystals were the only known poudretteite. That year, a stone from Mogok in Myanmar proved to be one. It weighed about three carats and glowed purple pink. Poudretteite is about 5 on the Mohs scale, where diamond is 10. The Smithsonian holds one among the largest ever cut, at 9.41 carats.",
+    "hashtags": [
+      "#poudretteite",
+      "#rarestones",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002759",
+    "https://rruff.info/uploads/CM25_763.pdf",
+    "https://www.handbookofmineralogy.org/pdfs/poudretteite.pdf",
+    "https://www.gia.edu/doc/Poudretteite-A-Rare-Gem-Species-from-the-Mogok-Valley.pdf",
+    "https://multicolour.com/gemstones/poudretteite.html"
+  ]
+}

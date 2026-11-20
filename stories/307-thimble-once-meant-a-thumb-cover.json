@@ -1,0 +1,138 @@
+{
+  "id": "307-thimble-once-meant-a-thumb-cover",
+  "number": 307,
+  "title": "Thimble once meant a thumb cover",
+  "style": "paper",
+  "plate": "Thimble",
+  "theme": "cream",
+  "topic": "thimble once meant a thumb cover old english ancestor word for thumb b came in later nuremberg imported john lofting thimble mill london late 1600s thimble found in wales engraved lyke stil and love ever museum wales romantic gifts fancy survive porcelain meissen met silver thimble 1577",
+  "music": "music-307.wav",
+  "hook": {
+    "text": "Thimble once meant a thumb cover.",
+    "gold": [
+      "Thimble",
+      "thumb"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Thimble once meant a thumb cover.",
+      "scene": {
+        "kind": "hook",
+        "show": "ring",
+        "shape": "plain",
+        "metal": "white",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Its Old English ancestor was built on the word for thumb.",
+      "scene": {
+        "kind": "title",
+        "text": "Thumb",
+        "sub": "Where it starts",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The b came in later, since the old word had none.",
+      "say": "The bee came in later, since the old word had none.",
+      "scene": {
+        "kind": "title",
+        "text": "Added",
+        "sub": "The b came later",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "In medieval England, most thimbles were imported, many from Nuremberg.",
+      "say": "In medieval England, most thimbles were imported, many from NOOR-um-burg.",
+      "scene": {
+        "kind": "title",
+        "text": "Germany",
+        "sub": "Many from Nuremberg",
+        "color": "#5bb4e8"
+      }
+    },
+    {
+      "text": "John Lofting opened a thimble mill in London in the late 1600s.",
+      "say": "John Lofting opened a thimble mill in London in the late sixteen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "London",
+        "sub": "A thimble mill",
+        "color": "#a98be0"
+      }
+    },
+    {
+      "text": "A thimble found in Wales is engraved lyke stil and love ever.",
+      "say": "A thimble found in Wales is engraved like still and love ever.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "white",
+        "label": "Love ever",
+        "color": "#ec6a9c"
+      }
+    },
+    {
+      "text": "Museum Wales suggests thimbles may have been romantic gifts.",
+      "scene": {
+        "kind": "title",
+        "text": "Gifts",
+        "sub": "For someone close",
+        "color": "#f7c23a"
+      }
+    },
+    {
+      "text": "Thimbles were often gifts, which is why many fancy ones survive.",
+      "scene": {
+        "kind": "title",
+        "text": "Fancy",
+        "sub": "Many survive",
+        "color": "#c8dc3c"
+      }
+    },
+    {
+      "text": "Porcelain thimbles followed in the 1700s, with Meissen the most sought after.",
+      "say": "Porcelain thimbles followed in the seventeen hundreds, with MY-sun the most sought after.",
+      "scene": {
+        "kind": "title",
+        "text": "Meissen",
+        "sub": "Porcelain thimbles",
+        "color": "#4cc3a8"
+      }
+    },
+    {
+      "text": "The Met in New York still keeps a silver thimble from 1577.",
+      "say": "The Met in New York still keeps a silver thimble from fifteen seventy seven.",
+      "scene": {
+        "kind": "reveal",
+        "item": "ring",
+        "shape": "plain",
+        "metal": "white",
+        "label": "Silver, dated 1577",
+        "color": "#5bb4e8"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Thimble once meant a thumb cover. Its Old English ancestor was built on the word for thumb. The b came in later, since the old word had none. In medieval England, most thimbles were imported, many from Nuremberg. John Lofting opened a thimble mill in London in the late 1600s. A thimble found in Wales is engraved lyke stil and love ever. Museum Wales suggests thimbles may have been romantic gifts. Thimbles were often gifts, which is why many fancy ones survive. Porcelain thimbles followed in the 1700s, with Meissen the most sought after. The Met in New York still keeps a silver thimble from 1577.",
+    "hashtags": [
+      "#thimble",
+      "#antiquejewelry",
+      "#sewing",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/thimble",
+    "https://www.merriam-webster.com/dictionary/thimble",
+    "https://worldwidewords.org/qa-thi1.html"
+  ]
+}
