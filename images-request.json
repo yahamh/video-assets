@@ -1,11 +1,16 @@
 {"queries": [
- {"key": "292-radiant", "commons": ["radiant cut diamond", "radiant cut diamond ring", "diamond cut shapes radiant"], "max": 8},
- {"key": "227-ama", "commons": ["ama divers Japan", "Ama pearl diver", "ama diver Mikimoto pearl island"], "max": 8},
- {"key": "259-cufflinks", "commons": ["cufflinks gold", "antique cufflinks", "cufflink sleeve button"], "met": ["cufflinks"], "max": 8},
- {"key": "295-puzzle", "commons": ["puzzle ring", "Turkish wedding ring puzzle", "gimmel ring"], "met": ["puzzle ring"], "max": 8},
- {"key": "249-bulla", "commons": ["Roman bulla gold", "bulla pendant Etruscan", "bulla Roman boy amulet"], "met": ["bulla"], "max": 8},
- {"key": "256-cairngorm", "commons": ["cairngorm brooch Victoria Balmoral", "Queen Victoria Balmoral Castle", "Prince Albert Balmoral", "cairngorm smoky quartz Scottish brooch"], "max": 8},
- {"key": "247-pearl", "commons": ["freshwater pearl Mississippi river mussel", "pearl button mussel shell", "freshwater mussel shell pearl"], "max": 8},
- {"key": "250-posy", "commons": ["posy ring", "posy ring inscription inside", "gold posy ring"], "met": ["posy ring"], "max": 8},
- {"key": "252-trembler", "commons": ["en tremblant brooch", "trembler brooch diamond", "Victorian trembler brooch"], "met": ["en tremblant"], "max": 8}
+ {"key": "c-sancy", "commons": ["Sancy diamond", "Diamant Sancy Louvre", "Sancy diamond Astor"], "max": 8},
+ {"key": "c-hortensia", "commons": ["Hortensia diamond Louvre", "Diamant Hortensia", "Louvre crown jewels diamond pink"], "max": 6},
+ {"key": "c-marielouise", "commons": ["Marie Louise diadem Smithsonian", "Napoleon diamond necklace Marie Louise", "Marie Louise empress diadem turquoise"], "max": 8},
+ {"key": "c-maximilian", "commons": ["Mary of Burgundy portrait", "Maximilian I Holy Roman Emperor portrait", "Maximilian and Mary of Burgundy wedding"], "max": 8},
+ {"key": "c-betrothal", "commons": ["Roman betrothal ring gold", "Roman gold ring clasped hands", "fede ring hands clasped"], "met": ["betrothal ring", "fede ring"], "max": 8},
+ {"key": "c-antoinette", "commons": ["Marie Antoinette pearl", "Marie Antoinette portrait Vigee Le Brun", "Marie Antoinette jewelry pendant"], "max": 8},
+ {"key": "c-sisi", "commons": ["Empress Elisabeth diamond stars hair Winterhalter", "Empress Elisabeth of Austria Winterhalter 1865", "Sisi diamond star hair ornament"], "max": 8},
+ {"key": "c-imperial-crown", "commons": ["Great Imperial Crown of Russia", "Russian Diamond Fund crown", "Catherine the Great crown diamonds"], "max": 8},
+ {"key": "c-faberge", "commons": ["Faberge Winter Egg", "Faberge Coronation Egg", "Faberge Peacock egg", "Faberge Lilies of the Valley egg"], "met": ["Faberge egg"], "max": 8},
+ {"key": "c-jackie", "commons": ["Jacqueline Kennedy 1953 engagement", "Van Cleef Arpels toi et moi ring", "Jacqueline Bouvier John F Kennedy engagement"], "max": 8},
+ {"key": "c-tuttifrutti", "commons": ["Cartier Tutti Frutti", "Cartier tutti frutti bracelet", "Cartier Art Deco carved emerald ruby sapphire"], "max": 8},
+ {"key": "c-eugenie", "commons": ["Empress Eugenie jewels", "Empress Eugenie Winterhalter", "Eugenie diamond bow brooch Louvre"], "max": 8},
+ {"key": "c-queenmary", "commons": ["Queen Mary Cullinan brooch", "Queen Mary Delhi Durbar crown", "Queen Mary of Teck jewels"], "max": 8},
+ {"key": "c-pearlpagoda", "commons": ["Mikimoto Pearl Pagoda", "Mikimoto pearl necklace", "Kokichi Mikimoto portrait"], "max": 8}
 ]}
