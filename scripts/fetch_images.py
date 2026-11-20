@@ -100,6 +100,7 @@ def from_commons(res, out, seen):
 def from_met(term, out, seen):
     q = urllib.parse.urlencode({"hasImages": "true", "isPublicDomain": "true", "q": term})
     res = get("https://collectionapi.metmuseum.org/public/collection/v1/search?" + q)
+    print("  met search", term, "->", len((res or {}).get("objectIDs") or []))
     for oid in ((res or {}).get("objectIDs") or [])[:5]:
         o = get(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{oid}")
         if not o or not o.get("isPublicDomain") or not o.get("primaryImage"):
