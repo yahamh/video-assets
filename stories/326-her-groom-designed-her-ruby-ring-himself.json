@@ -1,0 +1,163 @@
+{
+  "id": "326-her-groom-designed-her-ruby-ring-himself",
+  "number": 326,
+  "title": "Her groom designed her ruby ring himself",
+  "style": "deco",
+  "topic": "princess margaret engagement ring 1960 ruby diamond petals rosebud antony armstrong jones designed himself westminster abbey first televised royal wedding poltimore tiara lady margarita",
+  "music": "music-326.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "round",
+    "halo": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Her groom designed her ruby ring himself.",
+    "gold": [
+      "groom",
+      "himself."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Her groom designed her ruby ring himself.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Princess Margaret's engagement was announced on February 26, 1960.",
+      "say": "Princess Margaret's engagement was announced on February twenty sixth, nineteen sixty.",
+      "scene": {
+        "kind": "title",
+        "text": "1960",
+        "sub": "The engagement",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "She was marrying the society photographer Antony Armstrong Jones.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "A society photographer"
+      }
+    },
+    {
+      "text": "He designed a ring with a ruby at its center.",
+      "scene": {
+        "kind": "piece",
+        "label": "A ruby at the center"
+      }
+    },
+    {
+      "text": "Diamond petals circle the ruby like a rosebud.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 9,
+        "metal": "yellow",
+        "label": "Diamond petals"
+      }
+    },
+    {
+      "text": "Many see a nod to her middle name, Rose.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "cushion",
+        "halo": 8,
+        "metal": "rose",
+        "label": "Her middle name, Rose"
+      }
+    },
+    {
+      "text": "They married at Westminster Abbey on May 6, 1960.",
+      "say": "They married at Westminster Abbey on May sixth, nineteen sixty.",
+      "scene": {
+        "kind": "real",
+        "src": "326-her-groom-designed-her-ruby-ring-himself-0.jpg",
+        "fit": "card",
+        "label": "Wedding day ticket, 1960",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was the first royal wedding shown on television.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "First on television"
+      }
+    },
+    {
+      "text": "She wore a tiara she bought at auction in 1959.",
+      "say": "She wore a tiara she bought at auction in nineteen fifty nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The Poltimore tiara"
+      }
+    },
+    {
+      "text": "Today her granddaughter Lady Margarita owns the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "halo": 10,
+        "metal": "yellow",
+        "label": "Lady Margarita"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Princess Margaret's engagement was announced on February 26, 1960, and her fiance, the society photographer Antony Armstrong Jones, designed the ring himself. A ruby sits at the center, circled by diamond petals like a rosebud. They married at Westminster Abbey on May 6, 1960, in the first royal wedding shown on television. Her granddaughter Lady Margarita owns the ring today.",
+    "hashtags": [
+      "#princessmargaret",
+      "#royalwedding",
+      "#engagementring",
+      "#ruby",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wedding_of_Princess_Margaret_and_Antony_Armstrong-Jones",
+    "https://royalcentral.co.uk/?p=194972",
+    "https://www.queensmith.co.uk/journal/british-royal-engagement-rings",
+    "https://www.hellomagazine.com/brides/20220210132844/princess-margaret-trailblazing-engagement-ring-designed-by-antony-armstrong-jones/",
+    "https://www.theknot.com/content/princess-margaret-wedding",
+    "https://www.theknot.com/content/princess-margaret-engagement-ring",
+    "https://christies.com.cn/en/lot/lot-4718180",
+    "https://www.thecourtjeweller.com/2025/11/the-mystery-of-princess-margarets-royal-engagement-ring-is-officially-solved.html",
+    "https://www.marieclaire.com/celebrity/royals/princess-margaret-granddaughter-engagement-ring-coronation"
+  ],
+  "images": [
+    {
+      "src": "326-her-groom-designed-her-ruby-ring-himself-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Toby Thurston, scanned by the author from an original ticket to watch the procession to and from the marriage.",
+      "page": "https://commons.wikimedia.org/wiki/File:Princess-Margaret-Wedding-Ticket.jpeg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

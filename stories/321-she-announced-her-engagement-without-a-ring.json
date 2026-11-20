@@ -1,0 +1,164 @@
+{
+  "id": "321-she-announced-her-engagement-without-a-ring",
+  "number": 321,
+  "title": "She announced her engagement without a ring",
+  "style": "gouache",
+  "topic": "jackie kennedy engagement ring van cleef arpels toi et moi emerald diamond 2.88 2.84 carat 1953 newport 1962 reset jfk library",
+  "music": "music-321.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "She announced her engagement without a ring.",
+    "gold": [
+      "without",
+      "a",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "She announced her engagement without a ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In June 1953 she told reporters she had no ring yet.",
+      "say": "In June nineteen fifty three she told reporters she had no ring yet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "No ring yet"
+      }
+    },
+    {
+      "text": "The ring came that summer from Van Cleef and Arpels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "Van Cleef and Arpels"
+      }
+    },
+    {
+      "text": "It set a 2.88 carat diamond beside a 2.84 carat emerald.",
+      "say": "It set a two point eight eight carat diamond beside a two point eight four carat emerald.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "emerald",
+        "label": "A 2.88 carat diamond"
+      }
+    },
+    {
+      "text": "This style is called toi et moi, French for you and me.",
+      "say": "This style is called twah ay mwah, French for you and me.",
+      "scene": {
+        "kind": "title",
+        "text": "Toi et moi",
+        "sub": "French for you and me",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Napoleon gave Joséphine a toi et moi ring in 1796.",
+      "say": "Napoleon gave Joséphine a twah ay mwah ring in seventeen ninety six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Napoleon's ring, 1796"
+      }
+    },
+    {
+      "text": "They married in Newport, Rhode Island, on September 12, 1953.",
+      "say": "They married in Newport, Rhode Island, on September twelfth, nineteen fifty three.",
+      "scene": {
+        "kind": "real",
+        "src": "321-she-announced-her-engagement-without-a-ring-0.jpg",
+        "fit": "card",
+        "label": "Newport, 1953",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1962 she had it reset with more diamonds.",
+      "say": "In nineteen sixty two she had it reset with more diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "1962",
+        "sub": "Reset with more diamonds",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 16
+      }
+    },
+    {
+      "text": "Small diamonds now framed the emerald and the diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "More diamonds"
+      }
+    },
+    {
+      "text": "After she died in 1994 it was kept for the JFK Library.",
+      "say": "After she died in nineteen ninety four it was kept for the JFK Library.",
+      "scene": {
+        "kind": "piece",
+        "label": "Kept for the JFK Library"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In June 1953 Jacqueline Bouvier told reporters she had no ring yet. That summer John F. Kennedy gave her a Van Cleef and Arpels ring with a 2.88 carat diamond beside a 2.84 carat emerald, a style called toi et moi, French for you and me. They married in Newport on September 12, 1953, and she had the ring reset with more diamonds in 1962.",
+    "hashtags": [
+      "#jackiekennedy",
+      "#engagementring",
+      "#toietmoi",
+      "#vancleefarpels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.jfklibrary.org/about-us/news-and-press/press-releases/special-exhibit-celebrates-50th-anniversary-of-the-wedding-of-jacqueline-bouvier-and-john-f-kennedy",
+    "https://www.history.com/this-day-in-history/jacqueline-bouvier-and-senator-john-f-kennedy-announce-engagement",
+    "https://www.marieclaire.com.au/latest-news/jackie-kennedy-onassis-engagement-ring-true-story-van-cleef-arpels/",
+    "https://www.cuindependent.com/?p=49930",
+    "https://www.sothebys.com/en/articles/two-stones-symbolizing-love-since-1796-the-toi-et-moi-ring",
+    "https://www.bucherer.com/us/en/bucherer-world/knowledge/history-toi-moi",
+    "https://bostonguide.com/archives1/articles/the%20wedding%20of%20jacqueline%20bouvier%20and%20john%20fitzgerald%20kennedy.html",
+    "https://thediamondcollective.world/engagement-rings/jackie-kennedys-engagement-ring/"
+  ],
+  "images": [
+    {
+      "src": "321-she-announced-her-engagement-without-a-ring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Toni Frissell",
+      "page": "https://commons.wikimedia.org/wiki/File:Toni_Frissell,_John_F._Kennedy_and_Jacqueline_Bouvier_on_their_wedding_day,_1953.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "327-meghan-s-wedding-tiara-began-as-a-brooch",
+  "number": 327,
+  "title": "Meghan's wedding tiara began as a brooch",
+  "style": "gouache",
+  "topic": "queen mary diamond bandeau tiara meghan markle wedding 2018 lincoln brooch 1893 made 1932 eleven sections ten diamonds bequeathed 1953 windsor castle",
+  "music": "music-327.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Meghan's wedding tiara began as a brooch.",
+    "gold": [
+      "began",
+      "brooch."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Meghan's wedding tiara began as a brooch.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1893 the County of Lincoln gave Princess Mary a wedding brooch.",
+      "say": "In eighteen ninety three the County of Lincoln gave Princess Mary a wedding brooch.",
+      "scene": {
+        "kind": "real",
+        "src": "327-meghan-s-wedding-tiara-began-as-a-brooch-0.jpg",
+        "fit": "card",
+        "label": "Queen Mary, 1914",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It had ten diamonds, one big stone with nine around it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "Ten brilliant diamonds"
+      }
+    },
+    {
+      "text": "In 1932 a diamond band was made for Queen Mary.",
+      "say": "In nineteen thirty two a diamond band was made for Queen Mary.",
+      "scene": {
+        "kind": "title",
+        "text": "1932",
+        "sub": "The bandeau is made",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It has eleven sections and a place for the brooch.",
+      "scene": {
+        "kind": "piece",
+        "label": "Eleven sections"
+      }
+    },
+    {
+      "text": "Queen Mary left it to Queen Elizabeth in 1953.",
+      "say": "Queen Mary left it to Queen Elizabeth in nineteen fifty three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Left to the Queen"
+      }
+    },
+    {
+      "text": "On May 19, 2018, Meghan Markle wore it at her wedding.",
+      "say": "On May nineteenth, twenty eighteen, Meghan Markle wore it at her wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 18,
+        "label": "Meghan, 2018"
+      }
+    },
+    {
+      "text": "Queen Elizabeth lent it to her for the wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A loan from the Queen"
+      }
+    },
+    {
+      "text": "She and Harry picked it from several options at Buckingham Palace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "halo": 8,
+        "metal": "platinum",
+        "label": "Picked at the Palace"
+      }
+    },
+    {
+      "text": "Its first public display was at Windsor Castle in 2018.",
+      "say": "Its first public display was at Windsor Castle in twenty eighteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "yellow",
+        "label": "First on display, 2018"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1893 the County of Lincoln gave Princess Mary a diamond brooch as a wedding gift. In 1932 a flexible diamond band of eleven sections was made for Queen Mary, with a place for the brooch. Queen Elizabeth lent the bandeau to Meghan Markle, who wore it at her wedding on May 19, 2018, and her first public display was at Windsor Castle later that year.",
+    "hashtags": [
+      "#queenmary",
+      "#meghanmarkle",
+      "#royalwedding",
+      "#tiara",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/exhibitions/a-royal-wedding-the-duke-and-duchess-of-sussex/palace-of-holyroodhouse/queen-marys-bandeau-tiara",
+    "https://www.rct.uk/collection/exhibitions/a-royal-wedding-the-duke-and-duchess-of-sussex/windsor-castle/queen-marys-bandeau-tiara",
+    "https://royalcentral.co.uk/uk/harryandmeghan/meghan-wears-queen-marys-diamond-bandeau-tiara-102965",
+    "https://royalcentral.co.uk/?p=107184",
+    "https://www.thecourtjeweller.com/2022/05/the-fascinating-history-of-queen-marys-diamond-bandeau-tiara.html",
+    "https://www.marieclaire.com/celebrity/a24259513/prince-harry-helped-meghan-markle-choose-tiara",
+    "https://stylist.co.uk/people/prince-harry-meghan-markle-royal-wedding-windsor-castle-tour-dress/233660",
+    "https://thediamondcollective.world/historic-diamonds/meghan-markle-tiara/"
+  ],
+  "images": [
+    {
+      "src": "327-meghan-s-wedding-tiara-began-as-a-brooch-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Royal Collection RCIN 2084643",
+      "page": "https://commons.wikimedia.org/wiki/File:1914_Queen_Mary_Autochrome.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

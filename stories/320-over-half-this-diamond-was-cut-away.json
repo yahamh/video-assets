@@ -1,0 +1,175 @@
+{
+  "id": "320-over-half-this-diamond-was-cut-away",
+  "number": 320,
+  "title": "Over half this diamond was cut away",
+  "style": "deco",
+  "topic": "tiffany diamond yellow 287 carat kimberley 1877 charles tiffany kunz paris 128 carat cushion 82 facets whitehouse 1957 hepburn 1961 lady gaga 2019 five settings",
+  "music": "music-320.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "yellow",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Over half this diamond was cut away.",
+    "gold": [
+      "cut",
+      "away."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Over half this diamond was cut away.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It was found in South Africa's Kimberley mine in 1877.",
+      "say": "It was found in South Africa's Kimberley mine in eighteen seventy seven.",
+      "scene": {
+        "kind": "title",
+        "text": "Kimberley",
+        "sub": "South Africa, 1877",
+        "piece": "rough",
+        "stone": "yellow"
+      }
+    },
+    {
+      "text": "Charles Tiffany bought the rough stone for $18,000.",
+      "say": "Charles Tiffany bought the rough stone for eighteen thousand dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "yellow",
+        "label": "287 carats in the rough"
+      }
+    },
+    {
+      "text": "Gemologist George Kunz studied it for about a year.",
+      "scene": {
+        "kind": "piece",
+        "label": "George Kunz, gemologist"
+      }
+    },
+    {
+      "text": "Then he oversaw the cutting in Paris.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "label": "Cut in Paris"
+      }
+    },
+    {
+      "text": "The finished stone has 82 facets, 24 more than usual.",
+      "say": "The finished stone has eighty two facets, twenty four more than usual.",
+      "scene": {
+        "kind": "title",
+        "text": "82 facets",
+        "sub": "24 more than usual",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 12
+      }
+    },
+    {
+      "text": "It ended at 128 carats, less than half its first weight.",
+      "say": "It ended at one hundred twenty eight carats, less than half its first weight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "cushion",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "128 carats"
+      }
+    },
+    {
+      "text": "Mary Whitehouse wore it first, in 1957.",
+      "say": "Mary Whitehouse wore it first, in nineteen fifty seven.",
+      "scene": {
+        "kind": "real",
+        "src": "320-over-half-this-diamond-was-cut-away-0.jpg",
+        "fit": "card",
+        "label": "A Tiffany necklace, about 1904",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Audrey Hepburn wore it for 1961 Breakfast at Tiffany's photos.",
+      "say": "Audrey Hepburn wore it for nineteen sixty one Breakfast at Tiffany's photos.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Audrey Hepburn, 1961"
+      }
+    },
+    {
+      "text": "Lady Gaga wore it at the 2019 Oscars.",
+      "say": "Lady Gaga wore it at the twenty nineteen Oscars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Lady Gaga, 2019"
+      }
+    },
+    {
+      "text": "By 2023 it had been set five different ways.",
+      "say": "By twenty twenty three it had been set five different ways.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Five settings"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A rough yellow diamond of more than 287 carats was found in South Africa's Kimberley mine in 1877, and Charles Tiffany bought it for $18,000. Tiffany's gemologist George Kunz oversaw the cutting in Paris, which left a cushion cut stone of 128.54 carats with 82 facets. Mary Whitehouse wore it first in 1957, Audrey Hepburn wore it in 1961 photos for Breakfast at Tiffany's, and Lady Gaga wore it at the 2019 Oscars.",
+    "hashtags": [
+      "#tiffanydiamond",
+      "#tiffanyandco",
+      "#yellowdiamond",
+      "#audreyhepburn",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://press.tiffany.com/our-story/the-tiffany-diamond/",
+    "https://si.edu/exhibitions/tiffany-diamond%3Aevent-exhib-4480",
+    "https://www.sothebys.com/en/articles/how-the-tiffany-diamond-influenced-the-allure-of-tiffany-diamond-rings",
+    "https://www.europastarjewellery.com/jewellery-highlights/the-true-story-of-the-tiffany-diamond.html",
+    "https://www2.ljworld.com/news/2007/apr/11/yellow_diamond_goes_public_smithsonian/",
+    "https://www.nbcnews.com/id/wbna18046052",
+    "https://thediamondcollective.world/historic-diamonds/tiffany-diamond/",
+    "https://www.jckonline.com/editorial-article/128-54-carat-tiffany-diamond/"
+  ],
+  "images": [
+    {
+      "src": "320-over-half-this-diamond-was-cut-away-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Tiffany & Co.",
+      "page": "https://commons.wikimedia.org/wiki/File:Tiffany_and_Company_-_Necklace_-_Walters_572121.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

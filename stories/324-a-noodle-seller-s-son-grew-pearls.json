@@ -1,0 +1,184 @@
+{
+  "id": "324-a-noodle-seller-s-son-grew-pearls",
+  "number": 324,
+  "title": "A noodle seller's son grew pearls",
+  "style": "gouache",
+  "topic": "kokichi mikimoto cultured pearl toba udon noodle shop 1893 half round pearl pearl island 1916 patent ama divers 5 percent oysters tokyo shop 1899",
+  "music": "music-324.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "white",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A noodle seller's son grew pearls.",
+    "gold": [
+      "noodle",
+      "pearls."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A noodle seller's son grew pearls.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Kokichi Mikimoto was born in Toba, Japan, in 1858.",
+      "say": "Ko-kee-chee Mee-kee-mo-toh was born in Toba, Japan, in eighteen fifty eight.",
+      "scene": {
+        "kind": "real",
+        "src": "324-a-noodle-seller-s-son-grew-pearls-0.jpg",
+        "fit": "card",
+        "label": "Kokichi Mikimoto",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His family ran an udon noodle shop.",
+      "say": "His family ran an OO-dohn noodle shop.",
+      "scene": {
+        "kind": "title",
+        "text": "Noodle shop",
+        "sub": "Toba, Japan",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "As a young teen he sold vegetables to help his family.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "label": "Vegetables for the family"
+      }
+    },
+    {
+      "text": "In 1893 he made the world's first half round cultured pearls.",
+      "say": "In eighteen ninety three he made the world's first half round cultured pearls.",
+      "scene": {
+        "kind": "real",
+        "src": "324-a-noodle-seller-s-son-grew-pearls-1.jpg",
+        "fit": "card",
+        "label": "Pearl farming, Japan",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He did it on an island off Toba, now called Pearl Island.",
+      "say": "He did it on an island off Toba, now called Pearl Island.",
+      "scene": {
+        "kind": "title",
+        "text": "1893",
+        "sub": "The first cultured pearl",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 1916 he got a patent for round pearls.",
+      "say": "In nineteen sixteen he got a patent for round pearls.",
+      "scene": {
+        "kind": "piece",
+        "label": "Patented in 1916"
+      }
+    },
+    {
+      "text": "Women divers called ama did the diving work.",
+      "say": "Women divers called AH-mah did the diving work.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The ama divers"
+      }
+    },
+    {
+      "text": "Only about 5 percent of harvested oysters give perfect pearls.",
+      "say": "Only about five percent of harvested oysters give perfect pearls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "5 percent are perfect"
+      }
+    },
+    {
+      "text": "He wanted pearls around the neck of every woman.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "platinum",
+        "label": "Pearls for everyone"
+      }
+    },
+    {
+      "text": "In 1899 he opened a pearl shop in Tokyo.",
+      "say": "In eighteen ninety nine he opened a pearl shop in Tokyo.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "pink",
+        "cut": "round",
+        "metal": "rose",
+        "label": "A pearl shop in Tokyo"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Kokichi Mikimoto was born in 1858 in Toba, Japan, where his family ran an udon noodle shop. In 1893 he made the world's first half round cultured pearls on the island now called Pearl Island, and he got a patent for round pearls in 1916. Only about 5 percent of harvested oysters give perfect pearls, and he wanted pearls around the neck of every woman.",
+    "hashtags": [
+      "#mikimoto",
+      "#culturedpearls",
+      "#pearls",
+      "#japan",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nippon.com/en/views/b02334/mikimoto-kokichi-the-pearl-king-and-his-museum.html",
+    "https://www.sothebys.com/en/articles/7-things-you-need-to-know-about-kokichi-mikimoto",
+    "https://mikimoto-pearl-island.jp/en",
+    "https://www.mikimoto.com/jp_en/brand-story",
+    "https://www.ndl.go.jp/portrait/e/datas/396.html",
+    "https://www.pbs.org/wgbh/nova/article/history-pearls/",
+    "https://web-japan.org/niponica/niponica14/en/feature/feature02.html",
+    "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201112/201112_13.html",
+    "https://www.nippon.com/en/articles/-/12471",
+    "https://jal.japantravel.com/mie/visiting-mikimoto-pearl-island",
+    "https://www.kankomie.or.jp/report/227?wovn=en"
+  ],
+  "images": [
+    {
+      "src": "324-a-noodle-seller-s-son-grew-pearls-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:MIKIMOTO_Kokichi.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "324-a-noodle-seller-s-son-grew-pearls-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Agence Rol. Agence photographique (commanditaire)",
+      "page": "https://commons.wikimedia.org/wiki/File:Au_Japon_culture_des_hu%C3%AEtres_perli%C3%A8res,_M._Kokichi_Mikimoto_-_btv1b53067555p.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

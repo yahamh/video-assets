@@ -1,0 +1,180 @@
+{
+  "id": "325-legend-says-this-diamond-copies-her-lips",
+  "number": 325,
+  "title": "Legend says this diamond copies her lips",
+  "style": "jewelbox",
+  "topic": "marquise cut diamond madame de pompadour louis the fifteenth lips legend navette little boat 56 58 facets bow tie shadow 1970s",
+  "music": "music-325.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "marquise",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Legend says this diamond copies her lips.",
+    "gold": [
+      "copies",
+      "lips."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Legend says this diamond copies her lips.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Her name was Madame de Pompadour.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "marquise",
+        "metal": "platinum",
+        "label": "Madame de Pompadour"
+      }
+    },
+    {
+      "text": "In 1745 Louis XV made her a marquise with an estate.",
+      "say": "In seventeen forty five Louis the Fifteenth made her a marquise with an estate.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "marquise",
+        "metal": "rose",
+        "label": "A title in 1745"
+      }
+    },
+    {
+      "text": "Legend says he then ordered a diamond to echo her lips.",
+      "scene": {
+        "kind": "piece",
+        "label": "Lips in a diamond"
+      }
+    },
+    {
+      "text": "That shape is the marquise cut.",
+      "scene": {
+        "kind": "title",
+        "text": "Marquise",
+        "sub": "The cut",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "marquise",
+        "metal": "rose",
+        "halo": 10
+      }
+    },
+    {
+      "text": "It is also called navette, French for little boat.",
+      "say": "It is also called nah-VET, French for little boat.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "marquise",
+        "metal": "platinum",
+        "label": "Navette, little boat"
+      }
+    },
+    {
+      "text": "Rings with boat shaped tops were fashionable by the late 1700s.",
+      "say": "Rings with boat shaped tops were fashionable by the late seventeen hundreds.",
+      "scene": {
+        "kind": "real",
+        "src": "325-legend-says-this-diamond-copies-her-lips-0.jpg",
+        "fit": "card",
+        "label": "A navette style ring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A marquise diamond usually has 56 to 58 facets.",
+      "say": "A marquise diamond usually has fifty six to fifty eight facets.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "56 to 58 facets"
+      }
+    },
+    {
+      "text": "Its length is about twice its width.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "marquise",
+        "metal": "rose",
+        "label": "Twice as long as wide"
+      }
+    },
+    {
+      "text": "Most marquise diamonds show a dark bow tie shadow in the middle.",
+      "scene": {
+        "kind": "title",
+        "text": "Bow tie",
+        "sub": "A dark shadow in the middle",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "marquise",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The shape came back into fashion in the 1970s.",
+      "say": "The shape came back into fashion in the nineteen seventies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "marquise",
+        "prongs": 6,
+        "halo": 10,
+        "metal": "yellow",
+        "label": "Back in fashion"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Legend says King Louis XV ordered a diamond shape to echo the lips of Madame de Pompadour, whom he made a marquise in 1745. The shape is the marquise cut, also called navette, French for little boat. A marquise diamond usually has 56 to 58 facets, is about twice as long as it is wide, and often shows a dark bow tie shadow in the middle.",
+    "hashtags": [
+      "#marquisecut",
+      "#diamondcuts",
+      "#madamedepompadour",
+      "#navette",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Madame_de_Pompadour",
+    "https://en.chateauversailles.fr/discover/history/great-characters/madame-pompadour",
+    "https://www.britannica.com/biography/Louis-XV",
+    "https://www.sothebys.com/en/articles/a-luxury-buyers-guide-to-marquise-diamonds",
+    "https://4cs.gia.edu/blog/choose-marquise-diamond/",
+    "https://www.gemsociety.org/article/history-marquise-diamonds/",
+    "https://collections.vam.ac.uk/item/O374202/ring-unknown",
+    "https://art.thewalters.org/object/57.1759",
+    "https://www.77diamonds.com/marquise-cut-diamonds.html",
+    "https://www.whiteflash.com/diamond-education/diamond-shapes/marquise-cut/"
+  ],
+  "images": [
+    {
+      "src": "325-legend-says-this-diamond-copies-her-lips-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( Europe ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:European_-_Marquise_Ring_with_Floral_Decor_-_Walters_571760_-_Top.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

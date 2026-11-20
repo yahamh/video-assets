@@ -1,0 +1,160 @@
+{
+  "id": "323-mansa-musa-handed-out-loads-of-gold",
+  "number": 323,
+  "title": "Mansa Musa handed out loads of gold",
+  "style": "deco",
+  "topic": "mansa musa mali 1324 hajj cairo gold load every emir al umari gold price fell caravan camels catalan atlas 1375 gold orb bambuk bure goldfields",
+  "music": "music-323.wav",
+  "piece": {
+    "piece": "bracelet",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Mansa Musa handed out loads of gold.",
+    "gold": [
+      "loads",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mansa Musa handed out loads of gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1324 he crossed Cairo on his pilgrimage to Mecca.",
+      "say": "In thirteen twenty four he crossed Cairo on his pilgrimage to Mecca.",
+      "scene": {
+        "kind": "piece",
+        "label": "The 1324 pilgrimage"
+      }
+    },
+    {
+      "text": "He gave a load of gold to every court emir.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "A load of gold"
+      }
+    },
+    {
+      "text": "A writer named al Umari said Cairo's gold price fell for years.",
+      "say": "A writer named al oo-MAH-ree said Cairo's gold price fell for years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Cairo's gold price fell"
+      }
+    },
+    {
+      "text": "Historians still argue about how big that drop was.",
+      "scene": {
+        "kind": "title",
+        "text": "Disputed",
+        "sub": "How big was the drop",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Accounts say tens of thousands of people traveled with him.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "round",
+        "metal": "yellow",
+        "petals": 10,
+        "label": "Tens of thousands"
+      }
+    },
+    {
+      "text": "Some describe 80 to 100 camels loaded with gold.",
+      "say": "Some describe eighty to one hundred camels loaded with gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "yellow",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Camels loaded with gold"
+      }
+    },
+    {
+      "text": "A 1375 map shows him holding a gold orb.",
+      "say": "A thirteen seventy five map shows him holding a gold orb.",
+      "scene": {
+        "kind": "real",
+        "src": "323-mansa-musa-handed-out-loads-of-gold-0.jpg",
+        "fit": "card",
+        "label": "The Catalan Atlas, 1375",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its caption calls him the richest ruler of that whole region.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "The richest ruler"
+      }
+    },
+    {
+      "text": "Mali's gold came from the Bambuk and Bure goldfields.",
+      "say": "Mali's gold came from the BAM-book and boo-RAY goldfields.",
+      "scene": {
+        "kind": "title",
+        "text": "Bambuk",
+        "sub": "And the Bure goldfields",
+        "piece": "rough",
+        "stone": "citrine"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1324 Mansa Musa of Mali crossed Cairo on his pilgrimage to Mecca and gave a load of gold to every court emir. The writer al Umari said Cairo's gold price then fell for years, though historians still argue about how big the drop was. The 1375 Catalan Atlas shows him holding a gold orb, and Mali's gold came from the Bambuk and Bure goldfields.",
+    "hashtags": [
+      "#mansamusa",
+      "#mali",
+      "#gold",
+      "#catalanatlas",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/biography/Musa-I-of-Mali",
+    "https://www.worldhistory.org/Mansa_Musa_I/",
+    "https://www.bu.edu/africa/outreach/k_o_mali",
+    "https://worldhistorycommons.org/al-umaris-account-mansa-musas-visit-cairo",
+    "https://www.ancient-origins.net/news-history-archaeology/mansa-musa-400-billion-richest-man-fact-check-00103294",
+    "https://www.bl.uk/stories/blogs/posts/african-kings-on-medieval-and-renaissance-maps",
+    "https://catalogue.bnf.fr/ark:/12148/cb40670221g",
+    "https://caravans.library.northwestern.edu/works/26/",
+    "https://en.wikipedia.org/wiki/Mali_Empire",
+    "https://www.britannica.com/place/Mali-historical-empire-Africa",
+    "https://www.ebsco.com/research-starters/history/mansa-musas-pilgrimage-mecca"
+  ],
+  "images": [
+    {
+      "src": "323-mansa-musa-handed-out-loads-of-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "attributed to Abraham Cresques",
+      "page": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

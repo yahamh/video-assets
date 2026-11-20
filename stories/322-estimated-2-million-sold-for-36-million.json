@@ -1,0 +1,172 @@
+{
+  "id": "322-estimated-2-million-sold-for-36-million",
+  "number": 322,
+  "title": "Estimated $2 million. Sold for $36 million",
+  "style": "jewelbox",
+  "topic": "marie antoinette pearl pendant sotheby's geneva 14 november 2018 36 million natural pearl record la peregrina bourbon parma 1791 brussels vienna",
+  "music": "music-322.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "cream",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Estimated $2 million. Sold for $36 million.",
+    "gold": [
+      "$36",
+      "million."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Estimated $2 million. Sold for $36 million.",
+      "say": "Estimated two million dollars. Sold for thirty six million dollars.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Sotheby's traced this pearl pendant back to Marie Antoinette.",
+      "scene": {
+        "kind": "real",
+        "src": "322-estimated-2-million-sold-for-36-million-0.jpg",
+        "fit": "card",
+        "label": "Marie Antoinette",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1791 she sent her jewels out of France.",
+      "say": "In seventeen ninety one she sent her jewels out of France.",
+      "scene": {
+        "kind": "title",
+        "text": "1791",
+        "sub": "Her jewels leave France",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "oval",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "They went to Brussels and Vienna, then to her daughter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Brussels, Vienna, then home"
+      }
+    },
+    {
+      "text": "It sold in Geneva on November 14, 2018.",
+      "say": "It sold in Geneva on November fourteenth, twenty eighteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "cushion",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Sotheby's Geneva"
+      }
+    },
+    {
+      "text": "That was 18 times the high estimate.",
+      "say": "That was eighteen times the high estimate.",
+      "scene": {
+        "kind": "title",
+        "text": "18 times",
+        "sub": "The high estimate",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It broke the record for a natural pearl at auction.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "platinum",
+        "label": "A new pearl record"
+      }
+    },
+    {
+      "text": "The old record belonged to Elizabeth Taylor's La Peregrina.",
+      "say": "The old record belonged to Elizabeth Taylor's la peh-reh-GREE-na.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "La Peregrina, 2011"
+      }
+    },
+    {
+      "text": "A natural pearl forms in the sea without any help from people.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "label": "A natural pearl"
+      }
+    },
+    {
+      "text": "This one is slightly baroque, shaped like a drop.",
+      "scene": {
+        "kind": "piece",
+        "label": "Slightly baroque"
+      }
+    },
+    {
+      "text": "It is about one inch long.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "About one inch long"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Sotheby's traced this natural pearl pendant back to Marie Antoinette. It sold in Geneva on November 14, 2018, for about $36 million, roughly 18 times its high estimate, and set a new auction record for a natural pearl. The old record belonged to Elizabeth Taylor's La Peregrina. The pearl is slightly baroque and about an inch long.",
+    "hashtags": [
+      "#marieantoinette",
+      "#naturalpearl",
+      "#pearl",
+      "#sothebys",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/marie-antoinettes-pearls-break-auction-records-in-geneva",
+    "https://www.sothebys.com/en/auctions/ecatalogue/2018/royal-jewels-bourbon-parma-family-ge1809/lot.100.html",
+    "https://www.sothebys.com/en/articles/royal-jewels-from-the-bourbon-parma-family-achieve-record-sale",
+    "https://fortune.com/2018/11/15/marie-antoinette-pendant-auctioned-for-record-36-million/",
+    "https://gia.edu/gia-news-research/marie-antoinettes-jewels-how-can-you-put-price-history",
+    "https://www.nationaljeweler.com/fashion/jewelry-auctions/7188-marie-antoinette-s-pearl-and-diamond-pendant-sells-for-36m",
+    "https://theadventurine.com/culture/jewelry-history/marie-antoinette-pearl-sets-world-record-price",
+    "https://www.gia.edu/pearl-description",
+    "https://www.startribune.com/marie-antoinette-pearl-reaps-record-36-million-with-fees/500481961/"
+  ],
+  "images": [
+    {
+      "src": "322-estimated-2-million-sold-for-36-million-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "After Jean-Baptiste André Gautier-Dagoty",
+      "page": "https://commons.wikimedia.org/wiki/File:Marie-Antoinette,_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

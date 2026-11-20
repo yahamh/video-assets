@@ -1,0 +1,162 @@
+{
+  "id": "319-a-punk-princess-wore-eug-nie-s-pearl-tiara",
+  "number": 319,
+  "title": "A punk princess wore Eugénie's pearl tiara",
+  "style": "jewelbox",
+  "topic": "empress eugenie pearl and diamond diadem lemonnier 1853 napoleon the third winterhalter 1887 crown jewels sale thurn und taxis gloria 1980 friends of the louvre 1992",
+  "music": "music-319.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "cream",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A punk princess wore Eugénie's pearl tiara.",
+    "gold": [
+      "punk",
+      "tiara."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A punk princess wore Eugénie's pearl tiara.",
+      "say": "A punk princess wore yoo-ZHAY-nee's pearl tiara.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Napoleon the Third ordered it for his bride, Empress Eugénie, in 1853.",
+      "say": "Napoleon the Third ordered it for his bride, Empress yoo-ZHAY-nee, in eighteen fifty three.",
+      "scene": {
+        "kind": "real",
+        "src": "319-a-punk-princess-wore-eug-nie-s-pearl-tiara-0.jpg",
+        "fit": "card",
+        "label": "Empress Eugénie",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Lemonnier set it with 212 pearls and nearly two thousand diamonds.",
+      "say": "Lemonnier set it with two hundred twelve pearls and nearly two thousand diamonds.",
+      "scene": {
+        "kind": "real",
+        "src": "319-a-punk-princess-wore-eug-nie-s-pearl-tiara-1.jpg",
+        "fit": "card",
+        "label": "The pearl diadem",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Some of its pearls came from Empress Marie Louise's older jewels.",
+      "scene": {
+        "kind": "title",
+        "text": "Marie Louise",
+        "sub": "An earlier empress"
+      }
+    },
+    {
+      "text": "Eugénie wore it for her portrait by Winterhalter.",
+      "say": "yoo-ZHAY-nee wore it for her portrait by Winterhalter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Winterhalter's portrait"
+      }
+    },
+    {
+      "text": "In 1887 France sold its crown jewels and a jeweler bought it.",
+      "say": "In eighteen eighty seven France sold its crown jewels and a jeweler bought it.",
+      "scene": {
+        "kind": "title",
+        "text": "1887",
+        "sub": "The crown jewels sale",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 1890 Prince Albert bought it as a wedding gift.",
+      "say": "In eighteen ninety Prince Albert bought it as a wedding gift.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 12,
+        "label": "A wedding gift"
+      }
+    },
+    {
+      "text": "In 1980, Gloria, nicknamed the Punk Princess, wore it at her wedding.",
+      "say": "In nineteen eighty, Gloria, nicknamed the Punk Princess, wore it at her wedding.",
+      "scene": {
+        "kind": "title",
+        "text": "1980",
+        "sub": "The Punk Princess",
+        "piece": "pearl",
+        "tone": "cream"
+      }
+    },
+    {
+      "text": "In 1992 the Friends of the Louvre bought it in Geneva.",
+      "say": "In nineteen ninety two the Friends of the Louvre bought it in Geneva.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "label": "Friends of the Louvre"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Napoleon the Third ordered this diadem for Empress Eugenie in 1853, and the court jeweler Lemonnier set it with 212 pearls and nearly two thousand diamonds. France sold it in the 1887 crown jewels sale, a prince of Thurn and Taxis bought it in 1890 as a wedding gift, and Gloria, nicknamed the Punk Princess, wore it at her wedding in 1980. The Friends of the Louvre bought it in Geneva in 1992.",
+    "hashtags": [
+      "#empresseugenie",
+      "#tiara",
+      "#pearls",
+      "#frenchcrownjewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.louvre.fr/en/ark:/53355/cl010105008",
+    "https://www.sothebys.com/en/articles/the-splendour-of-royal-noble-jewels-in-the-coronation-year",
+    "https://www.lalibre.be/lifestyle/people/2023/10/01/le-diademe-de-limperatrice-eugenie-au-louvre-PDGG3547HNDHTKB2VPWDZW4WJU/",
+    "https://propertyofalady.fr/joyaux-royaux-francais/les-diamants-de-la-couronne-au-musee-du-louvre/",
+    "https://www.maison-riondet.fr/blog-un-joyau-imperial-au-louvre/",
+    "https://jenniwiltz.com/tiara-tuesday-empress-eugenie-pearl-and-diamond-tiara/",
+    "https://www.karipearls.com/empress-eugenies-pearl-tiara.html",
+    "https://www.karipearls.com/french-crown-jewels-at-auction.html"
+  ],
+  "images": [
+    {
+      "src": "319-a-punk-princess-wore-eug-nie-s-pearl-tiara-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Pierre-Désiré Guillemet / After Franz Xaver Winterhalter",
+      "page": "https://commons.wikimedia.org/wiki/File:Empress_Eug%C3%A9nie_in_Court_Dress_(Guillemet_after_Winterhalter,_Miramare).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "319-a-punk-princess-wore-eug-nie-s-pearl-tiara-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Orgio89",
+      "page": "https://commons.wikimedia.org/wiki/File:Diad%C3%A8me_de_perles_et_diamants_de_l'imp%C3%A9ratrice_Eug%C3%A9nie_-_Lemonnier_-_Galerie_d'Apollon_-_Louvre.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
