@@ -3373,7 +3373,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1890198508814595",
+      "instagram": "https://www.instagram.com/reel/Df8Uc1yAs7l/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710036915487083796"
+    }
   },
   "218-eggs-can-quickly-blacken-silver": {
     "at": "2026-11-20T00:30:00Z",
@@ -3382,7 +3388,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2038196296890813",
+      "instagram": "https://www.instagram.com/reel/Df8X3SjkuTg/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710044583387729159"
+    }
   },
   "219-all-mined-gold-fits-in-one-cube": {
     "at": "2026-11-20T01:00:00Z",
@@ -3390,7 +3402,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1148201077694941",
+      "instagram": "https://www.instagram.com/reel/Df8bTLyFU7u/"
+    }
   },
   "220-two-nobel-medals-once-hid-in-acid": {
     "at": "2026-11-20T01:30:00Z",
@@ -3398,7 +3415,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3317216845335865",
+      "instagram": "https://www.instagram.com/reel/Df8exG7kdio/"
+    }
   },
   "221-a-silla-crown-dangles-58-jade-commas": {
     "at": "2026-11-20T02:00:00Z",
@@ -3407,7 +3429,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1862003458325742",
+      "instagram": "https://www.instagram.com/reel/Df8ilkqFckU/",
+      "youtube": "https://www.youtube.com/watch?v=pkfrfx99fvk"
+    }
   },
   "222-the-armada-jewel-postdates-the-armada": {
     "at": "2026-11-20T02:30:00Z",
@@ -3416,7 +3444,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1802051830905193",
+      "instagram": "https://www.instagram.com/reel/Df8lu2mj1E7/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710075845775314197"
+    }
   },
   "223-elizabeth-is-bracelet-held-a-clock": {
     "at": "2026-11-20T03:00:00Z",
@@ -3424,7 +3458,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1300842898865920",
+      "instagram": "https://www.instagram.com/reel/Df8pFMKDfHf/"
+    }
   },
   "224-shwedagon-wears-a-queens-weight-in-gold": {
     "at": "2026-11-20T03:30:00Z",
@@ -3433,7 +3472,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4526414917598195",
+      "instagram": "https://www.instagram.com/reel/Df8sfvCiZCe/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710091091663441170"
+    }
   },
   "225-pinchbeck-a-clockmakers-imitation-gold": {
     "at": "2026-11-20T08:00:00Z",
@@ -3927,7 +3972,11 @@
     "zernio_id": "6afe8afd57cf0ded7c53560a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df8RJFMCBES/"
+    }
   },
   "274-some-kanzashi-had-a-tiny-earpick": {
     "at": "2026-11-20T17:30:00Z",
@@ -4140,6 +4189,81 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "301-some-pilgrim-badges-were-tiny-bells": {
+    "at": "2026-11-21T14:00:00Z",
+    "zernio_id": "6affd845bc88d1b634509dab",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "302-sphalerite-has-over-triple-diamonds-fire": {
+    "at": "2026-11-21T14:30:00Z",
+    "zernio_id": "6affd84fbc88d1b634509dfc",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "303-the-briolette-has-no-flat-top": {
+    "at": "2026-11-21T15:00:00Z",
+    "zernio_id": "6affd8568c17de4cc517299a",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "304-mother-of-pearls-rainbow-isnt-pigment": {
+    "at": "2026-11-21T15:30:00Z",
+    "zernio_id": "6affd85c8c17de4cc51729c5",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "305-bloodstone-is-green-with-red-spots": {
+    "at": "2026-11-21T16:00:00Z",
+    "zernio_id": "6affd86211561f087f28f25b",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "306-poudretteite-is-named-for-a-quarry-family": {
+    "at": "2026-11-21T16:30:00Z",
+    "zernio_id": "6affd86b11561f087f28f286",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "307-thimble-once-meant-a-thumb-cover": {
+    "at": "2026-11-21T17:00:00Z",
+    "zernio_id": "6affd87dbc88d1b634509e93",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "308-rutilated-quartzs-golden-needles-arent-gold": {
+    "at": "2026-11-21T17:30:00Z",
+    "zernio_id": "6affd8879ff28736d49cc584",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "309-sea-glass-takes-decades-to-frost": {
+    "at": "2026-11-21T18:00:00Z",
+    "zernio_id": "6affd88e9ff28736d49cc598",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
