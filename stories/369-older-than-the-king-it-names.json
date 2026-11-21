@@ -1,0 +1,182 @@
+{
+  "id": "369-older-than-the-king-it-names",
+  "number": 369,
+  "title": "Older than the king it names",
+  "style": "gouache",
+  "topic": "mask of agamemnon mycenae heinrich schliemann august 1876 grave circle a grave v five shaft graves gold funeral mask hammered sheet wooden form lion gate national archaeological museum athens 16th century bc 300 years older traditional date trojan war",
+  "music": "music-369.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "topaz",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Older than the king it names.",
+    "gold": [
+      "Older",
+      "king"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Older than the king it names.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In August 1876, Heinrich Schliemann began digging at Mycenae.",
+      "say": "In August eighteen seventy six, Hine rick Shlee mahn began digging at My see nee.",
+      "scene": {
+        "kind": "real",
+        "src": "369-older-than-the-king-it-names-0.jpg",
+        "fit": "card",
+        "label": "The Lion Gate, Mycenae",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Inside the citadel, a ring of slabs enclosed five shaft graves.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "ruby",
+        "label": "Five shaft graves"
+      }
+    },
+    {
+      "text": "The famous gold mask came from Grave Five.",
+      "scene": {
+        "kind": "real",
+        "src": "369-older-than-the-king-it-names-1.jpg",
+        "fit": "card",
+        "label": "Funeral mask, Mycenae",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Craftsmen hammered a sheet of gold against a wooden form.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Hammered gold"
+      }
+    },
+    {
+      "text": "Schliemann believed he had found Agamemnon's tomb.",
+      "say": "Shlee mahn believed he had found Ag uh mem non's tomb.",
+      "scene": {
+        "kind": "real",
+        "src": "369-older-than-the-king-it-names-2.jpg",
+        "fit": "card",
+        "label": "Heinrich Schliemann",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "So the mask took the name Mask of Agamemnon.",
+      "say": "So the mask took the name Mask of Ag uh mem non.",
+      "scene": {
+        "kind": "title",
+        "text": "Agamemnon",
+        "sub": "The name it took",
+        "piece": "stone",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "It dates to around the sixteenth century BC.",
+      "say": "It dates to around the sixteenth century B C.",
+      "scene": {
+        "kind": "title",
+        "text": "16th century",
+        "sub": "BC",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8
+      }
+    },
+    {
+      "text": "That is about 300 years older than the traditional Trojan War.",
+      "say": "That is about three hundred years older than the traditional Trojan War.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "About 300 years older"
+      }
+    },
+    {
+      "text": "It is kept in the National Archaeological Museum in Athens.",
+      "scene": {
+        "kind": "piece",
+        "label": "Kept in Athens"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Mask of Agamemnon is older than the king it names. In August 1876, Heinrich Schliemann began digging at Mycenae in Greece, where a ring of slabs enclosed five shaft graves. The famous gold mask came from Grave V. Craftsmen hammered a sheet of gold against a wooden form. Schliemann believed he had found Agamemnon's tomb, so the mask took the name Mask of Agamemnon. It dates to around the 16th century BC, about 300 years older than the traditional Trojan War, and it is kept in the National Archaeological Museum in Athens.",
+    "hashtags": [
+      "#maskofagamemnon",
+      "#mycenae",
+      "#ancientgold",
+      "#schliemann",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mask_of_Agamemnon",
+    "https://www.metmuseum.org/perspectives/mask-of-agamemnon",
+    "https://www.neh.gov/humanities/2016/fall/curio/one",
+    "https://ancient-greece.org/?p=2075",
+    "https://archive.archaeology.org/9907/etc/mask.html",
+    "https://www.thecollector.com/golden-masks-and-lion-gate-of-mycenae/",
+    "https://www.britannica.com/biography/Heinrich-Schliemann",
+    "https://www.britannica.com/place/Mycenae",
+    "https://kids.britannica.com/students/assembly/view/123254",
+    "https://en.wikipedia.org/wiki/Athens_Archaeological_Museum",
+    "https://visitgreece.gr/experiences/culture/museums/national-archaeological-museum/"
+  ],
+  "images": [
+    {
+      "src": "369-older-than-the-king-it-names-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "George E. Koronaios",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Lion_Gate_on_26_March_2019.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "369-older-than-the-king-it-names-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jebulon",
+      "page": "https://commons.wikimedia.org/wiki/File:Agamemnon_mask_NAMA_Athens_Greece.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "369-older-than-the-king-it-names-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "S.Kohn , Hofphotograph, Karlsbad . Upload, stitch and restoration by Jebulon",
+      "page": "https://commons.wikimedia.org/wiki/File:Heinrich_Schliemann_Kohn_BNF_Gallica.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

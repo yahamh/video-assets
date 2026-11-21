@@ -1,0 +1,171 @@
+{
+  "id": "374-the-ring-that-switches-hands",
+  "number": 374,
+  "title": "The ring that switches hands",
+  "style": "deco",
+  "topic": "wedding ring right hand germany austria poland russia greece orthodox church rings exchanged three times engagement ring left hand moved to right after wedding netherlands catholics protestants us uk left france italy origin unknown",
+  "music": "music-374.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "amethyst",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The ring that switches hands.",
+    "gold": [
+      "ring",
+      "hands."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The ring that switches hands.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In Germany, the wedding ring goes on the right ring finger.",
+      "scene": {
+        "kind": "piece",
+        "label": "Right ring finger"
+      }
+    },
+    {
+      "text": "A German engagement ring starts on the left hand.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Engagement ring: left"
+      }
+    },
+    {
+      "text": "Many couples move it over to the right after the wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "topaz",
+        "label": "Moved to the right"
+      }
+    },
+    {
+      "text": "The Orthodox Church traditionally has wedding rings on the right hand.",
+      "scene": {
+        "kind": "real",
+        "src": "374-the-ring-that-switches-hands-0.jpg",
+        "fit": "card",
+        "label": "An Orthodox royal wedding",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In the ceremony, the rings are exchanged three times.",
+      "scene": {
+        "kind": "title",
+        "text": "Three times",
+        "sub": "Exchanged",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "stones": 12
+      }
+    },
+    {
+      "text": "Austria and Poland also wear wedding rings on the right.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "rose",
+        "stone": "morganite",
+        "label": "Austria and Poland"
+      }
+    },
+    {
+      "text": "In the US and UK, it goes on the left hand.",
+      "say": "In the U S and U K, it goes on the left hand.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "US and UK: left"
+      }
+    },
+    {
+      "text": "Dutch Catholics wear it on the left, and Protestants on the right.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "The Netherlands"
+      }
+    },
+    {
+      "text": "Nobody can say for sure why Germany switched.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Nobody knows why"
+      }
+    },
+    {
+      "text": "France and Italy wear wedding rings on the left hand.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "France and Italy: left"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The ring that switches hands. In Germany, the wedding ring goes on the right ring finger, while the engagement ring starts on the left, and many couples move it over to the right after the wedding. The Orthodox Church traditionally has wedding rings on the right hand, and in the ceremony the rings are exchanged three times. Austria and Poland also wear wedding rings on the right, but in the US and UK it goes on the left, and Dutch Catholics wear it on the left while Protestants wear it on the right. Nobody can say for sure why Germany switched. France and Italy wear wedding rings on the left hand.",
+    "hashtags": [
+      "#weddingring",
+      "#weddingtraditions",
+      "#engagementring",
+      "#germany",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.familie.de/feiern/hochzeit/verlobungsring-ehering-welche-hand-ist-die-richtige-zum-anstecken/",
+    "https://fischer1919.com/en/2025/09/30/eheringe-links-oder-rechts/",
+    "https://www.renesim.com/en/pages/wedding-ring-which-hand",
+    "https://www.davidsbridal.com/content/marriage-tips/how-to-choose-the-right-hand-for-your-wedding-ring",
+    "https://www.bluenile.com/blog/fashion/wedding-ring-hand",
+    "https://en.wikipedia.org/wiki/Wedding_ring",
+    "https://www.theknot.com/content/eastern-orthodox-wedding-ceremony-rituals",
+    "https://zola.com/expert-advice/which-finger-does-wedding-ring-go-on",
+    "https://bigthink.com/strange-maps/wedding-rings/",
+    "https://brilliantmaps.com/wedding-ring-hand/"
+  ],
+  "images": [
+    {
+      "src": "374-the-ring-that-switches-hands-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Laurits Tuxen",
+      "page": "https://commons.wikimedia.org/wiki/File:Wedding_of_Nicholas_II_and_Alexandra_Feodorovna_by_Laurits_Tuxen_(1895-6,_Royal_coll.).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

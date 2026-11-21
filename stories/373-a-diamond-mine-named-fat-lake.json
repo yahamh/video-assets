@@ -1,0 +1,167 @@
+{
+  "id": "373-a-diamond-mine-named-fat-lake",
+  "number": 373,
+  "title": "A diamond mine named Fat Lake",
+  "style": "jewelbox",
+  "topic": "canada diamonds stewart blusson chuck fipke indicator minerals glaciers chrome diopside frozen lake april 1990 bhp 51 percent kimberlite november 1991 81 small diamonds claim staking rush lac de gras ekati fat lake october 1998 first diamond mine canadamark laser serial number",
+  "music": "music-373.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "aquamarine",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A diamond mine named Fat Lake.",
+    "gold": [
+      "Fat",
+      "Lake."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond mine named Fat Lake.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Geologist Stewart Blusson and prospector Chuck Fipke searched Canada's far north.",
+      "say": "Geologist Stewart Bluss un and prospector Chuck Fip kee searched Canada's far north.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Blusson and Fipke"
+      }
+    },
+    {
+      "text": "They followed telltale minerals back along the paths glaciers took.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Following the clues"
+      }
+    },
+    {
+      "text": "In 1990, a bright green mineral turned up by a frozen lake.",
+      "say": "In nineteen ninety, a bright green mineral turned up by a frozen lake.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A bright green mineral"
+      }
+    },
+    {
+      "text": "Mining giant BHP then joined them for a 51 percent share.",
+      "say": "Mining giant B H P then joined them for a fifty one percent share.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "ruby",
+        "label": "BHP joins in"
+      }
+    },
+    {
+      "text": "In November 1991, they announced 81 small diamonds.",
+      "say": "In November nineteen ninety one, they announced eighty one small diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "81",
+        "sub": "Small diamonds",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "That set off one of the greatest staking rushes in history.",
+      "scene": {
+        "kind": "piece",
+        "label": "A staking rush"
+      }
+    },
+    {
+      "text": "Ekati opened in October 1998 as Canada's first diamond mine.",
+      "say": "Ekati opened in October nineteen ninety eight as Canada's first diamond mine.",
+      "scene": {
+        "kind": "real",
+        "src": "373-a-diamond-mine-named-fat-lake-0.jpg",
+        "fit": "card",
+        "label": "A diamond mine in Canada's north",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Ekati is a local word that means Fat Lake.",
+      "say": "Eh kah tee is a local word that means Fat Lake.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Fat Lake"
+      }
+    },
+    {
+      "text": "Each CanadaMark diamond is laser inscribed with its own serial number.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "A serial number inside"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A diamond mine named Fat Lake. Geologist Stewart Blusson and prospector Chuck Fipke searched Canada's far north, following telltale minerals back along the paths glaciers took. In 1990, a bright green mineral turned up by a frozen lake, and mining giant BHP then joined them for a 51 percent share. In November 1991, they announced 81 small diamonds, which set off one of the greatest staking rushes in history. Ekati opened in October 1998 as Canada's first diamond mine, and Ekati is a local word that means Fat Lake. Each CanadaMark diamond is laser inscribed with its own serial number.",
+    "hashtags": [
+      "#canadadiamonds",
+      "#ekati",
+      "#diamondmining",
+      "#canadamark",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.mininghalloffame.ca/stewart-l-blusson",
+    "https://www.gia.edu/gia-news-research/bright-light-midnight-canadas-far-north-land-diamonds",
+    "https://www.discovermagazine.com/the-great-canadian-diamond-rush-11772",
+    "https://science.gc.ca/site/science/en/node/256",
+    "https://www.gia.edu/doc/Fall-2002-Gems-Gemology-Diamonds-in-Canada.pdf",
+    "https://en.wikipedia.org/wiki/Ekati_Diamond_Mine",
+    "https://www.thecanadianencyclopedia.ca/en/article/diamond",
+    "https://www.nwttimeline.ca/stories/diamond-discovery",
+    "https://burgundydiamonds.com/ekati-mine/",
+    "https://www.canadamark.com",
+    "https://nationaljeweler.com/articles/diamonds-gems/supply/1231-dominion-diamond-bringing-back-canadamark"
+  ],
+  "images": [
+    {
+      "src": "373-a-diamond-mine-named-fat-lake-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Tom Churchill ( Tomchurchill at en.wikipedia )",
+      "page": "https://commons.wikimedia.org/wiki/File:Jericho_Diamond_Mine_pit_Nunavut_Canada.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

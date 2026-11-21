@@ -1,0 +1,168 @@
+{
+  "id": "370-a-silver-football-takes-four-months",
+  "number": 370,
+  "title": "A silver football takes four months",
+  "style": "jewelbox",
+  "topic": "vince lombardi trophy tiffany super bowl i 1967 pete rozelle oscar riedener swiss design chief napkin sterling silver regulation size football seven pounds four months 72 hours hand work renamed 1970 packers coach new trophy every year",
+  "music": "music-370.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "emerald",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A silver football takes four months.",
+    "gold": [
+      "silver",
+      "months."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A silver football takes four months.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Tiffany and Company makes the Vince Lombardi Trophy.",
+      "scene": {
+        "kind": "real",
+        "src": "370-a-silver-football-takes-four-months-0.jpg",
+        "fit": "card",
+        "label": "Three Lombardi Trophies",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Tiffany designed it for the very first Super Bowl, in 1967.",
+      "say": "Tiffany designed it for the very first Super Bowl, in nineteen sixty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Super Bowl I, 1967"
+      }
+    },
+    {
+      "text": "Commissioner Pete Rozelle asked Tiffany and only Tiffany.",
+      "say": "Commissioner Pete Roh zel asked Tiffany and only Tiffany.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Pete Rozelle's request"
+      }
+    },
+    {
+      "text": "Designer Oscar Riedener was Swiss and knew little about football.",
+      "say": "Designer Oscar Ree deh ner was Swiss and knew little about football.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A Swiss designer"
+      }
+    },
+    {
+      "text": "The story goes that he sketched it on a napkin.",
+      "scene": {
+        "kind": "title",
+        "text": "A napkin",
+        "sub": "The story goes",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "aquamarine"
+      }
+    },
+    {
+      "text": "A regulation size football in sterling silver weighs about seven pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "ruby",
+        "label": "About seven pounds"
+      }
+    },
+    {
+      "text": "It takes about four months and 72 hours of hand work.",
+      "say": "It takes about four months and seventy two hours of hand work.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "72 hours of hand work"
+      }
+    },
+    {
+      "text": "In 1970 it was renamed for Packers coach Vince Lombardi.",
+      "say": "In nineteen seventy it was renamed for Packers coach Vince Lombardi.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Renamed in 1970"
+      }
+    },
+    {
+      "text": "A new trophy is made every year, and the winner keeps it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "A new one every year"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A silver football takes four months to make. Tiffany & Co. designed the Vince Lombardi Trophy for the very first Super Bowl, in 1967, after NFL commissioner Pete Rozelle asked for Tiffany and only Tiffany. Its Swiss design chief, Oscar Riedener, knew little about football, and the story goes that he sketched it on a napkin. A regulation size football in sterling silver, it weighs about seven pounds and takes about four months and 72 hours of hand work. In 1970 it was renamed for Packers coach Vince Lombardi. A new trophy is made every year, and the winner keeps it.",
+    "hashtags": [
+      "#lombarditrophy",
+      "#superbowl",
+      "#tiffanyandco",
+      "#sterlingsilver",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://press.tiffany.com/?p=26604",
+    "https://nationaljeweler.com/articles/10610-5-things-to-know-about-tiffany-co-s-lombardi-trophy",
+    "https://profootballhof.com/news/vince-lombardi-trophy",
+    "https://uk.news.yahoo.com/tiffany-co-makes-lombardi-trophy-192615488.html",
+    "https://www.cbsnews.com/news/the-master-silversmiths-behind-the-super-bowl-trophy",
+    "https://en.wikipedia.org/wiki/Lombardi_Trophy",
+    "https://www.nbcnewyork.com/news/sports/everything-you-need-to-know-about-the-vince-lombardi-trophy/",
+    "https://www.si.com/nfl/nfl-super-bowl-trophy-shape-history-everything-to-know-about-the-lombardi-trophy",
+    "https://www.si.com/nfl/2018/02/04/who-makes-vince-lombardi-trophy-super-bowl",
+    "https://www.nfl.com/photos/the-making-of-the-vince-lombardi-trophy-09000d5d82b625e3"
+  ],
+  "images": [
+    {
+      "src": "370-a-silver-football-takes-four-months-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Maryland GovPics",
+      "page": "https://commons.wikimedia.org/wiki/File:Commanders'_three_Vince_Lombardi_Trophy,_2023.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

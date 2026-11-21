@@ -1,0 +1,172 @@
+{
+  "id": "375-pearl-necklace-lengths-have-stage-names",
+  "number": 375,
+  "title": "Pearl necklace lengths have stage names",
+  "style": "gouache",
+  "topic": "pearl necklace lengths collar choker princess matinee opera rope names 14 16 18 20 24 28 32 inches below collarbone daytime shows evenings at the opera doubled knotted tiffany size guide 16 to 36 inches mikimoto",
+  "music": "music-375.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "cream",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Pearl necklace lengths have stage names.",
+    "gold": [
+      "stage",
+      "names."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pearl necklace lengths have stage names.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Each length has its own name, from collar to rope.",
+      "scene": {
+        "kind": "real",
+        "src": "375-pearl-necklace-lengths-have-stage-names-0.jpg",
+        "fit": "card",
+        "label": "Three strands, about 1900",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A collar is the shortest, snug at the base of the throat.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Collar"
+      }
+    },
+    {
+      "text": "A choker is about 16 inches long.",
+      "say": "A choker is about sixteen inches long.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "platinum",
+        "label": "Choker"
+      }
+    },
+    {
+      "text": "A princess is about 18 inches, resting just below the collarbone.",
+      "say": "A princess is about eighteen inches, resting just below the collarbone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "Princess"
+      }
+    },
+    {
+      "text": "A matinee is about 20 to 24 inches long.",
+      "say": "A matinee is about twenty to twenty four inches long.",
+      "scene": {
+        "kind": "title",
+        "text": "Matinee",
+        "sub": "20 to 24 inches",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Its name points to daytime shows, called matinees in French.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A daytime show"
+      }
+    },
+    {
+      "text": "An opera is about 28 to 32 inches and reaches the bust.",
+      "say": "An opera is about twenty eight to thirty two inches and reaches the bust.",
+      "scene": {
+        "kind": "piece",
+        "label": "Opera"
+      }
+    },
+    {
+      "text": "Its name points to evenings at the opera.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "An evening out"
+      }
+    },
+    {
+      "text": "A rope is longer still, and can be doubled or knotted.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Rope"
+      }
+    },
+    {
+      "text": "Tiffany's own chart runs from 16 inches up to 36.",
+      "say": "Tiffany's own chart runs from sixteen inches up to thirty six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "peridot",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "Tiffany's chart"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Pearl necklace lengths have stage names. Each length has its own name, from collar to rope. A collar is the shortest, snug at the base of the throat, a choker is about 16 inches long, and a princess is about 18 inches, resting just below the collarbone. A matinee is about 20 to 24 inches long, and its name points to daytime shows. An opera is about 28 to 32 inches, at or below the bust, and its name points to evenings at the opera. A rope is longer still, and can be doubled or knotted. Tiffany's own chart runs from 16 inches up to 36.",
+    "hashtags": [
+      "#pearlnecklace",
+      "#pearls",
+      "#necklacelength",
+      "#mikimoto",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://jewelers.org/buying-jewelry/jewelry-styles/necklaces",
+    "https://www.bluenile.com/blog/fashion/necklace-length-chart",
+    "https://www.mikimoto.com/jp_en/pearl",
+    "https://www.essexbespokejewellery.com/pages/necklace-length-names-explained",
+    "https://www.1stdibs.com/answers/what-is-a-princess-style-necklace",
+    "https://pearlsofjoy.com/pages/pearl-necklace-lengths",
+    "https://www.tiffany.com/size-guide/necklaces-pendants-size/",
+    "https://houseofpearls.com/pages/necklace-length",
+    "https://skyjems.ca/pages/encyclopedia-opera-length",
+    "https://en.wikipedia.org/wiki/Necklace"
+  ],
+  "images": [
+    {
+      "src": "375-pearl-necklace-lengths-have-stage-names-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Parisian Diamond Company",
+      "page": "https://commons.wikimedia.org/wiki/File:Parisian_Pearl,_by_the_Parisian_Diamond_Company.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

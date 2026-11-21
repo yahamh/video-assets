@@ -1,0 +1,175 @@
+{
+  "id": "368-fans-helped-buy-back-jane-austen-s-ring",
+  "number": 368,
+  "title": "Fans helped buy back Jane Austen's ring",
+  "style": "deco",
+  "topic": "jane austen turquoise ring sotheby's london 10 july 2012 152450 pounds estimate 20000 30000 odontolite fossil tooth kelly clarkson export bar ed vaizey jane austen's house museum chawton 157740 september 2013 valentine's day 14 february 2014 cassandra austen eleanor jackson caroline austen 1863 three surviving pieces jewelry",
+  "music": "music-368.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "aquamarine",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Fans helped buy back Jane Austen's ring.",
+    "gold": [
+      "Austen's",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fans helped buy back Jane Austen's ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Jane Austen owned a small gold ring set with turquoise.",
+      "scene": {
+        "kind": "real",
+        "src": "368-fans-helped-buy-back-jane-austen-s-ring-0.jpg",
+        "fit": "card",
+        "label": "Jane Austen",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Only three pieces of her jewelry are known to survive.",
+      "scene": {
+        "kind": "piece",
+        "label": "Only three survive"
+      }
+    },
+    {
+      "text": "The ring stayed in her family for nearly 200 years.",
+      "say": "The ring stayed in her family for nearly two hundred years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "In the family"
+      }
+    },
+    {
+      "text": "Sotheby's in London sold it in July 2012.",
+      "say": "Sotheby's in London sold it in July twenty twelve.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Sotheby's, London"
+      }
+    },
+    {
+      "text": "Its blue stone was first thought to be a fossil tooth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Thought a fossil tooth"
+      }
+    },
+    {
+      "text": "It sold for more than five times its high estimate.",
+      "scene": {
+        "kind": "title",
+        "text": "Five times",
+        "sub": "The high estimate",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Singer Kelly Clarkson later said she was the winning bidder.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Kelly Clarkson"
+      }
+    },
+    {
+      "text": "Britain paused the export, and fans around the world donated.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "rose",
+        "stone": "morganite",
+        "label": "Export paused"
+      }
+    },
+    {
+      "text": "Clarkson accepted the museum's offer in September 2013.",
+      "say": "Clarkson accepted the museum's offer in September twenty thirteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "An offer accepted"
+      }
+    },
+    {
+      "text": "It went on display at Jane Austen's House on Valentine's Day, 2014.",
+      "say": "It went on display at Jane Austen's House on Valentine's Day, twenty fourteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Valentine's Day"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Fans helped buy back Jane Austen's ring. It is a small gold ring set with a blue turquoise, one of only three surviving pieces of jewelry known to have belonged to her, and it stayed in her family for nearly 200 years. Sotheby's sold it in London in July 2012 for more than five times its high estimate, and its stone was first thought to be a fossil tooth. Singer Kelly Clarkson later said she was the winning bidder. Britain paused the export, fans around the world donated, and Clarkson accepted the museum's offer in September 2013. The ring went on display at Jane Austen's House on Valentine's Day, 2014.",
+    "hashtags": [
+      "#janeausten",
+      "#kellyclarkson",
+      "#turquoise",
+      "#sothebys",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://sothebys.com/en/auctions/ecatalogue/2012/english-literature-history-childrens-books-and-illustrations/lot.59.html",
+    "https://www.finebooksmagazine.com/news/sothebys-london-sells-jane-austens-ring-236557",
+    "https://www.thehistoryblog.com/?p=20677",
+    "https://www.janeausten.co.uk/jane-austen-turquoise-ring-history",
+    "https://www.museumsassociation.org/museums-journal/news/2013/09/25092013-jane-austens-house-museum-buys-writers-ring/",
+    "https://www.gov.uk/government/news/last-chance-to-keep-birkins-bentley-blower-jane-austen-ring-baines-records-and-james-wolfes-letters-in-the-uk",
+    "https://www.nbcnewyork.com/news/national-international/museum-hopes-to-buy-jane-austens-ring-back-from-kelly-clarkson/1983407/?amp=1",
+    "https://en.wikipedia.org/wiki/Jane_Austen%27s_House_Museum",
+    "https://amp.cbc.ca/news/entertainment/britain-stops-kelly-clarkson-s-export-of-jane-austen-ring-1.1864553",
+    "https://www.theparisreview.org/blog/?p=60699",
+    "https://www.londonperfect.com/blog/2014/02/jane-austens-house-museum/"
+  ],
+  "images": [
+    {
+      "src": "368-fans-helped-buy-back-jane-austen-s-ring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Cassandra Austen",
+      "page": "https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

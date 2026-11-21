@@ -1,0 +1,165 @@
+{
+  "id": "376-the-ton-of-gold-was-two",
+  "number": 376,
+  "title": "The ton of gold was two",
+  "style": "jewelbox",
+  "topic": "klondike gold rush rabbit creek bonanza creek august 1896 george carmack kate skookum jim dawson charlie steamship portland seattle july 17 1897 ton of gold two tons 5000 people 68 men 100000 set out 30000 reached mounted police year of food ton of food and gear dawson city 30000 summer 1898",
+  "music": "music-376.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "citrine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The ton of gold was two.",
+    "gold": [
+      "ton",
+      "two."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The ton of gold was two.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In August 1896, gold was found on Rabbit Creek in the Yukon.",
+      "say": "In August eighteen ninety six, gold was found on Rabbit Creek in the Yukon.",
+      "scene": {
+        "kind": "piece",
+        "label": "Rabbit Creek, 1896"
+      }
+    },
+    {
+      "text": "Skookum Jim and Dawson Charlie were in the party that found it.",
+      "say": "Skoo kum Jim and Dawson Charlie were in the party that found it.",
+      "scene": {
+        "kind": "real",
+        "src": "376-the-ton-of-gold-was-two-0.jpg",
+        "fit": "card",
+        "label": "The Klondike gold fields",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The creek was soon renamed Bonanza.",
+      "scene": {
+        "kind": "title",
+        "text": "Bonanza",
+        "sub": "Rabbit Creek's new name",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The steamship Portland docked in Seattle on July 17, 1897.",
+      "say": "The steamship Portland docked in Seattle on July seventeenth, eighteen ninety seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 10,
+        "label": "The Portland, Seattle"
+      }
+    },
+    {
+      "text": "More than 5,000 people met 68 men carrying gold.",
+      "say": "More than five thousand people met sixty eight men carrying gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "peridot",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A crowd of 5,000"
+      }
+    },
+    {
+      "text": "About 100,000 set out, and only 30,000 to 40,000 reached it.",
+      "say": "About one hundred thousand set out, and only thirty thousand to forty thousand reached it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "ruby",
+        "label": "100,000 set out"
+      }
+    },
+    {
+      "text": "Mounties made each traveler bring about a ton of food and gear.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A year of food"
+      }
+    },
+    {
+      "text": "In summer 1898, about 30,000 people lived around Dawson City.",
+      "say": "In summer eighteen ninety eight, about thirty thousand people lived around Dawson City.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Dawson City, 1898"
+      }
+    },
+    {
+      "text": "Reports said a ton of gold, but it weighed about two tons.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Two tons, not one"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The ton of gold was two. In August 1896, gold was found on Rabbit Creek in the Yukon, and Skookum Jim and Dawson Charlie were in the party that found it. The creek was soon renamed Bonanza. The steamship Portland docked in Seattle on July 17, 1897, and more than 5,000 people met 68 men carrying gold. About 100,000 people set out for the Klondike, and only 30,000 to 40,000 reached it. Mounties made each traveler bring about a ton of food and gear. In summer 1898, about 30,000 people lived around Dawson City. Reports said a ton of gold, but it weighed about two tons.",
+    "hashtags": [
+      "#klondike",
+      "#goldrush",
+      "#yukon",
+      "#dawsoncity",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.thecanadianencyclopedia.ca/en/article/klondike-gold-rush",
+    "https://archives-ftp.gov.yk.ca/exhibits/klondike/en/discovery.html",
+    "https://www.nps.gov/klgo/learn/historyculture/gold-discoverers.htm",
+    "https://content.lib.washington.edu/extras/goldrush.html",
+    "https://historylink.org/file/687",
+    "https://www.nps.gov/klse/learn/education/upload/Teacher-Resource-Guide-updated-508.pdf",
+    "https://adn.com/alaska-life/2021/05/09/whatever-happened-to-the-ton-of-gold-ship-that-kickstarted-the-klondike-gold-rush",
+    "https://en.wikipedia.org/wiki/Klondike_Gold_Rush",
+    "https://home.nps.gov/klgo/learn/historyculture/tonofgoods.htm",
+    "https://www.history.com/news/the-last-great-gold-rush"
+  ],
+  "images": [
+    {
+      "src": "376-the-ton-of-gold-was-two-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Prof Ranga Sai",
+      "page": "https://commons.wikimedia.org/wiki/File:Klondike_gold_fields_map.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

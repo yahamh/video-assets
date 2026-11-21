@@ -1,0 +1,167 @@
+{
+  "id": "371-one-diamond-got-22-000-name-entries",
+  "number": 371,
+  "title": "One diamond got 22,000 name entries",
+  "style": "deco",
+  "topic": "sewelo diamond lucara karowe mine botswana 1758 carats april 2019 352 grams tennis ball xrt x ray sorting unbroken black coating white gem cullinan 3106 carats 1905 setswana rare find 22000 name entries louis vuitton hb antwerp january 2020 five percent retail sales community botswana",
+  "music": "music-371.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "One diamond got 22,000 name entries.",
+    "gold": [
+      "diamond",
+      "22,000"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One diamond got 22,000 name entries.",
+      "say": "One diamond got twenty two thousand name entries.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A mine in Botswana found it in April 2019.",
+      "say": "A mine in Botswana found it in April twenty nineteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Botswana, April 2019"
+      }
+    },
+    {
+      "text": "It weighs 1,758 carats, about the size of a tennis ball.",
+      "say": "It weighs one thousand seven hundred fifty eight carats, about the size of a tennis ball.",
+      "scene": {
+        "kind": "piece",
+        "label": "1,758 carats"
+      }
+    },
+    {
+      "text": "Reports say only the Cullinan, found in 1905, was bigger.",
+      "say": "Reports say only the Cullinan, found in nineteen oh five, was bigger.",
+      "scene": {
+        "kind": "real",
+        "src": "371-one-diamond-got-22-000-name-entries-0.jpg",
+        "fit": "card",
+        "label": "The Cullinan's cut stones",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "X ray sorting spotted it, and it came out unbroken.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "X ray sorting"
+      }
+    },
+    {
+      "text": "Its owner said a black coating hides some high quality white gem.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "White gem inside"
+      }
+    },
+    {
+      "text": "People in Botswana sent in more than 22,000 names.",
+      "say": "People in Botswana sent in more than twenty two thousand names.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "tanzanite",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "22,000 name entries"
+      }
+    },
+    {
+      "text": "The name chosen, Sewelô, means rare find in Setswana.",
+      "say": "The name chosen, Seh weh loh, means rare find in Seh tswah nah.",
+      "scene": {
+        "kind": "title",
+        "text": "Sewelô",
+        "sub": "Means rare find",
+        "piece": "stone",
+        "stone": "blue",
+        "cut": "emerald",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 2020, Louis Vuitton announced plans for a jewelry collection.",
+      "say": "In twenty twenty, Louis Vuitton announced plans for a jewelry collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Louis Vuitton, 2020"
+      }
+    },
+    {
+      "text": "Five percent of retail sales will support community projects in Botswana.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "5% for Botswana"
+      }
+    }
+  ],
+  "post": {
+    "caption": "One diamond got 22,000 name entries. In April 2019, a mine in Botswana found a rough diamond of 1,758 carats, about the size of a tennis ball. Reports say only the Cullinan, found in 1905, was bigger. X ray sorting spotted it, and it came out unbroken, with a black coating that its owner said hides parts of high quality white gem. People in Botswana sent in more than 22,000 names, and the one chosen, Sewelô, means rare find in Setswana. In 2020, Louis Vuitton announced plans for a jewelry collection from it, and five percent of retail sales will support community projects in Botswana.",
+    "hashtags": [
+      "#sewelo",
+      "#roughdiamond",
+      "#botswana",
+      "#louisvuitton",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://lucaradiamond.com/newsroom/news-releases/lucara-recovers-record-1-758-carat-diamond-from-karowe-122771/",
+    "https://lucaradiamond.com/newsroom/news-releases/lucara-announces-the-naming-of-the-1-758-carat-sewel-ocirc-diamond-122776/",
+    "https://lucaradiamond.com/newsroom/news-releases/lucara-enters-into-collaboration-with-louis-vuitto-122787/",
+    "https://en.wikipedia.org/wiki/Sewel%C3%B4",
+    "https://www.miningweekly.com/article/lucara-finds-partners-to-cut-polish-diamonds-from-1-758-ct-sewel-2020-01-16",
+    "https://rapaport.com/news/louis-vuitton-buys-1758ct-diamond-from-lucara/",
+    "https://mining.com/louis-vuitton-is-turning-the-worlds-second-biggest-diamond-into-jewellery",
+    "https://nationaljeweler.com/articles/5642-louis-vuitton-wants-to-turn-this-dark-diamond-into-jewelry",
+    "https://dailynews.gov.bw/news-detail/53807",
+    "https://www.middiamonds.com/the-diamond-blog/1758-carat-sewelo-rough-diamond-purchased-by-louis-vuitton/",
+    "https://www.scmp.com/magazines/style/news-trends/article/3046414/how-louis-vuitton-plans-transform-1758-carat-sewelo"
+  ],
+  "images": [
+    {
+      "src": "371-one-diamond-got-22-000-name-entries-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Cullinan_major_diamonds.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "372-the-taj-mahal-s-flowers-are-gemstones",
+  "number": 372,
+  "title": "The Taj Mahal's flowers are gemstones",
+  "style": "gouache",
+  "topic": "taj mahal pietra dura parchin kari inlay shah jahan agra mumtaz mahal 1632 1648 white marble henna pattern carved recess thin slivers polished stone lapis lazuli carnelian black onyx quran lettering each letter carved to fit workshops agra",
+  "music": "music-372.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "ruby",
+    "cut": "round",
+    "petals": 10,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Taj Mahal's flowers are gemstones.",
+    "gold": [
+      "flowers",
+      "gemstones."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Taj Mahal's flowers are gemstones.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Emperor Shah Jahan built it in Agra for his wife.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Built in Agra"
+      }
+    },
+    {
+      "text": "Work began in 1632, and the main building was done by 1648.",
+      "say": "Work began in sixteen thirty two, and the main building was done by sixteen forty eight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "sapphire",
+        "label": "1632 to 1648"
+      }
+    },
+    {
+      "text": "Its white marble walls are inlaid with colored stones.",
+      "scene": {
+        "kind": "real",
+        "src": "372-the-taj-mahal-s-flowers-are-gemstones-0.jpg",
+        "fit": "card",
+        "label": "Inlay at the Taj Mahal",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The craft is called pietra dura, or parchin kari in India.",
+      "say": "The craft is called pee AY trah DOO rah, or par CHEEN KAH ree in India.",
+      "scene": {
+        "kind": "title",
+        "text": "Pietra dura",
+        "sub": "Hard stone",
+        "piece": "earrings",
+        "stone": "tanzanite",
+        "cut": "pear",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "A master drew each pattern on the marble in henna.",
+      "scene": {
+        "kind": "piece",
+        "label": "Drawn in henna"
+      }
+    },
+    {
+      "text": "Craftsmen carved a recess and set in thin slivers of polished stone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A carved recess"
+      }
+    },
+    {
+      "text": "Stones include blue lapis lazuli and orange carnelian.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Lapis and carnelian"
+      }
+    },
+    {
+      "text": "Black onyx forms the Quran lettering, with each letter carved to fit.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Black onyx letters"
+      }
+    },
+    {
+      "text": "Workshops in Agra still make parchin kari.",
+      "say": "Workshops in Agra still make par CHEEN KAH ree.",
+      "scene": {
+        "kind": "real",
+        "src": "372-the-taj-mahal-s-flowers-are-gemstones-1.jpg",
+        "fit": "card",
+        "label": "An Agra artisan",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Taj Mahal's flowers are gemstones. Emperor Shah Jahan built it in Agra for his wife, and work began in 1632, with the main building done by 1648. Its white marble walls are inlaid with colored stones in a craft called pietra dura in Italian, or parchin kari in India. A master drew each pattern on the marble in henna, and craftsmen carved a recess and set in thin slivers of polished stone. Stones include blue lapis lazuli and orange carnelian, and black onyx forms the Quran lettering, each letter carved to fit. Workshops in Agra still make parchin kari.",
+    "hashtags": [
+      "#tajmahal",
+      "#pietradura",
+      "#parchinkari",
+      "#gemstoneinlay",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gems-gemology/fall-2019-era-of-the-taj-mahal-and-mughals",
+    "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "https://whc.unesco.org/en/list/252/",
+    "https://www.pbs.org/thestoryofindia/gallery/photos/20.html",
+    "https://www.omanobserver.om/ampArticle/65424",
+    "https://www.core77.com/posts/25995/Ancient-Crafts-The-Stone-Inlays-of-the-Taj-Mahal",
+    "https://en.wikipedia.org/wiki/Pietra_dura",
+    "https://artsandculture.google.com/story/QQUxDaZHvx2Pwg",
+    "https://www.rockngem.com/taj-mahal-gemstones/"
+  ],
+  "images": [
+    {
+      "src": "372-the-taj-mahal-s-flowers-are-gemstones-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "This image was produced by me, David Castor ( user:dcastor ). The pictures I submit to the Wikipedia Project are release",
+      "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_detail-1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "372-the-taj-mahal-s-flowers-are-gemstones-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "David Castor ( dcastor )",
+      "page": "https://commons.wikimedia.org/wiki/File:Marbleworks-1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
