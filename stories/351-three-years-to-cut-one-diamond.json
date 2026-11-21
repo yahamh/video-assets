@@ -1,0 +1,155 @@
+{
+  "id": "351-three-years-to-cut-one-diamond",
+  "number": 351,
+  "title": "Three years to cut one diamond",
+  "style": "gouache",
+  "topic": "centenary diamond premier mine south africa 1986 599 carats rough de beers 100th anniversary 1988 gabi tolkowsky 154 days hand cutting about three years 273.85 carats 247 facets modified heart shape no cleft unveiled london may 1991",
+  "music": "music-351.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "heart",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Three years to cut one diamond.",
+    "gold": [
+      "Three",
+      "years",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Three years to cut one diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1986, South Africa's Premier Mine gave up a 599 carat crystal.",
+      "say": "In nineteen eighty six, South Africa's Premier Mine gave up a five hundred ninety nine carat crystal.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "599 carats of rough"
+      }
+    },
+    {
+      "text": "De Beers showed it at its 100th anniversary celebration in 1988.",
+      "say": "De Beers showed it at its one hundredth anniversary celebration in nineteen eighty eight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "De Beers, 1988"
+      }
+    },
+    {
+      "text": "It was named the Centenary Diamond for that anniversary.",
+      "scene": {
+        "kind": "piece",
+        "label": "The Centenary Diamond"
+      }
+    },
+    {
+      "text": "Master cutter Gabi Tolkowsky led the cutting team.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Gabi Tolkowsky"
+      }
+    },
+    {
+      "text": "The first 154 days went to cutting away flawed material by hand.",
+      "say": "The first one hundred fifty four days went to cutting away flawed material by hand.",
+      "scene": {
+        "kind": "title",
+        "text": "154 days",
+        "sub": "Cutting by hand",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "topaz"
+      }
+    },
+    {
+      "text": "Cutting and polishing took about three years in all.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 16,
+        "label": "About three years"
+      }
+    },
+    {
+      "text": "The finished diamond weighs 273.85 carats and has 247 facets.",
+      "say": "The finished diamond weighs two hundred seventy three point eight five carats and has two hundred forty seven facets.",
+      "scene": {
+        "kind": "title",
+        "text": "273.85",
+        "sub": "Carats",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "heart",
+        "metal": "platinum",
+        "halo": 10
+      }
+    },
+    {
+      "text": "Its heart shape has no cleft at the top.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "heart",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A heart without a cleft"
+      }
+    },
+    {
+      "text": "It was first shown in London in May 1991.",
+      "say": "It was first shown in London in May nineteen ninety one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "heart",
+        "metal": "yellow",
+        "label": "London, May 1991"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Centenary Diamond took about three years to cut. In 1986, South Africa's Premier Mine gave up a 599 carat crystal, and De Beers showed it at its 100th anniversary celebration in 1988. Master cutter Gabi Tolkowsky led the team, and the first 154 days went to cutting away flawed material by hand. The finished diamond weighs 273.85 carats and has 247 facets, in a heart shape without the cleft at the top. It was first shown in London in May 1991.",
+    "hashtags": [
+      "#centenarydiamond",
+      "#debeers",
+      "#diamonds",
+      "#diamondcutting",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://thediamondcollective.world/historic-diamonds/centenary-diamond/",
+    "https://www.debeers.co.uk/en-gb/legendary-diamonds.html",
+    "https://www.deseret.com/1991/5/2/18918541/273-carat-heart-diamond-is-a-cut-above-the-rest",
+    "https://www.jckonline.com/editorial-article/cutter-gabi-tolkowsky-dies/",
+    "https://blog.worthy.com/?p=928552",
+    "https://www.jewellermagazine.com/Article/9953"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Centenary Diamond exists; the only Commons pictures are of the mine and of replicas"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "353-a-speck-started-the-gold-rush",
+  "number": 353,
+  "title": "A speck started the Gold Rush",
+  "style": "deco",
+  "topic": "james marshall gold sutters mill coloma california january 24 1848 sawmill tailrace thin scale of gold bit it heart thump polk december 1848 80000 forty niners 1849 gold bearing quartz jewelry about 1850 smithsonian since 1861",
+  "music": "music-353.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "citrine",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A speck started the Gold Rush.",
+    "gold": [
+      "speck",
+      "Gold",
+      "Rush."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A speck started the Gold Rush.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "On January 24, 1848, James Marshall was building a sawmill in California.",
+      "say": "On January twenty fourth, eighteen forty eight, James Marshall was building a sawmill in California.",
+      "scene": {
+        "kind": "real",
+        "src": "353-a-speck-started-the-gold-rush-0.jpg",
+        "fit": "card",
+        "label": "James Marshall at the mill",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He spotted something shiny in the mill's water channel.",
+      "scene": {
+        "kind": "piece",
+        "label": "Something shiny"
+      }
+    },
+    {
+      "text": "The find was a thin scale of gold, not a big nugget.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A thin scale of gold"
+      }
+    },
+    {
+      "text": "The story goes that he bit it to test the soft metal.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Gold is soft"
+      }
+    },
+    {
+      "text": "He later said it made his heart thump.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "peridot",
+        "label": "It made my heart thump"
+      }
+    },
+    {
+      "text": "By December 1848, President Polk told Congress about the gold.",
+      "say": "By December eighteen forty eight, President Polk told Congress about the gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "December 1848"
+      }
+    },
+    {
+      "text": "About 80,000 gold seekers arrived in 1849.",
+      "say": "About eighty thousand gold seekers arrived in eighteen forty nine.",
+      "scene": {
+        "kind": "real",
+        "src": "353-a-speck-started-the-gold-rush-1.jpg",
+        "fit": "card",
+        "label": "A gold rush handbill, 1849",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Soon jewelers set gold bearing quartz into brooches and watch chains.",
+      "scene": {
+        "kind": "title",
+        "text": "Gold in quartz",
+        "sub": "Jewelry, about 1850",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "emerald",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "That first speck has belonged to the Smithsonian since 1861.",
+      "say": "That first speck has belonged to the Smithsonian since eighteen sixty one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "The Smithsonian, 1861"
+      }
+    }
+  ],
+  "post": {
+    "caption": "On January 24, 1848, James Marshall was building a sawmill in California when he spotted something shiny in the mill's water channel. The find was a thin scale of gold, not a big nugget. The story goes that he bit it to test the soft metal, and he later said it made his heart thump. By December 1848, President Polk told Congress about the gold, and about 80,000 gold seekers arrived in 1849. Soon jewelers were setting gold bearing quartz into brooches and watch chains. That first speck has belonged to the Smithsonian since 1861.",
+    "hashtags": [
+      "#goldrush",
+      "#gold",
+      "#california",
+      "#sutterssmill",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.smithsonianmag.com/smart-news/the-discovery-of-gold-on-this-date-in-1848-at-sutters-creek-kicked-off-the-california-gold-rush-and-transformed-america-180985858/",
+    "https://www.smithsonianmag.com/history/a-metal-far-from-base-154884867/",
+    "https://si.edu/newsdesk/snapshot/lucky-strike",
+    "https://si.edu/object/gold-nugget:nmah_741894",
+    "https://www.history.com/this-day-in-history/gold-discovered-at-sutters-creek",
+    "https://www.history.com/topics/american-west/gold-rush-of-1849",
+    "https://www.britannica.com/topic/California-Gold-Rush",
+    "https://explore.museumca.org/goldrush/ar08.html",
+    "https://www.parks.ca.gov/pages/484/files/marshallgoldtranscript_cspf_text.html",
+    "https://www.npr.org/transcripts/nx-s1-5868562",
+    "https://collections.vam.ac.uk/item/O299120/locket-brooch-unknown",
+    "https://wartski.com/collection/a-rare-californian-gold-rush-jewel/",
+    "https://www.metmuseum.org/essays/nineteenth-century-american-jewelry"
+  ],
+  "images": [
+    {
+      "src": "353-a-speck-started-the-gold-rush-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Marshall,_discoverer_of_gold,_at_Sutter's_Mill_LCCN2007676072.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "353-a-speck-started-the-gold-rush-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "ArwinJ",
+      "page": "https://commons.wikimedia.org/wiki/File:California_Gold_Rush_handbill.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "348-victoria-s-coronation-ring-was-too-small",
+  "number": 348,
+  "title": "Victoria's coronation ring was too small",
+  "style": "gouache",
+  "topic": "queen victoria coronation ring june 28 1838 westminster abbey rundell bridge royal goldsmiths sapphire rubies cross diamonds william iv 1831 little finger archbishop forced ring finger journal wrong finger iced water crown jewels george v march 1919",
+  "music": "music-348.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "emerald",
+    "metal": "yellow",
+    "halo": 12
+  },
+  "hook": {
+    "text": "Victoria's coronation ring was too small.",
+    "gold": [
+      "Victoria's",
+      "ring",
+      "small."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Victoria's coronation ring was too small.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Victoria was crowned at Westminster Abbey on June 28, 1838.",
+      "say": "Victoria was crowned at Westminster Abbey on June twenty eighth, eighteen thirty eight.",
+      "scene": {
+        "kind": "real",
+        "src": "348-victoria-s-coronation-ring-was-too-small-0.jpg",
+        "fit": "card",
+        "label": "The coronation, 1838",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The royal goldsmiths set a sapphire with rubies in a cross.",
+      "scene": {
+        "kind": "piece",
+        "label": "A sapphire and rubies"
+      }
+    },
+    {
+      "text": "A border of diamonds circles the sapphire.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "A border of diamonds"
+      }
+    },
+    {
+      "text": "It copied the coronation ring of William the Fourth, only smaller.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "amethyst",
+        "label": "A smaller copy"
+      }
+    },
+    {
+      "text": "But the goldsmiths sized it for her little finger.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Made for her little finger"
+      }
+    },
+    {
+      "text": "The Archbishop forced it onto her ring finger anyway.",
+      "scene": {
+        "kind": "real",
+        "src": "348-victoria-s-coronation-ring-was-too-small-1.jpg",
+        "fit": "card",
+        "label": "The ceremony, 1838",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Her journal says he put it on the wrong finger.",
+      "scene": {
+        "kind": "title",
+        "text": "Wrong finger",
+        "sub": "Her journal says so",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Afterward she soaked her hand in iced water to get it off.",
+      "scene": {
+        "kind": "title",
+        "text": "Iced water",
+        "sub": "To get it off",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It has been with the Crown Jewels since March 1919.",
+      "say": "It has been with the Crown Jewels since March nineteen nineteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "With the Crown Jewels"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Queen Victoria's coronation ring was made too small. On June 28, 1838, the royal goldsmiths Rundell, Bridge and Rundell had sized it for her little finger, and the Archbishop of Canterbury forced it onto her ring finger anyway. Her journal says he put it on the wrong finger, and afterward she soaked her hand in iced water to get it off. The ring is a sapphire with rubies set in a cross and a border of diamonds, copied from the 1831 coronation ring of William the Fourth on a smaller scale. King George the Fifth placed it with the Crown Jewels in March 1919.",
+    "hashtags": [
+      "#queenvictoria",
+      "#coronation",
+      "#royaljewels",
+      "#crownjewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/31722",
+    "https://www.cbc.ca/news/world/what-could-possible-go-wrong-at-a-coronation-well-1.1406640",
+    "https://www.royal.uk/royal-archives-coronation",
+    "https://spectator.com/article/what-happens-when-coronations-go-awry/",
+    "https://royalcentral.co.uk/features/all-the-queens-rings-134442/",
+    "https://www.thecourtjeweller.com/2021/06/the-coronation-rings.html",
+    "https://www.berganza.com/knowledge/jewellery-history/design-periods/victorian/queen-victorias-coronation",
+    "https://www.mentalfloss.com/history/royalty/queen-victoria-coronation-disasters"
+  ],
+  "images": [
+    {
+      "src": "348-victoria-s-coronation-ring-was-too-small-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "George Hayter",
+      "page": "https://commons.wikimedia.org/wiki/File:Coronation_of_Queen_Victoria_28_June_1838_by_Sir_George_Hayter.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "348-victoria-s-coronation-ring-was-too-small-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "George Hayter",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Coronation_of_Queen_Victoria,_28_June_1838'_(Queen_Victoria)_by_Sir_George_Hayter.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "352-titanic-s-blue-diamond-was-a-fake",
+  "number": 352,
+  "title": "Titanic's blue diamond was a fake",
+  "style": "jewelbox",
+  "topic": "heart of the ocean necklace titanic prop cubic zirconia asprey london real version heart shaped sri lankan sapphire about 170 carats beverly hills charity auction march 1998 2.2 million celine dion oscars march 23 1998 eleven oscars",
+  "music": "music-352.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "sapphire",
+    "cut": "heart",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Titanic's blue diamond was a fake.",
+    "gold": [
+      "Titanic's",
+      "diamond",
+      "fake."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Titanic's blue diamond was a fake.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the film, the Heart of the Ocean was only a prop.",
+      "scene": {
+        "kind": "piece",
+        "label": "The Heart of the Ocean"
+      }
+    },
+    {
+      "text": "Its blue stone was cubic zirconia because real ones cost too much.",
+      "scene": {
+        "kind": "title",
+        "text": "Cubic zirconia",
+        "sub": "The prop's stone",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "After the hit film, Asprey of London made a real one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "heart",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Made by Asprey of London"
+      }
+    },
+    {
+      "text": "It had a heart shaped Sri Lankan sapphire of about 170 carats.",
+      "say": "It had a heart shaped Sri Lankan sapphire of about one hundred seventy carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "heart",
+        "metal": "platinum",
+        "label": "About 170 carats"
+      }
+    },
+    {
+      "text": "Set with diamonds, it was auctioned in Beverly Hills in March 1998.",
+      "say": "Set with diamonds, it was auctioned in Beverly Hills in March nineteen ninety eight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 16,
+        "label": "Beverly Hills, March 1998"
+      }
+    },
+    {
+      "text": "It sold for $2.2 million, and the money went to charity.",
+      "say": "It sold for two point two million dollars, and the money went to charity.",
+      "scene": {
+        "kind": "title",
+        "text": "$2.2 million",
+        "sub": "Charity auction",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The buyer stayed unnamed but let Celine Dion wear it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Celine Dion wore it"
+      }
+    },
+    {
+      "text": "She wore it to the Oscars on March 23, 1998.",
+      "say": "She wore it to the Oscars on March twenty third, nineteen ninety eight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "The Oscars, 1998"
+      }
+    },
+    {
+      "text": "Titanic won eleven Oscars that night.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "platinum",
+        "label": "Eleven Oscars"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In Titanic, the Heart of the Ocean necklace was only a prop, and its blue stone was cubic zirconia because a real one cost too much. After the hit film, Asprey of London made a real version with a heart shaped Sri Lankan sapphire of about 170 carats, set with diamonds. It was auctioned for charity in Beverly Hills in March 1998 and sold for 2.2 million dollars. The buyer stayed unnamed but let Celine Dion wear it to the Oscars on March 23, 1998, where Titanic won eleven awards.",
+    "hashtags": [
+      "#titanic",
+      "#heartoftheocean",
+      "#celinedion",
+      "#sapphire",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.spokesman.com/stories/1998/mar/08/heart-of-the-sea/",
+    "https://www.spokesman.com/stories/1998/mar/21/princess-ball-auction-to-include-3-million/",
+    "https://www.scmp.com/article/234318/necklace-fetches-titanic-17m-di-fund-raiser",
+    "https://uk.news.yahoo.com/titanic-25-films-heart-ocean-210841794.html",
+    "https://sg.style.yahoo.com/great-outfits-fashion-history-celine-150000495.html",
+    "https://www.garrard.com/blogs/house/garrard-s-heart-shaped-jewels",
+    "https://thediamondcollective.world/culture-and-style/heart-of-the-ocean/",
+    "https://www.oscars.org/oscars/ceremonies/1998"
+  ],
+  "images": [],
+  "no_real_image": "no free picture exists of the necklace or the film prop; only modern fan replica photos and copyrighted film stills"
+}

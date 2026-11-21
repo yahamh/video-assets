@@ -1,0 +1,162 @@
+{
+  "id": "356-a-salmon-found-the-queen-s-ring",
+  "number": 356,
+  "title": "A salmon found the queen's ring",
+  "style": "deco",
+  "topic": "glasgow coat of arms salmon with a ring saint mungo kentigern queen languoreth river clyde monk first fish bishop seal about 1270 oak tree robin hazel branch granted 1866 motto let glasgow flourish legend",
+  "music": "music-356.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A salmon found the queen's ring.",
+    "gold": [
+      "salmon",
+      "queen's",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A salmon found the queen's ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Glasgow's arms show a fish with a ring in its mouth.",
+      "scene": {
+        "kind": "piece",
+        "label": "A fish with a ring"
+      }
+    },
+    {
+      "text": "The legend says a queen's ring was lost in the River Clyde.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "amethyst",
+        "label": "Lost in the Clyde"
+      }
+    },
+    {
+      "text": "Saint Mungo, Glasgow's patron saint, sent a monk to fish.",
+      "scene": {
+        "kind": "real",
+        "src": "356-a-salmon-found-the-queen-s-ring-0.jpg",
+        "fit": "card",
+        "label": "Glasgow Cathedral",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The first fish the monk caught was a salmon.",
+      "scene": {
+        "kind": "title",
+        "text": "A salmon",
+        "sub": "The first catch",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The queen's ring was in its mouth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "The ring, in its mouth"
+      }
+    },
+    {
+      "text": "A fish with a ring appears on a seal from about 1270.",
+      "say": "A fish with a ring appears on a seal from about twelve seventy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A seal, about 1270"
+      }
+    },
+    {
+      "text": "Besides the fish, the arms show an oak tree and a robin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "An oak tree and a robin"
+      }
+    },
+    {
+      "text": "Both come from other legends about Saint Mungo.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Other legends"
+      }
+    },
+    {
+      "text": "The arms were granted in 1866 with the motto Let Glasgow Flourish.",
+      "say": "The arms were granted in eighteen sixty six with the motto Let Glasgow Flourish.",
+      "scene": {
+        "kind": "title",
+        "text": "1866",
+        "sub": "Arms granted",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 14
+      }
+    }
+  ],
+  "post": {
+    "caption": "Glasgow's coat of arms shows a fish with a ring in its mouth. The legend says a queen's ring was lost in the River Clyde, so Saint Mungo, the city's patron saint, sent a monk to fish. The first fish the monk caught was a salmon, and the queen's ring was in its mouth. A fish with a ring appears on a seal from about 1270, and the arms also show an oak tree and a robin, which come from other legends about Saint Mungo. The arms were officially granted in 1866, with the motto Let Glasgow Flourish.",
+    "hashtags": [
+      "#glasgow",
+      "#saintmungo",
+      "#legend",
+      "#ring",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://glasgow.gov.uk/article/18118/City-Crest",
+    "https://glasgow.gov.uk/article/6027/The-City-Crest",
+    "https://randomscottishhistory.com/2018/10/11/the-armorial-insignia-and-city-seals-pp-99-104",
+    "https://en.wikipedia.org/wiki/Coat_of_arms_of_Glasgow",
+    "https://heraldry-wiki.com/wiki/Glasgow",
+    "https://scienceonstreets.phys.strath.ac.uk/new/Coat_of_Arms.html",
+    "https://www.inkl.com/news/the-story-of-glasgow-s-coat-of-arms-and-its-relationship-with-st-mungo",
+    "https://www.britannica.com/biography/Saint-Kentigern"
+  ],
+  "images": [
+    {
+      "src": "356-a-salmon-found-the-queen-s-ring-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "George Hodan",
+      "page": "https://commons.wikimedia.org/wiki/File:Glasgow-st-mungo-cathedral-1471273734GIk.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

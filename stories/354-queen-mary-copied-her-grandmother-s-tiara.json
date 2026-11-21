@@ -1,0 +1,164 @@
+{
+  "id": "354-queen-mary-copied-her-grandmother-s-tiara",
+  "number": 354,
+  "title": "Queen Mary copied her grandmother's tiara",
+  "style": "gouache",
+  "topic": "lovers knot tiara queen mary garrard 1913 copy cambridge lovers knot grandmother duchess of cambridge aunt grand duchess mecklenburg strelitz 19 pearls diamonds queen elizabeth ii 1953 diana 1981 catherine 2015 diplomatic reception",
+  "music": "music-354.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "cream",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Queen Mary copied her grandmother's tiara.",
+    "gold": [
+      "Queen",
+      "Mary",
+      "grandmother's",
+      "tiara."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Queen Mary copied her grandmother's tiara.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Her grandmother owned a tiara of diamond lover's knots.",
+      "scene": {
+        "kind": "real",
+        "src": "354-queen-mary-copied-her-grandmother-s-tiara-0.jpg",
+        "fit": "card",
+        "label": "Queen Mary, painted in 1935",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It went to Mary's aunt, so Mary could not inherit it.",
+      "scene": {
+        "kind": "piece",
+        "label": "The original, passed on"
+      }
+    },
+    {
+      "text": "In 1913, she asked the court jeweler Garrard to make a copy.",
+      "say": "In nineteen thirteen, she asked the court jeweler Garrard to make a copy.",
+      "scene": {
+        "kind": "title",
+        "text": "1913",
+        "sub": "Garrard",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "She used diamonds and pearls from her own collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "From her own collection"
+      }
+    },
+    {
+      "text": "Nineteen pearls hang from the diamond knots.",
+      "scene": {
+        "kind": "title",
+        "text": "Nineteen",
+        "sub": "Pearls hang below",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Pearls once stood upright on top, taken from another tiara.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Upright pearls, later changed"
+      }
+    },
+    {
+      "text": "Queen Elizabeth the Second inherited it in 1953.",
+      "say": "Queen Elizabeth the Second inherited it in nineteen fifty three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Inherited in 1953"
+      }
+    },
+    {
+      "text": "Diana began wearing it in 1981 and wore it often.",
+      "say": "Diana began wearing it in nineteen eighty one and wore it often.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Princess Diana, from 1981"
+      }
+    },
+    {
+      "text": "Catherine first wore it in 2015, at a diplomatic reception.",
+      "say": "Catherine first wore it in twenty fifteen, at a diplomatic reception.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Catherine, 2015"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Queen Mary copied her grandmother's tiara. Her grandmother, the Duchess of Cambridge, owned a tiara of diamond lover's knots, but it went to Mary's aunt, so Mary could not inherit it. In 1913 she asked the court jeweler Garrard to make a copy, using diamonds and pearls from her own collection. Nineteen pearls hang from the knots, and pearls once stood upright on top, taken from another tiara. Queen Elizabeth the Second inherited it in 1953, Princess Diana began wearing it in 1981, and Catherine first wore it in 2015 at a diplomatic reception.",
+    "hashtags": [
+      "#loversknottiara",
+      "#queenmary",
+      "#garrard",
+      "#pearls",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.garrard.com/blogs/house/2025-a-year-of-four-radiant-garrard-tiaras",
+    "https://www.stuttgarter-zeitung.de/panorama/lover-s-knot-tiara-kates-lieblingsdiadem-hat-historie-78983897.html",
+    "https://www.thecourtjeweller.com/2019/02/queen-marys-lovers-knot-tiara.html",
+    "https://www.theroyalforums.com/9671-the-cambridge-lovers-knot-tiara/",
+    "https://thediamondcollective.world/historic-diamonds/lovers-knot-tiara/",
+    "https://marieclaire.co.uk/fashion/the-little-known-fact-behind-princess-dianas-favourite-tiara-694940",
+    "https://www.garrard.com/pages/jewellery-of-the-royal-family-a-garrard-history-part-2"
+  ],
+  "images": [
+    {
+      "src": "354-queen-mary-copied-her-grandmother-s-tiara-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Arthur Trevethin Nowell",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Mary_by_Arthur_Trevethin_Nowell.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

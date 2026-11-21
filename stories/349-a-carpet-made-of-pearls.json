@@ -1,0 +1,160 @@
+{
+  "id": "349-a-carpet-made-of-pearls",
+  "number": 349,
+  "title": "A carpet made of pearls",
+  "style": "jewelbox",
+  "topic": "pearl carpet of baroda khande rao gaekwad about 1865 gift for the tomb of the prophet at medina silk deer hide basra gulf pearls more than a million three diamond rosettes 32 smaller 264 by 173 centimeters died 1870 national museum of qatar doha",
+  "music": "music-349.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "cream",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A carpet made of pearls.",
+    "gold": [
+      "carpet",
+      "pearls."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A carpet made of pearls.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Around 1865, the Maharaja of Baroda ordered a carpet of pearls.",
+      "say": "Around eighteen sixty five, the Maharaja of Baroda ordered a carpet of pearls.",
+      "scene": {
+        "kind": "real",
+        "src": "349-a-carpet-made-of-pearls-0.jpg",
+        "fit": "card",
+        "label": "The Pearl Carpet of Baroda",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was meant as a gift for the Prophet's tomb in Medina.",
+      "scene": {
+        "kind": "piece",
+        "label": "Meant as a gift"
+      }
+    },
+    {
+      "text": "Its base is silk and soft deer hide.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Silk and deer hide"
+      }
+    },
+    {
+      "text": "More than a million pearls from the Gulf cover it.",
+      "scene": {
+        "kind": "title",
+        "text": "Over a million",
+        "sub": "Pearls from the Gulf",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Three large rosettes of diamonds sit in the center.",
+      "scene": {
+        "kind": "title",
+        "text": "Three",
+        "sub": "Diamond rosettes",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 12,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Hundreds of carats of diamonds shine among the pearls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Hundreds of carats"
+      }
+    },
+    {
+      "text": "The carpet measures 2.64 meters by 1.74 meters.",
+      "say": "The carpet measures two point six four meters by one point seven four meters.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "2.64 by 1.74 meters"
+      }
+    },
+    {
+      "text": "The Maharaja died in 1870, so it never left Baroda.",
+      "say": "The Maharaja died in eighteen seventy, so it never left Baroda.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 10,
+        "label": "Baroda, 1870"
+      }
+    },
+    {
+      "text": "It is now the centerpiece of the National Museum of Qatar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "National Museum of Qatar"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Around 1865, Khande Rao Gaekwad, the Maharaja of Baroda, ordered a carpet of pearls. It was meant as a gift for the tomb of the Prophet in Medina. The base is silk and deer hide, and more than a million pearls from the Gulf cover it, with three large diamond rosettes in the center and hundreds of carats of diamonds in all. It measures 2.64 meters by 1.74 meters. The Maharaja died in 1870 before it could be sent, so it never left Baroda. Today it is the centerpiece of the National Museum of Qatar.",
+    "hashtags": [
+      "#pearls",
+      "#pearlcarpet",
+      "#baroda",
+      "#naturalpearls",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/auctions/ecatalogue/2009/the-pearl-carpet-of-baroda-d09005/lot.401.html",
+    "https://qm.org.qa/en/stories/all-stories/baroda-carpet/",
+    "https://blog.saffronart.com/2019/09/14/extraordinary-encounters-iii-a-carpet-of-pearls",
+    "https://www.domain-b.com/economy/general/20090320_pearl_carpet.html",
+    "https://www.tribuneindia.com/2002/20020818/spectrum/heritage.htm",
+    "https://thepeninsulaqatar.com/article/14/03/2019/Spectacular-artefacts-await-visitors-at-National-Museum-of-Qatar",
+    "https://explorer.nmoq.org.qa/en/museum-spaces/",
+    "https://artsandculture.google.com/asset/the-pearl-carpet-of-baroda/XAFJi_2A3hbKsA"
+  ],
+  "images": [
+    {
+      "src": "349-a-carpet-made-of-pearls-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Sotheby's, The Pearl Carpet of Baroda, lot 401",
+      "page": "https://commons.wikimedia.org/wiki/File:Pearl_Carpet_of_Baroda.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

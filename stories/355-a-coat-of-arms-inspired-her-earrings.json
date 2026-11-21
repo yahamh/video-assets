@@ -1,0 +1,165 @@
+{
+  "id": "355-a-coat-of-arms-inspired-her-earrings",
+  "number": 355,
+  "title": "A coat of arms inspired her earrings",
+  "style": "jewelbox",
+  "topic": "catherine middleton wedding earrings robinson pelham diamond oak leaves pear drop acorn gift from her parents middleton coat of arms april 2011 three acorns west berkshire april 29 2011 easter 2019",
+  "music": "music-355.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A coat of arms inspired her earrings.",
+    "gold": [
+      "coat",
+      "arms",
+      "earrings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A coat of arms inspired her earrings.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In April 2011, Catherine Middleton's family received a new coat of arms.",
+      "say": "In April twenty eleven, Catherine Middleton's family received a new coat of arms.",
+      "scene": {
+        "kind": "piece",
+        "label": "A new coat of arms"
+      }
+    },
+    {
+      "text": "It shows three acorns, one for each Middleton child.",
+      "scene": {
+        "kind": "title",
+        "text": "Three acorns",
+        "sub": "One for each child",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Oak trees grow around the family's home in West Berkshire.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "oval",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Oak trees in West Berkshire"
+      }
+    },
+    {
+      "text": "Her parents gave her wedding earrings made by Robinson Pelham.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A gift from her parents"
+      }
+    },
+    {
+      "text": "Each earring has diamond oak leaves and a pear shaped diamond drop.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Oak leaves and a drop"
+      }
+    },
+    {
+      "text": "A small diamond acorn hangs in the center.",
+      "scene": {
+        "kind": "title",
+        "text": "Acorn",
+        "sub": "Set in diamonds",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The design draws on the family's new coat of arms.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Drawn from the arms"
+      }
+    },
+    {
+      "text": "She wore them on her wedding day, April 29, 2011.",
+      "say": "She wore them on her wedding day, April twenty ninth, twenty eleven.",
+      "scene": {
+        "kind": "real",
+        "src": "355-a-coat-of-arms-inspired-her-earrings-0.jpg",
+        "fit": "card",
+        "label": "The wedding day, April 29, 2011",
+        "credit": "Photo: Magnus D, CC BY 2.0, cropped"
+      }
+    },
+    {
+      "text": "She wore them again at the Easter service in 2019.",
+      "say": "She wore them again at the Easter service in twenty nineteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Easter, 2019"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In April 2011, Catherine Middleton's family received a new coat of arms with three acorns, one for each Middleton child, because oak trees grow around the family's home in West Berkshire. Her parents gave her wedding earrings made by the London jeweler Robinson Pelham. Each earring has diamond oak leaves and a pear shaped diamond drop, with a small diamond acorn hanging in the center, and the design draws on the new coat of arms. She wore them on her wedding day, April 29, 2011, and again at the Easter service in 2019.\n\nPhoto: Magnus D, CC BY 2.0, cropped",
+    "hashtags": [
+      "#royalwedding",
+      "#catherinemiddleton",
+      "#earrings",
+      "#royaljewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://prnewswire.com/news-releases/miss-catherine-middleton-wears-earrings-designed-and-made-by-robinson-pelham-jewellers-120950779.html",
+    "https://thejewelleryeditor.com/2011/05/kates-royal-wedding-earrings",
+    "https://jckonline.com/?p=22712",
+    "https://www.cbsnews.com/news/kate-middleton-wears-cartier-tiara-lent-by-queen/",
+    "https://www.yorkshirepost.co.uk/news/royal-tiara-jewel-crown-simple-elegance-1933939",
+    "https://www.royal.uk/new-coat-arms-miss-middleton-and-her-family",
+    "https://channel4.com/news/kate-middleton-family-coat-of-arms-created",
+    "https://www.thecourtjeweller.com/2024/04/the-dazzling-diamond-wedding-earrings-designed-for-the-princess-of-wales.html",
+    "https://www.hellomagazine.com/fashion/royal-style/900882/princess-kate-earring-collection-timeless-wedding-day-pair/"
+  ],
+  "images": [
+    {
+      "src": "355-a-coat-of-arms-inspired-her-earrings-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Magnus D",
+      "page": "https://commons.wikimedia.org/wiki/File:The_royal_family_on_the_balcony_(cropped).jpg",
+      "credit": "Photo: Magnus D, CC BY 2.0, cropped"
+    }
+  ]
+}

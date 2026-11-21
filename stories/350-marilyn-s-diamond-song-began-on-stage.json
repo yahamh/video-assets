@@ -1,0 +1,169 @@
+{
+  "id": "350-marilyn-s-diamond-song-began-on-stage",
+  "number": 350,
+  "title": "Marilyn's diamond song began on stage",
+  "style": "deco",
+  "topic": "diamonds are a girls best friend gentlemen prefer blondes broadway december 8 1949 ziegfeld theatre carol channing lorelei lee jule styne leo robin 740 performances marilyn monroe 1953 film jack cole travilla pink satin gown afi number 12 madonna material girl 1985",
+  "music": "music-350.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "pink",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Marilyn's diamond song began on stage.",
+    "gold": [
+      "Marilyn's",
+      "diamond",
+      "stage."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Marilyn's diamond song began on stage.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The musical Gentlemen Prefer Blondes opened on Broadway in 1949.",
+      "say": "The musical Gentlemen Prefer Blondes opened on Broadway in nineteen forty nine.",
+      "scene": {
+        "kind": "piece",
+        "label": "Opened December 8, 1949"
+      }
+    },
+    {
+      "text": "Carol Channing sang the song first, as Lorelei Lee.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Carol Channing, 1949"
+      }
+    },
+    {
+      "text": "Jule Styne wrote the music and Leo Robin wrote the words.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Styne and Robin"
+      }
+    },
+    {
+      "text": "That Broadway show ran for 740 performances.",
+      "say": "That Broadway show ran for seven hundred forty performances.",
+      "scene": {
+        "kind": "title",
+        "text": "740",
+        "sub": "Performances",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 10
+      }
+    },
+    {
+      "text": "In 1953, Marilyn Monroe sang it in the film.",
+      "say": "In nineteen fifty three, Marilyn Monroe sang it in the film.",
+      "scene": {
+        "kind": "real",
+        "src": "350-marilyn-s-diamond-song-began-on-stage-0.jpg",
+        "fit": "card",
+        "label": "Gentlemen Prefer Blondes, 1953",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Jack Cole created the dances for the film.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "heart",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Dances by Jack Cole"
+      }
+    },
+    {
+      "text": "Billy Travilla designed her pink satin gown with a big bow.",
+      "scene": {
+        "kind": "title",
+        "text": "Pink satin",
+        "sub": "By Billy Travilla",
+        "piece": "necklace",
+        "stone": "pink",
+        "cut": "cushion",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The American Film Institute ranks the song number twelve among movie songs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 16,
+        "label": "Number twelve, AFI"
+      }
+    },
+    {
+      "text": "In 1985, Madonna copied the look in her Material Girl video.",
+      "say": "In nineteen eighty five, Madonna copied the look in her Material Girl video.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "pink",
+        "cut": "round",
+        "metal": "rose",
+        "label": "Madonna, 1985"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Marilyn Monroe's diamond song began on stage. The musical Gentlemen Prefer Blondes opened on December 8, 1949, and Carol Channing sang Diamonds Are a Girl's Best Friend as Lorelei Lee. Jule Styne wrote the music and Leo Robin wrote the words, and the show ran for 740 performances. In the 1953 film, Marilyn Monroe sang it with dances created by Jack Cole and a pink satin gown designed by Billy Travilla. The American Film Institute ranks the song number twelve among movie songs, and in 1985 Madonna copied the look in her Material Girl video.",
+    "hashtags": [
+      "#marilynmonroe",
+      "#diamondsareagirlsbestfriend",
+      "#gentlemenpreferblondes",
+      "#diamonds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://library.brown.edu/exhibits/archive/broadway/1940sb.html",
+    "https://www.ibdb.com/broadway-production/1845",
+    "https://playbill.com/article/playbill-vaults-today-in-theatre-history-december-8-com-109868",
+    "https://www.julestyne.com/Broadway/Gentlemen_Prefer_Blondes.php",
+    "https://www.songfacts.com/facts/ethel-merman/diamonds-are-a-girls-best-friend",
+    "https://www.tcm.com/articles/224175/gentlemen-prefer-blondes-1953",
+    "https://www.tcm.com/articles/136015/gentlemen-prefer-blondes",
+    "https://blogs.loc.gov/music/2024/03/the-choreographer-who-gave-us-kenergy/",
+    "https://amp.cnn.com/cnn/style/article/marilyn-monroe-diamonds-are-a-girls-best-friend",
+    "https://www.acmi.net.au/works/122015--crafting-the-ideal/",
+    "https://www.cbsnews.com/pictures/top-movie-songs",
+    "https://filmsite.org/afi100songs.html"
+  ],
+  "images": [
+    {
+      "src": "350-marilyn-s-diamond-song-began-on-stage-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Dell Publications, Inc. , New York, publisher of Modern Screen",
+      "page": "https://commons.wikimedia.org/wiki/File:Monroe_in_a_publicity_shot_for_Gentlemen_Prefer_Blondes.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
