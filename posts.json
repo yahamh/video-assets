@@ -4167,7 +4167,11 @@
     "zernio_id": "6afff91953a0d22eb00adf98",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgAExDZHDI5/"
+    }
   },
   "280-tumbaga-is-copper-dressed-as-gold": {
     "at": "2026-11-20T22:30:00Z",
@@ -4880,6 +4884,14 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "357-quarrymen-found-a-golden-cape": {
+    "at": "2026-11-22T22:00:00Z",
+    "zernio_id": "6b01826a4a34334b9255fb87",
+    "platforms": [
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
