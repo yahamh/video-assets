@@ -3767,7 +3767,11 @@
     "zernio_id": "6b001b72f05046144442311a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df-14bSHXnL/"
+    }
   },
   "248-pavilion-once-meant-both-tent-and-butterfly": {
     "at": "2026-11-20T11:30:00Z",
@@ -3801,7 +3805,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1478348754207329",
+      "instagram": "https://www.instagram.com/reel/Df-8rXdAFeA/"
+    }
   },
   "251-berlin-iron-jewelry-looked-like-black-lace": {
     "at": "2026-11-20T13:00:00Z",
@@ -3822,7 +3831,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df_DkF5j0w1/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710431191240903943"
+    }
   },
   "253-micromosaic-brooches-hold-thousands-of-glass-tiles": {
     "at": "2026-11-20T14:00:00Z",
@@ -3990,7 +4004,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1465715218983310",
+      "instagram": "https://www.instagram.com/reel/Df-5SKVjTJU/"
+    }
   },
   "266-some-stickpins-were-topped-with-gold-nuggets": {
     "at": "2026-11-19T17:30:00Z",
@@ -4192,7 +4211,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4765810933705345",
+      "instagram": "https://www.instagram.com/reel/Df_APeCkRWv/"
+    }
   },
   "284-hackmanite-changes-color-in-sunlight": {
     "at": "2026-11-20T13:30:00Z",
@@ -4234,14 +4258,25 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1126135020308533",
+      "instagram": "https://www.instagram.com/reel/Df_N9o-jIjY/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710454079851449606",
+      "youtube": "https://www.youtube.com/watch?v=_SxgxvDXuUs"
+    }
   },
   "288-howlite-is-a-white-stone-dyed-blue": {
     "at": "2026-11-21T03:30:00Z",
     "zernio_id": "6aff3464eece9462b914460d",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/Df_RWNwgk2q/"
+    }
   },
   "289-bog-oak-jewelry-comes-from-ancient-trees": {
     "at": "2026-11-21T08:00:00Z",
@@ -4257,7 +4292,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1665186808684467",
+      "instagram": "https://www.instagram.com/reel/Df_G-2kldRs/"
+    }
   },
   "291-aventurine-is-a-gem-named-after-glass": {
     "at": "2026-11-21T09:00:00Z",
@@ -4378,7 +4418,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2619626818450916",
+      "instagram": "https://www.instagram.com/reel/Df_KavwArrW/"
+    }
   },
   "305-bloodstone-is-green-with-red-spots": {
     "at": "2026-11-21T16:00:00Z",
@@ -4646,6 +4691,79 @@
     "zernio_id": "6b00dab9ff10ce88bd41c8c1",
     "platforms": [
       "facebook",
+      "instagram"
+    ]
+  },
+  "338-a-crown-came-to-bath-time": {
+    "at": "2026-11-22T12:30:00Z",
+    "zernio_id": "6b012b41a7d0b69dc2e0a339",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "339-harry-designed-the-ring-himself": {
+    "at": "2026-11-22T13:00:00Z",
+    "zernio_id": "6b012b44a7d0b69dc2e0a34b",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "340-chanel-wore-fake-pearls-on-purpose": {
+    "at": "2026-11-22T13:30:00Z",
+    "zernio_id": "6b012b4848307d41191a0285",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "341-the-hope-diamond-arrived-by-mail": {
+    "at": "2026-11-22T14:00:00Z",
+    "zernio_id": "6b012b4b48307d41191a029d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "342-a-necklace-with-a-working-zipper": {
+    "at": "2026-11-22T14:30:00Z",
+    "zernio_id": "6b012b50178badc8e1bdc477",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "343-taylor-s-diamond-began-as-a-lost-bid": {
+    "at": "2026-11-22T15:00:00Z",
+    "zernio_id": "6b012b5448307d41191a02c7",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "344-a-coronation-gift-needed-its-own-tiara": {
+    "at": "2026-11-22T15:30:00Z",
+    "zernio_id": "6b012b56f50d4d667371a997",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "345-diana-wore-her-sisters-wedding-tiara": {
+    "at": "2026-11-22T16:00:00Z",
+    "zernio_id": "6b012b5aa7d0b69dc2e0a3ba",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "346-a-gold-bar-weighs-about-27-pounds": {
+    "at": "2026-11-22T16:30:00Z",
+    "zernio_id": "6b012b5e48307d41191a02de",
+    "platforms": [
       "instagram"
     ]
   },
