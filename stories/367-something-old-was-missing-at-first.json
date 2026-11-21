@@ -1,0 +1,158 @@
+{
+  "id": "367-something-old-was-missing-at-first",
+  "number": 367,
+  "title": "Something old was missing at first",
+  "style": "jewelbox",
+  "topic": "something old something new something borrowed something blue wedding rhyme earliest known print 1871 st james's magazine marriage superstitions bride elect no something old sixpence in her shoe late victorian richard corbet fairies farewell meanings",
+  "music": "music-367.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "oval",
+    "metal": "platinum",
+    "halo": 10
+  },
+  "hook": {
+    "text": "Something old was missing at first.",
+    "gold": [
+      "old",
+      "missing"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Something old was missing at first.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The rhyme goes: something old, something new, something borrowed, something blue.",
+      "scene": {
+        "kind": "real",
+        "src": "367-something-old-was-missing-at-first-0.jpg",
+        "fit": "card",
+        "label": "A Victorian wedding",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The earliest version we know had no something old.",
+      "scene": {
+        "kind": "piece",
+        "label": "No something old"
+      }
+    },
+    {
+      "text": "It appeared in a magazine story about a worried bride.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A worried bride"
+      }
+    },
+    {
+      "text": "The sixpence in the shoe came later, in late Victorian times.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "aquamarine",
+        "label": "A sixpence in her shoe"
+      }
+    },
+    {
+      "text": "Richard Corbet's 1600s poem already mentioned a sixpence in a shoe.",
+      "say": "Richard Corbet's sixteen hundreds poem already mentioned a sixpence in a shoe.",
+      "scene": {
+        "kind": "title",
+        "text": "Sixpence",
+        "sub": "In her shoe",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "People said old meant her past, and new meant a fresh start.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Old and new"
+      }
+    },
+    {
+      "text": "Borrowed came from a happily married woman, people said.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Something borrowed"
+      }
+    },
+    {
+      "text": "Blue stood for loyalty and faithfulness, people said.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Something blue"
+      }
+    },
+    {
+      "text": "That was London's St James's Magazine in 1871.",
+      "say": "That was London's Saint James's Magazine in eighteen seventy one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "London, 1871"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The wedding rhyme goes: something old, something new, something borrowed, something blue. But the earliest version we know had no something old. It appeared in a magazine story about a worried bride. The sixpence in the shoe came later, in late Victorian times, though Richard Corbet's 1600s poem already mentioned a sixpence in a shoe. People said old meant her past and new meant a fresh start, that borrowed came from a happily married woman, and that blue stood for loyalty and faithfulness. The earliest print we know was in London's St James's Magazine in 1871.",
+    "hashtags": [
+      "#somethingblue",
+      "#weddingtradition",
+      "#bridal",
+      "#victorianwedding",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://phrases.org.uk/meanings/327600.html",
+    "https://www.tilly-online.com/something-old-something-new/",
+    "https://www.mentalfloss.com/literature/poetry/something-old-something-new-full-poem",
+    "https://www.bookbrowse.com/expressions/detail/index.cfm/expression_number/733/something-old-something-new-something-borrowed-something-blue",
+    "https://vam.ac.uk/articles/old-new-borrowed-blue",
+    "https://en.wikipedia.org/wiki/Something_old"
+  ],
+  "images": [
+    {
+      "src": "367-something-old-was-missing-at-first-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Edmund Blair Leighton",
+      "page": "https://commons.wikimedia.org/wiki/File:Edmund_Blair_Leighton_-_Till_Death_Us_Do_Part_(1878-1879).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
