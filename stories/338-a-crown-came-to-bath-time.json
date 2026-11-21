@@ -1,0 +1,180 @@
+{
+  "id": "338-a-crown-came-to-bath-time",
+  "number": 338,
+  "title": "A crown came to bath time",
+  "style": "deco",
+  "topic": "queen elizabeth ii practiced wearing a crown at bath time king charles coronation girls 2024 imperial state crown garrard 1937 george vi just over a kilogram 2868 diamonds cullinan II 317.4 carats state opening of parliament neck would break 2018 documentary",
+  "music": "music-338.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "ruby",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A crown came to bath time.",
+    "gold": [
+      "crown",
+      "bath",
+      "time."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A crown came to bath time.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "King Charles says his mother practiced wearing a crown at bath time.",
+      "scene": {
+        "kind": "real",
+        "src": "338-a-crown-came-to-bath-time-0.jpg",
+        "fit": "card",
+        "label": "Queen Elizabeth II, 1953",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He says you have to get used to how heavy it is.",
+      "scene": {
+        "kind": "title",
+        "text": "Heavy",
+        "sub": "King Charles, 2024",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 10
+      }
+    },
+    {
+      "text": "She wore the Imperial State Crown to leave Westminster Abbey.",
+      "scene": {
+        "kind": "real",
+        "src": "338-a-crown-came-to-bath-time-1.jpg",
+        "fit": "card",
+        "label": "The Imperial State Crown",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Garrard made that crown in 1937 for King George the Sixth.",
+      "say": "Garrard made that crown in nineteen thirty seven for King George the Sixth.",
+      "scene": {
+        "kind": "title",
+        "text": "1937",
+        "sub": "Made by Garrard",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The crown weighs just over a kilogram, about 2.3 pounds.",
+      "say": "The crown weighs just over a kilogram, about two point three pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "Just over a kilogram"
+      }
+    },
+    {
+      "text": "That crown is set with 2,868 diamonds.",
+      "say": "That crown is set with two thousand eight hundred sixty eight diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "2,868",
+        "sub": "Diamonds in one crown",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 18
+      }
+    },
+    {
+      "text": "The front band holds Cullinan II, which weighs 317.4 carats.",
+      "say": "The front band holds Cullinan the second, which weighs three hundred seventeen point four carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Cullinan II, 317.4 carats"
+      }
+    },
+    {
+      "text": "Later she practiced with it before the State Opening of Parliament.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Before Parliament opened"
+      }
+    },
+    {
+      "text": "She once said that if she looked down, her neck would break.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "If she looked down"
+      }
+    }
+  ],
+  "post": {
+    "caption": "King Charles says his mother practiced wearing a crown at bath time, because you have to get used to how heavy it is. The Imperial State Crown, which she wore to leave Westminster Abbey after her coronation, was made by Garrard in 1937 for King George VI. It weighs just over a kilogram, holds 2,868 diamonds and has the 317.4 carat Cullinan II in its front band. In a 2018 documentary she said that if she looked down in a crown, her neck would break.",
+    "hashtags": [
+      "#queenelizabeth",
+      "#crown",
+      "#crownjewels",
+      "#royaljewels",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://itv.com/news/2024-12-08/king-felt-slightly-anxious-about-crown-wobbling-during-his-coronation",
+    "https://lbc.co.uk/news/king-charles-bath-time-queen-elizabeth-crown-practice",
+    "https://www.hellomagazine.com/royalty/734730/king-charles-coronation-anxiety-crown-wobble",
+    "https://www.rct.uk/collection/31701",
+    "https://www.rct.uk/collection/stories/the-crown-jewels-coronation-regalia",
+    "https://garrard.com/int/2022/behind-the-scenes-at-the-coronation-of-queen-elizabeth-ii/",
+    "https://www.hrp.org.uk/tower-of-london/history-and-stories/the-crown-jewels/",
+    "https://www.royal.uk/50-facts-about-queen-elizabeth-iis-coronation",
+    "https://www.hellomagazine.com/fashion/royal-style/850945/queen-elizabeth-secret-wearing-totally-impractical-crown",
+    "https://www.aol.com/articles/queen-elizabeth-practiced-wearing-her-170549517.html",
+    "https://www.hellomagazine.com/fashion/news/462273/the-coronation-queen-elizabeth-crown-dangers",
+    "https://theweek.com/90924/royal-pain-queen-reveals-downside-of-her-65-year-reign"
+  ],
+  "images": [
+    {
+      "src": "338-a-crown-came-to-bath-time-0.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "National Media Museum from UK",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_II_waves_from_the_palace_balcony_after_the_Coronation,_1953.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "338-a-crown-came-to-bath-time-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "User:Aleister Crowley (crop and improvements CSvBibra )",
+      "page": "https://commons.wikimedia.org/wiki/File:Imperial_State_Crown2.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

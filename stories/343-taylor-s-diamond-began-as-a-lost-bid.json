@@ -1,0 +1,180 @@
+{
+  "id": "343-taylor-s-diamond-began-as-a-lost-bid",
+  "number": 343,
+  "title": "Taylor's diamond began as a lost bid",
+  "style": "jewelbox",
+  "topic": "taylor burton diamond richard burton lost auction bid october 23 1969 parke bernet cartier 1050000 limit 1 million 1.1 million 69.42 carats pear 1966 premier mine 240.8 rough scorpio ball princess grace hospital botswana",
+  "music": "music-343.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Taylor's diamond began as a lost bid.",
+    "gold": [
+      "Taylor's",
+      "lost",
+      "bid."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Taylor's diamond began as a lost bid.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Richard Burton had bidders at a New York auction in 1969.",
+      "say": "Richard Burton had bidders at a New York auction in nineteen sixty nine.",
+      "scene": {
+        "kind": "real",
+        "src": "343-taylor-s-diamond-began-as-a-lost-bid-0.jpg",
+        "fit": "cover",
+        "focus": {
+          "x": 0.5,
+          "y": 0.35,
+          "k": 1.0
+        },
+        "label": "Burton and Taylor, 1964",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He told them to stop bidding at $1 million.",
+      "say": "He told them to stop bidding at one million dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "A limit of $1 million"
+      }
+    },
+    {
+      "text": "Cartier won at $1,050,000, just $50,000 over his limit.",
+      "say": "Cartier won at one million fifty thousand dollars, just fifty thousand over his limit.",
+      "scene": {
+        "kind": "title",
+        "text": "$50,000",
+        "sub": "Over his limit",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Burton then bought it from Cartier for $1.1 million.",
+      "say": "Burton then bought it from Cartier for one point one million dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Bought from Cartier"
+      }
+    },
+    {
+      "text": "The rough stone found in 1966 weighed about 241 carats.",
+      "say": "The rough stone found in nineteen sixty six weighed about two hundred forty one carats.",
+      "scene": {
+        "kind": "title",
+        "text": "1966",
+        "sub": "Found in a South African mine",
+        "piece": "rough",
+        "stone": "diamond"
+      }
+    },
+    {
+      "text": "The finished diamond is pear shaped and weighs 69.42 carats.",
+      "say": "The finished diamond is pear shaped and weighs sixty nine point four two carats.",
+      "scene": {
+        "kind": "piece",
+        "label": "69.42 carats, pear shaped"
+      }
+    },
+    {
+      "text": "Taylor first wore it as a ring, then as a necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "First a ring, then a necklace"
+      }
+    },
+    {
+      "text": "She debuted it at Princess Grace's Scorpio Ball in Monaco.",
+      "scene": {
+        "kind": "real",
+        "src": "343-taylor-s-diamond-began-as-a-lost-bid-1.jpg",
+        "fit": "cover",
+        "focus": {
+          "x": 0.5,
+          "y": 0.3,
+          "k": 1.0
+        },
+        "label": "Elizabeth Taylor, about 1955",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Part of the sale helped fund a hospital in Botswana.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 18,
+        "label": "A hospital in Botswana"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Richard Burton set out to buy a big pear shaped diamond at a New York auction in October 1969 and told his bidders to stop at $1 million. Cartier won with $1,050,000, $50,000 more than his limit, and Burton then bought it from Cartier for $1.1 million. The finished diamond weighs 69.42 carats and began as a rough stone of about 241 carats found in 1966. Elizabeth Taylor wore it first as a ring, then as a necklace, and part of the money when she sold it helped fund a hospital in Botswana.",
+    "hashtags": [
+      "#elizabethtaylor",
+      "#richardburton",
+      "#cartier",
+      "#diamond",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/famous-diamonds-taylor-burton-diamond/",
+    "https://elizabethtaylor.com/a-name-that-sparkles-the-stories-behind-the-elizabeth-taylor-diamond-and-the-taylor-burton-diamond/",
+    "https://www.cbsnews.com/news/richard-burton-buys-elizabeth-taylor-70-carat-diamond",
+    "https://www.history.com/this-day-in-history/october-24/burton-buys-liz-a-diamond",
+    "https://www.hellomagazine.com/brides/867370/elizabeth-taylor-audacious-diamond-ring-richard-burton-forced-transform",
+    "https://thediamondcollective.world/historic-diamonds/taylor-burton-diamond/",
+    "https://ca.news.yahoo.com/happened-elizabeth-taylor-jewelry-collection-021104970.html",
+    "https://nationaljeweler.com/articles/79-tracking-down-the-taylor-burton",
+    "https://en.wikipedia.org/wiki/Taylor%E2%80%93Burton_Diamond"
+  ],
+  "images": [
+    {
+      "src": "343-taylor-s-diamond-began-as-a-lost-bid-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "MGM",
+      "page": "https://commons.wikimedia.org/wiki/File:Taylor-Burton-Sandpiper.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "343-taylor-s-diamond-began-as-a-lost-bid-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Studio publicity still",
+      "page": "https://commons.wikimedia.org/wiki/File:Taylor,_Elizabeth_posed.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

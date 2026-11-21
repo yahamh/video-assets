@@ -1,0 +1,155 @@
+{
+  "id": "339-harry-designed-the-ring-himself",
+  "number": 339,
+  "title": "Harry designed the ring himself",
+  "style": "gouache",
+  "topic": "meghan markle engagement ring prince harry designed botswana diamond two small diamonds princess diana collection cleave and company yellow gold band november 27 2017 bbc interview",
+  "music": "music-339.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Harry designed the ring himself.",
+    "gold": [
+      "designed",
+      "ring"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Harry designed the ring himself.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Royal Household said he designed it for Meghan Markle.",
+      "scene": {
+        "kind": "piece",
+        "label": "The engagement ring, 2017"
+      }
+    },
+    {
+      "text": "Harry said he sourced the main stone from Botswana.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "label": "A diamond from Botswana"
+      }
+    },
+    {
+      "text": "Kensington Palace said the couple had spent time there together.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Time together in Botswana"
+      }
+    },
+    {
+      "text": "Two smaller diamonds sit on either side of the main stone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Two small diamonds"
+      }
+    },
+    {
+      "text": "Those two came from the jewelry collection of Harry's mother, Diana.",
+      "scene": {
+        "kind": "real",
+        "src": "339-harry-designed-the-ring-himself-0.jpg",
+        "fit": "card",
+        "label": "Diana and Charles, 1983",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Meghan said it mattered to know Diana is a part of this.",
+      "scene": {
+        "kind": "title",
+        "text": "Diana",
+        "sub": "In their BBC interview",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The band is yellow gold, which Harry said is her favorite.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "Yellow gold"
+      }
+    },
+    {
+      "text": "Cleave and Company, then jewelers to the Queen, made the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "Cleave and Company"
+      }
+    },
+    {
+      "text": "They announced their engagement on November 27, 2017.",
+      "say": "They announced their engagement on November twenty seventh, twenty seventeen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "November 27, 2017"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Royal Household said Prince Harry designed Meghan Markle's engagement ring himself. Harry said he sourced the main diamond from Botswana, a place the couple had spent time together. The two smaller diamonds on either side came from his mother Princess Diana's jewelry collection, and the band is yellow gold. Cleave and Company, then jewelers to the Queen, made it. The couple announced their engagement on November 27, 2017.",
+    "hashtags": [
+      "#meghanmarkle",
+      "#princeharry",
+      "#engagementring",
+      "#princessdiana",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://abc13.com/post/markles-engagement-ring-has-diamonds-from-diana/2701960/",
+    "https://www.euronews.com/2017/11/27/a-closer-look-at-meghan-markle-s-engagement-ring",
+    "https://www.goodmorningamerica.com/news/story/full-transcript-prince-harry-meghan-markles-engagement-interview-51415779",
+    "https://www.irishexaminer.com/world/arid-30815969.html",
+    "https://www.sbs.com.au/news/article/dianas-diamonds-used-for-markles-ring/tmqelvy7g",
+    "https://www.countryandtownhouse.com/style/jewellery-and-watches/meghan-markle-engagement-ring-history/"
+  ],
+  "images": [
+    {
+      "src": "339-harry-designed-the-ring-himself-0.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "Queensland State Archives",
+      "page": "https://commons.wikimedia.org/wiki/File:Charles_and_Diana_1983.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

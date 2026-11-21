@@ -1,0 +1,164 @@
+{
+  "id": "340-chanel-wore-fake-pearls-on-purpose",
+  "number": 340,
+  "title": "Chanel wore fake pearls on purpose",
+  "style": "jewelbox",
+  "topic": "coco chanel real and imitation pearls worn together on purpose layered long necklaces hallmark costume jewelry 1920s ornament and an amusement met museum v and a necklace 1959",
+  "music": "music-340.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "cream",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Chanel wore fake pearls on purpose.",
+    "gold": [
+      "fake",
+      "pearls",
+      "purpose."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Chanel wore fake pearls on purpose.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Gabrielle Chanel, called Coco, wore real pearls and imitation pearls together.",
+      "scene": {
+        "kind": "real",
+        "src": "340-chanel-wore-fake-pearls-on-purpose-0.jpg",
+        "fit": "card",
+        "label": "Coco Chanel, 1920s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She often layered several long necklaces over otherwise simple outfits.",
+      "scene": {
+        "kind": "title",
+        "text": "Layered",
+        "sub": "Over simple outfits",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "A long necklace was a hallmark of her style, the house says.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "platinum",
+        "label": "A long necklace"
+      }
+    },
+    {
+      "text": "The V and A says imitation pearls became a Chanel signature.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "rose",
+        "label": "Imitation pearls"
+      }
+    },
+    {
+      "text": "From the 1920s, jewelry was central to her design vocabulary.",
+      "say": "From the nineteen twenties, jewelry was central to her design vocabulary.",
+      "scene": {
+        "kind": "title",
+        "text": "1920s",
+        "sub": "Jewelry becomes central",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Her work helped raise the status of costume jewelry in fashion.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Costume jewelry, raised"
+      }
+    },
+    {
+      "text": "She is quoted saying it must remain an ornament and an amusement.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "platinum",
+        "label": "An ornament and an amusement"
+      }
+    },
+    {
+      "text": "The Met keeps a Chanel necklace with faux pearls from about 1959.",
+      "say": "The Met keeps a Chanel necklace with faux pearls from about nineteen fifty nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "rose",
+        "label": "The Met, about 1959"
+      }
+    },
+    {
+      "text": "The V and A holds an imitation pearl necklace from 1959 too.",
+      "say": "The V and A holds an imitation pearl necklace from nineteen fifty nine too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "The V and A, 1959"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Coco Chanel wore real pearls and imitation pearls together on purpose, layering long necklaces over simple outfits. The V and A calls imitation pearls a particular Chanel hallmark, and from the 1920s jewelry was central to her designs. Her work helped raise the status of costume jewelry, and she is quoted saying it must remain an ornament and an amusement. The Met and the V and A both keep Chanel necklaces with imitation pearls from about 1959.",
+    "hashtags": [
+      "#cocochanel",
+      "#chanel",
+      "#pearls",
+      "#costumejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/iconic-vintage-chanel-necklaces-to-layer-like-coco",
+    "https://www.sothebys.com/en/articles/chanel-jewelry-considered-radical-in-the-1920s-modern-collectible-today",
+    "https://www.ngv.vic.gov.au/exhibition/gabrielle-chanel-fashion-manifesto/",
+    "https://www.vam.ac.uk/articles/what-makes-chanel-so-iconic",
+    "https://www.chanel.com/gb/fine-jewellery/the-chanel-style-guide/",
+    "https://www.metmuseum.org/art/collection/search/137982",
+    "https://www.metmuseum.org/art/collection/search/101454",
+    "https://doyle.com/story/costume-jewelry-chanel--gripoix",
+    "https://classicchicagomagazine.com/?p=151392",
+    "https://www.tatlerasia.com/style/jewellery/gabrielle-coco-chanel-redefined-jewellery-faux-pearls-female-empowerment",
+    "https://style.time.com/2013/02/04/5-things-coco-chanel-taught-us-about-style/slide/costume-jewelry-can-be-just-as-fun-as-the-real-thing"
+  ],
+  "images": [
+    {
+      "src": "340-chanel-wore-fake-pearls-on-purpose-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Dmitriy_Pavlovich_of_Russia_and_Coco_Chanel.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

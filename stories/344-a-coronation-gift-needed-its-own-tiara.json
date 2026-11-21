@@ -1,0 +1,157 @@
+{
+  "id": "344-a-coronation-gift-needed-its-own-tiara",
+  "number": 344,
+  "title": "A coronation gift needed its own tiara",
+  "style": "deco",
+  "topic": "queen elizabeth ii brazilian aquamarine parure 1953 coronation gift necklace earrings nine aquamarines garrard tiara 1957 bandeau royal film performance les girls 1958 bracelet brooch 1971 enlarged spanish state banquet 2017",
+  "music": "music-344.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "aquamarine",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A coronation gift needed its own tiara.",
+    "gold": [
+      "coronation",
+      "gift",
+      "tiara."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A coronation gift needed its own tiara.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Brazil's president gave the Queen a necklace and earrings in 1953.",
+      "say": "Brazil's president gave the Queen a necklace and earrings in nineteen fifty three.",
+      "scene": {
+        "kind": "real",
+        "src": "344-a-coronation-gift-needed-its-own-tiara-0.jpg",
+        "fit": "card",
+        "label": "Queen Elizabeth II, 1953",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The necklace has nine large aquamarines set with diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "Nine large aquamarines"
+      }
+    },
+    {
+      "text": "In 1957 the Queen asked Garrard for a tiara to match.",
+      "say": "In nineteen fifty seven the Queen asked Garrard for a tiara to match.",
+      "scene": {
+        "kind": "title",
+        "text": "1957",
+        "sub": "A matching tiara",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It was a bandeau with three upright aquamarines set in diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "petals": 12,
+        "metal": "platinum",
+        "label": "Three upright aquamarines"
+      }
+    },
+    {
+      "text": "She wore the whole set to a Royal Film Performance in London.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "metal": "platinum",
+        "halo": 12,
+        "label": "A film premiere"
+      }
+    },
+    {
+      "text": "Brazil added a bracelet and a brooch in 1958.",
+      "say": "Brazil added a bracelet and a brooch in nineteen fifty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1958",
+        "sub": "A bracelet and a brooch",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 1971 Garrard made the tiara much larger with extra aquamarine ornaments.",
+      "say": "In nineteen seventy one Garrard made the tiara much larger with extra aquamarine ornaments.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "label": "Much larger in 1971"
+      }
+    },
+    {
+      "text": "She was last photographed in the tiara at a 2017 state banquet.",
+      "say": "She was last photographed in the tiara at a twenty seventeen state banquet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "Last photographed in 2017"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1953 the President of Brazil gave Queen Elizabeth II an aquamarine necklace and earrings as a coronation gift. In 1957 she asked Garrard for a matching tiara, a bandeau with three upright aquamarines in diamonds, and wore the whole set to a Royal Film Performance in London. Brazil added a bracelet and a brooch in 1958, and in 1971 Garrard made the tiara much larger. She was last photographed in it at a state banquet in July 2017.",
+    "hashtags": [
+      "#queenelizabeth",
+      "#aquamarine",
+      "#tiara",
+      "#garrard",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://garrard.com/en/2025/queen-elizabeth-iis-brazilian-aquamarine-tiara-a-homage-to-brazil/",
+    "https://royalcentral.co.uk/uk/the-queens-reign-in-jewels-the-aquamarine-parure-176656/",
+    "https://thecourtjeweller.com/page/774?m=0",
+    "https://thecourtjeweller.com/2023/03/bejeweled-battle-queen-elizabeth-iis-original-aquamarine-tiara.html",
+    "https://royal-magazin.de/england/queen/aquamarine-parure-queen.htm",
+    "https://hellomagazine.com/fashion/royal-style/713873/queen-elizabeth-forgotten-about-tiaras-royal-jewels"
+  ],
+  "images": [
+    {
+      "src": "344-a-coronation-gift-needed-its-own-tiara-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Royal Collection RCIN 2153177",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_on_her_Coronation_Day_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

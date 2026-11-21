@@ -1,0 +1,164 @@
+{
+  "id": "345-diana-wore-her-sisters-wedding-tiara",
+  "number": 345,
+  "title": "Diana wore her sisters' wedding tiara",
+  "style": "gouache",
+  "topic": "princess diana spencer tiara wedding july 29 1981 spencer family heirloom sisters jane 1978 sarah 1980 central heart 1919 wedding present cynthia garrard remodeled 1930s diamonds gold borrowed from her father niece celia mccorquodale 2018 wedding",
+  "music": "music-345.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "morganite",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Diana wore her sisters' wedding tiara.",
+    "gold": [
+      "Diana",
+      "sisters'",
+      "tiara."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diana wore her sisters' wedding tiara.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Diana wore it at her wedding on July 29, 1981.",
+      "say": "Diana wore it at her wedding on July twenty ninth, nineteen eighty one.",
+      "scene": {
+        "kind": "real",
+        "src": "345-diana-wore-her-sisters-wedding-tiara-0.jpg",
+        "fit": "card",
+        "label": "Wedding day, 1981",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It belonged to the Spencer family, not the royal collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "halo": 14,
+        "label": "A Spencer heirloom"
+      }
+    },
+    {
+      "text": "Her sisters wore it first, Jane in 1978 and Sarah in 1980.",
+      "say": "Her sisters wore it first, Jane in nineteen seventy eight and Sarah in nineteen eighty.",
+      "scene": {
+        "kind": "title",
+        "text": "1978 and 1980",
+        "sub": "Her sisters' weddings",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Its center heart was a 1919 wedding present to Diana's grandmother.",
+      "say": "Its center heart was a nineteen nineteen wedding present to Diana's grandmother.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "heart",
+        "label": "A 1919 wedding present"
+      }
+    },
+    {
+      "text": "In the 1930s Garrard remodeled it into a garland of diamonds.",
+      "say": "In the nineteen thirties Garrard remodeled it into a garland of diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 12,
+        "metal": "yellow",
+        "label": "Remodeled by Garrard"
+      }
+    },
+    {
+      "text": "The diamonds are mounted in gold around a central heart.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "label": "Mounted in gold"
+      }
+    },
+    {
+      "text": "Diana kept wearing it on important occasions after her wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Worn on important occasions"
+      }
+    },
+    {
+      "text": "Her father kept lending it to her after the wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Lent by her father"
+      }
+    },
+    {
+      "text": "In 2018 her niece Celia wore it at her own wedding.",
+      "say": "In twenty eighteen her niece Celia wore it at her own wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 16,
+        "label": "Worn again in 2018"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Princess Diana wore the Spencer tiara on her wedding day, July 29, 1981. It is a Spencer family heirloom, and her sisters Jane in 1978 and Sarah in 1980 wore it at their weddings first. Its center heart was a 1919 wedding present to Diana's grandmother, and Garrard remodeled it in the 1930s. Her father kept lending it to her, and in 2018 her niece Celia wore it at her own wedding.",
+    "hashtags": [
+      "#princessdiana",
+      "#spencertiara",
+      "#tiara",
+      "#royalwedding",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/digital-catalogues/power-image-royal-aristocratic-tiaras/the-spencer-tiara-r-s-garrard-1930s",
+    "https://garrard.com/eu/2024/the-modern-history-of-princess-dianas-wedding-tiara/",
+    "https://www.theknot.com/content/princess-diana-wedding-tiara",
+    "https://history.com/news/prince-charles-lady-diana-wedding",
+    "https://abc13.com/princess-diana-wedding-day-prince-charles-marriage-royal/3450886/"
+  ],
+  "images": [
+    {
+      "src": "345-diana-wore-her-sisters-wedding-tiara-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "United Press International",
+      "page": "https://commons.wikimedia.org/wiki/File:Wedding_of_Charles_and_Lady_Diana.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

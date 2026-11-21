@@ -1,0 +1,177 @@
+{
+  "id": "346-a-gold-bar-weighs-about-27-pounds",
+  "number": 346,
+  "title": "A gold bar weighs about 27 pounds",
+  "style": "jewelbox",
+  "topic": "standard gold bar london good delivery lbma 400 troy ounces 12.4 kilograms 27 pounds 99.5 percent pure trapezoid 350 to 430 ounces worth over a million dollars bank of england 400000 bars",
+  "music": "music-346.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow",
+    "stone": "peridot"
+  },
+  "hook": {
+    "text": "A gold bar weighs about 27 pounds.",
+    "gold": [
+      "gold",
+      "bar",
+      "pounds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A gold bar weighs about 27 pounds.",
+      "say": "A gold bar weighs about twenty seven pounds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A standard bank bar holds about 400 troy ounces of gold.",
+      "say": "A standard bank bar holds about four hundred troy ounces of gold.",
+      "scene": {
+        "kind": "real",
+        "src": "346-a-gold-bar-weighs-about-27-pounds-0.jpg",
+        "fit": "card",
+        "label": "A 400 ounce gold bar",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "That is about 12.4 kilograms, or 27 pounds.",
+      "say": "That is about twelve point four kilograms, or twenty seven pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "About 12.4 kilograms"
+      }
+    },
+    {
+      "text": "The standard is called Good Delivery and the LBMA sets it.",
+      "say": "The standard is called Good Delivery and the L B M A sets it.",
+      "scene": {
+        "kind": "title",
+        "text": "Good Delivery",
+        "sub": "Set by the LBMA",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "topaz"
+      }
+    },
+    {
+      "text": "Each bar must be at least 99.5 percent pure gold.",
+      "say": "Each bar must be at least ninety nine point five percent pure gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "At least 99.5 percent pure"
+      }
+    },
+    {
+      "text": "A bar is roughly 8 to 11 inches long.",
+      "say": "A bar is roughly eight to eleven inches long.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "8 to 11 inches long"
+      }
+    },
+    {
+      "text": "It has a trapezoid shape, wider at the bottom than the top.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "A trapezoid shape"
+      }
+    },
+    {
+      "text": "The allowed range is 350 to 430 troy ounces.",
+      "say": "The allowed range is three hundred fifty to four hundred thirty troy ounces.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "350 to 430 ounces"
+      }
+    },
+    {
+      "text": "One bar is now worth more than a million dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "yellow",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "Over a million dollars"
+      }
+    },
+    {
+      "text": "The Bank of England's vaults hold about 400,000 of these bars.",
+      "say": "The Bank of England's vaults hold about four hundred thousand of these bars.",
+      "scene": {
+        "kind": "real",
+        "src": "346-a-gold-bar-weighs-about-27-pounds-1.jpg",
+        "fit": "card",
+        "label": "A 12.5 kilogram ingot",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A standard bank gold bar holds about 400 troy ounces, about 12.4 kilograms or 27 pounds. The London Bullion Market Association sets the Good Delivery standard: at least 99.5 percent pure gold, roughly 8 to 11 inches long, with a trapezoid shape and a weight between 350 and 430 troy ounces. One bar is now worth more than a million dollars, and the Bank of England's vaults hold about 400,000 of them.",
+    "hashtags": [
+      "#gold",
+      "#goldbar",
+      "#bullion",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.lbma.org.uk/publications/good-delivery-rules/technical-specifications",
+    "https://www.stonex.com/en/business/financial-glossary/good-delivery-gold/",
+    "https://www.bullionvault.com/How/GoldBar",
+    "https://www.kansascityfed.org/moneymuseum/gold-bar/",
+    "https://www.stlouisfed.org/open-vault/2020/march/lift-real-gold-bar-exhibit-museum",
+    "https://www.kitco.com/news/article/2024-08-20/gold-market-hits-milestone-iconic-400oz-bar-now-worth-1-million",
+    "https://www.cbsnews.com/news/how-much-400-ounce-gold-bar-is-worth-in-todays-market-february-2026/",
+    "https://www.royalmint.com/invest/bullion/bullion-bars/gold-bars/400oz-gold-bar-cast/",
+    "https://www.bankofengland.co.uk/explainers/how-much-gold-is-kept-in-the-bank-of-england",
+    "https://www.lbma.org.uk/wonders-of-gold/items/bank-of-england-gold-vault"
+  ],
+  "images": [
+    {
+      "src": "346-a-gold-bar-weighs-about-27-pounds-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Szaaman",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_bullion_1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "346-a-gold-bar-weighs-about-27-pounds-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Rudolph.A.furtado",
+      "page": "https://commons.wikimedia.org/wiki/File:Laying_your_hand_on_'12.5Kg'_Gold_Ingot..JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

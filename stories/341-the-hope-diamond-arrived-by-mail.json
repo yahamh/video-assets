@@ -1,0 +1,174 @@
+{
+  "id": "341-the-hope-diamond-arrived-by-mail",
+  "number": 341,
+  "title": "The Hope Diamond arrived by mail",
+  "style": "deco",
+  "topic": "hope diamond mailed smithsonian harry winston november 1958 registered mail brown paper postage 2.44 insurance 1 million 145.29 61 ounces james todd leonard carmichael national gem collection",
+  "music": "music-341.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "blue",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "The Hope Diamond arrived by mail.",
+    "gold": [
+      "Hope",
+      "Diamond",
+      "mail."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Hope Diamond arrived by mail.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Harry Winston mailed it to the Smithsonian in November 1958.",
+      "say": "Harry Winston mailed it to the Smithsonian in November nineteen fifty eight.",
+      "scene": {
+        "kind": "real",
+        "src": "341-the-hope-diamond-arrived-by-mail-0.jpg",
+        "fit": "card",
+        "label": "The Hope Diamond",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It went by registered mail, wrapped in brown paper.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "Registered mail"
+      }
+    },
+    {
+      "text": "Only $2.44 of the bill was postage.",
+      "say": "Only two dollars and forty four cents of the bill was postage.",
+      "scene": {
+        "kind": "title",
+        "text": "$2.44",
+        "sub": "The postage",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 10
+      }
+    },
+    {
+      "text": "The rest paid for insurance of $1 million.",
+      "say": "The rest paid for insurance of one million dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "blue",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Insured for $1 million"
+      }
+    },
+    {
+      "text": "The package weighed 61 ounces with all its packing.",
+      "say": "The package weighed sixty one ounces with all its packing.",
+      "scene": {
+        "kind": "title",
+        "text": "61 ounces",
+        "sub": "Packing included",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Letter carrier James Todd brought it to the Smithsonian on November 10.",
+      "say": "Letter carrier James Todd brought it to the Smithsonian on November tenth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "James Todd, letter carrier"
+      }
+    },
+    {
+      "text": "Secretary Leonard Carmichael received it for the Smithsonian.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "blue",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 12,
+        "label": "Leonard Carmichael"
+      }
+    },
+    {
+      "text": "It became the cornerstone of the National Gem Collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "blue",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "The National Gem Collection"
+      }
+    },
+    {
+      "text": "The full bill was $145.29 for a diamond insured at $1 million.",
+      "say": "The full bill was one hundred forty five dollars and twenty nine cents for a diamond insured at one million dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 18,
+        "label": "$145.29 to ship it"
+      }
+    }
+  ],
+  "post": {
+    "caption": "On November 8, 1958, Harry Winston mailed the Hope Diamond from New York to the Smithsonian in Washington. It went by registered first class mail, wrapped in brown paper. Postage was only $2.44, the rest of the $145.29 bill was insurance for $1 million, and the package weighed 61 ounces with its packing. Letter carrier James Todd delivered it on November 10, and it became the cornerstone of the National Gem Collection.",
+    "hashtags": [
+      "#hopediamond",
+      "#smithsonian",
+      "#harrywinston",
+      "#bluediamond",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://postalmuseum.si.edu/delivering-the-hope-diamond",
+    "https://about.usps.com/who/profile/history/pdf/hope-diamond.pdf",
+    "https://si.edu/newsdesk/snapshot/hope-diamond-mail-wrapper",
+    "https://www.si.edu/object/hope-diamond-wrapper:npm_1992.2002.15",
+    "https://torch.si.edu/2019/11/november-10-1958-2",
+    "https://siarchives.si.edu/collections/siris_sic_12323",
+    "https://siarchives.si.edu/collections/siris_sic_12324",
+    "https://news.mineralogicalsocietyofdc.org/the-hope-diamond-cursed-gem/",
+    "https://www.nashuatelegraph.com/archive/2022/09/08/holy-cow-history-how-harry-sent-the-hope-diamond/",
+    "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2025/06/03/how-the-king-of-diamonds-gave-the-national-museum-of-natural-history-its-crown-jewel/",
+    "https://www.harrywinston.com/en/the-house/mr-winston",
+    "https://music.si.edu/spotlight/hope-diamond/history"
+  ],
+  "images": [
+    {
+      "src": "341-the-hope-diamond-arrived-by-mail-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Hope_Diamond_-_SIA.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

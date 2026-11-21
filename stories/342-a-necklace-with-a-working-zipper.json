@@ -1,0 +1,161 @@
+{
+  "id": "342-a-necklace-with-a-working-zipper",
+  "number": 342,
+  "title": "A necklace with a working zipper",
+  "style": "gouache",
+  "topic": "van cleef arpels zip necklace duchess of windsor idea 1938 first zip early 1950s working zipper necklace bracelet more than a decade cooper hewitt set in style 2011 margot robbie 2015 oscars phillips geneva may 2026 619200 swiss francs",
+  "music": "music-342.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "citrine",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A necklace with a working zipper.",
+    "gold": [
+      "necklace",
+      "working",
+      "zipper."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A necklace with a working zipper.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Duchess of Windsor suggested the idea around 1938.",
+      "say": "The Duchess of Windsor suggested the idea around nineteen thirty eight.",
+      "scene": {
+        "kind": "piece",
+        "label": "The Zip necklace"
+      }
+    },
+    {
+      "text": "It took Van Cleef and Arpels more than a decade to perfect.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "More than a decade"
+      }
+    },
+    {
+      "text": "The first Zip necklace was finished in the early 1950s.",
+      "say": "The first Zip necklace was finished in the early nineteen fifties.",
+      "scene": {
+        "kind": "title",
+        "text": "1950s",
+        "sub": "The first Zip",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Zips were made of gold or platinum with diamonds or colored stones.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Gold, platinum and gems"
+      }
+    },
+    {
+      "text": "Slide the zipper open and it hangs as a necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A necklace when open"
+      }
+    },
+    {
+      "text": "Remove the back section and it zips shut as a bracelet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A bracelet when shut"
+      }
+    },
+    {
+      "text": "In 2011 the Smithsonian's Cooper Hewitt museum showed Zip jewelry.",
+      "say": "In twenty eleven the Smithsonian's Cooper Hewitt museum showed Zip jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Set in Style, 2011"
+      }
+    },
+    {
+      "text": "Margot Robbie wore a diamond and sapphire Zip to the 2015 Oscars.",
+      "say": "Margot Robbie wore a diamond and sapphire Zip to the twenty fifteen Oscars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Diamonds and sapphires"
+      }
+    },
+    {
+      "text": "In May 2026 a 2012 Zip necklace sold for 619,200 Swiss francs.",
+      "say": "In May twenty twenty six a twenty twelve Zip necklace sold for six hundred nineteen thousand two hundred Swiss francs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Sold in Geneva, May 2026"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Zip necklace from Van Cleef and Arpels has a working zipper. The idea is credited to the Duchess of Windsor around 1938, and it took the house more than a decade to perfect before the first Zip was finished in the early 1950s. Slide the zipper open and it hangs as a necklace. Remove the back section and it zips shut as a bracelet. In May 2026 a 2012 Zip necklace sold for 619,200 Swiss francs.",
+    "hashtags": [
+      "#vancleefarpels",
+      "#zipnecklace",
+      "#highjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.vancleefarpels.com/en/the-maison/the-heritage-gallery/zip.html",
+    "https://www.vancleefarpels.com/tw/en/the-maison/timeline/1950s.html",
+    "https://the-collection.vancleefarpels.com/en/creation/zip-necklace-transformable-into-a-bracelet/",
+    "https://www.sothebys.com/en/articles/icons-of-design-van-cleef-arpels",
+    "https://www.sothebys.com/en/articles/van-cleef-arpels-legendary-zip-necklace",
+    "https://www.phillips.com/article/50055193/van-cleef-and-arpels-zip-necklace-bracelet",
+    "https://www.christies.com.cn/en/lot/lot-6566303",
+    "https://dashboard.si.edu/newsdesk/releases/smithsonian-s-cooper-hewitt-national-design-museum-present-set-style-jewelry-van-cleef-arpe",
+    "https://www.artnet.com/magazineus/reviews/mason/van-cleef-and-arpels2-17-11.asp",
+    "https://www.icon-icon.com/en/the-van-cleef-arpels-zip-necklace/",
+    "https://theadventurine.com/culture/jewelry-history/the-story-of-van-cleef-arpels-zip-necklace",
+    "https://www.phillips.com/press/release/phillips-geneva-jewels-auction-vi-achieves-over-chf-54-million-us-7-million",
+    "https://rapaport.com/news/van-cleef-arpels-necklace-beats-high-estimate-at-phillips/"
+  ],
+  "images": [],
+  "no_real_image": "No free picture of a Zip necklace exists on Wikimedia Commons or the Met's Open Access, so the story uses drawn pieces only."
+}
