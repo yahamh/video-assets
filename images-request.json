@@ -1,119 +1,140 @@
 {
  "queries": [
   {
-   "key": "e-crown",
+   "key": "f-victoria",
    "commons": [
-    "Imperial State Crown",
-    "Coronation of Elizabeth II 1953",
-    "Elizabeth II coronation portrait Cecil Beaton",
-    "Queen Elizabeth II 1953 crown"
+    "Queen Victoria coronation 1838",
+    "Queen Victoria coronation ring",
+    "Coronation of Queen Victoria Hayter",
+    "Queen Victoria young portrait"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-taylor",
+   "key": "f-monroe",
    "commons": [
-    "Elizabeth Taylor 1950s",
-    "Elizabeth Taylor Richard Burton 1960s",
-    "Taylor-Burton diamond",
-    "Elizabeth Taylor Cleopatra 1963"
+    "Marilyn Monroe Gentlemen Prefer Blondes",
+    "Marilyn Monroe Diamonds Are a Girl's Best Friend",
+    "Marilyn Monroe 1953",
+    "Marilyn Monroe publicity photo"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-hope",
+   "key": "f-kate",
    "commons": [
-    "Hope Diamond Smithsonian",
-    "Harry Winston Hope diamond",
-    "Hope Diamond National Museum of Natural History",
-    "Hope Diamond 1958 Smithsonian"
+    "Catherine Duchess of Cambridge wedding earrings",
+    "Wedding of Prince William and Catherine Middleton",
+    "Kate Middleton wedding dress 2011",
+    "Catherine Middleton Westminster Abbey 2011"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-jonker",
+   "key": "f-lover",
    "commons": [
-    "Jonker diamond",
-    "Harry Winston jeweler",
-    "Jonker diamond cutting",
-    "Elandsfontein Premier Mine diamond 1934"
+    "Lover's Knot tiara",
+    "Queen Mary Lover's Knot tiara",
+    "Diana Princess of Wales Lover's Knot tiara",
+    "Duchess of Cambridge Lover's Knot tiara"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-zip",
+   "key": "f-glasgow",
    "commons": [
-    "Van Cleef Arpels Zip necklace",
-    "Duchess of Windsor jewels",
-    "Zip necklace Van Cleef"
+    "Glasgow coat of arms",
+    "Glasgow City Chambers coat of arms",
+    "Saint Mungo Glasgow salmon ring",
+    "Glasgow Cathedral St Mungo"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-chanel",
+   "key": "f-centenary",
    "commons": [
-    "Coco Chanel 1920s",
-    "Coco Chanel pearls",
-    "Gabrielle Chanel portrait 1936",
-    "Chanel pearl necklace"
+    "Centenary Diamond",
+    "De Beers Centenary Diamond",
+    "Premier Mine Cullinan diamond",
+    "Cullinan Mine South Africa"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-jackie",
+   "key": "f-lesedi",
    "commons": [
-    "Jacqueline Kennedy pearls 1961",
-    "Jacqueline Kennedy inauguration 1961",
-    "Jackie Kennedy pearl necklace"
+    "Lesedi La Rona",
+    "Karowe diamond mine",
+    "Lucara Diamond 1109 carat",
+    "Botswana diamond"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-gold",
+   "key": "f-mold",
    "commons": [
-    "Gold bar 400 ounce",
-    "Good delivery gold bar",
-    "Gold bars",
-    "Gold ingot"
+    "Mold gold cape",
+    "Mold cape British Museum",
+    "Mold Gold Cape Bronze Age"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-spencer",
+   "key": "f-panagy",
    "commons": [
-    "Diana Princess of Wales wedding 1981 tiara",
-    "Spencer tiara",
-    "Althorp House",
-    "Lady Diana Spencer 1981"
+    "Panagyurishte Treasure",
+    "Panagyurishte gold treasure rhyton",
+    "Panagyurishte treasure Thracian gold"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-aqua",
+   "key": "f-lunula",
    "commons": [
-    "Brazilian aquamarine tiara",
-    "Queen Elizabeth II Brazil 1968",
-    "aquamarine crystal",
-    "Queen Elizabeth II 1953 portrait"
+    "Gold lunula Ireland",
+    "Irish gold lunula",
+    "Lunula Bronze Age gold Ireland National Museum"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-rhyme",
+   "key": "f-carpet",
    "commons": [
-    "Victorian wedding 1870s photograph",
-    "sixpence coin Victoria",
-    "bride 1880 photograph wedding dress"
+    "Pearl Carpet of Baroda",
+    "Baroda pearl carpet",
+    "Khanderao Gaekwad Baroda"
    ],
-   "max": 8
+   "max": 7
   },
   {
-   "key": "e-jwaneng",
+   "key": "f-sutter",
    "commons": [
-    "Jwaneng diamond mine",
-    "Botswana diamond rough"
+    "Sutter's Mill",
+    "James W. Marshall gold discovery",
+    "California Gold Rush 1849",
+    "Marshall Gold Discovery State Historic Park"
    ],
-   "max": 8
+   "max": 7
+  },
+  {
+   "key": "f-abernethy",
+   "commons": [
+    "Abernethy pearl",
+    "Scottish freshwater pearl",
+    "Freshwater pearl mussel River Tay",
+    "Scottish pearl crown jewels"
+   ],
+   "max": 7
+  },
+  {
+   "key": "f-rhyme",
+   "commons": [
+    "Something old something new wedding",
+    "Sixpence in her shoe",
+    "Victorian bride 1880s wedding",
+    "Wedding garter bride"
+   ],
+   "max": 7
   }
  ]
 }
