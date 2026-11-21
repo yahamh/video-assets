@@ -4553,7 +4553,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1140372842296220",
+      "instagram": "https://www.instagram.com/reel/DgAxe8vnSzu/"
+    }
   },
   "309-sea-glass-takes-decades-to-frost": {
     "at": "2026-11-21T18:00:00Z",
@@ -5027,6 +5032,16 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "367-something-old-was-missing-at-first": {
+    "at": "2026-11-23T03:00:00Z",
+    "zernio_id": "6b01d9db851964004352cd26",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
