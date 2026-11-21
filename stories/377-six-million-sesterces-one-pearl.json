@@ -1,0 +1,177 @@
+{
+  "id": "377-six-million-sesterces-one-pearl",
+  "number": 377,
+  "title": "Six million sesterces, one pearl",
+  "style": "deco",
+  "topic": "julius caesar pearl servilia suetonius six million sesterces first consulship 59 bc marcus brutus mother legionary pay 900 sesterces doubled legions more than 6000 years of pay servilia's pearl pearls law rank age",
+  "music": "music-377.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "cream",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Six million sesterces, one pearl.",
+    "gold": [
+      "million",
+      "pearl."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Six million sesterces, one pearl.",
+      "say": "Six million ses ter seez, one pearl.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Roman writer Suetonius says Caesar loved Servilia above all others.",
+      "say": "Roman writer Sweh toh nee us says Caesar loved Servilia above all others.",
+      "scene": {
+        "kind": "real",
+        "src": "377-six-million-sesterces-one-pearl-0.jpg",
+        "fit": "card",
+        "label": "Julius Caesar",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Servilia was the mother of Marcus Brutus.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Servilia"
+      }
+    },
+    {
+      "text": "In his first consulship, 59 BC, he bought her a pearl.",
+      "say": "In his first consulship, fifty nine B C, he bought her a pearl.",
+      "scene": {
+        "kind": "piece",
+        "label": "A pearl for Servilia"
+      }
+    },
+    {
+      "text": "It cost six million sesterces.",
+      "say": "It cost six million ses ter seez.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Six million sesterces"
+      }
+    },
+    {
+      "text": "Caesar doubled a legionary's pay to about 900 sesterces a year.",
+      "say": "Caesar doubled a legionary's pay to about nine hundred ses ter seez a year.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "sapphire",
+        "label": "A soldier's pay"
+      }
+    },
+    {
+      "text": "So the pearl cost more than 6,000 years of a soldier's pay.",
+      "say": "So the pearl cost more than six thousand years of a soldier's pay.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "6,000 years of pay"
+      }
+    },
+    {
+      "text": "Suetonius wrote it down well over a century later.",
+      "say": "Sweh toh nee us wrote it down well over a century later.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Written down later"
+      }
+    },
+    {
+      "text": "Nobody knows where the pearl came from.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Origin unknown"
+      }
+    },
+    {
+      "text": "Historians call it Servilia's pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "Servilia's",
+        "sub": "Pearl",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Caesar also limited pearls to people of a set rank and age.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "A law on pearls"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Six million sesterces, one pearl. The Roman writer Suetonius says Julius Caesar loved Servilia above all others. Servilia was the mother of Marcus Brutus, and in his first consulship, 59 BC, Caesar bought her a pearl. It cost six million sesterces. Caesar doubled a legionary's pay to about 900 sesterces a year, so the pearl cost more than 6,000 years of a soldier's pay. Suetonius wrote it down well over a century later, and nobody knows where the pearl came from. Historians call it Servilia's pearl. Caesar also limited pearls to people of a set rank and age.",
+    "hashtags": [
+      "#juliuscaesar",
+      "#servilia",
+      "#pearls",
+      "#ancientrome",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://lexundria.com/suet_jul/50/",
+    "https://sourcebooks.web.fordham.edu/ancient/suetonius-julius.asp",
+    "https://atlas.perseus.tufts.edu/library/passage/urn:cts:latinLit:phi1348.abo011.perseus-eng2:46-50/text",
+    "https://www.britannica.com/biography/Servilia",
+    "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler",
+    "https://en.wikipedia.org/wiki/Servilia_(mother_of_Brutus)",
+    "https://en.wikipedia.org/wiki/Servilia%27s_pearl",
+    "https://store.metmuseum.org/blog/pearls-of-wisdom-five-things-you-may-not-know-about-pearls",
+    "https://en.wikipedia.org/wiki/Sestertius",
+    "https://imperiumromanum.pl/en/roman-society/salary-in-ancient-rome/",
+    "https://lexundria.com/suet_jul/26/r",
+    "https://lexundria.com/suet_jul/43/r"
+  ],
+  "images": [
+    {
+      "src": "377-six-million-sesterces-one-pearl-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Wilfredor",
+      "page": "https://commons.wikimedia.org/wiki/File:Bust_of_Julius_Caesar.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

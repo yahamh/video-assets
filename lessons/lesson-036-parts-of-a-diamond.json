@@ -1,0 +1,153 @@
+{
+  "id": "lesson-036-parts-of-a-diamond",
+  "series": "lesson",
+  "number": 36,
+  "title": "The parts of a diamond",
+  "topic": "parts of a diamond anatomy table crown girdle pavilion culet round brilliant 58 facets 57 girdle thickness thin durability thick weight gia",
+  "music": "music-lesson-036.wav",
+  "hook": {
+    "text": "A diamond has five named parts.",
+    "gold": [
+      "five",
+      "parts."
+    ]
+  },
+  "end": {
+    "line": "Renders made with",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond has five named parts.",
+      "scene": {
+        "kind": "photo",
+        "src": "matthew-rose-render.webp",
+        "focus": {
+          "x": 0.5,
+          "y": 0.45,
+          "k": 1.2
+        },
+        "label": "Every cut diamond has them"
+      }
+    },
+    {
+      "text": "The table is the flat facet on top.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Table",
+          "Crown",
+          "Girdle",
+          "Pavilion",
+          "Culet"
+        ],
+        "active": 0,
+        "label": "Parts of a diamond"
+      }
+    },
+    {
+      "text": "The crown is the upper part, from the table to the girdle.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Table",
+          "Crown",
+          "Girdle",
+          "Pavilion",
+          "Culet"
+        ],
+        "active": 1,
+        "label": "Parts of a diamond"
+      }
+    },
+    {
+      "text": "The girdle is the narrow band around the middle.",
+      "scene": {
+        "kind": "title",
+        "text": "Girdle",
+        "sub": "The narrow middle band"
+      }
+    },
+    {
+      "text": "The pavilion is the lower part, from the girdle to the point.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Table",
+          "Crown",
+          "Girdle",
+          "Pavilion",
+          "Culet"
+        ],
+        "active": 3,
+        "label": "Parts of a diamond"
+      }
+    },
+    {
+      "text": "Last, a tiny facet called the culet may cap the point.",
+      "scene": {
+        "kind": "steps",
+        "items": [
+          "Table",
+          "Crown",
+          "Girdle",
+          "Pavilion",
+          "Culet"
+        ],
+        "active": 4,
+        "label": "Parts of a diamond"
+      }
+    },
+    {
+      "text": "A standard round brilliant has 58 facets, or 57 with no culet.",
+      "scene": {
+        "kind": "title",
+        "text": "58",
+        "sub": "Or 57 with no culet"
+      },
+      "say": "A standard round brilliant has fifty eight facets, or fifty seven with no culet."
+    },
+    {
+      "text": "A girdle too thin hurts durability, and one too thick hides weight.",
+      "scene": {
+        "kind": "title",
+        "text": "Balanced",
+        "sub": "Not too thin, not too thick"
+      }
+    },
+    {
+      "text": "So the five parts run in order, table first, culet last.",
+      "scene": {
+        "kind": "title",
+        "text": "Top to bottom",
+        "sub": "Table to culet"
+      }
+    },
+    {
+      "text": "A render shows the table and crown before anything is cast.",
+      "scene": {
+        "kind": "compare",
+        "before": "matthew-front-white-input.webp",
+        "after": "matthew-front-white-render.webp",
+        "beforeLabel": "3D file",
+        "afterLabel": "Render"
+      }
+    }
+  ],
+  "post": {
+    "youtube_title": "Jewelry render basics: the parts of a diamond",
+    "caption": "A cut diamond has five named parts: the table on top, the crown above the girdle, the narrow girdle around the middle, the pavilion below it and the tiny culet at the point. A standard round brilliant has 58 facets, or 57 when there is no culet. A girdle that is too thin hurts durability, and one that is too thick hides weight. The renders in this video were made with HeyGema.",
+    "hashtags": [
+      "#diamondanatomy",
+      "#jewelrymaking",
+      "#jewelrydesign",
+      "#diamondeducation",
+      "#jewelryrendering"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/diamond-cut-anatomy-round-brilliant",
+    "https://4cs.gia.edu/blog/diamond-anatomy-explained/",
+    "https://en.wikipedia.org/wiki/Brilliant_(diamond_cut)"
+  ]
+}
