@@ -1,0 +1,153 @@
+{
+  "id": "347-this-diamond-was-studied-for-a-year",
+  "number": 347,
+  "title": "This diamond was studied for a year",
+  "style": "deco",
+  "topic": "jonker diamond 726 carats 1934 jacobus jonker farm harry winston 1935 lazare kaplan studied a year lloyd's would not insure jonker I 142.90 emerald cut recut 125.35 toured united states",
+  "music": "music-347.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "This diamond was studied for a year.",
+    "gold": [
+      "diamond",
+      "year."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This diamond was studied for a year.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1934 a 726 carat diamond was found on Jacobus Jonker's farm.",
+      "say": "In nineteen thirty four a seven hundred twenty six carat diamond was found on Jacobus Jonker's farm.",
+      "scene": {
+        "kind": "piece",
+        "label": "726 carats of rough"
+      }
+    },
+    {
+      "text": "The stone was named the Jonker, after him.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Named the Jonker"
+      }
+    },
+    {
+      "text": "Harry Winston bought the uncut stone in 1935.",
+      "say": "Harry Winston bought the uncut stone in nineteen thirty five.",
+      "scene": {
+        "kind": "title",
+        "text": "1935",
+        "sub": "Harry Winston buys it",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "He chose Lazare Kaplan, a New York cutter, to cut it.",
+      "say": "He chose luh-ZAR Kaplan, a New York cutter, to cut it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Lazare Kaplan, New York"
+      }
+    },
+    {
+      "text": "Kaplan studied the stone for about a year before cutting.",
+      "scene": {
+        "kind": "title",
+        "text": "A year",
+        "sub": "Studying the grain",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14
+      }
+    },
+    {
+      "text": "Lloyd's of London would not insure the risky cutting.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Too risky to insure"
+      }
+    },
+    {
+      "text": "The largest gem was an emerald cut of 142.90 carats.",
+      "say": "The largest gem was an emerald cut of one hundred forty two point nine zero carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "emerald",
+        "label": "142.90 carats, emerald cut"
+      }
+    },
+    {
+      "text": "That stone was later recut to 125.35 carats.",
+      "say": "That stone was later recut to one hundred twenty five point three five carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Recut to 125.35 carats"
+      }
+    },
+    {
+      "text": "Winston toured the cut stone across the United States.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "A tour of the United States"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1934 a 726 carat diamond was found on Jacobus Jonker's farm in South Africa and named the Jonker. Harry Winston bought the uncut stone in 1935 and chose New York cutter Lazare Kaplan, who studied it for about a year. Lloyd's of London would not insure the cutting. The largest gem was a 142.90 carat emerald cut, later recut to 125.35 carats, and Winston toured the cut stone across the United States.",
+    "hashtags": [
+      "#jonkerdiamond",
+      "#harrywinston",
+      "#diamond",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/topic/Jonker-diamond",
+    "https://www.gia.edu/doc/Harry-Winston-A-Story-Told-in-Diamonds.pdf",
+    "https://nhm.org/stories/jonker-diamond-giant-gem-many-facets",
+    "https://iaja.com/2024/02/28/harry-winston-and-the-tale-of-the-jonker-diamond/",
+    "https://www.harrywinston.com/en/the-house/mr-winston",
+    "https://time.com/archive/6778685/south-africa-no-4",
+    "https://dynamic-rsnz.natlib.govt.nz/newspapers/HBHETR19370206.2.93"
+  ],
+  "images": [],
+  "no_real_image": "No free picture of the Jonker diamond exists on Wikimedia Commons or the Met's Open Access (the only files found were an unrelated person and shop fronts), so the story uses drawn pieces only."
+}
