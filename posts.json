@@ -4263,7 +4263,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=28769681506043762",
+      "instagram": "https://www.instagram.com/reel/DgAjqhKFUT0/"
+    }
   },
   "287-sphene-is-named-for-a-wedge": {
     "at": "2026-11-21T03:00:00Z",
@@ -4389,7 +4394,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1811690696791086",
+      "instagram": "https://www.instagram.com/reel/DgAIMKmFXyt/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710585790820076808"
+    }
   },
   "297-iron-makes-heliodor-gold-and-aquamarine-blue": {
     "at": "2026-11-21T12:00:00Z",
@@ -4397,7 +4408,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2022825381697820",
+      "instagram": "https://www.instagram.com/reel/DgALz1aDKIR/"
+    }
   },
   "298-lucite-carries-light-around-corners": {
     "at": "2026-11-21T12:30:00Z",
@@ -4405,7 +4421,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29542002358785613",
+      "instagram": "https://www.instagram.com/reel/DgAPPD1D_H-/"
+    }
   },
   "299-purple-sugilite-hid-inside-manganese-ore": {
     "at": "2026-11-21T13:00:00Z",
@@ -4413,7 +4434,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgASp1-jKMh/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710609168939486472"
+    }
   },
   "300-prehnite-grows-in-clusters-like-grapes": {
     "at": "2026-11-21T13:30:00Z",
@@ -4421,7 +4447,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1655063406157577",
+      "instagram": "https://www.instagram.com/reel/DgAV7axDJKj/"
+    }
   },
   "301-some-pilgrim-badges-were-tiny-bells": {
     "at": "2026-11-21T14:00:00Z",
@@ -4430,7 +4461,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1171740425315855",
+      "instagram": "https://www.instagram.com/reel/DgAZuLTjDKz/",
+      "youtube": "https://www.youtube.com/watch?v=2tLXMaWjQJI"
+    }
   },
   "302-sphalerite-has-over-triple-diamonds-fire": {
     "at": "2026-11-21T14:30:00Z",
@@ -4438,7 +4475,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgAczbNFC3a/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710632201246821684"
+    }
   },
   "303-the-briolette-has-no-flat-top": {
     "at": "2026-11-21T15:00:00Z",
@@ -4446,7 +4488,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=40217370654544844",
+      "instagram": "https://www.instagram.com/reel/DgAgZEMjJtv/"
+    }
   },
   "304-mother-of-pearls-rainbow-isnt-pigment": {
     "at": "2026-11-21T02:30:00Z",
@@ -4468,14 +4515,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1003040618961498",
+      "instagram": "https://www.instagram.com/reel/DgAnRkdjVeh/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710655159558245640"
+    }
   },
   "306-poudretteite-is-named-for-a-quarry-family": {
     "at": "2026-11-21T16:30:00Z",
     "zernio_id": "6affd86b11561f087f28f286",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgAqiJ9FRlu/"
+    }
   },
   "307-thimble-once-meant-a-thumb-cover": {
     "at": "2026-11-21T17:00:00Z",
@@ -4483,7 +4540,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2407255153419517",
+      "instagram": "https://www.instagram.com/reel/DgAuKvIE0Cm/"
+    }
   },
   "308-rutilated-quartzs-golden-needles-arent-gold": {
     "at": "2026-11-21T17:30:00Z",
@@ -4892,6 +4954,79 @@
     "platforms": [
       "instagram",
       "tiktok"
+    ]
+  },
+  "358-a-chest-nobody-opened-for-111-years": {
+    "at": "2026-11-22T22:30:00Z",
+    "zernio_id": "6b01d7988d26dad24c5ec533",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "359-diamond-and-charcoal-are-the-same-stuff": {
+    "at": "2026-11-22T23:00:00Z",
+    "zernio_id": "6b01d79cfd6a48db51a89a03",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "360-breakfast-at-tiffany-s-began-at-dawn": {
+    "at": "2026-11-22T23:30:00Z",
+    "zernio_id": "6b01d7a25bae532ebb641f5b",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "361-a-blue-diamond-cost-57-5-million": {
+    "at": "2026-11-23T00:00:00Z",
+    "zernio_id": "6b01d7a780e3ee95a6320a92",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "362-clay-diggers-found-six-kilos-of-gold": {
+    "at": "2026-11-23T00:30:00Z",
+    "zernio_id": "6b01d7ab7ae0f9a42b051948",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "363-princess-elizabeth-picked-her-own-wedding-gift": {
+    "at": "2026-11-23T01:00:00Z",
+    "zernio_id": "6b01d7b0b598c81607a4fdbd",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "364-bulgari-s-name-hides-a-roman-v": {
+    "at": "2026-11-23T01:30:00Z",
+    "zernio_id": "6b01d7b580e3ee95a6320ab2",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "365-a-pearl-that-grew-for-eighty-years": {
+    "at": "2026-11-23T02:00:00Z",
+    "zernio_id": "6b01d7ba80e3ee95a6320acf",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "366-van-cleef-s-jacques-arpels-gave-staff-clovers": {
+    "at": "2026-11-23T02:30:00Z",
+    "zernio_id": "6b01d7c180e3ee95a6320ade",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -5458,7 +5593,11 @@
     "zernio_id": "6af8e3e038f638abf51674b3",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=bzosetV3x08"
+    }
   },
   "lesson-030-carat-weight-versus-size": {
     "at": "2026-11-22T16:00:00Z",
