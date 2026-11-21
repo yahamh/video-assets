@@ -1,138 +1,124 @@
 {
  "queries": [
   {
-   "key": "f-victoria",
+   "key": "g-honours",
    "commons": [
-    "Queen Victoria coronation 1838",
-    "Queen Victoria coronation ring",
-    "Coronation of Queen Victoria Hayter",
-    "Queen Victoria young portrait"
+    "Honours of Scotland",
+    "Crown of Scotland",
+    "Scottish Crown Jewels Edinburgh Castle",
+    "Sir Walter Scott 1818 regalia",
+    "Honours of Scotland Sir Henry Raeburn Walter Scott"
    ],
    "max": 7
   },
   {
-   "key": "f-monroe",
+   "key": "g-bulgari",
    "commons": [
-    "Marilyn Monroe Gentlemen Prefer Blondes",
-    "Marilyn Monroe Diamonds Are a Girl's Best Friend",
-    "Marilyn Monroe 1953",
-    "Marilyn Monroe publicity photo"
+    "Bulgari",
+    "Bulgari Via dei Condotti",
+    "Bulgari Serpenti",
+    "Via dei Condotti Rome",
+    "Bulgari necklace"
    ],
    "max": 7
   },
   {
-   "key": "f-kate",
+   "key": "g-nizam",
    "commons": [
-    "Catherine Duchess of Cambridge wedding earrings",
-    "Wedding of Prince William and Catherine Middleton",
-    "Kate Middleton wedding dress 2011",
-    "Catherine Middleton Westminster Abbey 2011"
+    "Nizam of Hyderabad necklace",
+    "Queen Elizabeth II Nizam of Hyderabad tiara",
+    "Queen Elizabeth II Nizam necklace",
+    "Princess Elizabeth wedding 1947",
+    "Osman Ali Khan Asaf Jah VII"
    ],
    "max": 7
   },
   {
-   "key": "f-lover",
+   "key": "g-alhambra",
    "commons": [
-    "Lover's Knot tiara",
-    "Queen Mary Lover's Knot tiara",
-    "Diana Princess of Wales Lover's Knot tiara",
-    "Duchess of Cambridge Lover's Knot tiara"
+    "Van Cleef & Arpels Alhambra",
+    "Van Cleef Arpels Alhambra necklace",
+    "Four-leaf clover jewelry",
+    "Van Cleef & Arpels boutique Place Vendome",
+    "Alhambra Granada Court of the Lions"
    ],
    "max": 7
   },
   {
-   "key": "f-glasgow",
+   "key": "g-hepburn",
    "commons": [
-    "Glasgow coat of arms",
-    "Glasgow City Chambers coat of arms",
-    "Saint Mungo Glasgow salmon ring",
-    "Glasgow Cathedral St Mungo"
+    "Breakfast at Tiffany's",
+    "Audrey Hepburn Breakfast at Tiffany's",
+    "Tiffany & Co. Fifth Avenue flagship",
+    "Audrey Hepburn 1961",
+    "Tiffany & Co. 727 Fifth Avenue"
    ],
    "max": 7
   },
   {
-   "key": "f-centenary",
+   "key": "g-oppen",
    "commons": [
-    "Centenary Diamond",
-    "De Beers Centenary Diamond",
-    "Premier Mine Cullinan diamond",
-    "Cullinan Mine South Africa"
+    "Oppenheimer Blue diamond",
+    "Blue diamond",
+    "Hope Diamond blue",
+    "Christie's Geneva",
+    "Fancy vivid blue diamond"
    ],
    "max": 7
   },
   {
-   "key": "f-lesedi",
+   "key": "g-tennant",
    "commons": [
-    "Lesedi La Rona",
-    "Karowe diamond mine",
-    "Lucara Diamond 1109 carat",
-    "Botswana diamond"
+    "Smithson Tennant",
+    "Antoine Lavoisier",
+    "Lavoisier experiment diamond",
+    "Lavoisier burning lens",
+    "diamond burning experiment"
    ],
    "max": 7
   },
   {
-   "key": "f-mold",
+   "key": "g-panag",
    "commons": [
-    "Mold gold cape",
-    "Mold cape British Museum",
-    "Mold Gold Cape Bronze Age"
+    "Panagyurishte treasure",
+    "Panagyurishte rhyton",
+    "Thracian gold treasure",
+    "Thracian gold amphora rhyton",
+    "Panagyurishte gold"
    ],
    "max": 7
   },
   {
-   "key": "f-panagy",
-   "commons": [
-    "Panagyurishte Treasure",
-    "Panagyurishte gold treasure rhyton",
-    "Panagyurishte treasure Thracian gold"
-   ],
-   "max": 7
-  },
-  {
-   "key": "f-lunula",
-   "commons": [
-    "Gold lunula Ireland",
-    "Irish gold lunula",
-    "Lunula Bronze Age gold Ireland National Museum"
-   ],
-   "max": 7
-  },
-  {
-   "key": "f-carpet",
-   "commons": [
-    "Pearl Carpet of Baroda",
-    "Baroda pearl carpet",
-    "Khanderao Gaekwad Baroda"
-   ],
-   "max": 7
-  },
-  {
-   "key": "f-sutter",
-   "commons": [
-    "Sutter's Mill",
-    "James W. Marshall gold discovery",
-    "California Gold Rush 1849",
-    "Marshall Gold Discovery State Historic Park"
-   ],
-   "max": 7
-  },
-  {
-   "key": "f-abernethy",
+   "key": "g-abern",
    "commons": [
     "Abernethy pearl",
+    "Freshwater pearl mussel Scotland",
+    "Margaritifera margaritifera",
+    "River Tay Perth",
     "Scottish freshwater pearl",
-    "Freshwater pearl mussel River Tay",
-    "Scottish pearl crown jewels"
+    "Pearl fishing Scotland"
    ],
    "max": 7
   },
   {
-   "key": "f-rhyme",
+   "key": "g-rhyme",
    "commons": [
-    "Something old something new wedding",
-    "Sixpence in her shoe",
-    "Victorian bride 1880s wedding",
-    "Wedding garter bride"
+    "Victorian wedding 1870s",
+    "Victorian bride photograph",
+    "Something old something new something borrowed something blue",
+    "Sixpence coin Victoria",
+    "Victorian wedding dress"
+   ],
+   "max": 7
+  },
+  {
+   "key": "g-staff",
+   "commons": [
+    "Staffordshire Hoard",
+    "Staffordshire hoard sword fittings",
+    "Terry Herbert",
+    "Staffordshire Hoard gold cross",
+    "Anglo-Saxon gold hoard"
    ],
    "max": 7
   }
