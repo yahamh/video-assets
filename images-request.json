@@ -1,13 +1,119 @@
-{"queries": [
- {"key": "d-diana", "commons": ["Diana Princess of Wales 1981 engagement", "Charles and Diana wedding 1981", "Garrard sapphire engagement ring", "Diana Princess of Wales sapphire ring", "Prince Charles Lady Diana Spencer 1981"], "max": 8},
- {"key": "d-tut", "commons": ["Mask of Tutankhamun", "Tutankhamun gold mask Egyptian Museum", "Howard Carter Tutankhamun 1922 Harry Burton", "Tutankhamun funerary mask gold"], "max": 8},
- {"key": "d-grace", "commons": ["Grace Kelly 1956", "Grace Kelly Prince Rainier wedding 1956", "Grace Kelly High Society 1956", "Grace Kelly engagement Rainier Monaco"], "max": 8},
- {"key": "d-victoria", "commons": ["Queen Victoria Prince Albert engagement 1839", "Queen Victoria wedding 1840 Hayter", "snake ring Queen Victoria engagement", "Prince Albert Winterhalter 1842", "Queen Victoria 1840 portrait"], "max": 8},
- {"key": "d-cleopatra", "commons": ["Banquet of Cleopatra Tiepolo", "Cleopatra dissolving pearl vinegar painting", "Cleopatra Antony banquet pearl", "Cleopatra Marc Antony pearl painting"], "max": 8},
- {"key": "d-peregrina", "commons": ["La Peregrina pearl", "Mary I of England Antonis Mor pearl pendant", "Elizabeth Taylor 1950s portrait", "Elizabeth Taylor La Peregrina necklace Cartier"], "max": 8},
- {"key": "d-lincoln", "commons": ["Mary Todd Lincoln 1846 daguerreotype", "Abraham Lincoln 1846 daguerreotype", "Lincoln wedding ring Love is Eternal", "Abraham Lincoln Mary Todd Lincoln"], "max": 8},
- {"key": "d-wallis", "commons": ["Wallis Simpson Duke of Windsor wedding 1937", "Duchess of Windsor jewels Cartier", "Duke and Duchess of Windsor 1950s", "Wallis Simpson emerald ring"], "max": 8},
- {"key": "d-cullinan", "commons": ["Cullinan diamond", "Cullinan diamond rough 3106 carats", "Great Star of Africa sceptre Cullinan I", "Joseph Asscher Cullinan diamond cutting 1908", "Thomas Cullinan Premier Mine"], "max": 8},
- {"key": "d-welsh", "commons": ["Clogau St David's gold mine", "Welsh gold wedding ring", "Princess Elizabeth Prince Philip engagement 1947", "Wedding of Princess Elizabeth 1947", "Queen Elizabeth the Queen Mother wedding ring Welsh gold"], "max": 8},
- {"key": "d-bezel", "commons": ["bezel set ring", "bezel setting gemstone", "bezel set diamond ring"], "max": 6}
-]}
+{
+ "queries": [
+  {
+   "key": "e-crown",
+   "commons": [
+    "Imperial State Crown",
+    "Coronation of Elizabeth II 1953",
+    "Elizabeth II coronation portrait Cecil Beaton",
+    "Queen Elizabeth II 1953 crown"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-taylor",
+   "commons": [
+    "Elizabeth Taylor 1950s",
+    "Elizabeth Taylor Richard Burton 1960s",
+    "Taylor-Burton diamond",
+    "Elizabeth Taylor Cleopatra 1963"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-hope",
+   "commons": [
+    "Hope Diamond Smithsonian",
+    "Harry Winston Hope diamond",
+    "Hope Diamond National Museum of Natural History",
+    "Hope Diamond 1958 Smithsonian"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-jonker",
+   "commons": [
+    "Jonker diamond",
+    "Harry Winston jeweler",
+    "Jonker diamond cutting",
+    "Elandsfontein Premier Mine diamond 1934"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-zip",
+   "commons": [
+    "Van Cleef Arpels Zip necklace",
+    "Duchess of Windsor jewels",
+    "Zip necklace Van Cleef"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-chanel",
+   "commons": [
+    "Coco Chanel 1920s",
+    "Coco Chanel pearls",
+    "Gabrielle Chanel portrait 1936",
+    "Chanel pearl necklace"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-jackie",
+   "commons": [
+    "Jacqueline Kennedy pearls 1961",
+    "Jacqueline Kennedy inauguration 1961",
+    "Jackie Kennedy pearl necklace"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-gold",
+   "commons": [
+    "Gold bar 400 ounce",
+    "Good delivery gold bar",
+    "Gold bars",
+    "Gold ingot"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-spencer",
+   "commons": [
+    "Diana Princess of Wales wedding 1981 tiara",
+    "Spencer tiara",
+    "Althorp House",
+    "Lady Diana Spencer 1981"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-aqua",
+   "commons": [
+    "Brazilian aquamarine tiara",
+    "Queen Elizabeth II Brazil 1968",
+    "aquamarine crystal",
+    "Queen Elizabeth II 1953 portrait"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-rhyme",
+   "commons": [
+    "Victorian wedding 1870s photograph",
+    "sixpence coin Victoria",
+    "bride 1880 photograph wedding dress"
+   ],
+   "max": 8
+  },
+  {
+   "key": "e-jwaneng",
+   "commons": [
+    "Jwaneng diamond mine",
+    "Botswana diamond rough"
+   ],
+   "max": 8
+  }
+ ]
+}
