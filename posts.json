@@ -4567,14 +4567,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1126598103695922",
+      "instagram": "https://www.instagram.com/reel/DgA1NvTEeUt/",
+      "youtube": "https://www.youtube.com/watch?v=IBZzx7BBp2I"
+    }
   },
   "310-a-diamond-with-two-fronts": {
     "at": "2026-11-21T18:30:00Z",
     "zernio_id": "6b0033f30f5e2ce78f504500",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgA4Q92Et_G/"
+    }
   },
   "311-the-pink-diamond-france-kept": {
     "at": "2026-11-21T19:00:00Z",
@@ -4582,7 +4592,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1837112824027680",
+      "instagram": "https://www.instagram.com/reel/DgA75fEgp3g/"
+    }
   },
   "312-napoleon-s-emerald-diadem-now-holds-turquoise": {
     "at": "2026-11-21T19:30:00Z",
@@ -4590,14 +4605,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1807243850558438",
+      "instagram": "https://www.instagram.com/reel/DgA_VZpE9H_/"
+    }
   },
   "313-sisi-braided-27-diamond-stars": {
     "at": "2026-11-21T20:00:00Z",
     "zernio_id": "6b0034000f5e2ce78f504532",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgBCjvaAPTv/"
+    }
   },
   "314-queen-elizabeth-called-them-granny-s-chips": {
     "at": "2026-11-21T20:30:00Z",
@@ -4607,7 +4631,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1038685525929822",
+      "instagram": "https://www.instagram.com/reel/DgBGBQHFLp9/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710724968606305556",
+      "youtube": "https://www.youtube.com/watch?v=cbP8cfhaIJc"
+    }
   },
   "315-catherine-the-great-s-ruby-is-a-spinel": {
     "at": "2026-11-21T21:00:00Z",
@@ -4615,7 +4646,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1652660296264417",
+      "instagram": "https://www.instagram.com/reel/DgBJjEID_Zs/"
+    }
   },
   "316-a-whole-palace-inside-an-egg": {
     "at": "2026-11-21T21:30:00Z",
@@ -4623,7 +4659,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1443377551285938",
+      "instagram": "https://www.instagram.com/reel/DgBM4pPDtPr/"
+    }
   },
   "317-a-roman-handshake-became-a-ring": {
     "at": "2026-11-21T22:00:00Z",
@@ -4631,7 +4672,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgBQdr3jtFh/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710748504854940949"
+    }
   },
   "318-the-bride-sent-the-diamond-ring": {
     "at": "2026-11-21T22:30:00Z",
@@ -4639,7 +4685,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1460782488770253",
+      "instagram": "https://www.instagram.com/reel/DgBTuNPDw9z/"
+    }
   },
   "319-a-punk-princess-wore-eug-nie-s-pearl-tiara": {
     "at": "2026-11-21T23:00:00Z",
@@ -4648,7 +4699,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2657061404775308",
+      "instagram": "https://www.instagram.com/reel/DgBXYShpRnk/",
+      "youtube": "https://www.youtube.com/watch?v=K0M3ZfwzEtM"
+    }
   },
   "320-over-half-this-diamond-was-cut-away": {
     "at": "2026-11-21T23:30:00Z",
@@ -5042,6 +5099,79 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "368-fans-helped-buy-back-jane-austen-s-ring": {
+    "at": "2026-11-23T03:30:00Z",
+    "zernio_id": "6b022e074b9d106f67876514",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "369-older-than-the-king-it-names": {
+    "at": "2026-11-23T08:00:00Z",
+    "zernio_id": "6b022e0db9d90d62e9ecdfc1",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "370-a-silver-football-takes-four-months": {
+    "at": "2026-11-23T08:30:00Z",
+    "zernio_id": "6b022e114b9d106f67876554",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "371-one-diamond-got-22-000-name-entries": {
+    "at": "2026-11-23T09:00:00Z",
+    "zernio_id": "6b022e164096590dc2548fed",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "372-the-taj-mahal-s-flowers-are-gemstones": {
+    "at": "2026-11-23T09:30:00Z",
+    "zernio_id": "6b022e1ceded288185d47f46",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "373-a-diamond-mine-named-fat-lake": {
+    "at": "2026-11-23T10:00:00Z",
+    "zernio_id": "6b022e214096590dc2549031",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "374-the-ring-that-switches-hands": {
+    "at": "2026-11-23T10:30:00Z",
+    "zernio_id": "6b022e254096590dc254903e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "375-pearl-necklace-lengths-have-stage-names": {
+    "at": "2026-11-23T11:00:00Z",
+    "zernio_id": "6b022e2a6d782fb6476a0edf",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "376-the-ton-of-gold-was-two": {
+    "at": "2026-11-23T11:30:00Z",
+    "zernio_id": "6b022e304b9d106f678765ef",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
