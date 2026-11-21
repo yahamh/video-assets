@@ -1,0 +1,164 @@
+{
+  "id": "363-princess-elizabeth-picked-her-own-wedding-gift",
+  "number": 363,
+  "title": "Princess Elizabeth picked her own wedding gift",
+  "style": "gouache",
+  "topic": "nizam of hyderabad necklace princess elizabeth wedding present 1947 cartier london chose herself necklace made 1935 sold 1936 bought back 1937 platinum about 300 diamonds pear shaped drop floral tiara detachable brooches official portraits 1950s",
+  "music": "music-363.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Princess Elizabeth picked her own wedding gift.",
+    "gold": [
+      "Elizabeth",
+      "wedding"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Princess Elizabeth picked her own wedding gift.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1947, Princess Elizabeth was about to marry Prince Philip.",
+      "say": "In nineteen forty seven, Princess Elizabeth was about to marry Prince Philip.",
+      "scene": {
+        "kind": "real",
+        "src": "363-princess-elizabeth-picked-her-own-wedding-gift-0.jpg",
+        "fit": "card",
+        "label": "The royal wedding, 1947",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Nizam of Hyderabad sent her a wedding present.",
+      "scene": {
+        "kind": "piece",
+        "label": "A wedding present"
+      }
+    },
+    {
+      "text": "He told Cartier in London that she could choose it herself.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Chosen by her"
+      }
+    },
+    {
+      "text": "She chose a diamond necklace that Cartier London made in 1935.",
+      "say": "She chose a diamond necklace that Cartier London made in nineteen thirty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Made in 1935"
+      }
+    },
+    {
+      "text": "It sold in 1936, and Cartier bought it back a year later.",
+      "say": "It sold in nineteen thirty six, and Cartier bought it back a year later.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Bought back"
+      }
+    },
+    {
+      "text": "It is set in platinum with about 300 diamonds.",
+      "say": "It is set in platinum with about three hundred diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "About 300",
+        "sub": "Diamonds",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "A pear shaped diamond drop hangs at the center.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A pear shaped drop"
+      }
+    },
+    {
+      "text": "She also chose a floral diamond tiara with removable brooches.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 12,
+        "metal": "platinum",
+        "label": "Removable brooches"
+      }
+    },
+    {
+      "text": "In the 1950s, she wore it for official portraits.",
+      "say": "In the nineteen fifties, she wore it for official portraits.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Official portraits"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1947, Princess Elizabeth was about to marry Prince Philip, and the Nizam of Hyderabad sent her a wedding present. He told Cartier in London that she could choose it herself. She chose a diamond necklace that Cartier London had made in 1935. It sold in 1936, and Cartier bought it back a year later. It is set in platinum with about 300 diamonds, and a pear shaped diamond drop hangs at the center. She also chose a floral diamond tiara with removable brooches. In the 1950s, she wore the necklace for official portraits.",
+    "hashtags": [
+      "#queenelizabeth",
+      "#cartier",
+      "#royalwedding",
+      "#diamondnecklace",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://rct.uk/collection/exhibitions/platinum-jubilee-the-queens-accession/buckingham-palace/the-queens-nizam-of-hyderabad-and-berar-necklace",
+    "https://www.rct.uk/collection/exhibitions/a-royal-wedding/buckingham-palace/the-nizam-of-hyderabad-and-berar-necklace",
+    "https://www.hancocksjewellers.co.uk/?p=6279",
+    "https://the-cartiers.com/blog/the-nizam-of-hyderabad-cartier-necklace/",
+    "https://www.tatlerasia.com/style/jewellery/royal-platinum-jubilee-jewellery-exhibition",
+    "https://telanganatoday.com/nizam-of-hyderabad-gifted-300-diamond-studded-necklace-to-queen-elizabeth-ii",
+    "https://www.hellomagazine.com/fashion/royal-style/415559/queen-elizabeth-ii-nizam-of-hyderabad-necklace-kate-middleton",
+    "https://www.marieclaire.com/celebrity/royals/queen-elizabeth-dismantled-tiara-soup",
+    "https://www.historyofroyalwomen.com/the-royal-women/royal-jewels-queen-elizabeth-iis-nizam-of-hyderabad-necklace/"
+  ],
+  "images": [
+    {
+      "src": "363-princess-elizabeth-picked-her-own-wedding-gift-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Associated Press",
+      "page": "https://commons.wikimedia.org/wiki/File:Princess_Elizabeth_and_Duke_of_Edinburgh_wedding_portrait.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

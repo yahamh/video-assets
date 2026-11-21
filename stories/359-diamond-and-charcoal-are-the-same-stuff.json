@@ -1,0 +1,179 @@
+{
+  "id": "359-diamond-and-charcoal-are-the-same-stuff",
+  "number": 359,
+  "title": "Diamond and charcoal are the same stuff",
+  "style": "deco",
+  "topic": "smithson tennant burned diamond gold tube niter 1797 on the nature of the diamond carbon dioxide charcoal same weight lavoisier 1772 lens sunlight limewater cloudy two and a half grains",
+  "music": "music-359.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "Diamond and charcoal are the same stuff.",
+    "gold": [
+      "Diamond",
+      "charcoal"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond and charcoal are the same stuff.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1772, Lavoisier burned a diamond with a lens that focused sunlight.",
+      "say": "In seventeen seventy two, Lah vwah zyay burned a diamond with a lens that focused sunlight.",
+      "scene": {
+        "kind": "real",
+        "src": "359-diamond-and-charcoal-are-the-same-stuff-0.jpg",
+        "fit": "card",
+        "label": "Antoine Lavoisier",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The gas it gave off turned limewater cloudy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Limewater turned cloudy"
+      }
+    },
+    {
+      "text": "Then English chemist Smithson Tennant took the puzzle further.",
+      "scene": {
+        "kind": "real",
+        "src": "359-diamond-and-charcoal-are-the-same-stuff-1.jpg",
+        "fit": "card",
+        "label": "Smithson Tennant",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He used a gold tube, closed at one end.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "topaz",
+        "label": "A gold tube"
+      }
+    },
+    {
+      "text": "He heated two and a half grains of diamonds with niter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Two and a half grains"
+      }
+    },
+    {
+      "text": "He kept it red hot for about an hour and a half.",
+      "scene": {
+        "kind": "title",
+        "text": "Red hot",
+        "sub": "An hour and a half",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "halo": 10
+      }
+    },
+    {
+      "text": "Only one gas came off: carbon dioxide.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Only carbon dioxide"
+      }
+    },
+    {
+      "text": "It was about what the same weight of charcoal gives.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Like charcoal"
+      }
+    },
+    {
+      "text": "Tennant concluded a diamond is charcoal in crystal form.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Charcoal in crystal form"
+      }
+    },
+    {
+      "text": "His paper On the Nature of the Diamond came out in 1797.",
+      "say": "His paper On the Nature of the Diamond came out in seventeen ninety seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "Published in 1797"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1772, the French chemist Antoine Lavoisier burned a diamond with a lens that focused sunlight, and the gas it gave off turned limewater cloudy. Then the English chemist Smithson Tennant took the puzzle further. He heated two and a half grains of small diamonds with niter in a gold tube closed at one end, and kept it red hot for about an hour and a half. Only carbon dioxide came off, about the same amount as the same weight of charcoal gives. Tennant concluded that a diamond is charcoal in crystal form, and his paper On the Nature of the Diamond came out in 1797.",
+    "hashtags": [
+      "#diamond",
+      "#smithsontennant",
+      "#chemistry",
+      "#carbon",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-106919/",
+    "https://scilit.com/publications/d9474aea3f1cd03b50d101e1e861ba43",
+    "https://elsevier.es/en-revista-educacion-quimica-78-articulo-smithson-tennant-S0187893X15000373",
+    "https://www.gem.org.au/ag-article/the-early-history-of-synthetic-diamond/",
+    "https://www.encyclopedia.com/people/science-and-technology/chemistry-biographies/smithson-tennant",
+    "https://www.iflscience.com/the-scientist-who-burned-diamonds-to-prove-that-they-were-carbon-69434",
+    "https://en.wikipedia.org/wiki/Diamond"
+  ],
+  "images": [
+    {
+      "src": "359-diamond-and-charcoal-are-the-same-stuff-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jacques-Louis David",
+      "page": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "359-diamond-and-charcoal-are-the-same-stuff-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Spudgun67",
+      "page": "https://commons.wikimedia.org/wiki/File:Smithson_Tennant_12_Finkle_Street_Selby_North_Yorkshire_YO8_4DS.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

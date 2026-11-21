@@ -1,0 +1,167 @@
+{
+  "id": "360-breakfast-at-tiffany-s-began-at-dawn",
+  "number": 360,
+  "title": "Breakfast at Tiffany's began at dawn",
+  "style": "gouache",
+  "topic": "breakfast at tiffany's audrey hepburn first scene filmed sunday october 2 1960 dawn fifth avenue hubert de givenchy black gown five strands pearls roger scemama tiffany diamond 128.54 carat jean schlumberger ribbon rosette publicity photos givenchy dress christie's 2006 467200 pounds",
+  "music": "music-360.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "white",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Breakfast at Tiffany's began at dawn.",
+    "gold": [
+      "Tiffany's",
+      "dawn."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Breakfast at Tiffany's began at dawn.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "On Sunday, October 2, 1960, a crew set up on Fifth Avenue.",
+      "say": "On Sunday, October second, nineteen sixty, a crew set up on Fifth Avenue.",
+      "scene": {
+        "kind": "real",
+        "src": "360-breakfast-at-tiffany-s-began-at-dawn-0.jpg",
+        "fit": "card",
+        "label": "Breakfast at Tiffany's, 1961",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Just after dawn, Audrey Hepburn stood outside the Tiffany store.",
+      "scene": {
+        "kind": "piece",
+        "label": "Just after dawn"
+      }
+    },
+    {
+      "text": "It was the very first scene filmed for the movie.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "The very first scene"
+      }
+    },
+    {
+      "text": "Hubert de Givenchy designed her black gown.",
+      "say": "Hubert de Zhee von shee designed her black gown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A Givenchy gown"
+      }
+    },
+    {
+      "text": "Around her neck hung five strands of pearls.",
+      "scene": {
+        "kind": "title",
+        "text": "Five strands",
+        "sub": "Of pearls",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Parisian jeweler Roger Scemama made them, not Tiffany.",
+      "say": "Parisian jeweler Roger Sheh mah mah made them, not Tiffany.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Made by Roger Scemama"
+      }
+    },
+    {
+      "text": "Hepburn wore the 128.54 carat Tiffany Diamond for publicity photos.",
+      "say": "Hepburn wore the one hundred twenty eight point five four carat Tiffany Diamond for publicity photos.",
+      "scene": {
+        "kind": "title",
+        "text": "128.54",
+        "sub": "Carats",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Jean Schlumberger set it in a ribbon necklace for the photos.",
+      "say": "Jean Shloom bair zhay set it in a ribbon necklace for the photos.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "A ribbon necklace"
+      }
+    },
+    {
+      "text": "One of her Givenchy dresses sold for 467,200 pounds in 2006.",
+      "say": "One of her Zhee von shee dresses sold for four hundred sixty seven thousand two hundred pounds in two thousand six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Sold in 2006"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Breakfast at Tiffany's began at dawn. On Sunday, October 2, 1960, a crew set up on Fifth Avenue, and Audrey Hepburn stood outside the Tiffany store in the very first scene filmed for the movie. Hubert de Givenchy designed her black gown, and the five strands of pearls around her neck were made by the Parisian jeweler Roger Scemama, not by Tiffany. For publicity photos, Hepburn wore the 128.54 carat Tiffany Diamond in a ribbon necklace by Jean Schlumberger. One of her Givenchy dresses sold for 467,200 pounds in 2006.",
+    "hashtags": [
+      "#breakfastattiffanys",
+      "#audreyhepburn",
+      "#tiffanyandco",
+      "#givenchy",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(film)",
+    "https://www.jckonline.com/?p=15736",
+    "https://www.tcm.com/articles/156631/behind-the-camera",
+    "https://nycinfilm.com/breakfast/",
+    "https://amp.cnn.com/cnn/style/article/audrey-hepburn-little-black-dress-remember-when",
+    "https://www.rd.com/?p=1359491",
+    "https://www.npr.org/sections/pictureshow/2011/10/05/141080656/breakfast-at-tiffanys-turns-50",
+    "https://vogue.ph/fashion/jewelry/breakfast-at-tiffanys-pearl-necklace/",
+    "https://en.wikipedia.org/wiki/Black_Givenchy_dress_of_Audrey_Hepburn",
+    "https://press.tiffany.com/our-story/the-tiffany-diamond/",
+    "https://www.thejewelleryeditor.com/jewellery/article/tiffany-yellow-diamond-lady-gaga-oscars-2019"
+  ],
+  "images": [
+    {
+      "src": "360-breakfast-at-tiffany-s-began-at-dawn-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Designed by Robert McGinnis . \"Copyright © 1961 by Paramount Pictures Corporation and Jurow Shepherd Productions.\"",
+      "page": "https://commons.wikimedia.org/wiki/File:Breakfast_at_Tiffany's_(1961_poster).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

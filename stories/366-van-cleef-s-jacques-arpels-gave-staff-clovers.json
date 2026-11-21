@@ -1,0 +1,183 @@
+{
+  "id": "366-van-cleef-s-jacques-arpels-gave-staff-clovers",
+  "number": 366,
+  "title": "Van Cleef's Jacques Arpels gave staff clovers",
+  "style": "gouache",
+  "topic": "van cleef arpels alhambra jacques arpels four leaf clovers backyard employees good luck charms believe in luck clover archives 1906 1968 first long necklace 20 motifs gold beads mother of pearl onyx alhambra palace granada princess grace three necklaces",
+  "music": "music-366.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "peridot",
+    "cut": "round",
+    "petals": 4,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Van Cleef's Jacques Arpels gave staff clovers.",
+    "gold": [
+      "Arpels",
+      "clovers."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Van Cleef's Jacques Arpels gave staff clovers.",
+      "say": "Van Cleef's Zhahk Ar pel gave staff clovers.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Jacques Arpels picked four leaf clovers in his backyard.",
+      "say": "Zhahk Ar pel picked four leaf clovers in his backyard.",
+      "scene": {
+        "kind": "real",
+        "src": "366-van-cleef-s-jacques-arpels-gave-staff-clovers-0.jpg",
+        "fit": "card",
+        "label": "Van Cleef and Arpels, Paris",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He handed them to employees as good luck charms.",
+      "scene": {
+        "kind": "piece",
+        "label": "Good luck charms"
+      }
+    },
+    {
+      "text": "He liked to say you have to believe in luck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "emerald",
+        "label": "Believe in luck"
+      }
+    },
+    {
+      "text": "Clover shapes were in the house archives by 1906.",
+      "say": "Clover shapes were in the house archives by nineteen oh six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "peridot",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "In the archives by 1906"
+      }
+    },
+    {
+      "text": "In 1968, the house launched its Alhambra collection.",
+      "say": "In nineteen sixty eight, the house launched its Al ham bra collection.",
+      "scene": {
+        "kind": "title",
+        "text": "1968",
+        "sub": "Alhambra",
+        "piece": "necklace",
+        "stone": "peridot",
+        "cut": "round",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The first piece was a long necklace of 20 clover motifs.",
+      "say": "The first piece was a long necklace of twenty clover motifs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "peridot",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Twenty clover motifs"
+      }
+    },
+    {
+      "text": "Each gold motif is edged with tiny gold beads.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 16,
+        "label": "Edged in gold beads"
+      }
+    },
+    {
+      "text": "The name is widely said to honor Granada's Alhambra palace.",
+      "say": "The name is widely said to honor Gra na da's Al ham bra palace.",
+      "scene": {
+        "kind": "real",
+        "src": "366-van-cleef-s-jacques-arpels-gave-staff-clovers-1.jpg",
+        "fit": "card",
+        "label": "The Alhambra, Granada",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Later versions added mother of pearl and onyx.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "Mother of pearl and onyx"
+      }
+    },
+    {
+      "text": "Princess Grace of Monaco wore three Alhambra necklaces at once.",
+      "say": "Princess Grace of Monaco wore three Al ham bra necklaces at once.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Layered at once"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Jacques Arpels of Van Cleef and Arpels picked four leaf clovers in his backyard and handed them to employees as good luck charms. He liked to say you have to believe in luck. Clover shapes were in the house archives by 1906. In 1968, the house launched its Alhambra collection, and the first piece was a long necklace of 20 clover motifs, each edged with tiny gold beads. The name is widely said to honor Granada's Alhambra palace. Later versions added mother of pearl and onyx, and Princess Grace of Monaco wore three Alhambra necklaces at once.",
+    "hashtags": [
+      "#vancleefarpels",
+      "#alhambra",
+      "#luckycharm",
+      "#fourleafclover",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.vancleefarpels.com/gb/en/the-maison/articles/history-of-the-alhambra-collection.html",
+    "https://www.vancleefarpels.com/us/en/the-maison/the-heritage-gallery/alhambra.html",
+    "https://www.vancleefarpels.com/us/en/events/the-alhambra-collection-the-van-cleef-arpels-icon-of-luck.html",
+    "https://www.sothebys.com/en/articles/the-history-of-the-iconic-van-cleef-alhambra",
+    "https://www.sothebys.com/en/articles/the-evolution-of-van-cleef-arpels-alhambra",
+    "https://www.tatlerasia.com/style/jewellery/icon-of-icons-van-cleef-arpels-alhambra",
+    "https://www.hellomagazine.com/hfm/culture/515606/van-cleefs-arpels-alhambra-clover-history/",
+    "https://www.christies.com.cn/en/stories/van-cleef-alhambra-guide-fbc813eb3713443b95ee6325aa1ddafa",
+    "https://www.rebag.com/thevault/van-cleef-arpels-101-the-enduring-luck-of-the-alhambra/"
+  ],
+  "images": [
+    {
+      "src": "366-van-cleef-s-jacques-arpels-gave-staff-clovers-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Coquin, J., photographe",
+      "page": "https://commons.wikimedia.org/wiki/File:Van_Cleef_%26_Arpels,_G.36810.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "366-van-cleef-s-jacques-arpels-gave-staff-clovers-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jebulon",
+      "page": "https://commons.wikimedia.org/wiki/File:Pavillon_Cour_des_Lions_Alhambra_Granada_Spain.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

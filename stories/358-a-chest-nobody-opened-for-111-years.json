@@ -1,0 +1,164 @@
+{
+  "id": "358-a-chest-nobody-opened-for-111-years",
+  "number": 358,
+  "title": "A chest nobody opened for 111 years",
+  "style": "jewelbox",
+  "topic": "honours of scotland crown scepter sword of state locked oak chest crown room edinburgh castle 1707 walled up doorway found 4 february 1818 walter scott commissioners workmen prised open linen silver wand mystery pope alexander 1494 julius 1507 james iv crown remade 1540 james v john mosman",
+  "music": "music-358.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "emerald",
+    "cut": "round",
+    "petals": 10,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A chest nobody opened for 111 years.",
+    "gold": [
+      "chest",
+      "111"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A chest nobody opened for 111 years.",
+      "say": "A chest nobody opened for one hundred eleven years.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1707, Scotland's crown was locked in an oak chest.",
+      "say": "In seventeen oh seven, Scotland's crown was locked in an oak chest.",
+      "scene": {
+        "kind": "piece",
+        "label": "Locked in an oak chest"
+      }
+    },
+    {
+      "text": "Two popes gave the scepter and sword to King James IV.",
+      "say": "Two popes gave the scepter and sword to King James the Fourth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "ruby",
+        "label": "Gifts from two popes"
+      }
+    },
+    {
+      "text": "The chest stood in the Crown Room at Edinburgh Castle.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "The Crown Room"
+      }
+    },
+    {
+      "text": "Then the doorway was walled up.",
+      "scene": {
+        "kind": "title",
+        "text": "Walled up",
+        "sub": "The doorway",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "A royal commission finally broke into the room on February 4, 1818.",
+      "say": "A royal commission finally broke into the room on February fourth, eighteen eighteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Opened in 1818"
+      }
+    },
+    {
+      "text": "Writer Walter Scott watched as workmen prised the chest open.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Walter Scott watched"
+      }
+    },
+    {
+      "text": "Inside lay the crown with its scepter and sword, wrapped in linen.",
+      "scene": {
+        "kind": "real",
+        "src": "358-a-chest-nobody-opened-for-111-years-0.jpg",
+        "fit": "card",
+        "label": "The Honours of Scotland",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A mysterious silver wand lay with them, still unexplained.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "peridot",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "A mystery wand"
+      }
+    },
+    {
+      "text": "The crown itself had been remade in 1540 for King James V.",
+      "say": "The crown itself had been remade in fifteen forty for King James the Fifth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "Remade in 1540"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1707, the Honours of Scotland, the crown, the scepter and the sword, were locked in an oak chest in the Crown Room at Edinburgh Castle, and the doorway was walled up. Nobody opened the chest for about 111 years. On February 4, 1818, a royal commission broke into the room, and the writer Walter Scott watched as workmen prised the chest open. Inside lay the crown with its scepter and sword, wrapped in linen, and a mysterious silver wand that is still unexplained. Two popes gave the scepter and the sword to King James the Fourth, and the crown was remade in 1540 for King James the Fifth.",
+    "hashtags": [
+      "#honoursofscotland",
+      "#crownjewels",
+      "#edinburghcastle",
+      "#royalregalia",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.royal.uk/honours-scotland",
+    "https://www.everydayexceptional.royal.uk/honours-scotland",
+    "https://blog.edinburghcastle.scot/a-sparkling-discovery/",
+    "https://blog.edinburghcastle.scot/preserving-scotlands-heritage-the-honours-of-scotland/",
+    "https://blog.nrscotland.gov.uk/2021/08/15/250-years-on-sir-walter-scott-and-register-house",
+    "https://digital.nls.uk/scotlandspages/timeline/1818.html",
+    "https://www.clanscottscotland.com/crownjewelsrediscovered",
+    "https://blog.historicenvironment.scot/2024/01/the-crown-of-scotland/",
+    "https://moneyweek.com/378653/4-february-1818-sir-walter-scott-finds-the-honours-of-scotland",
+    "https://en.wikipedia.org/wiki/Honours_of_Scotland"
+  ],
+  "images": [
+    {
+      "src": "358-a-chest-nobody-opened-for-111-years-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Archibald Burns (1831-1880)",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F._%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BE%D1%80.%D1%80%D0%B5%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8.Regalia_of_Scotland_1860%D0%B5_6229_e1LfW.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

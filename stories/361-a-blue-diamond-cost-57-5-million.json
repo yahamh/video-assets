@@ -1,0 +1,159 @@
+{
+  "id": "361-a-blue-diamond-cost-57-5-million",
+  "number": 361,
+  "title": "A blue diamond cost $57.5 million",
+  "style": "jewelbox",
+  "topic": "oppenheimer blue diamond christie's geneva 18 may 2016 14.62 carats emerald cut fancy vivid blue gia sir philip oppenheimer 57.5 million with fees most expensive jewel at auction largest vivid blue boron pink star april 2017",
+  "music": "music-361.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "blue",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A blue diamond cost $57.5 million.",
+    "gold": [
+      "blue",
+      "diamond"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A blue diamond cost $57.5 million.",
+      "say": "A blue diamond cost fifty seven point five million dollars.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It sold in Geneva on May 18, 2016.",
+      "say": "It sold in Geneva on May eighteenth, twenty sixteen.",
+      "scene": {
+        "kind": "piece",
+        "label": "Sold in Geneva"
+      }
+    },
+    {
+      "text": "The Oppenheimer Blue is an emerald cut stone of 14.62 carats.",
+      "say": "The Oppenheimer Blue is an emerald cut stone of fourteen point six two carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "blue",
+        "cut": "emerald",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "14.62 carats"
+      }
+    },
+    {
+      "text": "It is named for a former owner, Sir Philip Oppenheimer.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "blue",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Sir Philip Oppenheimer"
+      }
+    },
+    {
+      "text": "The GIA graded its color as Fancy Vivid Blue.",
+      "say": "The G I A graded its color as Fancy Vivid Blue.",
+      "scene": {
+        "kind": "title",
+        "text": "Fancy Vivid",
+        "sub": "Blue",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The price was $57.5 million with fees.",
+      "say": "The price was fifty seven point five million dollars with fees.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "With fees"
+      }
+    },
+    {
+      "text": "It was then the most ever paid for a jewel at auction.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "blue",
+        "metal": "platinum",
+        "label": "A record"
+      }
+    },
+    {
+      "text": "Christie's called it the largest vivid blue diamond ever at auction.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "blue",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "The largest vivid blue"
+      }
+    },
+    {
+      "text": "Its blue comes from tiny traces of boron in the crystal.",
+      "scene": {
+        "kind": "title",
+        "text": "Boron",
+        "sub": "Makes it blue",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "blue"
+      }
+    },
+    {
+      "text": "The Pink Star broke that record in April 2017.",
+      "say": "The Pink Star broke that record in April twenty seventeen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "pink",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "The Pink Star"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A blue diamond cost $57.5 million. On May 18, 2016, Christie's sold the Oppenheimer Blue in Geneva. It is an emerald cut stone of 14.62 carats, named for a former owner, Sir Philip Oppenheimer. The GIA graded its color as Fancy Vivid Blue. The price was $57.5 million with fees, then the most ever paid for a jewel at auction, and Christie's called it the largest vivid blue diamond ever at auction. Its blue comes from tiny traces of boron in the crystal. The Pink Star broke that record in April 2017.",
+    "hashtags": [
+      "#oppenheimerblue",
+      "#bluediamond",
+      "#diamonds",
+      "#christies",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gia.edu/gia-news-research/spring-2016-auction-update-big-checks-mega-diamonds",
+    "https://nationaljeweler.com/articles/8079-oppenheimer-blue-sells-for-record-setting-57-5m",
+    "https://fortune.com/2016/05/19/blue-diamond-auction-oppenheimer/",
+    "https://www.nbcnews.com/business/business-news/oppenheimer-blue-diamond-sells-auction-57-5-million-n576781",
+    "https://www.christies.com.cn/features/The-Oppenheimer-Blue-Diamond-7197-3.aspx",
+    "https://amp.cnn.com/cnn/style/article/worlds-biggest-blue-diamond",
+    "https://www.gia.edu/gia-news-press/researchers-discover-origin-of-blue-diamonds",
+    "https://en.wikipedia.org/wiki/Blue_diamond",
+    "https://www.npr.org/sections/thetwo-way/2017/04/05/522739361/pink-star-diamond-sells-for-71-million-smashing-auction-record"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Oppenheimer Blue exists (the auction house photos are copyrighted)"
+}

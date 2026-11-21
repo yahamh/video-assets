@@ -1,0 +1,165 @@
+{
+  "id": "364-bulgari-s-name-hides-a-roman-v",
+  "number": 364,
+  "title": "Bulgari's name hides a Roman V",
+  "style": "jewelbox",
+  "topic": "bulgari bvlgari sotirios voulgaris greek silversmith epirus 1884 via sistina rome silver ornaments antiques 1905 via dei condotti 10 sons giorgio costantino serpenti bracelet watch late 1940s ancient coins 1960s v for u roman lettering",
+  "music": "music-364.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "ruby",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Bulgari's name hides a Roman V.",
+    "gold": [
+      "Bulgari's",
+      "Roman"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Bulgari's name hides a Roman V.",
+      "say": "Bool gah ree's name hides a Roman vee.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Sotirios Voulgaris was a Greek silversmith from Epirus.",
+      "say": "Sotirios Vool gah ris was a Greek silversmith from Epirus.",
+      "scene": {
+        "kind": "piece",
+        "label": "A Greek silversmith"
+      }
+    },
+    {
+      "text": "In 1884, he opened a shop on the Via Sistina in Rome.",
+      "say": "In eighteen eighty four, he opened a shop on the Via Sis tee na in Rome.",
+      "scene": {
+        "kind": "real",
+        "src": "364-bulgari-s-name-hides-a-roman-v-0.jpg",
+        "fit": "card",
+        "label": "Rome, as mapped in 1676",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In Italy, the Greek name Voulgaris became Bulgari.",
+      "say": "In Italy, the Greek name Vool gah ris became Bool gah ree.",
+      "scene": {
+        "kind": "title",
+        "text": "Voulgaris",
+        "sub": "Became Bulgari",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8
+      }
+    },
+    {
+      "text": "In 1905, the family moved to Via dei Condotti 10.",
+      "say": "In nineteen oh five, the family moved to Via day Con dot tee, number ten.",
+      "scene": {
+        "kind": "real",
+        "src": "364-bulgari-s-name-hides-a-roman-v-1.jpg",
+        "fit": "card",
+        "label": "Via dei Condotti, Rome",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His sons Giorgio and Costantino helped grow the house.",
+      "say": "His sons Jor jo and Kos tan tee no helped grow the house.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Giorgio and Costantino"
+      }
+    },
+    {
+      "text": "Serpenti, a snake bracelet watch, began in the late 1940s.",
+      "say": "Ser pen tee, a snake bracelet watch, began in the late nineteen forties.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Serpenti"
+      }
+    },
+    {
+      "text": "Ancient Roman and Greek coins entered its jewelry in the 1960s.",
+      "say": "Ancient Roman and Greek coins entered its jewelry in the nineteen sixties.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Ancient coins"
+      }
+    },
+    {
+      "text": "Look at the logo: BVLGARI, with a V where the U goes.",
+      "say": "Look at the logo, spelled B V L G A R I, with a V where the U goes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A V where the U goes"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Bulgari's name hides a Roman V. Sotirios Voulgaris was a Greek silversmith from Epirus. In 1884, he opened a shop on the Via Sistina in Rome. In Italy, the Greek name Voulgaris became Bulgari. In 1905, the family moved to Via dei Condotti 10. His sons Giorgio and Costantino helped grow the house. Serpenti, a snake bracelet watch, began in the late 1940s. Ancient Roman and Greek coins entered its jewelry in the 1960s. Look at the logo: BVLGARI, with a V where the U goes.",
+    "hashtags": [
+      "#bulgari",
+      "#bvlgari",
+      "#romejewelry",
+      "#jewelryhouse",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.bulgari.com/en-in/the-maison/about-bvlgari/bvlgari-and-rome.html",
+    "https://www.bulgari.com/en-gb/bvlgari-history/1884",
+    "https://www.bulgari.com/en-gb/bvlgari-history/1920",
+    "https://www.bulgari.com/en-gb/bvlgari-history/1940",
+    "https://www.bulgari.com/en-gb/bvlgari-history/1960",
+    "https://www.sothebys.com/en/articles/icons-of-design-bulgari",
+    "https://en.wikipedia.org/wiki/Sotirios_Voulgaris",
+    "https://en.wikipedia.org/wiki/Bulgari",
+    "https://encyclopedia.com/books/politics-and-business-magazines/bulgari-spa",
+    "https://greekcitytimes.com/2024/01/08/bvlgari-greek-silversmith-sotirios/",
+    "https://1stdibs.com/answers/why-is-bulgari-spelled-bvlgari"
+  ],
+  "images": [
+    {
+      "src": "364-bulgari-s-name-hides-a-roman-v-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Giovanni Battista Falda",
+      "page": "https://commons.wikimedia.org/wiki/File:Falda_1676_-_Via_Condotti.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "364-bulgari-s-name-hides-a-roman-v-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Perituss",
+      "page": "https://commons.wikimedia.org/wiki/File:Via_dei_Condotti.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

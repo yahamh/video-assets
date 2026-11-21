@@ -1,0 +1,180 @@
+{
+  "id": "365-a-pearl-that-grew-for-eighty-years",
+  "number": 365,
+  "title": "A pearl that grew for eighty years",
+  "style": "deco",
+  "topic": "abernethy pearl scotland river pearl mussel over 100 years one in 5000 bill abernethy last professional pearl fisher 1967 11 millimeters 43.6 grains 80 years dock leaf largest scottish river pearl modern times cairncross perth 2024 lyon turnbull 93951 pounds record donated nation",
+  "music": "music-365.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "white",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A pearl that grew for eighty years.",
+    "gold": [
+      "pearl",
+      "eighty"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pearl that grew for eighty years.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Scotland's rivers hold pearl mussels that can live over 100 years.",
+      "say": "Scotland's rivers hold pearl mussels that can live over one hundred years.",
+      "scene": {
+        "kind": "real",
+        "src": "365-a-pearl-that-grew-for-eighty-years-0.jpg",
+        "fit": "card",
+        "label": "A Scottish river",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Only about one mussel in 5,000 holds a pearl.",
+      "say": "Only about one mussel in five thousand holds a pearl.",
+      "scene": {
+        "kind": "piece",
+        "label": "One mussel in 5,000"
+      }
+    },
+    {
+      "text": "Bill Abernethy, Scotland's last professional pearl fisher, found one in 1967.",
+      "say": "Bill Abernethy, Scotland's last professional pearl fisher, found one in nineteen sixty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "Scotland's last pearl fisher"
+      }
+    },
+    {
+      "text": "It is perfectly round and 11 millimeters across.",
+      "say": "It is perfectly round and eleven millimeters across.",
+      "scene": {
+        "kind": "real",
+        "src": "365-a-pearl-that-grew-for-eighty-years-1.jpg",
+        "fit": "card",
+        "label": "The Abernethy Pearl",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It had grown for about 80 years.",
+      "say": "It had grown for about eighty years.",
+      "scene": {
+        "kind": "title",
+        "text": "Eighty years",
+        "sub": "Inside its mussel",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The story goes he wrapped it in a dock leaf.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "round",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "Wrapped in a dock leaf"
+      }
+    },
+    {
+      "text": "It is the largest Scottish river pearl found in modern times.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "platinum",
+        "label": "43.6 grains"
+      }
+    },
+    {
+      "text": "It stayed for decades with Cairncross, jewelers in Perth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "morganite",
+        "cut": "round",
+        "petals": 8,
+        "metal": "rose",
+        "label": "Cairncross of Perth"
+      }
+    },
+    {
+      "text": "In August 2024 it sold for 93,951 pounds, a record.",
+      "say": "In August twenty twenty four it sold for ninety three thousand nine hundred fifty one pounds, a record.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "pink",
+        "metal": "rose",
+        "label": "A record price"
+      }
+    },
+    {
+      "text": "A retired jeweler then gave it to the nation.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A gift to the nation"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Scotland's rivers hold pearl mussels that can live over 100 years, and only about one mussel in 5,000 holds a pearl. In 1967, Bill Abernethy, Scotland's last professional pearl fisher, found one that is perfectly round and 11 millimeters across. It had grown for about 80 years inside its mussel. The story goes he wrapped it in a dock leaf. It is the largest Scottish river pearl found in modern times, and it stayed for decades with Cairncross, jewelers in Perth. In August 2024 it sold for 93,951 pounds, a record. A retired jeweler then gave it to the nation.",
+    "hashtags": [
+      "#abernethypearl",
+      "#riverpearl",
+      "#scotland",
+      "#pearls",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://media.nms.ac.uk/news/the-abernethy-pearl-one-of-the-largest-ever-found-in-scotland-is-donated-to-the-national-collection",
+    "https://www.nms.ac.uk/discover-catalogue/abernethy-pearl",
+    "https://www.lyonandturnbull.com/stories/the-abernethy-pearl",
+    "https://news.artnet.com/art-world/abernathy-scottish-freshwater-pearl-auction-record-price-2527127",
+    "https://news.stv.tv/scotland/freshwater-pearl-rakes-in-more-than-93000-at-auction",
+    "https://nationaljeweler.com/articles/13184-abernethy-pearl-tops-estimates-at-auction",
+    "https://pressandjournal.co.uk/fp/obituaries/3702756/bill-abernethy-of-culloden-who-found-scotlands-largest-freshwater-pearl-dies-aged-96",
+    "https://www.aol.com/articles/country-largest-freshwater-pearl-400-073927024.html",
+    "https://www.nature.scot/node/1939296"
+  ],
+  "images": [
+    {
+      "src": "365-a-pearl-that-grew-for-eighty-years-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Grievous Angel",
+      "page": "https://commons.wikimedia.org/wiki/File:Scene_from_viewpoint_one,_River_Tay_at_Perth.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "365-a-pearl-that-grew-for-eighty-years-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Zircon056",
+      "page": "https://commons.wikimedia.org/wiki/File:Abernethypearl.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

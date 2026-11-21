@@ -1,0 +1,180 @@
+{
+  "id": "362-clay-diggers-found-six-kilos-of-gold",
+  "number": 362,
+  "title": "Clay diggers found six kilos of gold",
+  "style": "deco",
+  "topic": "panagyurishte treasure bulgaria 8 december 1949 three brothers pavel petko mihail deikov digging clay tile factory nine gold vessels 6.164 kilograms thracian around 300 bc rhyta drinking horns amphora phiale inscribed weight 100 persian darics",
+  "music": "music-362.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "citrine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Clay diggers found six kilos of gold.",
+    "gold": [
+      "Clay",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Clay diggers found six kilos of gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1949, three brothers were digging clay in Bulgaria.",
+      "say": "In nineteen forty nine, three brothers were digging clay in Bulgaria.",
+      "scene": {
+        "kind": "real",
+        "src": "362-clay-diggers-found-six-kilos-of-gold-0.jpg",
+        "fit": "card",
+        "label": "The Deikov brothers, 1949",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The three Deikov brothers worked at a tile factory.",
+      "scene": {
+        "kind": "piece",
+        "label": "A tile factory"
+      }
+    },
+    {
+      "text": "While digging, they struck a hoard of nine gold vessels.",
+      "scene": {
+        "kind": "real",
+        "src": "362-clay-diggers-found-six-kilos-of-gold-1.jpg",
+        "fit": "card",
+        "label": "Nine gold vessels",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Together the vessels weigh 6.164 kilograms.",
+      "say": "Together the vessels weigh six point one six four kilograms.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "6.164 kilograms"
+      }
+    },
+    {
+      "text": "Thracian goldsmiths made them around 300 BC.",
+      "say": "Thracian goldsmiths made them around three hundred B C.",
+      "scene": {
+        "kind": "title",
+        "text": "Thracian",
+        "sub": "Ancient Bulgaria",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "That makes them about 2,300 years old.",
+      "say": "That makes them about twenty three hundred years old.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "About 2,300 years old"
+      }
+    },
+    {
+      "text": "Many are rhyta, drinking horns shaped like animals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Rhyta, drinking horns"
+      }
+    },
+    {
+      "text": "The set includes a big amphora and a shallow dish.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "An amphora and a dish"
+      }
+    },
+    {
+      "text": "That dish is inscribed with its own weight, 100 Persian darics.",
+      "say": "That dish is inscribed with its own weight, one hundred Persian darics.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "citrine",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Weighed in darics"
+      }
+    },
+    {
+      "text": "It was found on December 8, 1949, in Panagyurishte, Bulgaria.",
+      "say": "It was found on December eighth, nineteen forty nine, in Pan uh gyoor ish teh, Bulgaria.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Panagyurishte, Bulgaria"
+      }
+    }
+  ],
+  "post": {
+    "caption": "In 1949, three brothers were digging clay at a tile factory in Panagyurishte, Bulgaria, when they struck a hoard of nine gold vessels. Together the vessels weigh 6.164 kilograms. Thracian goldsmiths made them around 300 BC, so they are about 2,300 years old. Many are rhyta, drinking horns shaped like animals, and the set includes a big amphora and a shallow dish. That dish is inscribed with its own weight, 100 Persian darics. It was found on December 8, 1949.",
+    "hashtags": [
+      "#panagyurishte",
+      "#thracian",
+      "#ancientgold",
+      "#bulgaria",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.bta.bg/en/news/1023465-december-8-1949-panagyurishte-gold-treasure-is-discovered",
+    "https://www.ancient-origins.net/artifacts-other-artifacts/panagyurishte-treasure-0013368",
+    "https://artsandculture.google.com/story/uAXxyByBrWVl1g",
+    "https://www.thehistoryblog.com/archives/7901",
+    "https://iu.pressbooks.pub/clasb317/?p=44",
+    "https://www.getty.edu/news/ancient-thrace-and-the-classical-world-discoveries",
+    "https://en.wikipedia.org/wiki/Panagyurishte_Treasure"
+  ],
+  "images": [
+    {
+      "src": "362-clay-diggers-found-six-kilos-of-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Deikov_Brothers.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "362-clay-diggers-found-six-kilos-of-gold-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Ivano Giambattista",
+      "page": "https://commons.wikimedia.org/wiki/File:Panagyurishte_treasure.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
