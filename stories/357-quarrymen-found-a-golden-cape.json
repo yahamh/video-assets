@@ -1,0 +1,171 @@
+{
+  "id": "357-quarrymen-found-a-golden-cape",
+  "number": 357,
+  "title": "Quarrymen found a golden cape",
+  "style": "gouache",
+  "topic": "mold gold cape 1833 quarry workers burial mound flintshire wales stone lined grave crushed several hundred amber beads single ingot beaten 560 grams 46 centimeters ribs bosses beads cloth 1900 to 1600 bc bronze age pieced back together british museum",
+  "music": "music-357.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow",
+    "stone": "amethyst"
+  },
+  "hook": {
+    "text": "Quarrymen found a golden cape.",
+    "gold": [
+      "Quarrymen",
+      "golden",
+      "cape."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Quarrymen found a golden cape.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Quarry workers near Mold in Wales dug into a burial mound.",
+      "scene": {
+        "kind": "real",
+        "src": "357-quarrymen-found-a-golden-cape-0.jpg",
+        "fit": "card",
+        "label": "The Mold gold cape",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Inside a stone lined grave lay a crushed cape of gold.",
+      "scene": {
+        "kind": "piece",
+        "label": "A cape of gold"
+      }
+    },
+    {
+      "text": "Several hundred amber beads lay with it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Hundreds of amber beads"
+      }
+    },
+    {
+      "text": "Someone beat the whole cape from a single lump of gold.",
+      "scene": {
+        "kind": "real",
+        "src": "357-quarrymen-found-a-golden-cape-1.jpg",
+        "fit": "card",
+        "label": "One lump of gold",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It weighs 560 grams and is about 46 centimeters across.",
+      "say": "It weighs five hundred sixty grams and is about forty six centimeters across.",
+      "scene": {
+        "kind": "title",
+        "text": "560 grams",
+        "sub": "Of beaten gold",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Raised ribs and bumps copy strings of beads and folds of cloth.",
+      "scene": {
+        "kind": "real",
+        "src": "357-quarrymen-found-a-golden-cape-2.jpg",
+        "fit": "card",
+        "label": "Ribs and bumps",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It dates from about 1900 to 1600 BC.",
+      "say": "It dates from about nineteen hundred to sixteen hundred B C.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "citrine",
+        "label": "Bronze Age gold"
+      }
+    },
+    {
+      "text": "Experts later pieced the crushed cape back together.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Pieced back together"
+      }
+    },
+    {
+      "text": "The workmen found it in 1833, near the town of Mold.",
+      "say": "The workmen found it in eighteen thirty three, near the town of Mold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Mold, Wales, 1833"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Quarry workers near Mold in Wales dug into a burial mound, and inside a stone lined grave lay a crushed cape of gold. Several hundred amber beads lay with it. Someone beat the whole cape from a single lump of gold. It weighs 560 grams and is about 46 centimeters across, with raised ribs and bumps that copy strings of beads and folds of cloth. It dates from about 1900 to 1600 BC, and experts later pieced the crushed cape back together. The workmen found it in 1833, near the town of Mold in Wales.",
+    "hashtags": [
+      "#moldgoldcape",
+      "#bronzeage",
+      "#gold",
+      "#goldwork",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britishmuseum.org/explore/highlights/highlight_objects/pe_prb/t/the_mold_gold_cape.aspx",
+    "https://www.livescience.com/archaeology/mold-gold-cape-a-3-900-year-old-accessory-thats-one-of-the-finest-examples-of-prehistoric-goldwork-ever-found",
+    "https://peoplescollection.wales/node/6987",
+    "https://atlasobscura.com/places/mold-gold-cape",
+    "https://artsandculture.google.com/story/9wWBTPgoiZ9HAw",
+    "https://en.wikipedia.org/wiki/Mold_gold_cape"
+  ],
+  "images": [
+    {
+      "src": "357-quarrymen-found-a-golden-cape-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Photo: Andreas Praefcke",
+      "page": "https://commons.wikimedia.org/wiki/File:Mold_cape_British_Museum_img01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "357-quarrymen-found-a-golden-cape-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Photo: Andreas Praefcke",
+      "page": "https://commons.wikimedia.org/wiki/File:Mold_cape_British_Museum_img02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "357-quarrymen-found-a-golden-cape-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Cape_found_in_Mold,_Flintshire,_Wales,_Early_Bronze_Age,_c._1900-1600_BC,_gold_-_Britsh_Museum_-_DSC01329.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
