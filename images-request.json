@@ -1,124 +1,112 @@
 {
  "queries": [
   {
-   "key": "g-honours",
+   "key": "g-austen",
    "commons": [
-    "Honours of Scotland",
-    "Crown of Scotland",
-    "Scottish Crown Jewels Edinburgh Castle",
-    "Sir Walter Scott 1818 regalia",
-    "Honours of Scotland Sir Henry Raeburn Walter Scott"
+    "Jane Austen",
+    "Jane Austen's House Chawton",
+    "Jane Austen turquoise ring",
+    "Cassandra Austen portrait of Jane Austen",
+    "Chawton Cottage"
    ],
    "max": 7
   },
   {
-   "key": "g-bulgari",
+   "key": "g-mask",
    "commons": [
-    "Bulgari",
-    "Bulgari Via dei Condotti",
-    "Bulgari Serpenti",
-    "Via dei Condotti Rome",
-    "Bulgari necklace"
+    "Mask of Agamemnon",
+    "Mycenae Lion Gate",
+    "Heinrich Schliemann",
+    "Grave Circle A Mycenae",
+    "National Archaeological Museum Athens gold mask"
    ],
    "max": 7
   },
   {
-   "key": "g-nizam",
+   "key": "g-lombardi",
    "commons": [
-    "Nizam of Hyderabad necklace",
-    "Queen Elizabeth II Nizam of Hyderabad tiara",
-    "Queen Elizabeth II Nizam necklace",
-    "Princess Elizabeth wedding 1947",
-    "Osman Ali Khan Asaf Jah VII"
+    "Vince Lombardi Trophy",
+    "Vince Lombardi",
+    "Super Bowl trophy",
+    "Tiffany & Co. Fifth Avenue",
+    "Lombardi Trophy Tiffany"
    ],
    "max": 7
   },
   {
-   "key": "g-alhambra",
+   "key": "g-sewelo",
    "commons": [
-    "Van Cleef & Arpels Alhambra",
-    "Van Cleef Arpels Alhambra necklace",
-    "Four-leaf clover jewelry",
-    "Van Cleef & Arpels boutique Place Vendome",
-    "Alhambra Granada Court of the Lions"
+    "Sewel\u00f4 diamond",
+    "Karowe mine",
+    "Lucara Diamond",
+    "Cullinan diamond rough",
+    "rough diamond"
    ],
    "max": 7
   },
   {
-   "key": "g-hepburn",
+   "key": "g-taj",
    "commons": [
-    "Breakfast at Tiffany's",
-    "Audrey Hepburn Breakfast at Tiffany's",
-    "Tiffany & Co. Fifth Avenue flagship",
-    "Audrey Hepburn 1961",
-    "Tiffany & Co. 727 Fifth Avenue"
+    "Taj Mahal pietra dura",
+    "Taj Mahal inlay",
+    "Taj Mahal Agra",
+    "Taj Mahal flower inlay marble",
+    "Taj Mahal cenotaph"
    ],
    "max": 7
   },
   {
-   "key": "g-oppen",
+   "key": "g-fipke",
    "commons": [
-    "Oppenheimer Blue diamond",
-    "Blue diamond",
-    "Hope Diamond blue",
-    "Christie's Geneva",
-    "Fancy vivid blue diamond"
+    "Charles Fipke",
+    "Ekati diamond mine",
+    "Lac de Gras",
+    "Canadian diamond",
+    "Diavik diamond mine"
    ],
    "max": 7
   },
   {
-   "key": "g-tennant",
+   "key": "g-rings",
    "commons": [
-    "Smithson Tennant",
-    "Antoine Lavoisier",
-    "Lavoisier experiment diamond",
-    "Lavoisier burning lens",
-    "diamond burning experiment"
+    "wedding ring right hand",
+    "Orthodox wedding rings",
+    "Russian wedding rings",
+    "wedding rings",
+    "hands wedding ring"
    ],
    "max": 7
   },
   {
-   "key": "g-panag",
+   "key": "g-pearls",
    "commons": [
-    "Panagyurishte treasure",
-    "Panagyurishte rhyton",
-    "Thracian gold treasure",
-    "Thracian gold amphora rhyton",
-    "Panagyurishte gold"
+    "pearl necklace",
+    "opera length pearl necklace",
+    "pearl necklace lengths",
+    "pearl strand",
+    "Mikimoto pearls"
    ],
    "max": 7
   },
   {
-   "key": "g-abern",
+   "key": "g-klondike",
    "commons": [
-    "Abernethy pearl",
-    "Freshwater pearl mussel Scotland",
-    "Margaritifera margaritifera",
-    "River Tay Perth",
-    "Scottish freshwater pearl",
-    "Pearl fishing Scotland"
+    "Klondike Gold Rush",
+    "Chilkoot Pass gold rush",
+    "Dawson City 1898",
+    "Skookum Jim Mason",
+    "Bonanza Creek Yukon"
    ],
    "max": 7
   },
   {
-   "key": "g-rhyme",
+   "key": "g-caesar",
    "commons": [
-    "Victorian wedding 1870s",
-    "Victorian bride photograph",
-    "Something old something new something borrowed something blue",
-    "Sixpence coin Victoria",
-    "Victorian wedding dress"
-   ],
-   "max": 7
-  },
-  {
-   "key": "g-staff",
-   "commons": [
-    "Staffordshire Hoard",
-    "Staffordshire hoard sword fittings",
-    "Terry Herbert",
-    "Staffordshire Hoard gold cross",
-    "Anglo-Saxon gold hoard"
+    "Julius Caesar bust",
+    "Servilia",
+    "Roman pearl necklace",
+    "Roman jewelry pearls",
+    "Suetonius Divus Julius"
    ],
    "max": 7
   }
