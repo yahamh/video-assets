@@ -5086,7 +5086,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3700451033451938",
+      "instagram": "https://www.instagram.com/reel/DgDWRGNCm6d/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711049469067791617"
+    }
   },
   "349-a-carpet-made-of-pearls": {
     "at": "2026-11-22T18:00:00Z",
@@ -5095,14 +5101,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1158442309899439",
+      "instagram": "https://www.instagram.com/reel/DgDaCvHk7zo/",
+      "youtube": "https://www.youtube.com/watch?v=EOuYtmBEglk"
+    }
   },
   "350-marilyn-s-diamond-song-began-on-stage": {
     "at": "2026-11-22T18:30:00Z",
     "zernio_id": "6b017dab34bc40f1f52b82f1",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgDdHJJgpWn/"
+    }
   },
   "351-three-years-to-cut-one-diamond": {
     "at": "2026-11-22T19:00:00Z",
@@ -5111,7 +5127,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1131519709486420",
+      "instagram": "https://www.instagram.com/reel/DgDgpBnFDH_/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711073161403469074"
+    }
   },
   "352-titanic-s-blue-diamond-was-a-fake": {
     "at": "2026-11-22T19:30:00Z",
@@ -5119,14 +5141,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1106347602452844",
+      "instagram": "https://www.instagram.com/reel/DgDj6yCpRHY/"
+    }
   },
   "353-a-speck-started-the-gold-rush": {
     "at": "2026-11-22T20:00:00Z",
     "zernio_id": "6b017dbd5cacf4ee0f03ce6c",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgDncHcHGqM/"
+    }
   },
   "354-queen-mary-copied-her-grandmother-s-tiara": {
     "at": "2026-11-22T20:30:00Z",
@@ -5136,7 +5167,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1443458084644317",
+      "instagram": "https://www.instagram.com/reel/DgDq6tVDrKV/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711096099020360980",
+      "youtube": "https://www.youtube.com/watch?v=LQdU7NK353c"
+    }
   },
   "355-a-coat-of-arms-inspired-her-earrings": {
     "at": "2026-11-22T21:00:00Z",
@@ -5144,7 +5182,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4712598295635109",
+      "instagram": "https://www.instagram.com/reel/DgDuT0CDOp5/"
+    }
   },
   "356-a-salmon-found-the-queen-s-ring": {
     "at": "2026-11-22T21:30:00Z",
@@ -5152,7 +5195,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1117529604422846",
+      "instagram": "https://www.instagram.com/reel/DgDxpzqgvRU/"
+    }
   },
   "357-quarrymen-found-a-golden-cape": {
     "at": "2026-11-22T22:00:00Z",
@@ -5160,7 +5208,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgD1Oy3EyI_/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711119549881453845"
+    }
   },
   "358-a-chest-nobody-opened-for-111-years": {
     "at": "2026-11-22T22:30:00Z",
@@ -5168,7 +5221,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1908978146930477",
+      "instagram": "https://www.instagram.com/reel/DgD4iMLHDtA/"
+    }
   },
   "359-diamond-and-charcoal-are-the-same-stuff": {
     "at": "2026-11-22T23:00:00Z",
@@ -5177,7 +5235,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2623149184865312",
+      "instagram": "https://www.instagram.com/reel/DgD8KyqFygY/",
+      "youtube": "https://www.youtube.com/watch?v=o-PWr5TAJGg"
+    }
   },
   "360-breakfast-at-tiffany-s-began-at-dawn": {
     "at": "2026-11-22T23:30:00Z",
@@ -5571,6 +5635,70 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "408-picasso-s-daughter-turned-scribbles-into-gold": {
+    "at": "2026-11-24T03:30:00Z",
+    "zernio_id": "6b0378d37e69c42419a420de",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "409-this-golden-hat-may-count-months": {
+    "at": "2026-11-24T08:00:00Z",
+    "zernio_id": "6b0378d97e69c42419a420ff",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "410-cartier-s-gems-waited-decades-for-a-name": {
+    "at": "2026-11-24T08:30:00Z",
+    "zernio_id": "6b0378de7e69c42419a42117",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "411-red-diamonds-almost-never-get-this-big": {
+    "at": "2026-11-24T09:00:00Z",
+    "zernio_id": "6b0378e4cfd3f1bbd43a636a",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "412-chanel-s-cuffs-came-from-a-sicilian-duke": {
+    "at": "2026-11-24T09:30:00Z",
+    "zernio_id": "6b0378e91684c6a380d802c4",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "413-gold-hid-under-an-uneven-floor": {
+    "at": "2026-11-24T10:00:00Z",
+    "zernio_id": "6b0378eef0ca6311d651f426",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "414-the-first-princess-cut-was-a-flop": {
+    "at": "2026-11-24T10:30:00Z",
+    "zernio_id": "6b0378f4f0ca6311d651f443",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "415-the-palme-d-or-has-a-twin": {
+    "at": "2026-11-24T11:00:00Z",
+    "zernio_id": "6b0378f81684c6a380d802ff",
+    "platforms": [
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -6192,6 +6320,13 @@
   "lesson-036-parts-of-a-diamond": {
     "at": "2026-11-28T16:00:00Z",
     "zernio_id": "6b02334985695faba4c7e16f",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-037-channel-setting": {
+    "at": "2026-11-29T16:00:00Z",
+    "zernio_id": "6b0378fff0ca6311d651f485",
     "platforms": [
       "youtube"
     ]
