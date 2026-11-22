@@ -1,0 +1,184 @@
+{
+  "id": "393-a-girl-found-it-in-rubble",
+  "number": 393,
+  "title": "A girl found it in rubble",
+  "style": "gouache",
+  "topic": "incomparable diamond mbuji mayi congo zaire early 1980s girl playing pile of rubble uncle's house miba mine waste 890 carats rough sold to local dealers marvin samuels new york four years 407.48 carats fancy brownish yellow internally flawless triolette 15 stones 14 satellite gems recut golden canary 303 carats 2022",
+  "music": "music-393.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "yellow",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A girl found it in rubble.",
+    "gold": [
+      "girl",
+      "rubble."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A girl found it in rubble.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "She was playing in rubble outside her uncle's house in Congo.",
+      "say": "She was playing in rubble outside her uncle's house in Congo.",
+      "scene": {
+        "kind": "real",
+        "src": "393-a-girl-found-it-in-rubble-0.jpg",
+        "fit": "card",
+        "label": "Mbuji Mayi, Congo",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The rubble was waste from a diamond mine.",
+      "scene": {
+        "kind": "piece",
+        "label": "Mine waste"
+      }
+    },
+    {
+      "text": "The rough stone weighed 890 carats.",
+      "say": "The rough stone weighed eight hundred ninety carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "yellow",
+        "label": "890 carats"
+      }
+    },
+    {
+      "text": "She gave it to her uncle, who sold it to local dealers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "Sold to dealers"
+      }
+    },
+    {
+      "text": "A New York master cutter spent about four years on it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "About four years"
+      }
+    },
+    {
+      "text": "Marvin Samuels chose clarity over size.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "yellow",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Marvin Samuels"
+      }
+    },
+    {
+      "text": "The finished stone weighed about 407 carats.",
+      "say": "The finished stone weighed about four hundred seven carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "About 407 carats"
+      }
+    },
+    {
+      "text": "Its color was fancy brownish yellow, and it was internally flawless.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "yellow",
+        "metal": "yellow",
+        "label": "Internally flawless"
+      }
+    },
+    {
+      "text": "He called its triangular shape a triolette.",
+      "say": "He called its triangular shape a TRY oh let.",
+      "scene": {
+        "kind": "title",
+        "text": "Triolette",
+        "sub": "A triangular cut",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 8
+      }
+    },
+    {
+      "text": "Fourteen smaller gems were cut beside it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "yellow",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Fourteen smaller gems"
+      }
+    },
+    {
+      "text": "Later it was recut into the 303 carat Golden Canary.",
+      "say": "Later it was recut into the three hundred three carat Golden Canary.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "The Golden Canary"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A girl found it in rubble. In the early 1980s in Mbuji Mayi, in the Democratic Republic of the Congo, a young girl playing in rubble near her uncle's house found a rough diamond of 890 carats. The rubble was mine waste. Master cutter Marvin Samuels spent about four years on the Incomparable, chose clarity over size, and made a 407 carat stone that was fancy brownish yellow and internally flawless. He called its triangular shape a triolette. Fourteen smaller gems were cut beside it. Later it was recut into the 303 carat Golden Canary.",
+    "hashtags": [
+      "#incomparablediamond",
+      "#diamonds",
+      "#congo",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rom.on.ca/news-releases/incomparable-diamond",
+    "https://en.wikipedia.org/wiki/Incomparable_Diamond",
+    "https://www.langerman-diamonds.com/blogs/encyclopedia/fancy-brownish-yellow-407-48-ct",
+    "https://www.glitteringstones.com/incomparable-diamond.html",
+    "https://www.idexonline.com/Memo?Id=48015",
+    "https://nationaljeweler.com/articles/11372-a-303-carat-yellow-diamond-is-being-sold-at-auction-without-reserve",
+    "https://gia.edu/gems-gemology/winter-2022-gemnews-fall-2022-auction-highlights",
+    "https://archive.triblive.com/news/incomparable-diamond-highlights-carnegie-gem-and-mineral-show"
+  ],
+  "images": [
+    {
+      "src": "393-a-girl-found-it-in-rubble-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Kitangaza.1953",
+      "page": "https://commons.wikimedia.org/wiki/File:Mbuji-Mayi,_DRC.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

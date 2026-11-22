@@ -1,0 +1,176 @@
+{
+  "id": "389-under-five-dollars-in-three-days",
+  "number": 389,
+  "title": "Under five dollars in three days",
+  "style": "deco",
+  "topic": "tiffany and young 259 broadway new york september 1837 charles lewis tiffany john b young first three days 4.98 dollars 1000 dollars from father comfort tiffany stationery and fancy goods fixed prices panic of 1837 tiffany and co 1853 transatlantic telegraph cable 1858 20 miles souvenirs",
+  "music": "music-389.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "aquamarine",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Under five dollars in three days.",
+    "gold": [
+      "five",
+      "dollars"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Under five dollars in three days.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "That was the first sales total of Tiffany and Young.",
+      "scene": {
+        "kind": "piece",
+        "label": "Tiffany and Young, 1837"
+      }
+    },
+    {
+      "text": "Charles Lewis Tiffany opened the shop at 25.",
+      "say": "Charles Lewis Tiffany opened the shop at twenty five.",
+      "scene": {
+        "kind": "real",
+        "src": "389-under-five-dollars-in-three-days-0.jpg",
+        "fit": "card",
+        "label": "Charles Lewis Tiffany, 1853",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His school friend John Young was his partner.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "John B. Young"
+      }
+    },
+    {
+      "text": "The shop stood at 259 Broadway in New York.",
+      "say": "The shop stood at two fifty nine Broadway in New York.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "259 Broadway"
+      }
+    },
+    {
+      "text": "His father lent them 1,000 dollars to start.",
+      "say": "His father lent them one thousand dollars to start.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A loan of 1,000 dollars"
+      }
+    },
+    {
+      "text": "It sold stationery and fancy goods, such as fans and umbrellas.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "Fancy goods"
+      }
+    },
+    {
+      "text": "Prices were fixed, with no haggling.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "topaz",
+        "label": "Fixed prices"
+      }
+    },
+    {
+      "text": "In 1853, the shop became Tiffany and Company.",
+      "say": "In eighteen fifty three, the shop became Tiffany and Company.",
+      "scene": {
+        "kind": "title",
+        "text": "1853",
+        "sub": "Tiffany and Company",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 1858, Tiffany bought 20 miles of leftover telegraph cable.",
+      "say": "In eighteen fifty eight, Tiffany bought twenty miles of leftover telegraph cable.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "20 miles of cable"
+      }
+    },
+    {
+      "text": "He sold pieces of it as souvenirs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Cable souvenirs"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Under five dollars in three days. That was the first sales total of Tiffany and Young, a shop that Charles Lewis Tiffany and John B. Young opened at 259 Broadway in New York in September 1837. Tiffany was 25, and his father lent them 1,000 dollars to start. The shop sold stationery and fancy goods, such as fans and umbrellas, at fixed prices. In 1853, it became Tiffany and Company. In 1858, Tiffany bought 20 miles of leftover Atlantic telegraph cable and sold pieces of it as souvenirs.",
+    "hashtags": [
+      "#tiffany",
+      "#tiffanyandco",
+      "#newyork",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://dn790009.ca.archive.org/0/items/charlesltiffanyh00tiffrich/charlesltiffanyh00tiffrich.pdf",
+    "https://s-media.nyc.gov/agencies/lpc/lp/1624.pdf",
+    "https://press.tiffany.com/?p=3256",
+    "https://press.tiffany.com/our-story/tiffanys-legacy-pioneer-of-american-luxury",
+    "https://ebsco.com/research-starters/biography/charles-lewis-tiffany",
+    "https://www.boweryboyshistory.com/?p=542",
+    "https://en.wikipedia.org/wiki/Charles_L._Tiffany",
+    "https://www.britannica.com/biography/Charles-Lewis-Tiffany",
+    "https://flatironnomad.nyc/history/tiffany-co/",
+    "https://www.smithsonianmag.com/history/to-make-tiffany-co-a-household-name-the-luxury-brands-founder-cashed-in-on-the-trans-atlantic-telegraph-craze-180983782/"
+  ],
+  "images": [
+    {
+      "src": "389-under-five-dollars-in-three-days-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Charles_Lewis_Tiffany_at_41_(1853).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

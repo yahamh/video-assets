@@ -1,0 +1,194 @@
+{
+  "id": "394-one-diamond-then-529",
+  "number": 394,
+  "title": "One diamond, then 529",
+  "style": "jewelbox",
+  "topic": "super bowl rings green bay packers super bowl i january 1967 jostens minneapolis vince lombardi one diamond 10 karat gold globe valued under 1000 dollars patriots 283 diamonds 28 3 comeback chiefs 529 diamonds 38 rubies hinged top winning play andy reid handwriting william refrigerator perry size 25 half dollar",
+  "music": "music-394.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "cushion",
+    "metal": "yellow",
+    "halo": 12
+  },
+  "hook": {
+    "text": "One diamond, then 529.",
+    "gold": [
+      "diamond,",
+      "529."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One diamond, then 529.",
+      "say": "One diamond, then five hundred twenty nine.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Packers won the first Super Bowl in 1967.",
+      "say": "The Packers won the first Super Bowl in nineteen sixty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Super Bowl, 1967"
+      }
+    },
+    {
+      "text": "Their ring held a single diamond in 10 karat gold.",
+      "say": "Their ring held a single diamond in ten karat gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "One diamond"
+      }
+    },
+    {
+      "text": "Jostens of Minneapolis made it.",
+      "say": "JOSS tunz of Minneapolis made it.",
+      "scene": {
+        "kind": "title",
+        "text": "Jostens",
+        "sub": "Minneapolis",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Coach Vince Lombardi led its design.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Vince Lombardi"
+      }
+    },
+    {
+      "text": "It was worth under 1,000 dollars.",
+      "say": "It was worth under one thousand dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "ruby",
+        "label": "Under 1,000 dollars"
+      }
+    },
+    {
+      "text": "Rings have changed a lot since then.",
+      "scene": {
+        "kind": "real",
+        "src": "394-one-diamond-then-529-0.jpg",
+        "fit": "card",
+        "label": "Super Bowl rings",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2017, the Patriots' ring had 283 diamonds.",
+      "say": "In twenty seventeen, the Patriots' ring had two hundred eighty three diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "283 diamonds"
+      }
+    },
+    {
+      "text": "That honored a 28 to 3 comeback.",
+      "say": "That honored a twenty eight to three comeback.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A 28 to 3 comeback"
+      }
+    },
+    {
+      "text": "The Chiefs' 2024 ring has 529 diamonds and 38 rubies.",
+      "say": "The Chiefs' twenty twenty four ring has five hundred twenty nine diamonds and thirty eight rubies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "529 diamonds, 38 rubies"
+      }
+    },
+    {
+      "text": "A hidden hinge opens to the winning play.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A hidden hinge"
+      }
+    },
+    {
+      "text": "A half dollar fits through William Perry's size 25 ring.",
+      "say": "A half dollar fits through William Perry's size twenty five ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "halo": 6,
+        "label": "A size 25 ring"
+      }
+    }
+  ],
+  "post": {
+    "caption": "One diamond, then 529. The Packers won the first Super Bowl in 1967, and their ring held a single diamond in 10 karat gold. Jostens of Minneapolis made it, and Coach Vince Lombardi led its design. It was worth under 1,000 dollars. In 2017, the Patriots' ring had 283 diamonds for a 28 to 3 comeback. The Chiefs' 2024 ring has 529 diamonds and 38 rubies, with a hidden hinge that opens to the winning play. A half dollar coin fits through William Perry's size 25 ring.",
+    "hashtags": [
+      "#superbowl",
+      "#championshipring",
+      "#nfl",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.packers.com/news/packers-jostens-partner-again-on-super-bowl-ring-4948210",
+    "https://www.packers.com/news/packers-select-jostens-to-create-historic-ring-4948208",
+    "https://patriots.com/news/super-bowl-rings-have-history-121966",
+    "https://www.si.com/nfl/2014/05/27/nfl-history-in-95-objects-super-bowl-rings",
+    "https://amp.cnn.com/cnn/style/article/super-bowl-rings-history",
+    "https://abc7.com/post/everything-you-want-to-know-about-super-bowl-rings/3018051/",
+    "https://www.gia.edu/gia-news-research-super-bowl-rings",
+    "https://www.cbssports.com/nfl/news/chiefs-unveil-super-bowl-58-championship-rings-that-include-529-diamonds",
+    "https://www.cbssports.com/nfl/news/patriots-receive-super-bowl-rings-with-422-diamonds-and-20-sapphires-remind-rest-of-nfl-theyre-still-here",
+    "https://www.foxbusiness.com/industrials/new-england-patriots-super-bowl-liii-ring"
+  ],
+  "images": [
+    {
+      "src": "394-one-diamond-then-529-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "City of Detroit",
+      "page": "https://commons.wikimedia.org/wiki/File:Super_Bowl_Rings_I-LVII.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

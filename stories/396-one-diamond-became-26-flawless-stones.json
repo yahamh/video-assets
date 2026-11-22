@@ -1,0 +1,179 @@
+{
+  "id": "396-one-diamond-became-26-flawless-stones",
+  "number": 396,
+  "title": "One diamond became 26 flawless stones",
+  "style": "gouache",
+  "topic": "lesotho promise diamond letseng mine lesotho august 2006 3100 meters above sea level 603 carats rough d color graff 35 people planned the cut 26 stones d color flawless internally flawless 76.41 carat pear smallest 0.52 round about 224 carats one white gold necklace",
+  "music": "music-396.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "One diamond became 26 flawless stones.",
+    "gold": [
+      "diamond",
+      "stones."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One diamond became 26 flawless stones.",
+      "say": "One diamond became twenty six flawless stones.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It was found in August 2006 at Letseng in Lesotho.",
+      "say": "It was found in August two thousand six at leh TSENG in leh SOO too.",
+      "scene": {
+        "kind": "piece",
+        "label": "Letseng, Lesotho"
+      }
+    },
+    {
+      "text": "The mine sits about 3,100 meters above sea level.",
+      "say": "The mine sits about thirty one hundred meters above sea level.",
+      "scene": {
+        "kind": "real",
+        "src": "396-one-diamond-became-26-flawless-stones-0.jpg",
+        "fit": "card",
+        "label": "Lesotho in snow, from space",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The rough stone weighed 603 carats.",
+      "say": "The rough stone weighed six hundred three carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "603 carats"
+      }
+    },
+    {
+      "text": "Its color was D, the top grade.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "D color"
+      }
+    },
+    {
+      "text": "The jeweler Graff bought the rough stone.",
+      "scene": {
+        "kind": "title",
+        "text": "Graff",
+        "sub": "Bought the rough",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Thirty five people planned how to cut it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Planning the cut"
+      }
+    },
+    {
+      "text": "All 26 are D color and flawless or internally flawless.",
+      "say": "All twenty six are D color and flawless or internally flawless.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "26 flawless stones"
+      }
+    },
+    {
+      "text": "The biggest is a 76.41 carat pear.",
+      "say": "The biggest is a seventy six point four one carat pear.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "76.41 carats"
+      }
+    },
+    {
+      "text": "Together they weigh about 224 carats.",
+      "say": "Together they weigh about two hundred twenty four carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "diamond",
+        "label": "About 224 carats"
+      }
+    },
+    {
+      "text": "All 26 hang together in one white gold necklace.",
+      "say": "All twenty six hang together in one white gold necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "One necklace"
+      }
+    }
+  ],
+  "post": {
+    "caption": "One diamond became 26 flawless stones. The Lesotho Promise was found in August 2006 at the Letseng mine in Lesotho, about 3,100 meters above sea level. The rough stone weighed 603 carats and was D color. Graff bought it, and 35 people planned how to cut it. All 26 stones are D color and flawless or internally flawless. The biggest is a 76.41 carat pear. Together they weigh about 224 carats, and all 26 hang together in one white gold necklace.",
+    "hashtags": [
+      "#lesothopromise",
+      "#diamonds",
+      "#graff",
+      "#lesotho",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lesotho_Promise",
+    "https://content.time.com/time/specials/packages/article/0,28804,1859855_1859772_1859783,00.html",
+    "https://gemdiamonds.com/our-famous-diamonds.php",
+    "https://www.idexonline.com/FullArticle?Id=29003",
+    "https://www.gia.edu/doc/GG-FA15-Shor.pdf",
+    "https://www.gia.edu/gia-research-news-diamonds-roof-world-shor-weldon",
+    "https://4cs.gia.edu/en-us/blog/diamonds-location-lesotho",
+    "https://www.wmagazine.com/story/graff-diamonds",
+    "https://katerinaperez.com/articles/iconic-graff-jewels-top-5",
+    "https://rapaport.com/?p=39664",
+    "https://en.wikipedia.org/wiki/Letseng_diamond_mine"
+  ],
+  "images": [
+    {
+      "src": "396-one-diamond-became-26-flawless-stones-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "MODIS Land Rapid Response Team, NASA GSFC",
+      "page": "https://commons.wikimedia.org/wiki/File:Snow_in_Lethoso_(MODIS_2022-05-25).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

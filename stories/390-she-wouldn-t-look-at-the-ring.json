@@ -1,0 +1,179 @@
+{
+  "id": "390-she-wouldn-t-look-at-the-ring",
+  "number": 390,
+  "title": "She wouldn't look at the ring",
+  "style": "gouache",
+  "topic": "jennifer lopez ben affleck 2002 pink diamond engagement ring harry winston 6.1 carats radiant cut fancy intense pink two white diamonds love letter candles avoided looking could tell it was pink most magnificent thing diane sawyer primetime november 2002 credited with sparking interest in colored diamonds",
+  "music": "music-390.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "pink",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "She wouldn't look at the ring.",
+    "gold": [
+      "wouldn't",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "She wouldn't look at the ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2002, Ben Affleck proposed to Jennifer Lopez with a pink diamond.",
+      "say": "In two thousand two, Ben AF lek proposed to Jennifer LOH pez with a pink diamond.",
+      "scene": {
+        "kind": "piece",
+        "label": "A pink diamond, 2002"
+      }
+    },
+    {
+      "text": "At his family's Boston home, he read her a love letter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A love letter"
+      }
+    },
+    {
+      "text": "Harry Winston supplied the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "pink",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Harry Winston"
+      }
+    },
+    {
+      "text": "The center stone weighs 6.1 carats.",
+      "say": "The center stone weighs six point one carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "6.1 carats"
+      }
+    },
+    {
+      "text": "It is a fancy intense pink radiant cut.",
+      "scene": {
+        "kind": "title",
+        "text": "Fancy pink",
+        "sub": "Radiant cut",
+        "piece": "earrings",
+        "stone": "pink",
+        "cut": "pear",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Two white diamonds sit beside it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "Two white diamonds"
+      }
+    },
+    {
+      "text": "She told Diane Sawyer she could tell it was pink.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "oval",
+        "metal": "rose",
+        "halo": 8,
+        "label": "Diane Sawyer interview"
+      }
+    },
+    {
+      "text": "So at first, she avoided looking at it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Avoiding the ring"
+      }
+    },
+    {
+      "text": "Then she called it the most magnificent thing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Most magnificent"
+      }
+    },
+    {
+      "text": "She wore it to the Daredevil premiere in February 2003.",
+      "say": "She wore it to the Daredevil premiere in February two thousand three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "round",
+        "petals": 10,
+        "metal": "rose",
+        "label": "Daredevil premiere"
+      }
+    },
+    {
+      "text": "Many credit the ring with sparking interest in colored diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "A colored diamond trend"
+      }
+    }
+  ],
+  "post": {
+    "caption": "She wouldn't look at the ring. In 2002, Ben Affleck proposed to Jennifer Lopez with a pink diamond from Harry Winston. The center stone weighs 6.1 carats and is a fancy intense pink radiant cut, with two white diamonds beside it. She told Diane Sawyer she could tell it was pink, so she avoided looking at it, and then called it the most magnificent thing. Many credit the ring with sparking interest in colored diamonds.",
+    "hashtags": [
+      "#pinkdiamond",
+      "#engagementring",
+      "#harrywinston",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://amp.cnn.com/cnn/style/article/jlo-ben-affleck-engagement-ring",
+    "https://marieclaire.co.uk/news/fashion-news/engagement-ring-ben-affleck-jennifer-lopez-737367",
+    "https://www.foxnews.com/entertainment/jennifer-lopez-ben-affleck-engagement-speculation-look-back-pink-diamond-sparkler.amp",
+    "https://theadventurine.com/bridal/engagement-rings/how-j-los-pink-diamond-changed-everything",
+    "https://www.hellomagazine.com/brides/20211218129282/jennifer-lopez-ben-affleck-engagement-ring-photos/",
+    "https://www.tatlerasia.com/style/jewellery/jennifer-lopez-engagement-rings",
+    "https://hollywoodlife.com/2022/04/10/jennifer-lopez-green-versus-pink-diamond-engagement-ring-details",
+    "https://www.yahoo.com/lifestyle/jennifer-lopezs-pink-diamond-made-123000357.html",
+    "https://it.vrai.com/journal/post/jennifer-lopez-engagement-rings",
+    "https://abcnews.com/Primetime/story?id=132029"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of this ring exists (celebrity photos and the jeweler's photos are copyrighted), so the story uses drawn pieces only"
+}

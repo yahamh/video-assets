@@ -1,0 +1,196 @@
+{
+  "id": "391-a-red-rose-helped-pay-the-rent",
+  "number": 391,
+  "title": "A red rose helped pay the rent",
+  "style": "jewelbox",
+  "topic": "hatton garden london sir christopher hatton elizabeth i dancing ely place bishop of ely lease 1570s yearly rent one red rose strawberries richard iii st etheldreda's jewelry trade early 1800s clerkenwell south african diamonds rough diamond market nearly 300 jewelry businesses more than 70 shops",
+  "music": "music-391.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "sapphire",
+    "metal": "platinum",
+    "stones": 14
+  },
+  "hook": {
+    "text": "A red rose helped pay the rent.",
+    "gold": [
+      "rose",
+      "rent."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A red rose helped pay the rent.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Sir Christopher Hatton was a favorite of Queen Elizabeth the First.",
+      "say": "Sir Christopher Hatton was a favorite of Queen Elizabeth the First.",
+      "scene": {
+        "kind": "real",
+        "src": "391-a-red-rose-helped-pay-the-rent-0.jpg",
+        "fit": "card",
+        "label": "Sir Christopher Hatton",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He first impressed her with his dancing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "A dancing favorite"
+      }
+    },
+    {
+      "text": "He later became Lord Chancellor of England in 1587.",
+      "say": "He later became Lord Chancellor of England in fifteen eighty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Lord Chancellor, 1587"
+      }
+    },
+    {
+      "text": "In the 1570s, she had Ely's bishop lease him a garden.",
+      "say": "In the fifteen seventies, she had EE leez bishop lease him a garden.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "A garden in London"
+      }
+    },
+    {
+      "text": "The yearly rent included one red rose.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "One red rose"
+      }
+    },
+    {
+      "text": "The bishop's garden was famous for its strawberries.",
+      "scene": {
+        "kind": "piece",
+        "label": "Famous strawberries"
+      }
+    },
+    {
+      "text": "Shakespeare mentions them in Richard the Third.",
+      "scene": {
+        "kind": "title",
+        "text": "Strawberries",
+        "sub": "Richard the Third",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The jewelry trade arrived in the early 1800s.",
+      "say": "The jewelry trade arrived in the early eighteen hundreds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Early 1800s"
+      }
+    },
+    {
+      "text": "After South African diamonds were found, it became a world diamond market.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A diamond market"
+      }
+    },
+    {
+      "text": "Today it has nearly 300 jewelry businesses.",
+      "say": "Today it has nearly three hundred jewelry businesses.",
+      "scene": {
+        "kind": "real",
+        "src": "391-a-red-rose-helped-pay-the-rent-1.jpg",
+        "fit": "card",
+        "label": "48 Hatton Garden, London",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "More than 70 of them are shops.",
+      "say": "More than seventy of them are shops.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Over 70 shops"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A red rose helped pay the rent. Hatton Garden, the London street of jewelers, is named for Sir Christopher Hatton, a favorite of Queen Elizabeth I who first impressed her with his dancing. In the 1570s, she had Ely's bishop lease him a garden, and the yearly rent included one red rose. The bishop's garden was famous for strawberries, and Shakespeare mentions them in Richard the Third. The jewelry trade arrived in the early 1800s, and after South African diamonds were found, the street became a world diamond market. Today it has nearly 300 jewelry businesses, and more than 70 of them are shops.",
+    "hashtags": [
+      "#hattongarden",
+      "#london",
+      "#diamonds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hatton_Garden",
+    "https://www.londonmuseum.org.uk/collections/london-stories/hatton-garden-london-diamond-jewellery/",
+    "https://www.hatton-garden.london/visit/guides/a-brief-history-of-hatton-garden-jewellers",
+    "https://www.historyhit.com/locations/hatton-garden/",
+    "https://www.queensmith.co.uk/journal/hatton-garden-jewellers-a-brief-history",
+    "https://www.lbma.org.uk/alchemist/issue-9/the-golden-age-of-hatton-garden",
+    "https://hidden-london.com/?p=1789",
+    "https://www.british-history.ac.uk/node/37795",
+    "https://camdenguides.com/entertainments-in-ely-place-and-hatton-garden/",
+    "https://en.wikipedia.org/wiki/Ely_Place",
+    "https://www.britannica.com/biography/Christopher-Hatton"
+  ],
+  "images": [
+    {
+      "src": "391-a-red-rose-helped-pay-the-rent-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "anonymous",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Christopher_Hatton_from_NPG_(2).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "391-a-red-rose-helped-pay-the-rent-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Mx. Granger",
+      "page": "https://commons.wikimedia.org/wiki/File:Baird_and_Co.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

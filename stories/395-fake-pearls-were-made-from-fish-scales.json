@@ -1,0 +1,183 @@
+{
+  "id": "395-fake-pearls-were-made-from-fish-scales",
+  "number": 395,
+  "title": "Fake pearls were made from fish scales",
+  "style": "deco",
+  "topic": "essence d'orient fake pearls fish scales paris rosary maker jaquin around 1656 silvery liquid essence of the east bleak guanine about 2000 fish one liter hollow glass beads coated inside filled with wax majorica eduard hugo heusch 1890 barcelona manacor mallorca",
+  "music": "music-395.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "cream",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Fake pearls were made from fish scales.",
+    "gold": [
+      "Fake",
+      "scales."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fake pearls were made from fish scales.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Around 1656, a Paris rosary maker named Jaquin began using them.",
+      "say": "Around sixteen fifty six, a Paris rosary maker named Zhah KAN began using them.",
+      "scene": {
+        "kind": "piece",
+        "label": "Paris, around 1656"
+      }
+    },
+    {
+      "text": "The silvery liquid was called essence of the East.",
+      "scene": {
+        "kind": "title",
+        "text": "Essence",
+        "sub": "Of the East",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It was ground from the scales of a small fish, the bleak.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The bleak fish"
+      }
+    },
+    {
+      "text": "About 2,000 fish gave one liter.",
+      "say": "About two thousand fish gave one liter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "About 2,000 fish"
+      }
+    },
+    {
+      "text": "Its shine comes from a crystal called guanine.",
+      "say": "Its shine comes from a crystal called GWAH neen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "tanzanite",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "Crystal of guanine"
+      }
+    },
+    {
+      "text": "Makers coated the inside of hollow glass beads.",
+      "scene": {
+        "kind": "real",
+        "src": "395-fake-pearls-were-made-from-fish-scales-0.jpg",
+        "fit": "card",
+        "label": "Imitation pearls, 1840s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Then they filled each bead with wax for strength.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Filled with wax"
+      }
+    },
+    {
+      "text": "Majorica, in Spain, still coats glass beads with fish scale essence.",
+      "say": "Ma yor EE ka, in Spain, still coats glass beads with fish scale essence.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "morganite",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "Majorica, Spain"
+      }
+    },
+    {
+      "text": "Engineer Eduard Hugo Heusch founded it in Barcelona in 1890.",
+      "say": "Engineer Eduard HOO go HOYSH founded it in Barcelona in eighteen ninety.",
+      "scene": {
+        "kind": "real",
+        "src": "395-fake-pearls-were-made-from-fish-scales-1.jpg",
+        "fit": "card",
+        "label": "Imitation pearls, 1800s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its factory now stands in Manacor, on Mallorca.",
+      "say": "Its factory now stands in Mah nah KOR, on Mah YOR kah.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Manacor, Mallorca"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Fake pearls were made from fish scales. Around 1656, a Paris rosary maker named Jaquin began using them. The silvery liquid, called essence of the East, was ground from the scales of a small fish, the bleak. About 2,000 fish gave one liter. Its shine comes from a crystal called guanine. Makers coated hollow glass beads on the inside with it, then filled each bead with wax for strength. Majorica, in Spain, still coats glass beads with fish scale essence. Engineer Eduard Hugo Heusch founded it in Barcelona in 1890, and its factory now stands in Manacor, on Mallorca.",
+    "hashtags": [
+      "#pearls",
+      "#fakepearls",
+      "#majorica",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.ispigment.com/history-of-effect-pigments_n147",
+    "https://en.wikipedia.org/wiki/Guanine",
+    "https://cameo.mfa.org/wiki/Guanine",
+    "https://navettejewellery.org/2023/05/24/imitation-pearls/",
+    "https://wp.wpi.edu/apothecarycapstone/?p=25516",
+    "https://ericaweiner.com/history-lessons/pearls",
+    "https://www.fetheray.com/blogs/news/fish-scale",
+    "https://www.langantiques.com/university/baroque-jewelry/",
+    "https://victorianweb.org/art/design/jewelry/gere/8.html",
+    "https://origin.prod.gia.edu/dam/jcr:132779ad-3856-4a8d-b483-f4231fb8bd0f/Majorica-Imitation-Pearls.pdf",
+    "https://www.majorica.com/en/blogs/majorica-universe/majorica-more-than-100-years-of-craftsmanship"
+  ],
+  "images": [
+    {
+      "src": "395-fake-pearls-were-made-from-fish-scales-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Tiara,_1830s-1840s,_metal-gilt,_glass,_imitation_pearls_-_Nordiska_museet_-_Stockholm,_Sweden_-_DSC09738.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "395-fake-pearls-were-made-from-fish-scales-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Decorative_comb,_1870s-1890s,_silver-plated_metal,_imitation_pearls,_horn_-_Nordiska_museet_-_Stockholm,_Sweden_-_DSC09748.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

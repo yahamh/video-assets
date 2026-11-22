@@ -1,0 +1,174 @@
+{
+  "id": "388-found-in-a-shovelful-of-gravel",
+  "number": 388,
+  "title": "Found in a shovelful of gravel",
+  "style": "jewelbox",
+  "topic": "excelsior diamond jagersfontein mine orange free state 30 june 1893 shovelful of gravel loading a truck skipped overseer mine manager 500 pounds saddled horse 971 3/4 carats rough nearly 1000 carats half a loaf biggest diamond until cullinan 1905 excelsior latin higher asscher amsterdam 1903 21 gems 373.75 carats excelsior i pear 70 carats",
+  "music": "music-388.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "Found in a shovelful of gravel.",
+    "gold": [
+      "shovelful",
+      "gravel."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Found in a shovelful of gravel.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1893, a worker at Jagersfontein spotted it while loading a truck.",
+      "say": "In eighteen ninety three, a worker at YAH gers fon tine spotted it while loading a truck.",
+      "scene": {
+        "kind": "piece",
+        "label": "Jagersfontein, South Africa"
+      }
+    },
+    {
+      "text": "He skipped his overseer and took it to the mine manager.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Straight to the manager"
+      }
+    },
+    {
+      "text": "His reward was 500 pounds and a saddled horse.",
+      "say": "His reward was five hundred pounds and a saddled horse.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "A saddled horse"
+      }
+    },
+    {
+      "text": "The rough stone weighed nearly 1,000 carats.",
+      "say": "The rough stone weighed nearly one thousand carats.",
+      "scene": {
+        "kind": "real",
+        "src": "388-found-in-a-shovelful-of-gravel-0.jpg",
+        "fit": "card",
+        "label": "The Jagersfontein stone, 1897",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It stayed the biggest diamond known until 1905.",
+      "say": "It stayed the biggest diamond known until nineteen oh five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Biggest until 1905"
+      }
+    },
+    {
+      "text": "Its name, Excelsior, is Latin for higher.",
+      "say": "Its name, ek SEL see er, is Latin for higher.",
+      "scene": {
+        "kind": "title",
+        "text": "Excelsior",
+        "sub": "Latin for higher",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Asscher of Amsterdam began cutting it in 1903.",
+      "say": "Asher of Amsterdam began cutting it in nineteen oh three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "diamond",
+        "label": "Cutting began, 1903"
+      }
+    },
+    {
+      "text": "It was split into 21 polished gems.",
+      "say": "It was split into twenty one polished gems.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "21 polished gems"
+      }
+    },
+    {
+      "text": "Together they weigh about 374 carats.",
+      "say": "Together they weigh about three hundred seventy four carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "About 374 carats"
+      }
+    },
+    {
+      "text": "The biggest, Excelsior I, is a pear shape of about 70 carats.",
+      "say": "The biggest, Excelsior one, is a pear shape of about seventy carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Excelsior I, about 70 carats"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Found in a shovelful of gravel. In 1893, a worker at the Jagersfontein mine in South Africa spotted the Excelsior Diamond while loading a truck. He skipped his overseer and took it to the mine manager, and he was rewarded with 500 pounds and a saddled horse. The rough stone weighed nearly 1,000 carats. It stayed the biggest diamond known until the Cullinan in 1905. Asscher of Amsterdam began cutting it in 1903 and made 21 polished gems. The biggest, Excelsior I, is a pear shape of about 70 carats.",
+    "hashtags": [
+      "#excelsiordiamond",
+      "#diamonds",
+      "#southafrica",
+      "#diamondcutting",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Excelsior_Diamond",
+    "https://www.britannica.com/topic/Excelsior-Diamond",
+    "https://sahistory.org.za/dated-event/excelsior-biggest-diamond-till-then-found-jagersfontein-mine-ofs",
+    "https://thediamondcollective.world/historic-diamonds/excelsior-diamond/",
+    "https://mouawad.com/ae-en/diamond-gallery-excelsior.html",
+    "https://www.pressreader.com/south-africa/sunday-times-1107/20190630/282703343639266"
+  ],
+  "images": [
+    {
+      "src": "388-found-in-a-shovelful-of-gravel-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Mark Twain",
+      "page": "https://commons.wikimedia.org/wiki/File:Following_the_Equator_(Mark_Twain)_(page_713_crop).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
