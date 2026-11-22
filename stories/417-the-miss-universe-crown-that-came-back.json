@@ -1,0 +1,191 @@
+{
+  "id": "417-the-miss-universe-crown-that-came-back",
+  "number": 417,
+  "title": "The Miss Universe crown that came back",
+  "style": "gouache",
+  "topic": "mikimoto miss universe crown 2002 phoenix 120 south sea akoya pearls 3 to 18 millimeters 500 diamonds official jeweler until 2007 ten year break photo shoot 2017 comeback used again 2017 2018 kokichi mikimoto cultured pearls",
+  "music": "music-417.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "white",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Miss Universe crown that came back.",
+    "gold": [
+      "Universe",
+      "back."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Miss Universe crown that came back.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Mikimoto, the Japanese pearl house, made it in 2002.",
+      "say": "Mee kee MOH toh, the Japanese pearl house, made it in two thousand two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Made in 2002"
+      }
+    },
+    {
+      "text": "Its founder brought cultured pearls to the world.",
+      "scene": {
+        "kind": "real",
+        "src": "417-the-miss-universe-crown-that-came-back-0.jpg",
+        "fit": "card",
+        "label": "A pearl oyster shell",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The crown is shaped like a rising phoenix.",
+      "scene": {
+        "kind": "title",
+        "text": "Phoenix",
+        "sub": "A rising phoenix",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 7,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "It carries 120 South Sea and Akoya pearls.",
+      "say": "It carries one hundred twenty South Sea and ah KOH yah pearls.",
+      "scene": {
+        "kind": "real",
+        "src": "417-the-miss-universe-crown-that-came-back-1.jpg",
+        "fit": "card",
+        "label": "A strand of Akoya pearls",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Those pearls range from 3 to 18 millimeters.",
+      "say": "Those pearls range from three to eighteen millimeters.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "yellow",
+        "label": "3 to 18 millimeters"
+      }
+    },
+    {
+      "text": "It also has about 500 diamonds.",
+      "say": "It also has about five hundred diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "About 500 diamonds"
+      }
+    },
+    {
+      "text": "Mikimoto was the pageant's official jeweler until 2007.",
+      "say": "Mee kee MOH toh was the pageant's official jeweler until two thousand seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Official jeweler"
+      }
+    },
+    {
+      "text": "Then the crown took a ten year break.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "A ten year break"
+      }
+    },
+    {
+      "text": "A photo shoot in 2017 started its comeback.",
+      "say": "A photo shoot in twenty seventeen started its comeback.",
+      "scene": {
+        "kind": "title",
+        "text": "2017",
+        "sub": "The comeback",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8
+      }
+    },
+    {
+      "text": "It was used again in 2017 and 2018.",
+      "say": "It was used again in twenty seventeen and twenty eighteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Used again"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Miss Universe crown that came back. Mikimoto, the Japanese pearl house, made it in 2002, and its founder brought cultured pearls to the world. The crown is shaped like a rising phoenix. It carries 120 South Sea and Akoya pearls, from 3 to 18 millimeters, and about 500 diamonds. Mikimoto was the pageant's official jeweler until 2007. Then the crown took a ten year break, until a photo shoot in 2017 started its comeback. It was used again in 2017 and 2018.",
+    "hashtags": [
+      "#missuniverse",
+      "#mikimoto",
+      "#pearls",
+      "#crown",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mikimoto_Crown",
+    "https://www.europastar.com/news/2037341-a-new-crown-for-miss-universe.html",
+    "https://thediamondcollective.world/culture-and-style/miss-universe-crowns/",
+    "https://www.hola.com/us/fashion/20231110352488/the-evolution-of-miss-universe-crowns",
+    "https://abs-cbn.com/life/01/27/17/look-pia-wurtzbach-wears-iconic-mikimoto-crown",
+    "https://www.sunstar.com.ph/more-articles/mikimoto-crown-returns-to-miss-universe",
+    "https://entertainment.inquirer.net/?p=480546",
+    "https://www.pep.ph/lifestyle/lifestyle/170861/miss-universe-crown-a755-20230114-lfrm",
+    "https://en.wikipedia.org/wiki/Mikimoto_Kokichi",
+    "https://www.britannica.com/biography/Mikimoto-Kokichi"
+  ],
+  "images": [
+    {
+      "src": "417-the-miss-universe-crown-that-came-back-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Pinctada_maxima_-_Osaka_Museum_of_Natural_History_-_DSC07847.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "417-the-miss-universe-crown-that-came-back-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Effisk at English Wikipedia",
+      "page": "https://commons.wikimedia.org/wiki/File:Strand-of-akoya-pearls.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

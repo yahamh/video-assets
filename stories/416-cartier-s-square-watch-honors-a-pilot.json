@@ -1,0 +1,191 @@
+{
+  "id": "416-cartier-s-square-watch-honors-a-pilot",
+  "number": 416,
+  "title": "Cartier's square watch honors a pilot",
+  "style": "deco",
+  "topic": "cartier santos watch louis cartier alberto santos dumont brazilian aviator pocket watch awkward wrist square case bezel screws 1911 on sale edmond jaeger platinum yellow gold leather strap 1978 santos de cartier cartier dates 1904",
+  "music": "music-416.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "ruby",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Cartier's square watch honors a pilot.",
+    "gold": [
+      "Cartier's",
+      "pilot."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier's square watch honors a pilot.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Cartier says Louis Cartier made it for his pilot friend.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "A watch for a friend"
+      }
+    },
+    {
+      "text": "The pilot was Alberto Santos Dumont, from Brazil.",
+      "say": "The pilot was Alberto SAN tohs doo MOHN, from Brazil.",
+      "scene": {
+        "kind": "real",
+        "src": "416-cartier-s-square-watch-honors-a-pilot-0.jpg",
+        "fit": "card",
+        "label": "Alberto Santos Dumont",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Cartier dates that story to 1904.",
+      "say": "Cartier dates that story to nineteen oh four.",
+      "scene": {
+        "kind": "title",
+        "text": "1904",
+        "sub": "Cartier says",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Checking a pocket watch while flying was awkward.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A pocket watch was awkward"
+      }
+    },
+    {
+      "text": "So Cartier made him one for his wrist.",
+      "scene": {
+        "kind": "piece",
+        "label": "A watch for his wrist"
+      }
+    },
+    {
+      "text": "Its case was square, when most watches were round.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "A square case"
+      }
+    },
+    {
+      "text": "The bezel shows off its screws.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "stones": 8,
+        "label": "Screws on show"
+      }
+    },
+    {
+      "text": "In 1911, it went on sale to everyone.",
+      "say": "In nineteen eleven, it went on sale to everyone.",
+      "scene": {
+        "kind": "title",
+        "text": "1911",
+        "sub": "On sale",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Watchmaker Edmond Jaeger helped Cartier make it.",
+      "say": "Watchmaker ed MOHN zhay GAIR helped Cartier make it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Edmond Jaeger"
+      }
+    },
+    {
+      "text": "Its first models were platinum and yellow gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Platinum and yellow gold"
+      }
+    },
+    {
+      "text": "In 1978, it came back as the Santos de Cartier.",
+      "say": "In nineteen seventy eight, it came back as the SAN tohs duh Cartier.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "Back in 1978"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cartier's square watch honors a pilot. Cartier says Louis Cartier made it for his pilot friend, the Brazilian aviator Alberto Santos Dumont, and dates that story to 1904. Checking a pocket watch while flying was awkward, so Cartier made him one for his wrist. Its case was square, when most watches were round, and the bezel shows off its screws. In 1911 it went on sale to everyone, made with help from the watchmaker Edmond Jaeger, in platinum and yellow gold. In 1978 it came back as the Santos de Cartier.",
+    "hashtags": [
+      "#cartier",
+      "#santos",
+      "#watches",
+      "#luxurywatches",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/the-essential-guide-to-the-cartier-santos",
+    "https://monochrome-watches.com/history-of-the-pilot-watch-part-i-cartier-santos-1904/",
+    "https://gearpatrol.com/2020/04/07/watches-you-should-know-cartier-santos/",
+    "https://en.wikipedia.org/wiki/Cartier_Santos",
+    "https://revolutionwatch.com/cartier-a-santos-story/",
+    "https://rescapement.com/blog/cartier-santos-a-brief-history",
+    "https://www.thepeakmagazine.com.sg/watch-jewellery/how-the-santos-de-cartier-became-a-legend1",
+    "https://en.webchronos.net/iconic/17089/2/",
+    "https://www.cartiercodex.com/cartier-santos-dumont-watch",
+    "https://www.cartier.com/en-us/watches/mens-watches/santos-dumont-watch-CRWSSA0032.html",
+    "https://www.countryandtownhouse.com/style/jewellery-and-watches/super-iconic-watches-santos-de-cartier/"
+  ],
+  "images": [
+    {
+      "src": "416-cartier-s-square-watch-honors-a-pilot-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Nadar",
+      "page": "https://commons.wikimedia.org/wiki/File:Alberto_Santos-Dumont_by_Nadar.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
