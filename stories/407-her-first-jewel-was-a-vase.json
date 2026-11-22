@@ -1,0 +1,156 @@
+{
+  "id": "407-her-first-jewel-was-a-vase",
+  "number": 407,
+  "title": "Her first jewel was a vase",
+  "style": "deco",
+  "topic": "elsa peretti tiffany 1969 flea market bud vase pendant sterling silver two inches leather cord halston friend 1974 walter hoving first silver collection sold out in a day bean seed life's origin open heart henry moore bone cuff wrist bone 2024 fifty years british museum metropolitan museum",
+  "music": "music-407.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "diamond",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Her first jewel was a vase.",
+    "gold": [
+      "jewel",
+      "vase."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Her first jewel was a vase.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1969, Elsa Peretti made a jewel from a flea market vase.",
+      "say": "In nineteen sixty nine, Elsa Peretti made a jewel from a flea market vase.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A flea market vase"
+      }
+    },
+    {
+      "text": "She modeled for the designer Halston, who became a close friend.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Halston, a close friend"
+      }
+    },
+    {
+      "text": "In 1974, he introduced her to Tiffany's head, Walter Hoving.",
+      "say": "In nineteen seventy four, he introduced her to Tiffany's head, Walter HOH ving.",
+      "scene": {
+        "kind": "title",
+        "text": "Hoving",
+        "sub": "Tiffany's head",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 8
+      }
+    },
+    {
+      "text": "Tiffany says her first silver collection sold out in one day.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Sold out in a day"
+      }
+    },
+    {
+      "text": "The Bean is a seed shape, a symbol of life's origin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The Bean"
+      }
+    },
+    {
+      "text": "Her Open Heart borrows the open space of a Henry Moore sculpture.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "heart",
+        "metal": "platinum",
+        "label": "The Open Heart"
+      }
+    },
+    {
+      "text": "Her Bone cuff is shaped to fit the wrist bone.",
+      "scene": {
+        "kind": "piece",
+        "label": "The Bone cuff"
+      }
+    },
+    {
+      "text": "In 2024, Tiffany marked 50 years of her designs.",
+      "say": "In twenty twenty four, Tiffany marked fifty years of her designs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "50 years at Tiffany"
+      }
+    },
+    {
+      "text": "Her jewelry is in the British Museum and the Metropolitan Museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "British Museum, the Met"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Her first jewel was a vase. In 1969, Elsa Peretti made a jewel from a flea market vase, a sterling silver pendant two inches tall on a leather cord. She modeled for the designer Halston, who became a close friend, and in 1974 he introduced her to Tiffany's head, Walter Hoving. Tiffany says her first silver collection sold out in one day. The Bean is a seed shape, a symbol of life's origin, and the Open Heart borrows the open space of a Henry Moore sculpture. The Bone cuff is shaped to fit the wrist bone. In 2024, Tiffany marked 50 years of her designs, and her jewelry is in the British Museum and the Metropolitan Museum.",
+    "hashtags": [
+      "#elsaperetti",
+      "#tiffany",
+      "#silverjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://press.tiffany.com/the-designers/elsa-peretti/",
+    "https://tiffany.prezly.com/tiffany--co--peretti-bean-collection-2022",
+    "https://en.wikipedia.org/wiki/Elsa_Peretti",
+    "https://www.sothebys.com/en/articles/inside-the-private-world-of-elsa-peretti",
+    "https://galeriemagazine.com/tiffany-elsa-peretti-bone-cuff-anniversary-history/",
+    "https://news.artnet.com/art-world/tiffany-bone-cuff-50-years-1866951",
+    "https://theweek.com/uk/108635/cuffing-season-tiffany-co-celebrates-peretti-s-bone-cuff",
+    "https://www.britishmuseum.org/collection/object/H_2007-8006-17",
+    "https://hancockslondon.com/makers/peretti-elsa",
+    "https://www.fashionphile.com/blogs/academy/elsa-perettis-herstory"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of Peretti's jewelry; the Tiffany store photos and museum cuff pictures are CC BY-SA or NC"
+}
