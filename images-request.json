@@ -1,112 +1,118 @@
 {
  "queries": [
   {
-   "key": "h-lulo",
+   "key": "h-paloma",
    "commons": [
-    "Lulo Rose diamond",
-    "Lulo diamond mine Angola",
-    "Pink diamond",
-    "Fancy pink diamond rough",
-    "Lucapa Diamond Company",
-    "Angola diamond mining"
+    "Paloma Picasso",
+    "Kunzite",
+    "Picasso Kunzite Necklace",
+    "Tiffany & Co. Fifth Avenue",
+    "Subway graffiti New York 1980s",
+    "Tiffany & Co. flagship store"
    ],
    "max": 7
   },
   {
-   "key": "h-peace",
+   "key": "h-verdura",
    "commons": [
-    "Peace Diamond Sierra Leone",
-    "Sierra Leone diamond",
-    "Koidu Sierra Leone",
-    "Emmanuel Momoh",
-    "Diamond rough uncut",
-    "Sierra Leone diamond mining"
+    "Fulco di Verdura",
+    "Villa Niscemi",
+    "Coco Chanel 1920s",
+    "Cole Porter",
+    "Basilica of San Vitale Theodora",
+    "Fire Island beach seashell"
    ],
    "max": 7
   },
   {
-   "key": "h-inkalamu",
+   "key": "h-tutti",
    "commons": [
-    "Inkalamu emerald",
-    "Kagem mine",
-    "Gemfields emerald",
-    "Zambia emerald",
-    "Emerald crystal rough",
-    "Emerald Kafubu"
+    "Delhi Durbar 1911",
+    "Cartier Tutti Frutti",
+    "Mountbatten bandeau",
+    "Carved emerald Mughal",
+    "Jacques Cartier",
+    "Edwina Mountbatten"
    ],
    "max": 7
   },
   {
-   "key": "h-wallis",
+   "key": "h-goldhat",
    "commons": [
-    "Wallis Simpson",
-    "Wallis Simpson Edward VIII",
-    "Duke and Duchess of Windsor",
-    "Wallis Simpson 1936",
-    "Wallis Simpson Duchess of Windsor 1937",
-    "Emerald ring Cartier",
-    "Cartier emerald ring"
+    "Berliner Goldhut",
+    "Berlin Gold Hat",
+    "Goldener Hut Schifferstadt",
+    "Neues Museum Berlin",
+    "Ezelsdorf Goldkegel",
+    "Bronze Age gold"
    ],
    "max": 7
   },
   {
-   "key": "h-peretti",
+   "key": "h-belperron",
    "commons": [
-    "Elsa Peretti",
-    "Tiffany & Co Elsa Peretti",
-    "Tiffany Bean pendant",
-    "Tiffany & Co jewelry",
-    "Halston Elsa Peretti",
-    "Tiffany Open Heart"
+    "Suzanne Belperron",
+    "Belperron",
+    "Rock crystal jewelry",
+    "Chalcedony",
+    "Art Deco brooch",
+    "Duchess of Windsor jewels"
    ],
    "max": 7
   },
   {
-   "key": "h-navajo",
+   "key": "h-princess",
    "commons": [
-    "Squash blossom necklace",
-    "Navajo squash blossom necklace",
-    "Navajo silver jewelry",
-    "Navajo turquoise jewelry",
-    "Naja pendant",
-    "Navajo silversmith"
+    "Princess cut diamond",
+    "Princess-cut diamond ring",
+    "Diamond shapes princess cut diagram",
+    "Princess cut"
    ],
    "max": 7
   },
   {
-   "key": "h-sipan",
+   "key": "h-moussaieff",
    "commons": [
-    "Lord of Sipan",
-    "Señor de Sipán",
-    "Huaca Rajada",
-    "Moche gold jewelry",
-    "Moche earrings",
-    "Museo Tumbas Reales de Sipán",
-    "Walter Alva"
+    "Moussaieff Red diamond",
+    "Red diamond",
+    "Splendor of Diamonds Smithsonian 2003",
+    "Trilliant cut diamond"
    ],
    "max": 7
   },
   {
-   "key": "h-kanazawa",
+   "key": "h-pakal",
    "commons": [
-    "Kanazawa gold leaf",
-    "Gold leaf",
-    "Kinkaku-ji Golden Pavilion",
-    "Kanazawa Japan",
-    "Gold leaf Japan",
-    "Goldleaf making"
+    "Pakal mask",
+    "Pakal the Great",
+    "Temple of the Inscriptions Palenque",
+    "Palenque",
+    "Maya jade mask",
+    "Museo Nacional de Antropologia Mexico"
    ],
    "max": 7
   },
   {
-   "key": "h-spoon",
+   "key": "h-nimrud",
    "commons": [
-    "Spoonmaker's Diamond",
-    "Kasikci Diamond",
-    "Topkapi Palace Treasury",
-    "Spoonmaker Diamond Topkapi",
-    "Topkapi Palace diamond",
-    "Topkapi Palace Imperial Treasury"
+    "Nimrud gold",
+    "Treasure of Nimrud",
+    "Nimrud",
+    "Assyrian gold jewelry",
+    "Iraq Museum Nimrud",
+    "Nimrud tomb"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-chivor",
+   "commons": [
+    "Chivor emerald",
+    "Chivor mine",
+    "Muzo emerald",
+    "Colombian emerald",
+    "Emerald crystal",
+    "Boyaca Colombia emerald mine"
    ],
    "max": 7
   }
