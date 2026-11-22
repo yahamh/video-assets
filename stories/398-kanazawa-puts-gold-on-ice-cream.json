@@ -1,0 +1,185 @@
+{
+  "id": "398-kanazawa-puts-gold-on-ice-cream",
+  "number": 398,
+  "title": "Kanazawa puts gold on ice cream",
+  "style": "deco",
+  "topic": "kanazawa gold leaf japan soft serve ice cream topped with gold leaf nearly all of japan's gold leaf one ten thousandth of a millimeter thick gold silver copper rolled thin cut into small squares beaten between sheets of paper persimmon juice egg machine 700 strikes a minute kyoto golden pavilion kinkaku ji top two floors 1987 regilded five times thicker",
+  "music": "music-398.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "citrine",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Kanazawa puts gold on ice cream.",
+    "gold": [
+      "gold",
+      "cream."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kanazawa puts gold on ice cream.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Soft serve topped with gold leaf is a Kanazawa specialty.",
+      "scene": {
+        "kind": "real",
+        "src": "398-kanazawa-puts-gold-on-ice-cream-0.jpg",
+        "fit": "card",
+        "label": "Gold leaf on soft serve, Kanazawa",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Nearly all of Japan's gold leaf is made there.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 6,
+        "metal": "yellow",
+        "label": "Nearly all of Japan's leaf"
+      }
+    },
+    {
+      "text": "It is about a ten thousandth of a millimeter thick.",
+      "scene": {
+        "kind": "title",
+        "text": "Ten thousandth",
+        "sub": "of a millimeter",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 12
+      }
+    },
+    {
+      "text": "First, gold is mixed with a little silver and copper.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Gold, silver and copper"
+      }
+    },
+    {
+      "text": "The gold is rolled thin and cut into small squares.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "rose",
+        "label": "Rolled and cut"
+      }
+    },
+    {
+      "text": "Then it is beaten between sheets of special paper.",
+      "scene": {
+        "kind": "real",
+        "src": "398-kanazawa-puts-gold-on-ice-cream-1.jpg",
+        "fit": "card",
+        "label": "Gold leaf, Ishikawa museum",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The paper is treated with persimmon juice and egg.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Persimmon and egg"
+      }
+    },
+    {
+      "text": "Today a machine does the beating, about 700 strikes a minute.",
+      "say": "Today a machine does the beating, about seven hundred strikes a minute.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "peridot",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "700 strikes a minute"
+      }
+    },
+    {
+      "text": "Kyoto's Golden Pavilion wears gold leaf on its top two floors.",
+      "scene": {
+        "kind": "title",
+        "text": "Kyoto",
+        "sub": "The Golden Pavilion",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "In 1987, it was regilded with leaf about five times thicker.",
+      "say": "In nineteen eighty seven, it was regilded with leaf about five times thicker.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Regilded in 1987"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Kanazawa puts gold on ice cream. Soft serve topped with gold leaf is a specialty of Kanazawa, Japan, where nearly all of the country's gold leaf is made. The leaf is about a ten thousandth of a millimeter thick. Gold is mixed with a little silver and copper, rolled thin and cut into small squares, then beaten between sheets of special paper treated with persimmon juice and egg. Today a machine does the beating, about 700 strikes a minute. Kyoto's Golden Pavilion wears gold leaf on its top two floors, and in 1987 it was regilded with leaf about five times thicker than usual.",
+    "hashtags": [
+      "#goldleaf",
+      "#kanazawa",
+      "#japan",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.japan.travel/en/japan-magazine/2103_kanazawa-gold-leaf-an-art-passed-down-through-generations/",
+    "https://gov-online.go.jp/eng/publicity/book/hlj/html/201606/201606_11_en.html",
+    "https://gov-online.go.jp/eng/publicity/book/hlj/html/202210/202210_06_en.html",
+    "https://web-japan.org/nipponia/nipponia45/en/feature/feature06.html",
+    "https://kougeihin.jp/en/craft/1502/",
+    "https://visitkanazawa.jp/en/planning-toolkit/detail_663.html",
+    "https://www.japan.travel/en/japans-local-treasures/kanazawa-gold-leaf-craft/",
+    "https://www.hakuza.co.jp/en/haku",
+    "https://en.wikipedia.org/wiki/Kinkaku-ji",
+    "https://www.worldhistory.org/Kinkakuji/"
+  ],
+  "images": [
+    {
+      "src": "398-kanazawa-puts-gold-on-ice-cream-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_leaf_on_soft_ice_cream_-_Kanazawa,_Japan_-_DSC00135.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "398-kanazawa-puts-gold-on-ice-cream-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Unknown_-_Ishikawa_Prefectural_Museum_of_Traditional_Arts_and_Crafts_-_Kanazawa,_Japan_-_DSC09882.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

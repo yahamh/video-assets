@@ -1,0 +1,182 @@
+{
+  "id": "401-a-pastor-handed-over-a-huge-diamond",
+  "number": 401,
+  "title": "A pastor handed over a huge diamond",
+  "style": "deco",
+  "topic": "peace diamond sierra leone pastor emmanuel momoh diggers kono district march 2017 709 carats rough handed to local authorities president koroma thanked him not smuggling named peace diamond biggest in sierra leone in over 40 years open auction new york rapaport ran it free graff december 4 2017",
+  "music": "music-401.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "A pastor handed over a huge diamond.",
+    "gold": [
+      "handed",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pastor handed over a huge diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In March 2017, diggers on a pastor's team found a rough diamond.",
+      "say": "In March twenty seventeen, diggers on a pastor's team found a rough diamond.",
+      "scene": {
+        "kind": "real",
+        "src": "401-a-pastor-handed-over-a-huge-diamond-0.jpg",
+        "fit": "card",
+        "label": "A diamond digger in Sierra Leone",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It weighed 709 carats, from Sierra Leone's Kono district.",
+      "say": "It weighed seven hundred nine carats, from Sierra Leone's KOH noh district.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "709 carats"
+      }
+    },
+    {
+      "text": "The pastor, Emmanuel Momoh, held the mining license and backed the diggers.",
+      "say": "The pastor, ee MAN yoo el MOH moh, held the mining license and backed the diggers.",
+      "scene": {
+        "kind": "title",
+        "text": "Momoh",
+        "sub": "The pastor",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 8
+      }
+    },
+    {
+      "text": "He handed it over to the local authorities.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "rose",
+        "halo": 10,
+        "label": "Handed to the authorities"
+      }
+    },
+    {
+      "text": "President Koroma thanked him for not smuggling it.",
+      "say": "President kuh ROH muh thanked him for not smuggling it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Thanked by the president"
+      }
+    },
+    {
+      "text": "It was named the Peace Diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The Peace Diamond"
+      }
+    },
+    {
+      "text": "It was the biggest found in Sierra Leone in over 40 years.",
+      "say": "It was the biggest found in Sierra Leone in over forty years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "yellow",
+        "label": "Biggest in 40 years"
+      }
+    },
+    {
+      "text": "The government held an open auction in New York.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "rose",
+        "label": "An open auction, New York"
+      }
+    },
+    {
+      "text": "The Rapaport Group ran the auction for free.",
+      "say": "The RAP uh port Group ran the auction for free.",
+      "scene": {
+        "kind": "title",
+        "text": "Rapaport",
+        "sub": "Ran it for free",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "rose"
+      }
+    },
+    {
+      "text": "Graff, a British jeweler, bought it on December 4, 2017.",
+      "say": "Graff, a British jeweler, bought it on December fourth, twenty seventeen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Graff, December 2017"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A pastor handed over a huge diamond. In March 2017, diggers on the team of Pastor Emmanuel Momoh found a rough diamond of 709 carats in Sierra Leone's Kono district. Momoh handed it to the local authorities, and President Ernest Bai Koroma thanked him for not smuggling it. It was named the Peace Diamond and was the biggest found in Sierra Leone in over 40 years. The government held an open auction in New York, run for free by the Rapaport Group, and the British jeweler Graff bought it on December 4, 2017.",
+    "hashtags": [
+      "#diamonds",
+      "#sierraleone",
+      "#peacediamond",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sierra_Leone_Diamond_(Kono_region)",
+    "https://www.dailymaverick.co.za/article/2017-03-24-divine-diamonds-sierra-leone-pastors-709-carat-find/",
+    "https://www.upi.com/Top_News/World-News/2017/03/16/Sierra-Leone-pastor-finds-709-carat-diamond/1561489677111/",
+    "https://www.ibtimes.co.uk/pastor-sierra-leone-finds-709-carat-diamond-biggest-discovery-since-1971-1611980",
+    "https://rapaport.com/news/story-of-the-peace-diamond-it-takes-a-village/",
+    "https://www.graff.com/house/2017/graff-acquires-the-peace-diamond/",
+    "https://www.thejewelleryeditor.com/whats-on/auctions/709-carat-peace-diamond-sierra-leone-auction/",
+    "https://nationaljeweler.com/articles/5393-sierra-leone-s-709-carat-peace-diamond-going-to-auction",
+    "https://www.nationaljeweler.com/articles/5827-graff-purchases-peace-diamond-for-6-5m",
+    "https://time.com/5368633/sierra-leone-peace-diamond/",
+    "https://www.africanews.com/2017/12/05/709-carat-sierra-leone-peace-diamond-sold-for-65m-in-new-york-auction//"
+  ],
+  "images": [
+    {
+      "src": "401-a-pastor-handed-over-a-huge-diamond-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Laura Lartigue",
+      "page": "https://commons.wikimedia.org/wiki/File:Alluvial_diamond_miner_Sierra_Leone_2005.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

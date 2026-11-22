@@ -1,0 +1,192 @@
+{
+  "id": "404-he-hid-his-machine-in-the-alps",
+  "number": 404,
+  "title": "He hid his machine in the Alps",
+  "style": "deco",
+  "topic": "daniel swarovski born 1862 bohemia family of glass cutters 1883 vienna electrical exhibition cutting machine faster than hand patent 1892 1895 company two partners wattens tyrol austria water power remote alpine spot protected his secrets edelweiss first logo 1899 crystal worlds museum 1995 rockefeller center star 2018 3 million crystals",
+  "music": "music-404.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "tanzanite",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "He hid his machine in the Alps.",
+    "gold": [
+      "machine",
+      "Alps."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "He hid his machine in the Alps.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Daniel Swarovski came from a family of glass cutters in Bohemia.",
+      "say": "Daniel swah ROFF skee came from a family of glass cutters in Bohemia.",
+      "scene": {
+        "kind": "real",
+        "src": "404-he-hid-his-machine-in-the-alps-0.jpg",
+        "fit": "card",
+        "label": "Daniel Swarovski monument, Wattens",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A Vienna electrical show in 1883 inspired him.",
+      "say": "A Vienna electrical show in eighteen eighty three inspired him.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "Vienna, 1883"
+      }
+    },
+    {
+      "text": "His machine cut crystal faster than hands could.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Cut by machine"
+      }
+    },
+    {
+      "text": "He filed a patent for it in 1892.",
+      "say": "He filed a patent for it in eighteen ninety two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Patent, 1892"
+      }
+    },
+    {
+      "text": "In 1895, he started a company with two partners.",
+      "say": "In eighteen ninety five, he started a company with two partners.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A company, 1895"
+      }
+    },
+    {
+      "text": "The factory went to Wattens, in the Alps, for water power.",
+      "say": "The factory went to VAH tens, in the Alps, for water power.",
+      "scene": {
+        "kind": "title",
+        "text": "Wattens",
+        "sub": "In the Tyrol",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "That remote spot also helped protect his secrets.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Far from copycats"
+      }
+    },
+    {
+      "text": "His first logo was the edelweiss, an Alpine flower.",
+      "say": "His first logo was the AY dul vice, an Alpine flower.",
+      "scene": {
+        "kind": "title",
+        "text": "Edelweiss",
+        "sub": "The first logo",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The Crystal Worlds museum opened in Wattens in 1995.",
+      "say": "The Crystal Worlds museum opened in VAH tens in nineteen ninety five.",
+      "scene": {
+        "kind": "real",
+        "src": "404-he-hid-his-machine-in-the-alps-1.jpg",
+        "fit": "card",
+        "label": "Wattens, Tyrol",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The company's 2018 Rockefeller Center star held 3 million crystals.",
+      "say": "The company's twenty eighteen Rockefeller Center star held three million crystals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 12,
+        "metal": "platinum",
+        "label": "3 million crystals"
+      }
+    }
+  ],
+  "post": {
+    "caption": "He hid his machine in the Alps. Daniel Swarovski came from a family of glass cutters in Bohemia. After a Vienna electrical exhibition in 1883, he built a machine that cut crystal faster and more precisely than hands could, and he filed a patent in 1892. In 1895, he started a company with two partners and put the factory in Wattens, in the Austrian Alps, for water power. The remote spot also helped protect his secrets. His first logo, from 1899, was the edelweiss, an Alpine flower. The Crystal Worlds museum opened in Wattens in 1995, and the company's 2018 star on the Rockefeller Center tree held 3 million crystals.",
+    "hashtags": [
+      "#swarovski",
+      "#crystal",
+      "#austria",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daniel_Swarovski",
+    "https://en.wikipedia.org/wiki/Swarovski",
+    "https://www.swarovski.com/en-LT/s-the-history-of-swarovski",
+    "https://www.swarovski.com/en-TR/s-swarovski-milestones",
+    "https://swarovskioptik.com/be/en/hunting/stories/a-summary-of-swarovski-s-history",
+    "https://austria-forum.org/af/AEIOU/Swarovski_%26_Co.",
+    "https://austria-forum.org/af/AustriaWiki/D._Swarovski",
+    "https://luxe.digital/brands/swarovski/",
+    "https://www.dezeen.com/?p=1286487",
+    "https://www.architectmagazine.com/industry/daniel-libeskind-designs-new-star-for-the-rockefeller-center-christmas-tree_s",
+    "https://prnewswire.com/news-releases/swarovski-unveils-new-daniel-libeskind-designed-star-for-rockefeller-center-christmas-tree-820108577.html"
+  ],
+  "images": [
+    {
+      "src": "404-he-hid-his-machine-in-the-alps-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Haneburger",
+      "page": "https://commons.wikimedia.org/wiki/File:Denkmal_Daniel_Swarovski.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "404-he-hid-his-machine-in-the-alps-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Hermann Hammer ( User:Haneburger )",
+      "page": "https://commons.wikimedia.org/wiki/File:Wattens_mit_Pfarr-_and_Laurentiuskirche.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

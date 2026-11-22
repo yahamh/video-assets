@@ -1,0 +1,157 @@
+{
+  "id": "406-a-lord-wore-gold-and-silver-peanuts",
+  "number": 406,
+  "title": "A lord wore gold and silver peanuts",
+  "style": "jewelbox",
+  "topic": "lord of sipan moche tomb 1987 huaca rajada walter alva lambayeque northern peru 1700 years about 450 objects three pairs gold turquoise ear ornaments warriors deer peanut shaped beads ten gold ten silver gold face mask crescent headdress royal tombs of sipan museum 2002 pyramid",
+  "music": "music-406.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "yellow",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A lord wore gold and silver peanuts.",
+    "gold": [
+      "gold",
+      "peanuts."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A lord wore gold and silver peanuts.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1987, Walter Alva opened a Moche tomb in northern Peru.",
+      "say": "In nineteen eighty seven, Walter AHL vah opened a MOH chay tomb in northern Peru.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Opened in 1987"
+      }
+    },
+    {
+      "text": "The lord was buried more than 1,700 years ago.",
+      "say": "The lord was buried more than seventeen hundred years ago.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Over 1,700 years old"
+      }
+    },
+    {
+      "text": "His tomb held about 450 objects.",
+      "say": "His tomb held about four hundred fifty objects.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "About 450 objects"
+      }
+    },
+    {
+      "text": "Three pairs of gold and turquoise ear ornaments lay near his head.",
+      "scene": {
+        "kind": "piece",
+        "label": "Gold and turquoise ear ornaments"
+      }
+    },
+    {
+      "text": "One pair shows warriors, and another shows deer.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "Warriors and deer"
+      }
+    },
+    {
+      "text": "Peanut shaped beads came in gold and silver, ten of each.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Ten gold, ten silver"
+      }
+    },
+    {
+      "text": "The lord also had a gold face mask and a crescent headdress.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A gold mask and crown"
+      }
+    },
+    {
+      "text": "Today they are kept in the Royal Tombs of Sipan Museum.",
+      "say": "Today they are kept in the Royal Tombs of see PAHN Museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "Royal Tombs of Sipan Museum"
+      }
+    },
+    {
+      "text": "That museum opened in Lambayeque in 2002, shaped like a Moche pyramid.",
+      "say": "That museum opened in lahm bah YEH keh in two thousand two, shaped like a MOH chay pyramid.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 10,
+        "label": "Opened in 2002"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A lord wore gold and silver peanuts. In 1987, Walter Alva opened a Moche tomb in northern Peru. The mound, Huaca Rajada, stands near the village of Sipan. The lord was buried more than 1,700 years ago, with about 450 objects. Three pairs of gold and turquoise ear ornaments lay near his head, one pair showing warriors and another showing deer. Peanut shaped beads came in gold and silver, ten of each. The tomb also held a gold face mask and a crescent headdress. The finds are kept in the Royal Tombs of Sipan Museum in Lambayeque, which opened in 2002.",
+    "hashtags": [
+      "#moche",
+      "#peru",
+      "#ancientgold",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lord_of_Sip%C3%A1n",
+    "https://smarthistory.org/?p=45337",
+    "https://time.com/archive/6713365/science-the-secrets-of-a-moche-lord",
+    "https://www.world-archaeology.com/features/tombs-of-the-lords-of-sipan/",
+    "https://peru.info/en-us/tourism/news/3/17/who-was-the-lord-of-sipan-",
+    "https://andina.pe/agencia/noticia-museo-tumbas-reales-sipan-celebra-20-anos-exhibiendo-magnifico-legado-cultural-moche-916343.aspx",
+    "https://larepublica.pe/ciencia/2024/07/22/la-tumba-del-senor-de-sipan-el-hallazgo-que-revoluciono-la-arqueologia-en-america-latina-y-revalorizo-la-cultura-1896994",
+    "https://www.metmuseum.org/art/collection/search/722375",
+    "https://www.historyhit.com/?p=5147329",
+    "https://peru.travel/north-of-peru/exhibition/lord-of-sipan.html"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Sipan jewelry found; the Met and Larco ear ornaments are from other sites"
+}

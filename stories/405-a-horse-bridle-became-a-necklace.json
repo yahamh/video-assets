@@ -1,0 +1,187 @@
+{
+  "id": "405-a-horse-bridle-became-a-necklace",
+  "number": 405,
+  "title": "A horse bridle became a necklace",
+  "style": "gouache",
+  "topic": "navajo squash blossom necklace naja crescent horse bridle ornament moors north africa spanish mexican smiths 1800s melted coins hollow beads two halves soldered flared bead first necklaces all silver turquoise later new mexico official state necklace 2011",
+  "music": "music-405.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "aquamarine",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A horse bridle became a necklace.",
+    "gold": [
+      "horse",
+      "necklace."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A horse bridle became a necklace.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The big crescent on a squash blossom necklace is called a naja.",
+      "say": "The big crescent on a squash blossom necklace is called a NAH hah.",
+      "scene": {
+        "kind": "real",
+        "src": "405-a-horse-bridle-became-a-necklace-0.jpg",
+        "fit": "card",
+        "label": "Squash blossom necklace, Navajo",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Naja is the Navajo word for crescent.",
+      "say": "NAH hah is the Navajo word for crescent.",
+      "scene": {
+        "kind": "title",
+        "text": "Naja",
+        "sub": "Navajo for crescent",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It began as a crescent ornament on a horse's bridle.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A bridle ornament"
+      }
+    },
+    {
+      "text": "The crescent shape goes back to the Moors of North Africa.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "The Moors, North Africa"
+      }
+    },
+    {
+      "text": "In the 1800s, Navajo men learned metalwork from Mexican smiths.",
+      "say": "In the eighteen hundreds, Navajo men learned metalwork from Mexican smiths.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Learned from Mexican smiths"
+      }
+    },
+    {
+      "text": "Their first silver came from melted coins.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Melted coins"
+      }
+    },
+    {
+      "text": "Each round bead is two hammered halves, soldered into a hollow globe.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Two halves, one hollow bead"
+      }
+    },
+    {
+      "text": "The Navajo word for the flared bead means bead that flares out.",
+      "say": "The Navajo word for the flared bead means bead that flares out.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "The flared bead"
+      }
+    },
+    {
+      "text": "The first necklaces were all silver, with no turquoise.",
+      "scene": {
+        "kind": "real",
+        "src": "405-a-horse-bridle-became-a-necklace-1.jpg",
+        "fit": "card",
+        "label": "An all silver squash blossom necklace",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2011, New Mexico made it the official state necklace.",
+      "say": "In twenty eleven, New Mexico made it the official state necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "blue",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "New Mexico's official necklace"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A horse bridle became a necklace. The big crescent on a squash blossom necklace is called a naja, the Navajo word for crescent. It began as a crescent ornament on a horse's bridle, and the shape goes back to the Moors of North Africa. In the 1800s, Navajo men learned metalwork from Mexican smiths and made their first silver from melted coins. Each round bead is two hammered halves, soldered into a hollow globe. The first necklaces were all silver, and turquoise came later. In 2011, New Mexico made the squash blossom the official state necklace.",
+    "hashtags": [
+      "#navajo",
+      "#squashblossom",
+      "#silverjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://heard.org/pdf/1013",
+    "https://publications.risd.edu/issue-18-nature/object-lesson-necklace",
+    "https://www.slam.org/collection/objects/5730/",
+    "https://art.thewalters.org/detail/57.995",
+    "https://maxwellmuseum.unm.edu/node/752",
+    "https://nationalcowboymuseum.org/collections/objects/squash-blossom-necklace",
+    "https://nationaljeweler.com/articles/fashion/antique-estate-jewelry/6292-the-history-behind-the-squash-blossom-necklace",
+    "https://elpalacio.org/?p=6377",
+    "https://www.sos.state.nm.us/2019/06/12/state-necklace/",
+    "https://www.nmlegis.gov/sessions/11%20Regular/bills/senate/SB0109.html"
+  ],
+  "images": [
+    {
+      "src": "405-a-horse-bridle-became-a-necklace-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Hiart",
+      "page": "https://commons.wikimedia.org/wiki/File:'Squash_Blossom_Necklace',_Navajo,_Honolulu_Museum_of_Art,_accession_12918.1.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "405-a-horse-bridle-became-a-necklace-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown artist Unknown artist",
+      "page": "https://commons.wikimedia.org/wiki/File:%22Squash_Blossom%22_Necklace,_late_19th%E2%80%93early_20th_century_(CH_18327085).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

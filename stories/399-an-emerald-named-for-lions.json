@@ -1,0 +1,176 @@
+{
+  "id": "399-an-emerald-named-for-lions",
+  "number": 399,
+  "title": "An emerald named for lions",
+  "style": "gouache",
+  "topic": "inkalamu emerald kagem mine zambia gemfields october 2018 rough 5655 carats almost 2.5 pounds lion in bemba carnivore conservation 10 percent insofu elephant auction singapore november 2018 diacolor delhi june 2019 behind glass",
+  "music": "music-399.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "An emerald named for lions.",
+    "gold": [
+      "emerald",
+      "lions."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "An emerald named for lions.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In October 2018, miners at the Kagem mine in Zambia found it.",
+      "say": "In October twenty eighteen, miners at the KAH gem mine in Zambia found it.",
+      "scene": {
+        "kind": "real",
+        "src": "399-an-emerald-named-for-lions-0.jpg",
+        "fit": "card",
+        "label": "Emerald crystals from Kagem",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The rough crystal weighed 5,655 carats, about 2.5 pounds.",
+      "say": "The rough crystal weighed five thousand six hundred fifty five carats, about two point five pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "5,655 carats, rough"
+      }
+    },
+    {
+      "text": "Inkalamu means lion in Bemba, a Zambian language.",
+      "say": "In kah LAH moo means lion in BEM bah, a Zambian language.",
+      "scene": {
+        "kind": "title",
+        "text": "Inkalamu",
+        "sub": "Lion in Bemba",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The name honors two groups that protect big carnivores.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Two carnivore groups"
+      }
+    },
+    {
+      "text": "Gemfields said it would share 10 percent of the sale with them.",
+      "say": "Gem fields said it would share ten percent of the sale with them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "10 percent promised"
+      }
+    },
+    {
+      "text": "The one before it, Insofu, was named for an elephant.",
+      "say": "The one before it, in SOH foo, was named for an elephant.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Insofu, the elephant"
+      }
+    },
+    {
+      "text": "In November 2018, it sold at auction in Singapore.",
+      "say": "In November twenty eighteen, it sold at auction in Singapore.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "Singapore, November 2018"
+      }
+    },
+    {
+      "text": "An Indian jeweler, Diacolor, bought it.",
+      "say": "An Indian jeweler, DEE uh color, bought it.",
+      "scene": {
+        "kind": "title",
+        "text": "Diacolor",
+        "sub": "A jeweler in Delhi",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In June 2019, it was shown behind glass in Delhi.",
+      "say": "In June twenty nineteen, it was shown behind glass in Delhi.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 10,
+        "label": "Delhi, June 2019"
+      }
+    }
+  ],
+  "post": {
+    "caption": "An emerald named for lions. In October 2018, miners at the Kagem mine in Zambia found a rough emerald of 5,655 carats, almost 2.5 pounds. Inkalamu means lion in Bemba, a Zambian language, and the name honors two groups that protect carnivores. Gemfields said it would share 10 percent of the sale with them. The emerald before it, Insofu, was named for an elephant. Inkalamu sold at an auction in Singapore in November 2018 to the Indian jeweler Diacolor, and in June 2019 it went on show behind glass in Delhi.",
+    "hashtags": [
+      "#emerald",
+      "#zambia",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://gemfields.com/gemfields-introduces-inkalamu-the-5655-carat-lion-emerald",
+    "https://rapaport.com/news/gemfields-unearths-5655ct-emerald/",
+    "https://www.nationaljeweler.com/diamonds-gems/supply/7133-gemfields-finds-5-655-carat-emerald",
+    "https://wtop.com/world/2018/10/an-emerald-as-big-as-your-hand-was-found-in-zambia-a-whopping-5655-carats/",
+    "https://www.bloomberg.com/news/articles/2018-10-29/african-miner-finds-1-1-kilogram-emerald-at-kagem-in-zambia",
+    "https://www.thenationalnews.com/lifestyle/luxury/inkalamu-the-remarkable-5-655-carat-emerald-set-to-go-up-for-auction-1.790927",
+    "https://rapaport.com/?p=31263",
+    "https://www.jewellerybusiness.com/news/5565-carat-lion-emerald-sells/",
+    "https://www.aninews.in/news/business/diacolor-acquires-the-lion-emerald-the-inkalamu20190614173602/",
+    "https://www.diamondworld.net/contentview.aspx?item=20290",
+    "https://www.miningweekly.com/article/gemfields-unearths-largest-gem-to-date-at-kagem-names-it-chipembele-2021-11-08"
+  ],
+  "images": [
+    {
+      "src": "399-an-emerald-named-for-lions-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Beryl,_variety_emerald,_quartz,_Kagem_mine,_Kafubu_Area,_Zambia_-_Natural_History_Museum,_London_-_DSC05293.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

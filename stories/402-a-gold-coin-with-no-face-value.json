@@ -1,0 +1,189 @@
+{
+  "id": "402-a-gold-coin-with-no-face-value",
+  "number": 402,
+  "title": "A gold coin with no face value",
+  "style": "gouache",
+  "topic": "krugerrand south africa first struck july 3 1967 one troy ounce of pure gold 22 karat copper harder reddish tinge no face value paul kruger springbok name kruger plus rand british sovereign same alloy chamber of mines ordinary people invest in gold 1978 more than six million struck",
+  "music": "music-402.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "ruby",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A gold coin with no face value.",
+    "gold": [
+      "coin",
+      "value."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A gold coin with no face value.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "South Africa first struck the Krugerrand on July 3, 1967.",
+      "say": "South Africa first struck the KROO ger rand on July third, nineteen sixty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "July 3, 1967"
+      }
+    },
+    {
+      "text": "It holds one troy ounce of pure gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "halo": 12,
+        "label": "One troy ounce"
+      }
+    },
+    {
+      "text": "The coin is 22 karat, so its copper makes it harder.",
+      "say": "The coin is twenty two karat, so its copper makes it harder.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "rose",
+        "label": "22 karat"
+      }
+    },
+    {
+      "text": "It has no face value, so its worth is its gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Krugerrand",
+        "sub": "No face value",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Paul Kruger, a South African president, is on one side.",
+      "say": "Paul KROO ger, a South African president, is on one side.",
+      "scene": {
+        "kind": "real",
+        "src": "402-a-gold-coin-with-no-face-value-0.jpg",
+        "fit": "card",
+        "label": "Paul Kruger, 1975 coin",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A leaping springbok, an antelope, is on the other.",
+      "say": "A leaping SPRING bok, an antelope, is on the other.",
+      "scene": {
+        "kind": "real",
+        "src": "402-a-gold-coin-with-no-face-value-1.jpg",
+        "fit": "card",
+        "label": "A springbok, 1975 coin",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The name joins Kruger with rand, South Africa's currency.",
+      "say": "The name joins KROO ger with rand, South Africa's currency.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Kruger plus rand"
+      }
+    },
+    {
+      "text": "The British gold sovereign uses the same 22 karat alloy.",
+      "say": "The British gold sovereign uses the same twenty two karat alloy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "The same alloy as the sovereign"
+      }
+    },
+    {
+      "text": "It was made so ordinary people could invest in gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Gold for ordinary people"
+      }
+    },
+    {
+      "text": "In 1978, more than six million were struck.",
+      "say": "In nineteen seventy eight, more than six million were struck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "rose",
+        "label": "1978, over six million"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A gold coin with no face value. South Africa first struck the Krugerrand on July 3, 1967. It holds one troy ounce of pure gold, and the coin is 22 karat, so the copper in it makes it harder and slightly reddish. It has no face value, so its worth is its gold. Paul Kruger, a South African president, is on one side and a leaping springbok on the other. The British gold sovereign uses the same 22 karat alloy. The Krugerrand was made so ordinary people could invest in gold, and in 1978 more than six million were struck.",
+    "hashtags": [
+      "#krugerrand",
+      "#goldcoin",
+      "#gold",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Krugerrand",
+    "https://www.miningweekly.com/article/krugerrand-testament-to-what-south-africa-can-do-through-beneficiation-2017-03-07",
+    "https://www.miningweekly.com/article/krugerrand-lauded-for-contribution-to-south-african-mining-value-addition-2017-10-06",
+    "https://www.lbma.org.uk/wonders-of-gold/items/the-krugerrand",
+    "https://www.coinworld.com/news/us-coins/international-bullion-history.html",
+    "https://www.numismaticnews.net/archive/krugerrand-right-idea-right-time",
+    "https://learn.apmex.com/learn/bullion/what-is-a-krugerrand/",
+    "https://coinweek.com/bullion-report/krugerrand-still-famous-bullion-coin/",
+    "https://www.monex.com/knowledge/krugerrand-history-south-african-gold-coin.md",
+    "https://www.chards.co.uk/blog/history-of-the-krugerrand/401"
+  ],
+  "images": [
+    {
+      "src": "402-a-gold-coin-with-no-face-value-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Slashme",
+      "page": "https://commons.wikimedia.org/wiki/File:1975_1_oz_krugerrand_reverse.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "402-a-gold-coin-with-no-face-value-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Slashme",
+      "page": "https://commons.wikimedia.org/wiki/File:1975_1_oz_krugerrand_obverse.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

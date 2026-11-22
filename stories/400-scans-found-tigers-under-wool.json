@@ -1,0 +1,194 @@
+{
+  "id": "400-scans-found-tigers-under-wool",
+  "number": 400,
+  "title": "Scans found tigers under wool",
+  "style": "jewelbox",
+  "topic": "galloway hoard viking age scotland 2014 metal detectorist more than 100 objects buried around the year 900 lidded silver gilt pot wrapped in wool scans fire altar leopards tigers central asia rock crystal jar two inches gold mesh filigree bishop hyguald had me made bought 2017 1.98 million pounds national museums scotland",
+  "music": "music-400.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "amethyst",
+    "cut": "round",
+    "petals": 4,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Scans found tigers under wool.",
+    "gold": [
+      "tigers",
+      "wool."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Scans found tigers under wool.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2014, a metal detectorist found a Viking age hoard in Scotland.",
+      "say": "In two thousand fourteen, a metal detectorist found a Viking age hoard in Scotland.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Galloway, Scotland, 2014"
+      }
+    },
+    {
+      "text": "It held more than 100 objects, buried around the year 900.",
+      "say": "It held more than one hundred objects, buried around the year nine hundred.",
+      "scene": {
+        "kind": "real",
+        "src": "400-scans-found-tigers-under-wool-0.jpg",
+        "fit": "card",
+        "label": "A silver brooch from the hoard",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "One was a lidded silver pot, wrapped in wool.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A lidded silver pot"
+      }
+    },
+    {
+      "text": "Scans showed a fire altar with leopards and tigers.",
+      "scene": {
+        "kind": "real",
+        "src": "400-scans-found-tigers-under-wool-1.jpg",
+        "fit": "card",
+        "label": "The silver pot, now unwrapped",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The pot was likely made in Central Asia.",
+      "scene": {
+        "kind": "title",
+        "text": "Central Asia",
+        "sub": "Likely made there",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Packed inside was a rock crystal jar, about two inches tall.",
+      "scene": {
+        "kind": "real",
+        "src": "400-scans-found-tigers-under-wool-2.jpg",
+        "fit": "card",
+        "label": "The rock crystal jar",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It is fitted with gold mesh and filigree.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Gold mesh and filigree"
+      }
+    },
+    {
+      "text": "Scans found gold letters under its base.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Letters under the base"
+      }
+    },
+    {
+      "text": "They read, Bishop Hyguald had me made.",
+      "say": "They read, Bishop HY gwald had me made.",
+      "scene": {
+        "kind": "title",
+        "text": "Hyguald",
+        "sub": "Bishop",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Scotland bought the hoard in 2017 for 1.98 million pounds.",
+      "say": "Scotland bought the hoard in twenty seventeen for one point nine eight million pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "Bought in 2017"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Scans found tigers under wool. In 2014, a metal detectorist found the Galloway Hoard in Scotland, a Viking age treasure of more than 100 objects buried around the year 900. One was a lidded silver pot wrapped in wool. Scans showed a fire altar with leopards and tigers under the wrapping, so the pot was likely made in Central Asia. Inside was a rock crystal jar about two inches tall, fitted with gold mesh and filigree, and scans found gold letters under its base that read, Bishop Hyguald had me made. Scotland bought the hoard in 2017 for 1.98 million pounds.",
+    "hashtags": [
+      "#vikings",
+      "#galloway",
+      "#medievaljewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Galloway_Hoard",
+    "https://www.artfund.org/supporting-museums/art-weve-helped-buy/artwork/13650/the-galloway-hoard",
+    "https://www.nms.ac.uk/discover-catalogue/what-is-the-galloway-hoard",
+    "https://www.nms.ac.uk/exhibitions-events/past-exhibitions/the-galloway-hoard-viking-age-treasure/",
+    "https://www.nms.ac.uk/discover-catalogue/investigating-the-galloway-hoard-rock-crystal-jar",
+    "https://nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/galloway-hoard/sections/the-galloway-hoard-vessel",
+    "https://www.itv.com/news/border/2021-05-27/secrets-of-viking-age-galloway-hoard-revealed-as-it-goes-on-public-display",
+    "https://www.thecourier.co.uk/fp/news/scotland/2233702/galloway-hoard-rare-and-unique-viking-age-treasure-goes-on-display-at-national-museum-of-scotland/",
+    "https://www.nationalgeographic.com/adventure/article/160323-vikings-galloway-hoard-treasure-scotland-archaeology",
+    "https://www.smithsonianmag.com/smart-news/rare-gold-wrapped-jar-may-reveal-the-splendor-of-early-medieval-britain-180979266/",
+    "https://www.gla.ac.uk/news/archiveofnews/2021/december/headline_828678_en.html"
+  ],
+  "images": [
+    {
+      "src": "400-scans-found-tigers-under-wool-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "CWWrites",
+      "page": "https://commons.wikimedia.org/wiki/File:Silver_brooch_from_the_Galloway_Hoard.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "400-scans-found-tigers-under-wool-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "CWWrites",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Silver_Vessel_which_contained_the_Galloway_Hoard.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "400-scans-found-tigers-under-wool-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "CWWrites",
+      "page": "https://commons.wikimedia.org/wiki/File:Galloway_Hoard_rock_crystal_jar.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
