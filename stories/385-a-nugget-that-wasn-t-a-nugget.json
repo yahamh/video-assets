@@ -1,0 +1,166 @@
+{
+  "id": "385-a-nugget-that-wasn-t-a-nugget",
+  "number": 385,
+  "title": "A nugget that wasn't a nugget",
+  "style": "jewelbox",
+  "topic": "holtermann nugget hill end new south wales star of hope mine hawkins hill bernhardt otto holtermann louis beyers 19 october 1872 about 2 in the morning midnight blast wall of gold gold in quartz and slate 285 kilos 93 kilos gold largest single piece of reef gold photographed crowds sunday stamper battery crushed melted holtermann collection 3500 glass negatives garden shed chatswood 1951",
+  "music": "music-385.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow",
+    "stone": "ruby"
+  },
+  "hook": {
+    "text": "A nugget that wasn't a nugget.",
+    "gold": [
+      "wasn't",
+      "nugget."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A nugget that wasn't a nugget.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A blast in a Hill End mine showed a wall of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "Hill End",
+        "sub": "New South Wales",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The mine was the Star of Hope on Hawkins Hill.",
+      "scene": {
+        "kind": "piece",
+        "label": "Star of Hope mine"
+      }
+    },
+    {
+      "text": "Partners Bernhardt Holtermann and Louis Beyers were credited.",
+      "say": "Partners Bern hart Hole ter man and Louis By erz were credited.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Holtermann and Beyers"
+      }
+    },
+    {
+      "text": "It was found around 2 in the morning on October 19, 1872.",
+      "say": "It was found around two in the morning on October nineteenth, eighteen seventy two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "October 19, 1872"
+      }
+    },
+    {
+      "text": "It was gold in quartz and slate, not a true nugget.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Gold in quartz and slate"
+      }
+    },
+    {
+      "text": "The mass weighed about 285 kilos, and about 93 were gold.",
+      "say": "The mass weighed about two hundred eighty five kilos, and about ninety three were gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "About 93 kilos of gold"
+      }
+    },
+    {
+      "text": "Holtermann posed beside it for a photograph.",
+      "say": "Hole ter man posed beside it for a photograph.",
+      "scene": {
+        "kind": "real",
+        "src": "385-a-nugget-that-wasn-t-a-nugget-0.jpg",
+        "fit": "card",
+        "label": "B. O. Holtermann, 1874 to 1876",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He also hired photographers who left about 3,500 glass negatives.",
+      "say": "He also hired photographers who left about thirty five hundred glass negatives.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "3,500 glass negatives"
+      }
+    },
+    {
+      "text": "A garden shed in Chatswood hid them until 1951.",
+      "say": "A garden shed in Chats wood hid them until nineteen fifty one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Found in a shed, 1951"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A nugget that wasn't a nugget. A blast in a Hill End mine in Australia showed a wall of gold. The mine was the Star of Hope on Hawkins Hill, and partners Bernhardt Holtermann and Louis Beyers were credited. It was found around 2 in the morning on October 19, 1872. It was gold in quartz and slate, not a true nugget, and the mass weighed about 285 kilos with about 93 of them gold. Holtermann posed beside it for a photograph. He also hired photographers who left about 3,500 glass negatives, and a garden shed in Chatswood hid them until 1951.",
+    "hashtags": [
+      "#holtermann",
+      "#goldnugget",
+      "#hillend",
+      "#australia",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://australian.museum/learn/news/blog/glitter-restored-the-holtermann-nugget/",
+    "https://www.australiangeographic.com.au/?p=312036",
+    "https://www.historyhill.com.au/the-biggest-and-the-best/",
+    "https://www.guinnessworldrecords.com/world-records/66751-largest-gold-nugget",
+    "https://www.sl.nsw.gov.au/node/18791",
+    "https://www.heatgg.org.au/current-projects/newspapers/1872-oct-holtermanns-nugget-an-earthquake/",
+    "https://www2.sl.nsw.gov.au/archive/discover_collections/society_art/photography/holtermann/index.html",
+    "https://amw.org.au/sites/default/files/memory_of_the_world/gold/holtermann-collection.html",
+    "https://www.sl.nsw.gov.au/node/18881",
+    "https://mosmancollective.com/history/flashback-1872-the-holtermann-nugget-and-its-fascinating-connection-to-north-sydney/"
+  ],
+  "images": [
+    {
+      "src": "385-a-nugget-that-wasn-t-a-nugget-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Charles Bayliss & Beaufoy Merlin (attributed)",
+      "page": "https://commons.wikimedia.org/wiki/File:Bernhard_Otto_Holtermann_with_630lb_gold_from_Hill_End.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

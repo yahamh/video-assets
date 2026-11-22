@@ -1,0 +1,157 @@
+{
+  "id": "384-a-diamond-s-speck-held-deep-earth-water",
+  "number": 384,
+  "title": "A diamond's speck held deep Earth water",
+  "style": "gouache",
+  "topic": "ringwoodite inside a diamond juina mato grosso brazil speck too small to see olivine extreme pressure only seen in meteorites or labs before 2014 mantle transition zone 410 to 660 kilometers 1.5 percent water by weight hydroxide locked in crystal graham pearson university of alberta nature march 2014 might hold as much water as the oceans",
+  "music": "music-384.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "A diamond's speck held deep Earth water.",
+    "gold": [
+      "speck",
+      "water."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond's speck held deep Earth water.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It came from a diamond found in Juina, Brazil.",
+      "say": "It came from a diamond found in Zhoo EE nah, Brazil.",
+      "scene": {
+        "kind": "piece",
+        "label": "A diamond from Brazil"
+      }
+    },
+    {
+      "text": "The speck inside is too small to see.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Too small to see"
+      }
+    },
+    {
+      "text": "It is ringwoodite, a mineral that forms only under extreme pressure.",
+      "say": "It is RING wood ite, a mineral that forms only under extreme pressure.",
+      "scene": {
+        "kind": "title",
+        "text": "Ringwoodite",
+        "sub": "A deep Earth mineral",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Before 2014, scientists had only seen it in meteorites or labs.",
+      "say": "Before twenty fourteen, scientists had only seen it in meteorites or labs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Seen only in meteorites"
+      }
+    },
+    {
+      "text": "It forms in the mantle between about 410 and 660 kilometers down.",
+      "say": "It forms in the mantle between about four hundred ten and six hundred sixty kilometers down.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "410 to 660 kilometers down"
+      }
+    },
+    {
+      "text": "The speck held about 1.5 percent water by weight.",
+      "say": "The speck held about one point five percent water by weight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "1.5 percent water"
+      }
+    },
+    {
+      "text": "That water is locked inside the crystal, not liquid.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Locked in the crystal"
+      }
+    },
+    {
+      "text": "Graham Pearson said the zone might hold as much as the oceans.",
+      "say": "Graham Pearson said the zone might hold as much water as the oceans.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Might hold an ocean's worth"
+      }
+    },
+    {
+      "text": "The University of Alberta team published it in Nature in March 2014.",
+      "say": "The University of Alberta team published it in Nature in March twenty fourteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Nature, March 2014"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A diamond's speck held deep Earth water. It came from a diamond found in Juina, Brazil, and the speck inside is too small to see. It is ringwoodite, a mineral that forms only under extreme pressure. Before 2014, scientists had only seen it in meteorites or labs. It forms in the mantle between about 410 and 660 kilometers down. The speck held about 1.5 percent water by weight, locked inside the crystal. Graham Pearson said the zone might hold as much water as the oceans. The University of Alberta team published it in Nature in March 2014.",
+    "hashtags": [
+      "#diamonds",
+      "#ringwoodite",
+      "#geology",
+      "#mantle",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.ualberta.ca/en/folio/2014/03/rare-mineral-points-to-vast-oceans-beneath-the-earth.html",
+    "https://www.scientificamerican.com/article/rare-diamond-confirms-that-earths-mantle-holds-an-oceans-worth-of-water/",
+    "https://www.theglobeandmail.com/amp/news/national/how-a-tiny-diamond-implies-oceans-of-water-hidden-deep-inside-the-earth/article17466735/",
+    "https://www.doi.org/10.1038/NATURE13080",
+    "https://www.gia.edu/CN/gems-gemology/summer-2018-diamonds-from-the-deep-diamonds-help-solve-the-enigma-of-earths-deep-water",
+    "https://www.voanews.com/a/earths-crust-may-contain-a-lot-of-water/1871488.html",
+    "https://www.npr.org/sections/thetwo-way/2014/03/13/289854644/rare-diamond-points-to-mass-quantities-of-water-in-earths-mantle",
+    "https://www.handbookofmineralogy.org/pdfs/ringwoodite.pdf"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Juina diamond or its speck exists (the university's photos are copyrighted); the only free file found is a crystal structure diagram, so the story uses drawn pieces only"
+}

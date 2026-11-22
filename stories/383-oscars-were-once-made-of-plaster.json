@@ -1,0 +1,161 @@
+{
+  "id": "383-oscars-were-once-made-of-plaster",
+  "number": 383,
+  "title": "Oscars were once made of plaster",
+  "style": "deco",
+  "topic": "oscar statuette academy award cedric gibbons mgm art director knight sword film reel george stanley sculptor first awards 16 may 1929 hollywood roosevelt hotel 13.5 inches 8.5 pounds bronze plated 24 karat gold name oscar 1934 skolsky official 1939 plaster three years world war ii metal shortage swapped gold plated metal sell back academy one dollar",
+  "music": "music-383.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "topaz",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Oscars were once made of plaster.",
+    "gold": [
+      "Oscars",
+      "plaster."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Oscars were once made of plaster.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "MGM art director Cedric Gibbons designed the statuette.",
+      "say": "M G M art director Seh drick Gibbons designed the statuette.",
+      "scene": {
+        "kind": "piece",
+        "label": "Designed by Cedric Gibbons"
+      }
+    },
+    {
+      "text": "It shows a knight with a sword standing on a film reel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "A knight on a film reel"
+      }
+    },
+    {
+      "text": "The first awards were handed out on May 16, 1929.",
+      "say": "The first awards were handed out on May sixteenth, nineteen twenty nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 10,
+        "metal": "yellow",
+        "label": "May 16, 1929"
+      }
+    },
+    {
+      "text": "It stands 13.5 inches tall and weighs 8.5 pounds.",
+      "say": "It stands thirteen and a half inches tall and weighs eight and a half pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "citrine",
+        "label": "13.5 inches, 8.5 pounds"
+      }
+    },
+    {
+      "text": "Today it is bronze plated in 24 karat gold.",
+      "say": "Today it is bronze plated in twenty four karat gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "24 karat gold plating"
+      }
+    },
+    {
+      "text": "In 1939, the Academy made the name Oscar official.",
+      "say": "In nineteen thirty nine, the Academy made the name Oscar official.",
+      "scene": {
+        "kind": "title",
+        "text": "Oscar",
+        "sub": "Official in 1939",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "For three years in the 1940s, Oscars were painted plaster.",
+      "say": "For three years in the nineteen forties, Oscars were painted plaster.",
+      "scene": {
+        "kind": "title",
+        "text": "Plaster",
+        "sub": "A metal shortage",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Winners later swapped them for gold plated metal ones.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Swapped for metal"
+      }
+    },
+    {
+      "text": "Winners must first offer to sell one to the Academy for $1.",
+      "say": "Winners must first offer to sell one to the Academy for one dollar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "First offer: $1"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Oscars were once made of plaster. MGM art director Cedric Gibbons designed the statuette, a knight with a sword standing on a film reel. The first awards were handed out on May 16, 1929. It stands 13.5 inches tall and weighs 8.5 pounds, and today it is bronze plated in 24 karat gold. In 1939, the Academy made the name Oscar official. For three years in the 1940s, Oscars were painted plaster, and winners later swapped them for gold plated metal ones. Winners must first offer to sell an Oscar to the Academy for $1.",
+    "hashtags": [
+      "#oscars",
+      "#academyawards",
+      "#goldplated",
+      "#hollywood",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.oscars.org/oscars/statuette",
+    "https://www.britannica.com/art/Academy-Award",
+    "https://www.hollywoodreporter.com/news/origins-oscar-how-prized-statue-870191",
+    "https://www.designboom.com/design/the-oscar-statue-a-brief-history-02-27-2017/",
+    "https://www.nbcnewyork.com/entertainment/entertainment-news/oscars-statue-history-value-weight-design/",
+    "https://atlasobscura.com/articles/during-wwii-the-only-men-getting-plastered-for-oscar-night-were-the-statuettes",
+    "https://www.oscars.org/legal/regulations",
+    "https://www.cbsnews.com/news/how-much-oscar-statue-worth",
+    "https://www.livescience.com/5314-oscar.html"
+  ],
+  "images": [],
+  "no_real_image": "the Academy owns the copyright and trademark of the statuette and its regulations bar any reproduction without written permission, so the story uses drawn pieces only"
+}

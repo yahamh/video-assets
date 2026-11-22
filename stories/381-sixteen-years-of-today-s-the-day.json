@@ -1,0 +1,166 @@
+{
+  "id": "381-sixteen-years-of-today-s-the-day",
+  "number": 381,
+  "title": "Sixteen years of Today's the day",
+  "style": "gouache",
+  "topic": "mel fisher nuestra senora de atocha 1622 hurricane september fleet 28 ships havana 1969 sixteen years today's the day 1971 don kincaid gold chain about eight feet july 20 1985 main pile kane fisher dauntless 35 miles west of key west more than 40 tons gold silver colombian emeralds uncut emerald crystal 77.7 carats mel fisher maritime museum key west",
+  "music": "music-381.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Sixteen years of Today's the day.",
+    "gold": [
+      "Sixteen",
+      "day."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sixteen years of Today's the day.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Spanish ship Atocha sank in a hurricane in September 1622.",
+      "say": "The Spanish ship Ah TOH chah sank in a hurricane in September sixteen twenty two.",
+      "scene": {
+        "kind": "title",
+        "text": "1622",
+        "sub": "The Atocha sinks",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "yellow",
+        "halo": 10
+      }
+    },
+    {
+      "text": "Mel Fisher began searching for it in 1969.",
+      "say": "Mel Fisher began searching for it in nineteen sixty nine.",
+      "scene": {
+        "kind": "piece",
+        "label": "Searching since 1969"
+      }
+    },
+    {
+      "text": "His saying was Today's the day.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Today's the day"
+      }
+    },
+    {
+      "text": "In 1971, diver Don Kincaid found about eight feet of gold chain.",
+      "say": "In nineteen seventy one, diver Don Kin kade found about eight feet of gold chain.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Eight feet of gold chain"
+      }
+    },
+    {
+      "text": "The main pile was found on July 20, 1985.",
+      "say": "The main pile was found on July twentieth, nineteen eighty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "July 20, 1985"
+      }
+    },
+    {
+      "text": "It lay about 35 miles west of Key West.",
+      "say": "It lay about thirty five miles west of Key West.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "West of Key West"
+      }
+    },
+    {
+      "text": "The haul was more than 40 tons of gold and silver.",
+      "say": "The haul was more than forty tons of gold and silver.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "citrine",
+        "label": "Over 40 tons"
+      }
+    },
+    {
+      "text": "It also held an uncut Colombian emerald of about 77 carats.",
+      "say": "It also held an uncut Colombian emerald of about seventy seven carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "An uncut emerald"
+      }
+    },
+    {
+      "text": "The finds are kept in the Mel Fisher museum in Key West.",
+      "scene": {
+        "kind": "real",
+        "src": "381-sixteen-years-of-today-s-the-day-0.jpg",
+        "fit": "card",
+        "label": "Mel Fisher Maritime Museum",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Sixteen years of Today's the day. The Spanish ship Atocha sank in a hurricane in September 1622. Mel Fisher began searching for it in 1969, and his saying was Today's the day. In 1971, diver Don Kincaid brought up about eight feet of gold chain. The main pile was found on July 20, 1985, about 35 miles west of Key West. The haul was more than 40 tons of gold and silver, and it included an uncut Colombian emerald of about 77 carats. The finds are kept in the Mel Fisher museum in Key West.",
+    "hashtags": [
+      "#melfisher",
+      "#atocha",
+      "#shipwreck",
+      "#emeralds",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.melfisher.org/copy-of-1622-galleons",
+    "https://maritime-executive.com/editorials/the-world-s-most-valuable-shipwreck-the-nuestra-senora-de-atocha",
+    "https://fla-keys.com/news/article/7826",
+    "https://4cs.gia.edu/en-us/blog/sunken-treasure-atocha/",
+    "https://www.floridamemory.com/items/show/295222",
+    "https://atlasobscura.com/places/mel-fisher-maritime-heritage-society-and-museum",
+    "https://www.cbsnews.com/news/treasure-hunter-mel-fisher-dies",
+    "https://www.wearethemighty.com/history/the-time-army-vet-mel-fisher-found-450m-in-treasure-from-a-sunken-spanish-galleon/",
+    "https://www.melfisher.org/exhibitions",
+    "https://en.wikipedia.org/wiki/Mel_Fisher"
+  ],
+  "images": [
+    {
+      "src": "381-sixteen-years-of-today-s-the-day-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "w_lemay",
+      "page": "https://commons.wikimedia.org/wiki/File:Mel_Fisher_Maritime_Museum,_Key_West,_FL.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

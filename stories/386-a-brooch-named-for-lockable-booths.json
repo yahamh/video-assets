@@ -1,0 +1,175 @@
+{
+  "id": "386-a-brooch-named-for-lockable-booths",
+  "number": 386,
+  "title": "A brooch named for lockable booths",
+  "style": "deco",
+  "topic": "luckenbooth brooch scottish heart brooch love token betrothal gift crowned heart two linked hearts luckenbooths lockable stalls st giles edinburgh silver garnets amethyst baby's clothes protection evil eye 1700s 1800s luckenbooths from about 1440 demolished 1817",
+  "music": "music-386.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "amethyst",
+    "cut": "heart",
+    "petals": 6,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A brooch named for lockable booths.",
+    "gold": [
+      "brooch",
+      "booths."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A brooch named for lockable booths.",
+      "say": "A brooch named for lockable booths.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Luckenbooths were lockable stalls beside St Giles in Edinburgh.",
+      "say": "The Luk en booths were lockable stalls beside Saint Jyles in Ed in bruh.",
+      "scene": {
+        "kind": "real",
+        "src": "386-a-brooch-named-for-lockable-booths-0.jpg",
+        "fit": "card",
+        "label": "St Giles, Edinburgh, 1647",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The brooch took its name from them.",
+      "scene": {
+        "kind": "piece",
+        "label": "A Luckenbooth brooch"
+      }
+    },
+    {
+      "text": "It is a Scottish brooch shaped like a heart.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "heart",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "A heart shape"
+      }
+    },
+    {
+      "text": "Many have a crown above the heart.",
+      "scene": {
+        "kind": "title",
+        "text": "Crowned heart",
+        "sub": "A common design",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "heart",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Some show two hearts linked together.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "Two hearts linked"
+      }
+    },
+    {
+      "text": "Most were silver, and some were set with garnets.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Silver and garnets"
+      }
+    },
+    {
+      "text": "People often gave one as a love token.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A love token"
+      }
+    },
+    {
+      "text": "Parents pinned a small one to a baby's clothes for protection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "heart",
+        "metal": "platinum",
+        "label": "Pinned to baby clothes"
+      }
+    },
+    {
+      "text": "Most date from the 1700s and 1800s.",
+      "say": "Most date from the seventeen hundreds and eighteen hundreds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "1700s and 1800s"
+      }
+    },
+    {
+      "text": "The Luckenbooths themselves stood from about 1440 until 1817.",
+      "say": "The Luk en booths themselves stood from about fourteen forty until eighteen seventeen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "ruby",
+        "label": "1440 to 1817"
+      }
+    }
+  ],
+  "post": {
+    "caption": "A brooch named for lockable booths. The Luckenbooths were lockable stalls beside St Giles in Edinburgh, and the Scottish heart brooch took its name from them. Many have a crown above the heart, and some show two hearts linked together. Most were silver, and some were set with garnets. People often gave one as a love token. Parents pinned a small one to a baby's clothes for protection. Most date from the 1700s and 1800s. The Luckenbooths themselves stood from about 1440 until 1817.",
+    "hashtags": [
+      "#luckenbooth",
+      "#scotland",
+      "#edinburgh",
+      "#lovetoken",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luckenbooth_brooch",
+    "https://collections.vam.ac.uk/item/O113816/brooch-jamieson-charles",
+    "https://collections.vam.ac.uk/item/O113811/brooch-unknown/",
+    "https://journals.socantscot.org/index.php/psas/article/download/10569/10687/11333",
+    "https://collections.mfa.org/objects/74911/queen-mary-brooch",
+    "https://mctears.co.uk/news/the-luckenbooth",
+    "https://exhibitions.abdn.ac.uk/university-collections/document/15113",
+    "https://canmore.org.uk/site/52535",
+    "https://www.scotsman.com/arts-and-culture/lost-edinburgh-the-luckenbooths-1540302",
+    "https://en.wikipedia.org/wiki/Luckenbooths"
+  ],
+  "images": [
+    {
+      "src": "386-a-brooch-named-for-lockable-booths-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "James Gordon of Rothiemay",
+      "page": "https://commons.wikimedia.org/wiki/File:St._Giles_and_Parliament_House_c.1647.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

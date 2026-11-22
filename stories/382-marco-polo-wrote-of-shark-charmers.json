@@ -1,0 +1,184 @@
+{
+  "id": "382-marco-polo-wrote-of-shark-charmers",
+  "number": 382,
+  "title": "Marco Polo wrote of shark charmers",
+  "style": "jewelbox",
+  "topic": "gulf of mannar pearl fishery sri lanka india marco polo fish charmers abraiaman shark pearl divers pliny ceylon pearls more than 2000 years paars rocky banks divers tamils arabs stone pinched nose helper in the boat oysters vanish for years 1903 first fishery since 1891 pearl fisheries ordinance 12 february 1925",
+  "music": "music-382.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "white",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Marco Polo wrote of shark charmers.",
+    "gold": [
+      "Marco",
+      "charmers."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Marco Polo wrote of shark charmers.",
+      "say": "Marco Poh loh wrote of shark charmers.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Polo wrote that charmers protected pearl divers from sharks.",
+      "say": "Poh loh wrote that charmers protected pearl divers from sharks.",
+      "scene": {
+        "kind": "real",
+        "src": "382-marco-polo-wrote-of-shark-charmers-0.jpg",
+        "fit": "card",
+        "label": "A pearl fishery in Ceylon, 1887",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Gulf of Mannar lies between India and Sri Lanka.",
+      "say": "The Gulf of Man nar lies between India and Sri Lanka.",
+      "scene": {
+        "kind": "piece",
+        "label": "Gulf of Mannar"
+      }
+    },
+    {
+      "text": "Its pearls have been prized for more than 2,000 years.",
+      "say": "Its pearls have been prized for more than two thousand years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "cream",
+        "metal": "platinum",
+        "label": "Over 2,000 years"
+      }
+    },
+    {
+      "text": "The Roman writer Pliny praised the pearls of Ceylon.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Praised by Pliny"
+      }
+    },
+    {
+      "text": "The oysters lived on rocky banks called paars.",
+      "say": "The oysters lived on rocky banks called parz.",
+      "scene": {
+        "kind": "title",
+        "text": "Paars",
+        "sub": "Rocky oyster banks",
+        "piece": "pearl",
+        "tone": "cream",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Divers sank with a stone and pinched their noses shut.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A stone to sink"
+      }
+    },
+    {
+      "text": "A helper stayed in the boat for every two divers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "sapphire",
+        "label": "A helper in the boat"
+      }
+    },
+    {
+      "text": "The oysters sometimes vanished from the beds for years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "Gone for years"
+      }
+    },
+    {
+      "text": "The 1903 fishery was the first since 1891.",
+      "say": "The nineteen oh three fishery was the first since eighteen ninety one.",
+      "scene": {
+        "kind": "real",
+        "src": "382-marco-polo-wrote-of-shark-charmers-1.jpg",
+        "fit": "card",
+        "label": "Auction of pearl oysters, Ceylon",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1925, a Sri Lankan ordinance gave the State pearl fishing rights.",
+      "say": "In nineteen twenty five, a Sri Lankan ordinance gave the State pearl fishing rights.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "morganite",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "The 1925 ordinance"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Marco Polo wrote of shark charmers. He wrote that charmers protected pearl divers from sharks. The Gulf of Mannar lies between India and Sri Lanka, and its pearls have been prized for more than 2,000 years. The Roman writer Pliny praised the pearls of Ceylon. The oysters lived on rocky banks called paars, and divers sank with a stone and pinched their noses shut. A helper stayed in the boat for every two divers. The oysters sometimes vanished from the beds for years, and the 1903 fishery was the first since 1891. In 1925, a Sri Lankan ordinance gave the State pearl fishing rights.",
+    "hashtags": [
+      "#pearls",
+      "#marcopolo",
+      "#srilanka",
+      "#gulfofmannar",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_63/July_1903/The_Pearl_Fisheries_of_Ceylon",
+    "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ceylon",
+    "https://www.himalmag.com/the-paars-of-mannar/",
+    "https://www.gia.edu/pearls-from-india-sri-lanka-reading-list",
+    "https://dr.lib.sjp.ac.lk/items/9b5bbad6-75de-4b6c-9664-7b55ff33878b",
+    "https://dsr.nii.ac.jp/toyobunko/III-2-F-c-30/V-2/page/0388.html.en",
+    "https://www.sundaytimes.lk/160417/plus/pearls-for-a-president-189600.html",
+    "https://archives.sundayobserver.lk/2010/10/24/mon11.asp",
+    "https://core.ac.uk/download/33013056.pdf",
+    "https://lawnet.gov.lk/?p=90668",
+    "https://leap.unep.org/en/countries/lk/national-legislation/pearl-fisheries-ordinance"
+  ],
+  "images": [
+    {
+      "src": "382-marco-polo-wrote-of-shark-charmers-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Joseph Nash",
+      "page": "https://commons.wikimedia.org/wiki/File:A_Pearl_Fishery_in_Ceylon,_1887_-_The_Graphic_1887.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "382-marco-polo-wrote-of-shark-charmers-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Edwin William Streeter",
+      "page": "https://commons.wikimedia.org/wiki/File:FMIB_41260_Auction_of_pearl_oysters_in_Ceylon.jpeg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

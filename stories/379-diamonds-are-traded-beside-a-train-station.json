@@ -1,0 +1,176 @@
+{
+  "id": "379-diamonds-are-traded-beside-a-train-station",
+  "number": 379,
+  "title": "Diamonds are traded beside a train station",
+  "style": "jewelbox",
+  "topic": "antwerp diamond district square mile antwerp central station first recorded diamond trade 1447 scaif polishing wheel olive oil diamond dust 1477 archduke maximilian mary of burgundy diamond ring over 80 percent of rough diamonds more than 1300 diamond companies about 3300 people four diamond bourses",
+  "music": "music-379.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Diamonds are traded beside a train station.",
+    "gold": [
+      "Diamonds",
+      "station."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamonds are traded beside a train station.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The trade fits inside about one square mile.",
+      "scene": {
+        "kind": "real",
+        "src": "379-diamonds-are-traded-beside-a-train-station-0.jpg",
+        "fit": "card",
+        "label": "Hoveniersstraat, Antwerp",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The area is known as the Diamond Square Mile.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Diamond Square Mile"
+      }
+    },
+    {
+      "text": "Antwerp Central Station sits right beside it.",
+      "scene": {
+        "kind": "piece",
+        "label": "Beside the station"
+      }
+    },
+    {
+      "text": "The first written record of the trade dates to 1447.",
+      "say": "The first written record of the trade dates to fourteen forty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "First record, 1447"
+      }
+    },
+    {
+      "text": "That makes the trade more than five centuries old.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Over five centuries"
+      }
+    },
+    {
+      "text": "A scaif is a wheel coated in olive oil and diamond dust.",
+      "say": "A skayf is a wheel coated in olive oil and diamond dust.",
+      "scene": {
+        "kind": "title",
+        "text": "Scaif",
+        "sub": "Polishing wheel",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 1477, Archduke Maximilian gave Mary of Burgundy a diamond ring.",
+      "say": "In fourteen seventy seven, Archduke Maximilian gave Mary of Burgundy a diamond ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 16,
+        "label": "A ring gift, 1477"
+      }
+    },
+    {
+      "text": "Over 80 percent of rough diamonds are bought in Antwerp.",
+      "say": "Over eighty percent of rough diamonds are bought in Antwerp.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "diamond",
+        "label": "Over 80 percent of rough"
+      }
+    },
+    {
+      "text": "More than 1,300 diamond companies employ about 3,300 people.",
+      "say": "More than thirteen hundred diamond companies employ about thirty three hundred people.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "1,300 companies"
+      }
+    },
+    {
+      "text": "The city has four diamond exchanges, called bourses.",
+      "say": "The city has four diamond exchanges, called boorsiz.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Four bourses"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Diamonds are traded beside a train station. Antwerp, in Belgium, packs its diamond trade into about one square mile, right next to Antwerp Central Station, in an area known as the Diamond Square Mile. The first written record of the trade dates to 1447, which makes it more than five centuries old. A scaif is a polishing wheel coated in olive oil and diamond dust. In 1477, Archduke Maximilian gave Mary of Burgundy a diamond ring. Over 80 percent of the world's rough diamonds are bought in Antwerp, and more than 1,300 diamond companies employ about 3,300 people there. The city has four diamond exchanges, called bourses.",
+    "hashtags": [
+      "#antwerp",
+      "#diamonds",
+      "#diamondcutting",
+      "#belgium",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.awdc.be/antwerp-diamond-industry",
+    "https://awdc.be/en/node/362",
+    "https://gem-a.com/gem-hub/antwerp-historic-diamond-district",
+    "https://www.brusselstimes.com/business/573690/antwerps-diamond-dilemma",
+    "https://businessinantwerp.eu/nl/node/813",
+    "https://focusonbelgium.be/en/facts/diamonds-and-antwerp-partnership-began-15th-century",
+    "https://www.vrt.be/vrtnws/en/2026/03/10/70-nationalities-in-only-3-streets-a-unique-glimpse-behind-the.consumer/",
+    "https://www.diamondmuseum.be/lodewijk-van-berquen",
+    "https://en.wikipedia.org/wiki/Scaif",
+    "https://en.wikipedia.org/wiki/Antwerp_diamond_district"
+  ],
+  "images": [
+    {
+      "src": "379-diamonds-are-traded-beside-a-train-station-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Thorsten1997",
+      "page": "https://commons.wikimedia.org/wiki/File:Antwerpen_Hoveniersstraat.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

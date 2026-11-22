@@ -1,0 +1,186 @@
+{
+  "id": "380-ireland-s-gold-moon-collars",
+  "number": 380,
+  "title": "Ireland's gold moon collars",
+  "style": "deco",
+  "topic": "gold lunula irish gold moon collar little moon crescent bronze age 2400 2000 bc about 4000 years old more than 100 western europe more than 80 ireland hammered thin sheet zigzag lines densest at tips coggalbeg roscommon bog 1945 national museum of ireland harlyn bay cornwall kerivoa brittany identical same craftsperson",
+  "music": "music-380.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "yellow",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Ireland's gold moon collars.",
+    "gold": [
+      "gold",
+      "collars."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ireland's gold moon collars.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A lunula is a flat crescent collar of gold.",
+      "say": "A LOO nyoo luh is a flat crescent collar of gold.",
+      "scene": {
+        "kind": "real",
+        "src": "380-ireland-s-gold-moon-collars-0.jpg",
+        "fit": "card",
+        "label": "Lunula from Blessington, Ireland",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The word lunula means little moon.",
+      "say": "The word LOO nyoo luh means little moon.",
+      "scene": {
+        "kind": "title",
+        "text": "Little moon",
+        "sub": "What lunula means",
+        "piece": "earrings",
+        "stone": "yellow",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "They are about 4,000 years old.",
+      "say": "They are about four thousand years old.",
+      "scene": {
+        "kind": "piece",
+        "label": "About 4,000 years old"
+      }
+    },
+    {
+      "text": "More than 100 are known from western Europe.",
+      "say": "More than one hundred are known from western Europe.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 10,
+        "metal": "yellow",
+        "label": "Over 100 known"
+      }
+    },
+    {
+      "text": "More than 80 of them come from Ireland.",
+      "say": "More than eighty of them come from Ireland.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Over 80 from Ireland"
+      }
+    },
+    {
+      "text": "Craftsmen hammered the gold into very thin sheet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "topaz",
+        "label": "Hammered thin"
+      }
+    },
+    {
+      "text": "Fine zigzag lines are densest at the tips.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "yellow",
+        "metal": "yellow",
+        "stones": 14,
+        "label": "Zigzag lines"
+      }
+    },
+    {
+      "text": "The Coggalbeg lunula was dug from a bog in 1945.",
+      "say": "The KOG ul beg lunula was dug from a bog in nineteen forty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A bog find, 1945"
+      }
+    },
+    {
+      "text": "The National Museum of Ireland keeps it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Kept in Dublin"
+      }
+    },
+    {
+      "text": "Nobody knows exactly what they were for.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "round",
+        "petals": 10,
+        "metal": "yellow",
+        "label": "Purpose unknown"
+      }
+    },
+    {
+      "text": "Cornish and Breton lunulae are identical, perhaps by one maker.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "yellow",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "Cornwall and Brittany"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Ireland's gold moon collars. A lunula is a flat crescent collar of gold, and the word means little moon. They are about 4,000 years old. More than 100 are known from western Europe, and more than 80 come from Ireland. Craftsmen hammered the gold into very thin sheet, and fine zigzag lines are densest at the tips. The Coggalbeg lunula was dug from a bog in 1945, and the National Museum of Ireland keeps it. Nobody knows exactly what they were for. A Cornish lunula and a Breton one are identical, and they may be the work of one craftsperson.",
+    "hashtags": [
+      "#lunula",
+      "#irishgold",
+      "#bronzeage",
+      "#ireland",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gold_lunula",
+    "https://smarthistory.org/golden-lunula-and-two-gold-discs-coggalbeg-hoard/",
+    "https://museum.ie/en-IE/Collections-Research/Irish-Antiquities-Division-Collections/Collections-List-(1)/Bronze-Age/Early-Bronze-Age",
+    "https://www.irishtimes.com/culture/art-and-design/a-history-of-ireland-in-100-objects-1.562035",
+    "https://www.lbma.org.uk/alchemist/issue-96/the-gold-exhibition-at-the-national-museum-of-ireland-nmi",
+    "https://www.nms.ac.uk/collections/departments/scottish-history-archaeology/projects/prehistoric-gold-in-britain/gold-lunulae-from-harlyn-bay-cornwall",
+    "https://www.worldhistory.org/image/6219/lunula/"
+  ],
+  "images": [
+    {
+      "src": "380-ireland-s-gold-moon-collars-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "John Maynard Friedman",
+      "page": "https://commons.wikimedia.org/wiki/File:Blessington_lunula.BM.WG.31.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

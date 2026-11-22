@@ -1,0 +1,184 @@
+{
+  "id": "378-her-jewelry-was-locked-away-fifty-years",
+  "number": 378,
+  "title": "Her jewelry was locked away fifty years",
+  "style": "gouache",
+  "topic": "frida kahlo jewelry pre columbian jade beads necklaces strung herself museo frida kahlo casa azul 1933 self portrait with necklace mexican silver rings milagros earrings shaped like little hands wardrobe locked away after 1954 about 50 years opened 2004 about 300 items exhibition appearances can be deceiving november 2012",
+  "music": "music-378.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "peridot",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Her jewelry was locked away fifty years.",
+    "gold": [
+      "jewelry",
+      "fifty"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Her jewelry was locked away fifty years.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Frida Kahlo wore large ancient jade beads.",
+      "say": "Free dah Kah loh wore large ancient jade beads.",
+      "scene": {
+        "kind": "real",
+        "src": "378-her-jewelry-was-locked-away-fifty-years-0.jpg",
+        "fit": "card",
+        "label": "Frida Kahlo, 1932",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She strung ancient necklaces herself.",
+      "scene": {
+        "kind": "piece",
+        "label": "Strung by hand"
+      }
+    },
+    {
+      "text": "A jade bead necklace from her wardrobe is kept in her museum.",
+      "scene": {
+        "kind": "real",
+        "src": "378-her-jewelry-was-locked-away-fifty-years-1.jpg",
+        "fit": "card",
+        "label": "Frida Kahlo, by Van Vechten",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In her 1933 self portrait, she wears ancient jade beads.",
+      "say": "In her nineteen thirty three self portrait, she wears ancient jade beads.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Jade beads, 1933"
+      }
+    },
+    {
+      "text": "She also wore heavy Mexican silver rings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Mexican silver rings"
+      }
+    },
+    {
+      "text": "Photos show rings on many fingers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "stone": "amethyst",
+        "label": "Rings on many fingers"
+      }
+    },
+    {
+      "text": "Some earrings were shaped like little hands.",
+      "say": "Some earrings were shaped like little hands.",
+      "scene": {
+        "kind": "title",
+        "text": "Milagros",
+        "sub": "Little charms",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "After 1954, her wardrobe was locked away for about 50 years.",
+      "say": "After nineteen fifty four, her wardrobe was locked away for about fifty years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Locked away"
+      }
+    },
+    {
+      "text": "In 2004, about 300 items came out of her closets.",
+      "say": "In two thousand four, about three hundred items came out of her closets.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "About 300 items"
+      }
+    },
+    {
+      "text": "Her Casa Azul museum showed them in 2012.",
+      "say": "Her Kah sah ah sool museum showed them in twenty twelve.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Casa Azul, 2012"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Her jewelry was locked away fifty years. Frida Kahlo wore large ancient jade beads and strung her ancient necklaces herself. A jade bead necklace from her wardrobe is kept in her museum, and her 1933 self portrait shows ancient jade beads. She also wore heavy Mexican silver rings, and photos show rings on many fingers. Some of her earrings were shaped like little hands. After 1954, her wardrobe was locked away for about 50 years. In 2004, about 300 items came out of her closets, and her Casa Azul museum showed them in 2012.",
+    "hashtags": [
+      "#fridakahlo",
+      "#jade",
+      "#casaazul",
+      "#mexico",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.vam.ac.uk/articles/unlocking-frida-kahlos-wardrobe",
+    "https://www.theartnewspaper.com/preview/step-into-frida-kahlo-s-secret-wardrobe",
+    "https://wallpaper.com/watches-and-jewellery/frida-kahlo-vanda-exhibition-london",
+    "https://blog.dma.org/?p=41061",
+    "https://www.museofridakahlo.org.mx/museo/?lang=en",
+    "https://rapaport.com/magazine-article/a-portrait-of-frida-kahlo/",
+    "https://www.nationalgeographic.com/culture/2019/01/excerpt-frida-kahlo-artist-praise-difficult-women/",
+    "https://artdaily.com/news/59088/Frida-Kahlo-s-personal-items-come-out-of-the-closet-for-new-exhibition-at-Casa-Azul",
+    "https://www.irenebrination.com/2012/12/14/frida-kahlo-vestidos/",
+    "https://www.famsf.org/exhibitions/frida-kahlo",
+    "https://sothebys.com/en/museums/frida-kahlo-museum/exhibitions/appearances-can-be-deceiving-the-dresses-of-frida-kahlo"
+  ],
+  "images": [
+    {
+      "src": "378-her-jewelry-was-locked-away-fifty-years-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Guillermo Kahlo",
+      "page": "https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "378-her-jewelry-was-locked-away-fifty-years-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Carl Van Vechten",
+      "page": "https://commons.wikimedia.org/wiki/File:Frida_Kahlo_1932.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
