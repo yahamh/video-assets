@@ -1,0 +1,184 @@
+{
+  "id": "397-two-tiny-gold-men-stitch-a-fleece",
+  "number": 397,
+  "title": "Two tiny gold men stitch a fleece",
+  "style": "jewelbox",
+  "topic": "golden pectoral tovsta mohyla scythian 4th century bc 21 june 1971 borys mozolevsky pokrov dnipropetrovsk about 1.15 kilograms about 30.5 centimeters four twisted gold tubes three bands two kneeling men stitch a fleece horse and foal cow and calf plant five birds griffins about 50 cast gold figures national museum of the history of ukraine kyiv",
+  "music": "music-397.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "peridot",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Two tiny gold men stitch a fleece.",
+    "gold": [
+      "gold",
+      "fleece."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Two tiny gold men stitch a fleece.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It is a gold collar from the 4th century BC.",
+      "say": "It is a gold collar from the fourth century B C.",
+      "scene": {
+        "kind": "real",
+        "src": "397-two-tiny-gold-men-stitch-a-fleece-0.jpg",
+        "fit": "card",
+        "label": "The Tovsta Mohyla pectoral",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1971, archaeologist Borys Mozolevsky found it in a burial mound.",
+      "say": "In nineteen seventy one, archaeologist BOH ris moh zoh LEV skee found it in a burial mound.",
+      "scene": {
+        "kind": "piece",
+        "label": "Found in 1971"
+      }
+    },
+    {
+      "text": "It weighs about 2.5 pounds and is about 12 inches wide.",
+      "say": "It weighs about two and a half pounds and is about twelve inches wide.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "yellow",
+        "stone": "peridot",
+        "label": "About 12 inches wide"
+      }
+    },
+    {
+      "text": "Four twisted gold tubes frame three bands of scenes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "peridot",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Three bands"
+      }
+    },
+    {
+      "text": "The top band shows horses and cows with their young.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "The top band"
+      }
+    },
+    {
+      "text": "The middle band holds a gold plant with five birds.",
+      "scene": {
+        "kind": "title",
+        "text": "Five birds",
+        "sub": "The middle band",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Animals fight in the bottom band.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "The bottom band"
+      }
+    },
+    {
+      "text": "About 50 tiny cast gold figures fill the collar.",
+      "say": "About fifty tiny cast gold figures fill the collar.",
+      "scene": {
+        "kind": "real",
+        "src": "397-two-tiny-gold-men-stitch-a-fleece-1.jpg",
+        "fit": "card",
+        "label": "Scythian gold ornaments",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It belongs to the National Museum of the History of Ukraine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Kept in Kyiv"
+      }
+    },
+    {
+      "text": "The museum is in Kyiv.",
+      "say": "The museum is in KEEV.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "peridot",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Kyiv, Ukraine"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Two tiny gold men stitch a fleece. It is a gold collar from the 4th century BC. On 21 June 1971, archaeologist Borys Mozolevsky found it in a burial mound in Ukraine. It weighs about 2.5 pounds and is about 12 inches wide. Four twisted gold tubes frame three bands of scenes: a cow and calf and a horse and foal on top, a gold plant with five birds in the middle, and fighting animals at the bottom. About 50 tiny cast gold figures fill it. It belongs to the National Museum of the History of Ukraine in Kyiv.",
+    "hashtags": [
+      "#scythian",
+      "#ancientgold",
+      "#ukraine",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Golden_Pectoral_from_Tovsta_Mohyla",
+    "https://en.wikipedia.org/wiki/Tovsta_Mohyla",
+    "https://artsandculture.google.com/story/pwXRxnYztYpqiA",
+    "https://artsandculture.google.com/asset/crescent-shaped-gold-pectoral-of-a-scythian-king/DwFe89dFcg6xQA",
+    "https://kyiv.ua.museum-digital.org/pdf/object/12940.pdf?lang=en",
+    "https://mdpi.com/2076-0752/12/4/136",
+    "https://encyclopediaofukraine.com/pages%5CT%5CO%5CTovstaMohyla.htm",
+    "https://www.kyivpost.com/opinion/20020",
+    "https://www.ganoksin.com/article/great-pectoral-tolstaya-mogila/",
+    "https://www.cambridge.org/core/books/archaeology-of-greece-and-rome/life-on-earth-and-death-from-heaven-the-golden-pectoral-of-the-scythian-king-from-the-tolstaya-mogila-ukraine/4FFB9CDA3A79A96BBE04FD1E1D61536C",
+    "https://nmiu.org/en/museums-treasury"
+  ],
+  "images": [
+    {
+      "src": "397-two-tiny-gold-men-stitch-a-fleece-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Terminator",
+      "page": "https://commons.wikimedia.org/wiki/File:Pektoral111.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "397-two-tiny-gold-men-stitch-a-fleece-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Gary Todd from Xinzheng, China",
+      "page": "https://commons.wikimedia.org/wiki/File:Scythian_Gold_(28620979442).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
