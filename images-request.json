@@ -1,118 +1,44 @@
 {
  "queries": [
   {
-   "key": "h-paloma",
+   "key": "h-palme",
    "commons": [
-    "Paloma Picasso",
-    "Kunzite",
-    "Picasso Kunzite Necklace",
-    "Tiffany & Co. Fifth Avenue",
-    "Subway graffiti New York 1980s",
-    "Tiffany & Co. flagship store"
+    "Palme d'Or trophy",
+    "Palme d'Or Cannes",
+    "Blason Cannes",
+    "Lost wax casting",
+    "Wax model jewellery",
+    "Rock crystal quartz",
+    "Palais des Festivals Cannes",
+    "Croisette palm trees"
    ],
    "max": 7
   },
   {
-   "key": "h-verdura",
+   "key": "h-santos",
    "commons": [
-    "Fulco di Verdura",
-    "Villa Niscemi",
-    "Coco Chanel 1920s",
-    "Cole Porter",
-    "Basilica of San Vitale Theodora",
-    "Fire Island beach seashell"
+    "Alberto Santos-Dumont",
+    "Santos-Dumont 1906",
+    "14-bis Santos-Dumont",
+    "Santos-Dumont airship No. 6 Eiffel Tower",
+    "Louis Cartier",
+    "Cartier Santos wristwatch",
+    "Early wristwatch",
+    "Cartier Rue de la Paix"
    ],
    "max": 7
   },
   {
-   "key": "h-tutti",
+   "key": "h-mikimoto",
    "commons": [
-    "Delhi Durbar 1911",
-    "Cartier Tutti Frutti",
-    "Mountbatten bandeau",
-    "Carved emerald Mughal",
-    "Jacques Cartier",
-    "Edwina Mountbatten"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-goldhat",
-   "commons": [
-    "Berliner Goldhut",
-    "Berlin Gold Hat",
-    "Goldener Hut Schifferstadt",
-    "Neues Museum Berlin",
-    "Ezelsdorf Goldkegel",
-    "Bronze Age gold"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-belperron",
-   "commons": [
-    "Suzanne Belperron",
-    "Belperron",
-    "Rock crystal jewelry",
-    "Chalcedony",
-    "Art Deco brooch",
-    "Duchess of Windsor jewels"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-princess",
-   "commons": [
-    "Princess cut diamond",
-    "Princess-cut diamond ring",
-    "Diamond shapes princess cut diagram",
-    "Princess cut"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-moussaieff",
-   "commons": [
-    "Moussaieff Red diamond",
-    "Red diamond",
-    "Splendor of Diamonds Smithsonian 2003",
-    "Trilliant cut diamond"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-pakal",
-   "commons": [
-    "Pakal mask",
-    "Pakal the Great",
-    "Temple of the Inscriptions Palenque",
-    "Palenque",
-    "Maya jade mask",
-    "Museo Nacional de Antropologia Mexico"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-nimrud",
-   "commons": [
-    "Nimrud gold",
-    "Treasure of Nimrud",
-    "Nimrud",
-    "Assyrian gold jewelry",
-    "Iraq Museum Nimrud",
-    "Nimrud tomb"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-chivor",
-   "commons": [
-    "Chivor emerald",
-    "Chivor mine",
-    "Muzo emerald",
-    "Colombian emerald",
-    "Emerald crystal",
-    "Boyaca Colombia emerald mine"
+    "Mikimoto Crown",
+    "Miss Universe crown Mikimoto",
+    "Akoya pearls",
+    "South Sea pearl",
+    "Cultured pearls",
+    "Mikimoto Kokichi",
+    "Phoenix Hall Uji",
+    "Ito Jakuchu phoenix"
    ],
    "max": 7
   }
