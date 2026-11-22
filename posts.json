@@ -4712,7 +4712,11 @@
     "zernio_id": "6b0081260adc6e2263ce9b6a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgBamXgAEab/"
+    }
   },
   "321-she-announced-her-engagement-without-a-ring": {
     "at": "2026-11-22T00:00:00Z",
@@ -5172,6 +5176,14 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "377-six-million-sesterces-one-pearl": {
+    "at": "2026-11-23T12:00:00Z",
+    "zernio_id": "6b02334285695faba4c7e12a",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -5782,6 +5794,13 @@
   "lesson-035-bezel-setting": {
     "at": "2026-11-27T16:00:00Z",
     "zernio_id": "6b00d49a6653f11e8e2f9c7f",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-036-parts-of-a-diamond": {
+    "at": "2026-11-28T16:00:00Z",
+    "zernio_id": "6b02334985695faba4c7e16f",
     "platforms": [
       "youtube"
     ]
