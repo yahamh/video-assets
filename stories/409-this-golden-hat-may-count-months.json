@@ -1,0 +1,199 @@
+{
+  "id": "409-this-golden-hat-may-count-months",
+  "number": 409,
+  "title": "This golden hat may count months",
+  "style": "jewelbox",
+  "topic": "berlin gold hat berliner goldhut late bronze age 1000 800 bc about 3000 years old 74 centimeters tall hammered one sheet of gold thin as paper bronze bands punched rings and discs lunisolar calendar sun and moon 19 year cycle neues museum berlin one of four known gold cone hats",
+  "music": "music-409.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "topaz",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "This golden hat may count months.",
+    "gold": [
+      "golden",
+      "months."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "This golden hat may count months.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Berlin Gold Hat is about 3,000 years old.",
+      "say": "The Berlin Gold Hat is about three thousand years old.",
+      "scene": {
+        "kind": "real",
+        "src": "409-this-golden-hat-may-count-months-0.jpg",
+        "fit": "card",
+        "label": "The Berlin Gold Hat",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It stands about 74 centimeters tall.",
+      "say": "It stands about seventy four centimeters tall.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "About 74 centimeters tall"
+      }
+    },
+    {
+      "text": "It weighs only about half a kilo.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "About half a kilo"
+      }
+    },
+    {
+      "text": "It was hammered from one sheet of gold, thin as paper.",
+      "scene": {
+        "kind": "real",
+        "src": "409-this-golden-hat-may-count-months-1.jpg",
+        "fit": "card",
+        "label": "Detail of the hat",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Flat bronze bands strengthen its cone and brim.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "rose",
+        "label": "Flat bronze bands"
+      }
+    },
+    {
+      "text": "Rings and discs are punched into the gold in patterns.",
+      "scene": {
+        "kind": "title",
+        "text": "Punched",
+        "sub": "Rings and discs",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 14
+      }
+    },
+    {
+      "text": "Researchers read those patterns as a calendar of sun and moon.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Sun and moon"
+      }
+    },
+    {
+      "text": "One reading says it tracks a cycle of nineteen years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 12,
+        "metal": "yellow",
+        "label": "A nineteen year cycle"
+      }
+    },
+    {
+      "text": "It is kept in the Neues Museum in Berlin.",
+      "say": "It is kept in the NOY es Moo zay um in Berlin.",
+      "scene": {
+        "kind": "real",
+        "src": "409-this-golden-hat-may-count-months-2.jpg",
+        "fit": "card",
+        "label": "In the Neues Museum, Berlin",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Only four gold cone hats like it are known.",
+      "scene": {
+        "kind": "real",
+        "src": "409-this-golden-hat-may-count-months-3.jpg",
+        "fit": "card",
+        "label": "Schifferstadt, another cone hat",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    }
+  ],
+  "post": {
+    "caption": "This golden hat may count months. The Berlin Gold Hat is about 3,000 years old, from the Late Bronze Age, and stands about 74 centimeters tall. It weighs only about half a kilo. It was hammered from one sheet of gold, thin as paper, with flat bronze bands to strengthen it. Rings and discs are punched into the gold in patterns, and researchers read them as a calendar of sun and moon. One reading says it tracks a cycle of 19 years. It is kept in the Neues Museum in Berlin, and only four gold cone hats like it are known.",
+    "hashtags": [
+      "#bronzeage",
+      "#gold",
+      "#berlin",
+      "#archaeology",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berlin_Gold_Hat",
+    "https://en.wikipedia.org/wiki/Gold_hat",
+    "https://www.livescience.com/archaeology/berlin-gold-hat-a-3-000-year-old-ceremonial-headdress-that-a-cult-used-to-track-the-sun-moon-and-lunar-eclipses",
+    "https://www.the-berliner.com/berlin/object-lesson-berlin-gold-hat-bronze-age-calendar-neues-museum/",
+    "https://etc.worldhistory.org/education/four-gold-hats-a-bronze-age-mystery/",
+    "https://artsandculture.google.com/asset/golden-ceremonial-hat-berlin-gold-hat-artist-unknown/hAGC3knXgLdPZg",
+    "https://smb.museum-digital.de/pdf/object/111479.pdf?lang=en",
+    "https://artsandculture.google.com/story/BgURvF4a2uZ2AA",
+    "https://en.wikipedia.org/wiki/Golden_Hat_of_Schifferstadt"
+  ],
+  "images": [
+    {
+      "src": "409-this-golden-hat-may-count-months-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Photograph: Andreas Praefcke",
+      "page": "https://commons.wikimedia.org/wiki/File:Berliner_Goldhut.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "409-this-golden-hat-may-count-months-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Photograph: Andreas Praefcke",
+      "page": "https://commons.wikimedia.org/wiki/File:Berliner_Goldhut_detail.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "409-this-golden-hat-may-count-months-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Gary Todd from Xinzheng, China",
+      "page": "https://commons.wikimedia.org/wiki/File:Berlin_Golden_Ceremonial_Hat,_1000-800_BC_(28471888140).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "409-this-golden-hat-may-count-months-3.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Immanuel Giel",
+      "page": "https://commons.wikimedia.org/wiki/File:Goldener_Hut_von_Schifferstadt.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

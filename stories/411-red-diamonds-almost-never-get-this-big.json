@@ -1,0 +1,194 @@
+{
+  "id": "411-red-diamonds-almost-never-get-this-big",
+  "number": 411,
+  "title": "Red diamonds almost never get this big",
+  "style": "gouache",
+  "topic": "moussaieff red diamond red shield brazil 5.11 carats rough 13.9 carats william goldberg new york trilliant triangular fancy red gia largest graded smithsonian splendor of diamonds 2003 millennium star",
+  "music": "music-411.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "ruby",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Red diamonds almost never get this big.",
+    "gold": [
+      "Red",
+      "big."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Red diamonds almost never get this big.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "This one weighs 5.11 carats.",
+      "say": "This one weighs five point one one carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "5.11 carats"
+      }
+    },
+    {
+      "text": "It was cut from a rough crystal of 13.9 carats.",
+      "say": "It was cut from a rough crystal of thirteen point nine carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 6,
+        "metal": "platinum",
+        "label": "13.9 carats of rough"
+      }
+    },
+    {
+      "text": "That rough crystal came from Brazil.",
+      "scene": {
+        "kind": "title",
+        "text": "Brazil",
+        "sub": "Where it was found",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "oval",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "William Goldberg's New York workshop cut it as a triangle.",
+      "scene": {
+        "kind": "real",
+        "src": "411-red-diamonds-almost-never-get-this-big-0.jpg",
+        "fit": "card",
+        "label": "A triangular trilliant cut",
+        "credit": "Photo: Seth Lemmons, CC BY 2.0"
+      }
+    },
+    {
+      "text": "Its first name was the Red Shield.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The Red Shield"
+      }
+    },
+    {
+      "text": "London jewelers Moussaieff bought it and renamed it.",
+      "say": "London jewelers Moo SIGH eff bought it and renamed it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Moussaieff of London"
+      }
+    },
+    {
+      "text": "GIA graded its color Fancy Red, with no other hue.",
+      "say": "G I A graded its color Fancy Red, with no other hue.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "pink",
+        "cut": "round",
+        "metal": "rose",
+        "label": "Fancy Red"
+      }
+    },
+    {
+      "text": "It was the largest fancy red that lab had graded.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "The largest graded"
+      }
+    },
+    {
+      "text": "In 2003, it starred in a Smithsonian show, The Splendor of Diamonds.",
+      "say": "In two thousand three, it starred in a Smithsonian show, The Splendor of Diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "2003",
+        "sub": "Smithsonian",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "All seven stones in that show were found since 1980.",
+      "say": "All seven stones in that show were found since nineteen eighty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "Seven rare diamonds"
+      }
+    },
+    {
+      "text": "It sat beside the Millennium Star.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The Millennium Star"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Red diamonds almost never get this big. The Moussaieff Red weighs 5.11 carats and was cut from a rough crystal of 13.9 carats found in Brazil. William Goldberg's New York workshop cut it as a triangle, and its first name was the Red Shield. London jewelers Moussaieff bought it and renamed it. GIA graded its color Fancy Red, with no other hue, and it was the largest fancy red that lab had graded. In 2003 it starred in a Smithsonian show, The Splendor of Diamonds, beside the Millennium Star. Photo: Seth Lemmons, CC BY 2.0",
+    "hashtags": [
+      "#reddiamond",
+      "#moussaieff",
+      "#diamonds",
+      "#rarestones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moussaieff_Red_Diamond",
+    "https://www.gia.edu/articles/famous-diamonds",
+    "https://eragem.com/news/legendary-moussaieff-red-diamond/",
+    "https://en.israelidiamond.co.il/wikidiamond/famous-diamonds/moussaieff-red-diamond/",
+    "https://www.langerman-diamonds.com/blogs/encyclopedia/moussaieff-red-red-5-11-ct",
+    "https://thediamondcollective.world/learn/moussaieff-red-diamond/",
+    "https://thediamondcollective.world/historic-diamonds/william-goldberg-for-the-love-of-diamonds/",
+    "https://si.edu/exhibitions/splendor-diamonds-event-exhib-4437",
+    "https://www.gia.edu/gems-gemology/summer-2003-seven-rare-diamonds-king"
+  ],
+  "images": [
+    {
+      "src": "411-red-diamonds-almost-never-get-this-big-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Seth Lemmons",
+      "page": "https://commons.wikimedia.org/wiki/File:Princess_and_trilliant_cut_diamonds_in_a_ring.jpg",
+      "credit": "Photo: Seth Lemmons, CC BY 2.0"
+    }
+  ]
+}

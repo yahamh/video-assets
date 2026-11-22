@@ -1,0 +1,191 @@
+{
+  "id": "410-cartier-s-gems-waited-decades-for-a-name",
+  "number": 410,
+  "title": "Cartier's gems waited decades for a name",
+  "style": "deco",
+  "topic": "cartier tutti frutti carved gems india 1920s jacques cartier 1911 delhi durbar emeralds rubies leaves berries bold color over clarity maharajas reset in paris name not used at the time came into use in the 1970s italian for all fruits protected by cartier 1989 mountbatten bandeau 1928 two bracelets",
+  "music": "music-410.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Cartier's gems waited decades for a name.",
+    "gold": [
+      "gems",
+      "name."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier's gems waited decades for a name.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 1920s, Cartier began combining carved gems from India.",
+      "say": "In the nineteen twenties, Cartier began combining carved gems from India.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "Carved gems from India"
+      }
+    },
+    {
+      "text": "Jacques Cartier first visited India in 1911, for the Delhi Durbar.",
+      "say": "Jacques Cartier first visited India in nineteen eleven, for the Delhi Durbar.",
+      "scene": {
+        "kind": "real",
+        "src": "410-cartier-s-gems-waited-decades-for-a-name-0.jpg",
+        "fit": "card",
+        "label": "Delhi Durbar, 1911",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He brought home carved emeralds and rubies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Emeralds and rubies"
+      }
+    },
+    {
+      "text": "Many were carved like leaves and berries.",
+      "scene": {
+        "kind": "title",
+        "text": "Leaves",
+        "sub": "Carved gems",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "pear",
+        "petals": 7,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Cartier chose bold color over perfect clarity.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Color over clarity"
+      }
+    },
+    {
+      "text": "Maharajas also brought their stones to Paris to be reset.",
+      "scene": {
+        "kind": "real",
+        "src": "410-cartier-s-gems-waited-decades-for-a-name-1.jpg",
+        "fit": "card",
+        "label": "Rulers at the Delhi Durbar",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "At the time, nobody called the style Tutti Frutti.",
+      "say": "At the time, nobody called the style TOO tee FROO tee.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "No name yet"
+      }
+    },
+    {
+      "text": "That name only came into use in the 1970s.",
+      "say": "That name only came into use in the nineteen seventies.",
+      "scene": {
+        "kind": "title",
+        "text": "1970s",
+        "sub": "The name",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Tutti frutti is Italian for all fruits.",
+      "say": "TOO tee FROO tee is Italian for all fruits.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "peridot",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "All fruits, in Italian"
+      }
+    },
+    {
+      "text": "One 1928 Cartier bandeau splits into two bracelets.",
+      "say": "One nineteen twenty eight Cartier bandeau splits into two bracelets.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A bandeau and two bracelets"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Cartier's gems waited decades for a name. In the 1920s, Cartier began combining carved gems from India into bright jewels. Jacques Cartier first visited India in 1911, for the Delhi Durbar, and brought home carved emeralds and rubies, many shaped like leaves and berries. Cartier chose bold color over perfect clarity. At the time nobody called the style Tutti Frutti. That name only came into use in the 1970s, and it is Italian for all fruits. Cartier protected the name in 1989. One 1928 Cartier bandeau splits into two bracelets.",
+    "hashtags": [
+      "#cartier",
+      "#tuttifrutti",
+      "#highjewelry",
+      "#jewelrydesign",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/the-story-of-tutti-frutti-jewels-as-told-by-a-cartier-descendant",
+    "https://www.sothebys.com/en/articles/the-stylistic-influences-of-cartiers-tutti-frutti",
+    "https://doyle.com/story/cartier-tutti-frutti",
+    "https://iaja.com/2024/02/07/cartiers-iconic-tutti-frutti-jewels/",
+    "https://int.cartier.com/en/collections/jewelry/high-jewellery/tutti-frutti-hj.html",
+    "https://www.sothebys.com/en/articles/tutti-frutti",
+    "https://www.vam.ac.uk/articles/about-cartier-exhibition",
+    "https://www.merriam-webster.com/dictionary/tutti-frutti",
+    "https://www.harpersbazaar.in/fashion/story/tiaras-tutti-frutti-and-timelessness-cartiers-world-at-the-va-1279583-2025-09-19",
+    "https://the-cartiers.com/glossary/indian-style/"
+  ],
+  "images": [
+    {
+      "src": "410-cartier-s-gems-waited-decades-for-a-name-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Herzog & Higgins",
+      "page": "https://commons.wikimedia.org/wiki/File:King_George_V_and_Queen_Mary_in_robes_for_the_Delhi_Durbar,_1911.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "410-cartier-s-gems-waited-decades-for-a-name-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Illustrations Bureau, published by J. Beagles & Co.",
+      "page": "https://commons.wikimedia.org/wiki/File:Photographs_of_rulers_of_the_princely_states_of_Punjab_bowing_to_the_British_monarch,_Illustrations_Bureau,_published_by_J._Beagles_%26_Co.,_Delhi_Durbar,_Delhi,_12_December_1911.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

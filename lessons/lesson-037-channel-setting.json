@@ -1,0 +1,154 @@
+{
+ "id": "lesson-037-channel-setting",
+ "series": "lesson",
+ "number": 37,
+ "title": "What a channel setting is",
+ "topic": "channel setting two parallel metal walls seat girdle pressed over stones matched size height flush snag resize repair side light dirt groove wedding eternity bands",
+ "music": "music-lesson-037.wav",
+ "hook": {
+  "text": "A channel holds stones between two walls.",
+  "gold": [
+   "channel",
+   "walls."
+  ]
+ },
+ "end": {
+  "line": "Renders made with",
+  "handle": "HeyGema"
+ },
+ "lines": [
+  {
+   "text": "A channel holds stones between two walls.",
+   "scene": {
+    "kind": "photo",
+    "src": "eternity-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.45,
+     "k": 1.2
+    },
+    "label": "These stones sit in prongs"
+   }
+  },
+  {
+   "text": "A channel setting holds a row of stones between metal walls.",
+   "scene": {
+    "kind": "title",
+    "text": "Channel",
+    "sub": "Two walls, no prongs"
+   }
+  },
+  {
+   "text": "The jeweler cuts a small seat inside the walls.",
+   "scene": {
+    "kind": "steps",
+    "items": [
+     "Cut the seats",
+     "Place the stones",
+     "Press the walls"
+    ],
+    "active": 0,
+    "label": "Setting a channel"
+   }
+  },
+  {
+   "text": "Each stone's edge, the girdle, rests in its seat.",
+   "scene": {
+    "kind": "title",
+    "text": "Girdle",
+    "sub": "The stone's edge"
+   }
+  },
+  {
+   "text": "Then the walls are pressed over the stones to lock them.",
+   "scene": {
+    "kind": "steps",
+    "items": [
+     "Cut the seats",
+     "Place the stones",
+     "Press the walls"
+    ],
+    "active": 2,
+    "label": "Setting a channel"
+   }
+  },
+  {
+   "text": "Stones must match in size and height, or gaps show.",
+   "scene": {
+    "kind": "title",
+    "text": "Matched",
+    "sub": "Same size and height"
+   }
+  },
+  {
+   "text": "No prongs means less snagging, and the surface sits flush.",
+   "scene": {
+    "kind": "title",
+    "text": "Flush",
+    "sub": "Nothing to snag"
+   }
+  },
+  {
+   "text": "It is hard to resize, and harder to repair than prongs.",
+   "scene": {
+    "kind": "title",
+    "text": "Hard to resize",
+    "sub": "And to repair"
+   }
+  },
+  {
+   "text": "Walls block some side light, and dirt can collect in the groove.",
+   "scene": {
+    "kind": "photo",
+    "src": "signet-render.webp",
+    "focus": {
+     "x": 0.45,
+     "y": 0.3,
+     "k": 1.25
+    },
+    "label": "Beads hold these stones instead"
+   }
+  },
+  {
+   "text": "So a channel holds stones with walls instead of prongs.",
+   "scene": {
+    "kind": "title",
+    "text": "Walls",
+    "sub": "Instead of prongs"
+   }
+  },
+  {
+   "text": "A render shows how the row sits before anything is cast.",
+   "scene": {
+    "kind": "compare",
+    "before": "signet-cad.webp",
+    "after": "signet-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  }
+ ],
+ "post": {
+  "youtube_title": "Jewelry render basics: what a channel setting is",
+  "caption": "A channel setting holds a row of stones between two walls of metal instead of prongs. The jeweler cuts a seat inside the walls, each stone rests in it by its girdle, and the walls are pressed over the stones to lock them in. Stones must match in size and height, and the setting is hard to resize and harder to repair than prongs. The renders in this video were made with HeyGema.",
+  "hashtags": [
+   "#channelsetting",
+   "#jewelrymaking",
+   "#jewelrydesign",
+   "#gemsetting",
+   "#jewelryrendering"
+  ]
+ },
+ "sources": [
+  "https://www.ganoksin.com/lesson/channel-setting/",
+  "https://www.ganoksin.com/lesson/channel-setting-princess-cuts",
+  "https://www.whiteflash.com/jewelry-education/a-guide-to-channel-settings/",
+  "https://skyjems.ca/pages/encyclopedia-channel-setting",
+  "https://en.wikipedia.org/wiki/Stone_setting",
+  "https://www.gia.edu/design-with-melee",
+  "https://quickjewelryrepairs.com/articles/channel-set-vs-pave/",
+  "https://www.angara.com/blog/channel-setting-everything-you-need-to-know",
+  "https://www.diamonds.pro/education/channel-set-diamond-rings/",
+  "https://rarecarat.com/jewelry/rings/channel-setting-ring-guide"
+ ]
+}

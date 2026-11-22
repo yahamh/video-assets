@@ -1,0 +1,189 @@
+{
+  "id": "415-the-palme-d-or-has-a-twin",
+  "number": 415,
+  "title": "The Palme d'Or has a twin",
+  "style": "jewelbox",
+  "topic": "palme d'or cannes trophy chopard geneva blue wax lost wax casting plaster gold 18 carat 118 grams nineteen leaves tiny heart rock crystal base no two alike more than forty hours spare made every year tie",
+  "music": "music-415.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "citrine",
+    "cut": "round",
+    "petals": 12,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Palme d'Or has a twin.",
+    "gold": [
+      "Palme",
+      "twin."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Palme d'Or has a twin.",
+      "say": "The Pahlm DOR has a twin.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Chopard makes the Cannes trophy in Geneva.",
+      "say": "SHOH par makes the Cannes trophy in Geneva.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Made in Geneva"
+      }
+    },
+    {
+      "text": "It begins as a small palm sculpted in blue wax.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "cut": "round",
+        "petals": 6,
+        "metal": "platinum",
+        "label": "A palm in blue wax"
+      }
+    },
+    {
+      "text": "Plaster is baked around it until the wax melts out.",
+      "scene": {
+        "kind": "real",
+        "src": "415-the-palme-d-or-has-a-twin-0.jpg",
+        "fit": "card",
+        "label": "Lost wax casting",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Then molten gold is poured into the empty shape.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "Molten gold poured in"
+      }
+    },
+    {
+      "text": "The palm has nineteen leaves and a tiny heart on its stem.",
+      "scene": {
+        "kind": "title",
+        "text": "19 leaves",
+        "sub": "And a tiny heart",
+        "piece": "earrings",
+        "stone": "peridot",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "It holds about 118 grams of 18 carat gold.",
+      "say": "It holds about one hundred eighteen grams of eighteen carat gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "118 grams of gold"
+      }
+    },
+    {
+      "text": "The palm stands on a base of rock crystal.",
+      "scene": {
+        "kind": "real",
+        "src": "415-the-palme-d-or-has-a-twin-1.jpg",
+        "fit": "card",
+        "label": "Rock crystal",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "No two crystals match, so each year's trophy looks different.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "No two crystals match"
+      }
+    },
+    {
+      "text": "One trophy takes more than forty hours of handwork.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Over 40 hours of handwork"
+      }
+    },
+    {
+      "text": "Every year, Chopard also makes a spare, in case of a tie.",
+      "say": "Every year, SHOH par also makes a spare, in case of a tie.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 11,
+        "label": "A spare, just in case"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Palme d'Or has a twin. Chopard makes the Cannes trophy in Geneva. It begins as a small palm sculpted in blue wax. Plaster is baked around it until the wax melts out, then molten gold is poured into the empty shape. The palm has 19 leaves and a tiny heart on its stem, and holds about 118 grams of 18 carat gold. It stands on a base of rock crystal, and no two crystals match, so each year's trophy looks different. One trophy takes more than 40 hours of handwork. Every year Chopard also makes a spare, in case of a tie.",
+    "hashtags": [
+      "#palmedor",
+      "#cannes",
+      "#chopard",
+      "#gold",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.festival-cannes.com/en/2015/wide-angle-the-making-of-the-palme-dor-a-brief-guide/",
+    "https://www.wallpaper.com/watches-and-jewellery/palme-dor-trophy-explained",
+    "https://www.fhs.swiss/eng/2024_06_13_05_Chopard.html",
+    "https://www.cnc.fr/cinema/actualites/festival-de-cannes--les-secrets-de-fabrication-de-la-palme-dor_992227",
+    "https://www.chopard.com/uk/palme-d-or",
+    "https://www.hollywoodreporter.com/lifestyle/style/palme-dor-award-redesign-chopard-1235141770/",
+    "https://www.euronews.com/2017/05/10/the-secrets-of-the-palme-d-or",
+    "https://www.tatlerasia.com/style/jewellery/cannes-film-festival-palme-dor",
+    "https://www.euronews.com/culture/2026/05/11/the-making-of-the-palme-dor-chopards-caroline-scheufele-and-the-art-of-creation",
+    "https://www.festival-cannes.com/en/the-palme-d-or",
+    "https://www.thepeninsulaqatar.com/article/09/05/2026/behind-the-scenes-making-of-the-cannes-palme-dor"
+  ],
+  "images": [
+    {
+      "src": "415-the-palme-d-or-has-a-twin-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Gary Todd from Xinzheng, China",
+      "page": "https://commons.wikimedia.org/wiki/File:Lost-Wax_Casting_of_Bronze_Mirror_Wax_Model_Replica_(10180193243).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "415-the-palme-d-or-has-a-twin-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Darla Sondrol",
+      "page": "https://commons.wikimedia.org/wiki/File:Rock_Crystal_(GeoDIL_number_-_2523).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "414-the-first-princess-cut-was-a-flop",
+  "number": 414,
+  "title": "The first princess cut was a flop",
+  "style": "gouache",
+  "topic": "princess cut diamond history arpad nagy london 1961 profile cut flopped late 1970s three israeli cutters ambar itzkowitz perlman quadrillion modified brilliant square upside down pyramid chevron facets second only to round for decades peaked 1980s 1990s",
+  "music": "music-414.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "The first princess cut was a flop.",
+    "gold": [
+      "princess",
+      "flop."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The first princess cut was a flop.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1961, London cutter Arpad Nagy named his square cut princess.",
+      "say": "In nineteen sixty one, London cutter AR pahd Nodge named his square cut princess.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Arpad Nagy, 1961"
+      }
+    },
+    {
+      "text": "It flopped, and today it is called the profile cut.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Now the profile cut"
+      }
+    },
+    {
+      "text": "Then, in the late 1970s, three Israeli cutters tried again.",
+      "say": "Then, in the late nineteen seventies, three Israeli cutters tried again.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Three Israeli cutters"
+      }
+    },
+    {
+      "text": "Their square diamond had brilliant facets, like a round one.",
+      "scene": {
+        "kind": "real",
+        "src": "414-the-first-princess-cut-was-a-flop-0.jpg",
+        "fit": "card",
+        "label": "A princess cut diamond",
+        "credit": "Photo: Stephen Durham, CC BY 2.0"
+      }
+    },
+    {
+      "text": "Seen from the side, it looks like an upside down pyramid.",
+      "scene": {
+        "kind": "real",
+        "src": "414-the-first-princess-cut-was-a-flop-1.jpg",
+        "fit": "card",
+        "label": "Side view, like an upside down pyramid",
+        "credit": "Photo: Stephen Durham, CC BY 2.0"
+      }
+    },
+    {
+      "text": "Boomerang shaped chevron facets on the bottom add sparkle.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Chevron facets"
+      }
+    },
+    {
+      "text": "More chevron tiers mean smaller, subtler sparkle.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "More tiers, subtler sparkle"
+      }
+    },
+    {
+      "text": "The trio first sold it as the Quadrillion.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "The Quadrillion"
+      }
+    },
+    {
+      "text": "It peaked in the 1980s and 1990s.",
+      "say": "It peaked in the nineteen eighties and nineties.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "Peak popularity"
+      }
+    },
+    {
+      "text": "For decades it ranked second only to the round cut.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Second to the round cut"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The first princess cut was a flop. In 1961, London cutter Arpad Nagy named his square diamond the princess cut, but it did not sell, and today it is called the profile cut. Then, in the late 1970s, three Israeli cutters tried again with a square diamond that had brilliant facets, like a round one. Seen from the side it looks like an upside down pyramid, and boomerang shaped chevron facets on the bottom add sparkle. The trio first sold it as the Quadrillion. For decades it ranked second only to the round cut. Photo: Stephen Durham, CC BY 2.0",
+    "hashtags": [
+      "#princesscut",
+      "#diamonds",
+      "#engagementring",
+      "#diamondcuts",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Princess_cut",
+    "https://levysfinejewelry.com/pages/history-of-diamond-cutting-princess-cut",
+    "https://thediamondcollective.world/diamond-faqs/crowning-of-a-princess-cut-diamond/",
+    "https://www.77diamonds.com/princess-cut-diamonds.html",
+    "https://www.leibish.com/blogs/diamonds/the-meaning-of-princess-cut-diamond",
+    "https://michaelgabriels.com/pages/princess-cut-diamond-guide",
+    "https://www.middiamonds.com/diamond-education/the-shape-of-things-princess-cuts/",
+    "https://rapaport.com/news/israel-itzkowitz-coinventor-of-princess-cut-dies/",
+    "https://www.jckonline.com/editorial-article/princess-cut-israel-itzkowitz-dies/",
+    "https://www.idexonline.com/Memo?id=51139",
+    "https://4cs.gia.edu/en-us/blog/select-princess-cut-diamond/"
+  ],
+  "images": [
+    {
+      "src": "414-the-first-princess-cut-was-a-flop-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Stephen Durham from Pine Bluff, AR, USA",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamond_princess_cut.jpg",
+      "credit": "Photo: Stephen Durham, CC BY 2.0"
+    },
+    {
+      "src": "414-the-first-princess-cut-was-a-flop-1.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Stephen Durham",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamond_princess_cut_sideview.jpg",
+      "credit": "Photo: Stephen Durham, CC BY 2.0"
+    }
+  ]
+}

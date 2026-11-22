@@ -1,0 +1,177 @@
+{
+  "id": "412-chanel-s-cuffs-came-from-a-sicilian-duke",
+  "number": 412,
+  "title": "Chanel's cuffs came from a Sicilian duke",
+  "style": "jewelbox",
+  "topic": "fulco di verdura duke palermo sicily coco chanel maltese cross cuff white enamel cabochons private zoo camel costume ball inheritance textiles 712 fifth avenue 1939 cole porter seashells fire island",
+  "music": "music-412.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "amethyst",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Chanel's cuffs came from a Sicilian duke.",
+    "gold": [
+      "Chanel's",
+      "duke."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Chanel's cuffs came from a Sicilian duke.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Fulco di Verdura grew up in Palermo, Sicily.",
+      "say": "Fool koh dee Vair DOO rah grew up in Palermo, Sicily.",
+      "scene": {
+        "kind": "title",
+        "text": "Palermo",
+        "sub": "Sicily",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "His childhood home had a private zoo with a camel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A zoo with a camel"
+      }
+    },
+    {
+      "text": "He spent most of his inheritance on one costume ball.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "One costume ball"
+      }
+    },
+    {
+      "text": "Then Coco Chanel hired him in Paris, first for textiles.",
+      "scene": {
+        "kind": "real",
+        "src": "412-chanel-s-cuffs-came-from-a-sicilian-duke-0.jpg",
+        "fit": "card",
+        "label": "Coco Chanel, 1920s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Soon he was designing her jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "peridot",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Jewelry for Chanel"
+      }
+    },
+    {
+      "text": "His Maltese cross cuff mixed white enamel with colorful stones.",
+      "scene": {
+        "kind": "piece",
+        "label": "The Maltese cross cuff"
+      }
+    },
+    {
+      "text": "Chanel wore the cuffs in a famous photograph.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A famous photograph"
+      }
+    },
+    {
+      "text": "In 1939, he opened his own salon at 712 Fifth Avenue.",
+      "say": "In nineteen thirty nine, he opened his own salon at seven twelve Fifth Avenue.",
+      "scene": {
+        "kind": "title",
+        "text": "1939",
+        "sub": "Fifth Avenue",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 9,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Cole Porter backed the new salon.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Backed by Cole Porter"
+      }
+    },
+    {
+      "text": "He even set real seashells in gold and gems.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "round",
+        "petals": 7,
+        "metal": "yellow",
+        "label": "Real seashells in gold"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Chanel's cuffs came from a Sicilian duke. Fulco di Verdura grew up in Palermo, Sicily, with a private zoo that included a camel. He spent most of his inheritance on one costume ball. Then Coco Chanel hired him in Paris, first for textiles, and soon for her jewelry. His Maltese cross cuff mixed white enamel with colorful stones, and Chanel wore the cuffs in a famous photograph. In 1939 he opened his own salon at 712 Fifth Avenue in New York, backed by Cole Porter. He even set real seashells in gold and gems.",
+    "hashtags": [
+      "#verdura",
+      "#chanel",
+      "#maltesecross",
+      "#vintagejewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fulco_di_Verdura",
+    "https://www.sothebys.com/en/articles/icons-of-design-verdura",
+    "https://thejewelleryeditor.com/jewellery/vintage/article/enduring-design-legacy-chanel-dali-and-verdura",
+    "https://rapaport.com/magazine-article/iconic-jewels/",
+    "https://www.yahoo.com/lifestyle/story-jewelry-icon-fulco-di-130000484.html",
+    "https://incollect.com/articles/verdura-retro-glamour",
+    "https://www.christies.com.cn/en/stories/verdura-jewellery-collecting-guide-a59aadb2b20643cdb72c63afed3072a2",
+    "https://verdura.com/pages/the-story",
+    "https://www.balarm.it/news/genio-dell-oreficeria-amato-anche-da-chanel-la-vita-assai-bizzarra-di-fulco-duca-di-verdura-127917",
+    "https://www.anothermag.com/fashion-beauty/10876/the-unlikely-friendship-behind-one-of-chanels-most-enduring-pieces",
+    "https://www.langantiques.com/university/verdura/"
+  ],
+  "images": [
+    {
+      "src": "412-chanel-s-cuffs-came-from-a-sicilian-duke-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Dmitriy_Pavlovich_of_Russia_and_Coco_Chanel.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

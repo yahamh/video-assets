@@ -1,0 +1,187 @@
+{
+  "id": "408-picasso-s-daughter-turned-scribbles-into-gold",
+  "number": 408,
+  "title": "Picasso's daughter turned scribbles into gold",
+  "style": "gouache",
+  "topic": "paloma picasso tiffany graffiti collection 1980 new york walls vandalism her own handwriting x kiss o hug colored gemstones table kunzite george kunz picasso kunzite necklace 396 carats smithsonian national museum of natural history paloma means dove spanish",
+  "music": "music-408.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "pink",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Picasso's daughter turned scribbles into gold.",
+    "gold": [
+      "scribbles",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Picasso's daughter turned scribbles into gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1980, Tiffany launched Paloma Picasso's first collection, Graffiti.",
+      "say": "In nineteen eighty, Tiffany launched Paloma Picasso's first collection, Graffiti.",
+      "scene": {
+        "kind": "real",
+        "src": "408-picasso-s-daughter-turned-scribbles-into-gold-0.jpg",
+        "fit": "card",
+        "label": "Paloma Picasso jewelry, about 1980",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Graffiti on New York walls gave her the idea.",
+      "scene": {
+        "kind": "title",
+        "text": "Graffiti",
+        "sub": "New York walls",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "At the time, many people called graffiti vandalism.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Seen as vandalism"
+      }
+    },
+    {
+      "text": "Many pieces use her own handwriting.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Her own handwriting"
+      }
+    },
+    {
+      "text": "An X stands for a kiss, and an O for a hug.",
+      "scene": {
+        "kind": "title",
+        "text": "X and O",
+        "sub": "Kiss and hug",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "On an early visit, Tiffany laid its colored gems on a table.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "peridot",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "Gems laid out on a table"
+      }
+    },
+    {
+      "text": "Kunzite is named for Tiffany's own gem expert, George Kunz.",
+      "say": "KOON zite is named for Tiffany's own gem expert, George KOONTS.",
+      "scene": {
+        "kind": "real",
+        "src": "408-picasso-s-daughter-turned-scribbles-into-gold-1.jpg",
+        "fit": "card",
+        "label": "Kunzite crystal from Afghanistan",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "One of her necklaces holds a kunzite of 396 carats.",
+      "say": "One of her necklaces holds a KOON zite of three hundred ninety six carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "pink",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A 396 carat kunzite"
+      }
+    },
+    {
+      "text": "That necklace is kept at the Smithsonian in Washington.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "Kept at the Smithsonian"
+      }
+    },
+    {
+      "text": "Her first name, Paloma, means dove in Spanish.",
+      "scene": {
+        "kind": "title",
+        "text": "Paloma",
+        "sub": "Dove in Spanish",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "platinum"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Picasso's daughter turned scribbles into gold. In 1980, Tiffany launched Paloma Picasso's first jewelry collection, called Graffiti, inspired by graffiti on New York walls. Many pieces use her own handwriting, with an X for a kiss and an O for a hug. On an early visit, Tiffany laid out its colored gems on a table for her. Kunzite is named for Tiffany's own gem expert, George Kunz, and one of her necklaces holds a kunzite of 396 carats. It is kept at the Smithsonian's National Museum of Natural History. Paloma means dove in Spanish.",
+    "hashtags": [
+      "#palomapicasso",
+      "#tiffany",
+      "#kunzite",
+      "#jewelrydesign",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://press.tiffany.com/the-designers/paloma-picasso/",
+    "https://www.tiffany.com/world-of-tiffany/about-paloma-picasso/",
+    "https://en.wikipedia.org/wiki/Paloma_Picasso",
+    "https://www.si.edu/object/picasso-kunzite-necklace:nmnhmineralsciences_1007364",
+    "https://www.naturalhistory.si.edu/node/14073",
+    "https://www.thejewelleryeditor.com/brands/paloma-picasso-for-tiffany/",
+    "https://theadventurine.com/culture/jewelry-history/a-look-back-at-the-artistry-of-paloma-picasso",
+    "https://susannahlovis.com/features/best-picasso-tiffany-collection",
+    "https://sothebys.com/en/articles/tiffany-by-design-5-history-making-creations",
+    "https://www.sothebys.com/en/articles/a-z-jewelry-x-is-for-x-shaped-jewels",
+    "https://en.wikipedia.org/wiki/Kunzite"
+  ],
+  "images": [
+    {
+      "src": "408-picasso-s-daughter-turned-scribbles-into-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Bernard Gotfryd",
+      "page": "https://commons.wikimedia.org/wiki/File:Paloma_picasso_jewelry.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "408-picasso-s-daughter-turned-scribbles-into-gold-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Géry PARENT",
+      "page": "https://commons.wikimedia.org/wiki/File:Spodumene_6.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

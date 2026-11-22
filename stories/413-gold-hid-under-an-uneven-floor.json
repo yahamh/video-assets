@@ -1,0 +1,178 @@
+{
+  "id": "413-gold-hid-under-an-uneven-floor",
+  "number": 413,
+  "title": "Gold hid under an uneven floor",
+  "style": "deco",
+  "topic": "nimrud queens gold assyrian tombs northwest palace iraq late 1980s muzahim hussein uneven floor max mallowan agatha christie 2700 years old queen hama crown grapes winged spirits bracelets joined to rings anklet about a kilo compared to tutankhamun",
+  "music": "music-413.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "sapphire",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Gold hid under an uneven floor.",
+    "gold": [
+      "Gold",
+      "floor."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold hid under an uneven floor.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the late 1980s, Iraqi archaeologists dug at Nimrud.",
+      "say": "In the late nineteen eighties, Iraqi archaeologists dug at NIM rood.",
+      "scene": {
+        "kind": "real",
+        "src": "413-gold-hid-under-an-uneven-floor-0.jpg",
+        "fit": "card",
+        "label": "Plan of the mound of Nimrud, from Layard's book",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They noticed a part of the floor that looked uneven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "An uneven floor"
+      }
+    },
+    {
+      "text": "Agatha Christie's husband had already dug in that palace.",
+      "scene": {
+        "kind": "title",
+        "text": "Mallowan",
+        "sub": "Dug there before",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Under the floor lay four royal tombs of Assyrian queens.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Four royal tombs"
+      }
+    },
+    {
+      "text": "They held hundreds of gold pieces, about 2,700 years old.",
+      "say": "They held hundreds of gold pieces, about twenty seven hundred years old.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "About 2,700 years old"
+      }
+    },
+    {
+      "text": "One tomb held 79 gold earrings and 30 finger rings.",
+      "say": "One tomb held seventy nine gold earrings and thirty finger rings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "79 earrings, 30 rings"
+      }
+    },
+    {
+      "text": "One queen's crown shows grapes and winged spirits.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 8,
+        "label": "A queen's crown"
+      }
+    },
+    {
+      "text": "Some bracelets were joined to rings, one for each finger.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Bracelets joined to rings"
+      }
+    },
+    {
+      "text": "The finds are often compared with Tutankhamun's tomb.",
+      "say": "The finds are often compared with Tutankhamun's tomb.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Compared with Tutankhamun"
+      }
+    },
+    {
+      "text": "A single gold anklet weighs about a kilo.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "One anklet, about a kilo"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Gold hid under an uneven floor. In the late 1980s, Iraqi archaeologists led by Muzahim Mahmoud Hussein dug at Nimrud, an Assyrian city. They noticed a part of the palace floor that looked uneven, though Agatha Christie's husband, Max Mallowan, had already dug there. Under it lay four royal tombs of Assyrian queens with hundreds of gold pieces about 2,700 years old. One tomb held 79 gold earrings and 30 finger rings. A queen's crown shows grapes and winged spirits, some bracelets were joined to rings, and a single gold anklet weighs about a kilo.",
+    "hashtags": [
+      "#nimrud",
+      "#assyria",
+      "#ancientgold",
+      "#archaeology",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Queens%27_tombs_at_Nimrud",
+    "https://time.com/archive/6703749/the-golden-treasures-of-nimrud",
+    "https://www.csmonitor.com/World/Global-News/2009/0210/visiting-an-assyrian-queen-s-tomb",
+    "https://www.theartnewspaper.com/2002/01/01/cloistered-nimrud-treasures-to-be-subject-of-discussion-for-iraqi-scholars-at-delayed-british-museum-conference",
+    "https://en.wikipedia.org/wiki/Hama_(queen)",
+    "https://www.discovermagazine.com/planet-earth/treasure-under-saddams-feet",
+    "https://en.wikipedia.org/wiki/Ataliya",
+    "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/misc-2016-Nimrud-Queens-Tombs-web.pdf",
+    "https://www.bisi.ac.uk/wp-content/uploads/new_light_nimrud.pdf"
+  ],
+  "images": [
+    {
+      "src": "413-gold-hid-under-an-uneven-floor-0.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "Internet Archive Book Images",
+      "page": "https://commons.wikimedia.org/wiki/File:Nineveh_and_Babylon_-_a_narrative_of_a_second_expedition_to_Assyria_during_the_years_1849,_1850,_and_1851_(1882)_(14767354325).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
