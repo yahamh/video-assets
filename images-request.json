@@ -1,157 +1,206 @@
 {
  "queries": [
   {
-   "key": "g-jackie",
+   "key": "h-jlo",
    "commons": [
-    "Jacqueline Kennedy",
-    "Jacqueline Bouvier 1953",
-    "John F. Kennedy and Jacqueline Bouvier engagement",
-    "Jacqueline Kennedy wedding 1953",
-    "Van Cleef & Arpels",
-    "Hammersmith Farm Newport"
+    "Jennifer Lopez",
+    "Jennifer Lopez 2002",
+    "Ben Affleck Jennifer Lopez",
+    "Pink diamond ring",
+    "Harry Winston",
+    "Fancy pink diamond"
    ],
    "max": 7
   },
   {
-   "key": "g-oscar",
+   "key": "h-tiara",
    "commons": [
-    "Oscar statuette",
-    "Academy Award statuette",
-    "Academy Awards trophy",
-    "Cedric Gibbons",
-    "Academy Award of Merit",
-    "Oscar award gold statuette"
+    "Queen Mary fringe tiara",
+    "Wedding of Princess Elizabeth and Philip Mountbatten",
+    "Queen Elizabeth II wedding 1947",
+    "Princess Elizabeth wedding portrait",
+    "Queen Mary of Teck",
+    "Garrard & Co"
    ],
    "max": 7
   },
   {
-   "key": "g-stedward",
+   "key": "h-superbowl",
    "commons": [
-    "St Edward's Crown",
-    "Crown Jewels Tower of London",
-    "Coronation of Elizabeth II crown",
-    "Edward the Confessor",
-    "Coronation of Charles III",
-    "Westminster Abbey coronation crown"
+    "Super Bowl ring",
+    "Super Bowl I",
+    "Green Bay Packers Super Bowl I",
+    "Super Bowl championship ring",
+    "Vince Lombardi",
+    "Super Bowl ring Patriots"
    ],
    "max": 7
   },
   {
-   "key": "g-buddha",
+   "key": "h-swarovski",
    "commons": [
-    "Golden Buddha Wat Traimit",
-    "Wat Traimit",
-    "Phra Phuttha Maha Suwan Patimakon",
-    "Golden Buddha Bangkok",
-    "Wat Traimit Chinatown Bangkok"
+    "Swarovski crystal",
+    "Swarovski Kristallwelten Wattens",
+    "Daniel Swarovski",
+    "Swarovski crystals",
+    "Swarovski chandelier",
+    "Wattens"
    ],
    "max": 7
   },
   {
-   "key": "g-ringwoodite",
+   "key": "h-tiffany",
    "commons": [
-    "ringwoodite",
-    "Ringwoodite mineral",
-    "Graham Pearson diamond",
-    "Juina diamond Brazil",
-    "Earth mantle transition zone",
-    "Earth cross section layers"
+    "Charles Lewis Tiffany",
+    "Tiffany & Co Broadway 1850s",
+    "Tiffany & Co 1837",
+    "Tiffany and Company store",
+    "Tiffany & Co Fifth Avenue",
+    "Tiffany & Co building"
    ],
    "max": 7
   },
   {
-   "key": "g-antwerp",
+   "key": "h-excelsior",
    "commons": [
-    "Antwerp diamond district",
-    "Antwerp Central Station",
-    "Hoveniersstraat Antwerp",
-    "Antwerp diamond",
-    "Diamantwijk Antwerpen",
-    "Antwerp diamond bourse"
+    "Excelsior diamond",
+    "Jagersfontein mine",
+    "Jagersfontein Big Hole",
+    "Jagersfontein",
+    "Excelsior Diamond Jagersfontein 1893",
+    "Rough diamond"
    ],
    "max": 7
   },
   {
-   "key": "g-luck",
+   "key": "h-moussaieff",
    "commons": [
-    "Luckenbooth brooch",
-    "Luckenbooth",
-    "Mary Queen of Scots",
-    "Scottish heart brooch",
-    "Luckenbooths Edinburgh Royal Mile",
-    "Queen Victoria brooch"
+    "Moussaieff Red Diamond",
+    "Red diamond",
+    "Fancy red diamond",
+    "Red Shield diamond",
+    "Boa Vista Brazil diamond",
+    "Moussaieff"
    ],
    "max": 7
   },
   {
-   "key": "g-gimmel",
+   "key": "h-incomparable",
    "commons": [
-    "gimmel ring",
-    "Gimmel ring",
-    "betrothal ring",
-    "puzzle ring",
-    "fede ring",
-    "Renaissance ring"
+    "Incomparable Diamond",
+    "Mbuji-Mayi",
+    "Mbuji-Mayi diamond",
+    "Zaire diamond mine",
+    "Brown diamond rough",
+    "Large rough diamond"
    ],
    "max": 7
   },
   {
-   "key": "g-frida",
+   "key": "h-lesotho",
    "commons": [
-    "Frida Kahlo",
-    "Frida Kahlo necklace",
-    "Frida Kahlo Casa Azul",
-    "Frida Kahlo Nickolas Muray",
-    "Frida Kahlo jewelry",
-    "Frida Kahlo earrings"
+    "Lesotho Promise diamond",
+    "Letseng diamond mine",
+    "Letseng mine Lesotho",
+    "Lesotho Promise",
+    "Graff diamonds",
+    "Lesotho Letseng"
    ],
    "max": 7
   },
   {
-   "key": "g-holtermann",
+   "key": "h-princess",
    "commons": [
-    "Holtermann Nugget",
-    "Hill End New South Wales",
-    "Bernhardt Otto Holtermann",
-    "Holtermann collection Hill End",
-    "Hill End gold rush",
-    "gold nugget"
+    "Princess cut diamond",
+    "Princess cut",
+    "Diamond cut shapes",
+    "Princess cut diamond ring",
+    "Square diamond cut",
+    "Diamond faceting"
    ],
    "max": 7
   },
   {
-   "key": "g-mannar",
+   "key": "h-hatton",
    "commons": [
-    "Gulf of Mannar pearl",
-    "pearl oyster Pinctada",
-    "pearl fishery Ceylon",
-    "pearl diving Gulf of Mannar",
-    "Thoothukudi pearl",
-    "Mannar Island"
+    "Hatton Garden",
+    "Hatton Garden London jewellery",
+    "Sir Christopher Hatton",
+    "Hatton Garden street",
+    "Ely Place",
+    "Hatton Garden diamond shop"
    ],
    "max": 7
   },
   {
-   "key": "g-atocha",
+   "key": "h-essence",
    "commons": [
-    "Atocha emerald",
-    "Mel Fisher",
-    "Nuestra Senora de Atocha",
-    "Atocha shipwreck",
-    "Mel Fisher Maritime Museum",
-    "Spanish treasure galleon"
+    "Majorica pearls",
+    "Imitation pearl",
+    "Faux pearl necklace",
+    "Bleak fish scales",
+    "Fish scale pearl essence",
+    "Rosary beads French 17th century"
    ],
    "max": 7
   },
   {
-   "key": "g-lunula",
+   "key": "h-galloway",
    "commons": [
-    "gold lunula",
-    "Irish gold lunula",
-    "lunula Ireland",
-    "Bronze Age gold lunula",
-    "National Museum of Ireland gold",
-    "Harlyn Bay lunula"
+    "Galloway Hoard",
+    "Galloway Hoard silver",
+    "Viking hoard Scotland",
+    "Galloway Hoard cross",
+    "Vale of Galloway",
+    "Viking age silver arm ring"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-joburg",
+   "commons": [
+    "Johannesburg 1886",
+    "Langlaagte",
+    "Witwatersrand gold rush",
+    "Johannesburg early gold rush",
+    "Johannesburg 1887",
+    "Main Reef Johannesburg"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-scythian",
+   "commons": [
+    "Tovsta Mohyla pectoral",
+    "Scythian gold pectoral",
+    "Scythian gold",
+    "Gold pectoral Scythian",
+    "Scythian jewelry",
+    "Scythian barrow Ukraine"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-biwa",
+   "commons": [
+    "Lake Biwa pearl",
+    "Biwa pearl",
+    "Lake Biwa",
+    "Freshwater pearls",
+    "Freshwater pearl mussel",
+    "Biwa pearl necklace"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-kruger",
+   "commons": [
+    "Krugerrand",
+    "Krugerrand gold coin",
+    "South African gold coin",
+    "Krugerrand 1967",
+    "Springbok gold coin",
+    "Gold bullion coin"
    ],
    "max": 7
   }
