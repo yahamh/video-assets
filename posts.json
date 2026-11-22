@@ -4832,7 +4832,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2569860866835824",
+      "instagram": "https://www.instagram.com/reel/DgCVMTRnCj1/"
+    }
   },
   "330-vinegar-really-can-dissolve-pearls": {
     "at": "2026-11-22T08:30:00Z",
@@ -4841,14 +4846,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29778764875144520",
+      "instagram": "https://www.instagram.com/reel/DgCYhZEAt9A/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710910509419072769"
+    }
   },
   "331-she-wore-her-real-ring-on-screen": {
     "at": "2026-11-22T09:00:00Z",
     "zernio_id": "6b00d486bb0444de2d87ee22",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgCb6woDLcZ/"
+    }
   },
   "332-the-queen-had-to-propose-first": {
     "at": "2026-11-22T09:30:00Z",
@@ -4856,7 +4871,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3240654529469021",
+      "instagram": "https://www.instagram.com/reel/DgCfQN5AMsD/"
+    }
   },
   "333-a-pearl-found-in-a-puppy-s-mouth": {
     "at": "2026-11-22T10:00:00Z",
@@ -4865,7 +4885,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2394003231335130",
+      "instagram": "https://www.instagram.com/reel/DgCiyWtFL8n/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7710933859377925382"
+    }
   },
   "334-one-nugget-made-five-royal-rings": {
     "at": "2026-11-22T10:30:00Z",
@@ -4874,14 +4900,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1478864557550963",
+      "instagram": "https://www.instagram.com/reel/DgCmXU6iujh/",
+      "youtube": "https://www.youtube.com/watch?v=p9ORhJfucQM"
+    }
   },
   "335-the-first-blow-broke-the-knife": {
     "at": "2026-11-22T11:00:00Z",
     "zernio_id": "6b00d495bb0444de2d87ee84",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgCpkATiEX_/"
+    }
   },
   "336-lincoln-planned-his-wedding-that-morning": {
     "at": "2026-11-22T11:30:00Z",
@@ -5304,6 +5340,81 @@
   "387-plaster-cracked-and-solid-gold-showed": {
     "at": "2026-11-23T17:00:00Z",
     "zernio_id": "6b027f0bb0e73a0a4f14e042",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "388-found-in-a-shovelful-of-gravel": {
+    "at": "2026-11-23T17:30:00Z",
+    "zernio_id": "6b02d313810f2370bc7cdb1e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "389-under-five-dollars-in-three-days": {
+    "at": "2026-11-23T18:00:00Z",
+    "zernio_id": "6b02d31768f79f8bee9eaf4c",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "390-she-wouldn-t-look-at-the-ring": {
+    "at": "2026-11-23T18:30:00Z",
+    "zernio_id": "6b02d31c810f2370bc7cdb56",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "391-a-red-rose-helped-pay-the-rent": {
+    "at": "2026-11-23T19:00:00Z",
+    "zernio_id": "6b02d329459f049d438537fa",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "392-the-tiara-was-secretly-a-necklace": {
+    "at": "2026-11-23T19:30:00Z",
+    "zernio_id": "6b02d32f03c6bd85997ca8d9",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "393-a-girl-found-it-in-rubble": {
+    "at": "2026-11-23T20:00:00Z",
+    "zernio_id": "6b02d3344d737bc17503f7e7",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "394-one-diamond-then-529": {
+    "at": "2026-11-23T20:30:00Z",
+    "zernio_id": "6b02d33a4d737bc17503f7ff",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "395-fake-pearls-were-made-from-fish-scales": {
+    "at": "2026-11-23T21:00:00Z",
+    "zernio_id": "6b02d33f03c6bd85997ca90c",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "396-one-diamond-became-26-flawless-stones": {
+    "at": "2026-11-23T21:30:00Z",
+    "zernio_id": "6b02d34503c6bd85997ca944",
     "platforms": [
       "facebook",
       "instagram"
