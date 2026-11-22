@@ -1,206 +1,112 @@
 {
  "queries": [
   {
-   "key": "h-jlo",
+   "key": "h-lulo",
    "commons": [
-    "Jennifer Lopez",
-    "Jennifer Lopez 2002",
-    "Ben Affleck Jennifer Lopez",
-    "Pink diamond ring",
-    "Harry Winston",
-    "Fancy pink diamond"
+    "Lulo Rose diamond",
+    "Lulo diamond mine Angola",
+    "Pink diamond",
+    "Fancy pink diamond rough",
+    "Lucapa Diamond Company",
+    "Angola diamond mining"
    ],
    "max": 7
   },
   {
-   "key": "h-tiara",
+   "key": "h-peace",
    "commons": [
-    "Queen Mary fringe tiara",
-    "Wedding of Princess Elizabeth and Philip Mountbatten",
-    "Queen Elizabeth II wedding 1947",
-    "Princess Elizabeth wedding portrait",
-    "Queen Mary of Teck",
-    "Garrard & Co"
+    "Peace Diamond Sierra Leone",
+    "Sierra Leone diamond",
+    "Koidu Sierra Leone",
+    "Emmanuel Momoh",
+    "Diamond rough uncut",
+    "Sierra Leone diamond mining"
    ],
    "max": 7
   },
   {
-   "key": "h-superbowl",
+   "key": "h-inkalamu",
    "commons": [
-    "Super Bowl ring",
-    "Super Bowl I",
-    "Green Bay Packers Super Bowl I",
-    "Super Bowl championship ring",
-    "Vince Lombardi",
-    "Super Bowl ring Patriots"
+    "Inkalamu emerald",
+    "Kagem mine",
+    "Gemfields emerald",
+    "Zambia emerald",
+    "Emerald crystal rough",
+    "Emerald Kafubu"
    ],
    "max": 7
   },
   {
-   "key": "h-swarovski",
+   "key": "h-wallis",
    "commons": [
-    "Swarovski crystal",
-    "Swarovski Kristallwelten Wattens",
-    "Daniel Swarovski",
-    "Swarovski crystals",
-    "Swarovski chandelier",
-    "Wattens"
+    "Wallis Simpson",
+    "Wallis Simpson Edward VIII",
+    "Duke and Duchess of Windsor",
+    "Wallis Simpson 1936",
+    "Wallis Simpson Duchess of Windsor 1937",
+    "Emerald ring Cartier",
+    "Cartier emerald ring"
    ],
    "max": 7
   },
   {
-   "key": "h-tiffany",
+   "key": "h-peretti",
    "commons": [
-    "Charles Lewis Tiffany",
-    "Tiffany & Co Broadway 1850s",
-    "Tiffany & Co 1837",
-    "Tiffany and Company store",
-    "Tiffany & Co Fifth Avenue",
-    "Tiffany & Co building"
+    "Elsa Peretti",
+    "Tiffany & Co Elsa Peretti",
+    "Tiffany Bean pendant",
+    "Tiffany & Co jewelry",
+    "Halston Elsa Peretti",
+    "Tiffany Open Heart"
    ],
    "max": 7
   },
   {
-   "key": "h-excelsior",
+   "key": "h-navajo",
    "commons": [
-    "Excelsior diamond",
-    "Jagersfontein mine",
-    "Jagersfontein Big Hole",
-    "Jagersfontein",
-    "Excelsior Diamond Jagersfontein 1893",
-    "Rough diamond"
+    "Squash blossom necklace",
+    "Navajo squash blossom necklace",
+    "Navajo silver jewelry",
+    "Navajo turquoise jewelry",
+    "Naja pendant",
+    "Navajo silversmith"
    ],
    "max": 7
   },
   {
-   "key": "h-moussaieff",
+   "key": "h-sipan",
    "commons": [
-    "Moussaieff Red Diamond",
-    "Red diamond",
-    "Fancy red diamond",
-    "Red Shield diamond",
-    "Boa Vista Brazil diamond",
-    "Moussaieff"
+    "Lord of Sipan",
+    "Señor de Sipán",
+    "Huaca Rajada",
+    "Moche gold jewelry",
+    "Moche earrings",
+    "Museo Tumbas Reales de Sipán",
+    "Walter Alva"
    ],
    "max": 7
   },
   {
-   "key": "h-incomparable",
+   "key": "h-kanazawa",
    "commons": [
-    "Incomparable Diamond",
-    "Mbuji-Mayi",
-    "Mbuji-Mayi diamond",
-    "Zaire diamond mine",
-    "Brown diamond rough",
-    "Large rough diamond"
+    "Kanazawa gold leaf",
+    "Gold leaf",
+    "Kinkaku-ji Golden Pavilion",
+    "Kanazawa Japan",
+    "Gold leaf Japan",
+    "Goldleaf making"
    ],
    "max": 7
   },
   {
-   "key": "h-lesotho",
+   "key": "h-spoon",
    "commons": [
-    "Lesotho Promise diamond",
-    "Letseng diamond mine",
-    "Letseng mine Lesotho",
-    "Lesotho Promise",
-    "Graff diamonds",
-    "Lesotho Letseng"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-princess",
-   "commons": [
-    "Princess cut diamond",
-    "Princess cut",
-    "Diamond cut shapes",
-    "Princess cut diamond ring",
-    "Square diamond cut",
-    "Diamond faceting"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-hatton",
-   "commons": [
-    "Hatton Garden",
-    "Hatton Garden London jewellery",
-    "Sir Christopher Hatton",
-    "Hatton Garden street",
-    "Ely Place",
-    "Hatton Garden diamond shop"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-essence",
-   "commons": [
-    "Majorica pearls",
-    "Imitation pearl",
-    "Faux pearl necklace",
-    "Bleak fish scales",
-    "Fish scale pearl essence",
-    "Rosary beads French 17th century"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-galloway",
-   "commons": [
-    "Galloway Hoard",
-    "Galloway Hoard silver",
-    "Viking hoard Scotland",
-    "Galloway Hoard cross",
-    "Vale of Galloway",
-    "Viking age silver arm ring"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-joburg",
-   "commons": [
-    "Johannesburg 1886",
-    "Langlaagte",
-    "Witwatersrand gold rush",
-    "Johannesburg early gold rush",
-    "Johannesburg 1887",
-    "Main Reef Johannesburg"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-scythian",
-   "commons": [
-    "Tovsta Mohyla pectoral",
-    "Scythian gold pectoral",
-    "Scythian gold",
-    "Gold pectoral Scythian",
-    "Scythian jewelry",
-    "Scythian barrow Ukraine"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-biwa",
-   "commons": [
-    "Lake Biwa pearl",
-    "Biwa pearl",
-    "Lake Biwa",
-    "Freshwater pearls",
-    "Freshwater pearl mussel",
-    "Biwa pearl necklace"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-kruger",
-   "commons": [
-    "Krugerrand",
-    "Krugerrand gold coin",
-    "South African gold coin",
-    "Krugerrand 1967",
-    "Springbok gold coin",
-    "Gold bullion coin"
+    "Spoonmaker's Diamond",
+    "Kasikci Diamond",
+    "Topkapi Palace Treasury",
+    "Spoonmaker Diamond Topkapi",
+    "Topkapi Palace diamond",
+    "Topkapi Palace Imperial Treasury"
    ],
    "max": 7
   }
