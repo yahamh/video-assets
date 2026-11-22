@@ -1,0 +1,194 @@
+{
+  "id": "387-plaster-cracked-and-solid-gold-showed",
+  "number": 387,
+  "title": "Plaster cracked, and solid gold showed",
+  "style": "gouache",
+  "topic": "golden buddha wat traimit bangkok phra phuttha maha suwan patimakon 5.5 metric tons of solid gold about 3 meters tall covered in plaster sukhothai style 1955 dropped while being moved plaster chipped off gold revealed rest of plaster removed marble hall chinatown",
+  "music": "music-387.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "citrine",
+    "cut": "cushion",
+    "metal": "yellow",
+    "halo": 10
+  },
+  "hook": {
+    "text": "Plaster cracked, and solid gold showed.",
+    "gold": [
+      "Plaster",
+      "gold"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Plaster cracked, and solid gold showed.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "This is the Golden Buddha of Wat Traimit in Bangkok.",
+      "say": "This is the Golden Buddha of Wot Try mit in Bangkok.",
+      "scene": {
+        "kind": "real",
+        "src": "387-plaster-cracked-and-solid-gold-showed-0.jpg",
+        "fit": "card",
+        "label": "Wat Traimit, Bangkok",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its style comes from the Sukhothai period of Thai art.",
+      "say": "Its style comes from the Soo koh TIE period of Thai art.",
+      "scene": {
+        "kind": "piece",
+        "label": "Sukhothai style"
+      }
+    },
+    {
+      "text": "Nobody knows exactly when it was made.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Date unknown"
+      }
+    },
+    {
+      "text": "Scholars suspect plaster was added to keep it safe.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 10,
+        "metal": "yellow",
+        "label": "Hidden in plaster"
+      }
+    },
+    {
+      "text": "In 1955, workers lifted it to move it to a new hall.",
+      "say": "In nineteen fifty five, workers lifted it to move it to a new hall.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Moved in 1955"
+      }
+    },
+    {
+      "text": "The statue was dropped, and some plaster chipped off.",
+      "scene": {
+        "kind": "title",
+        "text": "Plaster",
+        "sub": "It chipped off",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Underneath, the statue was solid gold.",
+      "scene": {
+        "kind": "real",
+        "src": "387-plaster-cracked-and-solid-gold-showed-1.jpg",
+        "fit": "card",
+        "label": "Wat Traimit, Bangkok",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The rest of the plaster was then removed.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Plaster removed"
+      }
+    },
+    {
+      "text": "The statue holds about 5.5 metric tons of gold.",
+      "say": "The statue holds about five and a half metric tons of gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "About 5.5 metric tons"
+      }
+    },
+    {
+      "text": "It is about 3 meters tall.",
+      "say": "It is about three meters tall.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "About 3 meters tall"
+      }
+    },
+    {
+      "text": "It is kept in a marble hall in Bangkok's Chinatown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A marble hall, Chinatown"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Plaster cracked, and solid gold showed. This is the Golden Buddha of Wat Traimit in Bangkok. Its style comes from the Sukhothai period of Thai art, and nobody knows exactly when it was made. Scholars suspect plaster was added to keep it safe. In 1955, workers lifted it to move it to a new hall. The statue was dropped, and some plaster chipped off. Underneath, the statue was solid gold. The rest of the plaster was then removed. The statue holds about 5.5 metric tons of gold and is about 3 meters tall. It is kept in a marble hall in Bangkok's Chinatown.",
+    "hashtags": [
+      "#goldenbuddha",
+      "#bangkok",
+      "#thailand",
+      "#gold",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/84155-largest-solid-gold-sculpture",
+    "https://atlasobscura.com/places/the-golden-buddha-of-wat-traimit-thailand",
+    "https://www.lonelyplanet.com/points-of-interest/wat-traimit/1243931",
+    "https://mgronline.com/travel/detail/9680000068028",
+    "https://www.silpa-mag.com/history/article_42491",
+    "https://www.frommers.com/destinations/bangkok/attractions/wat-traimit",
+    "https://blog.windstarcruises.com/history-of-thailands-golden-buddha",
+    "https://theculturetrip.com/asia/thailand/articles/the-amazing-story-of-the-worlds-biggest-solid-gold-buddha-statue"
+  ],
+  "images": [
+    {
+      "src": "387-plaster-cracked-and-solid-gold-showed-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Iudexvivorum",
+      "page": "https://commons.wikimedia.org/wiki/File:Wat_Traimit_-_2017-05-12_(103).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "387-plaster-cracked-and-solid-gold-showed-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Iudexvivorum",
+      "page": "https://commons.wikimedia.org/wiki/File:Wat_Traimit_-_2017-05-12_(105).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
