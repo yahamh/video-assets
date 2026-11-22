@@ -1,112 +1,157 @@
 {
  "queries": [
   {
-   "key": "g-austen",
+   "key": "g-jackie",
    "commons": [
-    "Jane Austen",
-    "Jane Austen's House Chawton",
-    "Jane Austen turquoise ring",
-    "Cassandra Austen portrait of Jane Austen",
-    "Chawton Cottage"
+    "Jacqueline Kennedy",
+    "Jacqueline Bouvier 1953",
+    "John F. Kennedy and Jacqueline Bouvier engagement",
+    "Jacqueline Kennedy wedding 1953",
+    "Van Cleef & Arpels",
+    "Hammersmith Farm Newport"
    ],
    "max": 7
   },
   {
-   "key": "g-mask",
+   "key": "g-oscar",
    "commons": [
-    "Mask of Agamemnon",
-    "Mycenae Lion Gate",
-    "Heinrich Schliemann",
-    "Grave Circle A Mycenae",
-    "National Archaeological Museum Athens gold mask"
+    "Oscar statuette",
+    "Academy Award statuette",
+    "Academy Awards trophy",
+    "Cedric Gibbons",
+    "Academy Award of Merit",
+    "Oscar award gold statuette"
    ],
    "max": 7
   },
   {
-   "key": "g-lombardi",
+   "key": "g-stedward",
    "commons": [
-    "Vince Lombardi Trophy",
-    "Vince Lombardi",
-    "Super Bowl trophy",
-    "Tiffany & Co. Fifth Avenue",
-    "Lombardi Trophy Tiffany"
+    "St Edward's Crown",
+    "Crown Jewels Tower of London",
+    "Coronation of Elizabeth II crown",
+    "Edward the Confessor",
+    "Coronation of Charles III",
+    "Westminster Abbey coronation crown"
    ],
    "max": 7
   },
   {
-   "key": "g-sewelo",
+   "key": "g-buddha",
    "commons": [
-    "Sewel\u00f4 diamond",
-    "Karowe mine",
-    "Lucara Diamond",
-    "Cullinan diamond rough",
-    "rough diamond"
+    "Golden Buddha Wat Traimit",
+    "Wat Traimit",
+    "Phra Phuttha Maha Suwan Patimakon",
+    "Golden Buddha Bangkok",
+    "Wat Traimit Chinatown Bangkok"
    ],
    "max": 7
   },
   {
-   "key": "g-taj",
+   "key": "g-ringwoodite",
    "commons": [
-    "Taj Mahal pietra dura",
-    "Taj Mahal inlay",
-    "Taj Mahal Agra",
-    "Taj Mahal flower inlay marble",
-    "Taj Mahal cenotaph"
+    "ringwoodite",
+    "Ringwoodite mineral",
+    "Graham Pearson diamond",
+    "Juina diamond Brazil",
+    "Earth mantle transition zone",
+    "Earth cross section layers"
    ],
    "max": 7
   },
   {
-   "key": "g-fipke",
+   "key": "g-antwerp",
    "commons": [
-    "Charles Fipke",
-    "Ekati diamond mine",
-    "Lac de Gras",
-    "Canadian diamond",
-    "Diavik diamond mine"
+    "Antwerp diamond district",
+    "Antwerp Central Station",
+    "Hoveniersstraat Antwerp",
+    "Antwerp diamond",
+    "Diamantwijk Antwerpen",
+    "Antwerp diamond bourse"
    ],
    "max": 7
   },
   {
-   "key": "g-rings",
+   "key": "g-luck",
    "commons": [
-    "wedding ring right hand",
-    "Orthodox wedding rings",
-    "Russian wedding rings",
-    "wedding rings",
-    "hands wedding ring"
+    "Luckenbooth brooch",
+    "Luckenbooth",
+    "Mary Queen of Scots",
+    "Scottish heart brooch",
+    "Luckenbooths Edinburgh Royal Mile",
+    "Queen Victoria brooch"
    ],
    "max": 7
   },
   {
-   "key": "g-pearls",
+   "key": "g-gimmel",
    "commons": [
-    "pearl necklace",
-    "opera length pearl necklace",
-    "pearl necklace lengths",
-    "pearl strand",
-    "Mikimoto pearls"
+    "gimmel ring",
+    "Gimmel ring",
+    "betrothal ring",
+    "puzzle ring",
+    "fede ring",
+    "Renaissance ring"
    ],
    "max": 7
   },
   {
-   "key": "g-klondike",
+   "key": "g-frida",
    "commons": [
-    "Klondike Gold Rush",
-    "Chilkoot Pass gold rush",
-    "Dawson City 1898",
-    "Skookum Jim Mason",
-    "Bonanza Creek Yukon"
+    "Frida Kahlo",
+    "Frida Kahlo necklace",
+    "Frida Kahlo Casa Azul",
+    "Frida Kahlo Nickolas Muray",
+    "Frida Kahlo jewelry",
+    "Frida Kahlo earrings"
    ],
    "max": 7
   },
   {
-   "key": "g-caesar",
+   "key": "g-holtermann",
    "commons": [
-    "Julius Caesar bust",
-    "Servilia",
-    "Roman pearl necklace",
-    "Roman jewelry pearls",
-    "Suetonius Divus Julius"
+    "Holtermann Nugget",
+    "Hill End New South Wales",
+    "Bernhardt Otto Holtermann",
+    "Holtermann collection Hill End",
+    "Hill End gold rush",
+    "gold nugget"
+   ],
+   "max": 7
+  },
+  {
+   "key": "g-mannar",
+   "commons": [
+    "Gulf of Mannar pearl",
+    "pearl oyster Pinctada",
+    "pearl fishery Ceylon",
+    "pearl diving Gulf of Mannar",
+    "Thoothukudi pearl",
+    "Mannar Island"
+   ],
+   "max": 7
+  },
+  {
+   "key": "g-atocha",
+   "commons": [
+    "Atocha emerald",
+    "Mel Fisher",
+    "Nuestra Senora de Atocha",
+    "Atocha shipwreck",
+    "Mel Fisher Maritime Museum",
+    "Spanish treasure galleon"
+   ],
+   "max": 7
+  },
+  {
+   "key": "g-lunula",
+   "commons": [
+    "gold lunula",
+    "Irish gold lunula",
+    "lunula Ireland",
+    "Bronze Age gold lunula",
+    "National Museum of Ireland gold",
+    "Harlyn Bay lunula"
    ],
    "max": 7
   }
