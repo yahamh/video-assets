@@ -1,0 +1,159 @@
+{
+  "id": "423-golden-globes-carpet-swallowed-a-diamond",
+  "number": 423,
+  "title": "Golden Globes carpet swallowed a diamond",
+  "style": "gouache",
+  "topic": "keltie knight golden globes 2024 beverly hilton red carpet lost four carat diamond ring e news instagram crawling carpet",
+  "music": "music-423.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Golden Globes carpet swallowed a diamond.",
+    "gold": [
+      "carpet",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Golden Globes carpet swallowed a diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Golden Globes were held at the Beverly Hilton in 2024.",
+      "say": "The Golden Globes were held at the Beverly Hilton in twenty twenty four.",
+      "scene": {
+        "kind": "real",
+        "src": "423-golden-globes-carpet-swallowed-a-diamond-0.jpg",
+        "fit": "card",
+        "label": "The Beverly Hilton",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "E News host Keltie Knight was reporting live from the red carpet.",
+      "say": "E News host KEL tee Night was reporting live from the red carpet.",
+      "scene": {
+        "kind": "title",
+        "text": "Red carpet",
+        "sub": "Live",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "She looked down and her four carat diamond was missing.",
+      "scene": {
+        "kind": "piece",
+        "label": "A four carat diamond"
+      }
+    },
+    {
+      "text": "She said she had it after makeup, when they cleaned it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Cleaned after makeup"
+      }
+    },
+    {
+      "text": "Then she posted a photo of herself crawling on the carpet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Searching on all fours"
+      }
+    },
+    {
+      "text": "She asked celebrities on Instagram to return it to E News.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Please return it"
+      }
+    },
+    {
+      "text": "She stressed that the diamond was real.",
+      "scene": {
+        "kind": "title",
+        "text": "It was real",
+        "sub": "Four carats",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The next day, it still had not turned up.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Still missing"
+      }
+    },
+    {
+      "text": "The carpet kept all four carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Four carats"
+      },
+      "hold": 0.9
+    }
+  ],
+  "post": {
+    "caption": "Golden Globes carpet swallowed a diamond. At the 81st Golden Globes at the Beverly Hilton in January 2024, E News host Keltie Knight was reporting live from the red carpet when she looked down and found a four carat diamond missing from her ring. She said she had it after makeup, when they cleaned it. She posted a photo of herself crawling on the carpet and asked celebrities on Instagram to return it, stressing that it was real. The next day it still had not turned up.",
+    "hashtags": [
+      "#goldenglobes",
+      "#keltieknight",
+      "#redcarpet",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://malaysia.news.yahoo.com/keltie-knights-missing-4-ct-211724048.html",
+    "https://uk.style.yahoo.com/reporter-issues-desperate-plea-she-035443470.html",
+    "https://www.aol.com/news/reporter-gives-four-carat-diamond-222313713.html",
+    "https://www.tribuneindia.com/news/trending/4-carat-diamond-emergency-at-golden-globes-red-carpet-as-entertainment-reporter-loses-precious-gem-579710",
+    "https://www.aol.com/e-news-host-loses-her-011716104.html"
+  ],
+  "images": [
+    {
+      "src": "423-golden-globes-carpet-swallowed-a-diamond-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Minnaert",
+      "page": "https://commons.wikimedia.org/wiki/File:BeverlyHilton01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

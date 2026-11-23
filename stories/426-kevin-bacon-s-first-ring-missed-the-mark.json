@@ -1,0 +1,167 @@
+{
+  "id": "426-kevin-bacon-s-first-ring-missed-the-mark",
+  "number": 426,
+  "title": "Kevin Bacon's first ring missed the mark",
+  "style": "gouache",
+  "topic": "kevin bacon kyra sedgwick engagement ring christmas eve stocking picked alone kelly clarkson show 2021 i dont like the ring take it back married 32 years",
+  "music": "music-426.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "aquamarine",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Kevin Bacon's first ring missed the mark.",
+    "gold": [
+      "ring",
+      "mark."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kevin Bacon's first ring missed the mark.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Kevin Bacon proposed to Kyra Sedgwick on Christmas Eve.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "Christmas Eve"
+      }
+    },
+    {
+      "text": "The ring box was waiting in the toe of her stocking.",
+      "scene": {
+        "kind": "real",
+        "src": "426-kevin-bacon-s-first-ring-missed-the-mark-0.jpg",
+        "fit": "card",
+        "label": "An old jewelry box",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He told no friends or family, so he picked the ring alone.",
+      "scene": {
+        "kind": "piece",
+        "label": "He picked it alone"
+      }
+    },
+    {
+      "text": "He thought it was a great ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "He loved it"
+      }
+    },
+    {
+      "text": "She cried and said yes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "heart",
+        "metal": "rose",
+        "label": "She said yes"
+      }
+    },
+    {
+      "text": "About three months later, he woke to find her crying.",
+      "scene": {
+        "kind": "title",
+        "text": "3 months",
+        "sub": "Later",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "He feared she was leaving him.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "He feared the worst"
+      }
+    },
+    {
+      "text": "Instead she said, I don't like the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "I don't like the ring"
+      },
+      "hold": 0.6
+    },
+    {
+      "text": "He answered that they would take it back.",
+      "scene": {
+        "kind": "title",
+        "text": "Take it back",
+        "sub": "His answer",
+        "piece": "necklace",
+        "stone": "tanzanite",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "By then, they had been married for thirty two years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "metal": "platinum",
+        "label": "Thirty two years"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Kevin Bacon's first ring missed the mark. Kevin Bacon proposed to Kyra Sedgwick on Christmas Eve, with the ring box waiting in the toe of her stocking. He told no friends or family, so he picked the ring alone, and he thought it was a great ring. She cried and said yes. About three months later, he woke to find her crying and feared she was leaving. Instead she told him, I don't like the ring, and he answered that they would take it back. He told the story on The Kelly Clarkson Show in 2021, when they had been married for 32 years.",
+    "hashtags": [
+      "#kevinbacon",
+      "#kyrasedgwick",
+      "#engagementring",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etonline.com/kevin-bacon-had-to-return-kyra-sedgwicks-engagement-ring-after-she-cried-about-not-liking-it-163644",
+    "https://foxnews.com/entertainment/kevin-bacon-return-kyra-sedgwick-engagement-ring-didnt-like-it.amp",
+    "https://www.yahoo.com/entertainment/kevin-bacon-reveals-had-return-072700302.html",
+    "https://www.hellomagazine.com/celebrities/336541/kevin-bacon-kyra-sedgwick-proposal-story",
+    "https://www.thelist.com/378373/kevin-bacon-had-to-return-kyra-sedgwicks-engagement-ring-heres-why"
+  ],
+  "images": [
+    {
+      "src": "426-kevin-bacon-s-first-ring-missed-the-mark-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown artist Unknown artist",
+      "page": "https://commons.wikimedia.org/wiki/File:Necklace_Box_(France),_ca._1880_(CH_18603631).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

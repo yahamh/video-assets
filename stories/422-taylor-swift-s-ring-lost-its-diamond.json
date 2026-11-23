@@ -1,0 +1,178 @@
+{
+  "id": "422-taylor-swift-s-ring-lost-its-diamond",
+  "number": 422,
+  "title": "Taylor Swift's ring lost its diamond",
+  "style": "deco",
+  "topic": "taylor swift 2023 mtv video music awards prudential center newark van cleef arpels vintage onyx diamond ring borrowed joseph saidian and sons diamond went missing security guard flashlight forever swifties nine awards",
+  "music": "music-422.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Taylor Swift's ring lost its diamond.",
+    "gold": [
+      "Swift's",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Taylor Swift's ring lost its diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The 2023 MTV Video Music Awards were held in Newark, New Jersey.",
+      "say": "The twenty twenty three M T V Video Music Awards were held in Newark, New Jersey.",
+      "scene": {
+        "kind": "real",
+        "src": "422-taylor-swift-s-ring-lost-its-diamond-0.jpg",
+        "fit": "card",
+        "label": "Prudential Center, Newark",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Swift wore a borrowed vintage Van Cleef and Arpels ring.",
+      "scene": {
+        "kind": "real",
+        "src": "422-taylor-swift-s-ring-lost-its-diamond-1.jpg",
+        "fit": "card",
+        "label": "Van Cleef and Arpels",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was set with onyx and diamonds in yellow gold.",
+      "scene": {
+        "kind": "piece",
+        "label": "Onyx and diamonds"
+      }
+    },
+    {
+      "text": "A jeweler, Joseph Saidian and Sons, had lent it to her.",
+      "say": "A jeweler, Joseph SIGH dee un and Sons, had lent it to her.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 9,
+        "metal": "yellow",
+        "label": "Lent by a jeweler"
+      }
+    },
+    {
+      "text": "Then a large diamond went missing from its setting.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A diamond went missing"
+      }
+    },
+    {
+      "text": "Swift held the ring out to a security guard.",
+      "scene": {
+        "kind": "title",
+        "text": "A guard",
+        "sub": "Ring in hand",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Staff searched the floor, one with a flashlight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A flashlight search"
+      }
+    },
+    {
+      "text": "Later, the jeweler posted a photo of her with the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A photo with the ring"
+      }
+    },
+    {
+      "text": "The caption said, We are still forever Swifties.",
+      "scene": {
+        "kind": "title",
+        "text": "Forever",
+        "sub": "Swifties",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "stones": 10
+      }
+    },
+    {
+      "text": "That night she won nine awards.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Nine awards"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Taylor Swift's ring lost its diamond. At the 2023 MTV Video Music Awards in Newark, New Jersey, Swift wore a borrowed vintage Van Cleef and Arpels ring set with onyx and diamonds in yellow gold, lent by the jewelers Joseph Saidian and Sons. A large diamond went missing from its setting, and Swift held the ring out to a security guard while staff searched the floor, one with a flashlight. The jeweler later posted a photo of her with the ring: We are still forever Swifties. That night she won nine awards.",
+    "hashtags": [
+      "#taylorswift",
+      "#vanclefarpels",
+      "#vmas",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etonline.com/taylor-swifts-12000-vintage-ring-that-broke-during-mtv-vmas-is-being-fixed-jeweler-says-211323",
+    "https://de.eonline.com/news/1385452/taylor-swift-appears-to-lose-part-of-her-s12-000-ring-during-2023-mtv-vmas",
+    "https://www.hellomagazine.com/fashion/celebrity-style/502410/taylor-swift-visibly-upset-as-she-breaks-12000-vintage-ring-at-mtv-vmas",
+    "https://businessinsider.in/entertainment/news/taylor-swift-appeared-to-lose-the-diamond-on-a-ring-worth-12000-at-the-mtv-vmas-and-was-seen-scrambling-to-find-it/amp_articleshow/103643019.cms",
+    "https://en.israelidiamond.co.il/news/world/taylor-swifts-diamond-drama/",
+    "https://aol.com/news/see-moment-taylor-swift-realized-004450631.html"
+  ],
+  "images": [
+    {
+      "src": "422-taylor-swift-s-ring-lost-its-diamond-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jim.henderson",
+      "page": "https://commons.wikimedia.org/wiki/File:Pudcentnewarkjeh.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "422-taylor-swift-s-ring-lost-its-diamond-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Coquin, J., photographe",
+      "page": "https://commons.wikimedia.org/wiki/File:Van_Cleef_%26_Arpels,_G.36810.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

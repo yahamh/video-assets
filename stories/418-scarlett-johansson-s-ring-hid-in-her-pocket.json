@@ -1,0 +1,174 @@
+{
+  "id": "418-scarlett-johansson-s-ring-hid-in-her-pocket",
+  "number": 418,
+  "title": "Scarlett Johansson's ring hid in her pocket",
+  "style": "jewelbox",
+  "topic": "scarlett johansson engagement ring colin jost 2019 proposal 11 carat light brown diamond comic con san diego married 2020 pop culture jeopardy game show lost ring thought thrown out trash 12 dumpsters pocket",
+  "music": "music-418.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "topaz",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Scarlett Johansson's ring hid in her pocket.",
+    "gold": [
+      "ring",
+      "pocket."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Scarlett Johansson's ring hid in her pocket.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Colin Jost proposed to her in 2019.",
+      "say": "Colin Jost proposed to her in twenty nineteen.",
+      "scene": {
+        "kind": "real",
+        "src": "418-scarlett-johansson-s-ring-hid-in-her-pocket-0.jpg",
+        "fit": "card",
+        "label": "Scarlett Johansson, 2020",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The ring holds an eleven carat, light brown diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A light brown diamond"
+      }
+    },
+    {
+      "text": "She first showed it that summer at Comic Con.",
+      "scene": {
+        "kind": "title",
+        "text": "Comic Con",
+        "sub": "Summer 2019",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "They married the next year.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "rose",
+        "stones": 9,
+        "label": "Married in 2020"
+      }
+    },
+    {
+      "text": "Later, on his game show, Jost told a story about her.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A game show story"
+      }
+    },
+    {
+      "text": "She had lost the ring, and thought she had thrown it out.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "A lost ring"
+      }
+    },
+    {
+      "text": "So he went looking through twelve dumpsters.",
+      "scene": {
+        "kind": "title",
+        "text": "12 dumpsters",
+        "sub": "One by one",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "He came home without the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Nothing found"
+      }
+    },
+    {
+      "text": "Then she told him it was in her pocket.",
+      "scene": {
+        "kind": "piece",
+        "label": "In her pocket"
+      },
+      "hold": 0.7
+    },
+    {
+      "text": "Twelve dumpsters, and the ring was in her pocket.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Twelve dumpsters"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Scarlett Johansson's ring hid in her pocket. Colin Jost proposed to her in 2019, and her ring holds an 11 carat, light brown diamond. She first showed it that summer at Comic Con, and they married the next year. Later, on his game show, Jost told a story: she had lost the ring and thought she had thrown it out, so he searched 12 dumpsters and came home without it. Then she told him it was in her pocket.",
+    "hashtags": [
+      "#scarlettjohansson",
+      "#colinjost",
+      "#engagementring",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.aol.com/colin-jost-did-scarlet-johansson-003110708.html",
+    "https://www.buzzfeed.com/ziyajaffrey/colin-jost-scarlett-johansson-engagement-ring-dumpster",
+    "https://scoop.upworthy.com/scarlett-johansson-accidentally-threw-her-ring-in-the-trash-so-colin-jost-gloved-up-and-did-the-unthinkable",
+    "https://nbcnewyork.com/entertainment/entertainment-news/colin-jost-went-dumpster-diving-for-scarlett-johanssons-lost-ring/6162312",
+    "https://www.hellomagazine.com/brides/816486/scarlett-johansson-colin-jost-lost-engagement-ring",
+    "https://www.marieclaire.com/culture/a28479968/scarlett-johansson-engagement-ring-value-details",
+    "https://www.hellomagazine.com/brides/2019072375612/scarlett-johansson-colin-jost-engagement-ring-colin-jost"
+  ],
+  "images": [
+    {
+      "src": "418-scarlett-johansson-s-ring-hid-in-her-pocket-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Cpl. Dary M Patten",
+      "page": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_Oscars_2020.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

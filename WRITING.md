@@ -64,6 +64,15 @@ Cullinan script broke most of them; its lines are the "before" examples. `check.
   love and gifts, a maker's breakthrough, a lucky find, a lost ring returned, a record stone, a clever craft, a
   tradition. No heists, thefts, curses or tragedies as the story; hard history still comes up plainly when it's part
   of a happy story. The last lines land on the warm part (the gift given, the ring back on a finger).
+- **From 23 Nov 2026 (ali: "make videos that are more about brands, celebrities, popstar show bizz in general. all
+  related to jewelry" and "like outrageous stories embarrassing stories etc. no politics")**: new stories lean to show
+  business: brands, celebrities, pop stars, film and the red carpet, always about a piece of jewelry. The best ones are
+  outrageous or embarrassing and true: a mishap, a wild splurge, a fake that fooled everyone, a ridiculous gift or
+  demand. No politics or politicians. Still two opened independent sources for every fact, nobody called a thief or a
+  criminal, no deaths, lawsuits, drugs or feuds, no private people; a living star's embarrassing moment is only one they
+  told themselves or that was widely and neutrally reported, and the joke is on the situation, never on the person. The
+  four groups below still hold (group 1 now covers stars and pop stars too), and the old "bright, no thefts" line stays
+  for everything but the outrageous tone.
 - Spread them out: famous stones, royal jewels, the makers (Cartier, Faberge, Tiffany, Lalique, Van Cleef), lost and
   found, wedding and engagement customs, pearls and the sea, ancient and buried treasure, science made simple (how a
   pearl forms, why a ruby is red), and what happened on this day.

@@ -1,0 +1,193 @@
+{
+  "id": "421-elizabeth-taylor-s-italian-was-just-bulgari",
+  "number": 421,
+  "title": "Elizabeth Taylor's Italian was just Bulgari",
+  "style": "jewelbox",
+  "topic": "elizabeth taylor bulgari richard burton cleopatra rome via condotti only italian word introduced beer its tuesday i love you jewelry my love affair with jewelry 2002 gianni bulgari",
+  "music": "music-421.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Elizabeth Taylor's Italian was just Bulgari.",
+    "gold": [
+      "Italian",
+      "Bulgari."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Elizabeth Taylor's Italian was just Bulgari.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Elizabeth Taylor went to Rome to film Cleopatra.",
+      "scene": {
+        "kind": "real",
+        "src": "421-elizabeth-taylor-s-italian-was-just-bulgari-0.jpg",
+        "fit": "card",
+        "label": "Elizabeth Taylor, Cleopatra",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She spent many afternoons in Bulgari's shop on Via Condotti.",
+      "scene": {
+        "kind": "title",
+        "text": "Via Condotti",
+        "sub": "Rome",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "There she chatted with the jeweler Gianni Bulgari.",
+      "say": "There she chatted with the jeweler JAH nee BULL gah ree.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Gianni Bulgari"
+      }
+    },
+    {
+      "text": "Taylor later called the shop a big plus of filming in Rome.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "A big plus of Rome"
+      }
+    },
+    {
+      "text": "Richard Burton joked that the only Italian she knew was Bulgari.",
+      "scene": {
+        "kind": "real",
+        "src": "421-elizabeth-taylor-s-italian-was-just-bulgari-1.jpg",
+        "fit": "card",
+        "label": "Burton and Taylor, Cleopatra",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He said he introduced her to beer.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "He taught her beer"
+      }
+    },
+    {
+      "text": "She introduced him to Bulgari.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "She taught him Bulgari"
+      }
+    },
+    {
+      "text": "Burton gave her jewels for almost any occasion.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "Jewels for any day"
+      }
+    },
+    {
+      "text": "She called them her It's Tuesday, I love you jewels.",
+      "scene": {
+        "kind": "title",
+        "text": "It's Tuesday",
+        "sub": "I love you",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The phrase comes from her 2002 book, My Love Affair with Jewelry.",
+      "say": "The phrase comes from her two thousand two book, My Love Affair with Jewelry.",
+      "scene": {
+        "kind": "piece",
+        "label": "My Love Affair with Jewelry"
+      }
+    },
+    {
+      "text": "Bulgari's shop stood on Via Condotti in Rome.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "halo": 6,
+        "label": "Via Condotti, Rome"
+      },
+      "hold": 0.5
+    }
+  ],
+  "post": {
+    "caption": "Elizabeth Taylor's Italian was just Bulgari. She went to Rome to film Cleopatra and spent many afternoons in Bulgari's shop on Via Condotti, chatting with the jeweler Gianni Bulgari. Taylor later called the shop a big plus of filming in Rome. Her husband Richard Burton joked that the only Italian she knew was Bulgari, and that he introduced her to beer while she introduced him to Bulgari. He gave her jewels for almost any occasion, and she called them her It's Tuesday, I love you jewels, a phrase from her 2002 book, My Love Affair with Jewelry.",
+    "hashtags": [
+      "#elizabethtaylor",
+      "#bulgari",
+      "#cleopatra",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.bonhams.com/magazine/6069",
+    "https://lifestyleasia-onemega.com/arts-and-culture/elizabeth-taylor-legendary-addiction-bulgari/",
+    "https://theadventurine.com/culture/elizabeth-taylor/burton-didnt-propose-to-elizabeth-taylor-with-a-ring",
+    "https://philstar.com/lifestyle/fashion-and-beauty/2013/07/17/977431/elizabeth-taylors-life-loves-retold-bulgari-jewelry",
+    "https://www.watchprosite.com/digest/bulgari-elizabeth-taylor-celebrity-jewelry-history/",
+    "https://www.katerinaperez.com/articles/elizabeth-taylor-jewellery-collection-liz-jewelry",
+    "https://www.bulgari.com/en-int/the-maison/about-bvlgari/our-identity/jeweler-of-extraordinary-women.html",
+    "https://www.elizabethtaylor.com/its-tuesday-i-love-you/",
+    "https://berganza.com/feature-elizabeth-taylor--jewels-just-because"
+  ],
+  "images": [
+    {
+      "src": "421-elizabeth-taylor-s-italian-was-just-bulgari-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown photographer Unknown photographer",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Taylor_in_Cleopatra_publicity_still.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "421-elizabeth-taylor-s-italian-was-just-bulgari-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Courier-Gazette, McKinney, TX Photo from 20th Century Fox, producer of the film.",
+      "page": "https://commons.wikimedia.org/wiki/File:Taylor_and_Burton_Cleopatra.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

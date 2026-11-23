@@ -1,0 +1,173 @@
+{
+  "id": "420-pretty-woman-s-necklace-gag-wasn-t-scripted",
+  "number": 420,
+  "title": "Pretty Woman's necklace gag wasn't scripted",
+  "style": "gouache",
+  "topic": "pretty woman 1990 garry marshall ruby diamond necklace jewelry box snapped julia roberts fingers laugh not in script armed guard prank gag reel richard gere beverly wilshire",
+  "music": "music-420.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "ruby",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Pretty Woman's necklace gag wasn't scripted.",
+    "gold": [
+      "necklace",
+      "scripted."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pretty Woman's necklace gag wasn't scripted.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The film came out in 1990, directed by Garry Marshall.",
+      "say": "The film came out in nineteen ninety, directed by Garry Marshall.",
+      "scene": {
+        "kind": "real",
+        "src": "420-pretty-woman-s-necklace-gag-wasn-t-scripted-0.jpg",
+        "fit": "card",
+        "label": "The Beverly Wilshire Hotel",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In one scene, Richard Gere shows Julia Roberts a ruby necklace.",
+      "scene": {
+        "kind": "piece",
+        "label": "The ruby necklace"
+      }
+    },
+    {
+      "text": "As she reaches for it, he snaps the box shut.",
+      "scene": {
+        "kind": "title",
+        "text": "The box",
+        "sub": "Snaps shut",
+        "piece": "stone",
+        "stone": "amethyst",
+        "cut": "emerald",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It catches her fingers, and she bursts out laughing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "She bursts out laughing"
+      }
+    },
+    {
+      "text": "That moment was not in the script.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Not in the script"
+      }
+    },
+    {
+      "text": "Marshall said it began as a prank for the gag reel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "A prank for the gag reel"
+      }
+    },
+    {
+      "text": "He said he told Gere to slam the box.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Slam the box"
+      }
+    },
+    {
+      "text": "The box was soft, he said, so it could not hurt her.",
+      "scene": {
+        "kind": "title",
+        "text": "Soft box",
+        "sub": "No harm",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "Her laugh was so real that the take stayed in the film.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "Her real laugh"
+      }
+    },
+    {
+      "text": "An armed guard from the store stood watch over the necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "An armed guard"
+      },
+      "hold": 0.5
+    }
+  ],
+  "post": {
+    "caption": "Pretty Woman's necklace gag wasn't scripted. The 1990 film was directed by Garry Marshall. In one scene, Richard Gere shows Julia Roberts a ruby necklace, and as she reaches for it, he snaps the box shut on her fingers. She bursts out laughing. That moment was not in the script. Marshall said it began as a prank for the gag reel, and that he told Gere to slam the box. He said the box was soft so it could not hurt her. Her laugh was so real that the take stayed in the film, and an armed guard from the jewelry store stood watch over the necklace.",
+    "hashtags": [
+      "#prettywoman",
+      "#juliaroberts",
+      "#movies",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.looper.com/350383/the-truth-about-pretty-womans-famous-jewelry-box-scene",
+    "https://patch.com/connecticut/orange/bp--director-reveals-iconic-jewelry-box-scene-from-prdc0b61a08b",
+    "https://faroutmagazine.co.uk/armed-security-guard-pretty-woman/",
+    "https://foxnews.com/entertainment/richard-gere-says-integral-pretty-woman-scene-julia-roberts-improvised.amp",
+    "https://d23.com/this-day/pretty-woman-premieres",
+    "https://www.cheatsheet.com/news/pretty-woman-richard-gere-improvised-the-necklace-scene-that-made-julia-roberts-burst-out-laughing.html",
+    "https://www.thenewdaily.com.au/entertainment/movies/2015/03/25/pretty-woman-turns-25-six-things-didnt-know",
+    "https://www.refinery29.com/en-us/pretty-woman-necklace",
+    "https://www.womanandhome.com/fashion/most-iconic-jewellery-moments-film-tv/"
+  ],
+  "images": [
+    {
+      "src": "420-pretty-woman-s-necklace-gag-wasn-t-scripted-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Minnaert",
+      "page": "https://commons.wikimedia.org/wiki/File:BeverlyWilshire01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

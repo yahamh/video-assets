@@ -1,0 +1,169 @@
+{
+  "id": "425-t-pain-s-chain-began-as-a-dare",
+  "number": 425,
+  "title": "T Pain's chain began as a dare",
+  "style": "deco",
+  "topic": "t pain chain dare stranger big chain ten pounds 200 carats natural diamonds desus and mero dumbest thing american museum of natural history ice cold hip hop jewelry exhibition 2024",
+  "music": "music-425.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "topaz",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "T Pain's chain began as a dare.",
+    "gold": [
+      "chain",
+      "dare."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "T Pain's chain began as a dare.",
+      "say": "Tee Pain's chain began as a dare.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A stranger at one show dared him to buy a chain.",
+      "scene": {
+        "kind": "real",
+        "src": "425-t-pain-s-chain-began-as-a-dare-0.jpg",
+        "fit": "card",
+        "label": "T Pain on stage",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "So he ordered one, just to prove he would.",
+      "scene": {
+        "kind": "piece",
+        "label": "To prove he would"
+      }
+    },
+    {
+      "text": "The chain spells out its own name in huge letters.",
+      "scene": {
+        "kind": "title",
+        "text": "Huge letters",
+        "sub": "Its own name",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "It weighs just over ten pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "blue",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Over ten pounds"
+      }
+    },
+    {
+      "text": "It carries close to two hundred carats of natural diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "strand",
+        "tone": "white",
+        "metal": "yellow",
+        "label": "Near 200 carats"
+      }
+    },
+    {
+      "text": "He later called it the dumbest thing he had ever done.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "yellow",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Dumbest thing ever"
+      }
+    },
+    {
+      "text": "The American Museum of Natural History put it in a show.",
+      "scene": {
+        "kind": "real",
+        "src": "425-t-pain-s-chain-began-as-a-dare-1.jpg",
+        "fit": "card",
+        "label": "A gold chain",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The show was called Ice Cold, about hip hop jewelry.",
+      "scene": {
+        "kind": "title",
+        "text": "Ice Cold",
+        "sub": "Hip hop jewelry",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "The show ran until January 2025.",
+      "say": "The show ran until January twenty twenty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "blue",
+        "cut": "round",
+        "petals": 9,
+        "metal": "yellow",
+        "label": "Until January 2025"
+      },
+      "hold": 0.8
+    }
+  ],
+  "post": {
+    "caption": "T Pain's chain began as a dare. A stranger at one of his shows dared him to buy a chain, so he ordered one just to prove he would. The chain spells out its own name in huge letters, weighs just over ten pounds and carries close to 200 carats of natural diamonds. He later called it the dumbest thing he had ever done. Still, the American Museum of Natural History put it in a show called Ice Cold, about hip hop jewelry, which ran from May 2024 until January 2025.",
+    "hashtags": [
+      "#tpain",
+      "#hiphopjewelry",
+      "#goldchain",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.vice.com/en/article/t-pain-tells-desus-and-mero-about-his-dumbest-purchase-ever/",
+    "https://www.complex.com/style/ot-genasis-t-pain-regrets-400k-big-ass-chain",
+    "https://thediamondcollective.world/culture-and-style/exclusive-icebox-is-taking-over-the-diamond-world-one-big-ass-chain-at-a-time/",
+    "https://www.revolt.tv/article/ice-cold-an-exhibition-of-hip-hop-jewelry-review",
+    "https://www.amnh.org/about/press-center/ice-cold-hip-hop-jewelry",
+    "https://www.amnh.org/exhibitions/ice-cold-hip-hop-jewelry",
+    "https://news.artnet.com/art-world/bling-exhibition-museum-natural-history-hip-hop-jewelry-2548207",
+    "https://www.timeout.com/newyork/news/a-first-look-at-the-blinged-out-hip-hop-jewelry-exhibit-at-amnh-050824"
+  ],
+  "images": [
+    {
+      "src": "425-t-pain-s-chain-began-as-a-dare-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. Air Force photo by Naoto Anazawa",
+      "page": "https://commons.wikimedia.org/wiki/File:T-Pain_performing_at_Kadena_Air_Base_01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "425-t-pain-s-chain-began-as-a-dare-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+      "page": "https://commons.wikimedia.org/wiki/File:Necklace,_chain_MET_SF2213969.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

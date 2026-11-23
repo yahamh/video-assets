@@ -1,0 +1,158 @@
+{
+  "id": "419-ariana-s-tiffany-spree-became-a-hit",
+  "number": 419,
+  "title": "Ariana's Tiffany spree became a hit",
+  "style": "deco",
+  "topic": "ariana grande 7 rings tiffany seven engagement rings six friends champagne retail therapy song written same afternoon january 2019 billboard hot 100 number one debut",
+  "music": "music-419.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "diamond",
+    "metal": "platinum",
+    "stones": 7
+  },
+  "hook": {
+    "text": "Ariana's Tiffany spree became a hit.",
+    "gold": [
+      "Tiffany",
+      "hit."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ariana's Tiffany spree became a hit.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Ariana Grande had a rough day in New York.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "pink",
+        "cut": "pear",
+        "metal": "rose",
+        "label": "A rough day"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "Friends took her to Tiffany for some retail therapy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "Retail therapy"
+      }
+    },
+    {
+      "text": "Staff poured champagne, and she posted that they had too much.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Too much champagne"
+      }
+    },
+    {
+      "text": "Then she bought seven engagement rings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Seven rings"
+      },
+      "hold": 0.8
+    },
+    {
+      "text": "One was for her, and six went to her friends.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "pink",
+        "metal": "rose",
+        "stones": 7,
+        "label": "One for each of seven"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "In the car, one friend said it had to be a song.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "It had to be a song"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "She wrote it that same afternoon.",
+      "scene": {
+        "kind": "piece",
+        "label": "Written that afternoon"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "Seven Rings came out in January 2019.",
+      "say": "Seven Rings came out in January twenty nineteen.",
+      "scene": {
+        "kind": "title",
+        "text": "Jan 2019",
+        "sub": "Seven Rings",
+        "piece": "bracelet",
+        "stone": "emerald",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "It debuted at number one on Billboard's singles chart.",
+      "scene": {
+        "kind": "title",
+        "text": "Number one",
+        "sub": "Billboard",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Ariana's Tiffany spree became a hit. After what she called a rough day in New York, Ariana Grande went to Tiffany with friends for some retail therapy. She posted that the staff poured champagne and they had too much, and she bought seven engagement rings: one for her, and six for her friends. In the car, one friend said it had to be a song, and she wrote it that same afternoon. Seven Rings came out in January 2019 and debuted at number one on Billboard's singles chart.",
+    "hashtags": [
+      "#arianagrande",
+      "#7rings",
+      "#tiffany",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.refinery29.com/en-us/2018/12/218327/ariana-grande-seven-rings-song-origin",
+    "https://stylist.co.uk/people/ariana-grande-music-video-7-rings-engagement-ring-friendship/246322",
+    "https://en.wikipedia.org/wiki/7_Rings",
+    "https://www.capitalfm.com/artists/ariana-grande/7-rings-new-songs-tiffanys-friendship/",
+    "https://www.complex.com/music/2019/01/ariana-grande-7-rings-debuts-no-1-billboard-hot-100",
+    "https://ca.news.yahoo.com/victoria-mon-t-says-she-150000552.html",
+    "https://uproxx.com/music/victoria-monet-two-ariana-grande-7-rings",
+    "https://www.upi.com/Entertainment_News/Music/2019/02/26/Ariana-Grandes-7-Rings-tops-the-Hot-100-for-fifth-consecutive-week/8441551200392/"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the subject: the free Ariana Grande and Tiffany pictures on Commons are CC BY-SA, or a phone photo with a watermark"
+}

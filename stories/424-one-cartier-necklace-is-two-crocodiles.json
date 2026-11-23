@@ -1,0 +1,179 @@
+{
+  "id": "424-one-cartier-necklace-is-two-crocodiles",
+  "number": 424,
+  "title": "One Cartier necklace is two crocodiles",
+  "style": "jewelbox",
+  "topic": "cartier crocodile necklace maria felix mexican film star 1975 rue de la paix two articulated crocodiles yellow diamonds emeralds 1023 1060 unclips brooch legend live baby crocodile bought back",
+  "music": "music-424.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "yellow",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "One Cartier necklace is two crocodiles.",
+    "gold": [
+      "Cartier",
+      "crocodiles."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "One Cartier necklace is two crocodiles.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Mexican film star Maria Felix was a devoted Cartier client.",
+      "say": "Mexican film star Mah REE ah FEH leeks was a devoted Cartier client.",
+      "scene": {
+        "kind": "real",
+        "src": "424-one-cartier-necklace-is-two-crocodiles-0.jpg",
+        "fit": "card",
+        "label": "Maria Felix, 1947",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1975, Cartier made her a crocodile necklace.",
+      "say": "In nineteen seventy five, Cartier made her a crocodile necklace.",
+      "scene": {
+        "kind": "title",
+        "text": "1975",
+        "sub": "Cartier",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Legend says she brought a live baby crocodile as a model.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A baby crocodile"
+      }
+    },
+    {
+      "text": "The two jointed crocodiles wrap around the neck.",
+      "scene": {
+        "kind": "piece",
+        "label": "Two jointed crocodiles"
+      }
+    },
+    {
+      "text": "One is covered in yellow diamonds, the other in emeralds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "The emerald crocodile"
+      }
+    },
+    {
+      "text": "Together they hold over two thousand stones.",
+      "scene": {
+        "kind": "title",
+        "text": "Over 2,000",
+        "sub": "Stones",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Each crocodile unclips and can be worn as a brooch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "yellow",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Worn as a brooch"
+      }
+    },
+    {
+      "text": "Reportedly, the two halves sat on her dinner table.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "On the dinner table"
+      }
+    },
+    {
+      "text": "After she sold her jewels, Cartier bought the necklace back.",
+      "scene": {
+        "kind": "real",
+        "src": "424-one-cartier-necklace-is-two-crocodiles-1.jpg",
+        "fit": "card",
+        "label": "Maria Felix, 1954",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The yellow crocodile alone holds 1,023 diamonds.",
+      "say": "The yellow crocodile alone holds one thousand twenty three diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "yellow",
+        "metal": "yellow",
+        "label": "1,023 yellow diamonds"
+      },
+      "hold": 0.5
+    }
+  ],
+  "post": {
+    "caption": "One Cartier necklace is two crocodiles. The Mexican film star Maria Felix was a devoted Cartier client, and in 1975 Cartier made her a crocodile necklace. Legend says she brought a live baby crocodile to the boutique as a model. The two jointed crocodiles wrap around the neck, one covered in yellow diamonds and the other in emeralds, with over 2,000 stones in all. Each crocodile unclips and can be worn as a brooch. After she sold her jewels, Cartier bought the necklace back. The yellow crocodile alone holds 1,023 diamonds.",
+    "hashtags": [
+      "#cartier",
+      "#mariafelix",
+      "#crocodile",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.inverse.com/article/43402-maria-felix-crocodile-necklace-cartier",
+    "https://news.artnet.com/art-world/cartiers-maria-felix-jewelry-1432882",
+    "https://www.eluniversal.com.mx/english/maria-felix-cartiers-favorite-mexican-diva/",
+    "https://thediamondcollective.world/historic-diamonds/cartier-crocodile-necklace/",
+    "https://www.sothebys.com/en/articles/the-history-of-bulgari-serpenti-collection",
+    "https://www.pressreader.com/china/hong-kong-tatler/20181201/284296776023077",
+    "https://autos.yahoo.com/cartier-exhibition-mexico-city-puts-153000668.html"
+  ],
+  "images": [
+    {
+      "src": "424-one-cartier-necklace-is-two-crocodiles-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown (Mondadori Publishers)",
+      "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_F%C3%A9lix_1947.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "424-one-cartier-necklace-is-two-crocodiles-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown (Mondadori Publishers)",
+      "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_F%C3%A9lix_1954.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
