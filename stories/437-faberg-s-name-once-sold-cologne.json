@@ -1,0 +1,184 @@
+{
+  "id": "437-faberg-s-name-once-sold-cologne",
+  "number": 437,
+  "title": "Fabergé's name once sold cologne",
+  "style": "deco",
+  "topic": "faberge name cologne brut samuel rubin 1937 cary grant creative consultant 1967 board brut productions a touch of class glenda jackson oscar farrah fawcett shampoo unilever 1989 cleaning products 2009 high jewelry",
+  "music": "music-437.wav",
+  "piece": {
+    "piece": "egg",
+    "stone": "sapphire",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Fabergé's name once sold cologne.",
+    "gold": [
+      "Fabergé's",
+      "cologne."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fabergé's name once sold cologne.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1937, Samuel Rubin founded a perfume company called Fabergé.",
+      "say": "In nineteen thirty seven, Samuel Rubin founded a perfume company called Fabergé.",
+      "scene": {
+        "kind": "real",
+        "src": "437-faberg-s-name-once-sold-cologne-0.jpg",
+        "fit": "card",
+        "label": "A Fabergé egg",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The real Fabergé family learned of it after the war.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "After the war"
+      }
+    },
+    {
+      "text": "Its cologne, Brut, became the best selling cologne in the world.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Brut cologne"
+      }
+    },
+    {
+      "text": "Film star Cary Grant became its creative consultant in 1967.",
+      "say": "Film star Cary Grant became its creative consultant in nineteen sixty seven.",
+      "scene": {
+        "kind": "real",
+        "src": "437-faberg-s-name-once-sold-cologne-1.jpg",
+        "fit": "card",
+        "label": "Cary Grant",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He later joined the board and got the company plane.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A company plane"
+      }
+    },
+    {
+      "text": "Brut's profits paid for a film company, Brut Productions.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Brut Productions"
+      }
+    },
+    {
+      "text": "Glenda Jackson won an Oscar for its film A Touch of Class.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 9,
+        "metal": "yellow",
+        "label": "An Oscar in 1973"
+      }
+    },
+    {
+      "text": "Farrah Fawcett later signed on for a Fabergé shampoo line.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "pink",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Farrah Fawcett"
+      }
+    },
+    {
+      "text": "In 1989, the name ended up on household cleaning products.",
+      "say": "In nineteen eighty nine, the name ended up on household cleaning products.",
+      "scene": {
+        "kind": "title",
+        "text": "1989",
+        "sub": "Cleaning products",
+        "piece": "necklace",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 2009, Fabergé launched a high jewelry collection again.",
+      "say": "In two thousand nine, Fabergé launched a high jewelry collection again.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "High jewelry again"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Fabergé's name once sold cologne. In 1937, Samuel Rubin founded a perfume company called Fabergé, and the real Fabergé family in Paris learned of it only after the war. Its cologne, Brut, became the best selling cologne in the world. Film star Cary Grant became its creative consultant in 1967, later joined the board, and got the company plane. Brut's profits paid for a film company, and Glenda Jackson won an Oscar for its film A Touch of Class. Farrah Fawcett later signed on for a Fabergé shampoo line. In 1989 the name ended up on household cleaning products, and in 2009 Fabergé launched a high jewelry collection again.",
+    "hashtags": [
+      "#faberge",
+      "#carygrant",
+      "#brut",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faberg%C3%A9_(cosmetics)",
+    "https://en.wikipedia.org/wiki/House_of_Faberg%C3%A9",
+    "https://en.ilsole24ore.com/art/faberge-tortuous-history-czar-eggs-perfumes-and-home-cleaning-products-AHZRgPKC",
+    "https://fabulousfaberges.blogspot.com/2011/02/faberge-in-america-cary-grant-joe.html",
+    "https://www.faberge.com/blogs/news/cary-grant-celebrated-in-bristol-16th-to-17th-july-2016",
+    "https://www.grunge.com/422563/what-cary-grant-did-after-retiring-from-acting",
+    "https://metv.com/stories/farrah-fawcett-faberge-hair-care-line-launched-in-1978"
+  ],
+  "images": [
+    {
+      "src": "437-faberg-s-name-once-sold-cologne-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "museado",
+      "page": "https://commons.wikimedia.org/wiki/File:Gatchina_Palace_Faberg%C3%A9_Egg,_1901,_-_front_view.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "437-faberg-s-name-once-sold-cologne-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Grant,_Cary_(Suspicion)_01.jpg : RKO publicity photographer. derivative work: Crisco 1492 ( talk )",
+      "page": "https://commons.wikimedia.org/wiki/File:Grant,_Cary_(Suspicion)_01_Crisco_edit.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
