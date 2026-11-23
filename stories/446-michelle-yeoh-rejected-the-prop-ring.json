@@ -1,0 +1,169 @@
+{
+  "id": "446-michelle-yeoh-rejected-the-prop-ring",
+  "number": 446,
+  "title": "Michelle Yeoh rejected the prop ring",
+  "style": "deco",
+  "topic": "michelle yeoh emerald ring crazy rich asians prop ring jon chu embarrassed assistant jewelry box her own ring golden globes january 6 2019",
+  "music": "music-446.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Michelle Yeoh rejected the prop ring.",
+    "gold": [
+      "rejected",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Michelle Yeoh rejected the prop ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In a hit romantic comedy, Nick proposes with an emerald ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "An emerald ring"
+      }
+    },
+    {
+      "text": "The film's team first made a ring of their own.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "The first ring"
+      }
+    },
+    {
+      "text": "Michelle Yeoh said, that cannot be the ring I wear.",
+      "scene": {
+        "kind": "real",
+        "src": "446-michelle-yeoh-rejected-the-prop-ring-0.jpg",
+        "fit": "card",
+        "label": "Michelle Yeoh",
+        "credit": "Photo: Mandilea16, CC BY 4.0"
+      }
+    },
+    {
+      "text": "The director, Jon Chu, said he was so embarrassed.",
+      "scene": {
+        "kind": "title",
+        "text": "So embarrassed",
+        "sub": "The director",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Yeoh had her assistant bring her jewelry box.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Her jewelry box"
+      }
+    },
+    {
+      "text": "She took out an emerald ring, and Chu said, that's our ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 8,
+        "label": "That's our ring"
+      }
+    },
+    {
+      "text": "It was her own ring, which she had bought for herself.",
+      "scene": {
+        "kind": "real",
+        "src": "446-michelle-yeoh-rejected-the-prop-ring-1.jpg",
+        "fit": "card",
+        "label": "An emerald",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was real, and she told Variety so on the red carpet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Real, not a prop"
+      }
+    },
+    {
+      "text": "She wore it to the Golden Globes on January 6, 2019.",
+      "say": "She wore it to the Golden Globes on January sixth, twenty nineteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "January 6, 2019"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Michelle Yeoh rejected the prop ring. Near the end of Crazy Rich Asians, Nick proposes with an emerald ring. The film's team first made a ring of their own, and Michelle Yeoh said that cannot be the ring I wear. The director, Jon Chu, said he was so embarrassed. Yeoh had her assistant bring her jewelry box, and she took out an emerald ring that Chu said was their ring. It was her own ring, which she had bought for herself, and it was real. She wore it to the Golden Globes on January 6, 2019. Photo: Mandilea16, CC BY 4.0.",
+    "hashtags": [
+      "#michelleyeoh",
+      "#crazyrichasians",
+      "#emerald",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etonline.com/youll-never-guess-where-the-stunning-crazy-rich-asians-emerald-engagement-ring-is-from-108556",
+    "https://nextshark.com/emerald-ring-michelle-yeoh",
+    "https://www.buzzfeednews.com/michaelblackmon/michelle-yeoh-ring-golden-globes-crazy-rich-asians",
+    "https://www.theknot.com/content/crazy-rich-asians-emerald-ring",
+    "https://en.wikipedia.org/wiki/76th_Golden_Globe_Awards"
+  ],
+  "images": [
+    {
+      "src": "446-michelle-yeoh-rejected-the-prop-ring-0.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Mandilea16",
+      "page": "https://commons.wikimedia.org/wiki/File:Michelle_Yeoh_at_NYCC_2026_for_Blade_Runner_2099.jpg",
+      "credit": "Photo: Mandilea16, CC BY 4.0"
+    },
+    {
+      "src": "446-michelle-yeoh-rejected-the-prop-ring-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Gaumania",
+      "page": "https://commons.wikimedia.org/wiki/File:Cut_Emerald.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

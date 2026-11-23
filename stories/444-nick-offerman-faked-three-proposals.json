@@ -1,0 +1,177 @@
+{
+  "id": "444-nick-offerman-faked-three-proposals",
+  "number": 444,
+  "title": "Nick Offerman faked three proposals",
+  "style": "gouache",
+  "topic": "nick offerman megan mullally three fake proposals prop rings will and grace costume eiffel tower paris grate playboy 2013 live with kelly and mark 2025 regent's park 2002 walnut ring box married september 2003 night before the emmys",
+  "music": "music-444.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Nick Offerman faked three proposals.",
+    "gold": [
+      "faked",
+      "proposals."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Nick Offerman faked three proposals.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Before the real one, he staged them for Megan Mullally in Paris.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Three fake proposals"
+      }
+    },
+    {
+      "text": "The rings were props from a Will and Grace costume department.",
+      "scene": {
+        "kind": "title",
+        "text": "Three props",
+        "sub": "Fake rings",
+        "piece": "necklace",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "One fake ring was dropped from the top of the Eiffel Tower.",
+      "scene": {
+        "kind": "real",
+        "src": "444-nick-offerman-faked-three-proposals-0.jpg",
+        "fit": "card",
+        "label": "The Eiffel Tower",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Another fell down a grate in Paris.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Down a grate"
+      }
+    },
+    {
+      "text": "He told it in Playboy in 2013 and again in 2025.",
+      "say": "He told it in Playboy in twenty thirteen and again in twenty twenty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "peridot",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Told twice"
+      }
+    },
+    {
+      "text": "The real proposal came in 2002, in London's Regent's Park.",
+      "say": "The real proposal came in two thousand two, in London's Regent's Park.",
+      "scene": {
+        "kind": "title",
+        "text": "2002",
+        "sub": "Regent's Park",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He knelt and held out a hand carved walnut ring box.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A walnut ring box"
+      }
+    },
+    {
+      "text": "The box was shaped like a heart.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "round",
+        "petals": 8,
+        "metal": "rose",
+        "label": "Shaped like a heart"
+      }
+    },
+    {
+      "text": "Their guests thought they were coming to an Emmy party.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "blue",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "An Emmy party"
+      }
+    },
+    {
+      "text": "They married in September 2003, the night before the Emmys.",
+      "say": "They married in September two thousand three, the night before the Emmys.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 11,
+        "label": "September 2003"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Nick Offerman faked three proposals. Before the real one, he staged them for Megan Mullally in Paris, with prop rings from a Will and Grace costume department. One fake ring was dropped from the top of the Eiffel Tower, and another fell down a grate. He told the story in Playboy in 2013 and again in 2025. The real proposal came in 2002 in London's Regent's Park, with a hand carved walnut ring box shaped like a heart. Their guests thought they were coming to an Emmy party, and they married in September 2003, the night before the Emmys.",
+    "hashtags": [
+      "#nickofferman",
+      "#meganmullally",
+      "#engagementring",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.refinery29.com/en-us/2013/09/54332/nick-offerman-megan-mullally-engagement-story",
+    "https://www.nickiswift.com/1201536/a-look-at-nick-offerman-and-megan-mullallys-decades-long-romance",
+    "https://uk.news.yahoo.com/nick-offerman-megan-mullallys-relationship-201749434.html",
+    "https://wegotthiscovered.com/?p=1414922",
+    "https://www.aol.com/nick-offerman-breaks-down-3-200617240.html",
+    "https://www.aol.com/nick-offermans-amazing-megan-mullally-180403316.html",
+    "https://www.yahoo.com/entertainment/naked-truth-nick-offerman-megan-140000019.html"
+  ],
+  "images": [
+    {
+      "src": "444-nick-offerman-faked-three-proposals-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Benh LIEU SONG",
+      "page": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

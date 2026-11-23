@@ -1,0 +1,164 @@
+{
+  "id": "440-dolly-parton-s-ring-came-from-sears",
+  "number": 440,
+  "title": "Dolly Parton's ring came from Sears",
+  "style": "deco",
+  "topic": "dolly parton wedding ring sears charge account carl dean ringgold georgia 1966 half carat lost stone identical replacement never traded up renewed vows may 2016",
+  "music": "music-440.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Dolly Parton's ring came from Sears.",
+    "gold": [
+      "ring",
+      "Sears."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Dolly Parton's ring came from Sears.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Dolly Parton married Carl Dean in Ringgold, Georgia, in 1966.",
+      "say": "Dolly Parton married Carl Dean in Ringgold, Georgia, in nineteen sixty six.",
+      "scene": {
+        "kind": "real",
+        "src": "440-dolly-parton-s-ring-came-from-sears-0.jpg",
+        "fit": "card",
+        "label": "Dolly Parton, 1970",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They could not afford rings, so they bought them at Sears.",
+      "scene": {
+        "kind": "title",
+        "text": "Sears",
+        "sub": "On credit",
+        "piece": "necklace",
+        "stone": "morganite",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "They put the rings on Carl's mother's charge account.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A charge account"
+      }
+    },
+    {
+      "text": "Dolly's diamond was about half a carat.",
+      "scene": {
+        "kind": "title",
+        "text": "Half a carat",
+        "sub": "Her diamond",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Years later, she lost the stone and was upset.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "The lost stone"
+      }
+    },
+    {
+      "text": "They went back to Sears for an identical replacement.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "An identical ring"
+      }
+    },
+    {
+      "text": "They charged it again so the ring would feel like the original.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "Charged again"
+      }
+    },
+    {
+      "text": "Even after getting rich, she never traded for a bigger stone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "blue",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Never a bigger stone"
+      }
+    },
+    {
+      "text": "In May 2016, they renewed their vows for their fiftieth anniversary.",
+      "say": "In May twenty sixteen, they renewed their vows for their fiftieth anniversary.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "morganite",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Fifty years"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Dolly Parton's ring came from Sears. Dolly Parton and Carl Dean married in 1966 in Ringgold, Georgia. They could not afford rings, so they bought them at Sears on Carl's mother's charge account. Dolly's diamond was about half a carat. Years later she lost the stone and was upset, so they went back to Sears for an identical replacement and charged it again so it would feel like the original. Even after getting rich, she never traded for a bigger stone. They renewed their vows in May 2016.",
+    "hashtags": [
+      "#dollyparton",
+      "#weddingring",
+      "#sears",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://vogue.sg/dolly-parton-jewellery-memories/",
+    "https://www.whiskeyriff.com/2025/11/21/dolly-parton-carl-dean-bought-their-wedding-rings-at-sears-on-credit-dolly-refused-to-ever-upgrade-her-small-diamond-i-was-never-willing-to-change-them-they-were-personal/",
+    "https://www.cheatsheet.com/news/dolly-partons-most-valuable-pieces-jewelry-never-price-tag.html/",
+    "https://www.cheatsheet.com/news/dolly-parton-doesnt-wear-her-wedding-ring.html",
+    "https://www.yahoo.com/news/everything-dolly-parton-said-her-045753715.html",
+    "https://www.nickiswift.com/2247503/three-guests-and-one-little-dress-dolly-partons-carl-deans-wedding-wasnt-full-of-glamour/"
+  ],
+  "images": [
+    {
+      "src": "440-dolly-parton-s-ring-came-from-sears-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "RCA Records",
+      "page": "https://commons.wikimedia.org/wiki/File:Dolly_Parton_-_RCA_Press_Photo_(1970).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "441-travis-kelce-s-bracelet-never-reached-taylor",
+  "number": 441,
+  "title": "Travis Kelce's bracelet never reached Taylor",
+  "style": "gouache",
+  "topic": "travis kelce friendship bracelet taylor swift eras tour kansas city phone number jason kelce new heights podcast july 2023 arrowhead engagement august 2025 old mine cut diamond gold",
+  "music": "music-441.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "pink",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Travis Kelce's bracelet never reached Taylor.",
+    "gold": [
+      "bracelet",
+      "Taylor."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Travis Kelce's bracelet never reached Taylor.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In July 2023, Travis Kelce went to an Eras Tour show.",
+      "say": "In July twenty twenty three, Travis Kelce went to an Eras Tour show.",
+      "scene": {
+        "kind": "real",
+        "src": "441-travis-kelce-s-bracelet-never-reached-taylor-0.jpg",
+        "fit": "card",
+        "label": "Travis Kelce",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He made friendship bracelets, and one for Taylor Swift had his number.",
+      "scene": {
+        "kind": "title",
+        "text": "His number",
+        "sub": "On a bracelet",
+        "piece": "eternity",
+        "stone": "pink",
+        "metal": "platinum",
+        "stones": 9
+      }
+    },
+    {
+      "text": "His brother Jason asked which number he meant.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Which number"
+      }
+    },
+    {
+      "text": "Travis answered, you know which one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "You know which one"
+      }
+    },
+    {
+      "text": "Swift does not meet anyone before or after a show.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "No meet and greets"
+      }
+    },
+    {
+      "text": "So the bracelet stayed with him, and he took it personally.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "He took it personally"
+      }
+    },
+    {
+      "text": "He told this story on his podcast, New Heights.",
+      "scene": {
+        "kind": "title",
+        "text": "New Heights",
+        "sub": "The podcast",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Two months later, Swift watched his game from a suite.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "Arrowhead Stadium"
+      }
+    },
+    {
+      "text": "In August 2025, they announced their engagement.",
+      "say": "In August twenty twenty five, they announced their engagement.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "August 2025"
+      }
+    },
+    {
+      "text": "The ring is an old mine cut diamond set in gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "An old mine cut"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Travis Kelce's bracelet never reached Taylor. In July 2023, Travis Kelce went to an Eras Tour show in Kansas City with friendship bracelets he had made, and the one for Taylor Swift had his number on it. His brother asked which number he meant, and he said you know which one. Swift does not meet anyone before or after a show, so the bracelet stayed with him. He told the story on his podcast New Heights. In August 2025 they announced their engagement, and the ring is an old mine cut diamond set in gold.",
+    "hashtags": [
+      "#taylorswift",
+      "#traviskelce",
+      "#friendshipbracelet",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://africa.espn.com/nfl/story/_/id/38075344/kansas-city-chiefs-travis-kelce-taylor-swift-eras-tour-number-bracelet",
+    "https://www.cbsnews.com/amp/philadelphia/news/taylor-swift-travis-kelce-eras-tour-new-heights-podcast/",
+    "https://www.complex.com/sports/a/markelibert/travis-kelce-sad-taylor-swift-phone-number",
+    "https://www.foxsports.com/stories/nfl/travis-kelce-tried-to-give-taylor-swift-a-friendship-bracelet-with-his-number-on-it",
+    "https://global.espn.com/nfl/story/_/id/38481870/taylor-swift-accepts-travis-kelce-invite-chiefs-game",
+    "https://www.sothebys.com/en/articles/taylor-swifts-engagement-ring-and-the-romantic-mystique-of-old-mine-diamonds?locale=en",
+    "https://www.goodmorningamerica.com/culture/story/taylor-swift-travis-kelce-engagement-ring-124993837"
+  ],
+  "images": [
+    {
+      "src": "441-travis-kelce-s-bracelet-never-reached-taylor-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. Air Force Master Sgt. April Wickes",
+      "page": "https://commons.wikimedia.org/wiki/File:Travis_kelce_2017_training_camp_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

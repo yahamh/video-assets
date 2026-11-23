@@ -1,0 +1,171 @@
+{
+  "id": "442-lily-collins-cartier-came-with-a-guard",
+  "number": 442,
+  "title": "Lily Collins' Cartier came with a guard",
+  "style": "jewelbox",
+  "topic": "lily collins cartier magnitude necklace met gala 2019 security guard only key special device giambattista valli emeralds onyx rock crystal james corden late late show bathtub photo",
+  "music": "music-442.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Lily Collins' Cartier came with a guard.",
+    "gold": [
+      "Cartier",
+      "guard."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lily Collins' Cartier came with a guard.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Lily Collins wore a Cartier necklace to the 2019 Met Gala.",
+      "say": "Lily Collins wore a Cartier necklace to the twenty nineteen Met Gala.",
+      "scene": {
+        "kind": "real",
+        "src": "442-lily-collins-cartier-came-with-a-guard-0.jpg",
+        "fit": "card",
+        "label": "A Cartier boutique",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was a Cartier Magnitude necklace, made as high jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Cartier Magnitude"
+      }
+    },
+    {
+      "text": "It mixed emeralds and diamonds with onyx and rock crystal.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Emeralds and onyx"
+      }
+    },
+    {
+      "text": "She wore it with a gown by Giambattista Valli.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Giambattista Valli"
+      }
+    },
+    {
+      "text": "The necklace came with its own security guard.",
+      "scene": {
+        "kind": "title",
+        "text": "A guard",
+        "sub": "Came with it",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "One woman held the only key to unlock it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "The only key"
+      }
+    },
+    {
+      "text": "It also needed a special device to take it off.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A special device"
+      }
+    },
+    {
+      "text": "At the end of the night, she needed that woman again.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "Taken off at night"
+      }
+    },
+    {
+      "text": "Her Met Gala tradition is a photo in a bathtub.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A bathtub photo"
+      }
+    },
+    {
+      "text": "She told James Corden on The Late Late Show in May 2019.",
+      "say": "She told James Corden on The Late Late Show in May twenty nineteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The Late Late Show"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Lily Collins' Cartier came with a guard. Lily Collins wore a Cartier Magnitude necklace to the 2019 Met Gala, made as high jewelry from emeralds and diamonds with onyx and rock crystal, with a gown by Giambattista Valli. The necklace came with its own security guard, and one woman held the only key. It needed a special device to take off, so at the end of the night she needed that woman again. She told James Corden about it on The Late Late Show in May 2019.",
+    "hashtags": [
+      "#lilycollins",
+      "#cartier",
+      "#metgala",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://foxbusiness.com/retail/lily-collins-cartier-magnitude-high-jewelry-necklace-met-gala-security",
+    "https://www.hola.com/us/fashion/2019051623857/met-gala-2019-lily-collins-necklace-security-guard/",
+    "https://www.sothebys.com/en/articles/met-gala-2019-the-jewels-they-wore",
+    "https://ca.news.yahoo.com/lily-collins-gives-fans-want-190418248.html"
+  ],
+  "images": [
+    {
+      "src": "442-lily-collins-cartier-came-with-a-guard-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Benoît Prieur",
+      "page": "https://commons.wikimedia.org/wiki/File:Boutique_Cartier_%C3%A0_Monaco_(Avenue_des_Beaux-Arts).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

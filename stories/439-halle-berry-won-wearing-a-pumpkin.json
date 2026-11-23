@@ -1,0 +1,178 @@
+{
+  "id": "439-halle-berry-won-wearing-a-pumpkin",
+  "number": 439,
+  "title": "Halle Berry won wearing a pumpkin",
+  "style": "jewelbox",
+  "topic": "halle berry pumpkin diamond harry winston 5.54 carats fancy vivid orange william goldberg sotheby's halloween 1997 ronald winston 2002 oscars monster's ball best actress",
+  "music": "music-439.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "topaz",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Halle Berry won wearing a pumpkin.",
+    "gold": [
+      "Berry",
+      "pumpkin."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Halle Berry won wearing a pumpkin.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "An eleven carat brownish orange diamond was found in Africa in 1997.",
+      "say": "An eleven carat brownish orange diamond was found in Africa in nineteen ninety seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Found in Africa"
+      }
+    },
+    {
+      "text": "Master cutter William Goldberg cut it down to a gem.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "William Goldberg"
+      }
+    },
+    {
+      "text": "Its color was graded Fancy Vivid Orange.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Fancy Vivid Orange"
+      }
+    },
+    {
+      "text": "Sotheby's sold it the night before Halloween in 1997.",
+      "say": "Sotheby's sold it the night before Halloween in nineteen ninety seven.",
+      "scene": {
+        "kind": "title",
+        "text": "Halloween",
+        "sub": "Sotheby's",
+        "piece": "brooch",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Ronald Winston of Harry Winston bought it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Harry Winston"
+      }
+    },
+    {
+      "text": "He named it the Pumpkin Diamond, after its color and Halloween.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "The Pumpkin Diamond"
+      }
+    },
+    {
+      "text": "It was set in a ring between two smaller white diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Between two white diamonds"
+      }
+    },
+    {
+      "text": "Halle Berry wore that ring to the 2002 Oscars.",
+      "say": "Halle Berry wore that ring to the two thousand two Oscars.",
+      "scene": {
+        "kind": "real",
+        "src": "439-halle-berry-won-wearing-a-pumpkin-0.jpg",
+        "fit": "card",
+        "label": "Halle Berry",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "That night, she won Best Actress for Monster's Ball.",
+      "scene": {
+        "kind": "title",
+        "text": "Best Actress",
+        "sub": "Monster's Ball",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The Pumpkin Diamond weighs 5.54 carats.",
+      "say": "The Pumpkin Diamond weighs five point five four carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "5.54 carats"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Halle Berry won wearing a pumpkin. An eleven carat brownish orange diamond was found in Africa in 1997, and master cutter William Goldberg cut it down to a gem graded Fancy Vivid Orange. Sotheby's sold it the night before Halloween, and Ronald Winston of Harry Winston bought it and named it the Pumpkin Diamond. Set in a ring between two smaller white diamonds, it was worn by Halle Berry to the 2002 Oscars, where she won Best Actress for Monster's Ball. The Pumpkin Diamond weighs 5.54 carats.",
+    "hashtags": [
+      "#halleberry",
+      "#harrywinston",
+      "#pumpkindiamond",
+      "#oscars",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pumpkin_Diamond",
+    "https://money.cnn.com/2003/03/04/news/oscars_diamonds/",
+    "https://thediamondcollective.world/science-of-diamonds/pumpkin-diamond/",
+    "https://www.royalcoster.com/blog/the-pumpkin-diamond",
+    "https://www.hellomagazine.com/fashion/457086/oscargems/",
+    "https://langerman-diamonds.com/blogs/encyclopedia/pumpkin-vivid-orange-5-54-ct"
+  ],
+  "images": [
+    {
+      "src": "439-halle-berry-won-wearing-a-pumpkin-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "National Museum of the U.S. Navy",
+      "page": "https://commons.wikimedia.org/wiki/File:Halle_Berry_(26721810072).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

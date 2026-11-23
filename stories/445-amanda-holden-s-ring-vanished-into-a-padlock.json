@@ -1,0 +1,172 @@
+{
+  "id": "445-amanda-holden-s-ring-vanished-into-a-padlock",
+  "number": 445,
+  "title": "Amanda Holden's ring vanished into a padlock",
+  "style": "jewelbox",
+  "topic": "stevie starr the regurgitator amanda holden engagement ring padlock key britain's got talent 2010 semi final audition numbered coins billiard ball simon cowell",
+  "music": "music-445.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "morganite",
+    "cut": "oval",
+    "metal": "rose"
+  },
+  "hook": {
+    "text": "Amanda Holden's ring vanished into a padlock.",
+    "gold": [
+      "ring",
+      "padlock."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Amanda Holden's ring vanished into a padlock.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Stevie Starr was a Scottish performer billed as The Regurgitator.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The Regurgitator"
+      }
+    },
+    {
+      "text": "At his 2010 audition, he appeared to swallow numbered coins.",
+      "say": "At his twenty ten audition, he appeared to swallow numbered coins.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "Numbered coins"
+      }
+    },
+    {
+      "text": "He brought them back in the order the audience chose.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "The audience's order"
+      }
+    },
+    {
+      "text": "He finished the audition with a billiard ball.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "stone": "diamond",
+        "tone": "white",
+        "metal": "platinum",
+        "label": "A billiard ball"
+      }
+    },
+    {
+      "text": "Amanda Holden was a judge, along with Simon Cowell.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 9,
+        "metal": "platinum",
+        "label": "Amanda Holden"
+      }
+    },
+    {
+      "text": "In the semi final, he took her engagement ring.",
+      "scene": {
+        "kind": "title",
+        "text": "Her ring",
+        "sub": "The semi final",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 10
+      }
+    },
+    {
+      "text": "Then he took a padlock and its key.",
+      "scene": {
+        "kind": "real",
+        "src": "445-amanda-holden-s-ring-vanished-into-a-padlock-0.jpg",
+        "fit": "card",
+        "label": "A padlock and key",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He brought the padlock back with her ring inside it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Her ring inside"
+      }
+    },
+    {
+      "text": "Then he brought back the key.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "The key came back"
+      }
+    },
+    {
+      "text": "It happened in the 2010 Britain's Got Talent semi final.",
+      "say": "It happened in the twenty ten Britain's Got Talent semi final.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "pink",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The 2010 semi final"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Amanda Holden's ring vanished into a padlock. Stevie Starr, a Scottish performer billed as The Regurgitator, appeared to swallow numbered coins at his 2010 Britain's Got Talent audition and brought them back in the order the audience chose. In the semi final he took Amanda Holden's engagement ring and then a padlock and its key. He brought the padlock back with her ring inside it, then the key.",
+    "hashtags": [
+      "#amandaholden",
+      "#britainsgottalent",
+      "#engagementring",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stevie_Starr",
+    "https://www.coventrytelegraph.net/news/uk-world-news/odd-zone-amanda-holdens-engagement-3061317.amp",
+    "https://www.irishexaminer.com/lifestyle/arid-30455164.html",
+    "https://jewelryfactory.thejewelerblog.com/professional_regurgitator_swallows__500_000_ring_and_brings_it_back___attached_to_a_lock___on__america_s_got_talent_.html"
+  ],
+  "images": [
+    {
+      "src": "445-amanda-holden-s-ring-vanished-into-a-padlock-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "André Omereler",
+      "page": "https://commons.wikimedia.org/wiki/File:Padlock_and_key_MET_DP-13615-067.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

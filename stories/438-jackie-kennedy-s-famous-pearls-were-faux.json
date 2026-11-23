@@ -1,0 +1,167 @@
+{
+  "id": "438-jackie-kennedy-s-famous-pearls-were-faux",
+  "number": 438,
+  "title": "Jackie Kennedy's famous pearls were faux",
+  "style": "gouache",
+  "topic": "jackie kennedy onassis faux pearls three strand necklace simulated sotheby's 1996 estimate five hundred seven hundred sold 211500 franklin mint 130000 copies smithsonian",
+  "music": "music-438.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "cream",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Jackie Kennedy's famous pearls were faux.",
+    "gold": [
+      "pearls",
+      "faux."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Jackie Kennedy's famous pearls were faux.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Jackie Kennedy often wore a three strand pearl necklace.",
+      "scene": {
+        "kind": "real",
+        "src": "438-jackie-kennedy-s-famous-pearls-were-faux-0.jpg",
+        "fit": "card",
+        "label": "Jackie Kennedy, 1961",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It shows up in many photographs from the early sixties.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Early sixties"
+      }
+    },
+    {
+      "text": "The necklace was made of simulated pearls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "stone": "diamond",
+        "tone": "white",
+        "metal": "platinum",
+        "label": "Simulated pearls"
+      }
+    },
+    {
+      "text": "In April 1996, her estate was sold at Sotheby's in New York.",
+      "say": "In April nineteen ninety six, her estate was sold at Sotheby's in New York.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Sotheby's, New York"
+      }
+    },
+    {
+      "text": "Sotheby's expected the necklace to fetch five hundred to seven hundred dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Estimate: $500 to $700"
+      }
+    },
+    {
+      "text": "It sold for $211,500.",
+      "say": "It sold for two hundred eleven thousand five hundred dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$211,500",
+        "sub": "The price",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The buyer was the Franklin Mint, a company near Philadelphia.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "The Franklin Mint"
+      }
+    },
+    {
+      "text": "The Franklin Mint later sold about 130,000 copies.",
+      "say": "The Franklin Mint later sold about one hundred thirty thousand copies.",
+      "scene": {
+        "kind": "title",
+        "text": "130,000",
+        "sub": "Copies",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The original is kept in the Smithsonian in Washington.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "The Smithsonian"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Jackie Kennedy's famous pearls were faux. Her three strand pearl necklace shows up in many photographs from the early 1960s, and it was made of simulated pearls. Her estate was sold at Sotheby's in New York in April 1996, and the necklace was expected to fetch five hundred to seven hundred dollars. It sold for $211,500 to the Franklin Mint, a company near Philadelphia, which later sold about 130,000 copies. The original is kept in the Smithsonian in Washington.",
+    "hashtags": [
+      "#jackiekennedy",
+      "#fauxpearls",
+      "#pearls",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/going-going-gone-a-first-ladys-faux-pearls",
+    "https://www.upi.com/Archives/1996/04/26/Jackie-O-auction-brings-345-million/9639830491200/",
+    "https://jckonline.com/?p=24933",
+    "https://www.bonhams.com/auction/31035/lot/69/jacqueline-kennedys-simulated-pearl-necklace",
+    "https://www.huffingtonpost.com/2010/08/03/jackie-kennedys-pearls-to_n_668505.html",
+    "https://skyjems.ca/pages/encyclopedia-jackie-kennedy-onassis-1996-sale",
+    "https://rosetta.to/u/intelligence-squared/the-specialist-jackie-o-s-faux-pearls-with-frank-everett"
+  ],
+  "images": [
+    {
+      "src": "438-jackie-kennedy-s-famous-pearls-were-faux-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Abbie Rowe",
+      "page": "https://commons.wikimedia.org/wiki/File:Jacqueline_Kennedy_in_Diplomatic_Reception_Room,_1961.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

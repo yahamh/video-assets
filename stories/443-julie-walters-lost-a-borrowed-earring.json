@@ -1,0 +1,162 @@
+{
+  "id": "443-julie-walters-lost-a-borrowed-earring",
+  "number": 443,
+  "title": "Julie Walters lost a borrowed earring",
+  "style": "deco",
+  "topic": "julie walters borrowed diamond earring baftas 2016 royal opera house brooklyn outstanding british film same price as my house lost earring found a bit by her chair february 14",
+  "music": "music-443.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "aquamarine",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Julie Walters lost a borrowed earring.",
+    "gold": [
+      "borrowed",
+      "earring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Julie Walters lost a borrowed earring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Brooklyn won Outstanding British Film at the BAFTAs.",
+      "scene": {
+        "kind": "title",
+        "text": "BAFTAs",
+        "sub": "2016",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      }
+    },
+    {
+      "text": "Julie Walters went up on stage to accept the award.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Julie Walters"
+      }
+    },
+    {
+      "text": "She was wearing diamond earrings that she had borrowed.",
+      "scene": {
+        "kind": "real",
+        "src": "443-julie-walters-lost-a-borrowed-earring-0.jpg",
+        "fit": "card",
+        "label": "An earring design",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "As she got up there, she saw that one earring was gone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "One was gone"
+      }
+    },
+    {
+      "text": "She joked that the earrings probably cost the same as her house.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Same price as her house"
+      }
+    },
+    {
+      "text": "She told the room that if anyone found one, it was borrowed.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "They were borrowed"
+      }
+    },
+    {
+      "text": "Someone found a bit of it by her chair.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 7,
+        "metal": "platinum",
+        "label": "A bit by her chair"
+      }
+    },
+    {
+      "text": "She joked even that tiny bit was worth more than her house.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 12,
+        "label": "Worth more than her house"
+      }
+    },
+    {
+      "text": "It happened on February 14, 2016, at the Royal Opera House.",
+      "say": "It happened on February fourteenth, twenty sixteen, at the Royal Opera House.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Royal Opera House"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Julie Walters lost a borrowed earring. Brooklyn won Outstanding British Film at the BAFTAs, and Julie Walters went on stage to accept it wearing borrowed diamond earrings. As she got up there she saw that one earring was gone. She joked that the earrings probably cost the same as her house, and that if anyone found one it was borrowed. Someone found a bit of it by her chair, and she joked that even that tiny bit was worth more than her house. It happened on February 14, 2016, at the Royal Opera House.",
+    "hashtags": [
+      "#juliewalters",
+      "#baftas",
+      "#diamondearrings",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://huffingtonpost.co.uk/amp/entry/baftas-julie-walters-lost-earring_n_9234528",
+    "https://www.bafta.org/media-centre/transcripts/brooklyn-winners-press-conference-interview-outstanding-british-film-ee",
+    "https://thejewelleryeditor.com/jewellery/article/jewels-and-glamour-baftas-2016-chopard-david-morris-tiffany",
+    "https://www.inkl.com/news/baftas-2016-10-things-we-learned",
+    "https://en.wikipedia.org/wiki/69th_British_Academy_Film_Awards"
+  ],
+  "images": [
+    {
+      "src": "443-julie-walters-lost-a-borrowed-earring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown artist Unknown artist",
+      "page": "https://commons.wikimedia.org/wiki/File:Drawing,_Design_for_an_Earring,_late_18th_century_(CH_18553203).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
