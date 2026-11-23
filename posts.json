@@ -5622,7 +5622,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1147277738012863",
+      "instagram": "https://www.instagram.com/reel/DgF7EENnGOs/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711420913954262280"
+    }
   },
   "389-under-five-dollars-in-three-days": {
     "at": "2026-11-23T18:00:00Z",
@@ -5631,14 +5637,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1405666604975981",
+      "instagram": "https://www.instagram.com/reel/DgF-2h9Dt60/",
+      "youtube": "https://www.youtube.com/watch?v=GZAv3fTruR8"
+    }
   },
   "390-she-wouldn-t-look-at-the-ring": {
     "at": "2026-11-23T18:30:00Z",
     "zernio_id": "6b02d31c810f2370bc7cdb56",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgGB70nHGbQ/"
+    }
   },
   "391-a-red-rose-helped-pay-the-rent": {
     "at": "2026-11-23T19:00:00Z",
@@ -5647,7 +5663,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "partial",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1170512469024689",
+      "instagram": "https://www.instagram.com/reel/DgGFTTGjnvu/",
+      "tiktok": "failed: You have created too many posts in the last 24 hours via the API. Please try posting directly in the TikTok app or wait before posting again."
+    }
   },
   "392-the-tiara-was-secretly-a-necklace": {
     "at": "2026-11-23T19:30:00Z",
@@ -5655,14 +5677,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1697623211711281",
+      "instagram": "https://www.instagram.com/reel/DgGIyO9luka/"
+    }
   },
   "393-a-girl-found-it-in-rubble": {
     "at": "2026-11-23T20:00:00Z",
     "zernio_id": "6b02d3344d737bc17503f7e7",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgGMVztioOZ/"
+    }
   },
   "394-one-diamond-then-529": {
     "at": "2026-11-23T20:30:00Z",
@@ -5672,7 +5703,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1179649238054118",
+      "instagram": "https://www.instagram.com/reel/DgGPsZRlDpP/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711467233318309141",
+      "youtube": "https://www.youtube.com/watch?v=Zf5HWC7_Slk"
+    }
   },
   "395-fake-pearls-were-made-from-fish-scales": {
     "at": "2026-11-23T21:00:00Z",
@@ -5680,7 +5718,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1314728094122497",
+      "instagram": "https://www.instagram.com/reel/DgGTKhggWCH/"
+    }
   },
   "396-one-diamond-became-26-flawless-stones": {
     "at": "2026-11-23T21:30:00Z",
@@ -5688,7 +5731,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1186789490971407",
+      "instagram": "https://www.instagram.com/reel/DgGWcU0DiCr/"
+    }
   },
   "397-two-tiny-gold-men-stitch-a-fleece": {
     "at": "2026-11-23T22:00:00Z",
@@ -5696,7 +5744,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgGaKJ9DZ2T/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711490907278789895"
+    }
   },
   "398-kanazawa-puts-gold-on-ice-cream": {
     "at": "2026-11-23T22:30:00Z",
@@ -5704,7 +5757,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1670069451267740",
+      "instagram": "https://www.instagram.com/reel/DgGdWdnFOZO/"
+    }
   },
   "399-an-emerald-named-for-lions": {
     "at": "2026-11-23T23:00:00Z",
@@ -6107,6 +6165,79 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "448-timex-lost-a-watch-on-live-tv": {
+    "at": "2026-11-25T03:30:00Z",
+    "zernio_id": "6b04c7be32e80c21a73ea712",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "449-tiffany-sold-a-fake-aztec-skull": {
+    "at": "2026-11-25T08:00:00Z",
+    "zernio_id": "6b04c7c332e80c21a73ea727",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "450-paul-newman-s-rolex-said-drive-carefully": {
+    "at": "2026-11-25T08:30:00Z",
+    "zernio_id": "6b04c7c732e80c21a73ea751",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "451-mickey-mouse-s-watch-rescued-a-clockmaker": {
+    "at": "2026-11-25T09:00:00Z",
+    "zernio_id": "6b04c7cb209404897bafa99f",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "452-dorothy-s-ruby-slippers-had-no-rubies": {
+    "at": "2026-11-25T09:30:00Z",
+    "zernio_id": "6b04c7cf721eb389c9516c1a",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "453-mr-t-s-gold-chains-were-lost-property": {
+    "at": "2026-11-25T10:00:00Z",
+    "zernio_id": "6b04c7d43daf6dbb8d95b6fa",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "454-oprah-gave-6-000-people-diamond-necklaces": {
+    "at": "2026-11-25T10:30:00Z",
+    "zernio_id": "6b04c7d8209404897bafa9f3",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "455-kidman-s-film-necklace-held-1-308-diamonds": {
+    "at": "2026-11-25T11:00:00Z",
+    "zernio_id": "6b04c7db94e0d63e251fe672",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "456-nick-cannon-s-loafers-wore-14-000-diamonds": {
+    "at": "2026-11-25T11:30:00Z",
+    "zernio_id": "6b04c7e05c85ccd46d14348f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
