@@ -1,145 +1,41 @@
 {
  "queries": [
   {
-   "key": "h-halle",
+   "key": "h-walters2",
    "commons": [
-    "Pumpkin Diamond",
-    "Orange diamond",
-    "Harry Winston Fifth Avenue",
-    "Halle Berry",
-    "Halle Berry Academy Awards",
-    "Oscar statuette",
-    "Fancy vivid orange diamond"
+    "Royal Opera House",
+    "Royal Opera House London Covent Garden",
+    "BAFTA award",
+    "BAFTA Awards red carpet",
+    "Diamond earring",
+    "Earrings diamonds drop",
+    "Chandelier earrings"
    ],
    "max": 7
   },
   {
-   "key": "h-kelce",
+   "key": "h-collins2",
    "commons": [
-    "Arrowhead Stadium",
-    "Friendship bracelet",
-    "Travis Kelce",
-    "Taylor Swift Eras Tour",
-    "Kansas City Chiefs Arrowhead",
-    "Beaded bracelet",
-    "Old mine cut diamond"
+    "Cartier shop",
+    "Cartier boutique",
+    "Cartier Fifth Avenue mansion",
+    "Metropolitan Museum of Art facade",
+    "Emerald and diamond necklace",
+    "Met Gala red carpet",
+    "Cartier necklace"
    ],
    "max": 7
   },
   {
-   "key": "h-jackie",
+   "key": "h-starr2",
    "commons": [
-    "Jacqueline Kennedy pearls",
-    "Jacqueline Kennedy 1961",
-    "Jacqueline Kennedy portrait",
-    "Three strand pearl necklace",
-    "National Museum of American History",
-    "Faux pearls necklace",
-    "Pearl necklace"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-walters",
-   "commons": [
-    "Julie Walters",
-    "Royal Opera House Covent Garden",
-    "BAFTA mask",
-    "British Academy Film Awards 2016",
-    "Diamond earrings",
-    "Drop earrings diamond",
-    "Brooklyn 2015 film"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-collins",
-   "commons": [
-    "Lily Collins",
-    "Met Gala 2019",
-    "Cartier emerald necklace",
-    "Cartier high jewelry",
-    "Costume Institute Metropolitan Museum",
-    "Cartier Paris Rue de la Paix",
-    "Emerald necklace diamonds"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-dolly",
-   "commons": [
-    "Dolly Parton",
-    "Dolly Parton 2016",
-    "Sears catalog",
-    "Sears store 1960s",
-    "Ringgold Georgia",
-    "Wedding rings",
-    "Dollywood"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-offerman",
-   "commons": [
-    "Eiffel Tower summit",
-    "Eiffel Tower top",
-    "Regent's Park Queen Mary's Gardens",
-    "Paris sewer grate",
-    "Nick Offerman",
-    "Walnut wood box",
-    "Megan Mullally"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-dietrich",
-   "commons": [
-    "Marlene Dietrich",
-    "Marlene Dietrich 1930s",
-    "Stage Fright 1950",
-    "Van Cleef & Arpels",
-    "Ruby bracelet",
-    "Academy Awards 1951",
-    "Garter"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-yeoh",
-   "commons": [
-    "Michelle Yeoh",
-    "Crazy Rich Asians",
-    "Emerald ring",
-    "Emerald cut emerald",
-    "Singapore skyline",
-    "Michelle Yeoh Cannes",
-    "Michelle Yeoh premiere"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-starr",
-   "commons": [
-    "Amanda Holden",
-    "Britain's Got Talent",
+    "Padlock",
     "Padlock and key",
-    "Billiard ball",
-    "Stevie Starr",
-    "Diamond engagement ring",
-    "Piers Morgan"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-edison",
-   "commons": [
-    "Thomas Edison",
-    "Thomas Edison portrait",
-    "Kokichi Mikimoto",
-    "Mikimoto Pearl Island",
-    "Cultured pearl",
-    "Edison Menlo Park",
-    "Pearl necklace"
+    "Billiard balls",
+    "Hammersmith Apollo",
+    "Diamond ring solitaire",
+    "Coins swallowed",
+    "Magician stage"
    ],
    "max": 7
   }
