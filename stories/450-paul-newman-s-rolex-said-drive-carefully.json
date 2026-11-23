@@ -1,0 +1,171 @@
+{
+  "id": "450-paul-newman-s-rolex-said-drive-carefully",
+  "number": 450,
+  "title": "Paul Newman's Rolex said drive carefully",
+  "style": "gouache",
+  "topic": "paul newman rolex daytona drive carefully me joanne woodward james cox treehouse winning phillips 2017 most expensive wristwatch",
+  "music": "music-450.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "ruby",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Paul Newman's Rolex said drive carefully.",
+    "gold": [
+      "Rolex",
+      "carefully."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Paul Newman's Rolex said drive carefully.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "His wife Joanne Woodward gave him a Rolex Daytona.",
+      "scene": {
+        "kind": "real",
+        "src": "450-paul-newman-s-rolex-said-drive-carefully-0.jpg",
+        "fit": "card",
+        "label": "Paul Newman, Joanne Woodward",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It came around the time he made the racing movie Winning.",
+      "scene": {
+        "kind": "title",
+        "text": "Winning",
+        "sub": "The racing movie",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "She had the case back engraved with Drive Carefully Me.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Drive Carefully Me"
+      }
+    },
+    {
+      "text": "In 1984, she bought him a newer one.",
+      "say": "In nineteen eighty four, she bought him a newer one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A newer Daytona"
+      }
+    },
+    {
+      "text": "That summer, his daughter's boyfriend was rebuilding a treehouse.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A treehouse"
+      }
+    },
+    {
+      "text": "Newman noticed the boy had no watch and handed him the Rolex.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "No watch"
+      }
+    },
+    {
+      "text": "He said it keeps pretty good time if you wind it daily.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Wind it daily"
+      }
+    },
+    {
+      "text": "Daytonas with that dial are now called Paul Newman watches.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Paul Newman dial"
+      }
+    },
+    {
+      "text": "In 2017, it became the priciest wristwatch ever sold at auction.",
+      "say": "In twenty seventeen, it became the priciest wristwatch ever sold at auction.",
+      "scene": {
+        "kind": "title",
+        "text": "2017",
+        "sub": "At auction",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The case back still reads, Drive Carefully Me.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Still engraved"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Paul Newman's Rolex said drive carefully. His wife Joanne Woodward gave him a Rolex Daytona around the time he made the racing movie Winning, and she had the case back engraved Drive Carefully Me. He wore it almost every day for about fifteen years. In 1984 she bought him a newer one, and that summer his daughter's boyfriend was rebuilding a treehouse at the family's Connecticut home. Newman noticed the boy had no watch and handed him the Rolex. In 2017 it became the most expensive wristwatch ever sold at auction.",
+    "hashtags": [
+      "#paulnewman",
+      "#rolex",
+      "#daytona",
+      "#vintagewatches",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.phillips.com/article/17646996/paul-newmans-legendary-paul-newman",
+    "https://www.cbsnews.com/news/paul-newmans-record-breaking-rolex-cosmograph-daytona-watch",
+    "https://www.timesofisrael.com/paul-newmans-watch-auctioned-for-record-17-8-million/",
+    "https://en.wikipedia.org/wiki/Rolex_Daytona",
+    "https://watchesbysjx.com/2017/10/02"
+  ],
+  "images": [
+    {
+      "src": "450-paul-newman-s-rolex-said-drive-carefully-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "20th Century Fox",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Newman_and_Joanne_Woodward_1958.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "449-tiffany-sold-a-fake-aztec-skull",
+  "number": 449,
+  "title": "Tiffany sold a fake Aztec skull",
+  "style": "deco",
+  "topic": "tiffany aztec crystal skull british museum boban rock crystal quartz 1897 cardiff university 2008 rotary wheel brazil madagascar idar oberstein",
+  "music": "music-449.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "amethyst",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Tiffany sold a fake Aztec skull.",
+    "gold": [
+      "fake",
+      "skull."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany sold a fake Aztec skull.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A French dealer offered a crystal skull as an Aztec relic.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A carved crystal skull"
+      }
+    },
+    {
+      "text": "He could not sell it in Paris or to Mexico's national museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Paris"
+      }
+    },
+    {
+      "text": "Then the New York jeweler Tiffany acquired it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Tiffany, New York"
+      }
+    },
+    {
+      "text": "Tiffany sold it to the British Museum in 1897.",
+      "say": "Tiffany sold it to the British Museum in eighteen ninety seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1897",
+        "sub": "British Museum",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It went on view as an ancient Mexican piece.",
+      "scene": {
+        "kind": "real",
+        "src": "449-tiffany-sold-a-fake-aztec-skull-0.jpg",
+        "fit": "card",
+        "label": "A rock crystal skull",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Some visitors believed it had healing powers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Healing powers"
+      }
+    },
+    {
+      "text": "In 2008, researchers from Cardiff University and the British Museum studied it.",
+      "say": "In two thousand eight, researchers from Cardiff University and the British Museum studied it.",
+      "scene": {
+        "kind": "title",
+        "text": "2008",
+        "sub": "The test",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "A microscope showed tool marks from a spinning wheel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Tool marks"
+      }
+    },
+    {
+      "text": "That tool was unknown in Mexico before Europeans arrived.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Before Europeans arrived"
+      }
+    },
+    {
+      "text": "The quartz probably came from Brazil or Madagascar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Brazil or Madagascar"
+      }
+    },
+    {
+      "text": "The likely workshop town is Idar Oberstein, in Germany.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "blue",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Idar Oberstein"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Tiffany sold a fake Aztec skull. A French dealer offered a carved rock crystal skull as an Aztec relic, but he could not sell it in Paris or to Mexico's national museum. Tiffany in New York acquired it and sold it to the British Museum in 1897, where visitors believed it had healing powers. In 2008, researchers from Cardiff University and the British Museum studied it. Tool marks under a microscope came from a spinning wheel unknown in Mexico before the Europeans arrived, and the quartz likely came from Brazil or Madagascar. The likely workshop town is Idar Oberstein in Germany.",
+    "hashtags": [
+      "#tiffany",
+      "#crystalskull",
+      "#britishmuseum",
+      "#aztec",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Crystal_skull",
+    "https://www.sciencedaily.com/releases/2008/05/080523163016.htm",
+    "https://www.npr.org/2008/05/19/90483164/whos-the-brain-behind-aztec-crystal-skulls",
+    "https://historynewsnetwork.org/article/9582",
+    "https://www.discovermagazine.com/the-real-story-behind-aztec-crystal-skulls-42125"
+  ],
+  "images": [
+    {
+      "src": "449-tiffany-sold-a-fake-aztec-skull-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Vassil",
+      "page": "https://commons.wikimedia.org/wiki/File:British_Museum_Crystal_Skull_26072013_02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

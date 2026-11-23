@@ -1,0 +1,168 @@
+{
+  "id": "453-mr-t-s-gold-chains-were-lost-property",
+  "number": 453,
+  "title": "Mr T's gold chains were lost property",
+  "style": "gouache",
+  "topic": "mr t gold chains nightclub bouncer chicago laurence tureaud rocky iii stallone 1982 nbc bouncer contest",
+  "music": "music-453.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "citrine",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Mr T's gold chains were lost property.",
+    "gold": [
+      "gold",
+      "property."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mr T's gold chains were lost property.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "He was born Laurence Tureaud in Chicago in 1952.",
+      "say": "He was born Laurence Tureaud in Chicago in nineteen fifty two.",
+      "scene": {
+        "kind": "real",
+        "src": "453-mr-t-s-gold-chains-were-lost-property-0.jpg",
+        "fit": "card",
+        "label": "Mr T",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "At about eighteen, he legally changed his name to Mr T.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A new name"
+      },
+      "hold": 0.6
+    },
+    {
+      "text": "He worked as a nightclub bouncer in Chicago.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A nightclub bouncer"
+      }
+    },
+    {
+      "text": "Customers lost or left behind gold chains at the club.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Lost property"
+      },
+      "hold": 0.6
+    },
+    {
+      "text": "Then he began wearing them himself.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Wearing them"
+      },
+      "hold": 0.6
+    },
+    {
+      "text": "Putting on all his chains took close to an hour.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Close to an hour"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "In 1980, he won an NBC bouncer contest.",
+      "say": "In nineteen eighty, he won an NBC bouncer contest.",
+      "scene": {
+        "kind": "title",
+        "text": "1980",
+        "sub": "The contest",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Sylvester Stallone noticed him and cast him in Rocky III.",
+      "say": "Sylvester Stallone noticed him and cast him in Rocky three.",
+      "scene": {
+        "kind": "title",
+        "text": "Rocky III",
+        "sub": "The film",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The film opened in theaters in 1982.",
+      "say": "The film opened in theaters in nineteen eighty two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Opened in 1982"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Mr T's gold chains were lost property. He was born Laurence Tureaud in Chicago in 1952, and at about eighteen he legally changed his name to Mr T. He worked as a nightclub bouncer, where customers lost or left behind gold chains, and he began wearing them. Putting on all his chains took close to an hour. In 1980 he won an NBC bouncer contest, and Sylvester Stallone noticed him and cast him in Rocky III. It opened in 1982.",
+    "hashtags": [
+      "#mrt",
+      "#goldchains",
+      "#rocky",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mr._T",
+    "https://www.britannica.com/biography/Mr-T",
+    "https://www.biography.com/movies-tv/a73640086/mr-t-pity-the-fool-untold",
+    "https://www.ladbible.com/news/why-mr-t-stopped-wearing-gold-chains-004124-20221207",
+    "https://thevintagenews.com/2022/12/14/mr-t-gold-chains"
+  ],
+  "images": [
+    {
+      "src": "453-mr-t-s-gold-chains-were-lost-property-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Fotopersbureau De Boer",
+      "page": "https://commons.wikimedia.org/wiki/File:Aankomst_'_The_A-Team'_op_Circuit_Zandvoort,_tv-serie_1984_-_15_(cropped-2).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

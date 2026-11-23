@@ -1,0 +1,182 @@
+{
+  "id": "456-nick-cannon-s-loafers-wore-14-000-diamonds",
+  "number": 456,
+  "title": "Nick Cannon's loafers wore 14,000 diamonds",
+  "style": "gouache",
+  "topic": "nick cannon diamond loafers tom ford america's got talent finale 2014 jason of beverly hills arasheben 14000 diamonds 340 carats white gold",
+  "music": "music-456.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "yellow",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Nick Cannon's loafers wore 14,000 diamonds.",
+    "gold": [
+      "loafers",
+      "14,000"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Nick Cannon's loafers wore 14,000 diamonds.",
+      "say": "Nick Cannon's loafers wore fourteen thousand diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At the America's Got Talent finale, he wore diamond covered shoes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "America's Got Talent"
+      }
+    },
+    {
+      "text": "The finale was in September 2014.",
+      "say": "The finale was in September twenty fourteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "September 2014"
+      }
+    },
+    {
+      "text": "They were Tom Ford loafers.",
+      "scene": {
+        "kind": "real",
+        "src": "456-nick-cannon-s-loafers-wore-14-000-diamonds-0.jpg",
+        "fit": "card",
+        "label": "A loafer",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A Beverly Hills jeweler named Jason Arasheben set the stones.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Jason Arasheben"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "The diamonds were set in white gold.",
+      "scene": {
+        "kind": "real",
+        "src": "456-nick-cannon-s-loafers-wore-14-000-diamonds-1.jpg",
+        "fit": "card",
+        "label": "A diamond",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The shoes took close to a year to make.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Close to a year"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "More than 2,000 hours of work went into them.",
+      "say": "More than two thousand hours of work went into them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "2,000 hours"
+      }
+    },
+    {
+      "text": "Finding matching diamonds alone took four months.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Four months"
+      }
+    },
+    {
+      "text": "The jeweler said Cannon wanted to set a new standard in diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A new standard"
+      }
+    },
+    {
+      "text": "Together, the diamonds weigh about 340 carats.",
+      "say": "Together, the diamonds weigh about three hundred forty carats.",
+      "scene": {
+        "kind": "title",
+        "text": "340 carats",
+        "sub": "In all",
+        "piece": "brooch",
+        "stone": "citrine",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Nick Cannon's loafers wore 14,000 diamonds. At the America's Got Talent finale in September 2014, host Nick Cannon wore diamond covered Tom Ford loafers. Beverly Hills jeweler Jason Arasheben set the stones in white gold. The shoes took close to a year to make and more than 2,000 hours of work, and finding matching diamonds alone took four months. The jeweler said Cannon wanted to set a new standard in diamonds. Together the stones weigh about 340 carats.",
+    "hashtags": [
+      "#nickcannon",
+      "#diamonds",
+      "#agt",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etonline.com/fashion/151294_nick_cannon_wears_two_million_dollar_tom_ford_shoes_on_america_got_talent_finale",
+    "https://www.complex.com/style/2014/09/nick-cannon-2-million-dollar-shoes",
+    "https://www.bet.com/article/i6z4ra/nick-cannon-wears-usd2-million-loafers-on-america-s-got-talent",
+    "https://marieclaire.co.uk/fashion/these-are-the-craziest-celebrity-diamond-requests-671598"
+  ],
+  "images": [
+    {
+      "src": "456-nick-cannon-s-loafers-wore-14-000-diamonds-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Wikipedia-ce",
+      "page": "https://commons.wikimedia.org/wiki/File:A_Penny_Loafer.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "456-nick-cannon-s-loafers-wore-14-000-diamonds-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Roman Köhler",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamond_Hoax_P4212651.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "455-kidman-s-film-necklace-held-1-308-diamonds",
+  "number": 455,
+  "title": "Kidman's film necklace held 1,308 diamonds",
+  "style": "deco",
+  "topic": "nicole kidman moulin rouge satine necklace stefano canturi 1308 diamonds 134 carats white gold sri lankan sapphire christie's 2001 baz luhrmann",
+  "music": "music-455.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "sapphire",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Kidman's film necklace held 1,308 diamonds.",
+    "gold": [
+      "film",
+      "1,308"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kidman's film necklace held 1,308 diamonds.",
+      "say": "Kidman's film necklace held one thousand three hundred eight diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It was made for her role as Satine in Moulin Rouge.",
+      "scene": {
+        "kind": "real",
+        "src": "455-kidman-s-film-necklace-held-1-308-diamonds-0.jpg",
+        "fit": "card",
+        "label": "Moulin Rouge, Paris",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Sydney jeweler Stefano Canturi made it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Stefano Canturi"
+      }
+    },
+    {
+      "text": "It is made of eighteen karat white gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "White gold"
+      }
+    },
+    {
+      "text": "A 2.5 carat blue sapphire from Sri Lanka sits at the clasp.",
+      "say": "A two point five carat blue sapphire from Sri Lanka sits at the clasp.",
+      "scene": {
+        "kind": "title",
+        "text": "Sri Lanka",
+        "sub": "The clasp",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A wire model was built from Kidman's neck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A wire model"
+      }
+    },
+    {
+      "text": "Designing and making it took about four months in all.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Four months"
+      }
+    },
+    {
+      "text": "Satine wore real jewels while the other dancers wore fakes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "Real jewels"
+      }
+    },
+    {
+      "text": "Christie's planned to sell it in 2001, but Canturi kept it.",
+      "say": "Christie's planned to sell it in two thousand one, but Canturi kept it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Christie's, 2001"
+      }
+    },
+    {
+      "text": "The 1,308 diamonds weigh about 134 carats.",
+      "say": "The one thousand three hundred eight diamonds weigh about one hundred thirty four carats.",
+      "scene": {
+        "kind": "title",
+        "text": "134 carats",
+        "sub": "In all",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Kidman's film necklace held 1,308 diamonds. It was made for her role as Satine in Moulin Rouge, by Sydney jeweler Stefano Canturi. It is made of eighteen karat white gold, with a 2.5 carat blue sapphire from Sri Lanka at the clasp. A wire model was built from Kidman's neck, and designing and making it took about four months. Satine wore real jewels while the other dancers wore fakes. Christie's planned to sell the necklace in 2001, but Canturi kept it. The 1,308 diamonds weigh about 134 carats.",
+    "hashtags": [
+      "#nicolekidman",
+      "#moulinrouge",
+      "#canturi",
+      "#filmjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.hellomagazine.com/film/2001/08/20/nicolenecklace/",
+    "https://www.jckonline.com/?p=42264",
+    "https://www.irishtimes.com/business/moulin-rouge-gems-up-for-grabs-1.333057",
+    "https://www.womanandhome.com/us/life/news-entertainment/the-dollar25-million-necklace-worn-by-nicole-kidman-which-required-two-bodyguards-of-its-own/"
+  ],
+  "images": [
+    {
+      "src": "455-kidman-s-film-necklace-held-1-308-diamonds-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Moulin_Rouge_signage_(2019-02-09_18.26.59_Piqsels.com_en).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

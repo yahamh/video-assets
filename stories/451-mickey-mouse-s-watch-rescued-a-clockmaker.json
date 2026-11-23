@@ -1,0 +1,172 @@
+{
+  "id": "451-mickey-mouse-s-watch-rescued-a-clockmaker",
+  "number": 451,
+  "title": "Mickey Mouse's watch rescued a clockmaker",
+  "style": "jewelbox",
+  "topic": "mickey mouse watch ingersoll waterbury clock company great depression kay kamen 1933 chicago world's fair macy's 11000 watches walt disney 25 millionth 1957",
+  "music": "music-451.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "topaz",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Mickey Mouse's watch rescued a clockmaker.",
+    "gold": [
+      "watch",
+      "clockmaker."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mickey Mouse's watch rescued a clockmaker.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the Great Depression, a Connecticut clock company was near bankruptcy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Near bankruptcy"
+      }
+    },
+    {
+      "text": "Disney's licensing agent Kay Kamen arranged a Mickey Mouse watch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Kay Kamen"
+      }
+    },
+    {
+      "text": "The company sold it under the Ingersoll name.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Ingersoll"
+      }
+    },
+    {
+      "text": "The watch debuted at the 1933 Chicago World's Fair.",
+      "say": "The watch debuted at the nineteen thirty three Chicago World's Fair.",
+      "scene": {
+        "kind": "real",
+        "src": "451-mickey-mouse-s-watch-rescued-a-clockmaker-0.jpg",
+        "fit": "card",
+        "label": "Chicago World's Fair, 1933",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Walt Disney reportedly thought it would never sell.",
+      "scene": {
+        "kind": "real",
+        "src": "451-mickey-mouse-s-watch-rescued-a-clockmaker-1.jpg",
+        "fit": "card",
+        "label": "Walt Disney, 1935",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "On one day at Macy's in New York, it sold 11,000 watches.",
+      "say": "On one day at Macy's in New York, it sold eleven thousand watches.",
+      "scene": {
+        "kind": "title",
+        "text": "11,000",
+        "sub": "At Macy's",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 9
+      }
+    },
+    {
+      "text": "More than two million sold in about two years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Two million"
+      }
+    },
+    {
+      "text": "The hit rescued the company and brought money to Disney.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A rescued company"
+      }
+    },
+    {
+      "text": "In 1957, Walt Disney was handed the 25 millionth watch.",
+      "say": "In nineteen fifty seven, Walt Disney was handed the twenty five millionth watch.",
+      "scene": {
+        "kind": "title",
+        "text": "1957",
+        "sub": "25 millionth",
+        "piece": "brooch",
+        "stone": "peridot",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Mickey Mouse's watch rescued a clockmaker. In the Great Depression, a Connecticut clock company was near bankruptcy. Disney's licensing agent Kay Kamen arranged a Mickey Mouse watch with it, and the watch debuted at the 1933 Chicago World's Fair. Walt Disney reportedly thought it would never sell. On one day at Macy's in New York it sold 11,000 watches, and more than two million sold in about two years. The hit rescued the company and brought money to Disney. In 1957, Walt Disney was handed the 25 millionth watch.",
+    "hashtags": [
+      "#mickeymouse",
+      "#disney",
+      "#ingersoll",
+      "#vintagewatches",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://connecticuthistory.org/waterbury-clock-company-saved-by-mickey-mouse-who-knew/",
+    "https://newenglandhistoricalsociety.com/the-mickey-mouse-watch-is-born-in-connecticut/",
+    "https://www.waltdisney.org/blog/selling-mickey-rise-disney-marketing",
+    "https://mouseplanet.com/the-mickey-mouse-watch/5754/",
+    "https://en.wikipedia.org/wiki/Kay_Kamen"
+  ],
+  "images": [
+    {
+      "src": "451-mickey-mouse-s-watch-rescued-a-clockmaker-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Weimer Pursell, silkscreen print by Neely Printing Co., Chicago",
+      "page": "https://commons.wikimedia.org/wiki/File:Chicago_world's_fair,_a_century_of_progress,_expo_poster,_1933,_2.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "451-mickey-mouse-s-watch-rescued-a-clockmaker-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Agence de presse Meurisse",
+      "page": "https://commons.wikimedia.org/wiki/File:Walt_Disney_1935.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

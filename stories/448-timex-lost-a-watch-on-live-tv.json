@@ -1,0 +1,174 @@
+{
+  "id": "448-timex-lost-a-watch-on-live-tv",
+  "number": 448,
+  "title": "Timex lost a watch on live TV",
+  "style": "jewelbox",
+  "topic": "timex swayze live tv torture test outboard motor lost watch waterbury clock company 1950 takes a licking one in three",
+  "music": "music-448.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "sapphire",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Timex lost a watch on live TV.",
+    "gold": [
+      "lost",
+      "TV."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Timex lost a watch on live TV.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Timex grew out of a Connecticut clock company founded in 1854.",
+      "say": "Timex grew out of a Connecticut clock company founded in eighteen fifty four.",
+      "scene": {
+        "kind": "real",
+        "src": "448-timex-lost-a-watch-on-live-tv-0.jpg",
+        "fit": "card",
+        "label": "Waterbury Clock Company",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its first wristwatch came out in 1950.",
+      "say": "Its first wristwatch came out in nineteen fifty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "The first Timex"
+      }
+    },
+    {
+      "text": "The ads showed watches surviving torture tests.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Torture tests"
+      }
+    },
+    {
+      "text": "In 1956, Timex took those tests to live television.",
+      "say": "In nineteen fifty six, Timex took those tests to live television.",
+      "scene": {
+        "kind": "title",
+        "text": "1956",
+        "sub": "Live TV",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Former news anchor John Cameron Swayze hosted them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The host, Swayze"
+      }
+    },
+    {
+      "text": "In one live ad, he strapped a watch to an outboard motor.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "peridot",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "An outboard motor"
+      }
+    },
+    {
+      "text": "He lowered it into a tank and ran the motor.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A tank of water"
+      }
+    },
+    {
+      "text": "When he tipped the blades up, the watch was gone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "The watch was gone"
+      }
+    },
+    {
+      "text": "He said it was probably at the bottom, still ticking.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Still ticking"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "By 1962, about a third of American watch sales were Timex.",
+      "say": "By nineteen sixty two, about a third of American watch sales were Timex.",
+      "scene": {
+        "kind": "title",
+        "text": "1962",
+        "sub": "A third",
+        "piece": "earrings",
+        "stone": "topaz",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Timex lost a watch on live TV. Timex grew out of a Connecticut clock company founded in 1854, and its first wristwatch came out in 1950. Its ads showed watches surviving torture tests, and in 1956 the tests moved to live television with former news anchor John Cameron Swayze. In one live ad he strapped a watch to an outboard motor, lowered it into a tank, and when he tipped the blades up the watch was gone. He said it was probably at the bottom, still ticking. By 1962, about a third of American watch sales were Timex.",
+    "hashtags": [
+      "#timex",
+      "#vintagewatches",
+      "#wristwatch",
+      "#tvhistory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Cameron_Swayze",
+    "https://pophistorydig.com/?p=3136",
+    "https://www.coronet.org/new-long-reads/the-timex-torture-tests-of-the-1950s",
+    "https://en.wikipedia.org/wiki/Timex_Group_USA"
+  ],
+  "images": [
+    {
+      "src": "448-timex-lost-a-watch-on-live-tv-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "D.H. Hurd & Co. Gilbert, Frank M.",
+      "page": "https://commons.wikimedia.org/wiki/File:Works_of_the_Waterbury_Clock_Company,_Waterbury,_Conn._Movement_Department._(with)_Case_Department._F.M._Gilbert_'93._D.H._Hurd_(IA_dr_works-of-the-waterbury-clock-company-waterbury-conn-movement-department-01114195).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

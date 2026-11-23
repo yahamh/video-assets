@@ -1,0 +1,163 @@
+{
+  "id": "452-dorothy-s-ruby-slippers-had-no-rubies",
+  "number": 452,
+  "title": "Dorothy's ruby slippers had no rubies",
+  "style": "deco",
+  "topic": "dorothy ruby slippers wizard of oz 1939 sequins technicolor innes shoe company silver baum smithsonian winston real rubies size four",
+  "music": "music-452.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "pink",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Dorothy's ruby slippers had no rubies.",
+    "gold": [
+      "slippers",
+      "rubies."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Dorothy's ruby slippers had no rubies.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the book, Dorothy's magic shoes are silver.",
+      "scene": {
+        "kind": "title",
+        "text": "Silver",
+        "sub": "In the book",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The 1939 film made them red to stand out in Technicolor.",
+      "say": "The nineteen thirty nine film made them red to stand out in Technicolor.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The yellow brick road"
+      }
+    },
+    {
+      "text": "They began as plain white silk pumps, dyed red.",
+      "scene": {
+        "kind": "real",
+        "src": "452-dorothy-s-ruby-slippers-had-no-rubies-0.jpg",
+        "fit": "card",
+        "label": "A pair of ruby slippers",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Instead of gems, they were covered in sequins.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "Sequins"
+      }
+    },
+    {
+      "text": "The sequins had to be dark red, since bright red looked orange.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Dark red sequins"
+      }
+    },
+    {
+      "text": "Only four of the film pairs are known to survive.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Four survive"
+      }
+    },
+    {
+      "text": "The Smithsonian's pair has been in its collection since 1979.",
+      "say": "The Smithsonian's pair has been in its collection since nineteen seventy nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "The Smithsonian"
+      }
+    },
+    {
+      "text": "For the fiftieth anniversary, a Winston jeweler made a real ruby pair.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Real rubies"
+      }
+    },
+    {
+      "text": "That jeweled pair is a size four.",
+      "scene": {
+        "kind": "title",
+        "text": "Size four",
+        "sub": "The jeweled pair",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Dorothy's ruby slippers had no rubies. In the book, Dorothy's magic shoes are silver, but the 1939 film made them red so they would stand out on the yellow brick road. They began as plain white silk pumps from the Innes Shoe Company, dyed red and covered in sequins. The sequins had to be dark red because bright red looked orange in Technicolor. MGM made several pairs and only four film pairs are known to survive. The Smithsonian's pair has been in its collection since 1979. For the film's fiftieth anniversary, a Winston jewelry firm made a pair with real rubies and diamonds in size four.",
+    "hashtags": [
+      "#wizardofoz",
+      "#rubyslippers",
+      "#judygarland",
+      "#movieprops",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ruby_slipper",
+    "https://www.vam.ac.uk/mused/films-shows/wizard-of-oz-amazing-facts-about-the-ruby-slippers/",
+    "https://si.edu/object/dorothys-ruby-slippers:nmah_670130",
+    "https://www.todayifoundout.com/?p=42961",
+    "https://convocations.purdue.edu/click-your-heels-three-times-the-ruby-slippers/"
+  ],
+  "images": [
+    {
+      "src": "452-dorothy-s-ruby-slippers-had-no-rubies-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "JadeChameleon",
+      "page": "https://commons.wikimedia.org/wiki/File:Acadedemy_of_Motion_Picture_Arts_and_Sciences_Ruby_Slippers_2022.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

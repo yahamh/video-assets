@@ -1,0 +1,175 @@
+{
+  "id": "454-oprah-gave-6-000-people-diamond-necklaces",
+  "number": 454,
+  "title": "Oprah gave 6,000 people diamond necklaces",
+  "style": "jewelbox",
+  "topic": "oprah winfrey 6000 audience diamond necklaces argyle mine rio tinto sydney opera house december 2010 final season seven diamonds",
+  "music": "music-454.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Oprah gave 6,000 people diamond necklaces.",
+    "gold": [
+      "6,000",
+      "necklaces."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Oprah gave 6,000 people diamond necklaces.",
+      "say": "Oprah gave six thousand people diamond necklaces.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Her talk show was in its final season, the twenty fifth.",
+      "scene": {
+        "kind": "real",
+        "src": "454-oprah-gave-6-000-people-diamond-necklaces-0.jpg",
+        "fit": "card",
+        "label": "Oprah Winfrey, 2016",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In December 2010, she taped a run of shows in Australia.",
+      "say": "In December twenty ten, she taped a run of shows in Australia.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Australia"
+      }
+    },
+    {
+      "text": "The last one was taped at the Sydney Opera House.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Sydney Opera House"
+      }
+    },
+    {
+      "text": "First, Oprah gave six friends diamond necklaces on stage.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Six friends"
+      }
+    },
+    {
+      "text": "Then she said the mine had found 6,000 more.",
+      "say": "Then she said the mine had found six thousand more.",
+      "scene": {
+        "kind": "title",
+        "text": "6,000",
+        "sub": "More necklaces",
+        "piece": "necklace",
+        "stone": "morganite",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Everyone in the audience went home with one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Everyone got one"
+      }
+    },
+    {
+      "text": "Each guest got a voucher and registered online for delivery.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A voucher"
+      }
+    },
+    {
+      "text": "It was a limited edition white gold necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "White gold"
+      }
+    },
+    {
+      "text": "Argyle is a diamond mine in Western Australia, owned by Rio Tinto.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "The Argyle mine"
+      }
+    },
+    {
+      "text": "Every necklace held seven diamonds from that mine.",
+      "scene": {
+        "kind": "title",
+        "text": "Seven",
+        "sub": "Argyle diamonds",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Oprah gave 6,000 people diamond necklaces. Her talk show was in its final season, the twenty fifth, and in December 2010 she taped a run of shows in Australia that ended at the Sydney Opera House. Oprah first gave six friends diamond necklaces on stage, then said the mine had found 6,000 more. Everyone in the audience went home with one, after getting a voucher and registering online for delivery. It was a limited edition white gold necklace, and every one held seven diamonds from the Argyle mine in Western Australia.",
+    "hashtags": [
+      "#oprah",
+      "#diamonds",
+      "#argyle",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.jckonline.com/?p=24080",
+    "https://idexonline.com/FullArticle?Id=34940",
+    "https://www.oprah.com/oprahshow/memorable-moments-australia-adventure-finale",
+    "https://stagecdn.crikey.com.au/?p=193040",
+    "https://www.pricescope.com/blog/oprahs-pink-diamond-giveaway"
+  ],
+  "images": [
+    {
+      "src": "454-oprah-gave-6-000-people-diamond-necklaces-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "US Embassy South Africa",
+      "page": "https://commons.wikimedia.org/wiki/File:Oprah_Winfrey_2016.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
