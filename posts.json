@@ -5608,7 +5608,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3078049765866534",
+      "instagram": "https://www.instagram.com/reel/DgF347oAs2T/"
+    }
   },
   "388-found-in-a-shovelful-of-gravel": {
     "at": "2026-11-23T17:30:00Z",
@@ -6092,6 +6097,16 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "447-stefani-s-ring-rode-in-a-truck-door": {
+    "at": "2026-11-25T03:00:00Z",
+    "zernio_id": "6b047a6fa06cfe32b964339f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
