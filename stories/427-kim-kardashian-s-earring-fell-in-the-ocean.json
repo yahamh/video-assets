@@ -1,0 +1,174 @@
+{
+  "id": "427-kim-kardashian-s-earring-fell-in-the-ocean",
+  "number": 427,
+  "title": "Kim Kardashian's earring fell in the ocean",
+  "style": "jewelbox",
+  "topic": "kim kardashian diamond earring bora bora 2011 keeping up with the kardashians kylie jenner goggles found it paddleboard joke 2018 first big purchases not insured call her daddy 2025",
+  "music": "music-427.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Kim Kardashian's earring fell in the ocean.",
+    "gold": [
+      "earring",
+      "ocean."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kim Kardashian's earring fell in the ocean.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2011, the Kardashians filmed a family trip to Bora Bora.",
+      "say": "In twenty eleven, the Kardashians filmed a family trip to Bora Bora.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Bora Bora, 2011"
+      }
+    },
+    {
+      "text": "She was tossed into the water and lost a diamond earring.",
+      "scene": {
+        "kind": "piece",
+        "label": "One diamond earring"
+      }
+    },
+    {
+      "text": "Kim cried over it on camera.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 7,
+        "metal": "platinum",
+        "label": "She cried on camera"
+      }
+    },
+    {
+      "text": "Her sister Kylie put on goggles and dived in.",
+      "scene": {
+        "kind": "real",
+        "src": "427-kim-kardashian-s-earring-fell-in-the-ocean-0.jpg",
+        "fit": "card",
+        "label": "Pool goggles",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Kylie found the earring, so Kim kept the pair.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Kylie found it"
+      }
+    },
+    {
+      "text": "Fans turned the scene into a running joke.",
+      "scene": {
+        "kind": "title",
+        "text": "Running joke",
+        "sub": "Fans online",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "round",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "In 2018, fans were still asking on Twitter if she found it.",
+      "say": "In twenty eighteen, fans were still asking on Twitter if she found it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Still a joke"
+      }
+    },
+    {
+      "text": "In 2025, Kim said those were among her first big purchases.",
+      "say": "In twenty twenty five, Kim said those were among her first big purchases.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Among her first big buys"
+      }
+    },
+    {
+      "text": "She said they were not even insured yet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "stones": 11,
+        "label": "Not even insured"
+      }
+    },
+    {
+      "text": "The episode aired on 28 August 2011.",
+      "say": "The episode aired on August twenty eighth, twenty eleven.",
+      "scene": {
+        "kind": "title",
+        "text": "Aug 28, 2011",
+        "sub": "The episode",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Kim Kardashian's earring fell in the ocean. In 2011, the Kardashians filmed a family trip to Bora Bora. Kim was tossed into the water and lost a diamond earring, and she cried over it on camera. Her sister Kylie put on goggles, dived in and found it, so Kim kept the pair. Fans turned the scene into a running joke, and in 2018 they were still asking on Twitter if she found it. In 2025, Kim said the earrings were among her first big purchases and were not even insured yet. The episode aired on August 28, 2011.",
+    "hashtags": [
+      "#kimkardashian",
+      "#kyliejenner",
+      "#diamondearrings",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://dailydot.com/upstream/kim-kardashian-ocean-diamond-earrings",
+    "https://www.aol.com/articles/kim-kardashian-explains-why-she-153322917.html",
+    "https://www.nylon.com/articles/kim-kardashian-paddleboard-earring-joke",
+    "https://thetab.com/realityshrine/2025/10/15/kim-kardashian-reveals-why-she-was-so-devastatingly-upset-about-losing-her-diamond-earrings/",
+    "https://www.newsweek.com/kim-kardashian-diamond-earring-kourtney-instagram-turks-caicos-1887816"
+  ],
+  "images": [
+    {
+      "src": "427-kim-kardashian-s-earring-fell-in-the-ocean-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Maarten van den Heuvel mvdheuvel",
+      "page": "https://commons.wikimedia.org/wiki/File:Pool_Goggles_(Unsplash).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
