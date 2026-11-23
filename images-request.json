@@ -1,27 +1,158 @@
 {
  "queries": [
   {
-   "key": "h-tiffany",
+   "key": "h-gaga",
    "commons": [
-    "Tiffany & Co. flagship store New York",
-    "Tiffany blue box",
-    "Tiffany and Co. store window",
-    "Tiffany & Co. Fifth Avenue 2019",
-    "Tiffany & Co. store",
-    "Tiffany Blue"
+    "Tiffany Diamond",
+    "Tiffany Yellow Diamond",
+    "Tiffany & Co. Fifth Avenue flagship",
+    "Taco Bell restaurant",
+    "Lady Gaga 2019",
+    "Lady Gaga Academy Awards",
+    "91st Academy Awards"
    ],
    "max": 7
   },
   {
-   "key": "h-bacon",
+   "key": "h-kidman",
    "commons": [
-    "Kevin Bacon",
-    "Kyra Sedgwick",
-    "Christmas stocking",
-    "Engagement ring box",
-    "Solitaire diamond ring",
-    "Kevin Bacon 2013",
-    "Kevin Bacon actor"
+    "Nicole Kidman",
+    "Dolby Theatre",
+    "Harry Winston diamond",
+    "California sea lion clapping",
+    "Harry Winston store",
+    "89th Academy Awards",
+    "Academy Awards red carpet 2017"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-elton",
+   "commons": [
+    "Elton John",
+    "Elton John 2012",
+    "Patella kneecap",
+    "Theo Fennell",
+    "Elton John concert",
+    "Human knee anatomy",
+    "Gray's Anatomy patella"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-mariah",
+   "commons": [
+    "Ring Pop",
+    "Empire State Building purple",
+    "Mariah Carey",
+    "Mariah Carey 2008",
+    "Candy ring",
+    "Manhattan rooftop view",
+    "Emerald cut diamond ring"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-rock",
+   "commons": [
+    "Rolex Datejust",
+    "Rolex Oyster Perpetual",
+    "Rolex watch",
+    "WWE ring ropes",
+    "Wrestling ring",
+    "Dwayne Johnson",
+    "Dwayne Johnson wrestling"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-driver",
+   "commons": [
+    "Shrine Auditorium",
+    "Minnie Driver",
+    "70th Academy Awards",
+    "Ruby beads",
+    "Ruby bracelet",
+    "Robin Williams",
+    "Good Will Hunting"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-cryer",
+   "commons": [
+    "Vancouver Seawall",
+    "Stanley Park Seawall",
+    "Metal detector",
+    "Metal detecting gold ring",
+    "Jon Cryer",
+    "Wedding ring gold",
+    "Supergirl TV series Vancouver"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-warhol",
+   "commons": [
+    "Cartier Tank watch",
+    "Andy Warhol",
+    "Andy Warhol 1977",
+    "Cartier Rue de la Paix",
+    "Warhol Factory",
+    "Wristwatch Cartier",
+    "Andy Warhol Jack Mitchell"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-drake",
+   "commons": [
+    "Drake chain",
+    "Drake concert",
+    "State Farm Arena",
+    "Drake 2016",
+    "Diamond necklace white gold",
+    "Alex Moss jeweler",
+    "Lil Baby"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-shelton",
+   "commons": [
+    "Blake Shelton",
+    "Gwen Stefani",
+    "Pickup truck door",
+    "Oklahoma ranch",
+    "Fireplace fire starter",
+    "Gwen Stefani 2012",
+    "Blake Shelton 2012"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-offerman",
+   "commons": [
+    "Nick Offerman",
+    "Megan Mullally",
+    "Eiffel Tower summit",
+    "Regent's Park rose garden",
+    "Paris storm drain grate",
+    "Walnut ring box",
+    "Nick Offerman 2013"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-katy",
+   "commons": [
+    "Katy Perry",
+    "Orlando Bloom",
+    "Helicopter aerial Los Angeles",
+    "Jimmy Kimmel Live",
+    "Champagne bottle",
+    "Katy Perry 2018",
+    "Ring box"
    ],
    "max": 7
   }
