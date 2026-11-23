@@ -1,54 +1,145 @@
 {
  "queries": [
   {
-   "key": "h-faberge",
+   "key": "h-halle",
    "commons": [
-    "Faberg\u00e9 egg",
-    "Cary Grant publicity photograph",
-    "Peter Carl Faberg\u00e9",
-    "Faberg\u00e9 Walters Art Museum",
-    "Perfume bottle cologne",
-    "Cary Grant",
-    "Faberg\u00e9 jewelry"
+    "Pumpkin Diamond",
+    "Orange diamond",
+    "Harry Winston Fifth Avenue",
+    "Halle Berry",
+    "Halle Berry Academy Awards",
+    "Oscar statuette",
+    "Fancy vivid orange diamond"
    ],
    "max": 7
   },
   {
-   "key": "h-shrine",
+   "key": "h-kelce",
    "commons": [
-    "Shrine Auditorium Los Angeles",
-    "Shrine Civic Auditorium",
-    "Shrine Auditorium exterior",
-    "Academy Awards 1998",
-    "Ruby necklace beads",
-    "Robin Williams",
-    "Minnie Driver"
+    "Arrowhead Stadium",
+    "Friendship bracelet",
+    "Travis Kelce",
+    "Taylor Swift Eras Tour",
+    "Kansas City Chiefs Arrowhead",
+    "Beaded bracelet",
+    "Old mine cut diamond"
    ],
    "max": 7
   },
   {
-   "key": "h-tiffany5",
+   "key": "h-jackie",
    "commons": [
-    "Tiffany & Co. Fifth Avenue",
-    "Tiffany flagship store Fifth Avenue",
-    "Tiffany Yellow Diamond",
-    "Yellow diamond Tiffany",
-    "Audrey Hepburn Breakfast at Tiffany's",
-    "Madonna singer",
-    "Graham Norton"
+    "Jacqueline Kennedy pearls",
+    "Jacqueline Kennedy 1961",
+    "Jacqueline Kennedy portrait",
+    "Three strand pearl necklace",
+    "National Museum of American History",
+    "Faux pearls necklace",
+    "Pearl necklace"
    ],
    "max": 7
   },
   {
-   "key": "h-oscarstage",
+   "key": "h-walters",
    "commons": [
-    "Dolby Theatre Hollywood",
-    "Dolby Theatre red carpet",
-    "Oscars red carpet",
-    "Academy Awards ceremony stage",
-    "Hollywood and Highland",
-    "Harry Winston ring",
-    "Nicole Kidman Academy Awards"
+    "Julie Walters",
+    "Royal Opera House Covent Garden",
+    "BAFTA mask",
+    "British Academy Film Awards 2016",
+    "Diamond earrings",
+    "Drop earrings diamond",
+    "Brooklyn 2015 film"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-collins",
+   "commons": [
+    "Lily Collins",
+    "Met Gala 2019",
+    "Cartier emerald necklace",
+    "Cartier high jewelry",
+    "Costume Institute Metropolitan Museum",
+    "Cartier Paris Rue de la Paix",
+    "Emerald necklace diamonds"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-dolly",
+   "commons": [
+    "Dolly Parton",
+    "Dolly Parton 2016",
+    "Sears catalog",
+    "Sears store 1960s",
+    "Ringgold Georgia",
+    "Wedding rings",
+    "Dollywood"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-offerman",
+   "commons": [
+    "Eiffel Tower summit",
+    "Eiffel Tower top",
+    "Regent's Park Queen Mary's Gardens",
+    "Paris sewer grate",
+    "Nick Offerman",
+    "Walnut wood box",
+    "Megan Mullally"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-dietrich",
+   "commons": [
+    "Marlene Dietrich",
+    "Marlene Dietrich 1930s",
+    "Stage Fright 1950",
+    "Van Cleef & Arpels",
+    "Ruby bracelet",
+    "Academy Awards 1951",
+    "Garter"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-yeoh",
+   "commons": [
+    "Michelle Yeoh",
+    "Crazy Rich Asians",
+    "Emerald ring",
+    "Emerald cut emerald",
+    "Singapore skyline",
+    "Michelle Yeoh Cannes",
+    "Michelle Yeoh premiere"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-starr",
+   "commons": [
+    "Amanda Holden",
+    "Britain's Got Talent",
+    "Padlock and key",
+    "Billiard ball",
+    "Stevie Starr",
+    "Diamond engagement ring",
+    "Piers Morgan"
+   ],
+   "max": 7
+  },
+  {
+   "key": "h-edison",
+   "commons": [
+    "Thomas Edison",
+    "Thomas Edison portrait",
+    "Kokichi Mikimoto",
+    "Mikimoto Pearl Island",
+    "Cultured pearl",
+    "Edison Menlo Park",
+    "Pearl necklace"
    ],
    "max": 7
   }
