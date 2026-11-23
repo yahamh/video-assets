@@ -5248,7 +5248,11 @@
     "zernio_id": "6b01d7a25bae532ebb641f5b",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgD_ZkyDxgu/"
+    }
   },
   "361-a-blue-diamond-cost-57-5-million": {
     "at": "2026-11-23T00:00:00Z",
@@ -5257,7 +5261,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2777970485991677",
+      "instagram": "https://www.instagram.com/reel/DgEC0pWGU2Z/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711150136138779924"
+    }
   },
   "362-clay-diggers-found-six-kilos-of-gold": {
     "at": "2026-11-23T00:30:00Z",
@@ -5265,7 +5275,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1640909407132654",
+      "instagram": "https://www.instagram.com/reel/DgEGSimDw9O/"
+    }
   },
   "363-princess-elizabeth-picked-her-own-wedding-gift": {
     "at": "2026-11-23T01:00:00Z",
@@ -5273,7 +5288,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2069508610427549",
+      "instagram": "https://www.instagram.com/reel/DgEJu_1DzOC/"
+    }
   },
   "364-bulgari-s-name-hides-a-roman-v": {
     "at": "2026-11-23T01:30:00Z",
@@ -5281,7 +5301,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgENGuNnUxU/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711172060730379572"
+    }
   },
   "365-a-pearl-that-grew-for-eighty-years": {
     "at": "2026-11-23T02:00:00Z",
@@ -5289,7 +5314,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1117286281107332",
+      "instagram": "https://www.instagram.com/reel/DgEQoYfAYZR/"
+    }
   },
   "366-van-cleef-s-jacques-arpels-gave-staff-clovers": {
     "at": "2026-11-23T02:30:00Z",
@@ -5297,7 +5327,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2209991659597951",
+      "instagram": "https://www.instagram.com/reel/DgET-UNk-wM/"
+    }
   },
   "367-something-old-was-missing-at-first": {
     "at": "2026-11-23T03:00:00Z",
@@ -5307,14 +5342,25 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=976139445264519",
+      "instagram": "https://www.instagram.com/reel/DgEXiQfnLm1/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711196720046148871",
+      "youtube": "https://www.youtube.com/watch?v=cCiBpk9cZc8"
+    }
   },
   "368-fans-helped-buy-back-jane-austen-s-ring": {
     "at": "2026-11-23T03:30:00Z",
     "zernio_id": "6b022e074b9d106f67876514",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgEa3QBD9as/"
+    }
   },
   "369-older-than-the-king-it-names": {
     "at": "2026-11-23T08:00:00Z",
@@ -5715,6 +5761,79 @@
     "zernio_id": "6b037dcbc27714f90d341fd8",
     "platforms": [
       "facebook",
+      "instagram"
+    ]
+  },
+  "418-scarlett-johansson-s-ring-hid-in-her-pocket": {
+    "at": "2026-11-24T12:30:00Z",
+    "zernio_id": "6b03d08105c9fe14d6c57b9e",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "419-ariana-s-tiffany-spree-became-a-hit": {
+    "at": "2026-11-24T13:00:00Z",
+    "zernio_id": "6b03d08405c9fe14d6c57bb5",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "420-pretty-woman-s-necklace-gag-wasn-t-scripted": {
+    "at": "2026-11-24T13:30:00Z",
+    "zernio_id": "6b03d08805c9fe14d6c57bca",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "421-elizabeth-taylor-s-italian-was-just-bulgari": {
+    "at": "2026-11-24T14:00:00Z",
+    "zernio_id": "6b03d08b90318f5661b1efdd",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "422-taylor-swift-s-ring-lost-its-diamond": {
+    "at": "2026-11-24T14:30:00Z",
+    "zernio_id": "6b03d08f90318f5661b1efec",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "423-golden-globes-carpet-swallowed-a-diamond": {
+    "at": "2026-11-24T15:00:00Z",
+    "zernio_id": "6b03d09305c9fe14d6c57c0f",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "424-one-cartier-necklace-is-two-crocodiles": {
+    "at": "2026-11-24T15:30:00Z",
+    "zernio_id": "6b03d097cb5c081bbb137d3e",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "425-t-pain-s-chain-began-as-a-dare": {
+    "at": "2026-11-24T16:00:00Z",
+    "zernio_id": "6b03d09acb5c081bbb137d53",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "426-kevin-bacon-s-first-ring-missed-the-mark": {
+    "at": "2026-11-24T16:30:00Z",
+    "zernio_id": "6b03d09e90318f5661b1f038",
+    "platforms": [
       "instagram"
     ]
   },
