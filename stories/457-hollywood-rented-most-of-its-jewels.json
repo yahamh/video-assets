@@ -1,0 +1,172 @@
+{
+  "id": "457-hollywood-rented-most-of-its-jewels",
+  "number": 457,
+  "title": "Hollywood rented most of its jewels",
+  "style": "jewelbox",
+  "topic": "joseff of hollywood eugene joseff rented film jewelry gold finish glare vivien leigh gone with the wind elizabeth taylor cleopatra marilyn monroe gentlemen prefer blondes 90 percent",
+  "music": "music-457.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "morganite",
+    "cut": "round",
+    "metal": "yellow",
+    "petals": 8
+  },
+  "hook": {
+    "text": "Hollywood rented most of its jewels.",
+    "gold": [
+      "rented",
+      "jewels."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hollywood rented most of its jewels.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Eugene Joseff urged studios to use jewelry from the right era.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Eugene Joseff"
+      }
+    },
+    {
+      "text": "Studios rented his pieces instead of buying them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Rented, not bought"
+      }
+    },
+    {
+      "text": "His special gold finish cut the glare of studio lights.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "No glare"
+      }
+    },
+    {
+      "text": "Vivien Leigh's jewelry in Gone with the Wind was his.",
+      "scene": {
+        "kind": "real",
+        "src": "457-hollywood-rented-most-of-its-jewels-0.jpg",
+        "fit": "card",
+        "label": "Vivien Leigh",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "So was Rhett Butler's cigar case.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A cigar case"
+      }
+    },
+    {
+      "text": "Elizabeth Taylor's jewelry in Cleopatra came from him too.",
+      "scene": {
+        "kind": "title",
+        "text": "Cleopatra",
+        "sub": "1963",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Marilyn Monroe wore his pieces in Gentlemen Prefer Blondes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "Gentlemen Prefer Blondes"
+      }
+    },
+    {
+      "text": "His pieces later appeared on television shows too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "On television"
+      }
+    },
+    {
+      "text": "His widow, Joan Castle Joseff, ran the company until 2010.",
+      "say": "His widow, Joan Castle Joseff, ran the company until twenty ten.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Until 2010"
+      }
+    },
+    {
+      "text": "His firm supplied an estimated 90 percent of film jewelry.",
+      "say": "His firm supplied an estimated ninety percent of film jewelry.",
+      "scene": {
+        "kind": "title",
+        "text": "90 percent",
+        "sub": "Of film jewelry",
+        "piece": "necklace",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Hollywood rented most of its jewels. Eugene Joseff urged studios to use jewelry from the right era, and they rented his pieces instead of buying them. His gold finish cut the glare of studio lights. Vivien Leigh's jewelry in Gone with the Wind was his, and so was Rhett Butler's cigar case. Elizabeth Taylor's jewelry in Cleopatra came from him too, and Marilyn Monroe wore his pieces in Gentlemen Prefer Blondes. His widow, Joan Castle Joseff, ran the company until 2010. His firm supplied an estimated ninety percent of film jewelry.",
+    "hashtags": [
+      "#hollywood",
+      "#joseff",
+      "#filmjewelry",
+      "#vivienleigh",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Joseff_of_Hollywood",
+    "https://www.collectorsweekly.com/articles/lost-hollywood-jewelry-trove-uncovered/",
+    "https://antiquetrader.com/collectibles/joseff-of-hollywood",
+    "https://www.jckonline.com/?p=18351"
+  ],
+  "images": [
+    {
+      "src": "457-hollywood-rented-most-of-its-jewels-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Vivien_Leigh_Gone_Wind2.jpg : Trailer screenshot derivative work: Wilfredor ( talk )",
+      "page": "https://commons.wikimedia.org/wiki/File:Vivien_Leigh_Gone_Wind_Restored.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
