@@ -1,41 +1,15 @@
 {
  "queries": [
   {
-   "key": "h-walters2",
+   "key": "h-shelton",
    "commons": [
-    "Royal Opera House",
-    "Royal Opera House London Covent Garden",
-    "BAFTA award",
-    "BAFTA Awards red carpet",
-    "Diamond earring",
-    "Earrings diamonds drop",
-    "Chandelier earrings"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-collins2",
-   "commons": [
-    "Cartier shop",
-    "Cartier boutique",
-    "Cartier Fifth Avenue mansion",
-    "Metropolitan Museum of Art facade",
-    "Emerald and diamond necklace",
-    "Met Gala red carpet",
-    "Cartier necklace"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-starr2",
-   "commons": [
-    "Padlock",
-    "Padlock and key",
-    "Billiard balls",
-    "Hammersmith Apollo",
-    "Diamond ring solitaire",
-    "Coins swallowed",
-    "Magician stage"
+    "Pickup truck door",
+    "Pickup truck",
+    "Blake Shelton",
+    "Gwen Stefani",
+    "Ranch Oklahoma",
+    "Fire starter",
+    "Kitchen cabinet"
    ],
    "max": 7
   }
