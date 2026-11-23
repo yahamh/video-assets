@@ -1,138 +1,27 @@
 {
  "queries": [
   {
-   "key": "h-prettywoman",
+   "key": "h-tiffany",
    "commons": [
-    "Beverly Wilshire Hotel",
-    "Rodeo Drive Beverly Hills",
-    "Garry Marshall",
-    "Julia Roberts",
-    "Richard Gere",
-    "Ruby necklace pear cut",
-    "Fred jeweler Paris",
-    "Pretty Woman 1990"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-ariana",
-   "commons": [
-    "Tiffany & Co. Fifth Avenue flagship",
+    "Tiffany & Co. flagship store New York",
     "Tiffany blue box",
+    "Tiffany and Co. store window",
+    "Tiffany & Co. Fifth Avenue 2019",
     "Tiffany & Co. store",
-    "Ariana Grande",
-    "Ariana Grande concert 2019",
-    "Champagne flutes",
-    "Diamond rings",
-    "Victoria Monet"
+    "Tiffany Blue"
    ],
    "max": 7
   },
   {
-   "key": "h-scarlett",
+   "key": "h-bacon",
    "commons": [
-    "Scarlett Johansson Comic-Con",
-    "Scarlett Johansson",
-    "Colin Jost",
-    "Dumpster New York",
-    "Light brown diamond ring",
-    "Comic-Con San Diego 2019",
-    "Jacket pocket"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-globes",
-   "commons": [
-    "Golden Globe Awards red carpet",
-    "Beverly Hilton Hotel",
-    "Golden Globe Awards 2024",
-    "Red carpet Hollywood",
-    "Round brilliant diamond",
-    "Diamond ring four carat",
-    "Golden Globe statuette"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-taylorvma",
-   "commons": [
-    "Prudential Center Newark",
-    "Taylor Swift Eras Tour",
-    "Taylor Swift 2023",
-    "MTV Video Music Awards 2023",
-    "Van Cleef & Arpels onyx ring",
-    "Van Cleef & Arpels Place Vendome",
-    "Onyx ring"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-croc",
-   "commons": [
-    "Maria Felix",
-    "Maria Felix 1940s",
-    "Cartier crocodile necklace",
-    "Cartier Rue de la Paix",
-    "Cartier Paris boutique",
-    "Crocodile jewelry",
-    "Yellow diamonds emeralds necklace",
-    "Baby crocodile"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-bulgari",
-   "commons": [
-    "Elizabeth Taylor Cleopatra",
-    "Elizabeth Taylor 1960s",
-    "Richard Burton",
-    "Via dei Condotti Rome",
-    "Bulgari Serpenti",
-    "Tubogas",
-    "Cinecitta Rome",
-    "Bulgari Rome store"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-tpain",
-   "commons": [
-    "T-Pain",
-    "T-Pain 2010",
-    "Gold chain necklace",
-    "Diamond chain",
-    "American Museum of Natural History Hall of Gems",
-    "Hip hop jewelry chain",
-    "Cuban link chain"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-nelly",
-   "commons": [
-    "Nelly rapper",
-    "Paul Wall",
-    "Grill dental jewelry",
-    "Grillz gold teeth",
-    "Sharpstown Mall Houston",
-    "Houston skyline",
-    "Johnny Dang",
-    "Jermaine Dupri"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-kim",
-   "commons": [
-    "Bora Bora lagoon",
-    "Bora Bora overwater bungalow",
-    "Kim Kardashian",
-    "Kim Kardashian 2011",
-    "Diamond stud earring",
-    "Snorkeling goggles",
-    "Kylie Jenner",
-    "Kourtney Kardashian"
+    "Kevin Bacon",
+    "Kyra Sedgwick",
+    "Christmas stocking",
+    "Engagement ring box",
+    "Solitaire diamond ring",
+    "Kevin Bacon 2013",
+    "Kevin Bacon actor"
    ],
    "max": 7
   }
