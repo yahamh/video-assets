@@ -5368,7 +5368,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=29862190230072348",
+      "instagram": "https://www.instagram.com/reel/DgE6N38DWDp/"
+    }
   },
   "370-a-silver-football-takes-four-months": {
     "at": "2026-11-23T08:30:00Z",
@@ -5377,14 +5382,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1460238736061027",
+      "instagram": "https://www.instagram.com/reel/DgE9eVxCVl-/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711282015982669057"
+    }
   },
   "371-one-diamond-got-22-000-name-entries": {
     "at": "2026-11-23T09:00:00Z",
     "zernio_id": "6b022e164096590dc2548fed",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgFA4sFjiyn/"
+    }
   },
   "372-the-taj-mahal-s-flowers-are-gemstones": {
     "at": "2026-11-23T09:30:00Z",
@@ -5392,7 +5407,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2834035770324025",
+      "instagram": "https://www.instagram.com/reel/DgFEPDdjI9m/"
+    }
   },
   "373-a-diamond-mine-named-fat-lake": {
     "at": "2026-11-23T10:00:00Z",
@@ -5401,7 +5421,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=28520004767672918",
+      "instagram": "https://www.instagram.com/reel/DgFHoIYj8T7/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711305057307741458"
+    }
   },
   "374-the-ring-that-switches-hands": {
     "at": "2026-11-23T10:30:00Z",
@@ -5410,14 +5436,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1852605142413117",
+      "instagram": "https://www.instagram.com/reel/DgFLCuOk3DO/",
+      "youtube": "https://www.youtube.com/watch?v=8C2aY7j45X0"
+    }
   },
   "375-pearl-necklace-lengths-have-stage-names": {
     "at": "2026-11-23T11:00:00Z",
     "zernio_id": "6b022e2a6d782fb6476a0edf",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgFOpVsj7Ga/"
+    }
   },
   "376-the-ton-of-gold-was-two": {
     "at": "2026-11-23T11:30:00Z",
@@ -5840,6 +5876,81 @@
   "427-kim-kardashian-s-earring-fell-in-the-ocean": {
     "at": "2026-11-24T17:00:00Z",
     "zernio_id": "6b03d2c1fb0729de29802a51",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "428-andy-warhol-never-wound-his-cartier": {
+    "at": "2026-11-24T17:30:00Z",
+    "zernio_id": "6b042293670239c777e163b4",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "429-gaga-s-diamond-almost-reached-taco-bell": {
+    "at": "2026-11-24T18:00:00Z",
+    "zernio_id": "6b042298244807a69145f846",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "430-schwarzenegger-crawled-for-ruby-beads": {
+    "at": "2026-11-24T18:30:00Z",
+    "zernio_id": "6b04229ce81d43eea73764e2",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "431-mariah-carey-s-diamond-hid-in-candy": {
+    "at": "2026-11-24T19:00:00Z",
+    "zernio_id": "6b04229fe81d43eea73764ff",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "432-kidman-s-seal-clap-protected-a-ring": {
+    "at": "2026-11-24T19:30:00Z",
+    "zernio_id": "6b0422a2670239c777e1644a",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "433-the-rock-s-rolex-broke-on-live-tv": {
+    "at": "2026-11-24T20:00:00Z",
+    "zernio_id": "6b0422a6670239c777e16461",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "434-jon-cryer-s-ring-vanished-in-rain": {
+    "at": "2026-11-24T20:30:00Z",
+    "zernio_id": "6b0422aa244807a69145f8d7",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "435-elton-john-s-kneecaps-became-a-necklace": {
+    "at": "2026-11-24T21:00:00Z",
+    "zernio_id": "6b0422afe81d43eea7376575",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "436-drake-s-chain-counts-unmade-proposals": {
+    "at": "2026-11-24T21:30:00Z",
+    "zernio_id": "6b0422b3670239c777e16498",
     "platforms": [
       "facebook",
       "instagram"
