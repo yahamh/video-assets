@@ -1,0 +1,169 @@
+{
+  "id": "430-schwarzenegger-crawled-for-ruby-beads",
+  "number": 430,
+  "title": "Schwarzenegger crawled for ruby beads",
+  "style": "jewelbox",
+  "topic": "minnie driver ruby bead bracelet broke 1998 oscars good will hunting robin williams james cameron arnold schwarzenegger crawled hands and knees four beads missing tonight show fallon 2026",
+  "music": "music-430.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "ruby",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Schwarzenegger crawled for ruby beads.",
+    "gold": [
+      "Schwarzenegger",
+      "beads."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Schwarzenegger crawled for ruby beads.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At the 1998 Oscars, Minnie Driver was nominated for Good Will Hunting.",
+      "say": "At the nineteen ninety eight Oscars, Minnie Driver was nominated for Good Will Hunting.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "Good Will Hunting"
+      }
+    },
+    {
+      "text": "She wore a bracelet of hundreds of ruby beads.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 18,
+        "label": "Hundreds of ruby beads"
+      }
+    },
+    {
+      "text": "It broke while she clapped for Robin Williams.",
+      "scene": {
+        "kind": "title",
+        "text": "It broke",
+        "sub": "Mid applause",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Robin Williams had just won Best Supporting Actor.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Best Supporting Actor"
+      }
+    },
+    {
+      "text": "The beads scattered across the floor.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Across the floor"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "Then James Cameron got down on his hands and knees.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "James Cameron"
+      }
+    },
+    {
+      "text": "So did Arnold Schwarzenegger.",
+      "scene": {
+        "kind": "title",
+        "text": "Arnold",
+        "sub": "Schwarzenegger",
+        "piece": "ring",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "oval"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "That same night, Cameron's Titanic won eleven Oscars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Titanic won eleven"
+      }
+    },
+    {
+      "text": "She told this story on The Tonight Show in March 2026.",
+      "say": "She told this story on The Tonight Show in March twenty twenty six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "On The Tonight Show"
+      }
+    },
+    {
+      "text": "In the end, only four beads were missing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Only four missing"
+      },
+      "hold": 0.7
+    }
+  ],
+  "post": {
+    "caption": "Schwarzenegger crawled for ruby beads. At the 1998 Oscars, Minnie Driver was nominated for Good Will Hunting and wore a bracelet of hundreds of ruby beads. It broke as she clapped for Robin Williams, and the beads scattered across the floor. James Cameron and Arnold Schwarzenegger got down on their hands and knees to find them. That same night Titanic won eleven Oscars. She told the story on The Tonight Show in March 2026: when she handed the pieces back, only four beads were missing.",
+    "hashtags": [
+      "#minniedriver",
+      "#oscars",
+      "#arnoldschwarzenegger",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.aol.com/articles/minnie-driver-says-arnold-schwarzenegger-145826051.html",
+    "https://www.netflixjunkie.com/hollywood-oscars-news-minnie-driver-tells-the-insane-oscar-story-of-james-cameron-arnold-schwarzenegger-and-crawling-on-all-fours/amp/",
+    "https://www.yahoo.com/entertainment/celebrity/articles/minnie-driver-recalls-breaking-bracelet-165734996.html",
+    "https://www.glam.com/2243308/minnie-driver-1998-oscars-look-nearly-fashion-fail/",
+    "https://en.wikipedia.org/wiki/70th_Academy_Awards",
+    "https://www.oscars.org/oscars/ceremonies/1998"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the subject: the Shrine Auditorium and Minnie Driver pictures on Commons are CC BY-SA, or show another building"
+}

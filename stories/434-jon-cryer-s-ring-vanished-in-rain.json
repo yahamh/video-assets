@@ -1,0 +1,183 @@
+{
+  "id": "434-jon-cryer-s-ring-vanished-in-rain",
+  "number": 434,
+  "title": "Jon Cryer's ring vanished in rain",
+  "style": "deco",
+  "topic": "jon cryer lost wedding ring vancouver seawall rain supergirl 2020 craigslist ring finders chris turner metal detector found three yards from glasses twitter thread",
+  "music": "music-434.wav",
+  "piece": {
+    "piece": "band",
+    "stone": "peridot",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Jon Cryer's ring vanished in rain.",
+    "gold": [
+      "ring",
+      "rain."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Jon Cryer's ring vanished in rain.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Jon Cryer was in Vancouver, filming Supergirl.",
+      "scene": {
+        "kind": "real",
+        "src": "434-jon-cryer-s-ring-vanished-in-rain-0.jpg",
+        "fit": "card",
+        "label": "Vancouver seawall",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "One rainy night, he pulled his hand from his pocket.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A rainy night"
+      }
+    },
+    {
+      "text": "He heard a ping, and his wedding ring was gone.",
+      "scene": {
+        "kind": "title",
+        "text": "A ping",
+        "sub": "In the rain",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A search by phone flashlight found nothing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A phone flashlight"
+      }
+    },
+    {
+      "text": "Next morning he saw a glint, which was a pair of glasses.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Just a pair of glasses"
+      }
+    },
+    {
+      "text": "So he posted on Craigslist and found a ring finding service.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "The Ring Finders"
+      }
+    },
+    {
+      "text": "A man named Chris Turner came with a metal detector.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A metal detector"
+      }
+    },
+    {
+      "text": "Turner said the odds were about five percent.",
+      "scene": {
+        "kind": "title",
+        "text": "5 percent",
+        "sub": "The odds",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Within minutes, the ring turned up in the grass.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "In the grass"
+      }
+    },
+    {
+      "text": "Cryer shared the whole saga in a Twitter thread.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "A Twitter thread"
+      }
+    },
+    {
+      "text": "The ring lay three yards from the glasses.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Three yards away"
+      },
+      "hold": 0.7
+    }
+  ],
+  "post": {
+    "caption": "Jon Cryer's ring vanished in rain. While filming Supergirl in Vancouver, Jon Cryer pulled his hand from his pocket on a rainy night, heard a ping, and his wedding ring was gone. A phone flashlight search found nothing, and the glint he saw next morning was a pair of glasses. He posted on Craigslist and found a ring finding service. Chris Turner came with a metal detector and put the odds at about five percent, but within minutes the ring turned up in the grass. Cryer told the saga in a Twitter thread in October 2020. The ring lay three yards from the glasses.",
+    "hashtags": [
+      "#joncryer",
+      "#weddingring",
+      "#supergirl",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://globalnews.ca/news/7393043/jon-cryer-lost-wedding-ring",
+    "https://www.ctvnews.ca/vancouver/article/actor-jon-cryers-lost-wedding-band-found-in-minutes-by-vancouver-ring-finder/",
+    "https://www.nbclosangeles.com/entertainment/entertainment-news/jon-cryer-shares-saga-of-finding-his-wedding-ring-after-losing-it-in-the-rain/2442978/",
+    "https://www.timescolonist.com/entertainment/actor-jon-cryer-loses-then-finds-wedding-ring-in-pouring-rain-on-vancouver-seawall-4684725",
+    "https://www.yahoo.com/entertainment/jon-cryer-shares-epic-saga-155236551.html"
+  ],
+  "images": [
+    {
+      "src": "434-jon-cryer-s-ring-vanished-in-rain-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "bobanny",
+      "page": "https://commons.wikimedia.org/wiki/File:Stanley_Seawall.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

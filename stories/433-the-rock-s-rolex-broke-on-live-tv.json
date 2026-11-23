@@ -1,0 +1,182 @@
+{
+  "id": "433-the-rock-s-rolex-broke-on-live-tv",
+  "number": 433,
+  "title": "The Rock's Rolex broke on live TV",
+  "style": "jewelbox",
+  "topic": "dwayne the rock johnson rolex 1999 wwe live tv interview brawl wrestler fell on watch broke sign never bought again oprah 2020 vision tour horrible financial decision renting apartment",
+  "music": "music-433.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Rock's Rolex broke on live TV.",
+    "gold": [
+      "Rolex",
+      "TV."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Rock's Rolex broke on live TV.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "As a boy, he thought a successful man owned a diamond Rolex.",
+      "scene": {
+        "kind": "real",
+        "src": "433-the-rock-s-rolex-broke-on-live-tv-0.jpg",
+        "fit": "card",
+        "label": "A Rolex with diamonds",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A few years into his wrestling career, he finally bought one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A big purchase"
+      }
+    },
+    {
+      "text": "He was still renting his apartment at the time.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Still renting"
+      }
+    },
+    {
+      "text": "He later called it a horrible financial decision.",
+      "scene": {
+        "kind": "title",
+        "text": "Horrible",
+        "sub": "Financial decision",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "He wore it into the ring for a live interview.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A live interview"
+      }
+    },
+    {
+      "text": "A brawl broke out, and a wrestler fell on his watch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A brawl"
+      }
+    },
+    {
+      "text": "He broke character on live TV to search for the watch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Searching on camera"
+      }
+    },
+    {
+      "text": "That night he decided the broken watch was a sign.",
+      "scene": {
+        "kind": "title",
+        "text": "A sign",
+        "sub": "That night",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "stones": 10
+      }
+    },
+    {
+      "text": "He has never bought anything like it again.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Never again"
+      }
+    },
+    {
+      "text": "He told this story to Oprah in 2020.",
+      "say": "He told this story to Oprah in twenty twenty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Told to Oprah"
+      }
+    },
+    {
+      "text": "He bought that Rolex in 1999.",
+      "say": "He bought that Rolex in nineteen ninety nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Bought in 1999"
+      }
+    }
+  ],
+  "post": {
+    "caption": "The Rock's Rolex broke on live TV. As a boy, Dwayne Johnson believed every successful man owns a Rolex with diamonds. A few years into his wrestling career he finally bought one, while still renting his apartment, and later called it a horrible financial decision. He wore it into the ring for a live interview, a brawl broke out, a wrestler fell on the watch and it broke. That night he decided it was a sign, and he has never bought anything like it again. He told the story to Oprah in 2020. He bought that Rolex in 1999.",
+    "hashtags": [
+      "#therock",
+      "#rolex",
+      "#wwe",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://ewrestlingnews.com/news/the-rock-reveals-funny-story-during-oprah-interview-about-rolex-incident-during-wwe-days",
+    "https://www.essentiallysports.com/wwe-news-hollywood-news-the-rock-black-adam-it-wasnt-right-800-million-worth-dwayne-johnson-reveals-the-most-horrible-financial-decision-of-his-career",
+    "https://whatculture.com/wwe/a-wwe-moment-that-broke-the-rocks-heart",
+    "https://www.wrestlinginc.com/news/2020/02/the-rock-recalls-the-turning-point-of-his-wwe-career-666820"
+  ],
+  "images": [
+    {
+      "src": "433-the-rock-s-rolex-broke-on-live-tv-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "gabihil",
+      "page": "https://commons.wikimedia.org/wiki/File:Rolex_Datejust_16200.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

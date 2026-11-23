@@ -1,0 +1,174 @@
+{
+  "id": "428-andy-warhol-never-wound-his-cartier",
+  "number": 428,
+  "title": "Andy Warhol never wound his Cartier",
+  "style": "deco",
+  "topic": "andy warhol cartier tank watch never wound it louis cartier 1917 rectangular roman numerals blued steel hands sapphire crown princess diana must de cartier",
+  "music": "music-428.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Andy Warhol never wound his Cartier.",
+    "gold": [
+      "Warhol",
+      "Cartier."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Andy Warhol never wound his Cartier.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Andy Warhol often wore a Cartier Tank watch.",
+      "scene": {
+        "kind": "real",
+        "src": "428-andy-warhol-never-wound-his-cartier-0.jpg",
+        "fit": "card",
+        "label": "Andy Warhol",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He never wound it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Never wound"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "He is quoted as saying a Tank is not for telling time.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Not for telling time"
+      }
+    },
+    {
+      "text": "He said he wore it because it is the watch to wear.",
+      "scene": {
+        "kind": "title",
+        "text": "The watch",
+        "sub": "To wear",
+        "piece": "earrings",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The Tank is a rectangle among round watches.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A rectangle"
+      }
+    },
+    {
+      "text": "It has a Roman numeral dial and blued steel hands.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Roman numerals"
+      }
+    },
+    {
+      "text": "A sapphire sits on the crown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "blue",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A sapphire crown"
+      }
+    },
+    {
+      "text": "Princess Diana was often seen in a Tank.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Princess Diana"
+      }
+    },
+    {
+      "text": "Later, a cheaper Tank arrived in the late nineteen seventies.",
+      "scene": {
+        "kind": "title",
+        "text": "Late 1970s",
+        "sub": "A cheaper Tank",
+        "piece": "eternity",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Louis Cartier made the first Tank in 1917.",
+      "say": "Louis Cartier made the first Tank in nineteen seventeen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Made in 1917"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Andy Warhol never wound his Cartier. Warhol often wore a Cartier Tank watch, and he never wound it. He is quoted as saying a Tank is not for telling time, and that he wore it because it is the watch to wear. Louis Cartier made the first Tank in 1917: a rectangle in a world of round watches, with a Roman numeral dial, blued steel hands and a sapphire on the crown. Princess Diana was often seen in one, and a cheaper Tank arrived in the late 1970s.",
+    "hashtags": [
+      "#andywarhol",
+      "#cartier",
+      "#cartiertank",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.wmagazine.com/culture/cartier-tank-watch-backstory",
+    "https://sothebys.com/en/articles/the-essential-guide-to-the-cartier-tank",
+    "https://news.artnet.com/art-world/the-art-of-craft-tank-must-1959093",
+    "https://en.wikipedia.org/wiki/Cartier_Tank",
+    "https://www.voguescandinavia.com/articles/why-cartiers-tank-is-the-investment-timepiece-creatives-cant-live-without",
+    "https://www.crownandcaliber.com/p/happy-birthday-to-andy-warhol-a-man-who-appreciated-art-and-luxury-watches"
+  ],
+  "images": [
+    {
+      "src": "428-andy-warhol-never-wound-his-cartier-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Bernard Gotfryd",
+      "page": "https://commons.wikimedia.org/wiki/File:Andy_Warhol_at_the_Jewish_Museum_(by_Bernard_Gotfryd)_%E2%80%93_LOC.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

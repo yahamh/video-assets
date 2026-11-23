@@ -1,0 +1,176 @@
+{
+  "id": "431-mariah-carey-s-diamond-hid-in-candy",
+  "number": 431,
+  "title": "Mariah Carey's diamond hid in candy",
+  "style": "deco",
+  "topic": "mariah carey nick cannon 2008 proposal candy ring pop real engagement ring hidden inside rooftop manhattan empire state building helicopter second anniversary ring pop style ring white gold pink sapphires 17 carats",
+  "music": "music-431.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "pink",
+    "cut": "oval",
+    "metal": "rose"
+  },
+  "hook": {
+    "text": "Mariah Carey's diamond hid in candy.",
+    "gold": [
+      "Mariah",
+      "candy."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mariah Carey's diamond hid in candy.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2008, Nick Cannon proposed to her with a Ring Pop.",
+      "say": "In two thousand eight, Nick Cannon proposed to her with a Ring Pop.",
+      "scene": {
+        "kind": "real",
+        "src": "431-mariah-carey-s-diamond-hid-in-candy-0.jpg",
+        "fit": "card",
+        "label": "Mariah Carey, 2010",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Her real engagement ring was hidden inside it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "The real ring"
+      }
+    },
+    {
+      "text": "The ring sat where the candy should have been.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "round",
+        "metal": "rose",
+        "label": "A Ring Pop"
+      }
+    },
+    {
+      "text": "It happened on the rooftop of her Manhattan apartment.",
+      "scene": {
+        "kind": "title",
+        "text": "Rooftop",
+        "sub": "Manhattan",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The Empire State Building glowed in her favorite colors.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Her favorite colors"
+      }
+    },
+    {
+      "text": "A few days later, he proposed again, on a helicopter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "pink",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Again, by helicopter"
+      }
+    },
+    {
+      "text": "She joked that he sort of kidnapped her.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Sort of kidnapped"
+      }
+    },
+    {
+      "text": "For their second anniversary, he gave her a Ring Pop style ring.",
+      "scene": {
+        "kind": "title",
+        "text": "Ring Pop",
+        "sub": "A second one",
+        "piece": "brooch",
+        "stone": "pink",
+        "metal": "rose",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It is white gold with diamonds and pink sapphires.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 10,
+        "label": "Pink sapphires"
+      }
+    },
+    {
+      "text": "The first diamond is reported at seventeen carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Seventeen carats"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Mariah Carey's diamond hid in candy. In 2008, Nick Cannon proposed to her with a candy Ring Pop, and her real engagement ring sat where the candy should have been. It happened on the rooftop of her Manhattan apartment, with the Empire State Building lit in her favorite colors. A few days later he proposed again, on a helicopter, and she joked that he sort of kidnapped her. For their second anniversary he gave her a Ring Pop style ring in white gold with diamonds and pink sapphires. The first diamond is reported at 17 carats.",
+    "hashtags": [
+      "#mariahcarey",
+      "#ringpop",
+      "#engagementring",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.cheatsheet.com/news/nick-cannon-hid-2-5-million-17-carat-diamond-engagement-ring-inside-candy-propose-mariah-carey.html",
+    "https://www.easyweddings.com.au/articles/wedding-proposals-celebrity-style",
+    "https://ca.news.yahoo.com/mariah-carey-nick-cannons-relationship-145204633.html",
+    "https://www.brit.co/17-celebrity-proposal-stories-to-sweep-you-right-off-your-feet/",
+    "https://buttondown.com/goldplatedgirls/archive/do-you-remember-mariah-careys-ring-pop-ring",
+    "https://www.newser.com/story/166004/12-epic-celeb-engagements.html",
+    "https://www.kidzworld.com/article/22571-mariah-careys-candy-ring"
+  ],
+  "images": [
+    {
+      "src": "431-mariah-carey-s-diamond-hid-in-candy-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "82nd_Academy_Awards,_Mariah_Carey_-_army_mil-66460-2010-03-09-180308.jpg : Sgt. Michael Connors - 302nd Mobile Public Af",
+      "page": "https://commons.wikimedia.org/wiki/File:Mariah_Carey_%40_2010_Academy_Awards.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

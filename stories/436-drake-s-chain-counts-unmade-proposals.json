@@ -1,0 +1,189 @@
+{
+  "id": "436-drake-s-chain-counts-unmade-proposals",
+  "number": 436,
+  "title": "Drake's chain counts unmade proposals",
+  "style": "jewelbox",
+  "topic": "drake previous engagements chain alex moss 42 engagement ring diamonds 351.38 carats white gold eagle claw 14 months lil baby birthday concert state farm arena atlanta december 2022 joke",
+  "music": "music-436.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Drake's chain counts unmade proposals.",
+    "gold": [
+      "chain",
+      "proposals."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Drake's chain counts unmade proposals.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2022, jeweler Alex Moss showed a chain made for Drake.",
+      "say": "In twenty twenty two, jeweler Alex Moss showed a chain made for Drake.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Made for Drake"
+      }
+    },
+    {
+      "text": "It is called Previous Engagements.",
+      "scene": {
+        "kind": "title",
+        "text": "Previous",
+        "sub": "Engagements",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It holds forty two engagement ring diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 20,
+        "label": "Forty two diamonds"
+      }
+    },
+    {
+      "text": "Each one stands for a time he thought about proposing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "halo": 8,
+        "label": "One for each time"
+      }
+    },
+    {
+      "text": "The idea was Drake's own.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Drake's idea"
+      }
+    },
+    {
+      "text": "The setting is called eagle claw, in white gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Eagle claw setting"
+      }
+    },
+    {
+      "text": "The chain took fourteen months to make.",
+      "scene": {
+        "kind": "title",
+        "text": "14 months",
+        "sub": "To make",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      }
+    },
+    {
+      "text": "Drake wore it on stage in Atlanta that December.",
+      "scene": {
+        "kind": "real",
+        "src": "436-drake-s-chain-counts-unmade-proposals-0.jpg",
+        "fit": "card",
+        "label": "State Farm Arena, Atlanta",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Drake later said it was a joke, and people took it literally.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Only a joke"
+      }
+    },
+    {
+      "text": "He said he was only trying to have an interesting story.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "An interesting story"
+      }
+    },
+    {
+      "text": "The forty two diamonds weigh 351.38 carats in all.",
+      "say": "The forty two diamonds weigh three hundred fifty one point three eight carats in all.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "351.38 carats"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Drake's chain counts unmade proposals. In 2022, jeweler Alex Moss showed a chain made for Drake called Previous Engagements. It holds 42 engagement ring diamonds, one for each time Drake thought about proposing, set in white gold in a style called eagle claw. The chain took 14 months to make, and Drake wore it on stage in Atlanta that December. He later said it was a joke that people took literally, and that he was only trying to have an interesting story. The 42 diamonds weigh 351.38 carats in all.",
+    "hashtags": [
+      "#drake",
+      "#previousengagements",
+      "#alexmoss",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.aol.com/entertainment/drake-reveals-previous-engagements-chain-183912635.html",
+    "https://news.artnet.com/art-world/i-wanted-to-design-something-fit-for-royalty-the-creator-of-drakes-new-necklace-made-of-42-engagement-rings-tells-us-his-process-2229557",
+    "https://toronto.ctvnews.ca/drake-s-new-necklace-made-of-42-engagement-rings-was-created-by-a-toronto-born-designer-1.6198450",
+    "https://hypebeast.com/2022/12/drake-custom-42-diamond-necklace-alex-moss-new-york-previous-engagement-closer-look",
+    "https://www.complex.com/style/a/mack/drake-considered-proposing-42-times-memorializes-exes-with-chain",
+    "https://www.etonline.com/node/195996",
+    "https://www.hotnewhiphop.com/632368-drake-claims-engagement-ring-necklace-was-just-a-joke"
+  ],
+  "images": [
+    {
+      "src": "436-drake-s-chain-counts-unmade-proposals-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Warren LeMay from Cincinnati, OH, United States",
+      "page": "https://commons.wikimedia.org/wiki/File:State_Farm_(Philips)_Arena,_Atlanta,_GA_(46558861525)_-_2019.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

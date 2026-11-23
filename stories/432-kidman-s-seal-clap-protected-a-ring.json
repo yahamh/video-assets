@@ -1,0 +1,166 @@
+{
+  "id": "432-kidman-s-seal-clap-protected-a-ring",
+  "number": 432,
+  "title": "Kidman's seal clap protected a ring",
+  "style": "gouache",
+  "topic": "nicole kidman seal clap 2017 oscars lion harry winston borrowed ring 119 carats kyle and jackie o radio terrified of damaging it",
+  "music": "music-432.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "diamond",
+    "cut": "round",
+    "petals": 8,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Kidman's seal clap protected a ring.",
+    "gold": [
+      "seal",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kidman's seal clap protected a ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At the 2017 Oscars, Nicole Kidman clapped in a very odd way.",
+      "say": "At the twenty seventeen Oscars, Nicole Kidman clapped in a very odd way.",
+      "scene": {
+        "kind": "real",
+        "src": "432-kidman-s-seal-clap-protected-a-ring-0.jpg",
+        "fit": "card",
+        "label": "The Dolby Theatre",
+        "credit": "Photo: Busition, CC BY 4.0"
+      }
+    },
+    {
+      "text": "She clapped with the heels of her palms, fingers spread.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Fingers spread"
+      }
+    },
+    {
+      "text": "The clip went viral, and people said she clapped like a seal.",
+      "scene": {
+        "kind": "title",
+        "text": "Like a seal",
+        "sub": "A viral clip",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "She explained it later on an Australian radio show.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Australian radio"
+      }
+    },
+    {
+      "text": "She had on a huge ring that was not her own.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "halo": 12,
+        "label": "Not her own"
+      }
+    },
+    {
+      "text": "It was Harry Winston's, and she was terrified of damaging it.",
+      "scene": {
+        "kind": "title",
+        "text": "Harry Winston",
+        "sub": "Terrified",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "She did not want to stop and look like she wasn't clapping.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Kept on clapping"
+      }
+    },
+    {
+      "text": "She asked if there were not more important things to focus on.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "More important things"
+      }
+    },
+    {
+      "text": "The Harry Winston jewelry she wore held 119 carats of diamonds.",
+      "say": "The Harry Winston jewelry she wore held one hundred nineteen carats of diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 14,
+        "label": "119 carats"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Kidman's seal clap protected a ring. At the 2017 Oscars, Nicole Kidman clapped with the heels of her palms and her fingers spread, and the clip went viral. People said she clapped like a seal. She later explained on an Australian radio show that she had on a huge ring that was not her own, it was Harry Winston's, and she was terrified of damaging it. The jewelry she wore that night held 119 carats of diamonds. Photo: Busition, CC BY 4.0.",
+    "hashtags": [
+      "#nicolekidman",
+      "#harrywinston",
+      "#oscars",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.cbsnews.com/news/nicole-kidman-seal-clapping-oscars",
+    "https://www.bustle.com/p/nicole-kidman-explains-her-awkward-oscars-clap-her-reasoning-is-totally-relatable-43238",
+    "https://www.sbs.com.au/news/article/seal-clapping-to-protect-rings-kidman/mqv7728gd",
+    "https://www.foxnews.com/entertainment/nicole-kidman-gives-explanation-behind-bizarre-seal-clap-at-2017-oscars",
+    "https://www.irishnews.com/magazine/2017/03/09/news/-seal-clapping-at-oscars-was-nicole-kidman-s-way-of-protecting-diamond-rings-959298/",
+    "https://www.hellomagazine.com/celebrities/408515/nicole-kidman-explains-seal-clap-at-oscars-2017/",
+    "https://en.wikipedia.org/wiki/89th_Academy_Awards"
+  ],
+  "images": [
+    {
+      "src": "432-kidman-s-seal-clap-protected-a-ring-0.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Busition",
+      "page": "https://commons.wikimedia.org/wiki/File:Dolby_Theater_(September_2025).jpg",
+      "credit": "Photo: Busition, CC BY 4.0"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "429-gaga-s-diamond-almost-reached-taco-bell",
+  "number": 429,
+  "title": "Gaga's diamond almost reached Taco Bell",
+  "style": "gouache",
+  "topic": "lady gaga tiffany diamond 128 carat yellow 2019 oscars shallow audrey hepburn 1961 madonna taco bell security pulled car over politely removed graham norton show",
+  "music": "music-429.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "yellow",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Gaga's diamond almost reached Taco Bell.",
+    "gold": [
+      "diamond",
+      "Bell."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gaga's diamond almost reached Taco Bell.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Lady Gaga wore Tiffany's yellow diamond to the 2019 Oscars.",
+      "say": "Lady Gaga wore Tiffany's yellow diamond to the twenty nineteen Oscars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Tiffany's yellow diamond"
+      }
+    },
+    {
+      "text": "Audrey Hepburn had last worn it in 1961.",
+      "say": "Audrey Hepburn had last worn it in nineteen sixty one.",
+      "scene": {
+        "kind": "real",
+        "src": "429-gaga-s-diamond-almost-reached-taco-bell-0.jpg",
+        "fit": "card",
+        "label": "Breakfast at Tiffany's",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "That night, Gaga won Best Original Song for Shallow.",
+      "scene": {
+        "kind": "title",
+        "text": "Shallow",
+        "sub": "Best Original Song",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      }
+    },
+    {
+      "text": "Then she walked out still wearing it and told no one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "tanzanite",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Told no one"
+      }
+    },
+    {
+      "text": "She went to see Madonna while guards eyed her sideways.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Guards eyed her"
+      }
+    },
+    {
+      "text": "What she really wanted was Taco Bell.",
+      "scene": {
+        "kind": "title",
+        "text": "Taco Bell",
+        "sub": "The plan",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "On the way, Tiffany's security pulled her car over.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "Car pulled over"
+      }
+    },
+    {
+      "text": "In her words, they politely removed it from her neck.",
+      "scene": {
+        "kind": "real",
+        "src": "429-gaga-s-diamond-almost-reached-taco-bell-1.jpg",
+        "fit": "card",
+        "label": "A Tiffany necklace",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She told this on The Graham Norton Show in May 2020.",
+      "say": "She told this on The Graham Norton Show in May twenty twenty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Told on TV"
+      }
+    },
+    {
+      "text": "The Tiffany Diamond weighs 128 carats.",
+      "say": "The Tiffany Diamond weighs one hundred twenty eight carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "128 carats"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Gaga's diamond almost reached Taco Bell. Lady Gaga wore Tiffany's 128 carat yellow diamond to the 2019 Oscars, where Audrey Hepburn had last worn it in 1961. After winning Best Original Song for Shallow, she walked out still wearing it and told no one. She went to see Madonna, and what she really wanted was Taco Bell. On the way, Tiffany's security pulled her car over and, in her words, politely removed it from her neck. She told the story on The Graham Norton Show in May 2020.",
+    "hashtags": [
+      "#ladygaga",
+      "#tiffany",
+      "#oscars",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://thepinknews.com/2020/05/29/lady-gaga-tiffanys-oscars-2019-diamond-necklace-madonna-taco-bell-trip",
+    "https://www.yahoo.com/lifestyle/lady-gaga-tried-wear-30-184500140.html",
+    "https://www.businessinsider.in/entertainment/news/lady-gaga-says-she-got-pulled-over-by-security-guards-because-she-was-still-wearing-a-30-million-necklace-after-the-2019-oscars/articleshow/76140414.cms/",
+    "https://gulfnews.com/entertainment/hollywood/lady-gaga-tried-to-wear-her-30-million-tiffany-diamond-to-taco-bell-1.1590835695682",
+    "https://www.cbsnews.com/amp/news/lady-gaga-wears-128-carat-tiffany-diamond-to-the-oscars-valued-at-more-than-30-million",
+    "https://en.wikipedia.org/wiki/91st_Academy_Awards"
+  ],
+  "images": [
+    {
+      "src": "429-gaga-s-diamond-almost-reached-taco-bell-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Audrey_Hepburn_in_Breakfast_at_Tiffanys_2.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "429-gaga-s-diamond-almost-reached-taco-bell-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Tiffany & Co.",
+      "page": "https://commons.wikimedia.org/wiki/File:Tiffany_and_Company_-_Necklace_-_Walters_572121.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

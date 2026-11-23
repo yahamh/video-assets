@@ -1,0 +1,176 @@
+{
+  "id": "435-elton-john-s-kneecaps-became-a-necklace",
+  "number": 435,
+  "title": "Elton John's kneecaps became a necklace",
+  "style": "gouache",
+  "topic": "elton john kneecaps jewelry theo fennell knee replacement surgeon startled worst knees necklace chain of bone brooch latin phrase touched by gold world gold council film 2025",
+  "music": "music-435.wav",
+  "piece": {
+    "piece": "pearl",
+    "stone": "diamond",
+    "tone": "cream",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Elton John's kneecaps became a necklace.",
+    "gold": [
+      "kneecaps",
+      "necklace."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Elton John's kneecaps became a necklace.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Elton John had both of his knees replaced.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Two new knees"
+      }
+    },
+    {
+      "text": "Then he asked his surgeon if he could keep the kneecaps.",
+      "scene": {
+        "kind": "real",
+        "src": "435-elton-john-s-kneecaps-became-a-necklace-0.jpg",
+        "fit": "card",
+        "label": "A kneecap",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The surgeon was rather startled by the request.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Rather startled"
+      }
+    },
+    {
+      "text": "He told Elton he had never operated on worse knees.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "The worst knees"
+      }
+    },
+    {
+      "text": "Elton gave the bones to his friend, the jeweler Theo Fennell.",
+      "scene": {
+        "kind": "title",
+        "text": "Theo Fennell",
+        "sub": "The jeweler",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Fennell's team baked the kneecaps dry and polished them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Baked and polished"
+      }
+    },
+    {
+      "text": "The right kneecap became a necklace on a chain of bone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A chain of bone"
+      }
+    },
+    {
+      "text": "The smaller left one became a brooch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "topaz",
+        "cut": "round",
+        "petals": 7,
+        "metal": "yellow",
+        "label": "A brooch"
+      }
+    },
+    {
+      "text": "Its back carries a Latin phrase about bowing to no man.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A Latin phrase"
+      }
+    },
+    {
+      "text": "The World Gold Council filmed him showing them in 2025.",
+      "say": "The World Gold Council filmed him showing them in twenty twenty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 12,
+        "label": "Shown in 2025"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Elton John's kneecaps became a necklace. After Elton John had both knees replaced, he asked his surgeon if he could keep the kneecaps. The surgeon was rather startled, and told him he had never operated on worse knees. Elton gave the bones to his friend, the jeweler Theo Fennell, whose team baked them dry and polished them. The right kneecap became a necklace on a chain of bone, and the smaller left one became a brooch. The back carries a Latin phrase about bowing to no man. He showed them in a World Gold Council film in 2025.",
+    "hashtags": [
+      "#eltonjohn",
+      "#theofennell",
+      "#goldjewelry",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://stereogum.com/2323030/new-documentary-reveals-how-elton-john-turned-his-kneecaps-into-jewelry/news",
+    "https://www.aol.com/entertainment/elton-john-reveals-turned-kneecaps-113021356.html",
+    "https://www.aol.com/news/elton-john-details-process-turning-140848182.html",
+    "https://www.attitude.co.uk/culture/elton-john-kneecap-new-documentary-touched-by-gold-495206/",
+    "https://www.thepinknews.com/2026/01/26/elton-john-knee-necklace/",
+    "https://americansongwriter.com/elton-john-turned-a-surgery-souvenir-into-gold-jewelry-i-will-no-longer-bow-to-any-man",
+    "https://www.jckonline.com/editorial-article/7-weirdest-jewelry-stories-2025/",
+    "https://touchedby.gold.org/chapter/gold-jewellery"
+  ],
+  "images": [
+    {
+      "src": "435-elton-john-s-kneecaps-became-a-necklace-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "MAKY.OREL",
+      "page": "https://commons.wikimedia.org/wiki/File:Patella_-_facies_posterior_patellae_detail.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
