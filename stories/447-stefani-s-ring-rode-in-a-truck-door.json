@@ -1,0 +1,176 @@
+{
+  "id": "447-stefani-s-ring-rode-in-a-truck-door",
+  "number": 447,
+  "title": "Stefani's ring rode in a truck door",
+  "style": "gouache",
+  "topic": "blake shelton gwen stefani engagement ring truck door two and a half weeks fire starter oklahoma ranch cabinet bobby bones show december 2020 announced october 2020 five years",
+  "music": "music-447.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Stefani's ring rode in a truck door.",
+    "gold": [
+      "ring",
+      "truck"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Stefani's ring rode in a truck door.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Blake Shelton kept her engagement ring in the door of his truck.",
+      "scene": {
+        "kind": "real",
+        "src": "447-stefani-s-ring-rode-in-a-truck-door-0.jpg",
+        "fit": "card",
+        "label": "A pickup truck",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It rode there for about two and a half weeks.",
+      "scene": {
+        "kind": "title",
+        "text": "2.5 weeks",
+        "sub": "In a truck",
+        "piece": "stone",
+        "stone": "yellow",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He worried it might fall out of the compartment.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Might fall out"
+      }
+    },
+    {
+      "text": "He told this story on the Bobby Bones Show in December 2020.",
+      "say": "He told this story on the Bobby Bones Show in December twenty twenty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "December 2020"
+      }
+    },
+    {
+      "text": "Gwen Stefani nearly canceled the trip to his Oklahoma ranch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "An Oklahoma ranch"
+      }
+    },
+    {
+      "text": "She had no idea, and only her father knew.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Only her father knew"
+      }
+    },
+    {
+      "text": "At the ranch, Shelton asked her to fetch a fire starter.",
+      "scene": {
+        "kind": "title",
+        "text": "A cabinet",
+        "sub": "A fire starter",
+        "piece": "brooch",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "She opened a cabinet and found the ring instead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "morganite",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Found in a cabinet"
+      }
+    },
+    {
+      "text": "Her three sons were there to watch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Her three sons"
+      }
+    },
+    {
+      "text": "They announced the engagement in October 2020, after five years together.",
+      "say": "They announced the engagement in October twenty twenty, after five years together.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "October 2020"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Stefani's ring rode in a truck door. Blake Shelton kept her engagement ring in the door of his truck for about two and a half weeks, and he worried it might fall out of the compartment. He told this story on the Bobby Bones Show in December 2020. Stefani had no idea and nearly canceled the trip to his Oklahoma ranch, where he asked her to fetch a fire starter. She opened a cabinet and found the ring instead, with her three sons there to watch. They announced the engagement in October 2020, after five years together.",
+    "hashtags": [
+      "#blakeshelton",
+      "#gwenstefani",
+      "#engagementring",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://goodmorningamerica.com/culture/story/blake-shelton-reveals-hid-gwen-stefanis-engagement-ring-74735472",
+    "https://www.foxnews.com/entertainment/blake-shelton-hid-gwen-stefani-engagement-ring-truck-week.print",
+    "https://cinemablend.com/television/2561142/proposing-blake-shelton-the-ring-gwen-stefani",
+    "https://www.bustle.com/entertainment/how-gwen-stefani-almost-ruined-blake-sheltons-proposal",
+    "https://www.hellomagazine.com/film/20210106103880/gwen-stefani-romantic-proposal-blake-shelton-the-tonight-show-details/?viewas=amp",
+    "https://www.ibtimes.co.uk/gwen-stefani-almost-didnt-show-blakes-proposal-ring-left-hidden-his-truck-weeks-1686703"
+  ],
+  "images": [
+    {
+      "src": "447-stefani-s-ring-rode-in-a-truck-door-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "National Highway Traffic Safety Administration",
+      "page": "https://commons.wikimedia.org/wiki/File:2001_Dodge_Dakota_Sport_4-door_pickup_--_NHTSA_01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
