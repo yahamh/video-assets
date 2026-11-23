@@ -5771,7 +5771,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2557923891401631",
+      "instagram": "https://www.instagram.com/reel/DgGg_P4ggWU/",
+      "youtube": "https://www.youtube.com/watch?v=0Vkc-wdg0mg"
+    }
   },
   "400-scans-found-tigers-under-wool": {
     "at": "2026-11-23T23:30:00Z",
@@ -6238,6 +6244,14 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "457-hollywood-rented-most-of-its-jewels": {
+    "at": "2026-11-25T12:00:00Z",
+    "zernio_id": "6b04cadb358897601daef4b9",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
