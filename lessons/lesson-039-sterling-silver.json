@@ -1,0 +1,159 @@
+{
+ "id": "lesson-039-sterling-silver",
+ "series": "lesson",
+ "number": 39,
+ "title": "What sterling silver is",
+ "topic": "sterling silver 92.5 percent silver 7.5 percent copper fineness 925 fine silver 99.9 soft hardness strength airborne sulfur silver sulfide black tarnish copper tarnishes faster",
+ "music": "music-lesson-039.wav",
+ "hook": {
+  "text": "Sterling silver is not pure silver.",
+  "gold": [
+   "not",
+   "pure"
+  ]
+ },
+ "end": {
+  "line": "Renders made with",
+  "handle": "HeyGema"
+ },
+ "lines": [
+  {
+   "text": "Sterling silver is not pure silver.",
+   "scene": {
+    "kind": "photo",
+    "src": "matthew-front-white-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.42,
+     "k": 1.2
+    },
+    "label": "Silver is a white metal"
+   }
+  },
+  {
+   "text": "It is 92.5% silver and 7.5% other metal.",
+   "say": "It is ninety two point five percent silver and seven point five percent other metal.",
+   "scene": {
+    "kind": "mix",
+    "src": "matthew-front-white-render.webp",
+    "label": "Sterling silver",
+    "parts": [
+     {
+      "name": "Silver",
+      "pct": 92.5
+     },
+     {
+      "name": "Copper",
+      "pct": 7.5
+     }
+    ]
+   }
+  },
+  {
+   "text": "That is a fineness of 925 parts per thousand.",
+   "say": "That is a fineness of nine hundred twenty five parts per thousand.",
+   "scene": {
+    "kind": "title",
+    "text": "925",
+    "sub": "Parts per thousand"
+   }
+  },
+  {
+   "text": "The other metal is usually copper.",
+   "scene": {
+    "kind": "title",
+    "text": "Copper",
+    "sub": "Usually the other metal"
+   }
+  },
+  {
+   "text": "Fine silver, 99.9% pure, is relatively soft.",
+   "say": "Fine silver, ninety nine point nine percent pure, is relatively soft.",
+   "scene": {
+    "kind": "title",
+    "text": "99.9%",
+    "sub": "Fine silver"
+   }
+  },
+  {
+   "text": "Soft silver scratches and marks easily.",
+   "scene": {
+    "kind": "photo",
+    "src": "ring-1d-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.35,
+     "k": 1.4
+    },
+    "label": "Rings are worn every day"
+   }
+  },
+  {
+   "text": "So copper is added for hardness and strength.",
+   "scene": {
+    "kind": "title",
+    "text": "Harder",
+    "sub": "Copper adds strength"
+   }
+  },
+  {
+   "text": "But sulfur compounds in the air slowly turn silver black.",
+   "scene": {
+    "kind": "title",
+    "text": "Tarnish",
+    "sub": "Airborne sulfur"
+   }
+  },
+  {
+   "text": "That black layer is silver sulfide.",
+   "scene": {
+    "kind": "title",
+    "text": "Silver sulfide",
+    "sub": "The black tarnish"
+   }
+  },
+  {
+   "text": "Copper makes sterling tarnish faster than pure silver does.",
+   "scene": {
+    "kind": "title",
+    "text": "Faster",
+    "sub": "Copper speeds tarnish"
+   }
+  },
+  {
+   "text": "So sterling is not pure because copper makes it harder.",
+   "scene": {
+    "kind": "title",
+    "text": "On purpose",
+    "sub": "Copper for strength"
+   }
+  },
+  {
+   "text": "A render shows how the metal looks before anything is cast.",
+   "scene": {
+    "kind": "compare",
+    "before": "matthew-front-white-input.webp",
+    "after": "matthew-front-white-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  }
+ ],
+ "post": {
+  "youtube_title": "Jewelry render basics: what sterling silver is",
+  "caption": "Sterling silver is 92.5% silver and 7.5% other metal, usually copper. Fine silver, 99.9% pure, is relatively soft, so copper is added for hardness and strength. Airborne sulfur compounds slowly turn silver black with a layer of silver sulfide, and the copper makes sterling tarnish faster than pure silver. The renders in this video were made with HeyGema.",
+  "hashtags": [
+   "#sterlingsilver",
+   "#silverjewelry",
+   "#jewelrymaking",
+   "#jewelrydesign",
+   "#jewelryrendering"
+  ]
+ },
+ "sources": [
+  "https://en.wikipedia.org/wiki/Sterling_silver",
+  "https://www.britannica.com/technology/silver-processing/The-metal-and-its-alloys",
+  "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/metal-objects/understanding-silver-tarnish",
+  "https://www.bluenile.com/education/metal/silver"
+ ]
+}
