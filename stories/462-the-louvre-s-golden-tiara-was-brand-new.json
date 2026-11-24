@@ -1,0 +1,172 @@
+{
+  "id": "462-the-louvre-s-golden-tiara-was-brand-new",
+  "number": 462,
+  "title": "The Louvre's golden tiara was brand new",
+  "style": "gouache",
+  "topic": "tiara of saitaferne louvre 1896 rouchomovsky odessa goldsmith scythian king fake 200000 gold francs salon of fakes 1954",
+  "music": "music-462.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "topaz",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Louvre's golden tiara was brand new.",
+    "gold": [
+      "golden",
+      "new."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Louvre's golden tiara was brand new.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1896, the Louvre bought a golden tiara said to be ancient.",
+      "say": "In eighteen ninety six, the Louvre bought a golden tiara said to be ancient.",
+      "scene": {
+        "kind": "real",
+        "src": "462-the-louvre-s-golden-tiara-was-brand-new-0.jpg",
+        "fit": "card",
+        "label": "The tiara of Saitaferne",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was sold as the crown of a Scythian king.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A Scythian king"
+      }
+    },
+    {
+      "text": "The Louvre paid 200,000 gold francs for it.",
+      "say": "The Louvre paid two hundred thousand gold francs for it.",
+      "scene": {
+        "kind": "title",
+        "text": "200,000",
+        "sub": "Gold francs",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The real maker was a goldsmith in Odessa named Israel Rouchomovsky.",
+      "say": "The real maker was a goldsmith in Odessa named Israel Roo ho mov ski.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A goldsmith in Odessa"
+      }
+    },
+    {
+      "text": "He was told it was a gift for an archaeologist friend.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A gift for a friend"
+      }
+    },
+    {
+      "text": "Experts doubted it because the gold showed no signs of age.",
+      "scene": {
+        "kind": "real",
+        "src": "462-the-louvre-s-golden-tiara-was-brand-new-1.jpg",
+        "fit": "card",
+        "label": "An old postcard",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Louvre defended it for six years against the press.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Six years"
+      }
+    },
+    {
+      "text": "In 1903, he rebuilt part of it in front of experts.",
+      "say": "In nineteen oh three, he rebuilt part of it in front of experts.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "citrine",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "Rebuilt for experts"
+      }
+    },
+    {
+      "text": "In 1954, it showed the tiara again in a Salon of Fakes.",
+      "say": "In nineteen fifty four, it showed the tiara again in a Salon of Fakes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Salon of Fakes"
+      },
+      "hold": 0.4
+    }
+  ],
+  "post": {
+    "caption": "The Louvre's golden tiara was brand new. In 1896 the Louvre bought a golden tiara said to be ancient. It was sold as the crown of a Scythian king, and a Greek inscription praised him as great and invincible. The museum paid 200,000 gold francs. The real maker was a goldsmith in Odessa named Israel Rouchomovsky, who was told it was a gift for an archaeologist friend. Experts doubted it because the gold showed no signs of age. The Louvre defended it for six years against the press. In 1903 he rebuilt part of it in front of experts, and the museum took it off display. In 1954 the Louvre showed it again in its Salon of Fakes.",
+    "hashtags": [
+      "#louvre",
+      "#goldsmith",
+      "#tiara",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tiara_of_Saitaferne",
+    "https://archive.archaeology.org/online/features/hoaxes/saitaphernes_tiara.html",
+    "https://news.artnet.com/art-world/the-hunt-the-tiara-of-saitaphernes-2558944",
+    "https://www.guinnessworldrecords.com/world-records/115161-greatest-goldsmith-fraud",
+    "https://odessa-journal.com/the-scandal-of-the-antique-gold-tiara-sold-to-the-louvre-museum-it-was-a-fake-artefact-made-in-odessa"
+  ],
+  "images": [
+    {
+      "src": "462-the-louvre-s-golden-tiara-was-brand-new-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_Tiara_of_Saitaferne.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "462-the-louvre-s-golden-tiara-was-brand-new-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Tiara_of_Saitaferne_postcard4.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

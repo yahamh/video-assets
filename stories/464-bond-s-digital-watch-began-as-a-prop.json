@@ -1,0 +1,175 @@
+{
+  "id": "464-bond-s-digital-watch-began-as-a-prop",
+  "number": 464,
+  "title": "Bond's digital watch began as a prop",
+  "style": "deco",
+  "topic": "hamilton pulsar first digital watch 2001 a space odyssey stanley kubrick prop john bergey tonight show johnny carson 1972 18 carat gold roger moore live and let die seiko 1978",
+  "music": "music-464.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "aquamarine",
+    "metal": "platinum",
+    "stones": 9
+  },
+  "hook": {
+    "text": "Bond's digital watch began as a prop.",
+    "gold": [
+      "digital",
+      "prop."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Bond's digital watch began as a prop.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Stanley Kubrick wanted a futuristic watch for 2001, A Space Odyssey.",
+      "say": "Stanley Kubrick wanted a futuristic watch for two thousand one, A Space Odyssey.",
+      "scene": {
+        "kind": "real",
+        "src": "464-bond-s-digital-watch-began-as-a-prop-0.jpg",
+        "fit": "card",
+        "label": "Stanley Kubrick",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Hamilton Watch Company built one as a prop.",
+      "scene": {
+        "kind": "real",
+        "src": "464-bond-s-digital-watch-began-as-a-prop-1.jpg",
+        "fit": "card",
+        "label": "Discovery One, 2001",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its research chief, John Bergey, helped turn it into the Pulsar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The Pulsar"
+      }
+    },
+    {
+      "text": "In 1970, Bergey showed a prototype on The Tonight Show.",
+      "say": "In nineteen seventy, Bergey showed a prototype on The Tonight Show.",
+      "scene": {
+        "kind": "title",
+        "text": "1970",
+        "sub": "Tonight Show",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Its red display stayed dark until you pressed a button.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A red display"
+      }
+    },
+    {
+      "text": "The first Pulsar, in 1972, had an 18 carat gold case.",
+      "say": "The first Pulsar, in nineteen seventy two, had an eighteen carat gold case.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "An 18 carat gold case"
+      }
+    },
+    {
+      "text": "The first run was 400 watches, and it sold out within days.",
+      "say": "The first run was four hundred watches, and it sold out within days.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Sold out"
+      }
+    },
+    {
+      "text": "In 1973, Roger Moore's Bond wore the cheaper steel Pulsar P2.",
+      "say": "In nineteen seventy three, Roger Moore's Bond wore the cheaper steel Pulsar P two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "Roger Moore's Bond"
+      }
+    },
+    {
+      "text": "Seiko bought the Pulsar brand in 1978.",
+      "say": "Seiko bought the Pulsar brand in nineteen seventy eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1978",
+        "sub": "Seiko",
+        "piece": "necklace",
+        "stone": "topaz",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Bond's digital watch began as a prop. Stanley Kubrick wanted a futuristic watch for 2001, A Space Odyssey, and Hamilton Watch Company built one as a prop. Its research chief, John Bergey, helped turn the idea into the Pulsar. In 1970 he showed a prototype on The Tonight Show. The red display used so much power that the watch stayed dark until you pressed a button. The first Pulsar, in 1972, had an 18 carat gold case, and the first run of 400 sold out within days. In 1973 Roger Moore's Bond wore the steel Pulsar P2. Seiko bought the Pulsar brand in 1978.",
+    "hashtags": [
+      "#hamilton",
+      "#pulsar",
+      "#jamesbond",
+      "#watchhistory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.core77.com/posts/138908/The-Digital-Watch-Started-Out-as-a-Sci-Fi-Movie-Prop",
+    "https://www.slashgear.com/1343194/pulsar-grandfather-of-all-smartwatches",
+    "https://si.edu/object/pulsar-electronic-wristwatch%3Anmah_1173538",
+    "https://en.wikipedia.org/wiki/Pulsar_(watch)",
+    "https://jamesbondlifestyle.com/node/854"
+  ],
+  "images": [
+    {
+      "src": "464-bond-s-digital-watch-began-as-a-prop-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Columbia Pictures",
+      "page": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_in_Dr._Strangelove_Trailer_(4)_Cropped.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "464-bond-s-digital-watch-began-as-a-prop-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Metro-Goldwyn-Mayer",
+      "page": "https://commons.wikimedia.org/wiki/File:Discovery_One_from_trailer_of_2001_A_Space_Odyssey_(1968).png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

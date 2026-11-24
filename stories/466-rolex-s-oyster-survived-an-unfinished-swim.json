@@ -1,0 +1,185 @@
+{
+  "id": "466-rolex-s-oyster-survived-an-unfinished-swim",
+  "number": 466,
+  "title": "Rolex's Oyster survived an unfinished swim",
+  "style": "jewelbox",
+  "topic": "rolex oyster mercedes gleitze english channel swim 1927 hans wilsdorf testimonee waterproof wristwatch daily mail advert",
+  "music": "music-466.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "tanzanite",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Rolex's Oyster survived an unfinished swim.",
+    "gold": [
+      "Oyster",
+      "swim."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rolex's Oyster survived an unfinished swim.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1926, Rolex introduced the Oyster, its first waterproof wristwatch.",
+      "say": "In nineteen twenty six, Rolex introduced the Oyster, its first waterproof wristwatch.",
+      "scene": {
+        "kind": "title",
+        "text": "1926",
+        "sub": "The Oyster",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1927, Mercedes Gleitze swam the English Channel.",
+      "say": "In nineteen twenty seven, Mercedes Gleitze swam the English Channel.",
+      "scene": {
+        "kind": "real",
+        "src": "466-rolex-s-oyster-survived-an-unfinished-swim-0.jpg",
+        "fit": "card",
+        "label": "Mercedes Gleitze",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She was the first British woman to do it.",
+      "scene": {
+        "kind": "real",
+        "src": "466-rolex-s-oyster-survived-an-unfinished-swim-1.jpg",
+        "fit": "card",
+        "label": "Gleitze, in 1930",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Doubts followed, so she agreed to a second swim in colder water.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Colder water"
+      }
+    },
+    {
+      "text": "Rolex founder Hans Wilsdorf gave her an Oyster to wear.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Hans Wilsdorf"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "Rolex made her its first sporting ambassador.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "First ambassador"
+      }
+    },
+    {
+      "text": "It happened on 21 October 1927.",
+      "say": "It happened on October twenty first, nineteen twenty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "21 October 1927"
+      }
+    },
+    {
+      "text": "She gave up that swim after 10 hours and 24 minutes.",
+      "say": "She gave up that swim after ten hours and twenty four minutes.",
+      "scene": {
+        "kind": "title",
+        "text": "10 hours",
+        "sub": "24 minutes",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The Oyster still came out in perfect working order.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "Perfect order"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "Rolex then ran an advert about it in the Daily Mail.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "The Daily Mail"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Rolex's Oyster survived an unfinished swim. In 1926 Rolex introduced the Oyster, its first waterproof wristwatch. In 1927 Mercedes Gleitze swam the English Channel, the first British woman to do it. Doubts followed, so she agreed to a second swim in colder water, and Rolex founder Hans Wilsdorf gave her an Oyster to wear. She became Rolex's first sporting ambassador. On 21 October 1927 she gave up that swim after 10 hours and 24 minutes. The watch still came out in perfect working order, and Rolex ran an advert in the Daily Mail.",
+    "hashtags": [
+      "#rolex",
+      "#oyster",
+      "#englishchannel",
+      "#watchhistory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mercedes_Gleitze",
+    "https://www.rolex.com/oyster-story/visionary-undertaking",
+    "https://www.itv.com/news/meridian/2025-10-03/waterproof-rolex-worn-by-first-british-woman-to-swim-the-channel-up-for-auction",
+    "https://www.countrylife.co.uk/luxury/this-watch-was-worn-by-the-first-woman-to-swim-the-english-channel-changing-the-horological-world-forever-now-its-going-under-the-hammer",
+    "https://www.countryfile.com/news/people/historical-figures/wild-people-swimming-legend-mercedes-gleitze/"
+  ],
+  "images": [
+    {
+      "src": "466-rolex-s-oyster-survived-an-unfinished-swim-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Agence Rol. Agence photographique (commanditaire) Central News (Agence photographique). Agence photographique pour le do",
+      "page": "https://commons.wikimedia.org/wiki/File:Miss_Gleitze_(CNews)_-_btv1b53201206j.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "466-rolex-s-oyster-survived-an-unfinished-swim-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Mercedes_Gleitze_NZ_Dec_1930.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

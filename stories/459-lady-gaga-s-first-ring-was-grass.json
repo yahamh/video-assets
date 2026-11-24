@@ -1,0 +1,173 @@
+{
+  "id": "459-lady-gaga-s-first-ring-was-grass",
+  "number": 459,
+  "title": "Lady Gaga's first ring was grass",
+  "style": "gouache",
+  "topic": "lady gaga blade of grass ring resin engagement ring howard stern sofia jewelry mill valley pink diamond april 2024",
+  "music": "music-459.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "pink",
+    "cut": "oval",
+    "metal": "rose"
+  },
+  "hook": {
+    "text": "Lady Gaga's first ring was grass.",
+    "gold": [
+      "first",
+      "grass."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lady Gaga's first ring was grass.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Her partner once asked how he should propose.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "rose",
+        "label": "How to propose"
+      }
+    },
+    {
+      "text": "Gaga told him to wrap a blade of grass around her finger.",
+      "scene": {
+        "kind": "real",
+        "src": "459-lady-gaga-s-first-ring-was-grass-0.jpg",
+        "fit": "card",
+        "label": "A blade of grass",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "On 1 April 2024, on a climbing trip, he did exactly that.",
+      "say": "On April first, twenty twenty four, on a climbing trip, he did exactly that.",
+      "scene": {
+        "kind": "title",
+        "text": "April 2024",
+        "sub": "A rock climb",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "His first proposal ring was that blade of grass.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "peridot",
+        "metal": "rose",
+        "label": "The grass ring"
+      }
+    },
+    {
+      "text": "She had the grass set in resin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "rose",
+        "label": "Set in resin"
+      }
+    },
+    {
+      "text": "Gaga told Howard Stern the grass ring came first.",
+      "scene": {
+        "kind": "title",
+        "text": "Two rings",
+        "sub": "Grass first",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The second ring has an oval diamond in white and rose gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "oval",
+        "metal": "rose",
+        "label": "The diamond ring"
+      }
+    },
+    {
+      "text": "It also has natural pink diamonds and a hidden halo.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "pink",
+        "metal": "rose",
+        "stones": 9,
+        "label": "Pink diamonds"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "Sofia Jewelry, a studio in Mill Valley, California, designed it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "rose",
+        "label": "Sofia Jewelry"
+      }
+    },
+    {
+      "text": "She wears both rings on the same finger.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "oval",
+        "metal": "rose",
+        "label": "Both on one finger"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Lady Gaga's first ring was grass. Her partner once asked how he should propose, and Gaga told him to wrap a blade of grass around her finger. On 1 April 2024, on a rock climbing trip, that is exactly what he did. She had the grass set in resin. She told Howard Stern in March 2025 that he gave her two rings and the grass one came first. The second has an oval diamond with natural pink diamonds and a hidden halo of white diamonds. Sofia Jewelry, a studio in Mill Valley, California, designed it. She wears both rings on the same finger.",
+    "hashtags": [
+      "#ladygaga",
+      "#engagementring",
+      "#pinkdiamond",
+      "#celebrityjewelry",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://spinmagazine.com/2025/03/lady-gaga-engagement-rings-details/",
+    "https://www.aol.com/lady-gagas-1-million-engagement-140100578.html",
+    "https://www.aol.com/lady-gaga-reveals-organic-object-221124254.html",
+    "https://www.billboard.com/music/music-news/lady-gaga-how-fiance-michael-polansky-proposed-1235791103",
+    "https://www.gabrielny.com/blog/lady-gaga-engagement-ring/"
+  ],
+  "images": [
+    {
+      "src": "459-lady-gaga-s-first-ring-was-grass-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "GrassPhotos",
+      "page": "https://commons.wikimedia.org/wiki/File:Grass_blade_with_water_droplets.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

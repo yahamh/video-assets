@@ -1,0 +1,180 @@
+{
+  "id": "465-the-ballon-d-or-is-brass-inside",
+  "number": 465,
+  "title": "The Ballon d'Or is brass inside",
+  "style": "gouache",
+  "topic": "ballon d'or trophy mellerio brass under gold pyrite base half spheres welded cement engraver 1956 100 hours six months",
+  "music": "music-465.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Ballon d'Or is brass inside.",
+    "gold": [
+      "brass",
+      "inside."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Ballon d'Or is brass inside.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Mellerio, a Paris jewelry house, has made every Ballon d'Or since 1956.",
+      "say": "Mellerio, a Paris jewelry house, has made every Ballon d'Or since nineteen fifty six.",
+      "scene": {
+        "kind": "title",
+        "text": "1956",
+        "sub": "Mellerio",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Under a thin layer of gold, the trophy is brass.",
+      "scene": {
+        "kind": "real",
+        "src": "465-the-ballon-d-or-is-brass-inside-0.jpg",
+        "fit": "card",
+        "label": "A piece of brass",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Two brass halves are welded together to form the ball.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Two brass halves"
+      }
+    },
+    {
+      "text": "The ball is filled with a mixture called cement.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Filled with cement"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "That lets the metal be pushed out to show the seams.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Pushed out"
+      }
+    },
+    {
+      "text": "An engraver then draws the seams by hand.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Hand engraved"
+      }
+    },
+    {
+      "text": "The ball sits on a base of natural pyrite.",
+      "scene": {
+        "kind": "real",
+        "src": "465-the-ballon-d-or-is-brass-inside-1.jpg",
+        "fit": "card",
+        "label": "Natural pyrite",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "At the end, the whole trophy is gilded in gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "Gilded in gold"
+      }
+    },
+    {
+      "text": "The winner's name is engraved at the last moment.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "The last moment"
+      }
+    },
+    {
+      "text": "Each trophy takes almost 100 hours to make.",
+      "say": "Each trophy takes almost one hundred hours to make.",
+      "scene": {
+        "kind": "title",
+        "text": "100 hours",
+        "sub": "Per trophy",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Ballon d'Or is brass inside. Mellerio, a Paris jewelry house, has made every Ballon d'Or since 1956. Under a thin layer of gold, the trophy is brass. Two brass halves are welded together to form the ball, which is filled with a mixture called cement so the metal can be pushed out to show the seams. An engraver then draws the seams by hand. The ball sits on a base of natural pyrite. At the end the whole trophy is gilded in gold, and the winner's name is engraved at the last moment. Making one starts six months before delivery and takes almost 100 hours.",
+    "hashtags": [
+      "#ballondor",
+      "#mellerio",
+      "#football",
+      "#goldsmith",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.si.com/soccer/who-makes-the-ballon-dor-trophy",
+    "https://mellerio.fr/blogs/news/mellerio-realise-the-ballon-dor",
+    "https://www.soccerbible.com/interviews/2024/10/lifting-the-veil-on-the-creation-of-the-ballon-d-or-trophy/",
+    "https://www.ferret.fr/en/ferret/latest-news/the-making-of-the-ballon-d-or-by-mellerio-a-masterpiece-of-goldsmithing"
+  ],
+  "images": [
+    {
+      "src": "465-the-ballon-d-or-is-brass-inside-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Splarka",
+      "page": "https://commons.wikimedia.org/wiki/File:Brass.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "465-the-ballon-d-or-is-brass-inside-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Joe deSousa",
+      "page": "https://commons.wikimedia.org/wiki/File:Pyrite_Crystal_(20275866459).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "461-golden-state-s-ring-flips-over",
+  "number": 461,
+  "title": "Golden State's ring flips over",
+  "style": "deco",
+  "topic": "golden state warriors 2018 championship ring reversible jason of beverly hills 74 stones sapphires diamonds strength in numbers",
+  "music": "music-461.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Golden State's ring flips over.",
+    "gold": [
+      "flips",
+      "over."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Golden State's ring flips over.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The ring for their 2018 NBA title has a top that flips.",
+      "say": "The ring for their twenty eighteen N B A title has a top that flips.",
+      "scene": {
+        "kind": "real",
+        "src": "461-golden-state-s-ring-flips-over-0.jpg",
+        "fit": "card",
+        "label": "Oracle Arena, Oakland",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The team's own tweet called it the first reversible championship ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "The first reversible"
+      }
+    },
+    {
+      "text": "One side of the top is set with blue sapphires.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Blue sapphires"
+      }
+    },
+    {
+      "text": "The other side is set with white diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "White diamonds"
+      }
+    },
+    {
+      "text": "Each side holds 74 stones, one for every win that season.",
+      "say": "Each side holds seventy four stones, one for every win that season.",
+      "scene": {
+        "kind": "title",
+        "text": "74",
+        "sub": "One per win",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "A bristle texture on the ring marks their sweep of Cleveland.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A sweep of Cleveland"
+      }
+    },
+    {
+      "text": "Twisting off the top reveals the words Strength in Numbers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Strength in Numbers"
+      }
+    },
+    {
+      "text": "Each ring carries the player's surname and jersey number.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "ruby",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "A name and number"
+      }
+    },
+    {
+      "text": "Jason of Beverly Hills made the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Jason of Beverly Hills"
+      }
+    },
+    {
+      "text": "The band holds 56 stones, one per year in the Bay Area.",
+      "say": "The band holds fifty six stones, one per year in the Bay Area.",
+      "scene": {
+        "kind": "title",
+        "text": "56",
+        "sub": "One per year",
+        "piece": "earrings",
+        "stone": "topaz",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Golden State's ring flips over. The Warriors' ring for their 2018 NBA title has a top that flips. The team's own tweet called it the first reversible championship ring. One side of the top is set with blue sapphires and the other with white diamonds. Each side holds 74 stones, one for every win that season. A bristle texture marks the sweep of Cleveland in the Finals. Twisting off the top reveals the words Strength in Numbers. Jason of Beverly Hills made the ring, and its band holds 56 stones, one per year in the Bay Area.",
+    "hashtags": [
+      "#goldenstatewarriors",
+      "#nba",
+      "#championshipring",
+      "#sapphire",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nba.com/warriors/news-blog/championship-ring-hidden-gems-20181016",
+    "https://www.cbssports.com/nba/news/look-warriors-new-reversible-championship-ring-is-unique-extremely-cool-or-extremely-tacky",
+    "https://www.rappler.com/sports/by-sport/basketball/nba/214518-golden-state-warriors-present-reversible-championship-ring",
+    "https://m.washingtontimes.com/news/2018/oct/17/warriors-get-first-ever-reversible-championship-ri/"
+  ],
+  "images": [
+    {
+      "src": "461-golden-state-s-ring-flips-over-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Cutlass Supreme at English Wikipedia",
+      "page": "https://commons.wikimedia.org/wiki/File:Oracle_Arena.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

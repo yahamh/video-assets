@@ -1,0 +1,164 @@
+{
+  "id": "463-glenn-miller-s-gold-record-was-spray-paint",
+  "number": 463,
+  "title": "Glenn Miller's gold record was spray paint",
+  "style": "jewelbox",
+  "topic": "glenn miller first gold record chattanooga choo choo 1942 rca victor paul douglas sprayed gold paint publicity stunt sun valley serenade perry como 1958",
+  "music": "music-463.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "citrine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Glenn Miller's gold record was spray paint.",
+    "gold": [
+      "gold",
+      "paint."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Glenn Miller's gold record was spray paint.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "By 1942, his song Chattanooga Choo Choo had sold 1.2 million copies.",
+      "say": "By nineteen forty two, his song Chattanooga Choo Choo had sold one point two million copies.",
+      "scene": {
+        "kind": "real",
+        "src": "463-glenn-miller-s-gold-record-was-spray-paint-0.jpg",
+        "fit": "card",
+        "label": "Glenn Miller",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His label, RCA Victor, answered with the first gold record.",
+      "scene": {
+        "kind": "title",
+        "text": "1942",
+        "sub": "First gold disc",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It was presented during a live radio broadcast.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Live on the radio"
+      }
+    },
+    {
+      "text": "The announcer, Paul Douglas, called it solid gold on the air.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Solid gold"
+      }
+    },
+    {
+      "text": "It was only a copy of the record, sprayed with gold paint.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Gold paint"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "The label did it as a publicity stunt, not an award.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A publicity stunt"
+      }
+    },
+    {
+      "text": "The song came from the 1941 film Sun Valley Serenade.",
+      "say": "The song came from the nineteen forty one film Sun Valley Serenade.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Sun Valley Serenade"
+      }
+    },
+    {
+      "text": "Official gold certification began in 1958.",
+      "say": "Official gold certification began in nineteen fifty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1958",
+        "sub": "Official gold",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The first official gold single was Perry Como's Catch a Falling Star.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "Perry Como"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Glenn Miller's gold record was spray paint. By February 1942 his song Chattanooga Choo Choo had sold 1.2 million copies. His label, RCA Victor, answered with the first gold record, presented during a live radio broadcast. The announcer, Paul Douglas, called it solid gold on the air. It was only a copy of the record, sprayed with gold paint. The label did it as a publicity stunt, not an award. The song came from the 1941 film Sun Valley Serenade. The Recording Industry Association of America started official gold certification in 1958, and the first official gold single was Perry Como's Catch a Falling Star.",
+    "hashtags": [
+      "#glennmiller",
+      "#goldrecord",
+      "#bigband",
+      "#musichistory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.npr.org/2017/02/10/514522626/how-chattanooga-choo-choo-became-the-worlds-first-gold-record",
+    "https://en.wikipedia.org/wiki/Chattanooga_Choo_Choo",
+    "https://www.colorado.edu/coloradan/2017/12/01/origins-gold-record",
+    "https://mixdownmag.com.au/news/the-gold-record-how-a-publicity-stunt-80-years-ago-paved-the-way-for-album-certifications/",
+    "https://www.guinnessworldrecords.com/world-records/first-gold-disc-music-award"
+  ],
+  "images": [
+    {
+      "src": "463-glenn-miller-s-gold-record-was-spray-paint-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Glenn_Miller_Billboard.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "460-harry-winston-s-first-emerald-cost-25-cents",
+  "number": 460,
+  "title": "Harry Winston's first emerald cost 25 cents",
+  "style": "jewelbox",
+  "topic": "harry winston first emerald 25 cents pawnshop 1908 age twelve sold for 800 dollars premier diamond company banker messenger",
+  "music": "music-460.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "emerald"
+  },
+  "hook": {
+    "text": "Harry Winston's first emerald cost 25 cents.",
+    "gold": [
+      "emerald",
+      "cents."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Harry Winston's first emerald cost 25 cents.",
+      "say": "Harry Winston's first emerald cost twenty five cents.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At age 12, he spotted a green stone in a pawnshop.",
+      "say": "At age twelve, he spotted a green stone in a pawnshop.",
+      "scene": {
+        "kind": "title",
+        "text": "1908",
+        "sub": "Age twelve",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It sat in a tray of cheap costume jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Costume jewelry"
+      }
+    },
+    {
+      "text": "The pawnshop owner thought the stone was glass.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Just glass"
+      }
+    },
+    {
+      "text": "It was really a two carat emerald.",
+      "scene": {
+        "kind": "piece",
+        "piece": "rough",
+        "stone": "emerald",
+        "label": "A two carat emerald"
+      }
+    },
+    {
+      "text": "He paid 25 cents, buying a second stone to draw less attention.",
+      "say": "He paid twenty five cents, buying a second stone to draw less attention.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A second stone"
+      }
+    },
+    {
+      "text": "Two days later, he sold the emerald for $800.",
+      "say": "Two days later, he sold the emerald for eight hundred dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$800",
+        "sub": "Two days later",
+        "piece": "necklace",
+        "stone": "topaz",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "At 15, he sold gems to oil prospectors in Los Angeles saloons.",
+      "say": "At fifteen, he sold gems to oil prospectors in Los Angeles saloons.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Saloon sales"
+      }
+    },
+    {
+      "text": "At his first bank meeting, a banker took him for a messenger.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Mistaken for a messenger"
+      }
+    },
+    {
+      "text": "So he hired a distinguished older man to front his meetings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "A distinguished front"
+      }
+    },
+    {
+      "text": "He founded the house of Harry Winston in 1932.",
+      "say": "He founded the house of Harry Winston in nineteen thirty two.",
+      "scene": {
+        "kind": "real",
+        "src": "460-harry-winston-s-first-emerald-cost-25-cents-0.jpg",
+        "fit": "card",
+        "label": "A Harry Winston shop",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Harry Winston's first emerald cost 25 cents. At age 12, in 1908, he spotted a green stone in a pawnshop tray of cheap costume jewelry. The owner thought it was glass, but it was a two carat emerald. He paid 25 cents, buying a second stone to draw less attention. Two days later he sold the emerald for 800 dollars. At 15 he sold gems to oil prospectors in Los Angeles saloons. At his first bank meeting a banker took him for a messenger, so he hired a distinguished older man to front his meetings. He founded the house of Harry Winston in 1932.",
+    "hashtags": [
+      "#harrywinston",
+      "#emerald",
+      "#jewelrystory",
+      "#gemstones",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Harry_Winston",
+    "https://www.harrywinston.com/en/history",
+    "https://www.sothebys.com/en/articles/icons-of-jewelry-design-harry-winston",
+    "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2025/06/03/how-the-king-of-diamonds-gave-the-national-museum-of-natural-history-its-crown-jewel/",
+    "https://www.encyclopedia.com/books/politics-and-business-magazines/harry-winston-inc"
+  ],
+  "images": [
+    {
+      "src": "460-harry-winston-s-first-emerald-cost-25-cents-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Kürschner ( talk ) 16:34, 16 January 2026 (UTC)",
+      "page": "https://commons.wikimedia.org/wiki/File:Harry_Winston,_K%C3%B6nigsallee,_D%C3%BCsseldorf,_Januar_2026.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

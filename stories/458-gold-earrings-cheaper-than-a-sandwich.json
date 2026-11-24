@@ -1,0 +1,182 @@
+{
+  "id": "458-gold-earrings-cheaper-than-a-sandwich",
+  "number": 458,
+  "title": "Gold earrings cheaper than a sandwich",
+  "style": "deco",
+  "topic": "ratners gerald ratner prawn sandwich earrings 1991 institute of directors royal albert hall kay jewelers ernest jones signet zales",
+  "music": "music-458.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "peridot",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Gold earrings cheaper than a sandwich.",
+    "gold": [
+      "cheaper",
+      "sandwich."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold earrings cheaper than a sandwich.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Ratners Group was a British jewelry chain.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Ratners Group"
+      }
+    },
+    {
+      "text": "It owned Ernest Jones in Britain and Kay Jewelers in America.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Kay Jewelers"
+      }
+    },
+    {
+      "text": "In 1991, its boss, Gerald Ratner, gave a speech.",
+      "say": "In nineteen ninety one, its boss, Gerald Ratner, gave a speech.",
+      "scene": {
+        "kind": "title",
+        "text": "1991",
+        "sub": "The speech",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The speech was in the Royal Albert Hall in London.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Royal Albert Hall"
+      }
+    },
+    {
+      "text": "He said the group's gold earrings were cheaper than a prawn sandwich.",
+      "scene": {
+        "kind": "real",
+        "src": "458-gold-earrings-cheaper-than-a-sandwich-0.jpg",
+        "fit": "card",
+        "label": "A gold hoop earring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He added that they probably would not outlast the sandwich.",
+      "scene": {
+        "kind": "real",
+        "src": "458-gold-earrings-cheaper-than-a-sandwich-1.jpg",
+        "fit": "card",
+        "label": "A sandwich",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Ratner has said it was meant as a joke.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Meant as a joke"
+      }
+    },
+    {
+      "text": "About 500 million pounds then vanished from the group's value.",
+      "say": "About five hundred million pounds then vanished from the group's value.",
+      "scene": {
+        "kind": "title",
+        "text": "500 million",
+        "sub": "Pounds gone",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1993, the group was renamed Signet.",
+      "say": "In nineteen ninety three, the group was renamed Signet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Signet"
+      }
+    },
+    {
+      "text": "Signet bought Zales in 2014 and still owns Kay Jewelers.",
+      "say": "Signet bought Zales in twenty fourteen and still owns Kay Jewelers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "Kay and Zales"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Gold earrings cheaper than a sandwich. Ratners Group was a British jewelry chain that owned Ernest Jones in Britain and Kay Jewelers in America. In 1991 its boss, Gerald Ratner, gave a speech at the Royal Albert Hall in London. He said the group's gold earrings were cheaper than a prawn sandwich, and that they probably would not outlast it. He has said it was meant as a joke. About 500 million pounds then vanished from the group's value. The group was renamed Signet in 1993. Signet bought Zales in 2014 and still owns Kay Jewelers.",
+    "hashtags": [
+      "#ratners",
+      "#kayjewelers",
+      "#zales",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gerald_Ratner",
+    "https://www.jewellermagazine.com/Article/14998/35-Years-on-How-a-killer-punchline-sunk-a-jewellery-juggernaut",
+    "https://www.eadt.co.uk/news/business/gerald-ratner-on-his-speech-the-ratner-group-ceo-speaks-2504624",
+    "https://en.wikipedia.org/wiki/Signet_Jewelers",
+    "https://www.signetjewelers.com/our-company/history/"
+  ],
+  "images": [
+    {
+      "src": "458-gold-earrings-cheaper-than-a-sandwich-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+      "page": "https://commons.wikimedia.org/wiki/File:Hoop_Earring_MET_68.136.16_EGDP019548.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "458-gold-earrings-cheaper-than-a-sandwich-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jebulon",
+      "page": "https://commons.wikimedia.org/wiki/File:Sandwiches_Vienna.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
