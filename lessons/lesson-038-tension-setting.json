@@ -1,0 +1,157 @@
+{
+ "id": "lesson-038-tension-setting",
+ "series": "lesson",
+ "number": 38,
+ "title": "What a tension setting is",
+ "topic": "tension setting squeezes the stone no prongs no bezel grooves in the band ends girdle springy band presses both sides made to order one stone hard stones mohs 9 diamond sapphire 12,000 pounds per square inch hard to resize knock can loosen",
+ "music": "music-lesson-038.wav",
+ "hook": {
+  "text": "A tension setting squeezes the stone.",
+  "gold": [
+   "tension",
+   "squeezes"
+  ]
+ },
+ "end": {
+  "line": "Renders made with",
+  "handle": "HeyGema"
+ },
+ "lines": [
+  {
+   "text": "A tension setting squeezes the stone.",
+   "scene": {
+    "kind": "photo",
+    "src": "matthew-rose-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.4,
+     "k": 1.2
+    },
+    "label": "This stone sits in prongs"
+   }
+  },
+  {
+   "text": "It holds the stone with no prongs and no bezel.",
+   "scene": {
+    "kind": "title",
+    "text": "Tension",
+    "sub": "No prongs, no bezel"
+   }
+  },
+  {
+   "text": "Tiny grooves in the two band ends hold the stone's edge.",
+   "scene": {
+    "kind": "title",
+    "text": "Grooves",
+    "sub": "In both band ends"
+   }
+  },
+  {
+   "text": "The springy band presses on the stone from both sides.",
+   "scene": {
+    "kind": "title",
+    "text": "A spring",
+    "sub": "The band squeezes"
+   }
+  },
+  {
+   "text": "The jeweler springs the band open and sets the stone.",
+   "scene": {
+    "kind": "steps",
+    "items": [
+     "Open the band",
+     "Set the stone",
+     "Let it close"
+    ],
+    "active": 1,
+    "label": "Setting a tension ring"
+   }
+  },
+  {
+   "text": "When released, the metal springs back and grips it.",
+   "scene": {
+    "kind": "steps",
+    "items": [
+     "Open the band",
+     "Set the stone",
+     "Let it close"
+    ],
+    "active": 2,
+    "label": "Setting a tension ring"
+   }
+  },
+  {
+   "text": "Each ring is made to order for one stone.",
+   "scene": {
+    "kind": "title",
+    "text": "One stone",
+    "sub": "Made to order"
+   }
+  },
+  {
+   "text": "Only hard stones work, about 9 on the Mohs scale or more.",
+   "say": "Only hard stones work, about nine on the Mohs scale or more.",
+   "scene": {
+    "kind": "title",
+    "text": "Mohs 9",
+    "sub": "Diamond or sapphire"
+   }
+  },
+  {
+   "text": "Makers cite about 12,000 pounds of pressure per square inch.",
+   "say": "Makers cite about twelve thousand pounds of pressure per square inch.",
+   "scene": {
+    "kind": "title",
+    "text": "12,000",
+    "sub": "Pounds of pressure"
+   }
+  },
+  {
+   "text": "Resizing is very hard, and a hard knock can loosen the stone.",
+   "scene": {
+    "kind": "title",
+    "text": "Hard to resize",
+    "sub": "A knock can loosen it"
+   }
+  },
+  {
+   "text": "So a tension setting holds a stone by squeezing, not with prongs.",
+   "scene": {
+    "kind": "title",
+    "text": "Squeeze",
+    "sub": "Instead of prongs"
+   }
+  },
+  {
+   "text": "A render shows how the ring looks before anything is cast.",
+   "scene": {
+    "kind": "compare",
+    "before": "cad-wireframe.webp",
+    "after": "cad-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  }
+ ],
+ "post": {
+  "youtube_title": "Jewelry render basics: what a tension setting is",
+  "caption": "A tension setting holds a stone with the squeeze of the metal band instead of prongs. Tiny grooves in the two band ends hold the stone's edge, and the springy band presses on it from both sides. Each ring is made to order for one hard stone, and it is very hard to resize. The renders in this video were made with HeyGema.",
+  "hashtags": [
+   "#tensionsetting",
+   "#jewelrymaking",
+   "#jewelrydesign",
+   "#gemsetting",
+   "#jewelryrendering"
+  ]
+ },
+ "sources": [
+  "https://en.wikipedia.org/wiki/Tension_ring",
+  "https://www.gemselect.com/other-info/tension-settings.php",
+  "https://diamonds.pro/education/tension-settings/",
+  "https://www.bluenile.com/blog/diamonds-jewelry/tension-set-diamond-ring",
+  "https://robinsonsjewelers.com/blogs/news/what-is-a-tension-setting-can-it-really-hold-a-diamond",
+  "https://www.cooksongold.com/blog/?p=11778",
+  "https://www.whiteflash.com/blog/tension-engagement-rings/",
+  "https://4cs.gia.edu/en-us/blog/guide-to-ring-settings/"
+ ]
+}
