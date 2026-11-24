@@ -5784,7 +5784,11 @@
     "zernio_id": "6b0325049a6eeec45bb00820",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgGkSTzmQJH/"
+    }
   },
   "401-a-pastor-handed-over-a-huge-diamond": {
     "at": "2026-11-24T00:00:00Z",
@@ -5793,7 +5797,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1147947827937790",
+      "instagram": "https://www.instagram.com/reel/DgGn_1QFLh0/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711521857547128071"
+    }
   },
   "402-a-gold-coin-with-no-face-value": {
     "at": "2026-11-24T00:30:00Z",
@@ -5801,7 +5811,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1866855994630029",
+      "instagram": "https://www.instagram.com/reel/DgGrDfgjaJq/"
+    }
   },
   "403-a-secret-message-inside-the-band": {
     "at": "2026-11-24T01:00:00Z",
@@ -5809,7 +5824,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1686203706475820",
+      "instagram": "https://www.instagram.com/reel/DgGutZ_AhWA/"
+    }
   },
   "404-he-hid-his-machine-in-the-alps": {
     "at": "2026-11-24T01:30:00Z",
@@ -5817,7 +5837,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgGx9wkk0Gg/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711544480565955847"
+    }
   },
   "405-a-horse-bridle-became-a-necklace": {
     "at": "2026-11-24T02:00:00Z",
@@ -5825,7 +5850,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2066807210705326",
+      "instagram": "https://www.instagram.com/reel/DgG1a_3DmlJ/"
+    }
   },
   "406-a-lord-wore-gold-and-silver-peanuts": {
     "at": "2026-11-24T02:30:00Z",
@@ -5833,7 +5863,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2238784176851250",
+      "instagram": "https://www.instagram.com/reel/DgG44RDj-Ck/"
+    }
   },
   "407-her-first-jewel-was-a-vase": {
     "at": "2026-11-24T03:00:00Z",
@@ -5843,14 +5878,25 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1451927569827543",
+      "instagram": "https://www.instagram.com/reel/DgG8Yb9DuoC/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711567874518994196",
+      "youtube": "https://www.youtube.com/watch?v=FH8sogBIKDY"
+    }
   },
   "408-picasso-s-daughter-turned-scribbles-into-gold": {
     "at": "2026-11-24T03:30:00Z",
     "zernio_id": "6b0378d37e69c42419a420de",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgG_prhDQ8D/"
+    }
   },
   "409-this-golden-hat-may-count-months": {
     "at": "2026-11-24T08:00:00Z",
