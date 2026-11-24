@@ -1,0 +1,170 @@
+{
+  "id": "486-paris-s-olympic-medals-started-chipping",
+  "number": 486,
+  "title": "Paris's Olympic medals started chipping",
+  "style": "gouache",
+  "topic": "paris 2024 olympic medals chaumet eiffel tower iron hexagon monnaie de paris chipping nyjah huston clement secchi crocodile skin varnish replaced 5084",
+  "music": "music-486.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "citrine",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Paris's Olympic medals started chipping.",
+    "gold": [
+      "medals",
+      "chipping."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Paris's Olympic medals started chipping.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Paris jeweler Chaumet designed the 2024 Olympic medals.",
+      "say": "The Paris jeweler Chaumet designed the twenty twenty four Olympic medals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Designed by Chaumet"
+      }
+    },
+    {
+      "text": "Each holds an eighteen gram piece of original Eiffel Tower iron.",
+      "scene": {
+        "kind": "real",
+        "src": "486-paris-s-olympic-medals-started-chipping-0.jpg",
+        "fit": "card",
+        "label": "The Eiffel Tower",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The French mint, Monnaie de Paris, made them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Monnaie de Paris"
+      }
+    },
+    {
+      "text": "Within weeks of the Games, athletes posted medals losing their finish.",
+      "scene": {
+        "kind": "real",
+        "src": "486-paris-s-olympic-medals-started-chipping-1.jpg",
+        "fit": "card",
+        "label": "A Paris 2024 bronze",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "American skateboarder Nyjah Huston said his bronze was starting to chip.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "amethyst",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Starting to chip"
+      }
+    },
+    {
+      "text": "French swimmer Clément Secchi said his bronze looked like crocodile skin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Crocodile skin"
+      }
+    },
+    {
+      "text": "The mint changed its varnish process and offered replacements.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "A new varnish"
+      }
+    },
+    {
+      "text": "The IOC said replacements would be engraved just like the originals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Engraved the same"
+      }
+    },
+    {
+      "text": "The mint had made 5,084 medals for the Olympic and Paralympic Games.",
+      "say": "The mint had made five thousand eighty four medals for the Olympic and Paralympic Games.",
+      "scene": {
+        "kind": "title",
+        "text": "5,084",
+        "sub": "Medals made",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Paris's Olympic medals started chipping. The Paris jeweler Chaumet designed the 2024 Olympic medals, and each holds an 18 gram piece of original Eiffel Tower iron. The French mint, Monnaie de Paris, made them. Within weeks, athletes posted medals losing their finish. American skateboarder Nyjah Huston said his bronze was starting to chip, and French swimmer Clément Secchi said his looked like crocodile skin. The mint changed its varnish process and offered replacements, engraved just like the originals. It had made 5,084 medals for the Olympic and Paralympic Games.",
+    "hashtags": [
+      "#olympics",
+      "#paris2024",
+      "#chaumet",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://abcnews.go.com/Sports/wireStory/paris-olympic-athletes-medals-replaced-after-quickly-deteriorating-117652335",
+    "https://www.cbssports.com/olympics/news/2024-paris-olympics-athletes-claim-medals-from-summer-games-are-already-falling-apart",
+    "https://amp.cbc.ca/sports/olympics/summer/paris-olympic-games-medals-deteriorating-1.7430528",
+    "https://nzherald.co.nz/sport/olympics/european-union-rules-blamed-for-degrading-paris-olympic-medals/FUKCZLUQ4RCKLFVOY6TLZOG5EA",
+    "https://jamaicaobserver.com/2025/02/28/200-damaged-paris-olympics-paralympics-medals-replaced",
+    "https://www.olympics.com/ioc/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower",
+    "https://www.paris.fr/en/pages/olympic-medals-a-part-of-the-eiffel-tower-a-part-of-history-27491"
+  ],
+  "images": [
+    {
+      "src": "486-paris-s-olympic-medals-started-chipping-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Benh LIEU SONG",
+      "page": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "486-paris-s-olympic-medals-started-chipping-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Thibault Taillandier",
+      "page": "https://commons.wikimedia.org/wiki/File:Bolad%C3%A9_Apithy_with_his_olympic_bronze_medal_2024.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "484-luke-combs-got-snubbed-buying-a-rolex",
+  "number": 484,
+  "title": "Luke Combs got snubbed buying a Rolex",
+  "style": "jewelbox",
+  "topic": "luke combs rolex yacht master snubbed new york 2018 camo gym shorts madison square garden jason aldean godiva grandfather mill popcast",
+  "music": "music-484.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "sapphire",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Luke Combs got snubbed buying a Rolex.",
+    "gold": [
+      "snubbed",
+      "Rolex."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Luke Combs got snubbed buying a Rolex.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2018, Luke Combs walked into a Rolex store in New York.",
+      "say": "In twenty eighteen, Luke Combs walked into a Rolex store in New York.",
+      "scene": {
+        "kind": "real",
+        "src": "484-luke-combs-got-snubbed-buying-a-rolex-0.jpg",
+        "fit": "card",
+        "label": "A Rolex watch",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He wore camo gym shorts and asked for a steel Yacht Master.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "Camo gym shorts"
+      }
+    },
+    {
+      "text": "Staff told him you can't just get one of those.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "You can't just get one"
+      }
+    },
+    {
+      "text": "So he mentioned he was playing Madison Square Garden that night.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "amethyst",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Madison Square Garden"
+      }
+    },
+    {
+      "text": "Suddenly, a watch had been on hold in the back.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "On hold"
+      }
+    },
+    {
+      "text": "He joked that he got treated like the film Pretty Woman.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Pretty Woman"
+      }
+    },
+    {
+      "text": "He compared it to a Godiva store with no chocolate.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "No chocolate"
+      }
+    },
+    {
+      "text": "His grandfather had a Rolex from his years working at a mill.",
+      "scene": {
+        "kind": "title",
+        "text": "Mill",
+        "sub": "His grandfather's Rolex",
+        "piece": "brooch",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He has told the story on The New York Times Popcast.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "The Popcast"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Luke Combs got snubbed buying a Rolex. In 2018, he walked into a Rolex store in New York in camo gym shorts and asked for a stainless steel Yacht Master. Staff told him you can't just get one of those. So he mentioned he was playing Madison Square Garden that night. Suddenly, a watch had been on hold in the back. He joked that he got treated like the film Pretty Woman, and compared it to a Godiva store with no chocolate. His grandfather had a Rolex from his years at a mill. He has told the story on The New York Times Popcast.",
+    "hashtags": [
+      "#lukecombs",
+      "#rolex",
+      "#countrymusic",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://holler.country/news/breaking/when-luke-combs-tried-to-buy-a-rolex-and-got-judged-for-how-he-looked/",
+    "https://www.allcountrynews.com/post/luke-combs-madison-square-garden-milestone-came-with-a-rolex-sort-of",
+    "https://www.whiskeyriff.com/2026/02/25/luke-combs-understands-why-he-got-the-pretty-woman-treatment-buying-a-rolex-in-new-york-city-i-was-wearing-camo-gym-shorts/",
+    "https://www.daytondailynews.com/entertainment/luke-combs-gets-snubbed-rolex-saleswoman/kkiQJfoYC0j4c5D6G8ISvI",
+    "https://www.aol.com/articles/luke-combs-says-first-time-225804114.html",
+    "https://hankfm.com/878090/luke-combs-says-he-got-the-pretty-woman-treatment-at-a-rolex-store"
+  ],
+  "images": [
+    {
+      "src": "484-luke-combs-got-snubbed-buying-a-rolex-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "amh1988",
+      "page": "https://commons.wikimedia.org/wiki/File:Rolex_Deepsea_Sea-Dweller_116660_Blue_Dial_'James_Cameron'_(cropped_and_turned).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

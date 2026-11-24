@@ -1,0 +1,169 @@
+{
+  "id": "485-genoa-s-holy-grail-was-green-glass",
+  "number": 485,
+  "title": "Genoa's Holy Grail was green glass",
+  "style": "deco",
+  "topic": "sacro catino genoa cathedral treasury green hexagonal dish emerald holy grail legend napoleon paris glass 1816 san lorenzo",
+  "music": "music-485.wav",
+  "piece": {
+    "piece": "egg",
+    "tone": "green",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Genoa's Holy Grail was green glass.",
+    "gold": [
+      "Grail",
+      "glass."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Genoa's Holy Grail was green glass.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Genoa's cathedral keeps a green dish called the Sacro Catino.",
+      "scene": {
+        "kind": "real",
+        "src": "485-genoa-s-holy-grail-was-green-glass-0.jpg",
+        "fit": "card",
+        "label": "Genoa Cathedral",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Chronicles say Guglielmo Embriaco brought it to Genoa in 1101.",
+      "say": "Chronicles say Guglielmo Embriaco brought it to Genoa in eleven oh one.",
+      "scene": {
+        "kind": "title",
+        "text": "1101",
+        "sub": "It arrives in Genoa",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "For centuries, people believed it was carved from one huge emerald.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "One huge emerald"
+      }
+    },
+    {
+      "text": "Legend made it the Holy Grail, the dish of the Last Supper.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "The Holy Grail"
+      }
+    },
+    {
+      "text": "Napoleon had it taken to Paris.",
+      "scene": {
+        "kind": "real",
+        "src": "485-genoa-s-holy-grail-was-green-glass-1.jpg",
+        "fit": "card",
+        "label": "Napoleon",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Scientists there tested it and found green glass, not emerald.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "peridot",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Green glass"
+      }
+    },
+    {
+      "text": "It came back to Genoa in 1816, broken, with a piece missing.",
+      "say": "It came back to Genoa in eighteen sixteen, broken, with a piece missing.",
+      "scene": {
+        "kind": "title",
+        "text": "1816",
+        "sub": "Back, broken",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It is kept in the Cathedral of San Lorenzo's treasury museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "San Lorenzo"
+      }
+    },
+    {
+      "text": "The dish stands only 9 centimeters high.",
+      "say": "The dish stands only nine centimeters high.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Nine centimeters"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Genoa's Holy Grail was green glass. Genoa's cathedral treasury keeps a green hexagonal dish, the Sacro Catino. Chronicles say Guglielmo Embriaco brought it to Genoa in 1101. For centuries, people believed it was carved from one huge emerald. Legend made it the Holy Grail, the dish of the Last Supper. Napoleon had it taken to Paris, where scientists tested it and found green glass, not emerald. It came back to Genoa in 1816, broken, with a piece missing. It is kept in the treasury museum of the Cathedral of San Lorenzo, and stands only 9 centimeters high.",
+    "hashtags": [
+      "#genoa",
+      "#emerald",
+      "#holygrail",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sacro_Catino",
+    "https://www.museidigenova.it/en/sacred-basin",
+    "https://visitgenoa.it/en/node/3944",
+    "https://www.historicmysteries.com/history/sacro-catino/23437/"
+  ],
+  "images": [
+    {
+      "src": "485-genoa-s-holy-grail-was-green-glass-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jensens",
+      "page": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_San_Lorenzo_Genoa.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "485-genoa-s-holy-grail-was-green-glass-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Andrea Appiani",
+      "page": "https://commons.wikimedia.org/wiki/File:Napoleon_I_of_France_by_Andrea_Appiani.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "478-kelce-s-super-bowl-ring-vanished-in-chili",
+  "number": 478,
+  "title": "Kelce's Super Bowl ring vanished in chili",
+  "style": "jewelbox",
+  "topic": "jason kelce super bowl lii ring lost skyline chili lombaby games university of cincinnati new heights podcast april 2024 insurance claim landfill",
+  "music": "music-478.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Kelce's Super Bowl ring vanished in chili.",
+    "gold": [
+      "ring",
+      "chili."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kelce's Super Bowl ring vanished in chili.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In April 2024, Jason Kelce hosted a live podcast in Cincinnati.",
+      "say": "In April twenty twenty four, Jason Kelce hosted a live podcast in Cincinnati.",
+      "scene": {
+        "kind": "real",
+        "src": "478-kelce-s-super-bowl-ring-vanished-in-chili-0.jpg",
+        "fit": "card",
+        "label": "Jason Kelce",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Students searched pools of Skyline Chili for rings hidden in socks.",
+      "scene": {
+        "kind": "real",
+        "src": "478-kelce-s-super-bowl-ring-vanished-in-chili-1.jpg",
+        "fit": "card",
+        "label": "Skyline Chili",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "One ring was a replica, and the other was his real one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "One was real"
+      }
+    },
+    {
+      "text": "Kelce said on his podcast that he had legitimately lost it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Legitimately lost"
+      }
+    },
+    {
+      "text": "His theory was that a sock got kicked out and thrown away.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "The sock"
+      }
+    },
+    {
+      "text": "A metal detector failed, because the chili contains iron.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Iron in the chili"
+      }
+    },
+    {
+      "text": "He guessed it was in a landfill near Cincinnati.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "A landfill"
+      }
+    },
+    {
+      "text": "He filed a claim and planned to get a new ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A new one"
+      }
+    },
+    {
+      "text": "That ring came from the Eagles' 41 to 33 Super Bowl win.",
+      "say": "That ring came from the Eagles' forty one to thirty three Super Bowl win.",
+      "scene": {
+        "kind": "title",
+        "text": "41 to 33",
+        "sub": "Super Bowl LII",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Kelce's Super Bowl ring vanished in chili. In April 2024, Jason Kelce and his brother Travis hosted a live New Heights podcast show at the University of Cincinnati. Students searched pools of Skyline Chili for rings hidden in socks. One ring was a replica, and one was Jason's real Super Bowl ring. He said he had legitimately lost it, and guessed the sock was kicked out and thrown away. A metal detector failed because the chili contains iron. He filed an insurance claim. The ring came from the Eagles' 41 to 33 win in Super Bowl LII.",
+    "hashtags": [
+      "#jasonkelce",
+      "#superbowl",
+      "#eagles",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.si.com/nfl/2024/04/17/jason-kelce-eagles-super-bowl-ring-skyline-chili",
+    "https://www.cbssports.com/nfl/news/jason-kelce-lost-super-bowl-lii-ring-in-pool-of-skyline-chili",
+    "https://www.wcpo.com/jason-kelce-says-he-lost-his-super-bowl-ring-in-a-pool-of-chili",
+    "https://www.aol.com/jason-kelce-legitimately-lost-super-164034880.html",
+    "https://www.thescore.com/news/2895520",
+    "https://www.cbsnews.com/amp/pittsburgh/news/jason-kelce-super-bowl-ring-philadelphia-eagles",
+    "https://en.wikipedia.org/wiki/Jason_Kelce"
+  ],
+  "images": [
+    {
+      "src": "478-kelce-s-super-bowl-ring-vanished-in-chili-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Staff Sgt. Anthony Parson",
+      "page": "https://commons.wikimedia.org/wiki/File:Jason_Kelce_Salute_to_Service_2026_48973.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "478-kelce-s-super-bowl-ring-vanished-in-chili-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "No machine-readable author provided. TheDapperDan assumed (based on copyright claims).",
+      "page": "https://commons.wikimedia.org/wiki/File:Skyline_4-way.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

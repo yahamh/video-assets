@@ -1,0 +1,164 @@
+{
+  "id": "481-miss-universe-s-crown-broke-from-dancing",
+  "number": 481,
+  "title": "Miss Universe's crown broke from dancing",
+  "style": "jewelbox",
+  "topic": "miss universe mikimoto crown broke catriona gray dancing homecoming parade quezon city february 2019 phoenix 120 pearls 500 diamonds",
+  "music": "music-481.wav",
+  "piece": {
+    "piece": "pearl",
+    "tone": "white",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Miss Universe's crown broke from dancing.",
+    "gold": [
+      "crown",
+      "dancing."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Miss Universe's crown broke from dancing.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2018, Catriona Gray wore Mikimoto's phoenix crown as Miss Universe.",
+      "say": "In twenty eighteen, Catriona Gray wore Mikimoto's phoenix crown as Miss Universe.",
+      "scene": {
+        "kind": "real",
+        "src": "481-miss-universe-s-crown-broke-from-dancing-0.jpg",
+        "fit": "card",
+        "label": "Catriona Gray",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In February 2019, she came home to a parade in Quezon City.",
+      "say": "In February twenty nineteen, she came home to a parade in Quezon City.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A homecoming parade"
+      }
+    },
+    {
+      "text": "A band's drums made her want to dance.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Drums"
+      }
+    },
+    {
+      "text": "She danced, and a piece of the crown fell off.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "A piece fell off"
+      }
+    },
+    {
+      "text": "Fans soon spotted the missing piece.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Spotted by fans"
+      }
+    },
+    {
+      "text": "On March 19, she held it up in a video.",
+      "say": "On March nineteen, she held it up in a video.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "The video"
+      }
+    },
+    {
+      "text": "She said the Mikimoto had seen better days because of her dancing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Better days"
+      }
+    },
+    {
+      "text": "Miss Universe replied that it would be fixed in no time.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Fixed in no time"
+      }
+    },
+    {
+      "text": "The crown has 120 pearls and about 500 diamonds.",
+      "say": "The crown has one hundred twenty pearls and about five hundred diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "120 pearls",
+        "sub": "And 500 diamonds",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Miss Universe's crown broke from dancing. In 2018, Catriona Gray wore Mikimoto's phoenix crown as Miss Universe. In February 2019, she came home to a parade in Quezon City. A band's drums made her want to dance, and a piece of the crown fell off. Fans spotted the missing piece. On March 19, she held it up in a video and said the Mikimoto had seen better days because of her dancing. Miss Universe replied that it would be fixed in no time. The crown has 120 pearls and about 500 diamonds.",
+    "hashtags": [
+      "#missuniverse",
+      "#mikimoto",
+      "#crown",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rappler.com/life-and-style/specials/miss-universe/226194-reason-mikimoto-crown-broke-catriona-gray-homecoming-parade",
+    "https://abs-cbn.com/life/03/20/19/watch-catriona-gray-explains-story-behind-broken-mikimoto-crown",
+    "https://entertainment.inquirer.net/?p=322501",
+    "https://www.philstar.com/entertainment/2019/03/20/1903084/catriona-gray-explains-what-broke-her-13m-miss-universe-crown",
+    "https://gmanetwork.com/news/lifestyle/content/688573/catriona-gray-explains-how-her-precious-miss-universe-mikimoto-crown-broke/story",
+    "https://abs-cbn.com/life/02/25/19/watch-catriona-gray-keeps-poise-as-crown-breaks-during-parade"
+  ],
+  "images": [
+    {
+      "src": "481-miss-universe-s-crown-broke-from-dancing-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Avito C. Dalan for the Philippine News Agency",
+      "page": "https://commons.wikimedia.org/wiki/File:Catriona_Gray_Frontrow_Cares.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

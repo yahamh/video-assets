@@ -1,0 +1,155 @@
+{
+  "id": "482-tissot-once-carved-watches-from-granite",
+  "number": 482,
+  "title": "Tissot once carved watches from granite",
+  "style": "deco",
+  "topic": "tissot rockwatch granite watch case 1985 swiss alps quartz crisis hiking trail hands lapis lazuli pearlwatch 2025 reissue 999 pieces",
+  "music": "music-482.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "topaz",
+    "metal": "platinum",
+    "stones": 10
+  },
+  "hook": {
+    "text": "Tissot once carved watches from granite.",
+    "gold": [
+      "carved",
+      "granite."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tissot once carved watches from granite.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1985, Tissot launched a watch with a case of natural stone.",
+      "say": "In nineteen eighty five, Tissot launched a watch with a case of natural stone.",
+      "scene": {
+        "kind": "real",
+        "src": "482-tissot-once-carved-watches-from-granite-0.jpg",
+        "fit": "card",
+        "label": "A Tissot Le Locle",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The stone was granite from the Swiss Alps.",
+      "scene": {
+        "kind": "real",
+        "src": "482-tissot-once-carved-watches-from-granite-1.jpg",
+        "fit": "card",
+        "label": "A granite cliff",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Tissot designed special machines to bore cases out of solid stone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Special machines"
+      }
+    },
+    {
+      "text": "The hands were red and yellow, copied from Swiss hiking trail markers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Trail marker hands"
+      }
+    },
+    {
+      "text": "It is credited with lifting Tissot out of the quartz crisis.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The quartz crisis"
+      }
+    },
+    {
+      "text": "Later stones included lapis lazuli and prehistoric coral from the Swiss Jura.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "tanzanite",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Lapis and coral"
+      }
+    },
+    {
+      "text": "A mother of pearl version, nicknamed the PearlWatch, followed.",
+      "scene": {
+        "kind": "piece",
+        "piece": "pearl",
+        "tone": "white",
+        "metal": "platinum",
+        "label": "The PearlWatch"
+      }
+    },
+    {
+      "text": "In 2025, Tissot brought it back, limited to 999 pieces.",
+      "say": "In twenty twenty five, Tissot brought it back, limited to nine hundred ninety nine pieces.",
+      "scene": {
+        "kind": "title",
+        "text": "999",
+        "sub": "Pieces",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tissot once carved watches from granite. In 1985, Tissot launched a watch with a case of natural stone. The stone was granite from the Swiss Alps. Tissot had to design special machines to bore cases out of solid stone. The hands were red and yellow, copied from Swiss hiking trail markers. It arrived in the quartz crisis, and is credited with lifting Tissot out. Later stones included lapis lazuli and prehistoric coral from the Swiss Jura. In 2025, Tissot brought the RockWatch back, limited to 999 pieces.",
+    "hashtags": [
+      "#tissot",
+      "#rockwatch",
+      "#watches",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/RockWatch",
+    "https://www.gearpatrol.com/watches/tissot-rockwatch/",
+    "https://www.tissotwatches.com/en-en/magazine-news-rockwatch.html",
+    "https://italianwatchspotter.com/story-of-the-tissot-rockwatch/?lang=en",
+    "https://timeandtidewatches.com/the-rockwatch-from-1985-2025-how-tissot-carved-out-a-watch-icon-video/"
+  ],
+  "images": [
+    {
+      "src": "482-tissot-once-carved-watches-from-granite-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "TheUrsus",
+      "page": "https://commons.wikimedia.org/wiki/File:TissotLeLocle.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "482-tissot-once-carved-watches-from-granite-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "W.carter",
+      "page": "https://commons.wikimedia.org/wiki/File:Granite_cliff_with_feldspar_crystals_in_Loddebo_2.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "483-a-museum-s-diamond-was-just-glass",
+  "number": 483,
+  "title": "A museum's diamond was just glass",
+  "style": "gouache",
+  "topic": "national museum prague fake gems audit glass diamond synthetic sapphire synthetic rubies 2018 200000 crowns",
+  "music": "music-483.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A museum's diamond was just glass.",
+    "gold": [
+      "diamond",
+      "glass."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A museum's diamond was just glass.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In March 2018, Prague's National Museum reported fakes in its gem collection.",
+      "say": "In March twenty eighteen, Prague's National Museum reported fakes in its gem collection.",
+      "scene": {
+        "kind": "real",
+        "src": "483-a-museum-s-diamond-was-just-glass-0.jpg",
+        "fit": "card",
+        "label": "The National Museum",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its five carat diamond, held since the 1960s, was plain glass.",
+      "say": "Its five carat diamond, held since the nineteen sixties, was plain glass.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Plain glass"
+      }
+    },
+    {
+      "text": "A nineteen carat sapphire, bought in the 1970s, was synthetic.",
+      "say": "A nineteen carat sapphire, bought in the nineteen seventies, was synthetic.",
+      "scene": {
+        "kind": "real",
+        "src": "483-a-museum-s-diamond-was-just-glass-1.jpg",
+        "fit": "card",
+        "label": "A lab made sapphire",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A real one would be worth tens of millions of crowns today.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Tens of millions"
+      }
+    },
+    {
+      "text": "About half of the museum's rubies turned out to be synthetic too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Half the rubies"
+      }
+    },
+    {
+      "text": "The museum did not know how the fakes got in.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "How did they get in"
+      }
+    },
+    {
+      "text": "The deputy director suggested a show of fakes found in museums worldwide.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A show of fakes"
+      }
+    },
+    {
+      "text": "The fake sapphire had cost 200,000 crowns.",
+      "say": "The fake sapphire had cost two hundred thousand crowns.",
+      "scene": {
+        "kind": "title",
+        "text": "200,000",
+        "sub": "Crowns, for a fake",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A museum's diamond was just glass. In March 2018, Prague's National Museum reported fakes in its gem collection. Its five carat diamond, held since the 1960s, was plain glass cut like one. A nineteen carat sapphire, bought in the 1970s, was synthetic. A real one would be worth tens of millions of crowns today. About half of the museum's rubies turned out to be synthetic too. The museum did not know how the fakes got in. The deputy director suggested a show of fakes found in museums worldwide. The fake sapphire had cost 200,000 crowns.",
+    "hashtags": [
+      "#museum",
+      "#diamond",
+      "#fakegems",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.diamondworld.net/news/16176",
+    "https://www.jckonline.com/?p=58238",
+    "https://rapaport.com/?p=32712",
+    "https://www.jewellermagazine.com/Article/7712/Museum-discovers-fake-diamonds-and-gemstones",
+    "https://gemcamp.blogspot.com/2018/03/a-museum-finds-fakes-in-its-gem.html"
+  ],
+  "images": [
+    {
+      "src": "483-a-museum-s-diamond-was-just-glass-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Szombat78",
+      "page": "https://commons.wikimedia.org/wiki/File:The_national_museum_Prague.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "483-a-museum-s-diamond-was-just-glass-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "WhiteOakTree",
+      "page": "https://commons.wikimedia.org/wiki/File:Sapphire_boule,_Kyropoulos_method.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

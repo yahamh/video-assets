@@ -1,0 +1,155 @@
+{
+  "id": "480-harry-winston-invented-this-necklace-s-name",
+  "number": 480,
+  "title": "Harry Winston invented this necklace's name",
+  "style": "gouache",
+  "topic": "harry winston spanish inquisition necklace katharine hepburn 1947 academy awards smithsonian emeralds maharaja of indore necklace 1955 1972",
+  "music": "music-480.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Harry Winston invented this necklace's name.",
+    "gold": [
+      "invented",
+      "name."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Harry Winston invented this necklace's name.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1947, Winston bought an emerald necklace from a prince's family.",
+      "say": "In nineteen forty seven, Winston bought an emerald necklace from a prince's family.",
+      "scene": {
+        "kind": "title",
+        "text": "1947",
+        "sub": "Winston buys it",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "He named it the Spanish Inquisition Necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A made up name"
+      }
+    },
+    {
+      "text": "The name has no known tie to the Spanish Inquisition.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "topaz",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "No known tie"
+      }
+    },
+    {
+      "text": "Later tales said Spanish, then French, royalty owned it first.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Tales of royalty"
+      }
+    },
+    {
+      "text": "None of that was ever shown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Never shown"
+      },
+      "hold": 0.5
+    },
+    {
+      "text": "Katharine Hepburn borrowed it for the 1947 Academy Awards.",
+      "say": "Katharine Hepburn borrowed it for the nineteen forty seven Academy Awards.",
+      "scene": {
+        "kind": "real",
+        "src": "480-harry-winston-invented-this-necklace-s-name-0.jpg",
+        "fit": "card",
+        "label": "Katharine Hepburn",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Winston sold it in 1955, and the Smithsonian got it in 1972.",
+      "say": "Winston sold it in nineteen fifty five, and the Smithsonian got it in nineteen seventy two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "The Smithsonian"
+      }
+    },
+    {
+      "text": "It holds 15 emeralds, and the largest weighs about 45 carats.",
+      "say": "It holds fifteen emeralds, and the largest weighs about forty five carats.",
+      "scene": {
+        "kind": "title",
+        "text": "15",
+        "sub": "Emeralds",
+        "piece": "stone",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Harry Winston invented this necklace's name. In 1947, he bought an emerald and diamond necklace from a prince's family and named it the Spanish Inquisition Necklace. The name has no known tie to the Spanish Inquisition. Later tales said Spanish, then French, royalty owned it first, but none of that was ever shown. Katharine Hepburn borrowed it for the 1947 Academy Awards. Winston sold it in 1955, and it went to the Smithsonian in 1972. It holds 15 emeralds, and the largest weighs about 45 carats.",
+    "hashtags": [
+      "#harrywinston",
+      "#emerald",
+      "#oscars",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maharaja_of_Indore_Necklace",
+    "https://www.ganoksin.com/article/the-spanish-inquisition-necklace",
+    "https://gemselect.com/other-info/spanish-inquisition-necklace.php",
+    "https://www.yahoo.com/lifestyle/katharine-hepburn-harry-winston-paved-160000790.html",
+    "https://4cs.gia.edu/en-us/blog/oscar-history-a-look-at-noteworthy-jewelry/",
+    "https://si.edu/newsdesk/photos/spanish-inquisition-necklace"
+  ],
+  "images": [
+    {
+      "src": "480-harry-winston-invented-this-necklace-s-name-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Metro-Goldwyn-Mayer Studios ; Restored by Adam Cuerden",
+      "page": "https://commons.wikimedia.org/wiki/File:Katharine_Hepburn_publicity_photograph.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

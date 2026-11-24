@@ -1,0 +1,167 @@
+{
+  "id": "479-russell-crowe-s-patek-was-only-borrowed",
+  "number": 479,
+  "title": "Russell Crowe's Patek was only borrowed",
+  "style": "deco",
+  "topic": "russell crowe patek philippe watch borrowed on loan aaron taylor johnson kraven the hunter jimmy kimmel december 2024 handshake wrap gift les paul",
+  "music": "music-479.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "aquamarine",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Russell Crowe's Patek was only borrowed.",
+    "gold": [
+      "Patek",
+      "borrowed."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Russell Crowe's Patek was only borrowed.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Aaron Taylor Johnson told Jimmy Kimmel about working with Russell Crowe.",
+      "scene": {
+        "kind": "title",
+        "text": "Kimmel",
+        "sub": "The story",
+        "piece": "ring",
+        "stone": "topaz",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Crowe played his father in the film Kraven the Hunter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Playing his father"
+      }
+    },
+    {
+      "text": "Crowe stayed in character and showed him his Patek Philippe watch.",
+      "scene": {
+        "kind": "real",
+        "src": "479-russell-crowe-s-patek-was-only-borrowed-0.jpg",
+        "fit": "card",
+        "label": "A Patek Philippe",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He insisted, in a Russian accent, that it was the real thing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "The real thing"
+      }
+    },
+    {
+      "text": "Taylor Johnson hinted by quoting Patek's slogan about never really owning one.",
+      "scene": {
+        "kind": "real",
+        "src": "479-russell-crowe-s-patek-was-only-borrowed-1.jpg",
+        "fit": "card",
+        "label": "A Patek Philippe watch",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "When filming ended, Crowe offered a handshake, and there was no watch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A handshake"
+      }
+    },
+    {
+      "text": "Crowe explained that it was on loan and had to go back.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "stones": 10,
+        "label": "On loan"
+      }
+    },
+    {
+      "text": "He said it was worth half a million dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Half a million"
+      }
+    },
+    {
+      "text": "The actors playing his sons got cash and a Les Paul guitar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Cash and a guitar"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Russell Crowe's Patek was only borrowed. Aaron Taylor Johnson told Jimmy Kimmel about filming Kraven the Hunter with Crowe, who played his father. Crowe stayed in character and showed him his Patek Philippe watch. Taylor Johnson hinted by quoting Patek's slogan about never really owning one. When filming ended, Crowe offered a handshake, and there was no watch. Crowe said it was on loan and worth half a million dollars. The actors who played his sons got cash and a Les Paul guitar.",
+    "hashtags": [
+      "#russellcrowe",
+      "#patekphilippe",
+      "#watches",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://nzherald.co.nz/entertainment/aaron-taylor-johnson-reveals-parting-gift-from-kraven-the-hunter-co-star-russell-crowe/J76KKEH2HNDX3CO2L5SS2MCEEA",
+    "https://huffingtonpost.co.uk/entry/aaron-taylor-johnson-reveals-russell-crowe-wrap-gift-stingy_uk_67596fbfe4b04fd5c366a002",
+    "https://www.aol.com/news/aaron-taylor-johnson-says-snubbed-105314258.html",
+    "https://www.aol.com/aaron-taylor-johnson-says-russell-234934355.html",
+    "https://www.inkl.com/news/aaron-taylor-johnson-says-he-was-snubbed-by-russell-crowe-in-5k-wrap-gift-prank",
+    "https://au.lifestyle.yahoo.com/aaron-taylor-johnson-says-russell-234934185.html"
+  ],
+  "images": [
+    {
+      "src": "479-russell-crowe-s-patek-was-only-borrowed-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "User:Jeff Muscato",
+      "page": "https://commons.wikimedia.org/wiki/File:Calatrava1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "479-russell-crowe-s-patek-was-only-borrowed-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Patek_Philippe_Minute_Repeater_Split_Seconds_Chronograph,_Geneva,_Switzerland,_c._1895_-_Franklin_Institute_-_DSC06644.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
