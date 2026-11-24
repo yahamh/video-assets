@@ -1,1 +1,2 @@
 # 24 Nov 2026: run 139 failed in its Tools step (the Ubuntu mirror served ffmpeg's packages too slowly and the apt limits ended the last try, no video was made); this push queues the next run for stories 458 to 466.
+# 24 Nov 2026: run 141 failed in its Tools step again (the mirror was too slow for ffmpeg's packages); make.yml now installs ffmpeg without its recommended packages, and this push queues the next run for story 467 and lesson 038.
