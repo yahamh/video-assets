@@ -5904,7 +5904,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1636533060798281",
+      "instagram": "https://www.instagram.com/reel/DgHenHNk4i9/"
+    }
   },
   "410-cartier-s-gems-waited-decades-for-a-name": {
     "at": "2026-11-24T08:30:00Z",
@@ -5913,7 +5918,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1466513935608105",
+      "instagram": "https://www.instagram.com/reel/DgHiDaJGMvi/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711652753646341394"
+    }
   },
   "411-red-diamonds-almost-never-get-this-big": {
     "at": "2026-11-24T09:00:00Z",
@@ -6370,6 +6381,14 @@
     "at": "2026-11-25T16:30:00Z",
     "zernio_id": "6b0535d829b0dd0ae925227e",
     "platforms": [
+      "instagram"
+    ]
+  },
+  "467-drake-s-tooth-diamond-looked-like-a-pepper": {
+    "at": "2026-11-25T17:00:00Z",
+    "zernio_id": "6b05531cf202b993c05b53c1",
+    "platforms": [
+      "facebook",
       "instagram"
     ]
   },
@@ -7003,6 +7022,13 @@
   "lesson-037-channel-setting": {
     "at": "2026-11-29T16:00:00Z",
     "zernio_id": "6b0378fff0ca6311d651f485",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-038-tension-setting": {
+    "at": "2026-11-30T16:00:00Z",
+    "zernio_id": "6b0553248fbb4d40b72ce9ff",
     "platforms": [
       "youtube"
     ]
