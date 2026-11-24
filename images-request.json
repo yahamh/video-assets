@@ -1,122 +1,132 @@
 {
  "queries": [
   {
-   "key": "h-timex",
+   "key": "h-ratner",
    "commons": [
-    "Timex watch",
-    "Waterbury Clock Company",
-    "John Cameron Swayze",
-    "Timex wristwatch",
-    "Outboard motor propeller",
-    "Waterbury Connecticut"
+    "Royal Albert Hall",
+    "Prawn sandwich",
+    "Gold hoop earrings",
+    "H. Samuel shop",
+    "Kay Jewelers store",
+    "Earrings gold",
+    "Sandwich"
    ],
    "max": 7
   },
   {
-   "key": "h-skull",
+   "key": "h-gaga",
    "commons": [
-    "British Museum crystal skull",
-    "Crystal skull",
-    "Rock crystal skull",
-    "Tiffany & Co. Union Square",
-    "Idar-Oberstein",
-    "British Museum Great Court"
+    "Blade of grass",
+    "Grass blade macro",
+    "Resin ring",
+    "Lady Gaga",
+    "Lady Gaga 2019 Academy Awards",
+    "Lido di Venezia Venice Film Festival",
+    "Rock climbing"
    ],
    "max": 7
   },
   {
-   "key": "h-newman",
+   "key": "h-winston",
    "commons": [
-    "Paul Newman",
-    "Paul Newman 1960s",
-    "Rolex Daytona",
-    "Rolex Cosmograph Daytona",
-    "Joanne Woodward",
-    "Wristwatch case back engraving"
+    "Harry Winston",
+    "Harry Winston Fifth Avenue",
+    "Emerald crystal",
+    "Emerald rough",
+    "Pawn shop",
+    "Harry Winston Inc",
+    "Emerald gemstone"
    ],
    "max": 7
   },
   {
-   "key": "h-mickey",
+   "key": "h-warriors",
    "commons": [
-    "Mickey Mouse watch",
-    "Ingersoll Mickey Mouse watch",
-    "Mickey Mouse wristwatch 1930s",
-    "Walt Disney 1935",
-    "Macy's Herald Square",
-    "1933 Chicago World's Fair"
+    "Golden State Warriors 2018",
+    "Oracle Arena",
+    "Stephen Curry 2018",
+    "NBA championship ring",
+    "Championship ring",
+    "Warriors championship parade 2018",
+    "Sapphire ring"
    ],
    "max": 7
   },
   {
-   "key": "h-slippers",
+   "key": "h-tiara",
    "commons": [
-    "Ruby slippers Smithsonian",
-    "Dorothy's ruby slippers",
-    "Ruby slippers Wizard of Oz",
-    "Judy Garland Wizard of Oz 1939",
-    "Yellow brick road",
-    "Silver shoes Wizard of Oz book"
+    "Tiara of Saitaferne",
+    "Tiara of Saitaphernes",
+    "Israel Rouchomovsky",
+    "Tiara Saitapharnes Louvre",
+    "Louvre Museum",
+    "Scythian gold",
+    "Olbia"
    ],
    "max": 7
   },
   {
-   "key": "h-oprah",
+   "key": "h-record",
    "commons": [
-    "Argyle diamond mine",
-    "Pink diamonds Argyle",
-    "Sydney Opera House",
-    "Oprah Winfrey",
-    "Oprah Winfrey 2010",
-    "Pink diamond"
+    "Glenn Miller",
+    "Glenn Miller 1942",
+    "Gold record",
+    "Gold disc",
+    "Sun Valley Serenade",
+    "Chattanooga Choo Choo",
+    "RCA Victor"
    ],
    "max": 7
   },
   {
-   "key": "h-moulin",
+   "key": "h-pulsar",
    "commons": [
-    "Moulin Rouge Paris",
-    "Moulin Rouge windmill",
-    "Nicole Kidman",
-    "Diamond necklace",
-    "Blue sapphire",
-    "Boulevard de Clichy Moulin Rouge"
+    "Hamilton Pulsar",
+    "Pulsar watch",
+    "2001 A Space Odyssey",
+    "Stanley Kubrick",
+    "Roger Moore",
+    "Johnny Carson",
+    "LED watch"
    ],
    "max": 7
   },
   {
-   "key": "h-cannon",
+   "key": "h-ballon",
    "commons": [
-    "Nick Cannon",
-    "Round brilliant diamond",
-    "Loafers shoes",
-    "Tom Ford",
-    "Loose diamonds",
-    "America's Got Talent"
+    "Ballon d'Or",
+    "Ballon d'Or trophy",
+    "Pyrite",
+    "Pyrite crystal",
+    "Mellerio",
+    "Brass",
+    "Football ball 1956"
    ],
    "max": 7
   },
   {
-   "key": "h-mrt",
+   "key": "h-gleitze",
    "commons": [
-    "Mr. T",
-    "Mr. T WWE Hall of Fame",
-    "Mr. T WrestleMania",
-    "Gold chain necklace",
-    "Nightclub bouncer",
-    "Rocky III"
+    "Mercedes Gleitze",
+    "Mercedes Gleitze 1927",
+    "Hans Wilsdorf",
+    "Rolex Oyster",
+    "English Channel swimmer",
+    "Dover coast",
+    "Rolex Oyster 1926"
    ],
    "max": 7
   },
   {
-   "key": "h-joseff",
+   "key": "h-drake",
    "commons": [
-    "Vivien Leigh Gone with the Wind",
-    "Elizabeth Taylor Cleopatra",
-    "Marilyn Monroe Gentlemen Prefer Blondes",
-    "Costume jewelry brooch",
-    "Rhinestone brooch 1940s",
-    "Joseff of Hollywood"
+    "Wireless Festival",
+    "Wireless Festival London",
+    "Pink diamond",
+    "Pink diamond gemstone",
+    "Drake 2017",
+    "Red pepper",
+    "Gold tooth"
    ],
    "max": 7
   }
