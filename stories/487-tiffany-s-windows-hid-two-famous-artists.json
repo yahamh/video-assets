@@ -1,0 +1,178 @@
+{
+  "id": "487-tiffany-s-windows-hid-two-famous-artists",
+  "number": 487,
+  "title": "Tiffany's windows hid two famous artists",
+  "style": "jewelbox",
+  "topic": "tiffany windows robert rauschenberg jasper johns matson jones custom display gene moore window dresser 1956 1958 bonwit teller pomegranate spider web",
+  "music": "music-487.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "ruby",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Tiffany's windows hid two famous artists.",
+    "gold": [
+      "windows",
+      "artists."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany's windows hid two famous artists.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Robert Rauschenberg and Jasper Johns dressed store windows in the 1950s.",
+      "say": "Robert Rauschenberg and Jasper Johns dressed store windows in the nineteen fifties.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Two young artists"
+      }
+    },
+    {
+      "text": "Two of their clients were Bonwit Teller and Tiffany.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Two clients"
+      }
+    },
+    {
+      "text": "Gene Moore, who ran Tiffany's windows, hired them.",
+      "scene": {
+        "kind": "real",
+        "src": "487-tiffany-s-windows-hid-two-famous-artists-0.jpg",
+        "fit": "card",
+        "label": "A Tiffany window display",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They worked under a fake firm name, Matson Jones Custom Display.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A fake firm"
+      }
+    },
+    {
+      "text": "Rauschenberg wrote that their shame forced them to take that name.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "pink",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Their shame"
+      }
+    },
+    {
+      "text": "Their Tiffany windows ran from 1956 to 1958.",
+      "say": "Their Tiffany windows ran from nineteen fifty six to nineteen fifty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1956",
+        "sub": "Tiffany windows",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "One put jewelry in plaster cast caves.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "citrine",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Plaster caves"
+      }
+    },
+    {
+      "text": "In another, a diamond ring spilled from a painted pomegranate.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A pomegranate"
+      }
+    },
+    {
+      "text": "A spider web showed cocktail earrings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "aquamarine",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "A spider web"
+      }
+    },
+    {
+      "text": "Their last documented Tiffany window, in 1958, was paper birds.",
+      "say": "Their last documented Tiffany window, in nineteen fifty eight, was paper birds.",
+      "scene": {
+        "kind": "title",
+        "text": "1958",
+        "sub": "Paper birds",
+        "piece": "necklace",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tiffany's windows hid two famous artists. In the 1950s, Robert Rauschenberg and Jasper Johns dressed store windows in New York to pay their bills. Two of their clients were Bonwit Teller and Tiffany. Gene Moore, who ran Tiffany's windows, hired them. They worked under a fake firm name, Matson Jones Custom Display. Rauschenberg wrote that their shame forced them to take that name. Their Tiffany windows ran from 1956 to 1958. One put jewelry in plaster cast caves. In another, a diamond ring spilled from a painted pomegranate. A spider web showed cocktail earrings. Their last documented Tiffany window, in 1958, was paper birds.",
+    "hashtags": [
+      "#tiffany",
+      "#rauschenberg",
+      "#jasperjohns",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://greg.org/archive/2015/10/06/the-tiffanys-windows-of-matson-jones.html",
+    "https://www.sfmoma.org/essay/rauschenberg-affection/",
+    "https://www.rauschenbergfoundation.org/artist/chronology/all/1955",
+    "https://anothermag.com/fashion-beauty/8943/robert-rauschenbergs-million-dollar-window-displays",
+    "https://spectator.com/article/warhol-rauschenberg-johns-and-tinguely-all-started-out-as-window-dressers/?edition=us",
+    "https://www.cooperhewitt.org/2017/10/04/cooper-hewitt-short-stories-watch-this-window/",
+    "https://en.wikipedia.org/wiki/Gene_Moore_(window_dresser)"
+  ],
+  "images": [
+    {
+      "src": "487-tiffany-s-windows-hid-two-famous-artists-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Lioobd HAOEU minga",
+      "page": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E7%BE%85%E7%B4%A0%E8%A1%97_Russell_Street_Times_Square_shop_Tiffany_Jewellery_window_display_diamond_June_2024_R12S_02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
