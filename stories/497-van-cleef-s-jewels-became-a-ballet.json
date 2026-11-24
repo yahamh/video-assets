@@ -1,0 +1,167 @@
+{
+  "id": "497-van-cleef-s-jewels-became-a-ballet",
+  "number": 497,
+  "title": "Van Cleef's jewels became a ballet",
+  "style": "deco",
+  "topic": "van cleef arpels jewels ballet george balanchine claude arpels 1966 fifth avenue emeralds rubies diamonds faure stravinsky tchaikovsky karinska new york state theater april 13 1967",
+  "music": "music-497.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Van Cleef's jewels became a ballet.",
+    "gold": [
+      "jewels",
+      "ballet."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Van Cleef's jewels became a ballet.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Claude Arpels gave George Balanchine the idea for a ballet about gems.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Claude Arpels",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In early 1966, Balanchine visited Van Cleef's Fifth Avenue salons.",
+      "say": "In early nineteen sixty six, Balanchine visited Van Cleef's Fifth Avenue salons.",
+      "scene": {
+        "kind": "real",
+        "src": "497-van-cleef-s-jewels-became-a-ballet-0.jpg",
+        "fit": "card",
+        "label": "George Balanchine",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The jewels there struck him.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Struck by jewels",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The ballet has three parts: Emeralds, then Rubies, then Diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Three parts",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The music runs from Faure to Stravinsky to Tchaikovsky.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Three composers"
+      }
+    },
+    {
+      "text": "A part for sapphires was planned, then dropped.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "No sapphires"
+      }
+    },
+    {
+      "text": "Balanchine said the dancers are just dressed like jewels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Dressed like jewels",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It is often called the first full length abstract ballet.",
+      "scene": {
+        "kind": "real",
+        "src": "497-van-cleef-s-jewels-became-a-ballet-1.jpg",
+        "fit": "card",
+        "label": "Balanchine and Suzanne Farrell",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It premiered on April 13, 1967, at the New York State Theater.",
+      "say": "It premiered on April thirteenth, nineteen sixty seven, at the New York State Theater.",
+      "scene": {
+        "kind": "title",
+        "text": "1967",
+        "sub": "New York State Theater",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Van Cleef's jewels became a ballet. Jeweler Claude Arpels gave choreographer George Balanchine the idea for a ballet about gems. In early 1966, Balanchine visited Van Cleef and Arpels' Fifth Avenue salons, and the jewels there struck him. The ballet has three parts, Emeralds, then Rubies, then Diamonds, and the music runs from Faure to Stravinsky to Tchaikovsky. A part for sapphires was planned, then dropped. Balanchine said the dancers are just dressed like jewels. It is often called the first full length abstract ballet and premiered on April 13, 1967, at the New York State Theater.",
+    "hashtags": [
+      "#vancleefarpels",
+      "#balanchine",
+      "#ballet",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jewels_(ballet)",
+    "https://nycballet.com/discover/stories/bringing-gems-to-life/",
+    "https://www.pnb.org/blog/a-historical-look-at-george-balanchines-jewels/"
+  ],
+  "images": [
+    {
+      "src": "497-van-cleef-s-jewels-became-a-ballet-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jack de Nijs for Anefo / Anefo",
+      "page": "https://commons.wikimedia.org/wiki/File:George_Balanchine_op_Schiphol,_Bestanddeelnr_918-1051.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "497-van-cleef-s-jewels-became-a-ballet-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Orlando Fernandez, World Telegram staff photographer",
+      "page": "https://commons.wikimedia.org/wiki/File:Suzanne_Farrell_and_George_Balanchine_NYWTS.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
