@@ -1,0 +1,165 @@
+{
+  "id": "476-the-met-s-cellini-cup-was-a-copy",
+  "number": 476,
+  "title": "The Met's Cellini cup was a copy",
+  "style": "deco",
+  "topic": "rospigliosi cup metropolitan museum cellini copy reinhold vasters aachen benjamin altman 1913 victoria and albert drawings 1909 gold enamel",
+  "music": "music-476.wav",
+  "piece": {
+    "piece": "egg",
+    "stone": "sapphire",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Met's Cellini cup was a copy.",
+    "gold": [
+      "Cellini",
+      "copy."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Met's Cellini cup was a copy.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Metropolitan Museum in New York keeps a gold cup with enamel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "A gold cup"
+      }
+    },
+    {
+      "text": "It is called the Rospigliosi Cup.",
+      "say": "It is called the Ross pee lyoh zee Cup.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "The Rospigliosi Cup"
+      }
+    },
+    {
+      "text": "For years it was credited to the Renaissance master Benvenuto Cellini.",
+      "scene": {
+        "kind": "real",
+        "src": "476-the-met-s-cellini-cup-was-a-copy-0.jpg",
+        "fit": "card",
+        "label": "Benvenuto Cellini",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Collector Benjamin Altman left it to the Met in 1913.",
+      "say": "Collector Benjamin Altman left it to the Met in nineteen thirteen.",
+      "scene": {
+        "kind": "title",
+        "text": "1913",
+        "sub": "To the Met",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Then a conservator took it apart and found work from the 1800s.",
+      "say": "Then a conservator took it apart and found work from the eighteen hundreds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Taken apart"
+      }
+    },
+    {
+      "text": "The Met now describes it as a copy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "A copy"
+      }
+    },
+    {
+      "text": "It is linked to Reinhold Vasters, a goldsmith from Aachen, Germany.",
+      "say": "It is linked to Reinhold Vasters, a goldsmith from Ah ken, Germany.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "Reinhold Vasters"
+      }
+    },
+    {
+      "text": "His drawings sat unnoticed in a London museum for decades.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Unnoticed drawings"
+      }
+    },
+    {
+      "text": "Vasters died in 1909 at age 82.",
+      "say": "Vasters died in nineteen oh nine at age eighty two.",
+      "scene": {
+        "kind": "title",
+        "text": "1909",
+        "sub": "Vasters died",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Met's Cellini cup was a copy. The Metropolitan Museum in New York keeps a gold cup with enamel called the Rospigliosi Cup, after a noble family of Rome. For years it was credited to the Renaissance master Benvenuto Cellini. Collector Benjamin Altman left it to the Met in 1913. Then a conservator took the cup apart and found work from the 1800s. The Met now describes it as a copy. It is linked to Reinhold Vasters, a goldsmith from Aachen, Germany, whose drawings sat unnoticed in a London museum for decades. The Met holds dozens of pieces attributed to him. Vasters died in 1909 at age 82.",
+    "hashtags": [
+      "#metmuseum",
+      "#cellini",
+      "#goldsmith",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/art/collection/search/192708",
+    "https://en.wikipedia.org/wiki/Rospigliosi_Cup",
+    "https://en.wikipedia.org/wiki/Reinhold_Vasters",
+    "https://www.nybooks.com/articles/archives/1986/oct/23/the-fakers-art/",
+    "https://ahlstromappraisals.com/art-history-blog/a-successful-forger-reinhold-vasters?format=amp",
+    "https://theartnewspaper.com/1994/03/01/master-faker-alfred-andres-cache-of-evidence-revealed"
+  ],
+  "images": [
+    {
+      "src": "476-the-met-s-cellini-cup-was-a-copy-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Creator:Carlone Giovanni",
+      "page": "https://commons.wikimedia.org/wiki/File:Cellini,_Benvenuto_%C3%96NB.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

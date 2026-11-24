@@ -1,0 +1,187 @@
+{
+  "id": "468-celine-dion-s-tiara-left-a-forehead-egg",
+  "number": 468,
+  "title": "Celine Dion's tiara left a forehead egg",
+  "style": "gouache",
+  "topic": "celine dion wedding tiara forehead egg 1994 notre dame basilica montreal vogue life in looks antibiotics three weeks rene angelil",
+  "music": "music-468.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "diamond",
+    "cut": "round",
+    "petals": 10,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Celine Dion's tiara left a forehead egg.",
+    "gold": [
+      "forehead",
+      "egg."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Celine Dion's tiara left a forehead egg.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "For her 1994 wedding, Celine Dion wore a crystal tiara.",
+      "say": "For her nineteen ninety four wedding, Celine Dion wore a crystal tiara.",
+      "scene": {
+        "kind": "real",
+        "src": "468-celine-dion-s-tiara-left-a-forehead-egg-0.jpg",
+        "fit": "card",
+        "label": "A Swarovski crystal",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She said she had to be sewn into it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Sewn into it"
+      }
+    },
+    {
+      "text": "She married at Notre Dame Basilica in Montreal.",
+      "scene": {
+        "kind": "real",
+        "src": "468-celine-dion-s-tiara-left-a-forehead-egg-1.jpg",
+        "fit": "card",
+        "label": "Notre Dame Basilica",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She rehearsed on wood, but the church aisle was carpeted.",
+      "scene": {
+        "kind": "real",
+        "src": "468-celine-dion-s-tiara-left-a-forehead-egg-2.jpg",
+        "fit": "card",
+        "label": "The church aisle",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She wore it through the ceremony and the party.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "All night"
+      }
+    },
+    {
+      "text": "When it finally came off, she found a cut.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "The pressure"
+      }
+    },
+    {
+      "text": "By morning, her forehead had a swelling the size of an egg.",
+      "scene": {
+        "kind": "piece",
+        "piece": "egg",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "The size of an egg"
+      }
+    },
+    {
+      "text": "She saw a doctor and took antibiotics for three weeks.",
+      "scene": {
+        "kind": "title",
+        "text": "Three weeks",
+        "sub": "Antibiotics",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "She told the story herself in a Vogue video.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Told by Dion"
+      }
+    },
+    {
+      "text": "The ceremony was shown live on Canadian television.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "diamond",
+        "cut": "round",
+        "petals": 10,
+        "metal": "platinum",
+        "label": "Shown live"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Celine Dion's tiara left a forehead egg. For her wedding in Montreal in 1994, Dion wore a crystal tiara joined to a long veil. She told Vogue she had to be sewn into it. She had rehearsed on a wood floor, but the church aisle was carpeted, which changed how the tiara sat. She wore it through the ceremony and party. When it came off she found a cut, and by morning a lump the size of an egg sat on her forehead. She saw a doctor and took antibiotics for about three weeks. She says she would change nothing. The ceremony was shown live on Canadian television.",
+    "hashtags": [
+      "#celinedion",
+      "#tiara",
+      "#weddingjewelry",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.ktvu.com/news/celine-dion-tiara-hospital-incident",
+    "https://www.marieclaire.com/celebrity/celine-dion-wedding-tiara-hospital",
+    "https://hellomagazine.com/brides/518222/celine-dion-wedding-rene-angelil-disaster-medical-attention",
+    "https://aol.com/lifestyle/c-line-dions-over-top-150000337.html",
+    "https://malaysia.news.yahoo.com/celine-dion-says-her-wedding-173106098.html",
+    "https://theknot.com/content/celine-dion-wedding"
+  ],
+  "images": [
+    {
+      "src": "468-celine-dion-s-tiara-left-a-forehead-egg-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "AuroraTiara",
+      "page": "https://commons.wikimedia.org/wiki/File:Swarovski_crystal_snowflake_pendant_02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "468-celine-dion-s-tiara-left-a-forehead-egg-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Wilfredor",
+      "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Montr%C3%A9al_Basilica_09.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "468-celine-dion-s-tiara-left-a-forehead-egg-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Wilfredor",
+      "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Montr%C3%A9al_Basilica_01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

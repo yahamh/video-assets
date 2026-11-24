@@ -1,0 +1,200 @@
+{
+  "id": "474-the-world-cup-trophy-is-hollow-gold",
+  "number": 474,
+  "title": "The World Cup trophy is hollow gold",
+  "style": "gouache",
+  "topic": "world cup trophy 18 karat gold hollow silvio gazzaniga malachite jules rimet brazil 1970 fifa museum zurich replica engraving 2038",
+  "music": "music-474.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The World Cup trophy is hollow gold.",
+    "gold": [
+      "hollow",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The World Cup trophy is hollow gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1970, Brazil won its third World Cup and kept the trophy.",
+      "say": "In nineteen seventy, Brazil won its third World Cup and kept the trophy.",
+      "scene": {
+        "kind": "real",
+        "src": "474-the-world-cup-trophy-is-hollow-gold-0.jpg",
+        "fit": "card",
+        "label": "The Jules Rimet trophy",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "So FIFA needed a new one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "A new trophy"
+      }
+    },
+    {
+      "text": "The Italian sculptor Silvio Gazzaniga won the design contest.",
+      "scene": {
+        "kind": "real",
+        "src": "474-the-world-cup-trophy-is-hollow-gold-1.jpg",
+        "fit": "card",
+        "label": "The new trophy, 1986",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His trophy is 18 karat gold.",
+      "say": "His trophy is eighteen karat gold.",
+      "scene": {
+        "kind": "title",
+        "text": "18 karat",
+        "sub": "Pure enough",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Inside, it is hollow.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Hollow inside"
+      }
+    },
+    {
+      "text": "Two bands of green malachite circle its base.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Green malachite"
+      }
+    },
+    {
+      "text": "West Germany lifted it first, in 1974.",
+      "say": "West Germany lifted it first, in nineteen seventy four.",
+      "scene": {
+        "kind": "real",
+        "src": "474-the-world-cup-trophy-is-hollow-gold-2.jpg",
+        "fit": "card",
+        "label": "The 1974 final",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Winners do not keep it and get a replica instead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "A replica"
+      }
+    },
+    {
+      "text": "The real one stays at the FIFA Museum in Zurich.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "FIFA Museum"
+      }
+    },
+    {
+      "text": "After Germany's 2014 win, the base was altered for more names.",
+      "say": "After Germany's twenty fourteen win, the base was altered for more names.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Room for names"
+      }
+    },
+    {
+      "text": "The engraving space runs out after 2038.",
+      "say": "The engraving space runs out after twenty thirty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "2038",
+        "sub": "Space runs out",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The World Cup trophy is hollow gold. In 1970, Brazil won a third World Cup and kept the old trophy, so FIFA needed a new one. The Italian sculptor Silvio Gazzaniga won the design contest. His trophy is 18 karat gold and hollow inside, with two bands of green malachite around its base. West Germany lifted it first, in 1974. Winners do not keep it and get a replica instead. The real one stays at the FIFA Museum in Zurich. After Germany's 2014 win, the base was altered to make room for names, and the engraving space runs out after 2038.",
+    "hashtags": [
+      "#worldcup",
+      "#fifa",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Silvio_Gazzaniga",
+    "https://www.fourfourtwo.com/us/competition/the-world-cup-trophy-everything-you-need-to-know",
+    "https://www.si.com/soccer/2018/07/14/world-cup-trophy-weight-height-size-history-details",
+    "https://www.foxsports.com/stories/soccer/fifa-world-cup-trophy-10-facts"
+  ],
+  "images": [
+    {
+      "src": "474-the-world-cup-trophy-is-hollow-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Abel Lafleur",
+      "page": "https://commons.wikimedia.org/wiki/File:Jules_rimet_trophy_at_preston_museum.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "474-the-world-cup-trophy-is-hollow-gold-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Diego_Maradona_holding_the_FIFA_World_Cup_trophy_after_beating_West_Germany_in_the_final.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "474-the-world-cup-trophy-is-hollow-gold-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Bert Verhoeff / Anefo",
+      "page": "https://commons.wikimedia.org/wiki/File:Finale_wereldkampioenschap_voetbal_1974_in_Munchen,_West_Duitsland_tegen_Nederla,_Bestanddeelnr_927-3080.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

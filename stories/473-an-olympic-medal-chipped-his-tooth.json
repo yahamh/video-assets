@@ -1,0 +1,172 @@
+{
+  "id": "473-an-olympic-medal-chipped-his-tooth",
+  "number": 473,
+  "title": "An Olympic medal chipped his tooth",
+  "style": "deco",
+  "topic": "olympic gold medal bite photographers david moeller luge 2010 vancouver whistler chipped front tooth bild last solid gold medal 1912",
+  "music": "music-473.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "citrine",
+    "metal": "yellow",
+    "stones": 9
+  },
+  "hook": {
+    "text": "An Olympic medal chipped his tooth.",
+    "gold": [
+      "medal",
+      "tooth."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "An Olympic medal chipped his tooth.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Winners bite their medals because photographers ask them to.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "For the cameras"
+      }
+    },
+    {
+      "text": "The pose copies an old test for gold coins.",
+      "scene": {
+        "kind": "real",
+        "src": "473-an-olympic-medal-chipped-his-tooth-0.jpg",
+        "fit": "card",
+        "label": "Biting a gold medal",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Real gold is soft, so a bite leaves a dent.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Gold is soft"
+      }
+    },
+    {
+      "text": "But Olympic gold medals have not been solid gold since 1912.",
+      "say": "But Olympic gold medals have not been solid gold since nineteen twelve.",
+      "scene": {
+        "kind": "title",
+        "text": "1912",
+        "sub": "Last solid gold",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "London's 2012 gold medals were only 1.34 percent gold.",
+      "say": "London's twenty twelve gold medals were only one point three four percent gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "ruby",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Mostly silver"
+      }
+    },
+    {
+      "text": "At the 2010 Winter Olympics, German luger David Moeller won silver.",
+      "say": "At the twenty ten Winter Olympics, German luger David Moeller won silver.",
+      "scene": {
+        "kind": "title",
+        "text": "2010",
+        "sub": "Winter Olympics",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Photographers asked the medalists to bite their medals.",
+      "scene": {
+        "kind": "real",
+        "src": "473-an-olympic-medal-chipped-his-tooth-1.jpg",
+        "fit": "card",
+        "label": "A Vancouver 2010 medal",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He told the paper Bild they wanted his medal between his teeth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "emerald",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Between his teeth"
+      }
+    },
+    {
+      "text": "A corner of his front tooth broke off.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "citrine",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "A chipped tooth"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "An Olympic medal chipped his tooth. Winners bite their medals because photographers ask them to. The pose copies an old test for gold coins, because real gold is soft. But Olympic gold medals have not been solid gold since 1912, and London's 2012 gold medals were about 1.34 percent gold. At the 2010 Winter Olympics, German luger David Moeller won silver. Photographers asked the medalists to bite their medals, and he told the paper Bild they wanted his medal between his teeth. A corner of his front tooth broke off.",
+    "hashtags": [
+      "#olympics",
+      "#goldmedal",
+      "#winterolympics",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://olympics.com/en/news/olympic-winners-athlete-bite-medal",
+    "https://www.nbcnews.com/health/youve-just-won-gold-medal-so-why-are-you-trying-932316",
+    "https://www.mentalfloss.com/sports/olympics/why-do-olympians-bite-their-medals",
+    "https://au.sports.yahoo.com/german-luger-chips-a-tooth-biting-his-medal-6825985.html",
+    "https://www.guinnessworldrecords.com/world-records/last-olympic-gold-medal",
+    "https://www.wtvr.com/2012/08/09/why-olympians-bite-their-medals"
+  ],
+  "images": [
+    {
+      "src": "473-an-olympic-medal-chipped-his-tooth-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. Army photo by Tim Hipps, IMCOM Public Affairs",
+      "page": "https://commons.wikimedia.org/wiki/File:GrayBitesGold.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "473-an-olympic-medal-chipped-his-tooth-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Country wind",
+      "page": "https://commons.wikimedia.org/wiki/File:Olympic_gold_medal_(Vancouver_2010_winter_games).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

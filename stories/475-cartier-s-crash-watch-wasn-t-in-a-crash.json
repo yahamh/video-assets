@@ -1,0 +1,181 @@
+{
+  "id": "475-cartier-s-crash-watch-wasn-t-in-a-crash",
+  "number": 475,
+  "title": "Cartier's Crash watch wasn't in a crash",
+  "style": "jewelbox",
+  "topic": "cartier crash watch 1967 london jean jacques cartier rupert emmerson car crash urban myth dali persistence of memory jaeger lecoultre 1991 paris",
+  "music": "music-475.wav",
+  "piece": {
+    "piece": "band",
+    "stone": "ruby",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Cartier's Crash watch wasn't in a crash.",
+    "gold": [
+      "wasn't",
+      "crash."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier's Crash watch wasn't in a crash.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Cartier London introduced the Crash watch in 1967.",
+      "say": "Cartier London introduced the Crash watch in nineteen sixty seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1967",
+        "sub": "The Crash",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Jean Jacques Cartier developed it with the designer Rupert Emmerson.",
+      "scene": {
+        "kind": "real",
+        "src": "475-cartier-s-crash-watch-wasn-t-in-a-crash-0.jpg",
+        "fit": "card",
+        "label": "A Cartier boutique",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They pinched and bent an oval watch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Pinched and bent"
+      }
+    },
+    {
+      "text": "A popular story says a customer's watch warped in a car crash.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "The crash story"
+      }
+    },
+    {
+      "text": "The story says Cartier then copied the damage.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Copied the damage"
+      }
+    },
+    {
+      "text": "Sotheby's calls that story an urban myth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "citrine",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "An urban myth"
+      }
+    },
+    {
+      "text": "The melted look recalls a Dali painting, but no link is proven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "peridot",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A melted look"
+      }
+    },
+    {
+      "text": "The first London Crash had a gold case.",
+      "scene": {
+        "kind": "real",
+        "src": "475-cartier-s-crash-watch-wasn-t-in-a-crash-1.jpg",
+        "fit": "card",
+        "label": "A gold Cartier watch",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its movement came from Jaeger LeCoultre.",
+      "say": "Its movement came from Jaeger Le Coultre.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "tanzanite",
+        "cut": "round",
+        "metal": "yellow",
+        "label": "Jaeger LeCoultre"
+      }
+    },
+    {
+      "text": "Cartier Paris began making the Crash in 1991.",
+      "say": "Cartier Paris began making the Crash in nineteen ninety one.",
+      "scene": {
+        "kind": "title",
+        "text": "1991",
+        "sub": "Paris joins in",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Cartier's Crash watch wasn't in a crash. Cartier London introduced the Crash in 1967. Jean Jacques Cartier developed it with the designer Rupert Emmerson, and they pinched and bent an oval watch. A popular story says a customer's watch warped in a car crash and Cartier copied the damage. Sotheby's calls that story an urban myth. The melted look recalls a Dali painting, but no link is proven. The first London Crash had a gold case and a Jaeger LeCoultre movement. Cartier Paris began making the Crash in 1991.",
+    "hashtags": [
+      "#cartier",
+      "#watches",
+      "#cartiercrash",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://phillips.com/article/the-real-story-behind-the-cartier-crash",
+    "https://www.sothebys.com/en/articles/the-unusual-history-of-the-cartier-crash",
+    "https://en.worldtempus.com/article/watch-knowledge/crash-de-cartier-fortunate-accident-cartier-78182.html",
+    "https://www.highsnobiety.com/p/cartier-crash-watch-history/",
+    "https://watchesbysjx.com/2024/09/collectors-perspective-cartier-crash.html?amp=1"
+  ],
+  "images": [
+    {
+      "src": "475-cartier-s-crash-watch-wasn-t-in-a-crash-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Benoît Prieur",
+      "page": "https://commons.wikimedia.org/wiki/File:Boutique_Cartier_%C3%A0_Monaco_(Avenue_des_Beaux-Arts).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "475-cartier-s-crash-watch-wasn-t-in-a-crash-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Pocket_watch_and_stand_owned_by_Edward_H._Everett,_Cartier,_early_1900s_-_Bennington_Museum_-_Bennington,_VT_-_DSC08668.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

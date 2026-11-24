@@ -1,0 +1,169 @@
+{
+  "id": "469-elvis-bought-diamonds-in-a-bathroom",
+  "number": 469,
+  "title": "Elvis bought diamonds in a bathroom",
+  "style": "jewelbox",
+  "topic": "elvis presley lowell hays jeweler memphian theater men's room toilet seat christmas eve 1969 briefcase tcb taking care of business lightning bolt necklace",
+  "music": "music-469.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Elvis bought diamonds in a bathroom.",
+    "gold": [
+      "diamonds",
+      "bathroom."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Elvis bought diamonds in a bathroom.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "On Christmas Eve 1969, Elvis called jeweler Lowell Hays to a theater.",
+      "say": "On Christmas Eve, nineteen sixty nine, Elvis called jeweler Lowell Hays to a theater.",
+      "scene": {
+        "kind": "real",
+        "src": "469-elvis-bought-diamonds-in-a-bathroom-0.jpg",
+        "fit": "card",
+        "label": "Elvis Presley",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "There was no private room, so Elvis used the men's room.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "No private room"
+      }
+    },
+    {
+      "text": "He sat on a toilet seat with the briefcase on his lap.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "A briefcase of jewels"
+      }
+    },
+    {
+      "text": "He bought three large diamond pieces that night.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "Three diamond gifts"
+      }
+    },
+    {
+      "text": "It began about 200 purchases from that briefcase.",
+      "say": "It began about two hundred purchases from that briefcase.",
+      "scene": {
+        "kind": "title",
+        "text": "200",
+        "sub": "Purchases",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "At shows, he handed jewelry to women in the front row.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "stones": 10,
+        "label": "The front row"
+      }
+    },
+    {
+      "text": "He joked he would sing five minutes longer to pay for it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "Five minutes longer"
+      }
+    },
+    {
+      "text": "Hays made gold TCB necklaces, short for Taking Care of Business.",
+      "scene": {
+        "kind": "real",
+        "src": "469-elvis-bought-diamonds-in-a-bathroom-1.jpg",
+        "fit": "card",
+        "label": "Elvis in 1970",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Elvis later gave Hays a TCB necklace of his own.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "One for Hays"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Elvis bought diamonds in a bathroom. On Christmas Eve in 1969, Elvis called his Memphis jeweler, Lowell Hays, to a movie theater. With no private room, he sat on a toilet seat in the men's room with the briefcase of jewelry on his lap. He bought three large diamond pieces as gifts that night. It was the first of about 200 purchases from that briefcase. Elvis took Hays and the case on tour, and handed jewelry to women in the front row. Hays made gold lightning bolt necklaces for TCB, Taking Care of Business, and Elvis later gave him one.",
+    "hashtags": [
+      "#elvispresley",
+      "#elvis",
+      "#tcb",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.yahoo.com/entertainment/40-years-death-elvis-presley-140305346.html",
+    "https://www.yahoo.com/news/elvis-jeweler-says-king-liked-124300723.html",
+    "https://www.elvis.com.au/presley/video-lowell-hays-elvis-jeweler-remembers-the-king.shtml",
+    "https://entertainment.ha.com/itm/music-memorabilia/props/elvis-presley-gold-tcb-necklace-with-leather-box-after-presley-and-his-friends-and-employees-adopted-the-tcb-acronym-/a/647-23131.s"
+  ],
+  "images": [
+    {
+      "src": "469-elvis-bought-diamonds-in-a-bathroom-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "MGM",
+      "page": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_Publicity_Photo_for_The_Trouble_with_Girls_1968.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "469-elvis-bought-diamonds-in-a-bathroom-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Ollie Atkins, chief White House photographer at the time. See ARC record.",
+      "page": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_1970.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

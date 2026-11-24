@@ -1,0 +1,172 @@
+{
+  "id": "472-tiffany-sold-a-silver-tin-can",
+  "number": 472,
+  "title": "Tiffany sold a silver tin can",
+  "style": "jewelbox",
+  "topic": "tiffany everyday objects tin can sterling silver vermeil paper cup ball of yarn reed krakoff 2017 holiday",
+  "music": "music-472.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "amethyst",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Tiffany sold a silver tin can.",
+    "gold": [
+      "silver",
+      "can."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany sold a silver tin can.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In November 2017, Tiffany released a line called Everyday Objects.",
+      "say": "In November twenty seventeen, Tiffany released a line called Everyday Objects.",
+      "scene": {
+        "kind": "title",
+        "text": "2017",
+        "sub": "Everyday Objects",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It was made for the holiday season.",
+      "scene": {
+        "kind": "real",
+        "src": "472-tiffany-sold-a-silver-tin-can-0.jpg",
+        "fit": "card",
+        "label": "A Tiffany & Co. store",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its chief artistic officer, Reed Krakoff, said it joined craftsmanship and design.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Reed Krakoff"
+      }
+    },
+    {
+      "text": "A paper cup in sterling silver cost 575 dollars.",
+      "say": "A paper cup in sterling silver cost five hundred seventy five dollars.",
+      "scene": {
+        "kind": "real",
+        "src": "472-tiffany-sold-a-silver-tin-can-1.jpg",
+        "fit": "card",
+        "label": "A silver cup",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "There was also a paper plate made of sterling silver.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "pink",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "A silver paper plate"
+      }
+    },
+    {
+      "text": "Leather ping pong paddles came with silver plaques.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Silver plaques"
+      }
+    },
+    {
+      "text": "The tin can was sterling silver and vermeil, with Tiffany blue enamel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Tiffany blue enamel"
+      }
+    },
+    {
+      "text": "A ball of yarn in sterling silver cost 9,000 dollars.",
+      "say": "A ball of yarn in sterling silver cost nine thousand dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "ruby",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "A silver ball of yarn"
+      }
+    },
+    {
+      "text": "The silver tin can cost 1,000 dollars.",
+      "say": "The silver tin can cost one thousand dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "$1,000",
+        "sub": "The tin can",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tiffany sold a silver tin can. In November 2017, Tiffany & Co. released a holiday line called Everyday Objects. Its chief artistic officer, Reed Krakoff, said it joined craftsmanship and design. A paper cup in sterling silver cost 575 dollars, and there was a silver paper plate. The tin can was sterling silver and vermeil with Tiffany blue enamel. A ball of yarn in sterling silver cost 9,000 dollars. The silver tin can cost 1,000 dollars.",
+    "hashtags": [
+      "#tiffany",
+      "#sterlingsilver",
+      "#luxury",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://fortune.com/2017/11/09/tiffany-and-co-tin-can-everyday-objects/",
+    "https://www.dezeen.com/2017/11/08/tiffany-co-jewellers-new-york-everyday-objects-tin-can-gold-silver-luxury/amp/",
+    "https://foxbusiness.com/markets/tiffanys-sells-a-1000-tin-can-as-part-of-everyday-objects-line",
+    "https://www.bustle.com/p/whats-in-tiffanys-new-everyday-objects-home-line-its-amazingly-extra-3218223",
+    "https://www.bloombergquint.com/pursuits/tiffany-s-foray-into-everyday-objects-includes-1-000-tin-can"
+  ],
+  "images": [
+    {
+      "src": "472-tiffany-sold-a-silver-tin-can-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Lioobd HAOEU minga",
+      "page": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E7%BE%85%E7%B4%A0%E8%A1%97_Russell_Street_Times_Square_shop_Tiffany_Jewellery_window_display_diamond_June_2024_R12S_02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "472-tiffany-sold-a-silver-tin-can-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Wmpearl",
+      "page": "https://commons.wikimedia.org/wiki/File:Kiddush_cup_from_Russia,_engraved_sterling_silver,_National_Museum_of_American_Jewish_History.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

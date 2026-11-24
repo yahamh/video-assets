@@ -1,0 +1,173 @@
+{
+  "id": "470-swatch-s-satellite-was-thrown-by-hand",
+  "number": 470,
+  "title": "Swatch's satellite was thrown by hand",
+  "style": "deco",
+  "topic": "swatch internet time beats satellite beatnik sputnik 99 mir space station amateur radio 1999 haignere biel",
+  "music": "music-470.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "topaz",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Swatch's satellite was thrown by hand.",
+    "gold": [
+      "satellite",
+      "thrown"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Swatch's satellite was thrown by hand.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1998, Swatch launched something called Internet Time.",
+      "say": "In nineteen ninety eight, Swatch launched something called Internet Time.",
+      "scene": {
+        "kind": "title",
+        "text": "1998",
+        "sub": "Internet Time",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A day was cut into 1,000 equal parts called beats.",
+      "say": "A day was cut into one thousand equal parts called beats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "One thousand beats"
+      }
+    },
+    {
+      "text": "The day began at midnight in Biel, Switzerland, with no time zones.",
+      "say": "The day began at midnight in Beel, Switzerland, with no time zones.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "No time zones"
+      }
+    },
+    {
+      "text": "In 1999, Swatch backed a satellite for the Mir space station.",
+      "say": "In nineteen ninety nine, Swatch backed a satellite for the Mir space station.",
+      "scene": {
+        "kind": "real",
+        "src": "470-swatch-s-satellite-was-thrown-by-hand-0.jpg",
+        "fit": "card",
+        "label": "The Mir space station",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was meant to broadcast Swatch ads over amateur radio.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Ads over radio"
+      }
+    },
+    {
+      "text": "Radio hobbyists protested because those frequencies should be free of ads.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "topaz",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Free of ads"
+      }
+    },
+    {
+      "text": "Its transmitter was switched off before launch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "amethyst",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "Switched off"
+      }
+    },
+    {
+      "text": "A French astronaut then released it by hand on a spacewalk.",
+      "scene": {
+        "kind": "real",
+        "src": "470-swatch-s-satellite-was-thrown-by-hand-1.jpg",
+        "fit": "card",
+        "label": "Mir, seen from a shuttle",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Swatch still tells time in beats, 1,000 a day.",
+      "say": "Swatch still tells time in beats, one thousand a day.",
+      "scene": {
+        "kind": "title",
+        "text": "1,000 beats",
+        "sub": "A day today",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Swatch's satellite was thrown by hand. In 1998 Swatch launched Internet Time, cutting the day into 1,000 equal beats of 86.4 seconds, starting at midnight in Biel, Switzerland. In 1999 it backed a small satellite for Russia's Mir space station, meant to broadcast Swatch ads over amateur radio. Radio hobbyists around the world protested, because those frequencies are meant to be free of advertising. Its transmitter was switched off before launch. On 16 April 1999 a French astronaut released it by hand on a spacewalk. Swatch still tells time in beats.",
+    "hashtags": [
+      "#swatch",
+      "#watches",
+      "#mir",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Swatch_Internet_Time",
+    "https://ablogtowatch.com/when-swatch-introduced-the-metric-system-of-timekeeping-with-beat-time",
+    "https://swatch.com/internet-time.html",
+    "https://wirednews.pages.dev/1999/04/swatch-saves-mir",
+    "https://qsl.net/a/ah6rh/am-radio/beatnik.html",
+    "https://www.amusingplanet.com/2021/04/russias-hand-tossed-satellites.html"
+  ],
+  "images": [
+    {
+      "src": "470-swatch-s-satellite-was-thrown-by-hand-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA",
+      "page": "https://commons.wikimedia.org/wiki/File:Mir_space_station_12_June_1998-cropped.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "470-swatch-s-satellite-was-thrown-by-hand-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA",
+      "page": "https://commons.wikimedia.org/wiki/File:Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

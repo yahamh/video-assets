@@ -1,0 +1,172 @@
+{
+  "id": "471-mae-west-s-diamonds-weren-t-all-real",
+  "number": 471,
+  "title": "Mae West's diamonds weren't all real",
+  "style": "gouache",
+  "topic": "mae west diamonds fake foilback night after night 1932 charles krauser paul novak safe deposit box neil lane art deco bracelet catherine zeta jones chicago",
+  "music": "music-471.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "aquamarine",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Mae West's diamonds weren't all real.",
+    "gold": [
+      "diamonds",
+      "real."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mae West's diamonds weren't all real.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In her 1932 film debut, a hat check girl admired her diamonds.",
+      "say": "In her nineteen thirty two film debut, a hat check girl admired her diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "1932",
+        "sub": "Her first film",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "West replied that goodness had nothing to do with it, dearie.",
+      "scene": {
+        "kind": "real",
+        "src": "471-mae-west-s-diamonds-weren-t-all-real-0.jpg",
+        "fit": "card",
+        "label": "Mae West, 1933",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "But one famous necklace mixed real diamonds with fakes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "Real and fake"
+      }
+    },
+    {
+      "text": "Some of its stones were foil backed imitations.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "platinum",
+        "label": "Foil backed stones"
+      }
+    },
+    {
+      "text": "She left her jewelry to her companion, Charles Krauser.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "cut": "round",
+        "petals": 8,
+        "metal": "platinum",
+        "label": "Charles Krauser"
+      }
+    },
+    {
+      "text": "He had been a muscleman in her Las Vegas nightclub act.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A Las Vegas act"
+      }
+    },
+    {
+      "text": "He kept the jewels in a safe deposit box.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "aquamarine",
+        "cut": "emerald",
+        "metal": "platinum",
+        "label": "A safe deposit box"
+      }
+    },
+    {
+      "text": "West died in 1980 at age 87.",
+      "say": "West died in nineteen eighty at age eighty seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "stones": 9,
+        "label": "Her last year"
+      }
+    },
+    {
+      "text": "Jeweler Neil Lane later bought a wide Art Deco diamond bracelet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "An Art Deco bracelet"
+      }
+    },
+    {
+      "text": "Catherine Zeta Jones wore it in the film Chicago.",
+      "scene": {
+        "kind": "title",
+        "text": "Chicago",
+        "sub": "On screen",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Mae West's diamonds weren't all real. In her first film, Night After Night in 1932, a hat check girl admired her diamonds and West said goodness had nothing to do with it, dearie. One famous necklace in her collection mixed real diamonds with foil backed imitations. She left her jewelry to her companion, Charles Krauser, who had been a muscleman in her Las Vegas nightclub act. He kept it in a safe deposit box. West died in 1980 at age 87. Jeweler Neil Lane later bought a wide Art Deco diamond bracelet from the collection, and Catherine Zeta Jones wore it in the film Chicago.",
+    "hashtags": [
+      "#maewest",
+      "#diamonds",
+      "#hollywood",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.jckonline.com/?p=41948",
+    "https://maewest.blogspot.com/2011/09/mae-west-diamonds-or-rhinestones.html",
+    "https://theadventurine.com/culture/jewelry-history/the-love-story-behind-mae-wests-jewels",
+    "https://www.bejeweledmag.com/neil-lane-from-collecting-to-dressing-hollywood/",
+    "https://www.jckonline.com/?p=23091"
+  ],
+  "images": [
+    {
+      "src": "471-mae-west-s-diamonds-weren-t-all-real-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Mae_West_in_She_Done_Him_Wrong.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
