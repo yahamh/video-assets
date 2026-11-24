@@ -6173,14 +6173,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1035332806251396",
+      "instagram": "https://www.instagram.com/reel/DgIjweyiOqU/",
+      "youtube": "https://www.youtube.com/watch?v=2dkelGMFJCs"
+    }
   },
   "430-schwarzenegger-crawled-for-ruby-beads": {
     "at": "2026-11-24T18:30:00Z",
     "zernio_id": "6b04229ce81d43eea73764e2",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgImpO0jdm-/"
+    }
   },
   "431-mariah-carey-s-diamond-hid-in-candy": {
     "at": "2026-11-24T19:00:00Z",
@@ -6189,7 +6199,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1485414663525507",
+      "instagram": "https://www.instagram.com/reel/DgIqSYKETQb/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711815450727828737"
+    }
   },
   "432-kidman-s-seal-clap-protected-a-ring": {
     "at": "2026-11-24T19:30:00Z",
@@ -6197,14 +6213,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1790135335434718",
+      "instagram": "https://www.instagram.com/reel/DgItgifD4tj/"
+    }
   },
   "433-the-rock-s-rolex-broke-on-live-tv": {
     "at": "2026-11-24T20:00:00Z",
     "zernio_id": "6b0422a6670239c777e16461",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgIxGyjlI7b/"
+    }
   },
   "434-jon-cryer-s-ring-vanished-in-rain": {
     "at": "2026-11-24T20:30:00Z",
@@ -6214,7 +6239,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1123319187237514",
+      "instagram": "https://www.instagram.com/reel/DgI0b_pjqQp/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711837560166796545",
+      "youtube": "https://www.youtube.com/watch?v=TMG34JyOLlI"
+    }
   },
   "435-elton-john-s-kneecaps-became-a-necklace": {
     "at": "2026-11-24T21:00:00Z",
@@ -6222,7 +6254,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1130969443115481",
+      "instagram": "https://www.instagram.com/reel/DgI4BL8CM3w/"
+    }
   },
   "436-drake-s-chain-counts-unmade-proposals": {
     "at": "2026-11-24T21:30:00Z",
@@ -6230,7 +6267,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1135905899431842",
+      "instagram": "https://www.instagram.com/reel/DgI7VElFH2-/"
+    }
   },
   "437-faberg-s-name-once-sold-cologne": {
     "at": "2026-11-24T22:00:00Z",
@@ -6238,7 +6280,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgI-7WlDnoD/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711861932646599988"
+    }
   },
   "438-jackie-kennedy-s-famous-pearls-were-faux": {
     "at": "2026-11-24T22:30:00Z",
@@ -6246,7 +6293,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2004153630542261",
+      "instagram": "https://www.instagram.com/reel/DgJCKIUCEXp/"
+    }
   },
   "439-halle-berry-won-wearing-a-pumpkin": {
     "at": "2026-11-24T23:00:00Z",
@@ -6255,7 +6307,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1042207942238311",
+      "instagram": "https://www.instagram.com/reel/DgJFxl_gH_2/",
+      "youtube": "https://www.youtube.com/watch?v=S6pLoe3g2bI"
+    }
   },
   "440-dolly-parton-s-ring-came-from-sears": {
     "at": "2026-11-24T23:30:00Z",
@@ -6649,6 +6707,79 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "488-clooney-s-proposal-began-with-a-lighter": {
+    "at": "2026-11-26T03:30:00Z",
+    "zernio_id": "6b0621186d2fa5e651908eb1",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "489-rolex-s-daytona-engine-hid-in-an-attic": {
+    "at": "2026-11-26T08:00:00Z",
+    "zernio_id": "6b06211e6d2fa5e651908ed1",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "490-katy-perry-s-proposal-tore-a-pocket": {
+    "at": "2026-11-26T08:30:00Z",
+    "zernio_id": "6b062123b04d804a5a91c803",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "491-cartier-s-clock-hands-seem-to-float": {
+    "at": "2026-11-26T09:00:00Z",
+    "zernio_id": "6b062127b04d804a5a91c811",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "492-kelly-clarkson-s-diamond-vanished-during-her-set": {
+    "at": "2026-11-26T09:30:00Z",
+    "zernio_id": "6b06212e5e5648aeab2c11ed",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "493-graff-s-blue-diamond-once-lacked-a-name": {
+    "at": "2026-11-26T10:00:00Z",
+    "zernio_id": "6b062133b04d804a5a91c850",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "494-the-cubs-ring-counts-108-years": {
+    "at": "2026-11-26T10:30:00Z",
+    "zernio_id": "6b0621385e5648aeab2c1206",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "495-taylor-s-oscar-tiara-was-a-husband-s-idea": {
+    "at": "2026-11-26T11:00:00Z",
+    "zernio_id": "6b0621475e5648aeab2c1230",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "496-zooey-deschanel-s-ring-missed-its-flight": {
+    "at": "2026-11-26T11:30:00Z",
+    "zernio_id": "6b06214d27508b6e868e84db",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
