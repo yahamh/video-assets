@@ -1,0 +1,164 @@
+{
+  "id": "488-clooney-s-proposal-began-with-a-lighter",
+  "number": 488,
+  "title": "Clooney's proposal began with a lighter",
+  "style": "deco",
+  "topic": "george clooney amal proposal lighter candle ring box playlist april 2014 disaster ellen degeneres drew barrymore",
+  "music": "music-488.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Clooney's proposal began with a lighter.",
+    "gold": [
+      "proposal",
+      "lighter."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Clooney's proposal began with a lighter.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In April 2014, George Clooney proposed to Amal.",
+      "say": "In April twenty fourteen, George Clooney proposed to Amal.",
+      "scene": {
+        "kind": "title",
+        "text": "April 2014",
+        "sub": "The proposal",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He cooked dinner and timed the moment to a playlist song.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A playlist song",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "After dinner, he blew out the candle.",
+      "scene": {
+        "kind": "real",
+        "src": "488-clooney-s-proposal-began-with-a-lighter-0.jpg",
+        "fit": "card",
+        "label": "A candle flame",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He asked Amal to get the lighter from a box behind her.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A box behind her",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Inside the box was the ring, not a lighter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "cut": "oval",
+        "metal": "platinum",
+        "label": "The ring"
+      }
+    },
+    {
+      "text": "He knelt and said he could not picture life without her.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "On one knee",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He joked that he might throw out a hip.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A sore hip",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "On The Ellen DeGeneres Show in 2016, he called it a disaster.",
+      "say": "On The Ellen DeGeneres Show in twenty sixteen, he called it a disaster.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A disaster"
+      }
+    },
+    {
+      "text": "Amal said yes, after about six months of dating.",
+      "scene": {
+        "kind": "title",
+        "text": "Six months",
+        "sub": "Of dating",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Clooney's proposal began with a lighter. In April 2014, George Clooney cooked dinner for Amal and timed the moment to a song on a playlist. After dinner, he blew out the candle and asked her to fetch the lighter from a box behind her. The box held the ring. He knelt, told her he could not picture life without her, and joked that he might throw out a hip. She said yes after about six months of dating. He has called the whole thing a disaster, on The Ellen DeGeneres Show and again on The Drew Barrymore Show.",
+    "hashtags": [
+      "#georgeclooney",
+      "#proposal",
+      "#engagementring",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.hellomagazine.com/celebrities/351005/george-clooney-amal-proposal-story",
+    "https://us.hola.com/celebrities/2016020418956/how-george-clooney-proposal-to-amal-almost-went-wrong/",
+    "https://www.audacy.com/2wd/news/george-clooney-recounts-ring-disaster-during-proposal",
+    "https://www.nbcnewyork.com/entertainment/entertainment-news/george-clooney-recalls-his-disaster-proposal-to-wife-amal/3918685/?amp=1",
+    "https://wegotthiscovered.com/celebrities/george-clooney-calls-marriage-proposal-to-amal-a-disaster-explains-why/"
+  ],
+  "images": [
+    {
+      "src": "488-clooney-s-proposal-began-with-a-lighter-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Richard W.M. Jones",
+      "page": "https://commons.wikimedia.org/wiki/File:Candle-flame-and-reflection.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

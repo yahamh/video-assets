@@ -1,0 +1,163 @@
+{
+  "id": "495-taylor-s-oscar-tiara-was-a-husband-s-idea",
+  "number": 495,
+  "title": "Taylor's Oscar tiara was a husband's idea",
+  "style": "gouache",
+  "topic": "elizabeth taylor oscar tiara mike todd 1957 academy awards around the world in 80 days cannes christie's december 2011 aids foundation",
+  "music": "music-495.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "amethyst",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Taylor's Oscar tiara was a husband's idea.",
+    "gold": [
+      "Oscar",
+      "idea."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Taylor's Oscar tiara was a husband's idea.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Producer Mike Todd gave Elizabeth Taylor an antique diamond tiara in 1957.",
+      "say": "Producer Mike Todd gave Elizabeth Taylor an antique diamond tiara in nineteen fifty seven.",
+      "scene": {
+        "kind": "real",
+        "src": "495-taylor-s-oscar-tiara-was-a-husband-s-idea-0.jpg",
+        "fit": "card",
+        "label": "Mike Todd and Elizabeth Taylor",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He told her she was his queen and should have one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "My queen"
+      }
+    },
+    {
+      "text": "It dates from about 1880 and has nine diamond scrolls.",
+      "say": "It dates from about eighteen eighty and has nine diamond scrolls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Nine scrolls",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "She wore it to the 1957 Academy Awards.",
+      "say": "She wore it to the nineteen fifty seven Academy Awards.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "The Oscars",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "That night, Todd's film won Best Picture.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Best Picture",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "She wore it again at the Cannes Film Festival.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Cannes",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It measures 9 5/8 inches around.",
+      "say": "It measures nine and five eighths inches around.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Nine and five eighths",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In December 2011, Christie's sold it for more than 4 million dollars.",
+      "say": "In December twenty eleven, Christie's sold it for more than four million dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "2011",
+        "sub": "Christie's sale"
+      }
+    },
+    {
+      "text": "Part of the sale went to her AIDS foundation.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Her foundation",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Taylor's Oscar tiara was a husband's idea. In 1957, producer Mike Todd gave Elizabeth Taylor an antique diamond tiara, telling her she was his queen and should have one. It dates from about 1880 and has nine diamond scrolls set in platinum and gold. She wore it to the 1957 Academy Awards, where Todd's film Around the World in 80 Days won Best Picture, and again at the Cannes Film Festival. In December 2011, Christie's sold it for more than four million dollars, and part of the money went to her AIDS foundation.",
+    "hashtags": [
+      "#elizabethtaylor",
+      "#oscars",
+      "#tiara",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://elizabethtaylor.com/mike-todd-diamond-tiara",
+    "https://theadventurine.com/culture/elizabeth-taylor/elizabeth-taylor-wore-her-tiara-a-lot-in-1957",
+    "https://orderofsplendors.blogspot.com/2014/04/tiara-thursday-mike-todd-diamond-tiara.html",
+    "https://www.thecourtjeweller.com/2022/03/elizabeth-taylors-incredible-academy-awards-tiara.html",
+    "https://www.christies.com.cn/en/lot/lot-5507954",
+    "https://4cs.gia.edu/en-us/blog/oscar-history-a-look-at-noteworthy-jewelry/"
+  ],
+  "images": [
+    {
+      "src": "495-taylor-s-oscar-tiara-was-a-husband-s-idea-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "CBS Television",
+      "page": "https://commons.wikimedia.org/wiki/File:Mike_Todd_Elizabeth_Taylor_Around_the_World_in_80_Days_first_anniversary_special_1957.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

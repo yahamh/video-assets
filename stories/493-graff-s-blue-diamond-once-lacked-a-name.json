@@ -1,0 +1,169 @@
+{
+  "id": "493-graff-s-blue-diamond-once-lacked-a-name",
+  "number": 493,
+  "title": "Graff's blue diamond once lacked a name",
+  "style": "jewelbox",
+  "topic": "wittelsbach graff blue diamond bavarian crown brussels world's fair 1958 joseph komkommer laurence graff 2008 christie's recut gia internally flawless 31.06 carats",
+  "music": "music-493.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "blue",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Graff's blue diamond once lacked a name.",
+    "gold": [
+      "blue",
+      "name."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Graff's blue diamond once lacked a name.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Wittelsbach Blue diamond once sat on Bavaria's royal crown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A royal crown"
+      }
+    },
+    {
+      "text": "It weighed about 35 carats.",
+      "say": "It weighed about thirty five carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "35 carats",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In 1958, it stood unnamed at the Brussels World's Fair.",
+      "say": "In nineteen fifty eight, it stood unnamed at the Brussels World's Fair.",
+      "scene": {
+        "kind": "title",
+        "text": "1958",
+        "sub": "Brussels World's Fair",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Heirs of the dealer who owned it wanted it recut.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Heirs want a recut"
+      }
+    },
+    {
+      "text": "Jeweler Joseph Komkommer recognized the diamond and refused.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "He refused",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In 2008, Laurence Graff bought it at Christie's in London.",
+      "say": "In two thousand eight, Laurence Graff bought it at Christie's in London.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Laurence Graff",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Graff had it recut, and it lost about 4.5 carats.",
+      "say": "Graff had it recut, and it lost about four point five carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "The recut",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "G I A regraded it as Internally Flawless.",
+      "say": "G I A regraded it as Internally Flawless.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Internally Flawless",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Today it is called the Wittelsbach Graff.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A new name",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It now weighs 31.06 carats.",
+      "say": "It now weighs thirty one point oh six carats.",
+      "scene": {
+        "kind": "title",
+        "text": "31.06",
+        "sub": "Carats",
+        "piece": "necklace",
+        "stone": "blue",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Graff's blue diamond once lacked a name. The Wittelsbach Blue diamond once sat on Bavaria's royal crown and weighed about 35 carats. In 1958, it stood unnamed at the Brussels World's Fair. Heirs of the dealer who owned it wanted it recut, but the jeweler they asked, Joseph Komkommer, recognized it and refused. In 2008, Laurence Graff bought it at Christie's in London and had it recut, and it lost about 4.5 carats. GIA regraded it as Internally Flawless. Today it is called the Wittelsbach Graff and weighs 31.06 carats.",
+    "hashtags": [
+      "#graff",
+      "#bluediamond",
+      "#diamond",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wittelsbach-Graff_Diamond",
+    "https://www.gia.edu/doc/Winter-2008-Gems-Gemology-Wittelsbach-Blue.pdf",
+    "https://eragem.com/news/the-wittelsbach-graff-diamond/",
+    "https://www.sworder.co.uk/Jewellery-and-Watches/the-wittelsbach-graff-diamond/",
+    "https://www.irishtimes.com/news/germans-discover-diamonds-are-not-forever-after-all-1.1274468"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the diamond, the crown or the 1958 fair: Commons has only CC BY-SA ones"
+}

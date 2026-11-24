@@ -1,0 +1,162 @@
+{
+  "id": "491-cartier-s-clock-hands-seem-to-float",
+  "number": 491,
+  "title": "Cartier's clock hands seem to float",
+  "style": "deco",
+  "topic": "cartier mystery clock floating hands glass discs maurice couet louis cartier robert houdin portico ganna walska 1923 1925 1973 cartier collection",
+  "music": "music-491.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "sapphire",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Cartier's clock hands seem to float.",
+    "gold": [
+      "clock",
+      "float."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier's clock hands seem to float.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Cartier calls them Mystery Clocks, and nothing seems to hold the hands.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Mystery Clocks",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Maurice Couet built the first one for Louis Cartier.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Maurice Couet",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The idea came from a French magician and clockmaker, Robert Houdin.",
+      "scene": {
+        "kind": "real",
+        "src": "491-cartier-s-clock-hands-seem-to-float-0.jpg",
+        "fit": "card",
+        "label": "Robert Houdin",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The secret is that the hands are fixed to two transparent discs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Two clear discs",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Toothed edges on the discs connect to gears hidden in the base.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Hidden gears"
+      }
+    },
+    {
+      "text": "Between 1923 and 1925, Cartier made six clocks shaped like Japanese gates.",
+      "say": "Between nineteen twenty three and nineteen twenty five, Cartier made six clocks shaped like Japanese gates.",
+      "scene": {
+        "kind": "title",
+        "text": "1923",
+        "sub": "Six Portico clocks",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The first one was sold to the opera singer Ganna Walska.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Ganna Walska",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Cartier later bought it back.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Bought back",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Since 1973, it has been kept in the Cartier Collection.",
+      "say": "Since nineteen seventy three, it has been kept in the Cartier Collection.",
+      "scene": {
+        "kind": "title",
+        "text": "1973",
+        "sub": "Cartier Collection",
+        "piece": "bracelet",
+        "stone": "topaz",
+        "metal": "platinum"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Cartier's clock hands seem to float. Cartier calls them Mystery Clocks, and nothing seems to hold the hands. Maurice Couet built the first one for Louis Cartier, inspired by the French magician and clockmaker Robert Houdin. The secret is that the hands are fixed to two transparent discs of glass or crystal, and toothed edges connect them to gears hidden in the base. Between 1923 and 1925, Cartier made six Portico clocks shaped like Japanese gates. The first went to the opera singer Ganna Walska, and Cartier later bought it back. Since 1973, it has been kept in the Cartier Collection.",
+    "hashtags": [
+      "#cartier",
+      "#mysteryclock",
+      "#luxury",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/the-enchanting-allure-of-cartiers-mystery-clocks",
+    "https://quillandpad.com/2018/12/02/cartiers-mystery-clocks-now-you-see-me-now-you-dont/",
+    "https://www.phillips.com/article/the-story-of-the-cartier-portico-mystery-clocks",
+    "https://galeriemagazine.com/cartiers-mystery-clocks-artistry-craftsmanship-magic/",
+    "https://www.cigaraficionado.com/article/cartiers-clocks-7402"
+  ],
+  "images": [
+    {
+      "src": "491-cartier-s-clock-hands-seem-to-float-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:HQ_photo_of_Robert-Houdin.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

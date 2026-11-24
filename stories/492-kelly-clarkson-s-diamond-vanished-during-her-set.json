@@ -1,0 +1,179 @@
+{
+  "id": "492-kelly-clarkson-s-diamond-vanished-during-her-set",
+  "number": 492,
+  "title": "Kelly Clarkson's diamond vanished during her set",
+  "style": "gouache",
+  "topic": "kelly clarkson canary yellow diamond engagement ring cma music festival nashville june 2013 60,000 fans brandon blackstock tweet found my rings",
+  "music": "music-492.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "yellow",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Kelly Clarkson's diamond vanished during her set.",
+    "gold": [
+      "diamond",
+      "vanished"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kelly Clarkson's diamond vanished during her set.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Her engagement ring held a custom canary yellow diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "yellow",
+        "cut": "cushion",
+        "metal": "yellow",
+        "label": "A canary diamond"
+      }
+    },
+    {
+      "text": "In June 2013, she played the CMA Music Festival in Nashville.",
+      "say": "In June twenty thirteen, she played the CMA Music Festival in Nashville.",
+      "scene": {
+        "kind": "real",
+        "src": "492-kelly-clarkson-s-diamond-vanished-during-her-set-0.jpg",
+        "fit": "card",
+        "label": "A CMA Music Festival crowd",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "About 60,000 fans were there.",
+      "say": "About sixty thousand fans were there.",
+      "scene": {
+        "kind": "title",
+        "text": "60,000",
+        "sub": "Fans",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "During her set, she noticed she was not wearing the ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "No ring",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "She apologized to Brandon Blackstock from the stage, several times.",
+      "scene": {
+        "kind": "real",
+        "src": "492-kelly-clarkson-s-diamond-vanished-during-her-set-1.jpg",
+        "fit": "card",
+        "label": "Kelly Clarkson",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She blamed nerves, saying she had been nervous all day.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Nervous",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "After the set, she searched for it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "The search"
+      }
+    },
+    {
+      "text": "The next morning, she tweeted that she had found her rings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Found",
+        "stones": 9
+      }
+    },
+    {
+      "text": "She added that she had panicked all night, and so did Brandon.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A panicked night"
+      }
+    },
+    {
+      "text": "It all happened on June 8, 2013.",
+      "say": "It all happened on June eighth, twenty thirteen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "June 8",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Kelly Clarkson's diamond vanished during her set. Her engagement ring held a custom canary yellow diamond. In June 2013, she played the CMA Music Festival in Nashville for about 60,000 fans. During her set, she noticed she was not wearing the ring, and she apologized to Brandon Blackstock from the stage, several times. She blamed nerves. After the show she searched for it, and the next morning she tweeted that she had found her rings, adding that she had panicked all night.",
+    "hashtags": [
+      "#kellyclarkson",
+      "#canarydiamond",
+      "#cmafest",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.christianpost.com/trends/kelly-clarkson-loses-engagement-ring-finds-it-soon-after.html",
+    "https://tasteofcountry.com/kelly-clarkson-loses-her-engagement-ring/",
+    "https://www.latintimes.com/kelly-loses-engagement-ring-singer-kelly-clarkson-apologizes-fiance-brandon-blackstock-stage-video",
+    "https://www.gearlive.com/celebrities/article/q309-kelly-clarkson-freaks-out-about-engagement-ring",
+    "https://www.rttnews.com/2133239/kelly-clarkson-shines-bright-at-2013-cma-music-festival.aspx"
+  ],
+  "images": [
+    {
+      "src": "492-kelly-clarkson-s-diamond-vanished-during-her-set-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Xcalibr",
+      "page": "https://commons.wikimedia.org/wiki/File:Sugarland_at_CMA_Music_Festival_2008.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "492-kelly-clarkson-s-diamond-vanished-during-her-set-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Kathy Reesey",
+      "page": "https://commons.wikimedia.org/wiki/File:Kelly_Clarkson_57th_Presidential_Inauguration-cropped.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

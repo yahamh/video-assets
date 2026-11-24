@@ -1,0 +1,180 @@
+{
+  "id": "490-katy-perry-s-proposal-tore-a-pocket",
+  "number": 490,
+  "title": "Katy Perry's proposal tore a pocket",
+  "style": "jewelbox",
+  "topic": "katy perry orlando bloom proposal helicopter torn pocket champagne bottle valentine's day 2019 los angeles rooftop flower ring",
+  "music": "music-490.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "pink",
+    "cut": "round",
+    "petals": 6,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Katy Perry's proposal tore a pocket.",
+    "gold": [
+      "proposal",
+      "pocket."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Katy Perry's proposal tore a pocket.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Orlando Bloom proposed to Katy Perry on Valentine's Day 2019.",
+      "say": "Orlando Bloom proposed to Katy Perry on Valentine's Day twenty nineteen.",
+      "scene": {
+        "kind": "real",
+        "src": "490-katy-perry-s-proposal-tore-a-pocket-0.jpg",
+        "fit": "card",
+        "label": "Katy Perry",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She thought they were going to see some art.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Off to see art",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Instead, they pulled up to a helicopter.",
+      "scene": {
+        "kind": "real",
+        "src": "490-katy-perry-s-proposal-tore-a-pocket-1.jpg",
+        "fit": "card",
+        "label": "A Los Angeles helicopter",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In the air, he handed her a note to distract her.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A distracting note",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The ring box was too big for his coat pocket.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A big box",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He tugged so hard that the pocket ripped.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A torn pocket",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Then his elbow knocked over a champagne bottle, and it broke.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A broken bottle",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Perry kept reading the note and pretended not to notice.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Pretending",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "They landed on a Los Angeles rooftop where friends and family waited.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A rooftop"
+      }
+    },
+    {
+      "text": "The ring they showed off is shaped like a flower.",
+      "scene": {
+        "kind": "title",
+        "text": "Flower",
+        "sub": "The ring",
+        "piece": "eternity",
+        "stone": "pink",
+        "metal": "yellow",
+        "stones": 9
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Katy Perry's proposal tore a pocket. On Valentine's Day 2019, Orlando Bloom took Katy Perry to dinner, then to a helicopter instead of an art show. In the air, he handed her a note to distract her while he found the ring. The box was too big for his coat pocket, so he tugged until it ripped. His elbow knocked over a champagne bottle, which broke. Perry kept reading the note and pretended not to notice. They landed on a Los Angeles rooftop where family and friends waited. The ring is shaped like a flower.",
+    "hashtags": [
+      "#katyperry",
+      "#orlandobloom",
+      "#proposal",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.foxnews.com/entertainment/katy-perry-details-orlando-bloom-accident-filled-proposal",
+    "https://www.bustle.com/p/katy-perry-spilled-how-orlando-bloom-proposed-honestly-its-kind-of-hilarious-video-16167866",
+    "https://www.etonline.com/katy-perry-dishes-on-orlando-blooms-really-sweet-helicopter-proposal-120481",
+    "https://www.hola.com/us/celebrities/2019022621598/katy-perry-engagement-details",
+    "https://www.yahoo.com/entertainment/katy-perry-apos-unique-flower-175536243.html",
+    "https://www.theknot.com/content/katy-perry-engagement-ring"
+  ],
+  "images": [
+    {
+      "src": "490-katy-perry-s-proposal-tore-a-pocket-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "A. Shaker, Voice of America",
+      "page": "https://commons.wikimedia.org/wiki/File:Katy_Perry_DNC_July_2016_(cropped3)_restored.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "490-katy-perry-s-proposal-tore-a-pocket-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Ken Kistler",
+      "page": "https://commons.wikimedia.org/wiki/File:Los-angeles-fire-helicopter.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

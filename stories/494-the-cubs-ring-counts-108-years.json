@@ -1,0 +1,157 @@
+{
+  "id": "494-the-cubs-ring-counts-108-years",
+  "number": 494,
+  "title": "The Cubs' ring counts 108 years",
+  "style": "deco",
+  "topic": "chicago cubs 2016 world series ring 108 diamonds jostens 214 diamonds w flag we never quit april 12 2017 wrigley field 12:47 am",
+  "music": "music-494.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "diamond",
+    "metal": "platinum",
+    "stones": 14
+  },
+  "hook": {
+    "text": "The Cubs' ring counts 108 years.",
+    "gold": [
+      "ring",
+      "108"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Cubs' ring counts 108 years.",
+      "say": "The Cubs' ring counts one hundred eight years.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Cubs won the 2016 World Series after waiting 108 years.",
+      "say": "The Cubs won the twenty sixteen World Series after waiting one hundred eight years.",
+      "scene": {
+        "kind": "real",
+        "src": "494-the-cubs-ring-counts-108-years-0.jpg",
+        "fit": "card",
+        "label": "A Cubs World Series ring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Their ring has 108 round white diamonds in its bezel.",
+      "say": "Their ring has one hundred eight round white diamonds in its bezel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "108 diamonds"
+      }
+    },
+    {
+      "text": "That is one diamond for each year of the wait.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "A year each"
+      }
+    },
+    {
+      "text": "In all, each ring carries 214 diamonds, set in white gold.",
+      "say": "In all, each ring carries two hundred fourteen diamonds, set in white gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "diamond",
+        "cut": "round",
+        "metal": "platinum",
+        "label": "214 diamonds"
+      }
+    },
+    {
+      "text": "Two princess cut diamonds flank the trophy, one for each earlier title.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "diamond",
+        "cut": "cushion",
+        "metal": "platinum",
+        "label": "Two earlier titles"
+      }
+    },
+    {
+      "text": "The band reads We Never Quit.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "We Never Quit",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Players received the rings on April 12, 2017, at Wrigley Field.",
+      "say": "Players received the rings on April twelfth, twenty seventeen, at Wrigley Field.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Wrigley Field",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Inside the band is stamped 12:47 am, the time of the win.",
+      "say": "Inside the band is stamped twelve forty seven a m, the time of the win.",
+      "scene": {
+        "kind": "title",
+        "text": "12:47 am",
+        "sub": "Stamped inside",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Cubs' ring counts 108 years. The Cubs won the 2016 World Series after waiting 108 years, and the bezel of their ring holds 108 round white diamonds, one for each year. In all, each ring carries 214 diamonds set in white gold. Two princess cut diamonds flank the trophy, one for each earlier title. The band reads We Never Quit. Players received the rings on April 12, 2017, at Wrigley Field. Inside, the band is stamped 12:47 am, the time of the win.",
+    "hashtags": [
+      "#cubs",
+      "#worldseries",
+      "#championshipring",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.jostens.com/newsreleases/20170413.html",
+    "https://mlb.com/press-release/chicago-cubs-players-and-coaches-receive-2016-world-series-championshi-227886260",
+    "https://www.timeout.com/chicago/blog/5-amazing-things-you-didnt-know-about-the-cubs-world-series-championship-rings-041317",
+    "https://africa.espn.com/mlb/story/_/id/19145716/chicago-cubs-receive-2016-world-series-rings",
+    "https://collection.baseballhall.org/objects/3519/chicago-cubs-2016-world-series-ring",
+    "https://www.nbcchicago.com/news/sports/mlb/chicago-baseball/unique-feature-of-cubs-championship-rings-revealed/11316/"
+  ],
+  "images": [
+    {
+      "src": "494-the-cubs-ring-counts-108-years-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. Army photo by Sgt. Christopher Stewart",
+      "page": "https://commons.wikimedia.org/wiki/File:Chicago_Cubs_visit_7th_Army_Training_Command_(4989146).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

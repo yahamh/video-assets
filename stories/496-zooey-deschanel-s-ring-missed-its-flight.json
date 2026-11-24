@@ -1,0 +1,181 @@
+{
+  "id": "496-zooey-deschanel-s-ring-missed-its-flight",
+  "number": 496,
+  "title": "Zooey Deschanel's ring missed its flight",
+  "style": "jewelbox",
+  "topic": "zooey deschanel jonathan scott engagement ring hotel safe edinburgh castle august 2023 airport taxi boarding today show size 5.5 4.75",
+  "music": "music-496.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "pink",
+    "cut": "oval",
+    "metal": "rose"
+  },
+  "hook": {
+    "text": "Zooey Deschanel's ring missed its flight.",
+    "gold": [
+      "ring",
+      "flight."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Zooey Deschanel's ring missed its flight.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Jonathan Scott proposed to Zooey at the foot of Edinburgh Castle.",
+      "scene": {
+        "kind": "real",
+        "src": "496-zooey-deschanel-s-ring-missed-its-flight-0.jpg",
+        "fit": "card",
+        "label": "Edinburgh Castle",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "That was in August 2023.",
+      "say": "That was in August twenty twenty three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "rose",
+        "label": "August 2023",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It was too big, so she did not wear it at first.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "rose",
+        "label": "Too big",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "For safety, it sat in the hotel safe with their passports.",
+      "scene": {
+        "kind": "real",
+        "src": "496-zooey-deschanel-s-ring-missed-its-flight-1.jpg",
+        "fit": "card",
+        "label": "A hotel room safe",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "At the airport, Scott realized they had left it all behind.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "rose",
+        "label": "At the airport"
+      }
+    },
+    {
+      "text": "The hotel manager sent it by taxi.",
+      "scene": {
+        "kind": "real",
+        "src": "496-zooey-deschanel-s-ring-missed-its-flight-2.jpg",
+        "fit": "card",
+        "label": "A taxi",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The cab arrived just as boarding began.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "rose",
+        "label": "Boarding",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Scott told the story on the Today show in November 2023.",
+      "say": "Scott told the story on the Today show in November twenty twenty three.",
+      "scene": {
+        "kind": "real",
+        "src": "496-zooey-deschanel-s-ring-missed-its-flight-3.jpg",
+        "fit": "card",
+        "label": "Jonathan Scott",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The ring was a size 5.5, and her finger is a 4.75.",
+      "say": "The ring was a size five point five, and her finger is a four point seven five.",
+      "scene": {
+        "kind": "title",
+        "text": "5.5",
+        "sub": "Versus 4.75",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "metal": "rose",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Zooey Deschanel's ring missed its flight. Jonathan Scott proposed to Zooey Deschanel at the foot of Edinburgh Castle in August 2023. The ring was too big, so she did not wear it at first, and for safety it sat in the hotel safe with their passports. At the airport, Scott realized they had left it all behind. The hotel manager sent it by taxi, and the cab arrived just as boarding began. Scott told the story on Today in November 2023. The ring was a size 5.5, and her finger is a 4.75.",
+    "hashtags": [
+      "#zooeydeschanel",
+      "#jonathanscott",
+      "#proposal",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://sg.news.yahoo.com/jonathan-scott-recounts-near-disaster-194435644.html",
+    "https://www.thelist.com/1456975/hgtv-jonathan-scott-nearly-lost-zooey-deschanel-engagement-ring",
+    "https://uk.news.yahoo.com/zooey-deschanel-engagement-ring-jonathan-142108496.html"
+  ],
+  "images": [
+    {
+      "src": "496-zooey-deschanel-s-ring-missed-its-flight-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "George Washington Wilson / Adam Cuerden",
+      "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Grass_Market.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "496-zooey-deschanel-s-ring-missed-its-flight-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Ounfs Robmmy 238",
+      "page": "https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E6%B9%BE_Taipei_%E5%8F%B0%E5%8C%97_Hotel_Metropolitan_Premier_Taipei_%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93_hotel_room_%E4%BF%9D%E9%9A%AA%E7%AE%B1_safe_box_n_%E6%B5%B4%E8%A2%8D_bathrobe_clothing_%E8%A1%A3%E6%AB%83_cabinet_March_2024_R12S.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "496-zooey-deschanel-s-ring-missed-its-flight-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Joshua T. Garcia",
+      "page": "https://commons.wikimedia.org/wiki/File:Taxi_Cab_in_South_Korea.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "496-zooey-deschanel-s-ring-missed-its-flight-3.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. Department of Education employee",
+      "page": "https://commons.wikimedia.org/wiki/File:Jonathan_Scott--Let's_Read_Let's_Move.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

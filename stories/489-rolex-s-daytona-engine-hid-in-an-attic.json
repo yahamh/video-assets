@@ -1,0 +1,174 @@
+{
+  "id": "489-rolex-s-daytona-engine-hid-in-an-attic",
+  "number": 489,
+  "title": "Rolex's Daytona engine hid in an attic",
+  "style": "gouache",
+  "topic": "rolex daytona zenith el primero attic charles vermot 1969 1971 1975 1988 2000 chronograph movement 150 presses",
+  "music": "music-489.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "topaz",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Rolex's Daytona engine hid in an attic.",
+    "gold": [
+      "engine",
+      "attic."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rolex's Daytona engine hid in an attic.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Zenith launched its El Primero chronograph movement in 1969.",
+      "say": "Zenith launched its El Primero chronograph movement in nineteen sixty nine.",
+      "scene": {
+        "kind": "real",
+        "src": "489-rolex-s-daytona-engine-hid-in-an-attic-0.jpg",
+        "fit": "card",
+        "label": "A 1928 Zenith poster",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1971, an American radio company bought Zenith.",
+      "say": "In nineteen seventy one, an American radio company bought Zenith.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A radio company",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1975, the owners decided to stop making the El Primero.",
+      "say": "In nineteen seventy five, the owners decided to stop making the El Primero.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Production stops",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "A watchmaker named Charles Vermot hid the plans and tools instead.",
+      "scene": {
+        "kind": "real",
+        "src": "489-rolex-s-daytona-engine-hid-in-an-attic-1.jpg",
+        "fit": "card",
+        "label": "Inside a Zenith watch",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He hid them in a walled off part of the factory attic.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "The factory attic",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Among them were 150 presses.",
+      "say": "Among them were one hundred fifty presses.",
+      "scene": {
+        "kind": "title",
+        "text": "150",
+        "sub": "Presses",
+        "piece": "eternity",
+        "stone": "diamond",
+        "metal": "yellow",
+        "stones": 10
+      }
+    },
+    {
+      "text": "Years later, Rolex wanted a self winding chronograph for its Daytona.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Rolex wants one"
+      }
+    },
+    {
+      "text": "The first Zenith powered Daytonas appeared in 1988.",
+      "say": "The first Zenith powered Daytonas appeared in nineteen eighty eight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "The first one",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "From 1988 to 2000, the Rolex Daytona ran on the El Primero.",
+      "say": "From nineteen eighty eight to two thousand, the Rolex Daytona ran on the El Primero.",
+      "scene": {
+        "kind": "title",
+        "text": "1988",
+        "sub": "To 2000",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Rolex's Daytona engine hid in an attic. Zenith launched its El Primero chronograph movement in 1969,. An American radio company bought Zenith in 1971, and in 1975 the owners decided to stop making it. A watchmaker named Charles Vermot hid the plans and tools in a walled off part of the factory attic, including 150 presses. Years later, Rolex wanted a self winding chronograph for its Daytona. The first Zenith powered Daytonas appeared in 1988, and the El Primero ran in the Daytona until 2000.",
+    "hashtags": [
+      "#rolex",
+      "#daytona",
+      "#zenith",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.worldtempus.com/article/industry-news/people-and-interviews/zenith-charles-vermot-28158.html",
+    "https://en.worldtempus.com/article/watches/trends-and-style/zenith-30-facts-about-the-zenith-el-primero-chronograph-27196.html",
+    "https://www.zenith-watches.com/int/brand/charles-vermot",
+    "https://www.phillips.com/article/five-key-dates-the-zenith-el-primero",
+    "https://en.wikipedia.org/wiki/Zenith_(watchmaker)",
+    "https://www.crownandcaliber.com/p/every-watch-secretly-powered-by-the-zenith-el-primero"
+  ],
+  "images": [
+    {
+      "src": "489-rolex-s-daytona-engine-hid-in-an-attic-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jean d’Ylen",
+      "page": "https://commons.wikimedia.org/wiki/File:1928_advertisement_poster_-_Zenith.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "489-rolex-s-daytona-engine-hid-in-an-attic-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Prunk",
+      "page": "https://commons.wikimedia.org/wiki/File:Zenith_pocket_watch_inside.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
