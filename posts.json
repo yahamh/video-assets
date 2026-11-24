@@ -6320,7 +6320,11 @@
     "zernio_id": "6b047536361e70614762b055",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgJJEqGGd8x/"
+    }
   },
   "441-travis-kelce-s-bracelet-never-reached-taylor": {
     "at": "2026-11-25T00:00:00Z",
@@ -6780,6 +6784,14 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "497-van-cleef-s-jewels-became-a-ballet": {
+    "at": "2026-11-26T12:00:00Z",
+    "zernio_id": "6b06242c21595bec7cf55eda",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
