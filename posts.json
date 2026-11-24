@@ -5931,7 +5931,11 @@
     "zernio_id": "6b0378e4cfd3f1bbd43a636a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgHlu25ik2C/"
+    }
   },
   "412-chanel-s-cuffs-came-from-a-sicilian-duke": {
     "at": "2026-11-24T09:30:00Z",
@@ -5939,7 +5943,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2735086076911297",
+      "instagram": "https://www.instagram.com/reel/DgHo8rBAJ00/"
+    }
   },
   "413-gold-hid-under-an-uneven-floor": {
     "at": "2026-11-24T10:00:00Z",
@@ -5948,7 +5957,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=31313788458260794",
+      "instagram": "https://www.instagram.com/reel/DgHsiL-lOwT/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711676409718033672"
+    }
   },
   "414-the-first-princess-cut-was-a-flop": {
     "at": "2026-11-24T10:30:00Z",
@@ -5957,7 +5972,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1085062337892584",
+      "instagram": "https://www.instagram.com/reel/DgHvwGrHAjE/",
+      "youtube": "https://www.youtube.com/watch?v=W-_ZvWFEMrk"
+    }
   },
   "415-the-palme-d-or-has-a-twin": {
     "at": "2026-11-24T11:00:00Z",
@@ -6387,6 +6408,81 @@
   "467-drake-s-tooth-diamond-looked-like-a-pepper": {
     "at": "2026-11-25T17:00:00Z",
     "zernio_id": "6b05531cf202b993c05b53c1",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "468-celine-dion-s-tiara-left-a-forehead-egg": {
+    "at": "2026-11-25T17:30:00Z",
+    "zernio_id": "6b056db9ba79944e1dda317a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "469-elvis-bought-diamonds-in-a-bathroom": {
+    "at": "2026-11-25T18:00:00Z",
+    "zernio_id": "6b056dbfba79944e1dda3194",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "470-swatch-s-satellite-was-thrown-by-hand": {
+    "at": "2026-11-25T18:30:00Z",
+    "zernio_id": "6b056dc4451fd0fa24daee90",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "471-mae-west-s-diamonds-weren-t-all-real": {
+    "at": "2026-11-25T19:00:00Z",
+    "zernio_id": "6b056dcaba79944e1dda31e1",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "472-tiffany-sold-a-silver-tin-can": {
+    "at": "2026-11-25T19:30:00Z",
+    "zernio_id": "6b056dd0ba79944e1dda3221",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "473-an-olympic-medal-chipped-his-tooth": {
+    "at": "2026-11-25T20:00:00Z",
+    "zernio_id": "6b056dd45c252bf7d380536d",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "474-the-world-cup-trophy-is-hollow-gold": {
+    "at": "2026-11-25T20:30:00Z",
+    "zernio_id": "6b056ddcf835209a72e7ced9",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "475-cartier-s-crash-watch-wasn-t-in-a-crash": {
+    "at": "2026-11-25T21:00:00Z",
+    "zernio_id": "6b056de15c252bf7d3805395",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "476-the-met-s-cellini-cup-was-a-copy": {
+    "at": "2026-11-25T21:30:00Z",
+    "zernio_id": "6b056de65c252bf7d38053aa",
     "platforms": [
       "facebook",
       "instagram"
