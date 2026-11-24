@@ -1,136 +1,54 @@
 {
  "queries": [
   {
-   "key": "h-celine",
+   "key": "h-worldcup",
    "commons": [
-    "Notre-Dame Basilica Montreal",
-    "Notre-Dame Basilica Montreal nave",
-    "Celine Dion",
-    "Celine Dion concert",
-    "Swarovski crystal",
-    "Crystal tiara",
-    "Wedding veil"
+    "FIFA World Cup Trophy",
+    "Silvio Gazzaniga",
+    "Malachite",
+    "FIFA Museum Zurich",
+    "Jules Rimet Trophy",
+    "1974 FIFA World Cup final",
+    "World Cup trophy 2014"
    ],
    "max": 7
   },
   {
-   "key": "h-elvis",
+   "key": "h-tincan2",
    "commons": [
-    "Elvis Presley",
-    "Elvis Presley 1970",
-    "Graceland",
-    "Memphian Theatre",
-    "Elvis Presley Las Vegas",
-    "Elvis Presley 1969",
-    "Diamond ring"
+    "Tiffany & Co. flagship store",
+    "Tiffany Blue",
+    "Tiffany window display",
+    "Reed Krakoff",
+    "Sterling silver cup",
+    "Tiffany & Co. 5th Avenue 2017",
+    "Silver tin can"
    ],
    "max": 7
   },
   {
-   "key": "h-swatch",
+   "key": "h-crash2",
    "commons": [
-    "Mir space station",
-    "Sputnik 99",
-    "Swatch watch",
-    "Swatch",
-    "Mir spacewalk",
-    "Biel Bienne",
-    "Amateur radio satellite"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-maewest",
-   "commons": [
-    "Mae West",
-    "Mae West 1933",
-    "Night After Night",
-    "She Done Him Wrong",
-    "Art Deco diamond bracelet",
-    "Diamond necklace",
-    "Safe deposit box"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-tincan",
-   "commons": [
-    "Tiffany & Co. Fifth Avenue",
-    "Tiffany blue box",
-    "Tin can",
-    "Paper cup",
-    "Tiffany and Co",
-    "Ball of yarn",
-    "Sterling silver"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-moeller",
-   "commons": [
-    "Olympic gold medal",
-    "Luge Whistler",
-    "2010 Winter Olympics luge",
-    "Whistler Sliding Centre",
-    "David Moeller luge",
-    "Olympic medal bite",
-    "Gold medal"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-mikimoto",
-   "commons": [
-    "Mikimoto Pearl Island",
-    "Liberty Bell",
-    "Kokichi Mikimoto",
-    "1939 New York World's Fair",
-    "Pearl necklace",
-    "Mikimoto Ginza",
-    "Trylon and Perisphere"
-   ],
-   "max": 7
-  },
-  {
-   "key": "h-crash",
-   "commons": [
-    "Cartier Crash",
-    "Cartier New Bond Street",
-    "Cartier boutique",
     "Cartier watch",
-    "Melted watch",
-    "Rupert Emmerson",
-    "Wristwatch gold"
+    "Cartier Tank watch",
+    "Cartier Paris Rue de la Paix",
+    "Cartier Place Vendome",
+    "Wristwatch gold",
+    "Jaeger-LeCoultre",
+    "Cartier boutique"
    ],
    "max": 7
   },
   {
-   "key": "h-cellini",
+   "key": "h-tyrese2",
    "commons": [
-    "Rospigliosi Cup",
-    "Benvenuto Cellini",
-    "Metropolitan Museum of Art",
-    "Reinhold Vasters",
-    "Aachen",
-    "Benjamin Altman",
-    "Enamel cup gold"
-   ],
-   "max": 7,
-   "met": [
-    "Rospigliosi cup",
-    "Cellini cup gold enamel"
-   ]
-  },
-  {
-   "key": "h-tyrese",
-   "commons": [
-    "Tyrese Gibson",
-    "Tyrese Gibson Fast and Furious",
+    "Radio studio microphone",
+    "Breakfast Club radio show",
     "Power 105.1",
-    "The Breakfast Club radio",
-    "Bracelet",
-    "Costume jewelry",
-    "Amazon fulfillment center"
+    "Amazon package",
+    "Bracelet silver",
+    "Tyrese Gibson 2018",
+    "Fast and Furious premiere"
    ],
    "max": 7
   }
