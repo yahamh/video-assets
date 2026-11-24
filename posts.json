@@ -6158,7 +6158,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2279006649327316",
+      "instagram": "https://www.instagram.com/reel/DgIf8uVAJXD/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7711792090488769844"
+    }
   },
   "429-gaga-s-diamond-almost-reached-taco-bell": {
     "at": "2026-11-24T18:00:00Z",
@@ -7286,6 +7292,13 @@
   "lesson-038-tension-setting": {
     "at": "2026-11-30T16:00:00Z",
     "zernio_id": "6b0553248fbb4d40b72ce9ff",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-039-sterling-silver": {
+    "at": "2026-12-01T16:00:00Z",
+    "zernio_id": "6b05cf6f6b5b6d9be0ceb391",
     "platforms": [
       "youtube"
     ]
