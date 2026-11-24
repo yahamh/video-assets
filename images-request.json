@@ -1,54 +1,132 @@
 {
  "queries": [
   {
-   "key": "h-worldcup",
+   "key": "i-kelce",
    "commons": [
-    "FIFA World Cup Trophy",
-    "Silvio Gazzaniga",
-    "Malachite",
-    "FIFA Museum Zurich",
-    "Jules Rimet Trophy",
-    "1974 FIFA World Cup final",
-    "World Cup trophy 2014"
+    "Jason Kelce",
+    "Super Bowl LII Philadelphia Eagles",
+    "Skyline Chili",
+    "University of Cincinnati",
+    "Chili bowl",
+    "Super Bowl ring",
+    "New Heights podcast"
    ],
    "max": 7
   },
   {
-   "key": "h-tincan2",
+   "key": "i-crowe",
    "commons": [
-    "Tiffany & Co. flagship store",
-    "Tiffany Blue",
+    "Patek Philippe wristwatch",
+    "Patek Philippe Geneva",
+    "Patek Philippe Calatrava",
+    "Russell Crowe",
+    "Kraven the Hunter",
+    "Jimmy Kimmel Live",
+    "Wristwatch handshake"
+   ],
+   "max": 7
+  },
+  {
+   "key": "i-winston",
+   "commons": [
+    "Maharaja of Indore Necklace",
+    "Spanish Inquisition Necklace Smithsonian",
+    "Katharine Hepburn 1940s",
+    "19th Academy Awards",
+    "Harry Winston",
+    "Emerald necklace",
+    "Smithsonian National Museum of Natural History gems"
+   ],
+   "max": 7
+  },
+  {
+   "key": "i-missu",
+   "commons": [
+    "Mikimoto Crown",
+    "Catriona Gray Miss Universe 2018",
+    "Miss Universe crown Mikimoto",
+    "Quezon City parade",
+    "Pearl crown",
+    "Mikimoto Ginza",
+    "Miss Universe 2018 Bangkok"
+   ],
+   "max": 7
+  },
+  {
+   "key": "i-prague",
+   "commons": [
+    "National Museum Prague",
+    "diamond brilliant cut",
+    "synthetic sapphire crystal",
+    "Wenceslas Square National Museum",
+    "Glass diamond imitation",
+    "Ruby crystal",
+    "Prague National Museum gems"
+   ],
+   "max": 7
+  },
+  {
+   "key": "i-genoa",
+   "commons": [
+    "Sacro Catino",
+    "Cattedrale di San Lorenzo Genova",
+    "Napoleon Bonaparte portrait",
+    "Genoa Cathedral treasury",
+    "Holy Grail",
+    "Emerald green glass bowl",
+    "Genoa old town"
+   ],
+   "max": 7
+  },
+  {
+   "key": "i-tiffwin",
+   "commons": [
+    "Tiffany & Co. flagship window",
+    "Robert Rauschenberg",
+    "Jasper Johns",
+    "Gene Moore window dresser",
+    "Tiffany Fifth Avenue 1950s",
     "Tiffany window display",
-    "Reed Krakoff",
-    "Sterling silver cup",
-    "Tiffany & Co. 5th Avenue 2017",
-    "Silver tin can"
+    "Bonwit Teller"
    ],
    "max": 7
   },
   {
-   "key": "h-crash2",
+   "key": "i-combs",
    "commons": [
-    "Cartier watch",
-    "Cartier Tank watch",
-    "Cartier Paris Rue de la Paix",
-    "Cartier Place Vendome",
-    "Wristwatch gold",
-    "Jaeger-LeCoultre",
-    "Cartier boutique"
+    "Rolex Yacht-Master",
+    "Rolex boutique",
+    "Madison Square Garden",
+    "Luke Combs",
+    "Rolex watch stainless steel",
+    "Camo shorts",
+    "Godiva chocolate shop"
    ],
    "max": 7
   },
   {
-   "key": "h-tyrese2",
+   "key": "i-paris24",
    "commons": [
-    "Radio studio microphone",
-    "Breakfast Club radio show",
-    "Power 105.1",
-    "Amazon package",
-    "Bracelet silver",
-    "Tyrese Gibson 2018",
-    "Fast and Furious premiere"
+    "Paris 2024 Olympic medals",
+    "Eiffel Tower",
+    "Place Vendome Chaumet",
+    "Monnaie de Paris",
+    "Nyjah Huston",
+    "Olympic bronze medal",
+    "Chaumet Paris"
+   ],
+   "max": 7
+  },
+  {
+   "key": "i-tissot",
+   "commons": [
+    "Tissot RockWatch",
+    "Tissot Le Locle",
+    "Swiss Alps granite",
+    "Graubunden granite",
+    "Tissot watch",
+    "Granite rock",
+    "Hiking trail marker Switzerland"
    ],
    "max": 7
   }
