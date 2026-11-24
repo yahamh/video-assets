@@ -1,0 +1,161 @@
+{
+  "id": "477-tyrese-s-bling-came-from-amazon",
+  "number": 477,
+  "title": "Tyrese's bling came from Amazon",
+  "style": "gouache",
+  "topic": "tyrese gibson fake jewelry amazon bracelet 23 dollars breakfast club power 105.1 charlamagne august 2024",
+  "music": "music-477.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "amethyst",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Tyrese's bling came from Amazon.",
+    "gold": [
+      "bling",
+      "Amazon."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tyrese's bling came from Amazon.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In August 2024, Tyrese Gibson visited the radio show The Breakfast Club.",
+      "say": "In August twenty twenty four, Tyrese Gibson visited the radio show The Breakfast Club.",
+      "scene": {
+        "kind": "title",
+        "text": "2024",
+        "sub": "A radio show",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The host, Charlamagne, asked if his earrings were real.",
+      "scene": {
+        "kind": "real",
+        "src": "477-tyrese-s-bling-came-from-amazon-0.jpg",
+        "fit": "card",
+        "label": "A radio studio",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Tyrese said no, and unclasped his bracelet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "cut": "oval",
+        "metal": "yellow",
+        "label": "Unclasped"
+      }
+    },
+    {
+      "text": "He said none of the jewelry on his arm was real.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "topaz",
+        "cut": "pear",
+        "metal": "yellow",
+        "label": "None of it real"
+      }
+    },
+    {
+      "text": "He had lost so much jewelry that he now wears fakes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Lost jewelry"
+      }
+    },
+    {
+      "text": "He joked he no longer knows where his earrings are.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "cut": "round",
+        "petals": 8,
+        "metal": "yellow",
+        "label": "Where are they"
+      }
+    },
+    {
+      "text": "His point was that people should not love him because of diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "peridot",
+        "metal": "yellow",
+        "stones": 9,
+        "label": "Not about diamonds"
+      }
+    },
+    {
+      "text": "He said the bracelet looks real.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "emerald",
+        "cut": "emerald",
+        "metal": "yellow",
+        "label": "Looks real"
+      }
+    },
+    {
+      "text": "It cost 23 dollars on Amazon.",
+      "say": "It cost twenty three dollars on Amazon.",
+      "scene": {
+        "kind": "title",
+        "text": "$23",
+        "sub": "On Amazon",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tyrese's bling came from Amazon. In August 2024, the actor and singer Tyrese Gibson visited a radio show, The Breakfast Club. The host, Charlamagne, asked if his earrings were real. Tyrese said no and unclasped his bracelet. He said none of the jewelry on his arm was real. He had lost so much jewelry that he now wears fakes, and he joked he no longer knows where his earrings are. His point was that people should not love him because of diamonds. He said the bracelet cost 23 dollars on Amazon and looks real.",
+    "hashtags": [
+      "#tyrese",
+      "#fakejewelry",
+      "#celebrityjewelry",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.complex.com/pop-culture/a/treyalston/tyrese-fake-jewelry",
+    "https://face2faceafrica.com/article/tyrese-reveals-why-his-bracelet-and-earrings-are-fake-in-emotional-interview-black-men-cry",
+    "https://sportskeeda.com/us/movies/news-tyrese-gibson-net-worth-fortune-explored-singer-reveals-wearing-fake-jewelry-new-interview",
+    "https://hiphopdx.com/news/tyrese-wears-fake-jewelry"
+  ],
+  "images": [
+    {
+      "src": "477-tyrese-s-bling-came-from-amazon-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Robert E. Nylund Sallyrob ( talk )",
+      "page": "https://commons.wikimedia.org/wiki/File:Radio_studio_of_WBNI,_showing_console.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
