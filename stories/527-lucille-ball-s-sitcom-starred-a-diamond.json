@@ -1,0 +1,170 @@
+{
+  "id": "527-lucille-ball-s-sitcom-starred-a-diamond",
+  "number": 527,
+  "title": "Lucille Ball's sitcom starred a diamond",
+  "style": "deco",
+  "topic": "lucille ball here's lucy 1970 lucy meets the burtons elizabeth taylor richard burton taylor burton diamond plumber overalls ring stuck finger 69.42 carats pear shaped cbs",
+  "music": "music-527.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Lucille Ball's sitcom starred a diamond.",
+    "gold": [
+      "sitcom",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lucille Ball's sitcom starred a diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1970, Lucille Ball's sitcom invited Elizabeth Taylor and Richard Burton.",
+      "say": "In nineteen seventy, Lucille Ball's sitcom invited Elizabeth Taylor and Richard Burton.",
+      "scene": {
+        "kind": "real",
+        "src": "527-lucille-ball-s-sitcom-starred-a-diamond-0.jpg",
+        "fit": "card",
+        "label": "Lucy, Taylor and Burton",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Both stars played themselves in the third season opener.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Playing themselves",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The episode was called Lucy Meets the Burtons.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Lucy Meets the Burtons",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Burton hides from fans in a plumber's overalls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A plumber's overalls",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Lucy finds a diamond ring in the overalls and tries it on.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Trying it on"
+      }
+    },
+    {
+      "text": "The ring gets stuck on her finger.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Stuck on a finger",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Lucy's arms stand in for Taylor's at a press event.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Borrowed arms",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The ring in the plot is the real Taylor Burton diamond.",
+      "scene": {
+        "kind": "real",
+        "src": "527-lucille-ball-s-sitcom-starred-a-diamond-1.jpg",
+        "fit": "card",
+        "label": "Elizabeth Taylor, 1950s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "That pear shaped diamond weighs 69.42 carats.",
+      "say": "That pear shaped diamond weighs sixty nine point four two carats.",
+      "scene": {
+        "kind": "title",
+        "text": "69.42",
+        "sub": "Carats",
+        "piece": "earrings",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Lucille Ball's sitcom starred a diamond. In 1970, her show Here's Lucy invited Elizabeth Taylor and Richard Burton. The episode was called Lucy Meets the Burtons. Burton hides from fans in a plumber's overalls, and Lucy finds a diamond ring in them and tries it on. It gets stuck on her finger, and Taylor cannot pull it off, so Lucy's arms stand in for Taylor's at a press event. The ring in the plot is the real Taylor Burton diamond. That pear shaped diamond weighs 69.42 carats.",
+    "hashtags": [
+      "#lucilleball",
+      "#elizabethtaylor",
+      "#taylorburtondiamond",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://everythinglucy.youns.com/heres-lucy/heres-lucy-episode-49.html",
+    "https://thetvdb.com/series/heres-lucy/episodes/18884",
+    "https://www.televisionacademy.com/features/news/online-originals/heres-50-years-heres-lucy-part-2",
+    "https://www.jckonline.com/?p=17795",
+    "https://elizabethtaylor.com/a-name-that-sparkles-the-stories-behind-the-elizabeth-taylor-diamond-and-the-taylor-burton-diamond/",
+    "https://abcnews.com/Entertainment/kim-kardashians-ring-justin-biebers-pendant-outrageous-jewelry/story?id=13696645"
+  ],
+  "images": [
+    {
+      "src": "527-lucille-ball-s-sitcom-starred-a-diamond-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "CBS Television",
+      "page": "https://commons.wikimedia.org/wiki/File:Lucille_Ball_Elizabeth_Taylor_Richard_Burton_Heres_Lucy_1974.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "527-lucille-ball-s-sitcom-starred-a-diamond-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "MGM publicity still",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Taylor,_late_1950s.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
