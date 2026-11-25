@@ -6440,7 +6440,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2691758521254731",
+      "instagram": "https://www.instagram.com/reel/DgKDtA9OyJS/"
+    }
   },
   "450-paul-newman-s-rolex-said-drive-carefully": {
     "at": "2026-11-25T08:30:00Z",
@@ -6449,14 +6454,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2014560369225196",
+      "instagram": "https://www.instagram.com/reel/DgKG10phGRh/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712023796475055367"
+    }
   },
   "451-mickey-mouse-s-watch-rescued-a-clockmaker": {
     "at": "2026-11-25T09:00:00Z",
     "zernio_id": "6b04c7cb209404897bafa99f",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgKKhkzTW-7/"
+    }
   },
   "452-dorothy-s-ruby-slippers-had-no-rubies": {
     "at": "2026-11-25T09:30:00Z",
@@ -6464,7 +6479,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1154178240356856",
+      "instagram": "https://www.instagram.com/reel/DgKNpoShhT-/"
+    }
   },
   "453-mr-t-s-gold-chains-were-lost-property": {
     "at": "2026-11-25T10:00:00Z",
@@ -6473,7 +6493,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1164890685886120",
+      "instagram": "https://www.instagram.com/reel/DgKRWbcTo6s/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712047554581564679"
+    }
   },
   "454-oprah-gave-6-000-people-diamond-necklaces": {
     "at": "2026-11-25T10:30:00Z",
@@ -6482,7 +6508,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1941341337244873",
+      "instagram": "https://www.instagram.com/reel/DgKUj-nBt54/",
+      "youtube": "https://www.youtube.com/watch?v=1qjEUmZmw-M"
+    }
   },
   "455-kidman-s-film-necklace-held-1-308-diamonds": {
     "at": "2026-11-25T11:00:00Z",
@@ -6912,6 +6944,81 @@
   "507-frankenstein-s-heroine-wore-tiffany-beetles": {
     "at": "2026-11-26T17:00:00Z",
     "zernio_id": "6b0672e7c6b2959b9d0675a3",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "508-a-stuck-carriage-cost-napoleon-a-brooch": {
+    "at": "2026-11-26T17:30:00Z",
+    "zernio_id": "6b06c06d45c2ec154580de7b",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "509-crown-jewels-hid-in-a-biscuit-tin": {
+    "at": "2026-11-26T18:00:00Z",
+    "zernio_id": "6b06c0760e9edde2466bbb35",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "510-miss-piggy-posed-wearing-the-hope-diamond": {
+    "at": "2026-11-26T18:30:00Z",
+    "zernio_id": "6b06c07c757eddb81b9bf19c",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "511-a-ten-pound-ring-hid-a-diamond": {
+    "at": "2026-11-26T19:00:00Z",
+    "zernio_id": "6b06c08187cd0a0d16a37070",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "512-a-faberg-flower-sat-at-army-dinners": {
+    "at": "2026-11-26T19:30:00Z",
+    "zernio_id": "6b06c0868f0661c2a88c3807",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "513-a-lost-brooch-cost-under-twenty-pounds": {
+    "at": "2026-11-26T20:00:00Z",
+    "zernio_id": "6b06c08c83e3c4f84f77911d",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "514-monopoly-s-dice-once-had-diamond-spots": {
+    "at": "2026-11-26T20:30:00Z",
+    "zernio_id": "6b06c0920a1ea3d13263fefb",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "515-harry-winston-once-made-a-bra": {
+    "at": "2026-11-26T21:00:00Z",
+    "zernio_id": "6b06c098b8eb23bc83139f54",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "516-barbie-once-wore-a-real-pink-diamond": {
+    "at": "2026-11-26T21:30:00Z",
+    "zernio_id": "6b06c09f258e581b779b1c92",
     "platforms": [
       "facebook",
       "instagram"
