@@ -6521,7 +6521,11 @@
     "zernio_id": "6b04c7db94e0d63e251fe672",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgKYJZlK8JI/"
+    }
   },
   "456-nick-cannon-s-loafers-wore-14-000-diamonds": {
     "at": "2026-11-25T11:30:00Z",
@@ -6530,7 +6534,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1786969006356874",
+      "instagram": "https://www.instagram.com/reel/DgKbaOcMkmX/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712070218423586069"
+    }
   },
   "457-hollywood-rented-most-of-its-jewels": {
     "at": "2026-11-25T12:00:00Z",
@@ -6538,7 +6548,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3322810644773695",
+      "instagram": "https://www.instagram.com/reel/DgKe-Ovo1n8/"
+    }
   },
   "458-gold-earrings-cheaper-than-a-sandwich": {
     "at": "2026-11-25T12:30:00Z",
@@ -6546,7 +6561,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2109692839677139",
+      "instagram": "https://www.instagram.com/reel/DgKiQY4o4Eb/"
+    }
   },
   "459-lady-gaga-s-first-ring-was-grass": {
     "at": "2026-11-25T13:00:00Z",
@@ -6554,7 +6574,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgKlx1wBOYy/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712093542004329746"
+    }
   },
   "460-harry-winston-s-first-emerald-cost-25-cents": {
     "at": "2026-11-25T13:30:00Z",
@@ -6562,7 +6587,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=985186790910400",
+      "instagram": "https://www.instagram.com/reel/DgKpIt8BYaZ/"
+    }
   },
   "461-golden-state-s-ring-flips-over": {
     "at": "2026-11-25T14:00:00Z",
@@ -6571,7 +6601,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1606376514579316",
+      "instagram": "https://www.instagram.com/reel/DgKswpioD4U/",
+      "youtube": "https://www.youtube.com/watch?v=8NK_70DTI1A"
+    }
   },
   "462-the-louvre-s-golden-tiara-was-brand-new": {
     "at": "2026-11-25T14:30:00Z",
@@ -6579,7 +6615,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgKv_IxB0dZ/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712116556863507732"
+    }
   },
   "463-glenn-miller-s-gold-record-was-spray-paint": {
     "at": "2026-11-25T15:00:00Z",
@@ -6587,7 +6628,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2941415719568953",
+      "instagram": "https://www.instagram.com/reel/DgKzqvfodr1/"
+    }
   },
   "464-bond-s-digital-watch-began-as-a-prop": {
     "at": "2026-11-25T15:30:00Z",
@@ -6595,7 +6641,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1927812551522499",
+      "instagram": "https://www.instagram.com/reel/DgK27nVTyt6/"
+    }
   },
   "465-the-ballon-d-or-is-brass-inside": {
     "at": "2026-11-25T16:00:00Z",
@@ -6604,14 +6655,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1175920375161461",
+      "instagram": "https://www.instagram.com/reel/DgK6ezMBc_U/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712140169486355730"
+    }
   },
   "466-rolex-s-oyster-survived-an-unfinished-swim": {
     "at": "2026-11-25T16:30:00Z",
     "zernio_id": "6b0535d829b0dd0ae925227e",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgK9s0nuo2c/"
+    }
   },
   "467-drake-s-tooth-diamond-looked-like-a-pepper": {
     "at": "2026-11-25T17:00:00Z",
@@ -6619,7 +6680,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1870817410739590",
+      "instagram": "https://www.instagram.com/reel/DgLBaFmydEz/"
+    }
   },
   "468-celine-dion-s-tiara-left-a-forehead-egg": {
     "at": "2026-11-25T17:30:00Z",
@@ -7030,6 +7096,79 @@
     "platforms": [
       "instagram",
       "tiktok"
+    ]
+  },
+  "518-tiffany-s-april-fools-jokes-came-true": {
+    "at": "2026-11-26T22:30:00Z",
+    "zernio_id": "6b071d5c6384a586844e2f6f",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "519-m-m-s-turned-peanut-butter-into-diamonds": {
+    "at": "2026-11-26T23:00:00Z",
+    "zernio_id": "6b071d6146c1f523ed3faa02",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "520-dali-dressed-alice-cooper-in-diamonds": {
+    "at": "2026-11-26T23:30:00Z",
+    "zernio_id": "6b071d656384a586844e2fad",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "521-a-big-mac-ring-had-sapphire-sauce": {
+    "at": "2026-11-27T00:00:00Z",
+    "zernio_id": "6b071d6a46c1f523ed3faa2f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "522-princess-elizabeth-s-pearls-were-left-behind": {
+    "at": "2026-11-27T00:30:00Z",
+    "zernio_id": "6b071d70b697f7143fede304",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "523-hidden-valley-s-ranch-became-a-diamond": {
+    "at": "2026-11-27T01:00:00Z",
+    "zernio_id": "6b071d76b781dbd97e82ee6d",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "524-nicole-kidman-s-jeweler-took-a-shop-s-name": {
+    "at": "2026-11-27T01:30:00Z",
+    "zernio_id": "6b071d7a1750a071605b1b08",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "525-sharon-stone-s-loan-broke-a-jeweler-s-rule": {
+    "at": "2026-11-27T02:00:00Z",
+    "zernio_id": "6b071d7fb697f7143fede355",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "526-a-hotel-vending-machine-dispensed-gold": {
+    "at": "2026-11-27T02:30:00Z",
+    "zernio_id": "6b071d8590dc7eaf41c7d205",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -7640,7 +7779,11 @@
     "zernio_id": "6afe37ce9bf0750ffefb7256",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=er6zRcoxdKk"
+    }
   },
   "lesson-034-diamond-clarity-grades": {
     "at": "2026-11-26T16:00:00Z",
