@@ -1,0 +1,188 @@
+{
+  "id": "507-frankenstein-s-heroine-wore-tiffany-beetles",
+  "number": 507,
+  "title": "Frankenstein's heroine wore Tiffany beetles",
+  "style": "gouache",
+  "topic": "frankenstein 2025 guillermo del toro tiffany kate hawley beetle necklace favrile glass meta overbeck 1914 louis comfort tiffany corona queens wade necklace paulding farnham 1900 27 pieces",
+  "music": "music-507.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "emerald",
+    "cut": "round",
+    "petals": 9,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Frankenstein's heroine wore Tiffany beetles.",
+    "gold": [
+      "heroine",
+      "beetles."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Frankenstein's heroine wore Tiffany beetles.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Guillermo del Toro's Frankenstein came out in 2025.",
+      "say": "Guillermo del Toro's Frankenstein came out in twenty twenty five.",
+      "scene": {
+        "kind": "title",
+        "text": "2025",
+        "sub": "The film",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It reached Netflix on November 7, 2025.",
+      "say": "It reached Netflix on November seventh, twenty twenty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "On Netflix",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Costume designer Kate Hawley worked with Tiffany on the jewels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Kate Hawley",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "One is a glass beetle necklace designed in 1914.",
+      "say": "One is a glass beetle necklace designed in nineteen fourteen.",
+      "scene": {
+        "kind": "real",
+        "src": "507-frankenstein-s-heroine-wore-tiffany-beetles-0.jpg",
+        "fit": "card",
+        "label": "Tiffany Favrile glass",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The glass came from Louis Comfort Tiffany's own furnace in Queens.",
+      "scene": {
+        "kind": "real",
+        "src": "507-frankenstein-s-heroine-wore-tiffany-beetles-1.jpg",
+        "fit": "card",
+        "label": "Louis Comfort Tiffany",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The heroine studies insects, so beetles suited her.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A love of insects",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Another piece is a diamond collar from about 1900.",
+      "say": "Another piece is a diamond collar from about nineteen hundred.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A diamond collar",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It had not been worn in modern times.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Not worn in years",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The heroine wears it while playing the piano.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "At the piano",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In all, Tiffany lent 27 pieces to the film.",
+      "say": "In all, Tiffany lent twenty seven pieces to the film.",
+      "scene": {
+        "kind": "title",
+        "text": "27",
+        "sub": "Pieces lent",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Frankenstein's heroine wore Tiffany beetles. Guillermo del Toro's Frankenstein came out in 2025, and costume designer Kate Hawley worked with Tiffany on the jewels. One is a glass beetle necklace designed in 1914, and the glass came from Louis Comfort Tiffany's own furnace in Queens. The heroine studies insects, so beetles suited her. Another piece is a diamond collar from about 1900 that had not been worn in modern times. The heroine wears it while playing the piano, and the fit was called a Cinderella moment. In all, Tiffany lent 27 pieces to the film.",
+    "hashtags": [
+      "#frankenstein",
+      "#tiffany",
+      "#guillermodeltoro",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.aol.com/articles/hidden-history-behind-scarab-necklace-184836560.html",
+    "https://nationaljeweler.com/articles/14259-tiffany-co-archival-jewels-bring-life-to-frankenstein",
+    "https://www.aol.com/articles/diamonds-netflix-adaptation-frankenstein-real-135917790.html",
+    "https://www.countrylife.co.uk/luxury/i-gave-her-full-access-to-our-archives-we-never-offer-that-the-historic-tiffany-jewellery-that-gave-life-to-guillermo-del-toros-frankenstein",
+    "https://www.voguescandinavia.com/articles/tiffany-jewellery-frankenstein",
+    "https://mexiconewsdaily.com/culture/tiffany-jewels-guillermo-del-toro-frankenstein/",
+    "https://www.thepeakmagazine.com.sg/watch-jewellery/tiffany-frankenstein"
+  ],
+  "images": [
+    {
+      "src": "507-frankenstein-s-heroine-wore-tiffany-beetles-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Favrile_vase,_signed_Louis_Comfort_Tiffany,_Tiffany_Studios,_c._1900-1919,_blown_iridescent_glass_-_Krannert_Art_Museum,_UIUC_-_DSC06561.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "507-frankenstein-s-heroine-wore-tiffany-beetles-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "William Kurtz",
+      "page": "https://commons.wikimedia.org/wiki/File:Louis_Comfort_Tiffany_by_William_Kurtz.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
