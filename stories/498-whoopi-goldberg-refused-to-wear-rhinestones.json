@@ -1,0 +1,175 @@
+{
+  "id": "498-whoopi-goldberg-refused-to-wear-rhinestones",
+  "number": 498,
+  "title": "Whoopi Goldberg refused to wear rhinestones",
+  "style": "gouache",
+  "topic": "whoopi goldberg harry winston rhinestones cinderella 1997 queen constantina 70 carat diamond ring armed guards 1999 academy awards host elizabethan costume 41 million 15 million",
+  "music": "music-498.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Whoopi Goldberg refused to wear rhinestones.",
+    "gold": [
+      "refused",
+      "rhinestones."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Whoopi Goldberg refused to wear rhinestones.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 1997 TV film Cinderella, Whoopi played a queen.",
+      "say": "In the nineteen ninety seven TV film Cinderella, Whoopi played a queen.",
+      "scene": {
+        "kind": "real",
+        "src": "498-whoopi-goldberg-refused-to-wear-rhinestones-0.jpg",
+        "fit": "card",
+        "label": "Whoopi Goldberg",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The costume team first made her rhinestone jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Rhinestones",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "She insisted the queen wear real jewels instead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Real jewels instead",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "So she called Harry Winston herself and asked to borrow some.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Harry Winston",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The loan included a 70 carat diamond ring.",
+      "say": "The loan included a seventy carat diamond ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A 70 carat ring",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Winston sent three armed guards to the set.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Three armed guards"
+      }
+    },
+    {
+      "text": "In 1999, she hosted the Academy Awards in Elizabethan costume.",
+      "say": "In nineteen ninety nine, she hosted the Academy Awards in Elizabethan costume.",
+      "scene": {
+        "kind": "real",
+        "src": "498-whoopi-goldberg-refused-to-wear-rhinestones-1.jpg",
+        "fit": "card",
+        "label": "Queen Elizabeth I",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She reportedly wore 41 million dollars of Winston jewels, an Oscars record.",
+      "say": "She reportedly wore forty one million dollars of Winston jewels, an Oscars record.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "An Oscars record",
+        "stones": 9
+      }
+    },
+    {
+      "text": "One diamond ring in that collection was worth 15 million dollars.",
+      "say": "One diamond ring in that collection was worth fifteen million dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "15 million",
+        "sub": "Dollars",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Whoopi Goldberg refused to wear rhinestones. In the 1997 TV film Cinderella, she played a queen, and the costume team first made her rhinestone jewelry. She insisted the queen wear real jewels instead, so she called Harry Winston herself and asked to borrow some. The loan included a 70 carat diamond ring, and Winston sent three armed guards to the set. In 1999, she hosted the Academy Awards in Elizabethan costume and reportedly wore 41 million dollars of Winston jewels, an Oscars record. One diamond ring in that collection was worth 15 million dollars.",
+    "hashtags": [
+      "#whoopigoldberg",
+      "#harrywinston",
+      "#oscars",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cinderella_(1997_film)",
+    "https://www.tvinsider.com/1067787/rodgers-hammersteins-cinderella-abc-fun-facts-25th-anniversary/",
+    "https://www.slashfilm.com/983422/how-whoopi-goldberg-made-queen-constantina-uniquely-hers-in-cinderella",
+    "https://watchmojo.com/articles/top-10-behind-the-scenes-facts-about-cinderella-1997",
+    "https://www.seeing-stars.com/Shop/Jeweler.shtml",
+    "https://money.cnn.com/2003/03/04/news/oscars_diamonds/",
+    "https://4cs.gia.edu/en-us/blog/oscar-history-a-look-at-noteworthy-jewelry/",
+    "https://www.oscars.org/oscars/ceremonies/1999/memorable-moments"
+  ],
+  "images": [
+    {
+      "src": "498-whoopi-goldberg-refused-to-wear-rhinestones-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Library of Congress Life",
+      "page": "https://commons.wikimedia.org/wiki/File:Whoopi_Goldberg_in_2024_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "498-whoopi-goldberg-refused-to-wear-rhinestones-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "After Levina Teerlinc",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_I_in_coronation_robes.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

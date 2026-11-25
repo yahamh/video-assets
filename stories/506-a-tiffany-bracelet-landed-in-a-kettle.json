@@ -1,0 +1,175 @@
+{
+  "id": "506-a-tiffany-bracelet-landed-in-a-kettle",
+  "number": 506,
+  "title": "A Tiffany bracelet landed in a kettle",
+  "style": "deco",
+  "topic": "tiffany bracelet salvation army red kettle annapolis maryland december 2019 quiet spirit bell ringer ring rubies diamonds 6,000 1,500 captain shocked real 30 days",
+  "music": "music-506.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "ruby",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Tiffany bracelet landed in a kettle.",
+    "gold": [
+      "bracelet",
+      "kettle."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Tiffany bracelet landed in a kettle.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In December 2019, a woman dropped jewelry into a Salvation Army kettle.",
+      "say": "In December twenty nineteen, a woman dropped jewelry into a Salvation Army kettle.",
+      "scene": {
+        "kind": "title",
+        "text": "2019",
+        "sub": "Annapolis",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "She said Merry Christmas and walked away.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Merry Christmas",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The bell ringer called her a quiet spirit.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A quiet spirit",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Inside was a yellow gold Tiffany bracelet and a ring.",
+      "scene": {
+        "kind": "real",
+        "src": "506-a-tiffany-bracelet-landed-in-a-kettle-0.jpg",
+        "fit": "card",
+        "label": "Tiffany & Co. boxes",
+        "credit": "Photo: Ajay Suresh from New York, NY, USA, CC BY 2.0"
+      }
+    },
+    {
+      "text": "There was also a bracelet with diamonds and rubies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Diamonds and rubies",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "A jeweler valued the Tiffany bracelet at 6,000 dollars.",
+      "say": "A jeweler valued the Tiffany bracelet at six thousand dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "6,000",
+        "sub": "Dollars",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It sold for 1,500 dollars.",
+      "say": "It sold for fifteen hundred dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "It sold",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A captain said it shocked them to learn it was real.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A shocked captain"
+      }
+    },
+    {
+      "text": "That season, a kettle in Kentucky also received a gold bar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A gold bar",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Jewelry found in kettles is held for 30 days.",
+      "say": "Jewelry found in kettles is held for thirty days.",
+      "scene": {
+        "kind": "title",
+        "text": "30 days",
+        "sub": "On hold",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Tiffany bracelet landed in a kettle. In December 2019, a woman dropped jewelry into a Salvation Army kettle in Annapolis, Maryland. She said Merry Christmas and walked away. The bell ringer called her a quiet spirit. Inside were a yellow gold Tiffany bracelet and a ring, plus a bracelet with diamonds and rubies. A jeweler valued the Tiffany bracelet at 6,000 dollars, and it sold for 1,500 dollars. A captain said it shocked them to learn it was real. Jewelry found in kettles is held for 30 days. Photo: Ajay Suresh from New York, NY, USA, CC BY 2.0.",
+    "hashtags": [
+      "#tiffany",
+      "#salvationarmy",
+      "#bracelet",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.thedailybeast.com/maryland-woman-donates-dollar6000-tiffany-and-co-bracelet-other-jewelry-to-salvation-army",
+    "https://www.foxbusiness.com/lifestyle/tiffany-bracelet-dropped-in-salvation-army-kettle",
+    "https://jckonline.com/?p=98080",
+    "https://triblive.com/news/world/bracelet-worth-thousands-dropped-into-salvation-army-red-kettle-in-maryland"
+  ],
+  "images": [
+    {
+      "src": "506-a-tiffany-bracelet-landed-in-a-kettle-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Ajay Suresh from New York, NY, USA",
+      "page": "https://commons.wikimedia.org/wiki/File:Tiffany_%26_Co_-_Boxes_(49790579546).jpg",
+      "credit": "Photo: Ajay Suresh from New York, NY, USA, CC BY 2.0"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "503-faberg-s-pink-egg-crows-every-hour",
+  "number": 503,
+  "title": "Fabergé's pink egg crows every hour",
+  "style": "deco",
+  "topic": "faberge rothschild clock egg 1902 st petersburg michael perchin pink enamel cockerel crows every hour hermitage christie's 2007 beatrice ephrussi",
+  "music": "music-503.wav",
+  "piece": {
+    "piece": "egg",
+    "tone": "pink",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Fabergé's pink egg crows every hour.",
+    "gold": [
+      "egg",
+      "crows"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fabergé's pink egg crows every hour.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Fabergé made the Rothschild egg in St Petersburg in 1902.",
+      "say": "Fabergé made the Rothschild egg in Saint Petersburg in nineteen oh two.",
+      "scene": {
+        "kind": "real",
+        "src": "503-faberg-s-pink-egg-crows-every-hour-0.jpg",
+        "fit": "card",
+        "label": "The Rothschild egg",
+        "credit": "Photo: Owen Byrne, CC BY 2.0"
+      }
+    },
+    {
+      "text": "It was made for a banking family instead of the tsars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A banking family",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Béatrice de Rothschild gave it to her brother's fiancée.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A gift"
+      }
+    },
+    {
+      "text": "Its shell is covered in translucent pink enamel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Pink enamel",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Every hour, a diamond set cockerel rises from the top.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A cockerel",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It flaps its wings four times and nods three times.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Flaps and nods",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The crow comes from air pushed through pipes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Air and pipes",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The show lasts about 15 seconds, then a bell strikes.",
+      "say": "The show lasts about fifteen seconds, then a bell strikes.",
+      "scene": {
+        "kind": "title",
+        "text": "15 seconds",
+        "sub": "The show",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "Christie's sold it in London in 2007, a record for a clock.",
+      "say": "Christie's sold it in London in two thousand seven, a record for a clock.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A clock record",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It is now kept in the Hermitage in St Petersburg.",
+      "say": "It is now kept in the Hermitage in Saint Petersburg.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "The Hermitage"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Fabergé's pink egg crows every hour. Fabergé made the Rothschild egg in St Petersburg in 1902, for a banking family instead of the tsars. Béatrice de Rothschild gave it to her brother's fiancée. Its shell is covered in translucent pink enamel. Every hour, a diamond set cockerel rises from the top, flaps its wings four times and nods three times. The crow comes from air pushed through pipes, and the show lasts about 15 seconds before a bell strikes. Christie's sold it in London in 2007, a record for a clock. It is now kept in the Hermitage in St Petersburg. Photo: Owen Byrne, CC BY 2.0.",
+    "hashtags": [
+      "#faberge",
+      "#fabergeegg",
+      "#rothschild",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rothschild_(Faberg%C3%A9_egg)",
+    "https://wintraecken.nl/mieks/faberge/eggs/Other-Eggs/1902-rothschild-egg.htm",
+    "https://www.christies.com.cn/lot/lot-5002399",
+    "https://guinnessworldrecords.de/world-records/most-expensive-clock-sold-at-auction",
+    "https://www.britannica.com/topic/Rothschild-Egg-Faberge"
+  ],
+  "images": [
+    {
+      "src": "503-faberg-s-pink-egg-crows-every-hour-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Owen Byrne",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%BE%D1%82%D1%88%D0%B8%D0%BB%D1%8C%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5.jpg",
+      "credit": "Photo: Owen Byrne, CC BY 2.0"
+    }
+  ]
+}

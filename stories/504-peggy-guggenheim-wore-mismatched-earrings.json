@@ -1,0 +1,183 @@
+{
+  "id": "504-peggy-guggenheim-wore-mismatched-earrings",
+  "number": 504,
+  "title": "Peggy Guggenheim wore mismatched earrings",
+  "style": "gouache",
+  "topic": "peggy guggenheim mismatched earrings tanguy calder art of this century 1942 new york surrealist abstract impartiality 1,800 pieces jewelry venice",
+  "music": "music-504.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "topaz",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Peggy Guggenheim wore mismatched earrings.",
+    "gold": [
+      "mismatched",
+      "earrings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Peggy Guggenheim wore mismatched earrings.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "On October 20, 1942, Peggy Guggenheim opened her gallery in New York.",
+      "say": "On October twentieth, nineteen forty two, Peggy Guggenheim opened her gallery in New York.",
+      "scene": {
+        "kind": "real",
+        "src": "504-peggy-guggenheim-wore-mismatched-earrings-0.jpg",
+        "fit": "card",
+        "label": "Peggy Guggenheim, 1958",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She wore one earring by Tanguy and one by Calder.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Tanguy and Calder",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "She said it showed her impartiality between Surrealist and Abstract art.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Impartiality",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Tanguy's earring was a tiny oil landscape painted on shell.",
+      "scene": {
+        "kind": "real",
+        "src": "504-peggy-guggenheim-wore-mismatched-earrings-1.jpg",
+        "fit": "card",
+        "label": "A Tanguy painting, 1942",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Calder's was a wire mobile in miniature.",
+      "scene": {
+        "kind": "real",
+        "src": "504-peggy-guggenheim-wore-mismatched-earrings-2.jpg",
+        "fit": "card",
+        "label": "Calder and Villanueva, 1954",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Calder first made jewelry for his sister's dolls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Doll jewelry"
+      }
+    },
+    {
+      "text": "He went on to make roughly 1,800 pieces of jewelry.",
+      "say": "He went on to make roughly eighteen hundred pieces of jewelry.",
+      "scene": {
+        "kind": "title",
+        "text": "1,800",
+        "sub": "Pieces",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "He used only pliers and a hammer, with no welds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Pliers and a hammer",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Both pairs are kept in the Peggy Guggenheim Collection in Venice.",
+      "scene": {
+        "kind": "real",
+        "src": "504-peggy-guggenheim-wore-mismatched-earrings-3.jpg",
+        "fit": "card",
+        "label": "A model of the palazzo",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    }
+  ],
+  "post": {
+    "caption": "Peggy Guggenheim wore mismatched earrings. On October 20, 1942, she opened her gallery Art of This Century in New York. She wore one earring by Yves Tanguy and one by Alexander Calder, and said it showed her impartiality between Surrealist and Abstract art. Tanguy's was a tiny oil landscape painted on shell, and Calder's was a wire mobile in miniature. Calder first made jewelry for his sister's dolls, and went on to make roughly 1,800 pieces. He used only pliers and a hammer, with no welds. Both pairs are kept in the Peggy Guggenheim Collection in Venice.",
+    "hashtags": [
+      "#peggyguggenheim",
+      "#calder",
+      "#earrings",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.guggenheim-venice.it/en/art/works/earrings-for-peggy-guggenheim-1/",
+    "https://en.wikipedia.org/wiki/The_Art_of_This_Century",
+    "https://rapaport.com/?p=36249",
+    "https://calder.org/archive/all/chronology/page/4",
+    "https://www.npr.org/2008/07/22/92736081/alexander-calders-jewelry-gets-its-due-finally",
+    "https://artsy.net/article/artsy-editorial-alexander-calders-jewelry-turns-people-living-sculptures",
+    "https://fredericmagazine.com/2022/05/alexander-calder-jewelry/"
+  ],
+  "images": [
+    {
+      "src": "504-peggy-guggenheim-wore-mismatched-earrings-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Peggy_Guggenheim,_Lo_Specchio_(1958).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "504-peggy-guggenheim-wore-mismatched-earrings-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Yves Tanguy",
+      "page": "https://commons.wikimedia.org/wiki/File:Yves_Tanguy_-_Divisibilit%C3%A9_ind%C3%A9finie_(1942).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "504-peggy-guggenheim-wore-mismatched-earrings-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Alfredo Boulton",
+      "page": "https://commons.wikimedia.org/wiki/File:1954._Carlos_Ra%C3%BAl_Villanueva_y_Alexander_Calder_-_Alfredo_Boulton_(1).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "504-peggy-guggenheim-wore-mismatched-earrings-3.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Didier Descouens",
+      "page": "https://commons.wikimedia.org/wiki/File:(Venice)_Large_wooden_model_for_Palazzo_Venier_dei_leoni_by_Domenico_Rizzi_-_Museo_Correr.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

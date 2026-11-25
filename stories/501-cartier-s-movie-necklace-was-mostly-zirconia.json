@@ -1,0 +1,183 @@
+{
+  "id": "501-cartier-s-movie-necklace-was-mostly-zirconia",
+  "number": 501,
+  "title": "Cartier's movie necklace was mostly zirconia",
+  "style": "gouache",
+  "topic": "cartier ocean's 8 toussaint necklace zirconia jeanne toussaint 1931 rue de la paix eight weeks archive sketches 15 20 percent smaller white gold",
+  "music": "music-501.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "aquamarine",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Cartier's movie necklace was mostly zirconia.",
+    "gold": [
+      "necklace",
+      "zirconia."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier's movie necklace was mostly zirconia.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In Ocean's 8, the target is a Cartier necklace.",
+      "say": "In Ocean's Eight, the target is a Cartier necklace.",
+      "scene": {
+        "kind": "real",
+        "src": "501-cartier-s-movie-necklace-was-mostly-zirconia-0.jpg",
+        "fit": "card",
+        "label": "A Cartier ad, 1914",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It is named for Jeanne Toussaint, Cartier's creative director.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Jeanne Toussaint",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The design came from a necklace made in 1931.",
+      "say": "The design came from a necklace made in nineteen thirty one.",
+      "scene": {
+        "kind": "title",
+        "text": "1931",
+        "sub": "The original",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      }
+    },
+    {
+      "text": "That original no longer exists.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Gone",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "So Cartier rebuilt it in Paris from archive sketches.",
+      "scene": {
+        "kind": "real",
+        "src": "501-cartier-s-movie-necklace-was-mostly-zirconia-1.jpg",
+        "fit": "card",
+        "label": "Cartier on the rue de la Paix",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The copy is 15 to 20 percent smaller, to fit its wearer.",
+      "say": "The copy is fifteen to twenty percent smaller, to fit its wearer.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Made to fit",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Its stones are mostly zirconia, set in white gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Zirconia stones"
+      }
+    },
+    {
+      "text": "It was the only piece Cartier made just for the film.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Made for the film",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Cartier's New York mansion closed for two days of filming.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Two days closed"
+      }
+    },
+    {
+      "text": "The rebuild took eight weeks.",
+      "say": "The rebuild took eight weeks.",
+      "scene": {
+        "kind": "title",
+        "text": "8 weeks",
+        "sub": "The rebuild",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Cartier's movie necklace was mostly zirconia. In Ocean's 8, the target is a Cartier necklace called the Toussaint, named for Jeanne Toussaint, Cartier's creative director. The design came from a necklace made in 1931, and that original no longer exists. So Cartier rebuilt it in Paris from archive sketches. The copy is 15 to 20 percent smaller, to fit its wearer. Its stones are mostly zirconia, set in white gold. It was the only piece Cartier made just for the film. The rebuild took eight weeks.",
+    "hashtags": [
+      "#cartier",
+      "#oceans8",
+      "#necklace",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://uk.finance.yahoo.com/news/150-million-bling-cartier-recreated-115417324.html",
+    "https://www.bustle.com/p/is-the-toussaint-necklace-from-oceans-8-real-the-prop-has-a-fascinating-history-9234075",
+    "https://www.hollywoodreporter.com/news/oceans-8-necklace-by-cartier-plays-starring-role-film-1114957",
+    "https://m.scmp.com/magazines/style/watches-jewellery/article/2147415/cartier-re-creates-dazzling-diamond-necklace-movie",
+    "https://www.marieclaire.com.au/life/toussaint-necklace-oceans-8/",
+    "https://theadventurine.com/culture/movies-tv/the-backstory-on-that-necklace-in-oceans-8"
+  ],
+  "images": [
+    {
+      "src": "501-cartier-s-movie-necklace-was-mostly-zirconia-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "George Barbier",
+      "page": "https://commons.wikimedia.org/wiki/File:%E2%80%98Lady_with_Panther%E2%80%99_by_George_Barbier_for_Cartier,_1914.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "501-cartier-s-movie-necklace-was-mostly-zirconia-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Sem (Georges Goursat, dit) (Périgueux, 22–11–1863 - Paris, 26–11–1934), dessinateur-lithographe",
+      "page": "https://commons.wikimedia.org/wiki/File:Album_White_Bottoms_Le_Prince_charmant_rue_de_la_Paix,_G.20660-4.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

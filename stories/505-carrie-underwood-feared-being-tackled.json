@@ -1,0 +1,165 @@
+{
+  "id": "505-carrie-underwood-feared-being-tackled",
+  "number": 505,
+  "title": "Carrie Underwood feared being tackled",
+  "style": "jewelbox",
+  "topic": "carrie underwood grammys 2013 diamond necklace johnathon arndt tackle steal worth more than me bodyguard lurking projection gown blown away 381 carats",
+  "music": "music-505.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Carrie Underwood feared being tackled.",
+    "gold": [
+      "feared",
+      "tackled."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Carrie Underwood feared being tackled.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At the 2013 Grammys, Carrie Underwood wore a diamond necklace by Arndt.",
+      "say": "At the twenty thirteen Grammys, Carrie Underwood wore a diamond necklace by Arndt.",
+      "scene": {
+        "kind": "real",
+        "src": "505-carrie-underwood-feared-being-tackled-0.jpg",
+        "fit": "card",
+        "label": "Carrie Underwood",
+        "credit": "Photo: dephisticate, CC BY 2.0"
+      }
+    },
+    {
+      "text": "She said it felt heavy on her soul.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Heavy on her soul",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "She feared someone would tackle her and steal it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Fear of a tackle"
+      }
+    },
+    {
+      "text": "She joked that it was worth more than she was.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Worth more than me",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Asked about a bodyguard, she said none came with it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "No bodyguard",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Then she added that they might be lurking.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Lurking guards",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Her gown had a skirt that worked as a projection screen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A light show",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "That night she won Best Country Solo Performance for Blown Away.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Blown Away",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Her necklace held 381 carats of white diamonds.",
+      "say": "Her necklace held three hundred eighty one carats of white diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "381",
+        "sub": "Carats",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Carrie Underwood feared being tackled. At the 2013 Grammys, she wore a diamond necklace by Johnathon Arndt. She said it felt heavy on her soul, and that she feared someone would tackle her and steal it. She joked that it was worth more than she was. Asked about a bodyguard, she said, actually it did not come with one, unless they were lurking. Her stage gown had a skirt that worked as a projection screen. That night she won Best Country Solo Performance for Blown Away. Her necklace held 381 carats of white diamonds. Photo: dephisticate, CC BY 2.0.",
+    "hashtags": [
+      "#carrieunderwood",
+      "#grammys",
+      "#diamondnecklace",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://tasteofcountry.com/carrie-underwood-grammys-necklace/",
+    "https://csmonitor.com/The-Culture/Music/2013/0211/Carrie-Underwood-dress-Digital-metamorphosis-steals-2013-Grammys",
+    "https://www.aceshowbiz.com/news/view/00057841.html",
+    "https://www.soundslikenashville.com/?p=54356",
+    "https://www.webpronews.com/carrie-underwood-dress-necklace-steal-grammys/",
+    "https://etonline.com/gallery/130402_The_Grammys_Most_Expensive_Jewelry",
+    "https://www.inquisitr.com/518189/carrie-underwood-wears-31-million-necklace-to-grammys/"
+  ],
+  "images": [
+    {
+      "src": "505-carrie-underwood-feared-being-tackled-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "dephisticate",
+      "page": "https://commons.wikimedia.org/wiki/File:Carrie_Underwood_in_2012.jpg",
+      "credit": "Photo: dephisticate, CC BY 2.0"
+    }
+  ]
+}

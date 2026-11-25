@@ -1,0 +1,192 @@
+{
+  "id": "502-downton-abbey-s-royal-tiara-was-pewter",
+  "number": 502,
+  "title": "Downton Abbey's royal tiara was pewter",
+  "style": "jewelbox",
+  "topic": "downton abbey film queen mary vladimir tiara pewter resin emeralds garrard cambridge emeralds 1874 1921 swarovski anna robbins 1,900 diamonds 1,100 stones",
+  "music": "music-502.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "emerald",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Downton Abbey's royal tiara was pewter.",
+    "gold": [
+      "tiara",
+      "pewter."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Downton Abbey's royal tiara was pewter.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 2019 Downton Abbey film, Queen Mary wears a copy.",
+      "say": "In the twenty nineteen Downton Abbey film, Queen Mary wears a copy.",
+      "scene": {
+        "kind": "real",
+        "src": "502-downton-abbey-s-royal-tiara-was-pewter-0.jpg",
+        "fit": "card",
+        "label": "Highclere Castle",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The original is the Vladimir Tiara, made in 1874.",
+      "say": "The original is the Vladimir Tiara, made in eighteen seventy four.",
+      "scene": {
+        "kind": "real",
+        "src": "502-downton-abbey-s-royal-tiara-was-pewter-1.jpg",
+        "fit": "card",
+        "label": "Grand Duchess Maria Pavlovna",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The real Queen Mary bought it in 1921.",
+      "say": "The real Queen Mary bought it in nineteen twenty one.",
+      "scene": {
+        "kind": "real",
+        "src": "502-downton-abbey-s-royal-tiara-was-pewter-2.jpg",
+        "fit": "card",
+        "label": "Queen Mary",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She had Garrard swap its pearl drops for 15 emeralds.",
+      "say": "She had Garrard swap its pearl drops for fifteen emeralds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Fifteen emeralds",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Her grandmother had won those Cambridge emeralds in a lottery.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A lottery win"
+      }
+    },
+    {
+      "text": "The film's copy is silver plated pewter set with crystals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Pewter and crystals",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Its emeralds are pigmented resin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Resin emeralds",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Real antique tiaras were also borrowed for the ball scene.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Borrowed tiaras",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The real tiara holds about 1,900 diamonds.",
+      "say": "The real tiara holds about nineteen hundred diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "1,900",
+        "sub": "Real diamonds",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The copy has about 1,100 stones.",
+      "say": "The copy has about eleven hundred stones.",
+      "scene": {
+        "kind": "title",
+        "text": "1,100",
+        "sub": "Copy stones",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Downton Abbey's royal tiara was pewter. In the 2019 Downton Abbey film, Queen Mary wears a copy of the Vladimir Tiara, made in 1874. The real Queen Mary bought it in 1921 and had Garrard swap its pearl drops for 15 emeralds. Her grandmother had won those Cambridge emeralds in a lottery. The film's copy is silver plated pewter set with crystals, and its emeralds are pigmented resin. The real tiara holds about 1,900 diamonds, and the copy has about 1,100 stones.",
+    "hashtags": [
+      "#downtonabbey",
+      "#tiara",
+      "#queenmary",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://news.yahoo.com/queen-elizabeths-favorite-tiara-made-134500608.html",
+    "https://www.hollywoodreporter.com/news/vintage-jewels-replicated-queen-elizabeth-tiara-dazzle-downton-abbey-1241183",
+    "https://www.avclub.com/how-did-downton-abbey-get-its-tiaras-just-right-1840533682",
+    "https://www.yahoo.com/entertainment/queen-elizabeths-tiara-makes-sneaky-200825106.html"
+  ],
+  "images": [
+    {
+      "src": "502-downton-abbey-s-royal-tiara-was-pewter-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Vintage Fan 5678",
+      "page": "https://commons.wikimedia.org/wiki/File:Downton_Abbey_AKA_Highclere_Castle_in_2016.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "502-downton-abbey-s-royal-tiara-was-pewter-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Grand_Duchess_Maria_Pavlovna_of_Russia.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "502-downton-abbey-s-royal-tiara-was-pewter-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Bain News Service, publisher",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Mary_LCCN2014712634.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "500-agatha-christie-s-gems-hid-in-a-trunk",
+  "number": 500,
+  "title": "Agatha Christie's gems hid in a trunk",
+  "style": "deco",
+  "topic": "agatha christie diamonds trunk greenway devon 2006 house sale 100 pounds locked strongbox lost key crowbar 2010 diamond brooch ring bonhams october 2014",
+  "music": "music-500.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "topaz",
+    "cut": "round",
+    "petals": 8,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Agatha Christie's gems hid in a trunk.",
+    "gold": [
+      "gems",
+      "trunk."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Agatha Christie's gems hid in a trunk.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2006, the contents of Agatha Christie's Devon home were sold.",
+      "say": "In two thousand six, the contents of Agatha Christie's Devon home were sold.",
+      "scene": {
+        "kind": "real",
+        "src": "500-agatha-christie-s-gems-hid-in-a-trunk-0.jpg",
+        "fit": "card",
+        "label": "Agatha Christie",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A devoted fan paid 100 pounds for an old trunk.",
+      "say": "A devoted fan paid one hundred pounds for an old trunk.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A 100 pound trunk"
+      }
+    },
+    {
+      "text": "It had belonged to Agatha's mother.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Her mother's trunk",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Inside it was a locked strongbox, and the key was lost.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A lost key",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The box stayed shut for about four years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Four years",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Around 2010, a crowbar finally opened it.",
+      "say": "Around twenty ten, a crowbar finally opened it.",
+      "scene": {
+        "kind": "title",
+        "text": "2010",
+        "sub": "A crowbar",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Inside were a diamond brooch and a three stone diamond ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A brooch and a ring",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Her autobiography names both as family heirlooms.",
+      "scene": {
+        "kind": "real",
+        "src": "500-agatha-christie-s-gems-hid-in-a-trunk-1.jpg",
+        "fit": "card",
+        "label": "Agatha Christie in 1967",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Both pieces sold for several times their estimates.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Beating estimates"
+      }
+    },
+    {
+      "text": "Bonhams sold both in London on October 8, 2014.",
+      "say": "Bonhams sold both in London on October eighth, twenty fourteen.",
+      "scene": {
+        "kind": "title",
+        "text": "2014",
+        "sub": "Bonhams",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Agatha Christie's gems hid in a trunk. In 2006, the contents of her Devon home were sold, and a devoted fan paid 100 pounds for an old trunk that had belonged to Agatha's mother. Inside was a locked strongbox, and the key was lost. The box stayed shut for about four years, until a crowbar opened it around 2010. Inside were a diamond brooch and a three stone diamond ring, both named as heirlooms in her autobiography. Bonhams sold them in London on October 8, 2014.",
+    "hashtags": [
+      "#agathachristie",
+      "#diamonds",
+      "#bonhams",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.irishtimes.com/life-and-style/homes-and-property/fine-art-antiques/agatha-christie-and-the-mystery-diamonds-1.1898074",
+    "https://news.artnet.com/art-world/agatha-christies-long-lost-diamonds-turn-up-at-auction-124709?amp=1",
+    "https://www.npr.org/transcripts/355340491",
+    "https://www.finebooksmagazine.com/news/agatha-christies-jewels-found-old-suitcase-now-offered-bonhams",
+    "https://www.jewellermagazine.com/Article/4646/Mystery-box-yields-valuable-Agatha-Christie-jewellery"
+  ],
+  "images": [
+    {
+      "src": "500-agatha-christie-s-gems-hid-in-a-trunk-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Agatha_Christie_in_a_play_at_Cocokington_Court.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "500-agatha-christie-s-gems-hid-in-a-trunk-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Edi Šelhaus",
+      "page": "https://commons.wikimedia.org/wiki/File:Agatha_Christie._1967_Ljubljana_1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

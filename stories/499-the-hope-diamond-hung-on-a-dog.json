@@ -1,0 +1,170 @@
+{
+  "id": "499-the-hope-diamond-hung-on-a-dog",
+  "number": 499,
+  "title": "The Hope Diamond hung on a dog",
+  "style": "jewelbox",
+  "topic": "hope diamond evalyn walsh mclean dog collar parties hid it guests find it secret service pierre cartier 1911 harry winston 1949 smithsonian 1958 45.52 carats",
+  "music": "music-499.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "blue",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "The Hope Diamond hung on a dog.",
+    "gold": [
+      "hung",
+      "dog."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Hope Diamond hung on a dog.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1911, the McLeans bought the Hope Diamond from Pierre Cartier.",
+      "say": "In nineteen eleven, the McLeans bought the Hope Diamond from Pierre Cartier.",
+      "scene": {
+        "kind": "real",
+        "src": "499-the-hope-diamond-hung-on-a-dog-0.jpg",
+        "fit": "card",
+        "label": "The Hope Diamond",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She wore it everywhere around Washington, even for gardening.",
+      "scene": {
+        "kind": "real",
+        "src": "499-the-hope-diamond-hung-on-a-dog-1.jpg",
+        "fit": "card",
+        "label": "Evalyn McLean",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "At parties, she hid it and challenged guests to find it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A hiding game"
+      }
+    },
+    {
+      "text": "In the 1920s, it also hung from her dog's collar.",
+      "say": "In the nineteen twenties, it also hung from her dog's collar.",
+      "scene": {
+        "kind": "real",
+        "src": "499-the-hope-diamond-hung-on-a-dog-2.jpg",
+        "fit": "card",
+        "label": "The McLeans, with dogs",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She hired a former Secret Service man to guard it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A guard"
+      }
+    },
+    {
+      "text": "Harry Winston bought it from her estate in 1949.",
+      "say": "Harry Winston bought it from her estate in nineteen forty nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1949",
+        "sub": "Harry Winston",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 1958, he gave it to the Smithsonian, where it is kept.",
+      "say": "In nineteen fifty eight, he gave it to the Smithsonian, where it is kept.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "The Smithsonian",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The Hope Diamond weighs 45.52 carats.",
+      "say": "The Hope Diamond weighs forty five point five two carats.",
+      "scene": {
+        "kind": "title",
+        "text": "45.52",
+        "sub": "Carats",
+        "piece": "earrings",
+        "stone": "blue",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Hope Diamond hung on a dog. In 1911, Evalyn McLean and her husband bought the Hope Diamond from Pierre Cartier. She wore it everywhere around Washington, even for gardening. At parties, she hid it and challenged her guests to find it. In the 1920s, it also hung from her dog's collar. She hired a former Secret Service man to guard it. Harry Winston bought it from her estate in 1949, and in 1958 he gave it to the Smithsonian, where it is kept. The Hope Diamond weighs 45.52 carats.",
+    "hashtags": [
+      "#hopediamond",
+      "#cartier",
+      "#smithsonian",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hope_Diamond",
+    "https://en.wikipedia.org/wiki/Evalyn_Walsh_McLean",
+    "https://www.smithsonianmag.com/smithsonian-institution/how-a-smithsonian-curator-discovered-the-hope-diamonds-many-secrets-180982962/",
+    "https://www.airspacemag.com/smithsonian-institution/dont-you-wish-you-could-wear-the-hope-diamond-173063708/",
+    "https://www.thecourtjeweller.com/2021/10/evalyn-walsh-mclean-and-the-curse-of-the-hope-diamond.html",
+    "https://www.todayifoundout.com/index.php/2022/06/the-curse-of-the-hope-diamond/",
+    "https://www.washingtontimes.com/news/2006/jul/22/20060722-112054-9263r/",
+    "https://www.si.edu/spotlight/hope-diamond"
+  ],
+  "images": [
+    {
+      "src": "499-the-hope-diamond-hung-on-a-dog-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Hope_Diamond_-_SIA.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "499-the-hope-diamond-hung-on-a-dog-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Harris & Ewing",
+      "page": "https://commons.wikimedia.org/wiki/File:Evalyn_Walsh_McLean_cph.3b18835.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "499-the-hope-diamond-hung-on-a-dog-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Harris & Ewing",
+      "page": "https://commons.wikimedia.org/wiki/File:Edward_Beale_McLean_and_Evalyn_Walsh.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
