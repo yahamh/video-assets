@@ -1,134 +1,77 @@
 {
  "queries": [
   {
-   "key": "i-whoopi",
+   "key": "i-egg",
    "commons": [
-    "Whoopi Goldberg",
-    "Harry Winston",
-    "Harry Winston jewelry",
-    "Elizabeth I of England portrait",
-    "Dorothy Chandler Pavilion",
-    "Diamond ring",
-    "Academy Awards ceremony"
+    "Rothschild egg Faberg\u00e9",
+    "Faberg\u00e9 clock egg",
+    "Faberg\u00e9 egg cockerel",
+    "Rothschild (Faberg\u00e9 egg)",
+    "Faberg\u00e9 Hermitage egg"
    ],
-   "max": 7
+   "max": 8
   },
   {
-   "key": "i-hope",
+   "key": "i-kettle2",
    "commons": [
-    "Hope Diamond",
-    "Evalyn Walsh McLean",
-    "Great Dane",
-    "Pierre Cartier",
-    "Hope Diamond necklace",
-    "Smithsonian Natural History Museum",
-    "Washington D.C. 1920s"
+    "Salvation Army Christmas kettle",
+    "Red Kettle Campaign",
+    "Salvation Army kettle",
+    "Annapolis Maryland City Dock"
    ],
-   "max": 7
+   "max": 8
   },
   {
-   "key": "i-christie",
+   "key": "i-tiff",
    "commons": [
-    "Agatha Christie",
-    "Greenway Estate",
-    "Diamond brooch",
-    "Three stone diamond ring",
-    "Steamer trunk",
-    "Bonhams auction",
-    "Crowbar"
-   ],
-   "max": 7
-  },
-  {
-   "key": "i-ocean",
-   "commons": [
-    "Cartier Rue de la Paix",
-    "Cartier Fifth Avenue",
-    "Jeanne Toussaint",
-    "Metropolitan Museum of Art steps",
-    "Cubic zirconia",
-    "Cartier necklace",
-    "Place Vend\u00f4me"
-   ],
-   "max": 7
-  },
-  {
-   "key": "i-downton",
-   "commons": [
-    "Highclere Castle",
-    "Vladimir tiara",
-    "Queen Mary tiara",
-    "Mary of Teck",
-    "Cambridge emeralds",
-    "Emerald tiara",
-    "Garrard"
-   ],
-   "max": 7
-  },
-  {
-   "key": "i-faberge",
-   "commons": [
-    "Rothschild egg",
-    "Faberg\u00e9 egg",
-    "Hermitage Museum",
-    "Michael Perchin",
-    "B\u00e9atrice Ephrussi de Rothschild",
-    "Villa Ephrussi de Rothschild",
-    "Automaton bird"
-   ],
-   "max": 7
-  },
-  {
-   "key": "i-peggy",
-   "commons": [
-    "Peggy Guggenheim",
-    "Palazzo Venier dei Leoni",
-    "Alexander Calder",
-    "Yves Tanguy",
-    "Art of This Century",
-    "Calder jewelry",
-    "Peggy Guggenheim Collection"
-   ],
-   "max": 7
-  },
-  {
-   "key": "i-carrie",
-   "commons": [
-    "Carrie Underwood",
-    "Grammy Awards",
-    "Staples Center",
-    "Diamond necklace",
-    "Gramophone trophy",
-    "Los Angeles red carpet",
-    "Brilliant cut diamond"
-   ],
-   "max": 7
-  },
-  {
-   "key": "i-kettle",
-   "commons": [
-    "Salvation Army red kettle",
-    "Tiffany & Co.",
-    "Annapolis Maryland",
-    "Salvation Army bell ringer",
+    "Tiffany & Co. blue box",
     "Tiffany bracelet",
-    "Christmas kettle",
-    "Gold bracelet"
+    "Tiffany & Co. jewelry",
+    "Tiffany & Co. Fifth Avenue"
    ],
-   "max": 7
+   "max": 8
   },
   {
-   "key": "i-mikimoto",
+   "key": "i-eliz",
    "commons": [
-    "Mikimoto Liberty Bell",
-    "Mikimoto Pearl Island",
-    "Liberty Bell",
-    "Kokichi Mikimoto",
-    "1939 New York World's Fair",
-    "Trylon and Perisphere",
-    "Pearl necklace"
+    "Elizabeth I of England portrait",
+    "Elizabeth I Armada Portrait",
+    "Elizabethan dress"
    ],
-   "max": 7
+   "max": 6
+  },
+  {
+   "key": "i-winston",
+   "commons": [
+    "Harry Winston",
+    "Harry Winston Inc",
+    "Harry Winston jewelry"
+   ],
+   "max": 6
+  },
+  {
+   "key": "i-frank",
+   "commons": [
+    "Louis Comfort Tiffany",
+    "Favrile glass",
+    "Tiffany Studios jewelry",
+    "Meta Overbeck",
+    "Scarab beetle jewelry",
+    "Guillermo del Toro",
+    "Frankenstein 1818 title page",
+    "Mary Shelley"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-cartier",
+   "commons": [
+    "Cartier necklace",
+    "Cartier Paris",
+    "Jeanne Toussaint",
+    "Cartier 1931 necklace"
+   ],
+   "max": 8
   }
  ]
 }
