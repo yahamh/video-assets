@@ -1,0 +1,159 @@
+{
+  "id": "517-the-pink-panther-began-as-a-flaw",
+  "number": 517,
+  "title": "The Pink Panther began as a flaw",
+  "style": "jewelbox",
+  "topic": "pink panther 1963 film pink diamond princess dala claudia cardinale flaw leaping panther animated opening titles friz freleng henry mancini depatie freleng united artists the pink phink 1964 academy award pink panther show nbc september 6 1969",
+  "music": "music-517.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "morganite",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Pink Panther began as a flaw.",
+    "gold": [
+      "Panther",
+      "flaw."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Pink Panther began as a flaw.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 1963 film, a princess owns a famous pink diamond.",
+      "say": "In the nineteen sixty three film, a princess owns a famous pink diamond.",
+      "scene": {
+        "kind": "real",
+        "src": "517-the-pink-panther-began-as-a-flaw-0.jpg",
+        "fit": "card",
+        "label": "Claudia Cardinale, 1963",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A tiny flaw inside it looks like a leaping panther.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A leaping panther",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "That flaw gives the stone its nickname, the Pink Panther.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A nickname"
+      }
+    },
+    {
+      "text": "The film's opening credits turn the diamond into a cartoon panther.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A cartoon panther",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Friz Freleng directed the titles, and Henry Mancini scored them.",
+      "scene": {
+        "kind": "real",
+        "src": "517-the-pink-panther-began-as-a-flaw-1.jpg",
+        "fit": "card",
+        "label": "Henry Mancini",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "United Artists liked them so much it ordered cartoon shorts.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A studio's order",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The first short, The Pink Phink, won an Oscar in 1964.",
+      "say": "The first short, The Pink Phink, won an Oscar in nineteen sixty four.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "An Oscar winner",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The Pink Panther Show reached NBC on September 6, 1969.",
+      "say": "The Pink Panther Show reached NBC on September sixth, nineteen sixty nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1969",
+        "sub": "Saturday mornings",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Pink Panther began as a flaw. In the 1963 film, a princess owns a famous pink diamond, and a tiny flaw inside it looks like a leaping panther. That flaw gives the stone its nickname. The film's animated opening credits turn the diamond into a pink cartoon panther. Friz Freleng directed the titles, and Henry Mancini scored them. United Artists liked them so much it ordered cartoon shorts. The first short, The Pink Phink, won an Oscar in 1964. The Pink Panther Show reached NBC on September 6, 1969.",
+    "hashtags": [
+      "#pinkpanther",
+      "#pinkdiamond",
+      "#henrymancini",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Pink_Panther",
+    "https://www.artofthetitle.com/title/the-pink-panther",
+    "https://metv.com/stories/it-took-more-than-100-different-character-designs-to-perfect-the-pink-panther",
+    "https://filmsite.org/pinkpanther.html",
+    "https://cartoonresearch.com/?p=87030"
+  ],
+  "images": [
+    {
+      "src": "517-the-pink-panther-began-as-a-flaw-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown (Mondadori Publishers)",
+      "page": "https://commons.wikimedia.org/wiki/File:Claudia_Cardinale_1963b.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "517-the-pink-panther-began-as-a-flaw-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "RCA Records",
+      "page": "https://commons.wikimedia.org/wiki/File:Henry_Mancini_(1974).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
