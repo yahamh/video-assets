@@ -1,0 +1,173 @@
+{
+  "id": "531-hermes-bracelet-began-as-a-dog-collar",
+  "number": 531,
+  "title": "Hermes' bracelet began as a dog collar",
+  "style": "gouache",
+  "topic": "hermes collier de chien dog collar bulldog 1923 studded leather o ring leash belt 1927 bracelet 1940s pyramid studs saddles harnesses",
+  "music": "music-531.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "topaz",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Hermes' bracelet began as a dog collar.",
+    "gold": [
+      "bracelet",
+      "collar."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hermes' bracelet began as a dog collar.",
+      "say": "Air mez' bracelet began as a dog collar.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Hermes started out making harnesses and saddles for horses.",
+      "say": "Air mez started out making harnesses and saddles for horses.",
+      "scene": {
+        "kind": "real",
+        "src": "531-hermes-bracelet-began-as-a-dog-collar-0.jpg",
+        "fit": "card",
+        "label": "The Hermes shop in Paris",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1923, it began making dog collars too.",
+      "say": "In nineteen twenty three, it began making dog collars too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Dog collars"
+      }
+    },
+    {
+      "text": "The first was made for a client's bulldog.",
+      "scene": {
+        "kind": "real",
+        "src": "531-hermes-bracelet-began-as-a-dog-collar-1.jpg",
+        "fit": "card",
+        "label": "An English bulldog",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was studded leather, with a center ring for the leash.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A ring for the leash",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The design was called the Collier de Chien, French for dog collar.",
+      "say": "The design was called the Kol yay duh shee an, French for dog collar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Collier de Chien",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Women then asked for the collar as a belt.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Asked for as a belt",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Hermes launched that belt in 1927.",
+      "say": "Air mez launched that belt in nineteen twenty seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1927",
+        "sub": "The first belt",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In the 1940s, the belt became a bracelet.",
+      "say": "In the nineteen forties, the belt became a bracelet.",
+      "scene": {
+        "kind": "title",
+        "text": "1940s",
+        "sub": "A bracelet at last",
+        "piece": "stone",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The center ring looks fixed, but it spins freely.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A ring that spins",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Hermes' bracelet began as a dog collar. Hermes started out making harnesses and saddles for horses. In 1923, it began making dog collars too, and the first was made for a client's bulldog. It was studded leather with a center ring for the leash, and the design was called the Collier de Chien, French for dog collar. Women asked for it as a belt, and Hermes launched that belt in 1927. In the 1940s, it became a bracelet. The center ring looks fixed, but it spins freely.",
+    "hashtags": [
+      "#hermes",
+      "#collierdechien",
+      "#luxuryjewelry",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://sothebys.com/en/articles/top-7-hermes-bracelets-you-should-be-collecting-now",
+    "https://artandliving.com/how-hermes-turned-a-dog-collar-into-a-bag/",
+    "https://www.truefacet.com/guide/history-hermes-collier-de-chien-cuff/",
+    "https://www.finallyoffline.com/article/hermes-collier-de-chien-the-1927-dog-collar-now-worth-1-600-mrmsynnz",
+    "https://jebwa.com/blogs/finding-luxury/the-most-iconic-of-hermes"
+  ],
+  "images": [
+    {
+      "src": "531-hermes-bracelet-began-as-a-dog-collar-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Gryffindor",
+      "page": "https://commons.wikimedia.org/wiki/File:Rue_du_Faubourg-Saint-Honor%C3%A9,_Paris_May_2006.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "531-hermes-bracelet-began-as-a-dog-collar-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "https://pixabay.com/pt/users/kaz-19203/",
+      "page": "https://commons.wikimedia.org/wiki/File:English_Bulldog_-Dog-220489-1280.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

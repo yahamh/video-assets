@@ -1,0 +1,164 @@
+{
+  "id": "528-schiaparelli-s-fur-bracelet-inspired-a-teacup",
+  "number": 528,
+  "title": "Schiaparelli's fur bracelet inspired a teacup",
+  "style": "gouache",
+  "topic": "schiaparelli fur bracelet meret oppenheim 1936 picasso dora maar paris cafe cup and saucer fur breton luncheon in fur manet charles ratton moma first work by a woman",
+  "music": "music-528.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "ruby",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Schiaparelli's fur bracelet inspired a teacup.",
+    "gold": [
+      "fur",
+      "teacup."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Schiaparelli's fur bracelet inspired a teacup.",
+      "say": "Skap a rel lee's fur bracelet inspired a teacup.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1936, artist Meret Oppenheim wore a bracelet covered in fur.",
+      "say": "In nineteen thirty six, artist Meret Oppenheim wore a bracelet covered in fur.",
+      "scene": {
+        "kind": "title",
+        "text": "1936",
+        "sub": "Meret Oppenheim",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "She had designed it for Schiaparelli's fashion house.",
+      "say": "She had designed it for Skap a rel lee's fashion house.",
+      "scene": {
+        "kind": "real",
+        "src": "528-schiaparelli-s-fur-bracelet-inspired-a-teacup-0.jpg",
+        "fit": "card",
+        "label": "Elsa Schiaparelli, 1933",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "At a Paris cafe, she sat with Picasso and Dora Maar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A Paris cafe",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Picasso noticed the bracelet and joked that anything could wear fur.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Anything in fur",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Oppenheim replied, even this cup and saucer.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A cup and saucer"
+      }
+    },
+    {
+      "text": "Then she covered a store bought cup and saucer in fur.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A cup in fur",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Surrealist leader Andre Breton named it Luncheon in Fur.",
+      "say": "Surrealist leader Andre Breton named it Luncheon in Fur.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Luncheon in Fur"
+      }
+    },
+    {
+      "text": "At a New York show, visitors called it the quintessential Surrealist object.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A Surrealist object",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It was the first work by a woman that MoMA acquired.",
+      "say": "It was the first work by a woman that Mo MA acquired.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Kept in MoMA",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Schiaparelli's fur bracelet inspired a teacup. In 1936, artist Meret Oppenheim wore a bracelet covered in fur that she had designed for Schiaparelli's fashion house. At a Paris cafe, Picasso noticed it and joked that anything could wear fur. Oppenheim replied, even this cup and saucer, and covered a store bought set in fur. Surrealist leader Andre Breton named it Luncheon in Fur, nodding to Manet. At a New York show, visitors called it the quintessential Surrealist object. It was the first work by a woman that the Museum of Modern Art acquired.",
+    "hashtags": [
+      "#schiaparelli",
+      "#meret",
+      "#surrealism",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.moma.org/learn/moma_learning/meret-oppenheim-object-paris-1936/",
+    "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_en_fourrure",
+    "https://news.artnet.com/art-world/meret-oppenheim-fur-tea-cup-object-1921540",
+    "https://www.britannica.com/print/article/430215",
+    "https://smarthistory.org/?p=1864",
+    "https://schiaparelli.com/en/blogs/schiaparelli-et-les-artistes/meret-oppenheim-bracelet-schiaparelli-en-metal-et-fourrure"
+  ],
+  "images": [
+    {
+      "src": "528-schiaparelli-s-fur-bracelet-inspired-a-teacup-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jean Dunand",
+      "page": "https://commons.wikimedia.org/wiki/File:%22Portrait_d'Elsa_Schiaparelli%22_de_J._Dunand_(mus%C3%A9e_des_arts_d%C3%A9coratifs,_Paris).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

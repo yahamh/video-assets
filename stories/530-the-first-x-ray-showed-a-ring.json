@@ -1,0 +1,182 @@
+{
+  "id": "530-the-first-x-ray-showed-a-ring",
+  "number": 530,
+  "title": "The first X ray showed a ring",
+  "style": "deco",
+  "topic": "roentgen first x ray 22 december 1895 wife anna bertha hand wedding ring wurzburg photographic plate physicists across europe 1901 first nobel prize in physics",
+  "music": "music-530.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The first X ray showed a ring.",
+    "gold": [
+      "first",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The first X ray showed a ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In November 1895, Wilhelm Roentgen discovered a new kind of ray.",
+      "say": "In November eighteen ninety five, Wilhelm Roentgen discovered a new kind of ray.",
+      "scene": {
+        "kind": "real",
+        "src": "530-the-first-x-ray-showed-a-ring-0.jpg",
+        "fit": "card",
+        "label": "Wilhelm Roentgen",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He called them X rays, with X standing for the unknown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "X for unknown",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Then he laid his wife's hand over a photographic plate.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A photographic plate",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "That was on December 22, 1895.",
+      "say": "That was on December twenty second, eighteen ninety five.",
+      "scene": {
+        "kind": "title",
+        "text": "Dec 22, 1895",
+        "sub": "The first picture",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The picture showed the bones of her hand.",
+      "scene": {
+        "kind": "real",
+        "src": "530-the-first-x-ray-showed-a-ring-1.jpg",
+        "fit": "card",
+        "label": "The first X ray, 1895",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Around one finger was a dark band, her wedding ring.",
+      "scene": {
+        "kind": "real",
+        "src": "530-the-first-x-ray-showed-a-ring-2.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.33,
+          "y": 0.4,
+          "k": 1.9
+        },
+        "label": "Her wedding ring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He published his findings before the year ended.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A paper on new rays"
+      }
+    },
+    {
+      "text": "He mailed copies of the picture to physicists across Europe.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Copies across Europe",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1901, Roentgen won the very first Nobel Prize in Physics.",
+      "say": "In nineteen oh one, Roentgen won the very first Nobel Prize in Physics.",
+      "scene": {
+        "kind": "title",
+        "text": "1901",
+        "sub": "First Nobel Prize in Physics",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The first X ray showed a ring. In November 1895, Wilhelm Roentgen discovered a new kind of ray and called it X for the unknown. In December he laid his wife Anna Bertha's hand over a photographic plate. The picture showed the bones of her hand, with a dark band around one finger, her wedding ring. He mailed copies of the picture to physicists across Europe. In 1901, Roentgen won the very first Nobel Prize in Physics.",
+    "hashtags": [
+      "#xray",
+      "#weddingring",
+      "#sciencehistory",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.pbs.org/newshour/health/i-have-seen-my-death-how-the-world-discovered-the-x-ray",
+    "https://www.nobelprize.org/prizes/physics/1901/rontgen/biographical/",
+    "https://www.medmuseum.siemens-healthineers.com/en/stories-from-the-museum/roentgen-gone-mad",
+    "https://www.the-scientist.com/foundations/the-first-x-ray-1895-42279",
+    "https://www.atlasobscura.com/articles/9619",
+    "https://artsandculture.google.com/asset/x-ray-of-anna-bertha-s-hand-w-c-r%C3%B6ntgen/BgFc-TIm0m-fNw"
+  ],
+  "images": [
+    {
+      "src": "530-the-first-x-ray-showed-a-ring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Cleaned up version of image hosted on Google Image Search. This image comes from the Google -hosted LIFE Photo Archive where it is available under the filename ",
+      "page": "https://commons.wikimedia.org/wiki/File:Roentgen2.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "530-the-first-x-ray-showed-a-ring-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Wilhelm Röntgen",
+      "page": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig's_hand_-_18951222.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "530-the-first-x-ray-showed-a-ring-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Wilhelm Röntgen",
+      "page": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig's_hand_-_18951222.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "536-rubik-s-cube-once-wore-185-carats",
+  "number": 536,
+  "title": "Rubik's Cube once wore 185 carats",
+  "style": "deco",
+  "topic": "rubik's cube masterpiece 1995 diamond cutters international houston fred cuellar 15th anniversary 18 karat gold gems replace stickers 185 carats works erno rubik 1974 hungary beyond rubik's cube liberty science center",
+  "music": "music-536.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "sapphire",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Rubik's Cube once wore 185 carats.",
+    "gold": [
+      "wore",
+      "carats."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rubik's Cube once wore 185 carats.",
+      "say": "Rubik's Cube once wore one hundred eighty five carats.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1995, Diamond Cutters International of Houston made one.",
+      "say": "In nineteen ninety five, Diamond Cutters International of Houston made one.",
+      "scene": {
+        "kind": "title",
+        "text": "1995",
+        "sub": "Houston",
+        "piece": "earrings",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It marked the cube's 15th anniversary.",
+      "say": "It marked the cube's fifteenth anniversary.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Fifteen years old"
+      }
+    },
+    {
+      "text": "The cube's body is made of 18 karat gold.",
+      "say": "The cube's body is made of eighteen karat gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Eighteen karat gold",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Real gems replace the colored stickers on every face.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Gems for stickers",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The gems total 185 carats.",
+      "say": "The gems total one hundred eighty five carats.",
+      "scene": {
+        "kind": "title",
+        "text": "185",
+        "sub": "Carats",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It still works, and turns like any 3 by 3 cube.",
+      "say": "It still works, and turns like any three by three cube.",
+      "scene": {
+        "kind": "real",
+        "src": "536-rubik-s-cube-once-wore-185-carats-0.jpg",
+        "fit": "card",
+        "label": "A Rubik's Cube",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Erno Rubik invented the cube in Hungary in 1974.",
+      "say": "Erno Rubik invented the cube in Hungary in nineteen seventy four.",
+      "scene": {
+        "kind": "real",
+        "src": "536-rubik-s-cube-once-wore-185-carats-1.jpg",
+        "fit": "card",
+        "label": "Erno Rubik, 2014",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It traveled in a Liberty Science Center exhibition.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A traveling show",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "That show was called Beyond Rubik's Cube.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Beyond Rubik's Cube",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Rubik's Cube once wore 185 carats. In 1995, Diamond Cutters International of Houston made a jeweled Rubik's Cube for the cube's 15th anniversary. Its body is 18 karat gold, and real gems replace the colored stickers on every face. The gems total 185 carats, and the faces still turn like any 3 by 3 cube. Erno Rubik invented the cube in Hungary in 1974. It traveled in a Liberty Science Center exhibition called Beyond Rubik's Cube.",
+    "hashtags": [
+      "#rubikscube",
+      "#gemstones",
+      "#goldjewelry",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://lsc.org/news-and-social/news/beyond-rubiks-cube-day-29-masterpiece-cube",
+    "https://content.time.com/time/specials/packages/article/0,28804,1947621_1947626_1947606,00.html",
+    "https://www.mentalfloss.com/fun/15-twisted-facts-about-rubiks-cube",
+    "https://www.luxuo.com/?p=4871",
+    "https://wowcube.com/blog/the-world-s-most-expensive-rubik-s-cube",
+    "https://www.diamondcuttersintl.com/fred-cuellar/about-fred"
+  ],
+  "images": [
+    {
+      "src": "536-rubik-s-cube-once-wore-185-carats-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Darakshanehaluddin",
+      "page": "https://commons.wikimedia.org/wiki/File:Rubik's_cube_image.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "536-rubik-s-cube-once-wore-185-carats-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Babak Mansouri",
+      "page": "https://commons.wikimedia.org/wiki/File:Erno_Rubik_Genius_Gala_2014.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

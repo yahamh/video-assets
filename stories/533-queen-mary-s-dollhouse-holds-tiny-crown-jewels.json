@@ -1,0 +1,170 @@
+{
+  "id": "533-queen-mary-s-dollhouse-holds-tiny-crown-jewels",
+  "number": 533,
+  "title": "Queen Mary's dollhouse holds tiny Crown Jewels",
+  "style": "deco",
+  "topic": "queen mary's dolls house windsor castle lutyens 1921 1924 one inch to the foot miniature crown jewels real gems seed pearls sceptre 8 cm cartier clocks faberge mouse shaw 1925",
+  "music": "music-533.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "ruby",
+    "cut": "round",
+    "petals": 8,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Queen Mary's dollhouse holds tiny Crown Jewels.",
+    "gold": [
+      "dollhouse",
+      "tiny"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Queen Mary's dollhouse holds tiny Crown Jewels.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Architect Edwin Lutyens designed it as a gift for Queen Mary.",
+      "scene": {
+        "kind": "real",
+        "src": "533-queen-mary-s-dollhouse-holds-tiny-crown-jewels-0.jpg",
+        "fit": "card",
+        "label": "Queen Mary's Dolls' House",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Everything in it is built at one inch to the foot.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "One inch to the foot",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Its strong room holds a full set of miniature Crown Jewels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Miniature Crown Jewels"
+      }
+    },
+    {
+      "text": "The tiny crowns are set with real gems and seed pearls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Real gems",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The miniature sceptre is only 8 centimeters long.",
+      "say": "The miniature sceptre is only eight centimeters long.",
+      "scene": {
+        "kind": "title",
+        "text": "8 cm",
+        "sub": "The sceptre",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Cartier made seven working clocks for the house.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Seven working clocks"
+      }
+    },
+    {
+      "text": "A tiny Faberge mouse was added to the house.",
+      "say": "A tiny Fab er zhay mouse was added to the house.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A Faberge mouse",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Author George Bernard Shaw declined to write a tiny book for it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A refused book",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It has been kept at Windsor Castle since 1925.",
+      "say": "It has been kept at Windsor Castle since nineteen twenty five.",
+      "scene": {
+        "kind": "real",
+        "src": "533-queen-mary-s-dollhouse-holds-tiny-crown-jewels-1.jpg",
+        "fit": "card",
+        "label": "The Dolls' House at Windsor",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Queen Mary's dollhouse holds tiny Crown Jewels. Architect Edwin Lutyens designed it as a gift for Queen Mary, with everything built at one inch to the foot. Its strong room holds a full set of miniature Crown Jewels, with tiny crowns set with real gems and seed pearls. The miniature sceptre is only 8 centimeters long. Cartier made seven working clocks for the house, and a tiny Faberge mouse was added. George Bernard Shaw turned down the request to write a tiny book for it. It has been kept at Windsor Castle since 1925.",
+    "hashtags": [
+      "#queenmary",
+      "#crownjewels",
+      "#dollshouse",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Queen_Mary%27s_Dolls%27_House",
+    "https://www.itv.com/news/meridian/2024-01-18/tiny-treasures-from-queen-marys-dolls-house-go-on-show-at-windsor-castle",
+    "https://thediamondcollective.world/historic-diamonds/queen-marys-dolls-house/",
+    "https://rct.uk/collection/230803/sceptre",
+    "https://col.rct.uk/collection/231999/queen-marys-dolls-house",
+    "https://rct.uk/collection/stories/queen-marys-dolls-house"
+  ],
+  "images": [
+    {
+      "src": "533-queen-mary-s-dollhouse-holds-tiny-crown-jewels-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "The White House",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Mary's_Dolls'_House,_September_2025.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "533-queen-mary-s-dollhouse-holds-tiny-crown-jewels-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Maison_de_poup%C3%A9e_de_la_reine_Mary_(Windsor).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

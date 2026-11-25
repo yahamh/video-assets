@@ -1,0 +1,167 @@
+{
+  "id": "532-tiffany-s-pikachu-came-in-a-poke-ball",
+  "number": 532,
+  "title": "Tiffany's Pikachu came in a Poke Ball",
+  "style": "jewelbox",
+  "topic": "tiffany pokemon daniel arsham november 2023 nine pieces pikachu pendant 18 karat yellow gold diamond accents tiffany blue poke ball future relics sign up draw 29,000",
+  "music": "music-532.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Tiffany's Pikachu came in a Poke Ball.",
+    "gold": [
+      "Pikachu",
+      "Ball."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany's Pikachu came in a Poke Ball.",
+      "say": "Tiffany's Pee ka chu came in a Poke Ball.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In November 2023, Tiffany teamed up with artist Daniel Arsham.",
+      "say": "In November twenty twenty three, Tiffany teamed up with artist Daniel Arsham.",
+      "scene": {
+        "kind": "real",
+        "src": "532-tiffany-s-pikachu-came-in-a-poke-ball-0.jpg",
+        "fit": "card",
+        "label": "A Daniel Arsham sculpture",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Together they made a Pokemon collection of nine pieces.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Nine pieces",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Six Pokemon appear, including Pikachu and Jigglypuff.",
+      "say": "Six Pokemon appear, including Pee ka chu and Jiggly puff.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Six Pokemon",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Most pendants are oxidized sterling silver with diamond accents.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Silver pendants",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The Pikachu pendant is 18 karat yellow gold.",
+      "say": "The Pee ka chu pendant is eighteen karat yellow gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Yellow gold Pikachu",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It came in a Tiffany blue Poke Ball.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A blue Poke Ball",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Arsham likes to treat everyday objects as finds from the future.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Relics of the future"
+      }
+    },
+    {
+      "text": "Buyers had to sign up online and were picked in a draw.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Picked in a draw",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The gold Pikachu pendant cost 29,000 dollars in 2023.",
+      "say": "The gold Pee ka chu pendant cost twenty nine thousand dollars in twenty twenty three.",
+      "scene": {
+        "kind": "title",
+        "text": "29,000",
+        "sub": "Dollars",
+        "piece": "brooch",
+        "stone": "pink",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tiffany's Pikachu came in a Poke Ball. In November 2023, Tiffany teamed up with artist Daniel Arsham on a Pokemon collection of nine pieces. Six Pokemon appear in it, including Pikachu and Jigglypuff. Most pendants are oxidized sterling silver with diamond accents, and the Pikachu pendant is 18 karat yellow gold in a Tiffany blue Poke Ball. Buyers had to sign up online and were picked in a draw. The gold Pikachu pendant cost 29,000 dollars in 2023.",
+    "hashtags": [
+      "#tiffany",
+      "#pokemon",
+      "#danielarsham",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://nationaljeweler.com/articles/12454-tiffany-co-teams-up-with-pokemon",
+    "https://nerdist.com/article/pokemon-tiffany-jewelry-collection-offers-expensive-pikachu-pendant-other-high-end-creations/",
+    "https://www.si.com/esports/pokemon/tiffany-jewelry-collab",
+    "https://creativebloq.com/news/tiffany-pokemon-jewellery-collection",
+    "https://www.vgchartz.com/article/459008/tiffany-amp-co-to-release-pokemon-themed-jewelry/",
+    "https://80.lv/articles/tiffany-co-to-drop-pok-mon-themed-jewellery/"
+  ],
+  "images": [
+    {
+      "src": "532-tiffany-s-pikachu-came-in-a-poke-ball-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Zlatko",
+      "page": "https://commons.wikimedia.org/wiki/File:Daniel_Arsham_Stormtrooper.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "534-the-lone-ranger-s-ring-held-polonium",
+  "number": 534,
+  "title": "The Lone Ranger's ring held polonium",
+  "style": "gouache",
+  "topic": "lone ranger atomic bomb ring kix cereal 1947 15 cents box top spinthariscope polonium 210 zinc sulfide flashes tail fin secret compartment safe ads 138 days half life",
+  "music": "music-534.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Lone Ranger's ring held polonium.",
+    "gold": [
+      "ring",
+      "polonium."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Lone Ranger's ring held polonium.",
+      "say": "The Lone Ranger's ring held po lo nee um.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1947, Kix cereal offered a Lone Ranger Atomic Bomb Ring.",
+      "say": "In nineteen forty seven, Kix cereal offered a Lone Ranger Atomic Bomb Ring.",
+      "scene": {
+        "kind": "real",
+        "src": "534-the-lone-ranger-s-ring-held-polonium-0.jpg",
+        "fit": "card",
+        "label": "The Lone Ranger and Silver",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It cost 15 cents and a box top.",
+      "say": "It cost fifteen cents and a box top.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Fifteen cents"
+      }
+    },
+    {
+      "text": "The gold colored band had a small bomb on top.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A toy bomb",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The tail fin hid a speck of polonium facing a screen.",
+      "say": "The tail fin hid a speck of po lo nee um facing a screen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A speck of polonium",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In a dark room, a tiny lens showed flashes of light.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Flashes of light",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Each flash was one particle hitting the screen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "One particle each",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The ads called the ring perfectly safe.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Perfectly safe",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "They also promised atoms splitting to smithereens.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Atoms to smithereens"
+      }
+    },
+    {
+      "text": "The polonium fades by half every 138 days.",
+      "say": "The po lo nee um fades by half every one hundred thirty eight days.",
+      "scene": {
+        "kind": "title",
+        "text": "138 days",
+        "sub": "Half life",
+        "piece": "stone",
+        "stone": "pink",
+        "metal": "yellow",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Lone Ranger's ring held polonium. In 1947, Kix cereal offered a Lone Ranger Atomic Bomb Ring for 15 cents and a box top. Its red tail fin hid a speck of polonium facing a tiny screen. In a dark room, a lens showed flashes of light, each one a particle hitting the screen. The ads called the ring perfectly safe and promised atoms splitting to smithereens. The polonium fades by half every 138 days, so surviving rings no longer glow.",
+    "hashtags": [
+      "#loneranger",
+      "#kix",
+      "#toyring",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://orau.org/health-physics-museum/collection/spinthariscopes/lone-ranger-atom-bomb-ring-spinthariscope.html",
+    "https://toytales.ca/atomic-bomb-ring-from-kix-1947/",
+    "https://theodoregray.com/PeriodicTable/Samples/084.9",
+    "https://www.flyingcarsandfoodpills.com/kix-atomic-bomb-ring",
+    "https://nuclearmuseum.org/virtual/vex1/DCDD8DBD-B279-40C8-B618-278789799527.htm",
+    "https://boingboing.net/2017/10/16/my-polonium-powered-lone-range.html"
+  ],
+  "images": [
+    {
+      "src": "534-the-lone-ranger-s-ring-held-polonium-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "ABC Television",
+      "page": "https://commons.wikimedia.org/wiki/File:Clayton_Moore_Lone_Ranger_and_Silver.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

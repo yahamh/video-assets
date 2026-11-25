@@ -1,0 +1,169 @@
+{
+  "id": "535-lewis-and-clark-s-necklace-was-misfiled",
+  "number": 535,
+  "title": "Lewis and Clark's necklace was misfiled",
+  "style": "jewelbox",
+  "topic": "lewis and clark bear claw necklace harvard peabody museum misfiled pacific islands 1941 38 grizzly claws 2003 storeroom assistants old label january 2004 exhibition may 2004",
+  "music": "music-535.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "aquamarine",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Lewis and Clark's necklace was misfiled.",
+    "gold": [
+      "necklace",
+      "misfiled."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lewis and Clark's necklace was misfiled.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It is a Native American necklace that Lewis and Clark brought home.",
+      "scene": {
+        "kind": "real",
+        "src": "535-lewis-and-clark-s-necklace-was-misfiled-0.jpg",
+        "fit": "card",
+        "label": "Lewis and Clark",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It holds 38 grizzly bear claws, each about three inches long.",
+      "say": "It holds thirty eight grizzly bear claws, each about three inches long.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Grizzly bear claws",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "A descendant gave it to Harvard's Peabody Museum in 1941.",
+      "say": "A descendant gave it to Harvard's Peabody Museum in nineteen forty one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A gift to Harvard",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Someone catalogued it as Pacific Islands material.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "The wrong label"
+      }
+    },
+    {
+      "text": "It sat among the Pacific objects for more than 60 years.",
+      "say": "It sat among the Pacific objects for more than sixty years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Sixty years misfiled",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 2003, two assistants inventorying the storeroom spotted the mistake.",
+      "say": "In two thousand three, two assistants inventorying the storeroom spotted the mistake.",
+      "scene": {
+        "kind": "title",
+        "text": "2003",
+        "sub": "The storeroom",
+        "piece": "ring",
+        "stone": "topaz",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "An old label said it was presented by Lewis and Clark.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "An old label",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The Peabody announced the find in January 2004.",
+      "say": "The Peabody announced the find in January two thousand four.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "The find",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It joined the Peabody's Lewis and Clark exhibition in May 2004.",
+      "say": "It joined the Peabody's Lewis and Clark exhibition in May two thousand four.",
+      "scene": {
+        "kind": "title",
+        "text": "May 2004",
+        "sub": "The exhibition",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 9
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Lewis and Clark's necklace was misfiled. It is a Native American necklace of 38 grizzly bear claws that Lewis and Clark brought home. A descendant gave it to Harvard's Peabody Museum in 1941, and someone catalogued it as Pacific Islands material. It sat among the Pacific objects for more than 60 years. In 2003, two assistants inventorying the storeroom spotted the mistake. An old label said it was presented by Lewis and Clark. The Peabody announced the find in January 2004 and put it in its Lewis and Clark exhibition in May.",
+    "hashtags": [
+      "#lewisandclark",
+      "#harvard",
+      "#museumfind",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.harvardmagazine.com/2004/03/new-from-lewis-and-clark.html",
+    "https://news.harvard.edu/gazette/story/2004/01/acquisition-of-lewis-and-clark-found-at-peabody",
+    "https://www.npr.org/2004/01/21/1609344/lewis-and-clark-artifact-found",
+    "https://csmonitor.com/2004/0831/p18s02-hfks.html",
+    "https://lewis-clark.org/?p=2847",
+    "https://collections.peabody.harvard.edu/objects/details/452454"
+  ],
+  "images": [
+    {
+      "src": "535-lewis-and-clark-s-necklace-was-misfiled-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Charles Willson Peale",
+      "page": "https://commons.wikimedia.org/wiki/File:Lewis_and_Clark,_side_by_side.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

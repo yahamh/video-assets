@@ -1,0 +1,159 @@
+{
+  "id": "529-cartier-built-a-gold-moon-lander",
+  "number": 529,
+  "title": "Cartier built a gold Moon lander",
+  "style": "jewelbox",
+  "topic": "cartier gold moon lander apollo 11 1969 le figaro readers three models microfilm donors names paris october astronauts michael collins cartier collection",
+  "music": "music-529.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "sapphire",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Cartier built a gold Moon lander.",
+    "gold": [
+      "gold",
+      "lander."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier built a gold Moon lander.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1969, Cartier made an exact gold copy of Apollo 11's lander.",
+      "say": "In nineteen sixty nine, Cartier made an exact gold copy of Apollo eleven's lander.",
+      "scene": {
+        "kind": "real",
+        "src": "529-cartier-built-a-gold-moon-lander-0.jpg",
+        "fit": "card",
+        "label": "Apollo 11's lander",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The French newspaper Le Figaro asked its readers to chip in.",
+      "say": "The French newspaper Le Fee gah ro asked its readers to chip in.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Le Figaro's readers",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Three models were made, one for each astronaut.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Three models"
+      }
+    },
+    {
+      "text": "The astronauts received them on a visit to Paris in October 1969.",
+      "say": "The astronauts received them on a visit to Paris in October nineteen sixty nine.",
+      "scene": {
+        "kind": "real",
+        "src": "529-cartier-built-a-gold-moon-lander-1.jpg",
+        "fit": "card",
+        "label": "Buzz Aldrin, Apollo 11",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Inside each model is a roll of microfilm.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Hidden microfilm",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It lists the names of the readers who donated.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "The donors' names",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Each model is engraved with thanks from the readers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Engraved thanks",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Cartier keeps Michael Collins's model in its own collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Michael Collins's model",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Cartier built a gold Moon lander. In 1969, Cartier made an exact gold copy of Apollo 11's lander. The French newspaper Le Figaro asked its readers to chip in, and three models were made, one for each astronaut. The astronauts received them on a visit to Paris in October 1969. Hidden inside each model is a roll of microfilm listing the names of the readers who donated. Cartier keeps Michael Collins's model in its own collection.",
+    "hashtags": [
+      "#cartier",
+      "#apollo11",
+      "#moonlanding",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.cartier.com/en-lu/maison/the-story/living-heritage/the-cartier-collection/precious-objects",
+    "https://www.space.com/21701-space-jewelry-exhibition.html",
+    "https://gizmodo.com/cartier-gifted-the-apollo-11-astronauts-these-awesome-s-5989423",
+    "https://coolhunting.com/design/cartier-lunar-excursion-module/",
+    "https://www.collectspace.com/news/news-111017a-gold-lunar-module-auction.html",
+    "https://rapaport.com/?p=45336"
+  ],
+  "images": [
+    {
+      "src": "529-cartier-built-a-gold-moon-lander-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Michael Collins",
+      "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_lunar_module.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "529-cartier-built-a-gold-moon-lander-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Neil A. Armstrong",
+      "page": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
