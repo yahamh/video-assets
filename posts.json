@@ -6843,7 +6843,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1662764445306985",
+      "instagram": "https://www.instagram.com/reel/DgLqlteIaXI/",
+      "youtube": "https://www.youtube.com/watch?v=rIdum9ABLAs"
+    }
   },
   "480-harry-winston-invented-this-necklace-s-name": {
     "at": "2026-11-25T23:30:00Z",
@@ -7310,6 +7316,14 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "537-linnaeus-once-farmed-pearls-in-mussels": {
+    "at": "2026-11-27T12:00:00Z",
+    "zernio_id": "6b0772256bb242efc06bf036",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -7964,6 +7978,13 @@
   "lesson-039-sterling-silver": {
     "at": "2026-12-01T16:00:00Z",
     "zernio_id": "6b05cf6f6b5b6d9be0ceb391",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-040-signet-ring": {
+    "at": "2026-12-02T16:00:00Z",
+    "zernio_id": "6b07722b6bb242efc06bf063",
     "platforms": [
       "youtube"
     ]
