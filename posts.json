@@ -6694,7 +6694,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2210590766557302",
+      "instagram": "https://www.instagram.com/reel/DgLEllGR5tM/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712162925661752597"
+    }
   },
   "469-elvis-bought-diamonds-in-a-bathroom": {
     "at": "2026-11-25T18:00:00Z",
@@ -6703,14 +6709,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1122050267320216",
+      "instagram": "https://www.instagram.com/reel/DgLIMVBhBTb/",
+      "youtube": "https://www.youtube.com/watch?v=ahPYH3lN61w"
+    }
   },
   "470-swatch-s-satellite-was-thrown-by-hand": {
     "at": "2026-11-25T18:30:00Z",
     "zernio_id": "6b056dc4451fd0fa24daee90",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgLLc6jvRV5/"
+    }
   },
   "471-mae-west-s-diamonds-weren-t-all-real": {
     "at": "2026-11-25T19:00:00Z",
@@ -6719,7 +6735,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1189497773434209",
+      "instagram": "https://www.instagram.com/reel/DgLPAE_B_At/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712186384731098376"
+    }
   },
   "472-tiffany-sold-a-silver-tin-can": {
     "at": "2026-11-25T19:30:00Z",
@@ -6727,14 +6749,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1669016011584353",
+      "instagram": "https://www.instagram.com/reel/DgLSZv_A4Po/"
+    }
   },
   "473-an-olympic-medal-chipped-his-tooth": {
     "at": "2026-11-25T20:00:00Z",
     "zernio_id": "6b056dd45c252bf7d380536d",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgLVyPPux_A/"
+    }
   },
   "474-the-world-cup-trophy-is-hollow-gold": {
     "at": "2026-11-25T20:30:00Z",
@@ -6744,7 +6775,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1033682923109929",
+      "instagram": "https://www.instagram.com/reel/DgLZRyAMbDK/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712209359303986450",
+      "youtube": "https://www.youtube.com/watch?v=Dzk7j2XFCHw"
+    }
   },
   "475-cartier-s-crash-watch-wasn-t-in-a-crash": {
     "at": "2026-11-25T21:00:00Z",
@@ -6752,7 +6790,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1460953702671210",
+      "instagram": "https://www.instagram.com/reel/DgLcpOAxkpO/"
+    }
   },
   "476-the-met-s-cellini-cup-was-a-copy": {
     "at": "2026-11-25T21:30:00Z",
@@ -6760,7 +6803,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=3275446475993698",
+      "instagram": "https://www.instagram.com/reel/DgLgCQXsSZY/"
+    }
   },
   "477-tyrese-s-bling-came-from-amazon": {
     "at": "2026-11-25T22:00:00Z",
@@ -6768,7 +6816,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "partial",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgLjkaxClkx/",
+      "tiktok": "failed: You have created too many posts in the last 24 hours via the API. Please try posting directly in the TikTok app or wait before posting again."
+    }
   },
   "478-kelce-s-super-bowl-ring-vanished-in-chili": {
     "at": "2026-11-25T22:30:00Z",
@@ -6776,7 +6829,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4623635027916265",
+      "instagram": "https://www.instagram.com/reel/DgLnDOLBscm/"
+    }
   },
   "479-russell-crowe-s-patek-was-only-borrowed": {
     "at": "2026-11-25T23:00:00Z",
@@ -7179,6 +7237,79 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "528-schiaparelli-s-fur-bracelet-inspired-a-teacup": {
+    "at": "2026-11-27T03:30:00Z",
+    "zernio_id": "6b076cf0c48fa1e1b4bb976f",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "529-cartier-built-a-gold-moon-lander": {
+    "at": "2026-11-27T08:00:00Z",
+    "zernio_id": "6b076cf5c550a476e32a082f",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "530-the-first-x-ray-showed-a-ring": {
+    "at": "2026-11-27T08:30:00Z",
+    "zernio_id": "6b076cfac550a476e32a0846",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "531-hermes-bracelet-began-as-a-dog-collar": {
+    "at": "2026-11-27T09:00:00Z",
+    "zernio_id": "6b076cfe738a3ad1a847cf0a",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "532-tiffany-s-pikachu-came-in-a-poke-ball": {
+    "at": "2026-11-27T09:30:00Z",
+    "zernio_id": "6b076d03c48fa1e1b4bb97d5",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "533-queen-mary-s-dollhouse-holds-tiny-crown-jewels": {
+    "at": "2026-11-27T10:00:00Z",
+    "zernio_id": "6b076d0743258bd4fd518750",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "534-the-lone-ranger-s-ring-held-polonium": {
+    "at": "2026-11-27T10:30:00Z",
+    "zernio_id": "6b076d0c9fcb1ba61d11d50d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "535-lewis-and-clark-s-necklace-was-misfiled": {
+    "at": "2026-11-27T11:00:00Z",
+    "zernio_id": "6b076d1043258bd4fd518780",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "536-rubik-s-cube-once-wore-185-carats": {
+    "at": "2026-11-27T11:30:00Z",
+    "zernio_id": "6b076d1484e6e7d241a750f7",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
