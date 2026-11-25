@@ -1,0 +1,170 @@
+{
+  "id": "537-linnaeus-once-farmed-pearls-in-mussels",
+  "number": 537,
+  "title": "Linnaeus once farmed pearls in mussels",
+  "style": "gouache",
+  "topic": "linnaeus pearls mussels unio pictorum limestone pellet 1761 swedish state committee 1762 peter bagge gothenburg king adolf frederick decree linnean society london",
+  "music": "music-537.wav",
+  "piece": {
+    "piece": "strand",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Linnaeus once farmed pearls in mussels.",
+    "gold": [
+      "farmed",
+      "pearls"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Linnaeus once farmed pearls in mussels.",
+      "say": "Lin nay us once farmed pearls in mussels.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Swedish naturalist Carl Linnaeus grew freshwater pearls in river mussels.",
+      "say": "Swedish naturalist Carl Lin nay us grew freshwater pearls in river mussels.",
+      "scene": {
+        "kind": "real",
+        "src": "537-linnaeus-once-farmed-pearls-in-mussels-0.jpg",
+        "fit": "card",
+        "label": "A river mussel",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He slipped a tiny limestone pellet through the shell.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A limestone pellet",
+        "stones": 9
+      }
+    },
+    {
+      "text": "A pearl then grew over the pellet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A pearl grows"
+      }
+    },
+    {
+      "text": "In 1761, he offered the method to the Swedish state.",
+      "say": "In seventeen sixty one, he offered the method to the Swedish state.",
+      "scene": {
+        "kind": "real",
+        "src": "537-linnaeus-once-farmed-pearls-in-mussels-1.jpg",
+        "fit": "card",
+        "label": "Carl Linnaeus",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A state committee approved his method.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Approved",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In 1762, he sold the secret to merchant Peter Bagge.",
+      "say": "In seventeen sixty two, he sold the secret to merchant Peter Bagge.",
+      "scene": {
+        "kind": "title",
+        "text": "1762",
+        "sub": "Peter Bagge",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "rose",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The king's decree gave Bagge the right to use it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A royal decree",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Bagge could not make it pay, and the instructions were lost.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Lost instructions",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The Linnean Society in London keeps Linnaeus's pearls.",
+      "say": "The Lin ee an Society in London keeps Lin nay us's pearls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Kept in London",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Linnaeus once farmed pearls in mussels. Swedish naturalist Carl Linnaeus grew freshwater pearls in river mussels by slipping a tiny limestone pellet through the shell. In 1761, he offered the method to the Swedish state, and a state committee approved it. In 1762, he sold the secret to the Gothenburg merchant Peter Bagge, and the king's decree gave Bagge the right to use it. Bagge could not make it pay, and the instructions were lost. The Linnean Society in London keeps Linnaeus's pearls.",
+    "hashtags": [
+      "#linnaeus",
+      "#pearls",
+      "#naturalhistory",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.winterson.co.uk/blog/a-peek-at-the-pearls-of-carl-linnaeus",
+    "https://www.karipearls.com/linnaeus.html",
+    "https://linnean.org/research-collections/linnaean-collections",
+    "https://linnean-online.org/167028/",
+    "https://discovermagazine.com/the-sciences/reviews-37",
+    "https://museum.wa.gov.au/explore/lustre-online-text-panels/growing-pearls"
+  ],
+  "images": [
+    {
+      "src": "537-linnaeus-once-farmed-pearls-in-mussels-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Ural-66",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%80%D0%BB%D0%B0%D0%BC%D1%83%D1%82%D1%80%D0%B8%D1%86%D0%B0_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_(Unio_pictorum)_f007.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "537-linnaeus-once-farmed-pearls-in-mussels-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Alexander Roslin",
+      "page": "https://commons.wikimedia.org/wiki/File:Carl_von_Linn%C3%A9.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

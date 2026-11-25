@@ -1,0 +1,165 @@
+{
+ "id": "lesson-040-signet-ring",
+ "series": "lesson",
+ "number": 40,
+ "title": "What a signet ring is",
+ "topic": "signet ring seal wax signature engraved mirror image intaglio monogram crest 4000 years ancient Egypt rank flat face initials",
+ "music": "music-lesson-040.wav",
+ "hook": {
+  "text": "A signet ring was once a signature.",
+  "gold": [
+   "signet",
+   "signature."
+  ]
+ },
+ "end": {
+  "line": "Renders made with",
+  "handle": "HeyGema"
+ },
+ "lines": [
+  {
+   "text": "A signet ring was once a signature.",
+   "scene": {
+    "kind": "compare",
+    "before": "ring-1d-input.webp",
+    "after": "ring-1d-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  },
+  {
+   "text": "Its flat face is engraved with a monogram or a crest.",
+   "scene": {
+    "kind": "photo",
+    "src": "signet-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "k": 1.3
+    },
+    "label": "A flat face"
+   }
+  },
+  {
+   "text": "Pressed into hot wax, that face leaves a mark.",
+   "scene": {
+    "kind": "title",
+    "text": "Hot wax",
+    "sub": "Pressed in"
+   }
+  },
+  {
+   "text": "The mark sealed a letter and showed who sent it.",
+   "scene": {
+    "kind": "steps",
+    "items": [
+     "Fold the letter",
+     "Drip hot wax",
+     "Press the ring"
+    ],
+    "active": 2,
+    "label": "Sealing a letter"
+   }
+  },
+  {
+   "text": "The engraving is cut as a mirror image.",
+   "scene": {
+    "kind": "title",
+    "text": "Mirror image",
+    "sub": "Cut into the face"
+   }
+  },
+  {
+   "text": "Pressed into wax, it reads the right way round.",
+   "scene": {
+    "kind": "photo",
+    "src": "ring-1d-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "k": 1.3
+    },
+    "label": "The face of the ring"
+   }
+  },
+  {
+   "text": "People have worn signet rings for about 4,000 years.",
+   "say": "People have worn signet rings for about four thousand years.",
+   "scene": {
+    "kind": "title",
+    "text": "4,000 years",
+    "sub": "Signet rings"
+   }
+  },
+  {
+   "text": "In ancient Egypt, a signet ring showed rank.",
+   "scene": {
+    "kind": "title",
+    "text": "Rank",
+    "sub": "Ancient Egypt"
+   }
+  },
+  {
+   "text": "Today it is worn as plain jewelry.",
+   "scene": {
+    "kind": "photo",
+    "src": "ring-1d-yellow-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "k": 1.2
+    },
+    "label": "Worn today"
+   }
+  },
+  {
+   "text": "Many have a flat face made for initials.",
+   "scene": {
+    "kind": "photo",
+    "src": "signet-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "k": 1.0
+    },
+    "label": "Room for initials"
+   }
+  },
+  {
+   "text": "So a signet ring is a signature you can wear.",
+   "scene": {
+    "kind": "title",
+    "text": "A signature",
+    "sub": "You can wear"
+   }
+  },
+  {
+   "text": "A render shows the face and the metal before anything is cast.",
+   "scene": {
+    "kind": "compare",
+    "before": "ring-1d-yellow-input.webp",
+    "after": "ring-1d-yellow-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  }
+ ],
+ "post": {
+  "youtube_title": "Jewelry render basics: what a signet ring is",
+  "caption": "A signet ring has a flat face engraved with a monogram or a crest. It was pressed into hot wax to seal a letter and show who sent it, and the design is cut as a mirror image so the wax mark reads the right way round. People have worn signet rings for about 4,000 years. Today they are worn as jewelry. The renders in this video were made with HeyGema.",
+  "hashtags": [
+   "#signetring",
+   "#jewelryhistory",
+   "#jewelrymaking",
+   "#jewelrydesign",
+   "#jewelryrendering"
+  ]
+ },
+ "sources": [
+  "https://www.lyonandturnbull.com/stories/the-history-of-signet-rings",
+  "https://www.langantiques.com/university/signet-rings/",
+  "https://collections.vam.ac.uk/item/O119741/signet-ring-unknown",
+  "https://www.gemsociety.org/article/history-signet-rings/",
+  "https://www.sothebys.com/en/articles/the-a-z-of-jewelry-i-is-for-intaglio"
+ ]
+}
