@@ -1,0 +1,161 @@
+{
+  "id": "518-tiffany-s-april-fools-jokes-came-true",
+  "number": 518,
+  "title": "Tiffany's April Fools jokes came true",
+  "style": "deco",
+  "topic": "tiffany april fools 2021 yellow blue rodeo drive store tiffcoin 2022 cryptocurrency 499 numbered coins 18 karat gold tiffany money 9,999",
+  "music": "music-518.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "yellow",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Tiffany's April Fools jokes came true.",
+    "gold": [
+      "April",
+      "true."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany's April Fools jokes came true.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "On April 1, 2021, Tiffany joked that its blue was now yellow.",
+      "say": "On April first, twenty twenty one, Tiffany joked that its blue was now yellow.",
+      "scene": {
+        "kind": "real",
+        "src": "518-tiffany-s-april-fools-jokes-came-true-0.jpg",
+        "fit": "card",
+        "label": "A Tiffany blue box",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Then it rebuilt its Rodeo Drive store in yellow.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A yellow store",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Even the boxes and shopping bags turned yellow.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Yellow boxes",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "On April 1, 2022, Tiffany announced its own cryptocurrency, TiffCoin.",
+      "say": "On April first, twenty twenty two, Tiffany announced its own cryptocurrency, Tiff Coin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A new coin"
+      }
+    },
+    {
+      "text": "The next day, it said TiffCoin was real, but not crypto.",
+      "say": "The next day, it said Tiff Coin was real, but not crypto.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Real, not crypto",
+        "stones": 9
+      }
+    },
+    {
+      "text": "It was 499 numbered coins in 18 karat gold.",
+      "say": "It was four hundred ninety nine numbered coins in eighteen karat gold.",
+      "scene": {
+        "kind": "title",
+        "text": "499",
+        "sub": "Numbered coins",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The coins echo Tiffany Money, which customers once traded in for jewelry.",
+      "scene": {
+        "kind": "real",
+        "src": "518-tiffany-s-april-fools-jokes-came-true-1.jpg",
+        "fit": "card",
+        "label": "A Tiffany pendant",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Each one cost 9,999 dollars in 2022.",
+      "say": "Each one cost nine thousand, nine hundred ninety nine dollars in twenty twenty two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Gold coins",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tiffany's April Fools jokes came true. On April 1, 2021, Tiffany joked that its blue was now yellow, then rebuilt its Rodeo Drive store in yellow, down to the boxes and shopping bags. On April 1, 2022, it announced its own cryptocurrency, TiffCoin, and the next day said TiffCoin was real, but not crypto. It was 499 numbered coins in 18 karat gold, echoing Tiffany Money, which customers once traded in for jewelry. Each coin cost 9,999 dollars in 2022.",
+    "hashtags": [
+      "#tiffany",
+      "#aprilfools",
+      "#tiffcoin",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nationaljeweler.com/articles/9869-tiffany-co-embraces-april-fool-s-joke",
+    "https://www.nationaljeweler.com/articles/10790-tiffany-runs-with-april-fool-s-joke-again",
+    "https://www.tatlerasia.com/style/jewellery/sg-tiffany-blue-tiffany-yellow-diamond",
+    "https://www.thefashionlaw.com/tiffany-co-is-parlaying-its-april-fools-joke-into-a-brick-and-mortar-focused-marketing-venture/",
+    "https://hk.asiatatler.com/power-purpose/wealth/tiffany-co-has-launched-its-own-cryptocurrency-tiffcoin",
+    "https://www.highsnobiety.com/p/tiffany-co-tiffcoin-gold-release-date-crypto"
+  ],
+  "images": [
+    {
+      "src": "518-tiffany-s-april-fools-jokes-came-true-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Lioobd HAOEU minga",
+      "page": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E7%BE%85%E7%B4%A0%E8%A1%97_Russell_Street_Times_Square_shop_Tiffany_Jewellery_window_display_diamond_June_2024_R12S_02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "518-tiffany-s-april-fools-jokes-came-true-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Tiffany & Co.",
+      "page": "https://commons.wikimedia.org/wiki/File:Tiffany_and_Company_-_Pendant_Necklace_-_Walters_572168.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

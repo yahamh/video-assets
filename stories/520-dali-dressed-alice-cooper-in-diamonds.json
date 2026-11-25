@@ -1,0 +1,169 @@
+{
+  "id": "520-dali-dressed-alice-cooper-in-diamonds",
+  "number": 520,
+  "title": "Dali dressed Alice Cooper in diamonds",
+  "style": "jewelbox",
+  "topic": "salvador dali alice cooper 1973 hologram brain harry winston jewels diamond tiara venus de milo eclair ants knoedler gallery st regis holy grail",
+  "music": "music-520.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "sapphire",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Dali dressed Alice Cooper in diamonds.",
+    "gold": [
+      "dressed",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Dali dressed Alice Cooper in diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In April 1973, Salvador Dali met Alice Cooper in New York.",
+      "say": "In April nineteen seventy three, Salvador Dali met Alice Cooper in New York.",
+      "scene": {
+        "kind": "real",
+        "src": "520-dali-dressed-alice-cooper-in-diamonds-0.jpg",
+        "fit": "card",
+        "label": "Salvador Dalí, 1939",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Dali was making a hologram of the rock star's brain.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A brain hologram",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Cooper sat cross legged on a rotating platform.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A turning platform",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "He wore jewels lent by Harry Winston, including a diamond tiara.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Winston's jewels",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A woman carried the gems in on a red velvet pillow.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A velvet pillow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Cooper held the Venus de Milo as a microphone.",
+      "scene": {
+        "kind": "real",
+        "src": "520-dali-dressed-alice-cooper-in-diamonds-1.jpg",
+        "fit": "card",
+        "label": "The Venus de Milo",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Dali's brain sculpture carried a chocolate eclair and ants.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "An eclair and ants",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Cooper asked to keep it, and Dali said it was worth millions.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Worth millions"
+      }
+    },
+    {
+      "text": "Cooper never found it again, and calls it his holy grail.",
+      "scene": {
+        "kind": "title",
+        "text": "Holy grail",
+        "sub": "Never found",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Dali dressed Alice Cooper in diamonds. In April 1973, Salvador Dali met Alice Cooper in New York, to make a hologram of the rock star's brain. Cooper sat cross legged on a rotating platform, wearing jewels lent by Harry Winston, including a diamond tiara. A woman carried the gems in on a red velvet pillow. Cooper held the Venus de Milo as a microphone, and Dali's brain sculpture carried a chocolate eclair and ants. Cooper asked to keep it, and Dali said it was worth millions. Cooper never found it again, and calls it his holy grail.",
+    "hashtags": [
+      "#salvadordali",
+      "#alicecooper",
+      "#harrywinston",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.loudersound.com/bands-artists/the-day-salvador-dali-recreated-alice-coopers-brain-using-eclairs-ants-and-diamonds",
+    "https://spectator.com/article/when-salvador-dali-met-alice-cooper/",
+    "https://www.openculture.com/2020/08/when-salvador-dali-met-alice-cooper-turned-him-into-a-hologram.html",
+    "https://faroutmagazine.co.uk/salvador-dali-turned-alice-cooper-brain-work-of-art/",
+    "https://flashbak.com/?p=361574",
+    "https://alicecooperechive.com/articles/feature/cabx/730414"
+  ],
+  "images": [
+    {
+      "src": "520-dali-dressed-alice-cooper-in-diamonds-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Van Vechten, Carl, 1880-1964.",
+      "page": "https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_1939.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "520-dali-dressed-alice-cooper-in-diamonds-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown artist Unknown artist",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus_de_Milo_Louvre_Ma399_n4.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

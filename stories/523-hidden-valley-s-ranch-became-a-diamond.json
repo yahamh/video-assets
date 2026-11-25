@@ -1,0 +1,157 @@
+{
+  "id": "523-hidden-valley-s-ranch-became-a-diamond",
+  "number": 523,
+  "title": "Hidden Valley's ranch became a diamond",
+  "style": "jewelbox",
+  "topic": "hidden valley ranch diamond 2022 national ranch day lab grown seasoning five months 400 tons two carat round brilliant 14 karat white gold hvr lvr ebay 12,550 feeding america national proposal day",
+  "music": "music-523.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Hidden Valley's ranch became a diamond.",
+    "gold": [
+      "ranch",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hidden Valley's ranch became a diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "On National Ranch Day in 2022, Hidden Valley revealed a diamond.",
+      "say": "On National Ranch Day in twenty twenty two, Hidden Valley revealed a diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "2022",
+        "sub": "National Ranch Day",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "A diamond maker grew it in a lab from ranch seasoning.",
+      "scene": {
+        "kind": "real",
+        "src": "523-hidden-valley-s-ranch-became-a-diamond-0.jpg",
+        "fit": "card",
+        "label": "Ranch dressing",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The process took five months and 400 tons of pressure.",
+      "say": "The process took five months and four hundred tons of pressure.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "400 tons of pressure",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The result is a two carat round brilliant diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A two carat round",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It sits in a 14 karat white gold band.",
+      "say": "It sits in a fourteen karat white gold band.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A white gold band",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Inside the band is engraved HVR LVR.",
+      "say": "Inside the band is engraved H V R L V R.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "HVR LVR",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It started at 310 dollars on eBay and sold for 12,550 dollars.",
+      "say": "It started at three hundred ten dollars on eBay and sold for twelve thousand, five hundred fifty dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "12,550",
+        "sub": "Dollars",
+        "piece": "earrings",
+        "stone": "pink",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Each dollar given to Feeding America provides at least 10 meals.",
+      "say": "Each dollar given to Feeding America provides at least ten meals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Feeding America",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Hidden Valley's ranch became a diamond. On National Ranch Day in 2022, Hidden Valley revealed a diamond that a diamond maker grew in a lab from ranch seasoning. The process took five months and 400 tons of pressure. The result is a two carat round brilliant in a 14 karat white gold band, engraved inside with HVR LVR. It started at 310 dollars on eBay and sold for 12,550 dollars. All of it went to Feeding America, where every dollar provides at least 10 meals.",
+    "hashtags": [
+      "#hiddenvalley",
+      "#ranch",
+      "#labgrowndiamond",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nationaljeweler.com/articles/10728-lab-grown-ranch-diamond-sells-for-13k",
+    "https://futurism.com/the-byte/ranch-diamond",
+    "https://www.fox13news.com/news/carats-and-ranch-diamond-made-from-salad-dressing-highlights-lab-grown-popularity",
+    "https://www.jckonline.com/editorial-article/ranch-dressing-ring/",
+    "https://comicbook.com/irl/news/hidden-valley-ranch-diamond-sells-for-more-than-12500",
+    "https://nbclosangeles.com/news/local/ranch-perfect-on-a-veggie-platter-or-around-your-neck-hidden-valley-ranch-diamond/2849299"
+  ],
+  "images": [
+    {
+      "src": "523-hidden-valley-s-ranch-became-a-diamond-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Missvain",
+      "page": "https://commons.wikimedia.org/wiki/File:Acme_Burger_-_November_2024_-_Sarah_Stierch_13.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

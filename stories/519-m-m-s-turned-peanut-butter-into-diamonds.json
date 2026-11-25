@@ -1,0 +1,160 @@
+{
+  "id": "519-m-m-s-turned-peanut-butter-into-diamonds",
+  "number": 519,
+  "title": "M&M's turned peanut butter into diamonds",
+  "style": "gouache",
+  "topic": "m&m's almost champions ring of comfort super bowl 2024 peanut butter m&m's lab diamonds 3,000 degrees 800,000 psi 14 karat gold orange m&m's mini stadium cbs",
+  "music": "music-519.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "diamond",
+    "metal": "yellow",
+    "stones": 9
+  },
+  "hook": {
+    "text": "M&M's turned peanut butter into diamonds.",
+    "gold": [
+      "peanut",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "M&M's turned peanut butter into diamonds.",
+      "say": "M and M's turned peanut butter into diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "M&M's made an Almost Champions ring for the 2024 Super Bowl.",
+      "say": "M and M's made an Almost Champions ring for the twenty twenty four Super Bowl.",
+      "scene": {
+        "kind": "real",
+        "src": "519-m-m-s-turned-peanut-butter-into-diamonds-0.jpg",
+        "fit": "card",
+        "label": "Super Bowl LVIII",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was made for stars who never won a Super Bowl ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "No ring for them",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The 14 karat gold ring holds diamonds made from Peanut Butter M&M's.",
+      "say": "The fourteen karat gold ring holds diamonds made from Peanut Butter M and M's.",
+      "scene": {
+        "kind": "real",
+        "src": "519-m-m-s-turned-peanut-butter-into-diamonds-1.jpg",
+        "fit": "card",
+        "label": "M&M's",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A diamond covered replica of the Orange M&M's character sits on top.",
+      "say": "A diamond covered replica of the Orange M and M's character sits on top.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Orange on top",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It opens into a mini football stadium holding one Peanut Butter M&M.",
+      "say": "It opens into a mini football stadium holding one Peanut Butter M and M.",
+      "scene": {
+        "kind": "real",
+        "src": "519-m-m-s-turned-peanut-butter-into-diamonds-2.jpg",
+        "fit": "card",
+        "label": "Allegiant Stadium",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The 30 second ad ran in the first quarter on CBS.",
+      "say": "The thirty second ad ran in the first quarter on CBS.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A 30 second ad"
+      }
+    },
+    {
+      "text": "About 3,000 degrees and 800,000 psi turned peanut butter into diamond.",
+      "say": "About three thousand degrees and eight hundred thousand P S I turned peanut butter into diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "800,000",
+        "sub": "Psi",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "M&M's turned peanut butter into diamonds. For the 2024 Super Bowl, M&M's made an Almost Champions ring for stars who never won a Super Bowl ring. The 14 karat gold ring holds diamonds made from Peanut Butter M&M's, with a diamond covered replica of the Orange M&M's character on top. It opens into a mini football stadium holding one Peanut Butter M&M. The 30 second ad ran in the first quarter on CBS. About 3,000 degrees Celsius and 800,000 psi turned peanut butter into diamond.",
+    "hashtags": [
+      "#mms",
+      "#superbowl",
+      "#labgrowndiamond",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://prnewswire.com/news-releases/mars-debuts-super-bowl-lviii-campaign-teaser-featuring-mms-almost-champions-ring-of-comfort-302042047.html",
+    "https://www.marketingdive.com/news/mms-almost-super-bowl-champions-diamond-encrusted-ring-controversy/705457/",
+    "https://www.jckonline.com/editorial-article/superbowl-lab-diamonds-mms/",
+    "https://www.confectioneryproduction.com/news/47094/mms-delivers-unique-peanut-butter-diamonds-to-nfl-stars-in-key-super-bowl-campaign/",
+    "https://m.washingtontimes.com/news/2024/feb/9/super-bowl-losers-get-diamond-encrusted-ring-of-th/",
+    "https://www.jewellerybusiness.com/news/super-bowl-runners-up-to-receive-peanut-butter-lab-grown-diamonds/"
+  ],
+  "images": [
+    {
+      "src": "519-m-m-s-turned-peanut-butter-into-diamonds-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. Customs and Border Protection",
+      "page": "https://commons.wikimedia.org/wiki/File:Super_Bowl_LVIII_Welcome_Sign.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "519-m-m-s-turned-peanut-butter-into-diamonds-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Evan-Amos",
+      "page": "https://commons.wikimedia.org/wiki/File:Plain-M%26Ms-Pile.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "519-m-m-s-turned-peanut-butter-into-diamonds-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. Customs and Border Protection",
+      "page": "https://commons.wikimedia.org/wiki/File:Allegiant_Stadium_Street_View_on_Super_Bowl_LVIII.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

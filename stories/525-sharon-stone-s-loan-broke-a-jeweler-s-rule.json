@@ -1,0 +1,173 @@
+{
+  "id": "525-sharon-stone-s-loan-broke-a-jeweler-s-rule",
+  "number": 525,
+  "title": "Sharon Stone's loan broke a jeweler's rule",
+  "style": "gouache",
+  "topic": "martin katz sharon stone 1992 premiere i don't loan jewelry puka shells choker earrings magazine shoots red carpet 500 celebrities",
+  "music": "music-525.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "emerald",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Sharon Stone's loan broke a jeweler's rule.",
+    "gold": [
+      "loan",
+      "rule."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sharon Stone's loan broke a jeweler's rule.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Martin Katz started out selling puka shells dorm to dorm.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Puka shells",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 1992, Sharon Stone asked to wear his jewelry to a premiere.",
+      "say": "In nineteen ninety two, Sharon Stone asked to wear his jewelry to a premiere.",
+      "scene": {
+        "kind": "title",
+        "text": "1992",
+        "sub": "Sharon Stone",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It was the premiere of Basic Instinct.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Basic Instinct",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "She wanted to borrow a choker and a pair of earrings.",
+      "scene": {
+        "kind": "real",
+        "src": "525-sharon-stone-s-loan-broke-a-jeweler-s-rule-0.jpg",
+        "fit": "card",
+        "label": "A pearl choker, by Bakst",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Katz thought she wanted to buy them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A misunderstanding"
+      }
+    },
+    {
+      "text": "He told her he didn't loan jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "No loans",
+        "stones": 9
+      }
+    },
+    {
+      "text": "He gave in on one condition.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "One condition"
+      }
+    },
+    {
+      "text": "She had to wear his jewelry for her magazine shoots.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Magazine shoots",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Many more stars soon came asking to borrow his jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "The red carpet",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He has dressed more than 500 celebrities since.",
+      "say": "He has dressed more than five hundred celebrities since.",
+      "scene": {
+        "kind": "title",
+        "text": "500",
+        "sub": "Celebrities",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "yellow"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Sharon Stone's loan broke a jeweler's rule. Martin Katz started out selling puka shells dorm to dorm. In 1992, Sharon Stone asked to wear his jewelry to a premiere, wanting to borrow a choker and a pair of earrings. Katz thought she wanted to buy them, and told her he didn't loan jewelry. He gave in if she wore his jewelry for her magazine shoots. Many more stars soon came asking to borrow his jewelry. He has dressed more than 500 celebrities since.",
+    "hashtags": [
+      "#martinkatz",
+      "#sharonstone",
+      "#redcarpet",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://gia.edu/gia-news-research/conversation-jewelry-designer-martin-katz",
+    "https://www.jckonline.com/?p=21983",
+    "https://abc7.com/post/meet-the-jeweler-who-glams-up-hollywood-for-the-oscars/5153561/",
+    "https://news.centurionjewelry.com/articles/detail/martin-katz-accidental-jeweler-to-the-stars-on-branding-and-celebrity",
+    "https://thejewelryloupe.com/martin-katz-how-to-accessorize-a-movie-star/",
+    "https://www.marieclaire.co.uk/news/fashion-news/star-borrows-diamonds-oscars-646740"
+  ],
+  "images": [
+    {
+      "src": "525-sharon-stone-s-loan-broke-a-jeweler-s-rule-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "BAKST, LÉON (1866-1924)",
+      "page": "https://commons.wikimedia.org/wiki/File:Girl_Wearing_a_Kokoshnik_and_Pearl_Choker_by_L.Bakst_(priv.coll).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "524-nicole-kidman-s-jeweler-took-a-shop-s-name",
+  "number": 524,
+  "title": "Nicole Kidman's jeweler took a shop's name",
+  "style": "deco",
+  "topic": "fred leighton murray mondschein greenwich village shop mexican dresses took the name madison avenue 1996 miuccia prada opal choker nicole kidman oscars natalie portman headband",
+  "music": "music-524.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "amethyst",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Nicole Kidman's jeweler took a shop's name.",
+    "gold": [
+      "jeweler",
+      "name."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Nicole Kidman's jeweler took a shop's name.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "He was born Murray Mondschein, a cab driver's son.",
+      "scene": {
+        "kind": "title",
+        "text": "Murray",
+        "sub": "Mondschein",
+        "piece": "stone",
+        "stone": "morganite",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He bought a Greenwich Village shop that sold Mexican dresses.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A Village shop"
+      }
+    },
+    {
+      "text": "The shop was already called Fred Leighton, after its old owner.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A borrowed name",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Customers kept asking for Fred Leighton, so he took the name.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "He took the name"
+      }
+    },
+    {
+      "text": "A dealer's Victorian pieces turned him toward antique jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Victorian pieces",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "He later moved the shop to Madison Avenue.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Madison Avenue",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1996, Miuccia Prada chose his opal choker for Kidman's first Oscars.",
+      "say": "In nineteen ninety six, Miuccia Prada chose his opal choker for Kidman's first Oscars.",
+      "scene": {
+        "kind": "title",
+        "text": "1996",
+        "sub": "Kidman's Oscars",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "That loan began his habit of lending jewelry to stars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Jewelry on loan",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Natalie Portman later wore one of his headbands to the Oscars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A jeweled headband",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The Kwiat family bought the store in 2009.",
+      "say": "The Kwiat family bought the store in two thousand nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A new owner",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Nicole Kidman's jeweler took a shop's name. Fred Leighton was born Murray Mondschein, a cab driver's son. He bought a Greenwich Village shop that sold Mexican dresses, and the shop was already called Fred Leighton, after its old owner. Customers kept asking for Fred Leighton, so he took the name. A dealer's Victorian pieces turned him toward antique jewelry, and he later moved the shop to Madison Avenue. In 1996, Miuccia Prada chose his opal choker for Kidman's first Oscars, and that loan began his habit of lending jewelry to stars. Natalie Portman later wore one of his headbands to the Oscars, and the Kwiat family bought the store in 2009.",
+    "hashtags": [
+      "#fredleighton",
+      "#nicolekidman",
+      "#oscars",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://apartmentlook.blogspot.com/2017/02/fred-leighton-jeweler-who-made-stars.html",
+    "https://www.jckonline.com/?p=49667",
+    "https://gawkerarchives.com/551501/fred-leighton",
+    "https://www.1stdibs.com/introspective-magazine/fred-leighton",
+    "https://thejewelleryeditor.com/jewellery/article/fred-leighton-jewelry-oscars-red-carpet",
+    "https://en.wikipedia.org/wiki/Fred_Leighton"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of Fred Leighton, his shop or the Kidman choker: Commons has only an unrelated 1944 film poster and CC BY pictures of a skyscraper"
+}

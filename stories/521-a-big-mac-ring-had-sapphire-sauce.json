@@ -1,0 +1,178 @@
+{
+  "id": "521-a-big-mac-ring-had-sapphire-sauce",
+  "number": 521,
+  "title": "A Big Mac ring had sapphire sauce",
+  "style": "deco",
+  "topic": "mcdonald's bling mac ring february 2018 nadine ghosn 18 karat gold seven tiers orange sapphire special sauce tsavorite lettuce pickles champagne diamonds beef patties twitter contest valentine's day 12,500",
+  "music": "music-521.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "citrine",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Big Mac ring had sapphire sauce.",
+    "gold": [
+      "sapphire",
+      "sauce."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Big Mac ring had sapphire sauce.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In February 2018, McDonald's offered a ring shaped like a Big Mac.",
+      "say": "In February twenty eighteen, McDonald's offered a ring shaped like a Big Mac.",
+      "scene": {
+        "kind": "real",
+        "src": "521-a-big-mac-ring-had-sapphire-sauce-0.jpg",
+        "fit": "card",
+        "label": "A Big Mac",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Designer Nadine Ghosn made it in 18 karat gold.",
+      "say": "Designer Nadine Ghosn made it in eighteen karat gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Nadine Ghosn",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Its seven tiers stack like the layers of the burger.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Seven gold tiers"
+      }
+    },
+    {
+      "text": "An orange sapphire stands in for the Special Sauce.",
+      "scene": {
+        "kind": "real",
+        "src": "521-a-big-mac-ring-had-sapphire-sauce-1.jpg",
+        "fit": "card",
+        "label": "A yellow sapphire",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Green tsavorite stands in for the lettuce and pickles.",
+      "scene": {
+        "kind": "real",
+        "src": "521-a-big-mac-ring-had-sapphire-sauce-2.jpg",
+        "fit": "card",
+        "label": "Tsavorite garnet",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Champagne diamonds stand in for the beef patties.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Beef patties",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "To win, fans tweeted a vow of love to the Big Mac.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A vow of love",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The contest ran from February 7 to Valentine's Day.",
+      "say": "The contest ran from February seventh to Valentine's Day.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Valentine's Day",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "McDonald's valued the ring at 12,500 dollars.",
+      "say": "McDonald's valued the ring at twelve thousand, five hundred dollars.",
+      "scene": {
+        "kind": "title",
+        "text": "12,500",
+        "sub": "Dollars",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Big Mac ring had sapphire sauce. In February 2018, McDonald's offered a ring shaped like a Big Mac. Designer Nadine Ghosn made it in 18 karat gold, with seven tiers that stack like the layers of the burger. An orange sapphire stands in for the Special Sauce, green tsavorite for the lettuce and pickles, and champagne diamonds for the beef patties. To win, fans tweeted a vow of love to the Big Mac, and the contest ran from February 7 to Valentine's Day. McDonald's valued the ring at 12,500 dollars.",
+    "hashtags": [
+      "#mcdonalds",
+      "#bigmac",
+      "#blingmac",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://corporate.mcdonalds.com/corpmcd/our-stories/article/bling_mac.html",
+    "https://time.com/5137237/mcdonalds-big-mac-ring-contest",
+    "https://hypebae.com/2018/2/mcdonalds-bling-mac-ring-nadine-ghosn",
+    "https://nationaljeweler.com/articles/7459-mcdonald-s-is-giving-away-a-12-500-bling-mac-ring",
+    "https://ctvnews.ca/business/bling-mac-mcdonald-s-offers-us-12-500-ring-for-valentine-s-day-stunt-1.3794825",
+    "https://in.fashionnetwork.com/news/McDonald-s-creates-12-500-ring-in-Valentine-s-Day-stunt,945573.html"
+  ],
+  "images": [
+    {
+      "src": "521-a-big-mac-ring-had-sapphire-sauce-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Evan-Amos",
+      "page": "https://commons.wikimedia.org/wiki/File:Big_Mac_hamburger.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "521-a-big-mac-ring-had-sapphire-sauce-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Laiyinann",
+      "page": "https://commons.wikimedia.org/wiki/File:Yellow_sapphire_strong_red_fluorescence_Art_Deco_era.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "521-a-big-mac-ring-had-sapphire-sauce-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Parent Géry",
+      "page": "https://commons.wikimedia.org/wiki/File:Grenat_tsavorite(Madagascar).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

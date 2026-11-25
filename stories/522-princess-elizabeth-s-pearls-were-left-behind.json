@@ -1,0 +1,170 @@
+{
+  "id": "522-princess-elizabeth-s-pearls-were-left-behind",
+  "number": 522,
+  "title": "Princess Elizabeth's pearls were left behind",
+  "style": "gouache",
+  "topic": "princess elizabeth wedding 1947 pearls queen anne queen caroline necklaces st james's palace jock colville king haakon limousine westminster abbey 46 pearls 50 pearls bridal portraits",
+  "music": "music-522.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "white",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Princess Elizabeth's pearls were left behind.",
+    "gold": [
+      "pearls",
+      "behind."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Princess Elizabeth's pearls were left behind.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Her parents gave her two pearl necklaces for her 1947 wedding.",
+      "say": "Her parents gave her two pearl necklaces for her nineteen forty seven wedding.",
+      "scene": {
+        "kind": "real",
+        "src": "522-princess-elizabeth-s-pearls-were-left-behind-0.jpg",
+        "fit": "card",
+        "label": "Princess Elizabeth, 1947",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "One was known as Queen Anne's, the other as Queen Caroline's.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Two necklaces"
+      }
+    },
+    {
+      "text": "They were laid out with the gifts at St James's Palace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "St James's Palace",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "On the wedding morning, someone realized the pearls were still there.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Still at the palace",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Her private secretary, Jock Colville, was sent to fetch them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Sent to fetch them",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He borrowed the limousine of King Haakon of Norway.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A borrowed limousine",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The crowds were so thick that he ran part of the way.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Running through crowds",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He got back in time for the bridal portraits.",
+      "scene": {
+        "kind": "real",
+        "src": "522-princess-elizabeth-s-pearls-were-left-behind-1.jpg",
+        "fit": "card",
+        "label": "The wedding portrait",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She wore both necklaces, one of 46 pearls and one of 50.",
+      "say": "She wore both necklaces, one of forty six pearls and one of fifty.",
+      "scene": {
+        "kind": "title",
+        "text": "46 and 50",
+        "sub": "Pearls",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Princess Elizabeth's pearls were left behind. Her parents gave her two pearl necklaces for her 1947 wedding, one known as Queen Anne's and the other as Queen Caroline's. They were laid out with the gifts at St James's Palace. On the wedding morning, someone realized the pearls were still there. Her private secretary, Jock Colville, was sent to fetch them, and he borrowed the limousine of King Haakon of Norway. He got back in time for the bridal portraits. She wore both necklaces, one of 46 pearls and one of 50.",
+    "hashtags": [
+      "#queenelizabeth",
+      "#royalwedding",
+      "#pearls",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.womanandhome.com/us/life/royal-news/the-queens-pearl-jewelry-mishap-she-suffered-on-her-wedding-day-to-prince-philip/",
+    "https://hellomagazine.com/brides/20221118157409/queen-elizabeth-last-minute-wedding-mishap-25k-royal-heirlooms",
+    "https://www.historyofroyalwomen.com/royal-jewels/a-wedding-present-for-a-princess-the-queen-anne-and-queen-caroline-pearl-necklaces/",
+    "https://www.thecourtjeweller.com/2017/11/the-queen-anne-and-queen-caroline-pearl.html",
+    "https://en.wikipedia.org/wiki/Wedding_of_Princess_Elizabeth_and_Philip_Mountbatten",
+    "https://www.royal.uk/70-facts-about-queen-and-duke-edinburghs-wedding"
+  ],
+  "images": [
+    {
+      "src": "522-princess-elizabeth-s-pearls-were-left-behind-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Associated Press",
+      "page": "https://commons.wikimedia.org/wiki/File:Princess_Elizabeth_in_1947.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "522-princess-elizabeth-s-pearls-were-left-behind-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Associated Press",
+      "page": "https://commons.wikimedia.org/wiki/File:Princess_Elizabeth_and_Duke_of_Edinburgh_wedding_portrait.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "526-a-hotel-vending-machine-dispensed-gold",
+  "number": 526,
+  "title": "A hotel vending machine dispensed gold",
+  "style": "jewelbox",
+  "topic": "emirates palace abu dhabi gold to go gold vending machine 2010 ex oriente lux 24 karat gold bars krugerrand maple leaf dirham money back guarantee souvenir bars",
+  "music": "music-526.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A hotel vending machine dispensed gold.",
+    "gold": [
+      "vending",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A hotel vending machine dispensed gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2010, the Emirates Palace hotel in Abu Dhabi installed it.",
+      "say": "In twenty ten, the Emirates Palace hotel in Abu Dhabi installed it.",
+      "scene": {
+        "kind": "title",
+        "text": "2010",
+        "sub": "Abu Dhabi",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "A German company built it and named it Gold To Go.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Gold To Go",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It sold 24 karat gold bars from 1 to 10 grams.",
+      "say": "It sold twenty four karat gold bars from one to ten grams.",
+      "scene": {
+        "kind": "real",
+        "src": "526-a-hotel-vending-machine-dispensed-gold-0.jpg",
+        "fit": "card",
+        "label": "Gold bars",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It also sold gold coins like the Krugerrand and the Maple Leaf.",
+      "scene": {
+        "kind": "real",
+        "src": "526-a-hotel-vending-machine-dispensed-gold-1.jpg",
+        "fit": "card",
+        "label": "A Krugerrand",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The hotel wanted to be the first to offer this golden service.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A world first",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It took dirham notes, and every item carried a money back guarantee.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A money back promise",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The hotel also planned souvenir bars engraved with its logo.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Souvenir bars"
+      }
+    },
+    {
+      "text": "The machine itself was plated in 24 karat gold.",
+      "say": "The machine itself was plated in twenty four karat gold.",
+      "scene": {
+        "kind": "title",
+        "text": "24 karat",
+        "sub": "Gold plated",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A hotel vending machine dispensed gold. In 2010, the Emirates Palace hotel in Abu Dhabi installed a machine called Gold To Go, built by a German company. It sold 24 karat gold bars in sizes from 1 to 10 grams, and gold coins like the Krugerrand and the Maple Leaf. The hotel wanted to be the first to offer this golden service. It took dirham notes, and every item carried a money back guarantee. The hotel also planned souvenir bars engraved with its logo. The machine itself was plated in 24 karat gold.",
+    "hashtags": [
+      "#goldbars",
+      "#abudhabi",
+      "#emiratespalace",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/382052-first-atm-to-dispense-gold-bars",
+    "https://www.rte.ie/news/2010/0513/130976-gold/",
+    "https://www.thenationalnews.com/uae/golden-hole-in-the-wall-at-emirates-palace-1.483455",
+    "https://www.nbcnews.com/news/amp/wbna37130550",
+    "https://www.journaldespalaces.com/en/pressrelease-29130-world-s-first-gold-vending-machine-goes-operational-at-emirates-palace-hotel-in-abu-dhabi.html",
+    "https://www.cityam.com/gulf-hotel-opens-gold-vending-machine/"
+  ],
+  "images": [
+    {
+      "src": "526-a-hotel-vending-machine-dispensed-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Szaaman",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_Ingots_on_white_background.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "526-a-hotel-vending-machine-dispensed-gold-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Slashme",
+      "page": "https://commons.wikimedia.org/wiki/File:1975_1_oz_krugerrand_obverse.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
