@@ -1,77 +1,118 @@
 {
  "queries": [
   {
-   "key": "i-egg",
+   "key": "i-napoleon",
    "commons": [
-    "Rothschild egg Faberg\u00e9",
-    "Faberg\u00e9 clock egg",
-    "Faberg\u00e9 egg cockerel",
-    "Rothschild (Faberg\u00e9 egg)",
-    "Faberg\u00e9 Hermitage egg"
-   ],
-   "max": 8
-  },
-  {
-   "key": "i-kettle2",
-   "commons": [
-    "Salvation Army Christmas kettle",
-    "Red Kettle Campaign",
-    "Salvation Army kettle",
-    "Annapolis Maryland City Dock"
-   ],
-   "max": 8
-  },
-  {
-   "key": "i-tiff",
-   "commons": [
-    "Tiffany & Co. blue box",
-    "Tiffany bracelet",
-    "Tiffany & Co. jewelry",
-    "Tiffany & Co. Fifth Avenue"
-   ],
-   "max": 8
-  },
-  {
-   "key": "i-eliz",
-   "commons": [
-    "Elizabeth I of England portrait",
-    "Elizabeth I Armada Portrait",
-    "Elizabethan dress"
-   ],
-   "max": 6
-  },
-  {
-   "key": "i-winston",
-   "commons": [
-    "Harry Winston",
-    "Harry Winston Inc",
-    "Harry Winston jewelry"
-   ],
-   "max": 6
-  },
-  {
-   "key": "i-frank",
-   "commons": [
-    "Louis Comfort Tiffany",
-    "Favrile glass",
-    "Tiffany Studios jewelry",
-    "Meta Overbeck",
-    "Scarab beetle jewelry",
-    "Guillermo del Toro",
-    "Frankenstein 1818 title page",
-    "Mary Shelley"
+    "Napoleon Bonaparte",
+    "Battle of Waterloo",
+    "Napoleon bicorne hat",
+    "Napoleon carriage Waterloo",
+    "Frederick William III of Prussia"
    ],
    "max": 10
   },
   {
-   "key": "i-cartier",
+   "key": "i-biscuit",
    "commons": [
-    "Cartier necklace",
-    "Cartier Paris",
-    "Jeanne Toussaint",
-    "Cartier 1931 necklace"
+    "Imperial State Crown",
+    "Windsor Castle",
+    "Bath Oliver biscuit",
+    "George VI",
+    "Crown Jewels Tower of London",
+    "Koh-i-Noor crown"
    ],
-   "max": 8
+   "max": 10
+  },
+  {
+   "key": "i-piggy",
+   "commons": [
+    "Hope Diamond",
+    "Jim Henson",
+    "Janet Annenberg Hooker Hall",
+    "National Museum of American History",
+    "Muppets"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-tenner",
+   "commons": [
+    "Cushion cut diamond",
+    "Old mine cut diamond",
+    "Sotheby's London",
+    "Car boot sale",
+    "Diamond ring"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-pear",
+   "commons": [
+    "Faberge flower",
+    "Faberge",
+    "Antiques Roadshow",
+    "Black Country Living Museum",
+    "Worcestershire Yeomanry Boer War",
+    "Pear blossom"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-burges",
+   "commons": [
+    "William Burges",
+    "Cardiff Castle William Burges",
+    "Victorian brooch",
+    "Antiques Roadshow",
+    "Geoffrey Munn"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-monopoly",
+   "commons": [
+    "Monopoly board game",
+    "Sidney Mobell",
+    "Monopoly pieces",
+    "National Museum of Natural History gems",
+    "Mickey Mouse watch"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-bra",
+   "commons": [
+    "Victoria's Secret Fashion Show",
+    "Tyra Banks",
+    "Heidi Klum",
+    "Gisele Bundchen",
+    "Harry Winston diamond",
+    "Thai ruby",
+    "Pear shaped ruby"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-barbie",
+   "commons": [
+    "Barbie doll",
+    "Argyle diamond mine",
+    "Pink diamond",
+    "Christie's Rockefeller Center",
+    "Picasso Cubism"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-panther",
+   "commons": [
+    "Pink diamond",
+    "Claudia Cardinale",
+    "Henry Mancini",
+    "Peter Sellers",
+    "Blake Edwards"
+   ],
+   "max": 10
   }
  ]
 }
