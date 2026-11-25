@@ -1,0 +1,156 @@
+{
+  "id": "516-barbie-once-wore-a-real-pink-diamond",
+  "number": 516,
+  "title": "Barbie once wore a real pink diamond",
+  "style": "gouache",
+  "topic": "barbie pink diamond stefano canturi mattel one of a kind collar necklace 3 carats white diamonds cubism one carat argyle mine western australia christie's new york october 20 2010 302,500 dollars breast cancer research foundation",
+  "music": "music-516.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "pink",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Barbie once wore a real pink diamond.",
+    "gold": [
+      "wore",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Barbie once wore a real pink diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Mattel hired jeweler Stefano Canturi for a one of a kind Barbie.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A one of a kind Barbie",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Canturi also designed her black strapless dress and pink heels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Dress and heels",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Her collar necklace holds three carats of white diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A diamond collar"
+      }
+    },
+    {
+      "text": "The design was inspired by Cubism.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Inspired by Cubism",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The center stone is a natural pink diamond of one carat.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A one carat pink"
+      }
+    },
+    {
+      "text": "It came from the Argyle mine in Western Australia.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "The Argyle mine",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Christie's New York sold her on October 20, 2010.",
+      "say": "Christie's New York sold her on October twentieth, twenty ten.",
+      "scene": {
+        "kind": "title",
+        "text": "2010",
+        "sub": "Christie's",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "She sold for 302,500 dollars, the most ever paid for a Barbie.",
+      "say": "She sold for three hundred two thousand, five hundred dollars, the most ever paid for a Barbie.",
+      "scene": {
+        "kind": "title",
+        "text": "302,500",
+        "sub": "Dollars",
+        "piece": "bracelet",
+        "stone": "diamond",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "All proceeds went to the Breast Cancer Research Foundation.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "For a cause",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Barbie once wore a real pink diamond. Mattel hired jeweler Stefano Canturi for a one of a kind Barbie. Canturi also designed her black strapless dress and pink heels. Her collar necklace holds three carats of white diamonds, and the design was inspired by Cubism. The center stone is a natural pink diamond of one carat from the Argyle mine in Western Australia. Christie's New York sold her on October 20, 2010, for 302,500 dollars, the most ever paid for a Barbie. All proceeds went to the Breast Cancer Research Foundation.",
+    "hashtags": [
+      "#barbie",
+      "#pinkdiamond",
+      "#christies",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.aol.com/2010/10/21/barbie-with-diamond-necklace-sells-for-302-500/",
+    "https://www.guinnessworldrecords.com/world-records/highest-price-paid-for-a-barbie-doll-in-an-auction",
+    "https://newsfeed.time.com/?p=28797",
+    "https://jewellerybusiness.com/news/barbie-dons-pink-diamond-choker-for-charity-auction/print",
+    "https://au.news.yahoo.com/rare-barbie-west-aussie-pink-030326152.html",
+    "https://www.luxuo.com/culture/auctions/barbie-stefano-canturi-auction.html",
+    "https://www.christies.com.cn/lot/lot-5363451"
+  ],
+  "images": [],
+  "no_real_image": "free pictures of Barbie, the doll or the Argyle mine are only CC BY-SA, and the rest are unrelated"
+}

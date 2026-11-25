@@ -1,0 +1,176 @@
+{
+  "id": "511-a-ten-pound-ring-hid-a-diamond",
+  "number": 511,
+  "title": "A ten pound ring hid a diamond",
+  "style": "jewelbox",
+  "topic": "ten pound ring car boot sale diamond tenner sotheby's london june 2017 26.27 carats cushion cut silver mount 656,750 pounds estimate 350,000 gia",
+  "music": "music-511.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A ten pound ring hid a diamond.",
+    "gold": [
+      "hid",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A ten pound ring hid a diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 1980s, a woman paid ten pounds for a ring.",
+      "say": "In the nineteen eighties, a woman paid ten pounds for a ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A ten pound ring",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "She bought it at a car boot sale in west London.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A car boot sale",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "She thought it was costume jewelry and wore it for years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Costume jewelry"
+      }
+    },
+    {
+      "text": "In 2017, a local jeweler suspected the stone was a diamond.",
+      "say": "In twenty seventeen, a local jeweler suspected the stone was a diamond.",
+      "scene": {
+        "kind": "title",
+        "text": "2017",
+        "sub": "A jeweler's hunch",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The jeweler sent her to Sotheby's.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Sotheby's",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Experts graded the cushion cut diamond at 26.27 carats.",
+      "say": "Experts graded the cushion cut diamond at twenty six point two seven carats.",
+      "scene": {
+        "kind": "real",
+        "src": "511-a-ten-pound-ring-hid-a-diamond-0.jpg",
+        "fit": "card",
+        "label": "A cushion cut diamond",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its tarnished silver setting dated from the nineteenth century.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A tarnished setting",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Sotheby's called it the Tenner.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "The Tenner",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It sold in London on June 7, 2017.",
+      "say": "It sold in London on June seventh, twenty seventeen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Sold in London",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It sold for 656,750 pounds, nearly double the estimate.",
+      "say": "It sold for six hundred fifty six thousand, seven hundred fifty pounds, nearly double the estimate.",
+      "scene": {
+        "kind": "title",
+        "text": "656,750",
+        "sub": "Pounds",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A ten pound ring hid a diamond. In the 1980s, a woman paid ten pounds for a ring at a car boot sale in west London. She thought it was costume jewelry and wore it for years. In 2017, a local jeweler suspected the stone was a diamond and sent her to Sotheby's. The Gemological Institute of America graded it at 26.27 carats. Sotheby's called it the Tenner and estimated up to 350,000 pounds. It sold in London on June 7, 2017, for 656,750 pounds, nearly double the estimate.",
+    "hashtags": [
+      "#diamond",
+      "#sothebys",
+      "#carbootsale",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/articles/editorial-a-rare-diamond-discovered-at-a-car-boot-sale",
+    "https://www.itv.com/news/2017-06-07/car-boot-sale-ring-10-sells-for-656-000-at-auction",
+    "https://amp.cnn.com/cnn/style/article/car-boot-sale-diamond-ring-sells-for-847k"
+  ],
+  "images": [
+    {
+      "src": "511-a-ten-pound-ring-hid-a-diamond-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Darla Sondrol",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamond_(GeoDIL_number_-_2726).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

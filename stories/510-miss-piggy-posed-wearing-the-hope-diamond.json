@@ -1,0 +1,188 @@
+{
+  "id": "510-miss-piggy-posed-wearing-the-hope-diamond",
+  "number": 510,
+  "title": "Miss Piggy posed wearing the Hope Diamond",
+  "style": "gouache",
+  "topic": "miss piggy hope diamond smithsonian 2013 henson family donation bonnie erickson 1974 pearls seam jim henson birthday photo shoot cade martin dorothy ruby slippers puppets props",
+  "music": "music-510.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "white",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Miss Piggy posed wearing the Hope Diamond.",
+    "gold": [
+      "posed",
+      "Diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Miss Piggy posed wearing the Hope Diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Bonnie Erickson designed Miss Piggy in 1974.",
+      "say": "Bonnie Erickson designed Miss Piggy in nineteen seventy four.",
+      "scene": {
+        "kind": "real",
+        "src": "510-miss-piggy-posed-wearing-the-hope-diamond-0.jpg",
+        "fit": "card",
+        "label": "Henson with Miss Piggy",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Her pearl necklace hides the seam where her neck meets her body.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A hidden seam",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In 2013, the Henson family gave her to the Smithsonian.",
+      "say": "In twenty thirteen, the Henson family gave her to the Smithsonian.",
+      "scene": {
+        "kind": "title",
+        "text": "2013",
+        "sub": "To the Smithsonian",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum"
+      }
+    },
+    {
+      "text": "That day would have been Jim Henson's seventy seventh birthday.",
+      "scene": {
+        "kind": "real",
+        "src": "510-miss-piggy-posed-wearing-the-hope-diamond-1.jpg",
+        "fit": "card",
+        "label": "Jim Henson",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Smithsonian welcomed her with a photo shoot.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A photo shoot",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "She posed wearing a necklace that held the Hope Diamond.",
+      "scene": {
+        "kind": "real",
+        "src": "510-miss-piggy-posed-wearing-the-hope-diamond-2.jpg",
+        "fit": "card",
+        "label": "The Hope Diamond",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Cade Martin shot the photos.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Cade Martin",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "She also posed with Dorothy's ruby slippers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Ruby slippers"
+      }
+    },
+    {
+      "text": "The Hope Diamond is kept in the Natural History museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A gem hall",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "More than 20 puppets and props joined the collection that day.",
+      "say": "More than twenty puppets and props joined the collection that day.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A new collection",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Miss Piggy posed wearing the Hope Diamond. Bonnie Erickson designed her in 1974, and her pearl necklace hides the seam where her neck meets her body. In 2013, the Henson family gave her to the Smithsonian, on what would have been Jim Henson's seventy seventh birthday. The Smithsonian welcomed her with a photo shoot, where she posed wearing a necklace that held the Hope Diamond. Cade Martin shot the photos, and she also posed with Dorothy's ruby slippers. More than 20 puppets and props joined the collection that day.",
+    "hashtags": [
+      "#misspiggy",
+      "#hopediamond",
+      "#smithsonian",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.smithsonianmag.com/arts-culture/the-muppets-take-the-smithsonian-2232/",
+    "https://www.foxnews.com/travel/miss-piggy-and-kermit-back-together-at-smithsonian",
+    "https://www.smithsonianmag.com/arts-culture/the-woman-behind-miss-piggy-11290861/",
+    "https://www.laughingplace.com/w/?p=1066333",
+    "https://www.cinemablend.com/news/2495601/Why-Miss-Piggy-Has-Always-Worn-Pearls",
+    "https://photocontest.smithsonianmag.com/photocontest/detail/miss-piggy-and-the-hope-diamond/",
+    "https://www.mprnews.org/story/2013/09/24/miss-piggy-joins-kermit-in-smithsonian-collection"
+  ],
+  "images": [
+    {
+      "src": "510-miss-piggy-posed-wearing-the-hope-diamond-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Gotfryd, Bernard, photographer",
+      "page": "https://commons.wikimedia.org/wiki/File:Jim_Henson,_creator,_The_Muppets_-full.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "510-miss-piggy-posed-wearing-the-hope-diamond-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Gotfryd, Bernard, photographer",
+      "page": "https://commons.wikimedia.org/wiki/File:Jim_Henson,_creator,_The_Muppets.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "510-miss-piggy-posed-wearing-the-hope-diamond-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Moskey71 at English Wikipedia",
+      "page": "https://commons.wikimedia.org/wiki/File:HopeDiamond.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

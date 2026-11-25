@@ -1,0 +1,179 @@
+{
+  "id": "514-monopoly-s-dice-once-had-diamond-spots",
+  "number": 514,
+  "title": "Monopoly's dice once had diamond spots",
+  "style": "jewelbox",
+  "topic": "sidney mobell gold monopoly set 1988 world monopoly tournament london san francisco jeweler sardine can mousetrap 23 karat gold plated board solid gold pieces rubies sapphires houses hotels guinness 42 diamonds dice smithsonian",
+  "music": "music-514.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Monopoly's dice once had diamond spots.",
+    "gold": [
+      "dice",
+      "spots."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Monopoly's dice once had diamond spots.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Sidney Mobell was a jeweler in San Francisco.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A San Francisco jeweler",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Each year, he made a jeweled everyday object to stand out.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A yearly stunt"
+      }
+    },
+    {
+      "text": "He once made a gold sardine can.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A gold sardine can",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Another was a gold mousetrap with a diamond cheese wedge.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A diamond cheese wedge",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1988, he heard about the World Monopoly Tournament in London.",
+      "say": "In nineteen eighty eight, he heard about the World Monopoly Tournament in London.",
+      "scene": {
+        "kind": "real",
+        "src": "514-monopoly-s-dice-once-had-diamond-spots-0.jpg",
+        "fit": "card",
+        "label": "A Monopoly board",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "So he built a Monopoly set in gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A set in gold",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The board is gold plated, and the pieces are solid gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Solid gold pieces",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Rubies and sapphires top the houses and hotels.",
+      "scene": {
+        "kind": "real",
+        "src": "514-monopoly-s-dice-once-had-diamond-spots-1.jpg",
+        "fit": "card",
+        "label": "Natural History sapphires",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Guinness lists it as the most expensive Monopoly set.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A Guinness record"
+      }
+    },
+    {
+      "text": "Its dice spots are 42 full cut diamonds.",
+      "say": "Its dice spots are forty two full cut diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "42",
+        "sub": "Diamonds",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Monopoly's dice once had diamond spots. Sidney Mobell was a jeweler in San Francisco, and each year he made a jeweled everyday object to stand out. He once made a gold sardine can, and a gold mousetrap with a diamond cheese wedge. In 1988, he heard about the World Monopoly Tournament in London, so he built a Monopoly set in gold. The board is gold plated, and the pieces are solid gold. Rubies and sapphires top the houses and hotels. Guinness lists it as the most expensive Monopoly set, and the Smithsonian keeps it in a gem vault. Its dice spots are 42 full cut diamonds.",
+    "hashtags": [
+      "#monopoly",
+      "#goldmonopoly",
+      "#sidneymobell",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2019/11/18/check-out-monopoly-board-you-wish-you-had-kid/",
+    "https://www.smithsonianmag.com/smithsonian-institution/the-jeweled-art-of-sidney-mobell-86945772/",
+    "https://www.dnainfo.com/new-york/20101015/downtown/solid-gold-monopoly-set-arrives-on-wall-street",
+    "https://www.cyprus-mail.com/2021/06/28/board-beyond-belief-the-worlds-most-extravagant-monopoly-set",
+    "https://www.guinnessworldrecords.com/world-records/most-expensive-board-game-of-monopoly",
+    "https://www.jckonline.com/?p=160242"
+  ],
+  "images": [
+    {
+      "src": "514-monopoly-s-dice-once-had-diamond-spots-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Hasbro",
+      "page": "https://commons.wikimedia.org/wiki/File:Monopoly-board.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "514-monopoly-s-dice-once-had-diamond-spots-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jorfer",
+      "page": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_Sapphires.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

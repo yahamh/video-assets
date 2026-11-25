@@ -1,0 +1,173 @@
+{
+  "id": "508-a-stuck-carriage-cost-napoleon-a-brooch",
+  "number": 508,
+  "title": "A stuck carriage cost Napoleon a brooch",
+  "style": "jewelbox",
+  "topic": "napoleon waterloo 1815 stuck carriage mud diamond brooch hat ornament 13.04 carat old mine cut prussian king friedrich wilhelm hohenzollern sotheby's geneva november 2025",
+  "music": "music-508.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A stuck carriage cost Napoleon a brooch.",
+    "gold": [
+      "stuck",
+      "brooch."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A stuck carriage cost Napoleon a brooch.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1815, his carriage got stuck in mud after Waterloo.",
+      "say": "In eighteen fifteen, his carriage got stuck in mud after Waterloo.",
+      "scene": {
+        "kind": "real",
+        "src": "508-a-stuck-carriage-cost-napoleon-a-brooch-0.jpg",
+        "fit": "card",
+        "label": "Napoleon, by Delaroche",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He left the carriage and everything in it behind.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Left behind",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It held medals and a jewelry box of loose diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A box of diamonds",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "One piece was a diamond brooch made around 1810.",
+      "say": "One piece was a diamond brooch made around eighteen ten.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A diamond brooch",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It was most likely a hat ornament for special occasions.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A hat ornament"
+      }
+    },
+    {
+      "text": "Nearly 100 old mine cut diamonds surround the center stone.",
+      "say": "Nearly one hundred old mine cut diamonds surround the center stone.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Old mine cuts",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Three days after the battle, it was offered to Prussia's king.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Offered to a king"
+      }
+    },
+    {
+      "text": "It then stayed with the House of Hohenzollern for generations.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "The Hohenzollerns",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Sotheby's sold it in Geneva on November 12, 2025.",
+      "say": "Sotheby's sold it in Geneva on November twelfth, twenty twenty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Sotheby's Geneva",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Its center diamond weighs 13.04 carats.",
+      "say": "Its center diamond weighs thirteen point zero four carats.",
+      "scene": {
+        "kind": "title",
+        "text": "13.04",
+        "sub": "Carats",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A stuck carriage cost Napoleon a brooch. In 1815, his carriage got stuck in mud after Waterloo, and he left it and everything in it behind. It held medals and a jewelry box of loose diamonds. One piece was a diamond brooch made around 1810, most likely a hat ornament for special occasions. Nearly 100 old mine cut diamonds surround its center stone. Three days after the battle, it was offered to Prussia's king, and it stayed with the House of Hohenzollern for generations. Sotheby's sold it in Geneva on November 12, 2025. Its center diamond weighs 13.04 carats.",
+    "hashtags": [
+      "#napoleon",
+      "#waterloo",
+      "#sothebys",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.cbsnews.com/news/diamond-brooch-napoleon-lost-fleeing-waterloo-sells-auction-sothebys/",
+    "https://nationaljeweler.com/articles/14447-napoleon-s-diamond-brooch-blows-away-auction-estimates",
+    "https://www.countrylife.co.uk/luxury/how-to-get-your-hands-on-some-napoleonic-jewels-the-legal-way"
+  ],
+  "images": [
+    {
+      "src": "508-a-stuck-carriage-cost-napoleon-a-brooch-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Paul Delaroche",
+      "page": "https://commons.wikimedia.org/wiki/File:Napoleon_Paul_Delaroche.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

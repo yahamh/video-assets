@@ -1,0 +1,171 @@
+{
+  "id": "513-a-lost-brooch-cost-under-twenty-pounds",
+  "number": 513,
+  "title": "A lost brooch cost under twenty pounds",
+  "style": "gouache",
+  "topic": "william burges 1864 bridesmaid brooches victoria and albert museum drawings nine antiques roadshow most wanted finds geoffrey munn silver brooch lapis coral gildings 1988 under 20 pounds",
+  "music": "music-513.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "topaz",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A lost brooch cost under twenty pounds.",
+    "gold": [
+      "lost",
+      "pounds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A lost brooch cost under twenty pounds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1864, William Burges designed brooches for wedding bridesmaids.",
+      "say": "In eighteen sixty four, William Burges designed brooches for wedding bridesmaids.",
+      "scene": {
+        "kind": "real",
+        "src": "513-a-lost-brooch-cost-under-twenty-pounds-0.jpg",
+        "fit": "card",
+        "label": "A washstand by Burges",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Victoria and Albert Museum holds his drawings for nine of them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Nine drawings",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The brooches themselves vanished long ago.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Long lost",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Decades earlier, a buyer bought a silver brooch at an antiques market.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A market find",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Its stones included lapis and coral.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Lapis and coral"
+      }
+    },
+    {
+      "text": "Antiques Roadshow's treasure hunt showed the old drawings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A treasure hunt",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The owner compared the brooch with a drawing, and it matched.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A perfect match"
+      }
+    },
+    {
+      "text": "The brooch had been made for a bridesmaid.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A bridesmaid's brooch",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It later sold at a Gildings auction.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Sold at auction",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It had cost under 20 pounds in 1988.",
+      "say": "It had cost under twenty pounds in nineteen eighty eight.",
+      "scene": {
+        "kind": "title",
+        "text": "1988",
+        "sub": "Under 20 pounds",
+        "piece": "ring",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A lost brooch cost under twenty pounds. In 1864, William Burges designed brooches for wedding bridesmaids. The Victoria and Albert Museum holds his drawings for nine of them, but the brooches themselves vanished long ago. Decades earlier, a buyer bought a silver brooch at an English antiques market. Its stones included lapis and coral. Antiques Roadshow's treasure hunt showed the old drawings, and the owner compared the brooch with one of them, and it matched. It later sold at a Gildings auction. It had cost under 20 pounds in 1988.",
+    "hashtags": [
+      "#williamburges",
+      "#antiquesroadshow",
+      "#brooch",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.gildings.co.uk/gibson-burges-brooch",
+    "https://www.smithsonianmag.com/smart-news/this-bargain-brooch-is-now-valued-at-19000-thanks-to-antiques-roadshow-treasure-hunt-180983528/",
+    "https://news.artnet.com/art-world/a-womans-humble-antique-market-find-sells-for-15000-at-auction-2455766",
+    "https://news.artnet.com/market/antiques-roadshow-victorian-brooch-bought-for-25-could-be-worth-19000-2415290",
+    "https://www.thecollector.com/a-25-brooch-turns-out-to-be-a-rare-victorian-treasure"
+  ],
+  "images": [
+    {
+      "src": "513-a-lost-brooch-cost-under-twenty-pounds-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "14GTR",
+      "page": "https://commons.wikimedia.org/wiki/File:Washstand_by_William_Burges_01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

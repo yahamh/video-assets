@@ -1,0 +1,171 @@
+{
+  "id": "515-harry-winston-once-made-a-bra",
+  "number": 515,
+  "title": "Harry Winston once made a bra",
+  "style": "deco",
+  "topic": "victoria's secret fantasy bra harry winston 1997 diamond dream bra tyra banks 42 carat pear shaped diamond 2000 gisele bundchen red hot fantasy bra 300 carats thai rubies 15 million guinness 2001 heidi klum 2013 royal fantasy bra 52 carat ruby",
+  "music": "music-515.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Harry Winston once made a bra.",
+    "gold": [
+      "Winston",
+      "bra."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Harry Winston once made a bra.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1997, Tyra Banks wore Victoria's Secret's Diamond Dream Bra.",
+      "say": "In nineteen ninety seven, Tyra Banks wore Victoria's Secret's Diamond Dream Bra.",
+      "scene": {
+        "kind": "title",
+        "text": "1997",
+        "sub": "Diamond Dream",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Its center was a pear shaped diamond of 42 carats.",
+      "say": "Its center was a pear shaped diamond of forty two carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A 42 carat pear",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 2000, Gisele Bündchen's ruby bra was priced at 15 million dollars.",
+      "say": "In two thousand, Gisele Bündchen's ruby bra was priced at fifteen million dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A ruby bra",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It carried about 300 carats of Thai rubies.",
+      "say": "It carried about three hundred carats of Thai rubies.",
+      "scene": {
+        "kind": "real",
+        "src": "515-harry-winston-once-made-a-bra-0.jpg",
+        "fit": "card",
+        "label": "Natural History rubies",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Guinness listed it as the most expensive lingerie.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A Guinness record",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In 2001, Heidi Klum wore the first Fantasy Bra on the runway.",
+      "say": "In two thousand one, Heidi Klum wore the first Fantasy Bra on the runway.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "On the runway",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It held a 90 carat emerald cut diamond and 1,200 pink sapphires.",
+      "say": "It held a ninety carat emerald cut diamond and twelve hundred pink sapphires.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A 90 carat diamond"
+      }
+    },
+    {
+      "text": "In 2003, her clasp broke on The Tonight Show.",
+      "say": "In two thousand three, her clasp broke on The Tonight Show.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A broken clasp",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 2013, the Royal Fantasy Bra had a 52 carat ruby.",
+      "say": "In twenty thirteen, the Royal Fantasy Bra had a fifty two carat ruby.",
+      "scene": {
+        "kind": "title",
+        "text": "2013",
+        "sub": "Royal Fantasy",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Harry Winston once made a bra. In 1997, Tyra Banks wore Victoria's Secret's Diamond Dream Bra, with a pear shaped diamond of 42 carats at its center. In 2000, Gisele Bündchen's ruby bra carried about 300 carats of Thai rubies and was priced at 15 million dollars. Guinness listed it as the most expensive lingerie. In 2001, Heidi Klum wore the first Fantasy Bra on the runway, with a 90 carat emerald cut diamond. In 2013, the Royal Fantasy Bra had a 52 carat ruby.",
+    "hashtags": [
+      "#victoriassecret",
+      "#harrywinston",
+      "#fantasybra",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.cbsnews.com/sanfrancisco/news/the-fantasy-bras-history/",
+    "https://www.gemrockauctions.com/learn/news/victorias-secret-fantasy-bra-throughout-years",
+    "https://thediamondcollective.world/discover/victorias-secret-fantasy-bra/",
+    "https://www.cnbc.com/2016/05/04/mouawads-finest-victorias-secret-fantasy-bras-lingerie-over-the-years.html",
+    "https://www.ibtimes.co.uk/kylie-jenner-50m-victorias-secret-fantasy-bra-1826677",
+    "https://www.hellomagazine.com/fashion/481795/victorias-secret-fantasy-bras-photos",
+    "https://www.upi.com/Entertainment_News/2003/10/16/Heidi-Klums-a-pricey-bra-buster/78151066324170/"
+  ],
+  "images": [
+    {
+      "src": "515-harry-winston-once-made-a-bra-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jorfer",
+      "page": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_Rubies.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

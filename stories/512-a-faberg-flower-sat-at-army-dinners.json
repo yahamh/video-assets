@@ -1,0 +1,188 @@
+{
+  "id": "512-a-faberg-flower-sat-at-army-dinners",
+  "number": 512,
+  "title": "A Fabergé flower sat at army dinners",
+  "style": "deco",
+  "topic": "faberge pear blossom antiques roadshow 2017 black country living museum rock crystal vase worcestershire hussars south africa 1900 countess of dudley geoffrey munn 1 million pounds 80 flower studies",
+  "music": "music-512.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "peridot",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Fabergé flower sat at army dinners.",
+    "gold": [
+      "flower",
+      "dinners."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Fabergé flower sat at army dinners.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2017, two soldiers in dress uniform visited Antiques Roadshow.",
+      "say": "In twenty seventeen, two soldiers in dress uniform visited Antiques Roadshow.",
+      "scene": {
+        "kind": "real",
+        "src": "512-a-faberg-flower-sat-at-army-dinners-0.jpg",
+        "fit": "card",
+        "label": "Antiques Roadshow filming",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They carried a pear blossom inside a rock crystal vase.",
+      "scene": {
+        "kind": "real",
+        "src": "512-a-faberg-flower-sat-at-army-dinners-1.jpg",
+        "fit": "card",
+        "label": "A real pear blossom",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its stem is gold, and its blossoms are enamel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Gold and enamel",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Each silver stamen holds a tiny diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Tiny diamonds",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The vase is engraved for the Queen's Own Worcestershire Hussars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A regiment's vase",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "A countess gave it to the regiment as a trophy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A regiment's trophy",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The pear matches the three pears on the county's arms.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Three pears",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "For decades, it sat on the table at regimental dinners.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Regimental dinners"
+      }
+    },
+    {
+      "text": "Geoffrey Munn valued it at 1 million pounds.",
+      "say": "Geoffrey Munn valued it at one million pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "1 million",
+        "sub": "Pounds",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Only about 80 Fabergé flower studies survive today.",
+      "say": "Only about eighty Fabergé flower studies survive today.",
+      "scene": {
+        "kind": "real",
+        "src": "512-a-faberg-flower-sat-at-army-dinners-2.jpg",
+        "fit": "card",
+        "label": "Peter Carl Fabergé",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Fabergé flower sat at army dinners. In 2017, two soldiers in dress uniform visited Antiques Roadshow with a pear blossom in a rock crystal vase. Its stem is gold, its blossoms are enamel, and each silver stamen holds a tiny diamond. The vase is engraved for the Queen's Own Worcestershire Hussars. A countess gave it to the regiment as a trophy, and the pear matches the three pears on the county's arms. For decades, it sat on the table at regimental dinners. Geoffrey Munn valued it at one million pounds. Only about 80 Fabergé flower studies survive today.",
+    "hashtags": [
+      "#faberge",
+      "#antiquesroadshow",
+      "#fabergeflower",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://news.artnet.com/market/faberge-flower-antiques-roadshow-1002794",
+    "https://www.forcesnews.com/news/army-regiments-rare-ps1m-jewel-sets-pulse-racing",
+    "https://www.faberge.com/blogs/news/27-million-faberge-flower-stuns-on-antiques-roadshow",
+    "https://www.thecourtjeweller.com/2025/11/a-faberge-treasure-commissioned-to-honor-a-british-army-regiment.html"
+  ],
+  "images": [
+    {
+      "src": "512-a-faberg-flower-sat-at-army-dinners-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Darrendeans",
+      "page": "https://commons.wikimedia.org/wiki/File:BBC_Antiques_Roadshow_filming_at_Media_City_2018.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "512-a-faberg-flower-sat-at-army-dinners-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "El tommo",
+      "page": "https://commons.wikimedia.org/wiki/File:Pear_Blossom_Williams_Christ.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "512-a-faberg-flower-sat-at-army-dinners-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown photographer",
+      "page": "https://commons.wikimedia.org/wiki/File:Peter_Carl_Faberg%C3%A9.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

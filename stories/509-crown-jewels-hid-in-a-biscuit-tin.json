@@ -1,0 +1,179 @@
+{
+  "id": "509-crown-jewels-hid-in-a-biscuit-tin",
+  "number": 509,
+  "title": "Crown jewels hid in a biscuit tin",
+  "style": "deco",
+  "topic": "crown jewels biscuit tin bath oliver 1939 windsor castle tower of london owen morshead george vi koh i noor cullinan glass jar cotton wool surgical tape chalk strong room sally port 2018 alastair bruce",
+  "music": "music-509.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "amethyst",
+    "metal": "platinum",
+    "stones": 9
+  },
+  "hook": {
+    "text": "Crown jewels hid in a biscuit tin.",
+    "gold": [
+      "biscuit",
+      "tin."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Crown jewels hid in a biscuit tin.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1939, the jewels moved from the Tower to Windsor Castle.",
+      "say": "In nineteen thirty nine, the jewels moved from the Tower to Windsor Castle.",
+      "scene": {
+        "kind": "title",
+        "text": "1939",
+        "sub": "To Windsor",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Sir Owen Morshead, the Royal Librarian, guarded them in a vault.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A hidden vault"
+      }
+    },
+    {
+      "text": "The king ordered about a dozen big stones pried from their settings.",
+      "scene": {
+        "kind": "real",
+        "src": "509-crown-jewels-hid-in-a-biscuit-tin-0.jpg",
+        "fit": "card",
+        "label": "King George VI",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They included the Kohinoor and parts of the Cullinan.",
+      "scene": {
+        "kind": "real",
+        "src": "509-crown-jewels-hid-in-a-biscuit-tin-1.jpg",
+        "fit": "card",
+        "label": "The Imperial State Crown",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The stones went in cotton wool inside a glass preserving jar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "A preserving jar",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A note signed by the king went in with them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A royal note",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Then the jar was sealed inside a Bath Oliver biscuit tin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A biscuit tin",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A secret exit was dug into two chalk strong rooms.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Chalk strong rooms",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In 2018, Alastair Bruce revealed it from Morshead's letters.",
+      "say": "In twenty eighteen, Alastair Bruce revealed it from Morshead's letters.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Old letters",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The tin was closed with surgical tape.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Surgical tape"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Crown jewels hid in a biscuit tin. In 1939, the jewels moved from the Tower of London to Windsor Castle, where Sir Owen Morshead guarded them in a vault. The king ordered about a dozen big stones pried from their settings, including the Kohinoor and parts of the Cullinan. They went in cotton wool inside a glass preserving jar, with a note signed by the king. Then the jar was sealed inside a Bath Oliver biscuit tin. A secret exit was dug into two chalk strong rooms, and the chalk was covered so aircraft could not see it. In 2018, Alastair Bruce revealed it from Morshead's letters. The tin was closed with surgical tape.",
+    "hashtags": [
+      "#crownjewels",
+      "#windsorcastle",
+      "#kohinoor",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.carolineshenton.co.uk/the-crown-jewels-in-wartime/",
+    "https://achurchill.substack.com/p/free-article-hiding-the-crown-jewels",
+    "https://www.itv.com/news/2018-01-12/crown-jewels-windsor-castle-queen-documentary",
+    "https://www.huffingtonpost.co.uk/entry/crown-jewels-hidden-from-nazis_uk_5a586e8be4b04df054f7aaeb",
+    "https://www.hellomagazine.com/royalty/381763/the-queen-crown-jewels-biscuit-tin",
+    "https://www.yorkshirepost.co.uk/news/uk-news/crumbs-royals-hid-gems-biscuit-tin-during-blitz-1764962"
+  ],
+  "images": [
+    {
+      "src": "509-crown-jewels-hid-in-a-biscuit-tin-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Matson Photo Service",
+      "page": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "509-crown-jewels-hid-in-a-biscuit-tin-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "User:Aleister Crowley (crop and improvements CSvBibra )",
+      "page": "https://commons.wikimedia.org/wiki/File:Imperial_State_Crown2.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
