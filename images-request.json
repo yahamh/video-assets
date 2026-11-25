@@ -1,116 +1,121 @@
 {
  "queries": [
   {
-   "key": "i-napoleon",
+   "key": "i-tiffapr",
    "commons": [
-    "Napoleon Bonaparte",
-    "Battle of Waterloo",
-    "Napoleon bicorne hat",
-    "Napoleon carriage Waterloo",
-    "Frederick William III of Prussia"
+    "Tiffany & Co. Rodeo Drive",
+    "Tiffany Diamond",
+    "Tiffany & Co. Fifth Avenue",
+    "Tiffany blue box",
+    "Sneakers",
+    "Gold coin"
    ],
    "max": 10
   },
   {
-   "key": "i-biscuit",
+   "key": "i-mms",
    "commons": [
-    "Imperial State Crown",
-    "Windsor Castle",
-    "Bath Oliver biscuit",
-    "George VI",
-    "Crown Jewels Tower of London",
-    "Koh-i-Noor crown"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-piggy",
-   "commons": [
-    "Hope Diamond",
-    "Jim Henson",
-    "Janet Annenberg Hooker Hall",
-    "National Museum of American History",
-    "Muppets"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-tenner",
-   "commons": [
-    "Cushion cut diamond",
-    "Old mine cut diamond",
-    "Sotheby's London",
-    "Car boot sale",
+    "M&M's candy",
+    "Peanut M&M's",
+    "Lombardi Trophy",
+    "Super Bowl LVIII",
+    "Lab-grown diamond",
     "Diamond ring"
    ],
    "max": 10
   },
   {
-   "key": "i-pear",
+   "key": "i-ranch",
    "commons": [
-    "Faberge flower",
-    "Faberge",
-    "Antiques Roadshow",
-    "Black Country Living Museum",
-    "Worcestershire Yeomanry Boer War",
-    "Pear blossom"
+    "Ranch dressing",
+    "Hidden Valley Ranch",
+    "Round brilliant cut diamond",
+    "National Ranch Day",
+    "Synthetic diamond"
    ],
    "max": 10
   },
   {
-   "key": "i-burges",
+   "key": "i-bling",
    "commons": [
-    "William Burges",
-    "Cardiff Castle William Burges",
-    "Victorian brooch",
-    "Antiques Roadshow",
-    "Geoffrey Munn"
+    "Big Mac",
+    "McDonald's",
+    "Nadine Ghosn",
+    "Tsavorite",
+    "Orange sapphire",
+    "Champagne diamond"
    ],
    "max": 10
   },
   {
-   "key": "i-monopoly",
+   "key": "i-alice",
    "commons": [
-    "Monopoly board game",
-    "Sidney Mobell",
-    "Monopoly pieces",
-    "National Museum of Natural History gems",
-    "Mickey Mouse watch"
+    "Alice Cooper",
+    "Salvador Dal\u00ed",
+    "Venus de Milo",
+    "St. Regis New York",
+    "Hologram",
+    "Harry Winston"
    ],
    "max": 10
   },
   {
-   "key": "i-bra",
+   "key": "i-pearls",
    "commons": [
-    "Victoria's Secret Fashion Show",
-    "Tyra Banks",
-    "Heidi Klum",
-    "Gisele Bundchen",
-    "Harry Winston diamond",
-    "Thai ruby",
-    "Pear shaped ruby"
+    "Wedding of Princess Elizabeth and Philip Mountbatten",
+    "Queen Elizabeth II 1947",
+    "St James's Palace",
+    "Haakon VII of Norway",
+    "Westminster Abbey",
+    "Pearl necklace"
    ],
    "max": 10
   },
   {
-   "key": "i-barbie",
+   "key": "i-lucy",
    "commons": [
-    "Barbie doll",
-    "Argyle diamond mine",
-    "Pink diamond",
-    "Christie's Rockefeller Center",
-    "Picasso Cubism"
+    "Lucille Ball",
+    "Taylor-Burton Diamond",
+    "Elizabeth Taylor",
+    "Richard Burton",
+    "Here's Lucy",
+    "Pear shaped diamond"
    ],
    "max": 10
   },
   {
-   "key": "i-panther",
+   "key": "i-leighton",
    "commons": [
-    "Pink diamond",
-    "Claudia Cardinale",
-    "Henry Mancini",
-    "Peter Sellers",
-    "Blake Edwards"
+    "Nicole Kidman",
+    "Fred Leighton",
+    "Madison Avenue",
+    "Greenwich Village",
+    "Opal",
+    "Miuccia Prada"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-katz",
+   "commons": [
+    "Martin Katz",
+    "Sharon Stone",
+    "Basic Instinct",
+    "Puka shell necklace",
+    "Pearl choker",
+    "Red carpet"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-gold",
+   "commons": [
+    "Emirates Palace",
+    "Gold bar",
+    "Vending machine",
+    "Krugerrand",
+    "Gold To Go",
+    "Abu Dhabi"
    ],
    "max": 10
   }
