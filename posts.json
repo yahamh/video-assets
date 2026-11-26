@@ -7365,7 +7365,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1113459271495699",
+      "instagram": "https://www.instagram.com/reel/DgOLrQrspgJ/"
+    }
   },
   "519-m-m-s-turned-peanut-butter-into-diamonds": {
     "at": "2026-11-26T23:00:00Z",
@@ -7841,6 +7846,14 @@
       "facebook",
       "instagram",
       "tiktok"
+    ]
+  },
+  "577-a-gold-coin-you-cannot-lift": {
+    "at": "2026-11-28T12:00:00Z",
+    "zernio_id": "6b08b9eb4c9a2ea7cf6e1590",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -8506,6 +8519,13 @@
   "lesson-040-signet-ring": {
     "at": "2026-12-02T16:00:00Z",
     "zernio_id": "6b07722b6bb242efc06bf063",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-041-cabochon-cut": {
+    "at": "2026-12-03T16:00:00Z",
+    "zernio_id": "6b08b9f0d6e9b251e6b6e03f",
     "platforms": [
       "youtube"
     ]
