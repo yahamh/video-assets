@@ -1,0 +1,172 @@
+{
+  "id": "553-scientists-made-diamond-rain-from-plastic",
+  "number": 553,
+  "title": "Scientists made diamond rain from plastic",
+  "style": "jewelbox",
+  "topic": "neptune uranus diamond rain 2017 nature astronomy dominik kraus slac polystyrene plastic laser two shock waves x ray flashes nanodiamonds carbon atoms 10,000 kilometers sink thousands of years millions of carats nanoseconds",
+  "music": "music-553.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Scientists made diamond rain from plastic.",
+    "gold": [
+      "diamond",
+      "plastic."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Scientists made diamond rain from plastic.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2017, a team used a laser on a sheet of plastic.",
+      "say": "In two thousand seventeen, a team used a laser on a sheet of plastic.",
+      "scene": {
+        "kind": "title",
+        "text": "2017",
+        "sub": "A lab laser",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The laser sent two shock waves through the polystyrene.",
+      "say": "The laser sent two shock waves through the pol ee sty reen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Two shock waves",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The plastic reached about 5,000 kelvin under the pressure.",
+      "say": "The plastic reached about five thousand kelvin under the pressure.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "5,000 kelvin",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "X ray pulses at the SLAC lab caught the diamonds forming.",
+      "say": "X ray pulses at the Slack lab caught the diamonds forming.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "X ray pulses",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Nearly every carbon atom in the plastic turned into a tiny diamond.",
+      "scene": {
+        "kind": "real",
+        "src": "553-scientists-made-diamond-rain-from-plastic-0.jpg",
+        "fit": "card",
+        "label": "American diamonds",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Scientists believe the same thing happens inside Neptune and Uranus.",
+      "scene": {
+        "kind": "real",
+        "src": "553-scientists-made-diamond-rain-from-plastic-1.jpg",
+        "fit": "card",
+        "label": "Neptune",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "About 10,000 kilometers down, diamonds may sink for thousands of years.",
+      "say": "About ten thousand kilometers down, diamonds may sink for thousands of years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Sinking diamonds",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "They could grow to millions of carats along the way.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Millions of carats",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The diamonds made in the lab lasted only nanoseconds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Gone in nanoseconds",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Scientists made diamond rain from plastic. In 2017, a team used a laser on a sheet of polystyrene. The laser sent two shock waves through the plastic, and X ray flashes caught the diamonds as they formed. Nearly every carbon atom in the plastic turned into a tiny diamond. Scientists believe the same thing happens about 10,000 kilometers down inside Neptune, where diamonds may sink for thousands of years and could grow to millions of carats. The diamonds made in the lab lasted only nanoseconds.",
+    "hashtags": [
+      "#neptune",
+      "#diamonds",
+      "#space",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www6.slac.stanford.edu/news/2017-08-21-scientists-create-diamond-rain-forms-interior-icy-giant-planets",
+    "https://www.space.com/37911-diamond-rain-created-in-laboratory.html",
+    "https://eos.org/articles/diamonds-really-do-rain-on-neptune-experiments-conclude",
+    "https://www.hzdr.de/db/Cms?pOid=52135",
+    "https://www.nature.com/articles/s41550-017-0219-9.pdf"
+  ],
+  "images": [
+    {
+      "src": "553-scientists-made-diamond-rain-from-plastic-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Smithsonian Institution",
+      "page": "https://commons.wikimedia.org/wiki/File:Colorado_Diamond_Crystal,_Freedom_Diamond,_Uncle_Sam_Diamond,_Canary_Diamond.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "553-scientists-made-diamond-rain-from-plastic-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA",
+      "page": "https://commons.wikimedia.org/wiki/File:Neptune_Full.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

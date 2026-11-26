@@ -1,0 +1,159 @@
+{
+  "id": "555-particles-bounced-back-off-gold-foil",
+  "number": 555,
+  "title": "Particles bounced back off gold foil",
+  "style": "gouache",
+  "topic": "rutherford gold foil experiment manchester hans geiger ernest marsden alpha particles zinc sulfide screen flashes microscope plum pudding atom bounced straight back tissue paper shell 1908 1909 1911 nucleus",
+  "music": "music-555.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Particles bounced back off gold foil.",
+    "gold": [
+      "bounced",
+      "foil."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Particles bounced back off gold foil.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At Manchester, Hans Geiger and student Ernest Marsden worked for Rutherford.",
+      "say": "At Manchester, Hans Guy ger and student Ernest Mars den worked for Rutherford.",
+      "scene": {
+        "kind": "real",
+        "src": "555-particles-bounced-back-off-gold-foil-0.jpg",
+        "fit": "card",
+        "label": "Ernest Rutherford",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They fired particles at a very thin sheet of gold foil.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A thin gold foil",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "They counted every flash on the screen through a microscope.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Counting flashes",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The plum pudding model of the atom predicted small deflections.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A plum pudding atom",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Instead, a few particles bounced almost straight back.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Bouncing back",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He said it was like a huge shell bouncing off tissue paper.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A shell and tissue paper",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The experiments ran in 1908 and 1909.",
+      "say": "The experiments ran in nineteen oh eight and nineteen oh nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1908",
+        "sub": "Manchester",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1911, he placed the atom's positive charge in a tiny nucleus.",
+      "say": "In nineteen eleven, he placed the atom's positive charge in a tiny nucleus.",
+      "scene": {
+        "kind": "real",
+        "src": "555-particles-bounced-back-off-gold-foil-1.jpg",
+        "fit": "card",
+        "label": "Sir Ernest Rutherford",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Particles bounced back off gold foil. At Manchester, Hans Geiger and student Ernest Marsden worked for Ernest Rutherford. They fired particles at a very thin sheet of gold foil and counted the flashes on a screen through a microscope. The plum pudding model of the atom predicted only small deflections, but a few particles bounced almost straight back. Rutherford said it was like a huge shell bouncing back off tissue paper. The experiments ran in 1908 and 1909, and in 1911 he placed the atom's positive charge in a tiny nucleus.",
+    "hashtags": [
+      "#rutherford",
+      "#gold",
+      "#physics",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://history.aip.org/exhibits/rutherford/sections/alpha-particles-atom.html",
+    "https://www.aps.org/apsnews/2006/05/rutherford-discovery-atomic-nucleus",
+    "https://www.livescience.com/gold-foil-experiment-geiger-marsden",
+    "https://en.wikipedia.org/wiki/Geiger%E2%80%93Marsden_experiment",
+    "https://galileo.phys.virginia.edu/classes/252/Rutherford_Scattering/Rutherford_Scattering.html"
+  ],
+  "images": [
+    {
+      "src": "555-particles-bounced-back-off-gold-foil-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Agence Rol. Agence photographique (commanditaire)",
+      "page": "https://commons.wikimedia.org/wiki/File:Ernest_Rutherford,_professeur_de_physique_%C3%A0_l'universit%C3%A9_de_Manchester_%C3%A9lu_%C3%A0_l'universit%C3%A9_de_Cambridge_-_btv1b53015956d.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "555-particles-bounced-back-off-gold-foil-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Bain News Service, publisher Restored by: Bammesk",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

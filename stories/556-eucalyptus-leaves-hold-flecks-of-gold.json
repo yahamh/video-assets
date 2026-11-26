@@ -1,0 +1,163 @@
+{
+  "id": "556-eucalyptus-leaves-hold-flecks-of-gold",
+  "number": 556,
+  "title": "Eucalyptus leaves hold flecks of gold",
+  "style": "jewelbox",
+  "topic": "eucalyptus gold leaves 2013 nature communications csiro mel lintern roots pump 30 meters deposit x ray australian synchrotron saplings gold laced soil toxic shed exploration ten storeys parts per billion",
+  "music": "music-556.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "peridot",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Eucalyptus leaves hold flecks of gold.",
+    "gold": [
+      "flecks",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Eucalyptus leaves hold flecks of gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2013, Australian scientists reported gold inside eucalyptus leaves.",
+      "say": "In two thousand thirteen, Australian scientists reported gold inside eucalyptus leaves.",
+      "scene": {
+        "kind": "real",
+        "src": "556-eucalyptus-leaves-hold-flecks-of-gold-0.jpg",
+        "fit": "card",
+        "label": "Eucalyptus leaves",
+        "credit": "Photo: Thouny, CC BY 3.0"
+      }
+    },
+    {
+      "text": "The work was led by CSIRO geochemist Mel Lintern.",
+      "say": "The work was led by Sigh row geochemist Mel Lintern.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Mel Lintern",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The roots reach tens of meters down and work like a pump.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Roots like a pump",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The gold came from a deposit about 30 meters underground.",
+      "say": "The gold came from a deposit about thirty meters underground.",
+      "scene": {
+        "kind": "title",
+        "text": "30 meters",
+        "sub": "Down",
+        "piece": "band",
+        "stone": null,
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "The specks are too small to see, so scientists used X rays.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Too small to see",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The gold sits inside the leaf itself.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Inside the leaf",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Saplings grown in gold laced soil took gold up into their leaves.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Gold laced soil"
+      }
+    },
+    {
+      "text": "To get rid of gold, the tree probably sheds it into leaves.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A tree sheds gold",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Leaves could one day point miners to gold ten stories down.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Ten stories down",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Eucalyptus leaves hold flecks of gold. In 2013, Australian scientists reported gold inside eucalyptus leaves. The work was led by CSIRO geochemist Mel Lintern. The roots reach tens of meters down and work like a pump, and the gold came from a deposit about 30 meters underground. X rays showed the specks sit inside the leaf, and saplings grown in gold laced soil took gold up too. The tree probably sheds gold into its leaves to get rid of it. Photo: Thouny, CC BY 3.0.",
+    "hashtags": [
+      "#gold",
+      "#eucalyptus",
+      "#science",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.csiro.au/en/news/All/News/2013/October/Gilding-the-gum-tree--scientists-strike-gold-in-leaves",
+    "https://www.smithsonianmag.com/science-nature/gold-particles-in-eucalyptus-trees-can-reveal-deposits-deep-underground-3481702/",
+    "https://www.nationalgeographic.com/science/article/131022-gold-eucalyptus-leaves-mining-geology-science",
+    "https://www.eurekalert.org/news-releases/683763",
+    "https://csiro.au/en/work-with-us/industries/mining-resources/Exploration/Sampling-methods/Gold-in-gum-leaves"
+  ],
+  "images": [
+    {
+      "src": "556-eucalyptus-leaves-hold-flecks-of-gold-0.jpg",
+      "license": "CC BY 3.0",
+      "cls": "by",
+      "artist": "Thouny",
+      "page": "https://commons.wikimedia.org/wiki/File:Eucalyptus_gundal_leaves_adult.jpg",
+      "credit": "Photo: Thouny, CC BY 3.0"
+    }
+  ]
+}

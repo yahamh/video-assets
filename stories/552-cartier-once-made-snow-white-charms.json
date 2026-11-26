@@ -1,0 +1,168 @@
+{
+  "id": "552-cartier-once-made-snow-white-charms",
+  "number": 552,
+  "title": "Cartier once made Snow White charms",
+  "style": "gouache",
+  "topic": "cartier snow white charm bracelet 1937 carthay circle theatre premiere gold enamel eight charms seven dwarfs 14 karat signed lillian disney walt dopey money clip oscar seven miniature shirley temple walt disney family museum san francisco",
+  "music": "music-552.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "ruby",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Cartier once made Snow White charms.",
+    "gold": [
+      "Snow",
+      "White",
+      "charms."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Cartier once made Snow White charms.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Snow White and the Seven Dwarfs premiered in Los Angeles in 1937.",
+      "say": "Snow White and the Seven Dwarfs premiered in Los Angeles in nineteen thirty seven.",
+      "scene": {
+        "kind": "real",
+        "src": "552-cartier-once-made-snow-white-charms-0.jpg",
+        "fit": "card",
+        "label": "Lillian and Walt, 1939",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The premiere was held at the Carthay Circle Theatre.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Carthay Circle"
+      }
+    },
+    {
+      "text": "Cartier made a gold and enamel charm bracelet for the film.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A charm bracelet",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Eight charms showed Snow White and each of the seven dwarfs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Eight charms"
+      }
+    },
+    {
+      "text": "The charms are 14 karat gold and enamel, signed Cartier.",
+      "say": "The charms are fourteen karat gold and enamel, signed Cartier.",
+      "scene": {
+        "kind": "title",
+        "text": "14 karat",
+        "sub": "Signed Cartier",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Lillian Disney wore a Snow White charm bracelet to the premiere.",
+      "scene": {
+        "kind": "real",
+        "src": "552-cartier-once-made-snow-white-charms-1.jpg",
+        "fit": "card",
+        "label": "Lillian Disney, 1951",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Walt had his own gold and enamel piece, a Dopey money clip.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A Dopey money clip",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Shirley Temple handed Walt a full size Oscar and seven miniatures.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Seven miniature Oscars",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Lillian's bracelet is kept in the Walt Disney Family Museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Kept in San Francisco",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Cartier once made Snow White charms. Snow White and the Seven Dwarfs premiered at the Carthay Circle Theatre in Los Angeles in 1937. Cartier made a gold and enamel charm bracelet for the film, with eight charms showing Snow White and each dwarf. The charms are 14 karat gold, signed Cartier. Lillian Disney wore a Snow White charm bracelet to the premiere, and Walt had a gold and enamel Dopey money clip. Shirley Temple handed Walt a full size Oscar and seven miniatures. Lillian's bracelet is kept in the Walt Disney Family Museum in San Francisco.",
+    "hashtags": [
+      "#cartier",
+      "#snowwhite",
+      "#disney",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.waltdisney.org/blog/artifactual-cartier-charm-bracelet",
+    "https://nationaljeweler.com/articles/fashion/jewelry-auctions/7552-snow-white-and-the-seven-dwarfs-bracelet-heading-to-auction",
+    "https://veryimportantlot.com/en/lot/view/cartier-enamel-and-gold-39snow-white-and-the-se-737344",
+    "https://www.yahoo.com/entertainment/disney-jewels-rage-auction-world-100553212.html",
+    "https://www.waltdisney.org/blog/snow-white-and-seven-dwarfs-honorary-academy-awardr",
+    "https://d23.com/disneys-special-academy-awards/"
+  ],
+  "images": [
+    {
+      "src": "552-cartier-once-made-snow-white-charms-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Len Weissman",
+      "page": "https://commons.wikimedia.org/wiki/File:Lillian_and_Walt_Disney_dancing,_by_Len_Weissman,_1939.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "552-cartier-once-made-snow-white-charms-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Carel L. de Vogel (ANEFO)",
+      "page": "https://commons.wikimedia.org/wiki/File:LilianBounds1951.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

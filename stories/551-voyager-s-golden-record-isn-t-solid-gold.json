@@ -1,0 +1,175 @@
+{
+  "id": "551-voyager-s-golden-record-isn-t-solid-gold",
+  "number": 551,
+  "title": "Voyager's golden record isn't solid gold",
+  "style": "deco",
+  "topic": "voyager golden record 1977 12 inch copper gold plated eight records two flew gardena california aluminum cover uranium 238 clock stylus carl sagan committee etched message makers of music 55 languages chuck berry johnny b goode",
+  "music": "music-551.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "citrine",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Voyager's golden record isn't solid gold.",
+    "gold": [
+      "solid",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Voyager's golden record isn't solid gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Voyager launched in 1977 with a 12 inch golden record.",
+      "say": "Voyager launched in nineteen seventy seven with a twelve inch golden record.",
+      "scene": {
+        "kind": "real",
+        "src": "551-voyager-s-golden-record-isn-t-solid-gold-0.jpg",
+        "fit": "card",
+        "label": "The Sounds of Earth cover",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The record is copper with a thin layer of gold on it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Copper under gold",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Eight records were gold plated, and two flew into space.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Eight made, two flew",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The plating was done in Gardena, California.",
+      "scene": {
+        "kind": "real",
+        "src": "551-voyager-s-golden-record-isn-t-solid-gold-1.jpg",
+        "fit": "card",
+        "label": "Gold plating, 1977",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "An aluminum cover holds a little uranium that works as a clock.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A uranium clock",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Carl Sagan chaired the committee that picked what went on it.",
+      "say": "Carl Say gun chaired the committee that picked what went on it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Carl Sagan"
+      }
+    },
+    {
+      "text": "An etched message is addressed to the makers of music.",
+      "scene": {
+        "kind": "real",
+        "src": "551-voyager-s-golden-record-isn-t-solid-gold-2.jpg",
+        "fit": "card",
+        "label": "Etching the record, 1977",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It holds greetings in 55 languages.",
+      "say": "It holds greetings in fifty five languages.",
+      "scene": {
+        "kind": "title",
+        "text": "55",
+        "sub": "Languages",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Chuck Berry's song Johnny B Goode is on it too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Johnny B Goode"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Voyager's golden record isn't solid gold. Each Voyager spacecraft launched in 1977 with a 12 inch golden record. The record is copper with a thin layer of gold on it. Eight records were gold plated, and two flew into space. The plating was done in Gardena, California. An aluminum cover protects each one and holds a little uranium that works as a clock. Carl Sagan chaired the committee that picked the contents, which include greetings in 55 languages and Chuck Berry's Johnny B. Goode. An etched message is addressed to the makers of music.",
+    "hashtags": [
+      "#voyager",
+      "#goldenrecord",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://science.nasa.gov/mission/voyager/making-of-the-golden-record",
+    "https://science.nasa.gov/mission/voyager/golden-record-cover",
+    "https://www.planetary.org/articles/the-voyager-golden-records",
+    "https://music.si.edu/node/803",
+    "https://www.popsci.com/science/what-is-on-voyager-golden-record/"
+  ],
+  "images": [
+    {
+      "src": "551-voyager-s-golden-record-isn-t-solid-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA/JPL",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "551-voyager-s-golden-record-isn-t-solid-gold-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA/JPL",
+      "page": "https://commons.wikimedia.org/wiki/File:Voyager-golden-record-gold-plating-8-23-77_30217603524_o.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "551-voyager-s-golden-record-isn-t-solid-gold-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA/JPL",
+      "page": "https://commons.wikimedia.org/wiki/File:Voyager-golden-record-etching-7-28-77_30548567140_o.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

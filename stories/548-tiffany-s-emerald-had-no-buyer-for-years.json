@@ -1,0 +1,162 @@
+{
+  "id": "548-tiffany-s-emerald-had-no-buyer-for-years",
+  "number": 548,
+  "title": "Tiffany's emerald had no buyer for years",
+  "style": "deco",
+  "topic": "hooker emerald brooch tiffany 75.47 carat colombian emerald beveled square sultan abdul hamid belt buckle legend auction 1911 tiara no buyer decades 1950 platinum brooch 109 round diamonds 20 baguettes christmas catalogue janet annenberg hooker 1955 smithsonian 1977 hall of geology gems and minerals",
+  "music": "music-548.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "emerald",
+    "cut": "emerald",
+    "petals": 8,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Tiffany's emerald had no buyer for years.",
+    "gold": [
+      "emerald",
+      "years."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany's emerald had no buyer for years.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Hooker Emerald weighs 75.47 carats and comes from Colombia.",
+      "say": "The Hooker Emerald weighs seventy five point four seven carats and comes from Colombia.",
+      "scene": {
+        "kind": "title",
+        "text": "75.47",
+        "sub": "Carats",
+        "piece": "stone",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "A legend says a sultan once wore it in a belt buckle.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A sultan's buckle",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Tiffany bought it at auction in 1911.",
+      "say": "Tiffany bought it at auction in nineteen eleven.",
+      "scene": {
+        "kind": "title",
+        "text": "1911",
+        "sub": "Tiffany buys",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Tiffany set it in a tiara, which found no buyer for decades.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "An unsold tiara",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1950, Tiffany reset it as a platinum brooch.",
+      "say": "In nineteen fifty, Tiffany reset it as a platinum brooch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A platinum brooch"
+      }
+    },
+    {
+      "text": "The brooch has 109 round diamonds and 20 baguettes.",
+      "say": "The brooch has one hundred nine round diamonds and twenty baguettes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "129 diamonds",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In 1955, Janet Annenberg Hooker bought the brooch.",
+      "say": "In nineteen fifty five, Janet An en burg Hooker bought the brooch.",
+      "scene": {
+        "kind": "title",
+        "text": "1955",
+        "sub": "A new owner",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In 1977, she gave it to the Smithsonian.",
+      "say": "In nineteen seventy seven, she gave it to the Smithsonian.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A gift in 1977"
+      }
+    },
+    {
+      "text": "It is kept in the Hooker Hall at the Smithsonian in Washington.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Kept in Washington",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tiffany's emerald had no buyer for years. The Hooker Emerald weighs 75.47 carats and comes from Colombia. A legend says a sultan once wore it in a belt buckle. Tiffany bought it at auction in 1911 and set it in a tiara, which found no buyer for decades. In 1950, Tiffany reset it as a platinum brooch with 109 round diamonds and 20 baguettes, and it led that year's Christmas catalogue. Janet Annenberg Hooker bought it in 1955 and gave it to the Smithsonian in 1977. It is kept in the Hooker Hall at the museum in Washington.",
+    "hashtags": [
+      "#tiffany",
+      "#emerald",
+      "#smithsonian",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hooker_Emerald_Brooch",
+    "https://naturalhistory.si.edu/explore/collections/geogallery/10002707",
+    "https://jewelryjudgebengordon.thejewelerblog.com/smithsonian_s_75_carat_hooker_emerald_was_once_mounted_into_a_sultan_s_belt_buckle.html",
+    "https://www.aureusboutique.com/abx/the-hooker-emerald",
+    "https://siarchives.si.edu/collections/siris_sic_1123",
+    "https://torch.si.edu/2010/10/october-18-1977"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Hooker Emerald or its brooch was found; the free Tiffany photos on Commons show a letter, a street and a ship named Emerald"
+}

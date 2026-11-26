@@ -1,0 +1,168 @@
+{
+  "id": "554-fred-astaire-s-gift-was-one-gold-feather",
+  "number": 554,
+  "title": "Fred Astaire's gift was one gold feather",
+  "style": "deco",
+  "topic": "fred astaire ginger rogers top hat 1935 cheek to cheek blue ostrich feather gown mark sandrich plain white dress lela rogers feathers flew rehearsal chicken attacked by a coyote hermes pan parody song gold feather charm bracelet dear feathers ten films 1933 1949",
+  "music": "music-554.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "aquamarine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Fred Astaire's gift was one gold feather.",
+    "gold": [
+      "gold",
+      "feather."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fred Astaire's gift was one gold feather.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 1935 film Top Hat, Ginger Rogers wanted a feather gown.",
+      "say": "In the nineteen thirty five film Top Hat, Ginger Rogers wanted a feather gown.",
+      "scene": {
+        "kind": "real",
+        "src": "554-fred-astaire-s-gift-was-one-gold-feather-0.jpg",
+        "fit": "card",
+        "label": "Top Hat poster, 1935",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The director suggested a plain white dress instead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A plain white dress",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Her mother came to the set and backed the feather gown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Her mother's vote",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "At the first rehearsal, the feathers flew everywhere.",
+      "scene": {
+        "kind": "real",
+        "src": "554-fred-astaire-s-gift-was-one-gold-feather-1.jpg",
+        "fit": "card",
+        "label": "Cheek to Cheek",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Astaire wrote that it looked like a chicken attacked by a coyote.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A chicken and a coyote",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Astaire and Hermes Pan wrote a parody song about the feathers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A parody song",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Rogers wrote that she found a tiny gold feather for her bracelet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A gold feather charm"
+      }
+    },
+    {
+      "text": "The note said, Dear Feathers, I love ya, Fred.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Dear Feathers",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The pair made ten films together between 1933 and 1949.",
+      "say": "The pair made ten films together between nineteen thirty three and nineteen forty nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1949",
+        "sub": "Ten films",
+        "piece": "stone",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Fred Astaire's gift was one gold feather. In the 1935 film Top Hat, Ginger Rogers wanted a feather gown for Cheek to Cheek. The director suggested a plain white dress, but her mother backed the feathers. At the first rehearsal they flew everywhere, and Astaire wrote that it looked like a chicken attacked by a coyote. Rogers wrote that she found a tiny gold feather for her charm bracelet, with a note: Dear Feathers, I love ya, Fred. The pair made ten films together between 1933 and 1949.",
+    "hashtags": [
+      "#fredastaire",
+      "#gingerrogers",
+      "#tophat",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.tcm.com/articles/133542/behind-the-camera",
+    "https://reelclassics.com/Teams/Fred&Ginger/fred&ginger4.htm",
+    "https://www.screenchic.com/amp/story-of-a-dress-top-hat",
+    "https://en.wikipedia.org/wiki/Top_Hat",
+    "https://sothebys.com/en/articles/freds-gift-to-ginger-by-hollywoods-jeweller-to-the-stars"
+  ],
+  "images": [
+    {
+      "src": "554-fred-astaire-s-gift-was-one-gold-feather-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "RKO Radio Pictures",
+      "page": "https://commons.wikimedia.org/wiki/File:Top_Hat_1935_poster.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "554-fred-astaire-s-gift-was-one-gold-feather-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Cheek_to_Cheek.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "550-edward-viii-s-hair-parting-broke-coin-tradition",
+  "number": 550,
+  "title": "Edward VIII's hair parting broke coin tradition",
+  "style": "jewelbox",
+  "topic": "edward viii gold sovereign 1937 coin portrait faces left hair parting charles ii tradition george v 326 days 1936 royal mint trial pieces six struck duke of windsor george vi refused sealed box 1970 49 coins",
+  "music": "music-550.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Edward VIII's hair parting broke coin tradition.",
+    "gold": [
+      "parting",
+      "tradition."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Edward VIII's hair parting broke coin tradition.",
+      "say": "Edward the Eighth's hair parting broke coin tradition.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Edward VIII was king for only 326 days in 1936.",
+      "say": "Edward the Eighth was king for only three hundred twenty six days in nineteen thirty six.",
+      "scene": {
+        "kind": "real",
+        "src": "550-edward-viii-s-hair-parting-broke-coin-tradition-0.jpg",
+        "fit": "card",
+        "label": "Edward VIII, king in 1936",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Since Charles II, a new king's coin portrait faces the other way.",
+      "say": "Since Charles the Second, a new king's coin portrait faces the other way.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Facing the other way",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "George V faced left, so Edward should have faced right.",
+      "say": "George the Fifth faced left, so Edward should have faced right.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "George faced left"
+      }
+    },
+    {
+      "text": "Edward insisted on facing left, because of his hair parting.",
+      "scene": {
+        "kind": "real",
+        "src": "550-edward-viii-s-hair-parting-broke-coin-tradition-1.jpg",
+        "fit": "card",
+        "label": "A portrait of Edward",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "No Edward VIII coin was ever issued in Britain.",
+      "say": "No Edward the Eighth coin was ever issued in Britain.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Never issued",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Only six gold sovereigns dated 1937 were struck as trial pieces.",
+      "say": "Only six gold sovereigns dated nineteen thirty seven were struck as trial pieces.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Six trial pieces",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "As Duke of Windsor, he later asked the Mint for a set.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A request",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "His brother, King George VI, refused.",
+      "say": "His brother, King George the Sixth, refused.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Turned down",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1970, a sealed box of leftovers held 49 coins.",
+      "say": "In nineteen seventy, a sealed box of leftovers held forty nine coins.",
+      "scene": {
+        "kind": "title",
+        "text": "1970",
+        "sub": "A sealed box",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Edward VIII's hair parting broke coin tradition. Edward was king for only 326 days in 1936. Since Charles II, a new king's coin portrait faces the other way from the last one, and George V faced left. Edward insisted on facing left because of his hair parting. His gold sovereign was due to be struck on New Year's Day 1937, but no Edward VIII coin was ever issued in Britain. Only six gold sovereigns dated 1937 were struck as trial pieces. As Duke of Windsor, he later asked the Mint for a set, and his brother refused. In 1970, a sealed box of leftovers held 49 coins.",
+    "hashtags": [
+      "#edwardviii",
+      "#royalmint",
+      "#goldsovereign",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.royalmint.com/stories/sovereign/breaking-with-tradition-the-edward-viii-sovereign/",
+    "https://col.rct.uk/collection/443672/edward-viii-pattern-penny",
+    "https://en.wikipedia.org/wiki/Edward_VIII_coins",
+    "https://www.historyhit.com/the-royal-mint-edward-viiis-unreleased-coins/",
+    "https://canadiancoinnews.com/one-of-two-edward-viii-sovereign-patterns-now-britains-most-valuable-coin/",
+    "https://spectator.com/article/how-the-royal-tussle-over-a-penny-revealed-edward-viii-s-vanity/?edition=us"
+  ],
+  "images": [
+    {
+      "src": "550-edward-viii-s-hair-parting-broke-coin-tradition-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Vandyk (active 1881-1947)",
+      "page": "https://commons.wikimedia.org/wiki/File:King_Edward_VIII_portrait.webp",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "550-edward-viii-s-hair-parting-broke-coin-tradition-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Lafayette",
+      "page": "https://commons.wikimedia.org/wiki/File:Prince-Edward-Duke-of-Windsor-King-Edward-VIII.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

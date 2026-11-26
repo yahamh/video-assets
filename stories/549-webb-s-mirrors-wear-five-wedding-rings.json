@@ -1,0 +1,171 @@
+{
+  "id": "549-webb-s-mirrors-wear-five-wedding-rings",
+  "number": 549,
+  "title": "Webb's mirrors wear five wedding rings",
+  "style": "gouache",
+  "topic": "james webb space telescope gold mirror 18 hexagonal beryllium segments 1.32 meters 6.5 meter mirror gold coating 100 nanometers vapor deposition quantum coating thin glass layer soft infrared 99 percent silver aluminum 48 grams five men's wedding rings",
+  "music": "music-549.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Webb's mirrors wear five wedding rings.",
+    "gold": [
+      "wedding",
+      "rings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Webb's mirrors wear five wedding rings.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The James Webb Space Telescope has a 6.5 meter mirror.",
+      "say": "The James Webb Space Telescope has a six point five meter mirror.",
+      "scene": {
+        "kind": "real",
+        "src": "549-webb-s-mirrors-wear-five-wedding-rings-0.jpg",
+        "fit": "card",
+        "label": "Webb's gold mirror",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It is made of 18 hexagonal segments of beryllium.",
+      "say": "It is made of eighteen hexagonal segments of beryllium.",
+      "scene": {
+        "kind": "real",
+        "src": "549-webb-s-mirrors-wear-five-wedding-rings-1.jpg",
+        "fit": "card",
+        "label": "Mirror segments in testing",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Each segment is coated with gold about 100 nanometers thick.",
+      "say": "Each segment is coated with gold about one hundred nanometers thick.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A thin gold coat",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The gold goes on as a vapor inside a vacuum chamber.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A vacuum chamber",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Gold is soft, so a thin layer of glass goes over it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Glass over gold",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Webb looks at infrared light, which people feel as heat.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Infrared light"
+      }
+    },
+    {
+      "text": "Gold reflects about 99 percent of that light.",
+      "say": "Gold reflects about ninety nine percent of that light.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "99 percent",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Together, the segments carry about 48 grams of gold.",
+      "say": "Together, the segments carry about forty eight grams of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "48 grams",
+        "sub": "Of gold",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "That is about the gold in five men's wedding rings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Five wedding rings",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Webb's mirrors wear five wedding rings. The James Webb Space Telescope has a 6.5 meter mirror made of 18 hexagonal beryllium segments. Each one carries a gold coat about 100 nanometers thick, laid on as a vapor in a vacuum, then covered with a thin layer of glass because gold is soft. Gold reflects about 99 percent of the infrared light Webb studies. All the gold together is about 48 grams, about the gold in five men's wedding rings.",
+    "hashtags": [
+      "#jameswebb",
+      "#gold",
+      "#space",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://jwst.nasa.gov/mirrors.html",
+    "https://bigthink.com/starts-with-a-bang/how-much-gold-is-in-the-james-webb-space-telescope/",
+    "https://thenextweb.com/news/why-nasa-chose-gold-plated-mirrors-for-james-webb-telescope",
+    "https://sci.esa.int/web/jwst/-/59659-jwsts-golden-mirror",
+    "https://www.nasa.gov/image-feature/james-webb-space-telescopes-golden-mirror",
+    "https://anschardiamonds.thejewelerblog.com/gold_to_play_key_role_in_performance_of__10b_james_webb_space_telescope.html"
+  ],
+  "images": [
+    {
+      "src": "549-webb-s-mirrors-wear-five-wedding-rings-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA/MSFC/David Higginbotham",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Primary_Mirror.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "549-webb-s-mirrors-wear-five-wedding-rings-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA/MSFC/David Higginbotham/Emmett Given",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
