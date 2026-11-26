@@ -1,0 +1,185 @@
+{
+  "id": "564-the-fields-medal-s-date-has-a-typo",
+  "number": 564,
+  "title": "The Fields Medal's date has a typo",
+  "style": "gouache",
+  "topic": "fields medal date typo mcnxxxiii archimedes sphere and cylinder r tait mckenzie j c fields 1933 lars ahlfors jesse douglas 1936 oslo pawned pawn shop every four years under 40 gold medal",
+  "music": "music-564.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Fields Medal's date has a typo.",
+    "gold": [
+      "has",
+      "a",
+      "typo."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Fields Medal's date has a typo.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Canadian mathematician J C Fields funded the gold medal.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "J C Fields"
+      }
+    },
+    {
+      "text": "A Canadian sculptor, R Tait McKenzie, designed it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A sculptor's design",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The front shows Archimedes and a motto about mastering the world.",
+      "scene": {
+        "kind": "real",
+        "src": "564-the-fields-medal-s-date-has-a-typo-0.jpg",
+        "fit": "card",
+        "label": "Archimedes, by Fetti",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The back shows his sphere inside a cylinder.",
+      "scene": {
+        "kind": "real",
+        "src": "564-the-fields-medal-s-date-has-a-typo-1.jpg",
+        "fit": "card",
+        "label": "The back of the medal",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The date, 1933, is cut with an N where an M belongs.",
+      "say": "The date, nineteen thirty three, is cut with an N where an M belongs.",
+      "scene": {
+        "kind": "real",
+        "src": "564-the-fields-medal-s-date-has-a-typo-2.jpg",
+        "fit": "card",
+        "focus": {
+          "x": 0.22,
+          "y": 0.64,
+          "k": 1.7
+        },
+        "label": "The front of the medal",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The first two medals went to Lars Ahlfors and Jesse Douglas.",
+      "say": "The first two medals went to Lars Ahl fors and Jesse Douglas.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "The first two",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "On his way to a new job, Ahlfors pawned his medal.",
+      "say": "On his way to a new job, Ahl fors pawned his medal.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A pawned medal",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He joked it was the only Fields Medal in a pawn shop.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A pawn shop"
+      }
+    },
+    {
+      "text": "Every four years, it goes to mathematicians aged 40 or under.",
+      "say": "Every four years, it goes to mathematicians aged forty or under.",
+      "scene": {
+        "kind": "title",
+        "text": "40",
+        "sub": "Or under",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Fields Medal's date has a typo. Canadian mathematician J C Fields funded the gold medal, and a Canadian sculptor, R Tait McKenzie, designed it. The front shows Archimedes and a motto about mastering the world. The date, 1933, is cut with an N where an M belongs. The first two medals went to Lars Ahlfors and Jesse Douglas. On his way to a new job, Ahlfors pawned his medal, and he joked it was the only Fields Medal held in a pawn shop. Every four years, it goes to mathematicians aged 40 or under.",
+    "hashtags": [
+      "#fieldsmedal",
+      "#mathematics",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.fields.utoronto.ca/about/fields-medal",
+    "https://chalkdustmagazine.com/features/the-birth-of-the-fields-medal/",
+    "https://www.mathunion.org/physical-medal",
+    "https://www.numisquare.com/fields-medal-8106746470.html",
+    "https://mathshistory.st-andrews.ac.uk/Biographies/Ahlfors/",
+    "https://news.harvard.edu/gazette/story/2001/01/harvard-gazette-faculty-of-arts-and-sciences-memorial-minute"
+  ],
+  "images": [
+    {
+      "src": "564-the-fields-medal-s-date-has-a-typo-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Domenico Fetti",
+      "page": "https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "564-the-fields-medal-s-date-has-a-typo-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Stefan Zachow of the International Mathematical Union ; retouched by King of Hearts",
+      "page": "https://commons.wikimedia.org/wiki/File:FieldsMedalBack.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "564-the-fields-medal-s-date-has-a-typo-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Stefan Zachow for the International Mathematical Union ; retouched by King of Hearts",
+      "page": "https://commons.wikimedia.org/wiki/File:FieldsMedalFront.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "560-early-tony-winners-got-a-money-clip",
+  "number": 560,
+  "title": "Early Tony winners got a money clip",
+  "style": "deco",
+  "topic": "first tony awards 1947 waldorf astoria easter sunday antoinette perry american theatre wing no statuette scroll gold money clip cigarette lighter initialed compact 1949 united scenic artists contest herman rosse medallion",
+  "music": "music-560.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Early Tony winners got a money clip.",
+    "gold": [
+      "money",
+      "clip."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Early Tony winners got a money clip.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The first Tony Awards dinner was on Easter Sunday in 1947.",
+      "say": "The first Tony Awards dinner was on Easter Sunday in nineteen forty seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1947",
+        "sub": "Easter Sunday",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It was held in the Grand Ballroom of the Waldorf Astoria.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "The Waldorf Astoria",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The awards are named for the actress and director Antoinette Perry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Antoinette Perry"
+      }
+    },
+    {
+      "text": "For the first two years, there was no Tony statuette.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "No statuette",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Every winner took home a scroll and a gift.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A scroll and a gift",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Men got a gold money clip or a cigarette lighter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A gold money clip",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Women got an initialed compact.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "An initialed compact",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In 1949, a designers' union held a contest for a real Tony.",
+      "say": "In nineteen forty nine, a designers' union held a contest for a real Tony.",
+      "scene": {
+        "kind": "title",
+        "text": "1949",
+        "sub": "A real Tony",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Herman Rosse's medallion won, and it is still the Tony.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Herman Rosse",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Early Tony winners got a money clip. The first Tony Awards dinner was on Easter Sunday in 1947, in the Grand Ballroom of the Waldorf Astoria. For the first two years there was no Tony statuette. Every winner took home a scroll and a gift. Men got a gold money clip or a cigarette lighter, and women got an initialed compact. In 1949, a designers' union held a contest for a real Tony, and Herman Rosse's medallion won.",
+    "hashtags": [
+      "#tonyawards",
+      "#broadway",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://tonyawards.com/history/year-by-year/1947",
+    "https://playbill.com/article/what-it-was-like-inside-the-first-tony-awards-ceremony-in-1947",
+    "https://www.playbill.com/article/in-tonys-early-days-the-award-was-pocket-sized-money-not-included-com-132915",
+    "https://artsandculture.google.com/story/tony-awards%C2%AE-the-first-years-1947-1966-american-theatre-wing/nwURA0K1jY3EJA",
+    "https://www.tonyawards.com/history/",
+    "https://en.wikipedia.org/wiki/1st_Tony_Awards"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the 1947 Tony gifts or ceremony was found; the one candidate, a Waldorf Astoria ballroom photo, could not be matched to the 1947 room"
+}

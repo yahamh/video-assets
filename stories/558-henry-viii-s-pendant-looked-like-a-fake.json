@@ -1,0 +1,182 @@
+{
+  "id": "558-henry-viii-s-pendant-looked-like-a-fake",
+  "number": 558,
+  "title": "Henry VIII's pendant looked like a fake",
+  "style": "gouache",
+  "topic": "tudor heart pendant henry viii catherine of aragon british museum metal detectorist warwickshire 2019 24 carat gold tudor rose pomegranate initials h k always old french costume jewelry doubt tests tournament 2025 appeal 45,000 donors",
+  "music": "music-558.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "ruby",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Henry VIII's pendant looked like a fake.",
+    "gold": [
+      "like",
+      "a",
+      "fake."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Henry VIII's pendant looked like a fake.",
+      "say": "Henry the Eighth's pendant looked like a fake.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A metal detectorist found it in a Warwickshire field in 2019.",
+      "say": "A metal detectorist found it in a Warrick shur field in twenty nineteen.",
+      "scene": {
+        "kind": "real",
+        "src": "558-henry-viii-s-pendant-looked-like-a-fake-0.jpg",
+        "fit": "card",
+        "label": "The Tudor Heart pendant",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He had taken up the hobby only six months before.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A new hobby",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "A museum curator first asked if it was costume jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A first doubt"
+      }
+    },
+    {
+      "text": "Tests confirmed it is Tudor, made of 24 carat gold.",
+      "say": "Tests confirmed it is Tudor, made of twenty four carat gold.",
+      "scene": {
+        "kind": "title",
+        "text": "24 carat",
+        "sub": "Tudor gold",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "One side carries the linked initials H and K.",
+      "scene": {
+        "kind": "real",
+        "src": "558-henry-viii-s-pendant-looked-like-a-fake-1.jpg",
+        "fit": "card",
+        "label": "Linked initials H and K",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The other side shows a Tudor rose and Catherine of Aragon's pomegranate.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A rose and a pomegranate"
+      }
+    },
+    {
+      "text": "The museum says it is only linked to Henry VIII.",
+      "say": "The museum says it is only linked to Henry the Eighth.",
+      "scene": {
+        "kind": "real",
+        "src": "558-henry-viii-s-pendant-looked-like-a-fake-2.jpg",
+        "fit": "card",
+        "label": "Henry VIII, by Holbein",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2025, the British Museum asked the public to help buy it.",
+      "say": "In twenty twenty five, the British Museum asked the public to help buy it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A public appeal",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "More than 45,000 people gave to the appeal.",
+      "say": "More than forty five thousand people gave to the appeal.",
+      "scene": {
+        "kind": "title",
+        "text": "45,000",
+        "sub": "Donors",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Henry VIII's pendant looked like a fake. In 2019, a metal detectorist found a gold pendant in a Warwickshire field. He had taken up the hobby only six months before. A British Museum curator first asked if it was costume jewelry, but tests confirmed it is Tudor, made of 24 carat gold. One side carries the linked initials H and K. The other shows a Tudor rose and Catherine of Aragon's pomegranate. The museum says it is only linked to Henry VIII. In 2025, it asked the public to help buy the pendant, and more than 45,000 people gave.",
+    "hashtags": [
+      "#tudor",
+      "#henryviii",
+      "#britishmuseum",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britishmuseum.org/about-us/press/press-releases/british-museum-raises-three-and-a-half-million-to-save-tudor-heart-pendant",
+    "https://www.theartnewspaper.com/2026/02/10/british-museum-acquires-golden-pendant-linked-henry-viii-fundraising-campaign",
+    "https://www.cnn.com/style/article/amateur-detectorist-tudor-pendant-scli-intl-scn/index.html",
+    "https://www.smithsonianmag.com/smart-news/metal-detectorist-discovers-rare-gold-pendant-celebrating-henry-viiis-first-marriage-180981557/",
+    "https://www.itv.com/news/london/2025-10-14/british-museum-calls-for-donations-to-save-tudor-pendant-linked-to-henry-viii",
+    "https://www.smithsonianmag.com/smart-news/a-metal-detectorist-unearthed-this-heart-shaped-tudor-pendant-now-the-british-museum-has-raised-millions-to-put-it-on-public-display-180988188/"
+  ],
+  "images": [
+    {
+      "src": "558-henry-viii-s-pendant-looked-like-a-fake-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jononmac46",
+      "page": "https://commons.wikimedia.org/wiki/File:Tudor_heart_pendant_(3).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "558-henry-viii-s-pendant-looked-like-a-fake-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jononmac46",
+      "page": "https://commons.wikimedia.org/wiki/File:Tudor_heart_pendant_(2).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "558-henry-viii-s-pendant-looked-like-a-fake-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Hans Holbein the Younger",
+      "page": "https://commons.wikimedia.org/wiki/File:Hans_Holbein,_the_Younger,_Around_1497-1543_-_Portrait_of_Henry_VIII_of_England_-_Google_Art_Project.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

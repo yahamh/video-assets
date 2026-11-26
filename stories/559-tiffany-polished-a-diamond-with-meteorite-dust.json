@@ -1,0 +1,173 @@
+{
+  "id": "559-tiffany-polished-a-diamond-with-meteorite-dust",
+  "number": 559,
+  "title": "Tiffany polished a diamond with meteorite dust",
+  "style": "jewelbox",
+  "topic": "george kunz tiffany polished a diamond with meteorite dust 1893 world's columbian exposition chicago mines and mining building diamond cutting pavilion canyon diablo meteorite arizona foote 1891 koenig oliver huntington emery wheel ruined 2,500 revolutions a minute oil three minutes",
+  "music": "music-559.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Tiffany polished a diamond with meteorite dust.",
+    "gold": [
+      "meteorite",
+      "dust."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tiffany polished a diamond with meteorite dust.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1891, a scientist reported diamonds inside an Arizona meteorite.",
+      "say": "In eighteen ninety one, a scientist reported diamonds inside an Arizona meteorite.",
+      "scene": {
+        "kind": "real",
+        "src": "559-tiffany-polished-a-diamond-with-meteorite-dust-0.jpg",
+        "fit": "card",
+        "label": "A Canyon Diablo meteorite",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Cutting one slice took a day and a half and broke chisels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A day and a half",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The emery wheel meant to polish it was ruined.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A ruined wheel",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1893, George Kunz of Tiffany tested the black grains.",
+      "say": "In eighteen ninety three, George Koonts of Tiffany tested the black grains.",
+      "scene": {
+        "kind": "title",
+        "text": "1893",
+        "sub": "Kunz of Tiffany",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      }
+    },
+    {
+      "text": "The test took place in Tiffany's pavilion at the Chicago World's Fair.",
+      "scene": {
+        "kind": "real",
+        "src": "559-tiffany-polished-a-diamond-with-meteorite-dust-1.jpg",
+        "fit": "card",
+        "label": "The Mines Building, 1893",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Tiffany's staff made a wheel that turned 2,500 times a minute.",
+      "say": "Tiffany's staff made a wheel that turned twenty five hundred times a minute.",
+      "scene": {
+        "kind": "title",
+        "text": "2,500",
+        "sub": "A minute",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "On the bare wheel, a diamond stayed unpolished after five minutes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Five minutes",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Then they charged the wheel with meteorite dust mixed with oil.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Dust and oil",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "A diamond face was polished in about three minutes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Polished in three"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tiffany polished a diamond with meteorite dust. In 1891, a scientist reported diamonds inside an Arizona meteorite. Cutting one slice took a day and a half and broke chisels, and the wheel meant to polish it was ruined. In 1893, George Kunz of Tiffany tested the black grains in Tiffany's diamond cutting pavilion at the Chicago World's Fair. On a new wheel turning 2,500 times a minute, a diamond stayed unpolished after five minutes. When the wheel was coated with meteorite dust mixed with oil, a diamond face was polished in about three minutes.",
+    "hashtags": [
+      "#tiffany",
+      "#meteorite",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://ajsonline.org/article/62921.pdf",
+    "https://pairlist2.pair.net/pipermail/meteorite-list/2004-August/002227.html",
+    "https://ajsonline.org/article/63134.pdf",
+    "https://en.wikipedia.org/wiki/Meteor_Crater",
+    "https://www.fieldmuseum.org/gems-and-minerals-history",
+    "https://www.gia.edu/doc/George_F_Kunz_edits_Oct_30_2018a.pdf"
+  ],
+  "images": [
+    {
+      "src": "559-tiffany-polished-a-diamond-with-meteorite-dust-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Photograph © copyright 2004 Christian Wirth. The original uploader was R.123 at English Wikipedia .",
+      "page": "https://commons.wikimedia.org/wiki/File:Canyon_Diablo_meteorite_221_pounds.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "559-tiffany-polished-a-diamond-with-meteorite-dust-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Midwest MS WCE Slides",
+      "page": "https://commons.wikimedia.org/wiki/File:World's_Columbian_Exposition_lantern_slides,_Mines_and_Mining_Building,_Interior,_Montana_(NBY_8703).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

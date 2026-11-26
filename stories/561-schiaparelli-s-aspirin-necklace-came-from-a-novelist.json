@@ -1,0 +1,172 @@
+{
+  "id": "561-schiaparelli-s-aspirin-necklace-came-from-a-novelist",
+  "number": 561,
+  "title": "Schiaparelli's aspirin necklace came from a novelist",
+  "style": "gouache",
+  "topic": "elsa triolet aspirin necklace schiaparelli 1930 couture novelist louis aragon moscow 1896 beads shaped like aspirin tablets glass cotton horsehair collar of snow and dream colliers 1944 prix goncourt first woman",
+  "music": "music-561.wav",
+  "piece": {
+    "piece": "strand",
+    "tone": "white",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Schiaparelli's aspirin necklace came from a novelist.",
+    "gold": [
+      "from",
+      "a",
+      "novelist."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Schiaparelli's aspirin necklace came from a novelist.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Elsa Triolet was a novelist, born in Moscow in 1896.",
+      "say": "Elsa Triolet was a novelist, born in Moscow in eighteen ninety six.",
+      "scene": {
+        "kind": "real",
+        "src": "561-schiaparelli-s-aspirin-necklace-came-from-a-novelist-0.jpg",
+        "fit": "card",
+        "label": "Elsa Triolet, by Chentoff",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Around 1930, she made necklaces for Paris fashion houses.",
+      "say": "Around nineteen thirty, she made necklaces for Paris fashion houses.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Paris fashion houses",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "One of her clients was Elsa Schiaparelli.",
+      "scene": {
+        "kind": "real",
+        "src": "561-schiaparelli-s-aspirin-necklace-came-from-a-novelist-1.jpg",
+        "fit": "card",
+        "label": "Schiaparelli, by Dunand",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Her most famous design used beads shaped like aspirin tablets.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Aspirin beads"
+      }
+    },
+    {
+      "text": "She used cheap materials, such as glass and cotton.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Cheap materials",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A white horsehair necklace was nicknamed a collar of snow and dream.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Snow and dream",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "She even wrote an essay about necklaces, called Colliers.",
+      "say": "She even wrote an essay about necklaces, called Col yay.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "An essay",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1944, she won France's top literary prize, the Goncourt.",
+      "say": "In nineteen forty four, she won France's top literary prize, the Gone koor.",
+      "scene": {
+        "kind": "title",
+        "text": "1944",
+        "sub": "A top prize",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "She was the first woman ever to win it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "The first woman",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Schiaparelli's aspirin necklace came from a novelist. Elsa Triolet was born in Moscow in 1896. Around 1930, she made necklaces for Paris fashion houses, and one client was Elsa Schiaparelli. Her most famous design used beads shaped like aspirin tablets. She used cheap materials, such as glass and cotton. In 1944, she won France's top literary prize, the Goncourt, and she was the first woman ever to win it.",
+    "hashtags": [
+      "#schiaparelli",
+      "#elsatriolet",
+      "#necklace",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://schiaparelli.com/en/blogs/schiaparelli-et-les-artistes/elsa-triolet-collier-schiaparelli-aspirine",
+    "https://madparis.fr/IMG/pdf/dp-shocking-schiap-fr.pdf",
+    "https://www.vam.ac.uk/info/schiaparelli-fashion-becomes-art-exhibition-large-print-guide",
+    "https://www.saintetiennedurouvray.fr/wp-content/uploads/2019/07/hors-serieWEB.pdf",
+    "https://theculturetrip.com/europe/france/paris/articles/famous-winners-of-the-prix-goncourt",
+    "https://en.wikipedia.org/wiki/Elsa_Triolet"
+  ],
+  "images": [
+    {
+      "src": "561-schiaparelli-s-aspirin-necklace-came-from-a-novelist-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Polia Chentoff (1896-1933)",
+      "page": "https://commons.wikimedia.org/wiki/File:Elsa_Triolet_par_Polia_Chentoff.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "561-schiaparelli-s-aspirin-necklace-came-from-a-novelist-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jean Dunand",
+      "page": "https://commons.wikimedia.org/wiki/File:%22Portrait_d'Elsa_Schiaparelli%22_de_J._Dunand_(mus%C3%A9e_des_arts_d%C3%A9coratifs,_Paris).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

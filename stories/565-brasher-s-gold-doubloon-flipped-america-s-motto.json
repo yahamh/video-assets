@@ -1,0 +1,174 @@
+{
+  "id": "565-brasher-s-gold-doubloon-flipped-america-s-motto",
+  "number": 565,
+  "title": "Brasher's gold doubloon flipped America's motto",
+  "style": "jewelbox",
+  "topic": "brasher doubloon 1787 ephraim brasher new york goldsmith jeweler eb stamp copper coin contract refused nova eboraca columbia excelsior unum e pluribus eagle seven known american numismatic society smithsonian",
+  "music": "music-565.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "sapphire",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Brasher's gold doubloon flipped America's motto.",
+    "gold": [
+      "flipped",
+      "America's",
+      "motto."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Brasher's gold doubloon flipped America's motto.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Ephraim Brasher was a goldsmith and jeweler in New York.",
+      "say": "Ee fray im Brasher was a goldsmith and jeweler in New York.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A New York goldsmith",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "People brought him foreign gold coins to weigh.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Gold coins to weigh",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "His EB stamp counted as proof of weight and purity.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "The EB stamp"
+      }
+    },
+    {
+      "text": "In 1787, he asked New York for a copper coin contract.",
+      "say": "In seventeen eighty seven, he asked New York for a copper coin contract.",
+      "scene": {
+        "kind": "title",
+        "text": "1787",
+        "sub": "A contract",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The state refused, and he struck gold doubloons that year.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Gold doubloons",
+        "stones": 9
+      }
+    },
+    {
+      "text": "One side shows New York's coat of arms and his name.",
+      "scene": {
+        "kind": "real",
+        "src": "565-brasher-s-gold-doubloon-flipped-america-s-motto-0.jpg",
+        "fit": "card",
+        "label": "A 1787 Brasher doubloon",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The other shows an eagle and the motto Unum E Pluribus.",
+      "scene": {
+        "kind": "real",
+        "src": "565-brasher-s-gold-doubloon-flipped-america-s-motto-1.jpg",
+        "fit": "card",
+        "label": "The eagle side",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Those are the words of E pluribus unum in a new order.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A new order",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Only seven of these doubloons are known.",
+      "say": "Only seven of these doubloons are known.",
+      "scene": {
+        "kind": "title",
+        "text": "7 known",
+        "sub": "Doubloons",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Brasher's gold doubloon flipped America's motto. Ephraim Brasher was a goldsmith and jeweler in New York, and people brought him foreign gold coins to weigh. In 1787, he asked New York for a copper coin contract. The state refused, and he struck gold doubloons that year. One side shows New York's coat of arms and his name. The other shows an eagle and the motto Unum E Pluribus, the words of E pluribus unum in a new order. Only seven of these doubloons are known.",
+    "hashtags": [
+      "#doubloon",
+      "#gold",
+      "#coins",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://numismatics.org/collection/1969.62.1",
+    "https://numismatics.org/u-s-treasures-of-the-american-numismatic-society/",
+    "https://coins.nd.edu/ColCoin/ColCoinIntros/Brasher.intro.html",
+    "https://www.money.org/nms/museum-showcase",
+    "https://si.edu/object/brasher-doubloon-united-states-1787:nmah_835233",
+    "https://en.wikipedia.org/wiki/Brasher_Doubloon"
+  ],
+  "images": [
+    {
+      "src": "565-brasher-s-gold-doubloon-flipped-america-s-motto-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Heritage Auctions (image); Ephraim Brasher (coin)",
+      "page": "https://commons.wikimedia.org/wiki/File:1787_Brasher_Doubloon_(reverse).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "565-brasher-s-gold-doubloon-flipped-america-s-motto-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Heritage Auctions (image); Ephraim Brasher (coin), modified by RHM22",
+      "page": "https://commons.wikimedia.org/wiki/File:1787_Brasher_Doubloon_(obverse)_transparent_background.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

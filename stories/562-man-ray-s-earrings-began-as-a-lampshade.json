@@ -1,0 +1,163 @@
+{
+  "id": "562-man-ray-s-earrings-began-as-a-lampshade",
+  "number": 562,
+  "title": "Man Ray's earrings began as a lampshade",
+  "style": "jewelbox",
+  "topic": "man ray earrings pendants pending pendantif pendant spiral lampshade sculpture milan gem montebello 18 karat gold twelve pairs catherine deneuve photo shoot museum of fine arts boston surrealist photographer",
+  "music": "music-562.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "citrine",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Man Ray's earrings began as a lampshade.",
+    "gold": [
+      "as",
+      "a",
+      "lampshade."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Man Ray's earrings began as a lampshade.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Man Ray was a Surrealist photographer who also designed jewelry.",
+      "scene": {
+        "kind": "real",
+        "src": "562-man-ray-s-earrings-began-as-a-lampshade-0.jpg",
+        "fit": "card",
+        "label": "Man Ray, 1934",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A Milan jeweler made his designs in the 1960s and 1970s.",
+      "say": "A Milan jeweler made his designs in the nineteen sixties and nineteen seventies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A Milan workshop",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The earrings are titled Pendants Pending, which is a pun.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Pendants Pending",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The spiral came from a lampshade sculpture that hung from a ceiling.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A hanging lampshade"
+      }
+    },
+    {
+      "text": "They are 18 karat gold, and only twelve pairs were made.",
+      "say": "They are eighteen karat gold, and only twelve pairs were made.",
+      "scene": {
+        "kind": "title",
+        "text": "12 pairs",
+        "sub": "Only that many",
+        "piece": "stone",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "They loop over the top of the ear.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Over the ear",
+        "stones": 9
+      }
+    },
+    {
+      "text": "That way, the spirals do not drag on the lobe.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "No drag"
+      }
+    },
+    {
+      "text": "Catherine Deneuve wore a pair in a Man Ray photo shoot.",
+      "say": "Catherine Deh nuhv wore a pair in a Man Ray photo shoot.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Catherine Deneuve",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A pair is kept in the Museum of Fine Arts in Boston.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Kept in Boston",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Man Ray's earrings began as a lampshade. Man Ray was a Surrealist photographer who also designed jewelry. A Milan jeweler made his designs in the 1960s and 1970s. The earrings are titled Pendants Pending, and the spiral came from a lampshade sculpture that hung from a ceiling. They are 18 karat gold, and only twelve pairs were made. Catherine Deneuve wore a pair in a Man Ray photo shoot, and a pair is kept in the Museum of Fine Arts in Boston.",
+    "hashtags": [
+      "#manray",
+      "#surrealism",
+      "#earrings",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://mfaboston6.emuseum.com/objects/457565/pendants-pending-earrings",
+    "https://thejewelryloupe.com/man-rays-jewelry-by-gem-montebello/",
+    "https://nationaljeweler.com/articles/7858-piece-of-the-week-man-ray-s-auction-earrings",
+    "https://sports.yahoo.com/surrealist-jewelry-man-ray-max-160039441.html",
+    "https://www.artsy.net/article/artsy-editorial-frank-stella-louise-bourgeois-9-artists-designed-stunning-jewelry"
+  ],
+  "images": [
+    {
+      "src": "562-man-ray-s-earrings-began-as-a-lampshade-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Carl Van Vechten",
+      "page": "https://commons.wikimedia.org/wiki/File:Man_Ray_Paris_1934.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

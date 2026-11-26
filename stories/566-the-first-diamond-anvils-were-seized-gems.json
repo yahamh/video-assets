@@ -1,0 +1,174 @@
+{
+  "id": "566-the-first-diamond-anvils-were-seized-gems",
+  "number": 566,
+  "title": "The first diamond anvils were seized gems",
+  "style": "deco",
+  "topic": "diamond anvil cell 1958 national bureau of standards washington charles weir alvin van valkenburg elmer bunting ellis lippincott seized diamonds customs hardest material clear infrared lathe hacksaw ruby fluorescence pressure gauge early 1970s nist museum",
+  "music": "music-566.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "The first diamond anvils were seized gems.",
+    "gold": [
+      "seized",
+      "gems."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The first diamond anvils were seized gems.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1958, a team in Washington built the first diamond anvil cell.",
+      "say": "In nineteen fifty eight, a team in Washington built the first diamond anvil cell.",
+      "scene": {
+        "kind": "title",
+        "text": "1958",
+        "sub": "Washington",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It squeezes a sample between two gem diamonds.",
+      "scene": {
+        "kind": "real",
+        "src": "566-the-first-diamond-anvils-were-seized-gems-0.jpg",
+        "fit": "card",
+        "label": "Diamond anvil cell research",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Diamond is the hardest material, and it lets light pass through.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Hard and clear",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The diamonds came from government stock seized by customs agents.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Seized by customs",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Other agencies could have them free if they justified the use.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Free to agencies",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Many anvils broke in testing, and new ones were too costly.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Broken anvils",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Charles Weir built the first cell with a lathe and a hacksaw.",
+      "say": "Charles Weer built the first cell with a lathe and a hacksaw.",
+      "scene": {
+        "kind": "real",
+        "src": "566-the-first-diamond-anvils-were-seized-gems-1.jpg",
+        "fit": "card",
+        "label": "The first diamond anvil cell",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In the early 1970s, a speck of ruby joined the cell.",
+      "say": "In the early nineteen seventies, a speck of ruby joined the cell.",
+      "scene": {
+        "kind": "title",
+        "text": "1970s",
+        "sub": "A speck of ruby",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Its red glow shifts with pressure, so ruby became the standard gauge.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A ruby gauge",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The first diamond anvils were seized gems. In 1958, a team at the National Bureau of Standards in Washington built the first diamond anvil cell, which squeezes a sample between two gem diamonds. Diamond is the hardest material, and it lets light pass through. The diamonds came from government stock seized by customs agents, and other agencies could have them free if they justified the use. Many anvils broke in testing, and new ones were too costly. In the early 1970s, a speck of ruby joined the cell, and its red glow shifts with pressure, so ruby became the standard gauge.",
+    "hashtags": [
+      "#diamonds",
+      "#science",
+      "#ruby",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://nvlpubs.nist.gov/nistpubs/sp958-lide/html/100-103.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4865304",
+    "https://chemistryworld.com/opinion/van-valkenbergs-anvil/8680.article",
+    "https://en.wikipedia.org/wiki/Diamond_anvil_cell",
+    "https://www.nist.gov/node/717981",
+    "https://en.wikipedia.org/wiki/Ruby_pressure_scale"
+  ],
+  "images": [
+    {
+      "src": "566-the-first-diamond-anvils-were-seized-gems-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "National Institute of Standards and Technology",
+      "page": "https://commons.wikimedia.org/wiki/File:DiamondAnvilCell_002.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "566-the-first-diamond-anvils-were-seized-gems-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Gasper J. Piermarini",
+      "page": "https://commons.wikimedia.org/wiki/File:First_diamond_anvil_cell.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

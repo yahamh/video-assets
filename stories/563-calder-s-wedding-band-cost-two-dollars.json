@@ -1,0 +1,158 @@
+{
+  "id": "563-calder-s-wedding-band-cost-two-dollars",
+  "number": 563,
+  "title": "Calder's wedding band cost two dollars",
+  "style": "deco",
+  "topic": "alexander calder wedding band two dollars waltham louisa james gold spiral ring 1930 engagement ring medusa brass cuff ocean liner 1929 doll jewelry wire sister married 1931 metropolitan museum 2008 jewelry exhibition",
+  "music": "music-563.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Calder's wedding band cost two dollars.",
+    "gold": [
+      "two",
+      "dollars."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Calder's wedding band cost two dollars.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "As a boy, Alexander Calder made jewelry for his sister's dolls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Doll jewelry",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1929, he met Louisa James on an ocean liner.",
+      "say": "In nineteen twenty nine, he met Louisa James on an ocean liner.",
+      "scene": {
+        "kind": "title",
+        "text": "1929",
+        "sub": "An ocean liner",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "His first gift to her was a brass cuff spelling Medusa.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A brass cuff",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1930, he made her a gold spiral ring.",
+      "say": "In nineteen thirty, he made her a gold spiral ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A gold spiral",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He thought it would do as a wedding ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A wedding ring",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Louisa called it her engagement ring instead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "An engagement ring"
+      }
+    },
+    {
+      "text": "So they bought a plain wedding band in Waltham for two dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A plain band",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "They married in 1931, and he gave her jewelry for birthdays.",
+      "say": "They married in nineteen thirty one, and he gave her jewelry for birthdays.",
+      "scene": {
+        "kind": "title",
+        "text": "1931",
+        "sub": "They married",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The Metropolitan Museum showed his jewelry from 2008 to 2009.",
+      "say": "The Metropolitan Museum showed his jewelry from two thousand eight to two thousand nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A museum show",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Calder's wedding band cost two dollars. As a boy, Alexander Calder made jewelry for his sister's dolls. In 1929, he met Louisa James on an ocean liner, and his first gift to her was a brass cuff spelling Medusa. In 1930, he made her a gold spiral ring. He thought it would do as a wedding ring, but Louisa called it her engagement ring. So they bought a plain wedding band in Waltham for two dollars.",
+    "hashtags": [
+      "#calder",
+      "#weddingband",
+      "#art",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://calder.org/works/jewelry/wedding-ring-1930-2",
+    "https://calder.org/bibliography/calder-jewelry-2007/alexander-s-c-rower-louisa-james",
+    "https://www.npr.org/2008/07/22/92736081/alexander-calders-jewelry-gets-its-due-finally",
+    "https://www.dailyartmagazine.com/calders-jewellery/",
+    "https://artsy.net/article/artsy-editorial-alexander-calders-jewelry-turns-people-living-sculptures",
+    "https://www.metmuseum.org/en/press-releases/calders-inventive-jewelry-featured-in-metropolitan-museum-exhibition-opening-december-9-2008-exhibitions"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of Calder's wedding band or of Calder was found on Commons; his jewelry is still under copyright"
+}
