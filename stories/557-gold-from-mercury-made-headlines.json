@@ -1,0 +1,159 @@
+{
+  "id": "557-gold-from-mercury-made-headlines",
+  "number": 557,
+  "title": "Gold from mercury made headlines",
+  "style": "deco",
+  "topic": "adolf miethe gold from mercury 1924 berlin charlottenburg quartz mercury vapor lamp 170 volts soot film morning post nature great reserve hantaro nagaoka tokyo milligram scientific american duplicate lamp new york university entire failure to confirm oxford 1926 electrodes",
+  "music": "music-557.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "citrine",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Gold from mercury made headlines.",
+    "gold": [
+      "mercury",
+      "headlines."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold from mercury made headlines.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In July 1924, Berlin professor Adolf Miethe announced gold made from mercury.",
+      "say": "In July nineteen twenty four, Berlin professor Adolf Mee teh announced gold made from mercury.",
+      "scene": {
+        "kind": "title",
+        "text": "1924",
+        "sub": "Berlin",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In his quartz mercury lamp, he reported gold in a sooty film.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A sooty film",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "London's Morning Post ran the headline Gold from Mercury.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A newspaper headline",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Nature's editors said it must be received with great reserve.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Great reserve",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In Tokyo, Hantaro Nagaoka reported about a milligram of gold.",
+      "say": "In Tokyo, Han ta ro Nah gah oh kah reported about a milligram of gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A milligram in Tokyo",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Scientific American sent a duplicate lamp to New York University.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A duplicate lamp",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Its test was an entire failure to confirm the gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A failed test"
+      }
+    },
+    {
+      "text": "In 1926, an Oxford physicist said it came from the electrodes.",
+      "say": "In nineteen twenty six, an Oxford physicist said it came from the electrodes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "The electrodes",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The lamp ran on just 170 volts.",
+      "say": "The lamp ran on just one hundred seventy volts.",
+      "scene": {
+        "kind": "title",
+        "text": "170 volts",
+        "sub": "Just that much",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Gold from mercury made headlines. In July 1924, Berlin professor Adolf Miethe announced gold made from mercury. In his quartz mercury lamp, he reported gold in a sooty film. London's Morning Post ran the headline Gold from Mercury, and Nature's editors said it must be received with great reserve. In Tokyo, Hantaro Nagaoka reported about a milligram of gold. Scientific American sent a duplicate lamp to New York University, and its test was an entire failure to confirm the gold. In 1926, an Oxford physicist said the gold came from the electrodes. The lamp ran on just 170 volts.",
+    "hashtags": [
+      "#gold",
+      "#mercury",
+      "#alchemy",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://time.com/archive/6652756/the-eightieth-electron",
+    "https://www.nature.com/articles/114197a0",
+    "https://archive.spectator.co.uk/article/26th-july-1924/3/the-newspapers-are-always-the-chief-playground-of-",
+    "https://dynamic-rsnz.natlib.govt.nz/newspapers/HAWST19241129.2.26",
+    "https://www.alchemywebsite.com/nelson2_7.html",
+    "https://www.nature.com/articles/118084a0.pdf"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of Miethe's lamp or the 1924 headlines was found; no picture search was run for this story"
+}
