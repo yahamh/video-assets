@@ -7057,7 +7057,11 @@
     "zernio_id": "6b0621475e5648aeab2c1230",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgM8xISNxLD/"
+    }
   },
   "496-zooey-deschanel-s-ring-missed-its-flight": {
     "at": "2026-11-26T11:30:00Z",
@@ -7066,7 +7070,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1690409279508030",
+      "instagram": "https://www.instagram.com/reel/DgNAQrfAxcf/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712441388717116679"
+    }
   },
   "497-van-cleef-s-jewels-became-a-ballet": {
     "at": "2026-11-26T12:00:00Z",
@@ -7074,7 +7084,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1518460350126055",
+      "instagram": "https://www.instagram.com/reel/DgND7zphFhy/"
+    }
   },
   "498-whoopi-goldberg-refused-to-wear-rhinestones": {
     "at": "2026-11-26T12:30:00Z",
@@ -7082,7 +7097,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2329665747871496",
+      "instagram": "https://www.instagram.com/reel/DgNHG83zqLR/"
+    }
   },
   "499-the-hope-diamond-hung-on-a-dog": {
     "at": "2026-11-26T13:00:00Z",
@@ -7090,7 +7110,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgNKijPTB4Q/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712464574955425044"
+    }
   },
   "500-agatha-christie-s-gems-hid-in-a-trunk": {
     "at": "2026-11-26T13:30:00Z",
@@ -7098,7 +7123,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2703491180097164",
+      "instagram": "https://www.instagram.com/reel/DgNN6SdBRZI/"
+    }
   },
   "501-cartier-s-movie-necklace-was-mostly-zirconia": {
     "at": "2026-11-26T14:00:00Z",
@@ -7107,7 +7137,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2581920775606080",
+      "instagram": "https://www.instagram.com/reel/DgNRiFGNluU/",
+      "youtube": "https://www.youtube.com/watch?v=1-C5eBZ35OY"
+    }
   },
   "502-downton-abbey-s-royal-tiara-was-pewter": {
     "at": "2026-11-26T14:30:00Z",
@@ -7115,7 +7151,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgNU0a3PgTN/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712487694474939700"
+    }
   },
   "503-faberg-s-pink-egg-crows-every-hour": {
     "at": "2026-11-26T15:00:00Z",
@@ -7123,7 +7164,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1583222073848341",
+      "instagram": "https://www.instagram.com/reel/DgNYhShiolw/"
+    }
   },
   "504-peggy-guggenheim-wore-mismatched-earrings": {
     "at": "2026-11-26T15:30:00Z",
@@ -7131,7 +7177,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1172151445342822",
+      "instagram": "https://www.instagram.com/reel/DgNbv7VR0c5/"
+    }
   },
   "505-carrie-underwood-feared-being-tackled": {
     "at": "2026-11-26T16:00:00Z",
@@ -7140,14 +7191,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1792300016229661",
+      "instagram": "https://www.instagram.com/reel/DgNfIuGIS-p/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712510842679397650"
+    }
   },
   "506-a-tiffany-bracelet-landed-in-a-kettle": {
     "at": "2026-11-26T16:30:00Z",
     "zernio_id": "6b066fda70dd18b364130e7d",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgNih2kBFp8/"
+    }
   },
   "507-frankenstein-s-heroine-wore-tiffany-beetles": {
     "at": "2026-11-26T17:00:00Z",
@@ -7566,6 +7627,79 @@
     "platforms": [
       "instagram",
       "tiktok"
+    ]
+  },
+  "558-henry-viii-s-pendant-looked-like-a-fake": {
+    "at": "2026-11-27T22:30:00Z",
+    "zernio_id": "6b0865ea901660be11d9f16d",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "559-tiffany-polished-a-diamond-with-meteorite-dust": {
+    "at": "2026-11-27T23:00:00Z",
+    "zernio_id": "6b0865f029b1408f5e3f61da",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "560-early-tony-winners-got-a-money-clip": {
+    "at": "2026-11-27T23:30:00Z",
+    "zernio_id": "6b0865f629b1408f5e3f620a",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "561-schiaparelli-s-aspirin-necklace-came-from-a-novelist": {
+    "at": "2026-11-28T00:00:00Z",
+    "zernio_id": "6b0865fc59ae90c8fbbfd43e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "562-man-ray-s-earrings-began-as-a-lampshade": {
+    "at": "2026-11-28T00:30:00Z",
+    "zernio_id": "6b08660119ae9b1e116f3287",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "563-calder-s-wedding-band-cost-two-dollars": {
+    "at": "2026-11-28T01:00:00Z",
+    "zernio_id": "6b08660529b1408f5e3f6252",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "564-the-fields-medal-s-date-has-a-typo": {
+    "at": "2026-11-28T01:30:00Z",
+    "zernio_id": "6b08660b19ae9b1e116f32ce",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "565-brasher-s-gold-doubloon-flipped-america-s-motto": {
+    "at": "2026-11-28T02:00:00Z",
+    "zernio_id": "6b086611e6a81beb4a54a35d",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "566-the-first-diamond-anvils-were-seized-gems": {
+    "at": "2026-11-28T02:30:00Z",
+    "zernio_id": "6b086617eb7893a06052f3fb",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -8187,7 +8321,11 @@
     "zernio_id": "6aff86ff20ea68d0fa0d7359",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=iTbHA6JxTV4"
+    }
   },
   "lesson-035-bezel-setting": {
     "at": "2026-11-27T16:00:00Z",
