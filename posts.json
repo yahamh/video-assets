@@ -6976,7 +6976,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1454206346244099",
+      "instagram": "https://www.instagram.com/reel/DgMogLSABfV/"
+    }
   },
   "490-katy-perry-s-proposal-tore-a-pocket": {
     "at": "2026-11-26T08:30:00Z",
@@ -6985,14 +6990,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1894243425266081",
+      "instagram": "https://www.instagram.com/reel/DgMrr5sPX17/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712394944798838036"
+    }
   },
   "491-cartier-s-clock-hands-seem-to-float": {
     "at": "2026-11-26T09:00:00Z",
     "zernio_id": "6b062127b04d804a5a91c811",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgMvE5XBsFG/"
+    }
   },
   "492-kelly-clarkson-s-diamond-vanished-during-her-set": {
     "at": "2026-11-26T09:30:00Z",
@@ -7000,7 +7015,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1467733588230642",
+      "instagram": "https://www.instagram.com/reel/DgMyh8tBSS_/"
+    }
   },
   "493-graff-s-blue-diamond-once-lacked-a-name": {
     "at": "2026-11-26T10:00:00Z",
@@ -7009,7 +7029,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1808926257028369",
+      "instagram": "https://www.instagram.com/reel/DgM2PVohhEG/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712418829741149461"
+    }
   },
   "494-the-cubs-ring-counts-108-years": {
     "at": "2026-11-26T10:30:00Z",
@@ -7018,7 +7044,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1379437224123920",
+      "instagram": "https://www.instagram.com/reel/DgM5cyGMadw/",
+      "youtube": "https://www.youtube.com/watch?v=E3uoTT8BT2E"
+    }
   },
   "495-taylor-s-oscar-tiara-was-a-husband-s-idea": {
     "at": "2026-11-26T11:00:00Z",
@@ -7448,6 +7480,81 @@
   "547-a-princess-margaret-tiara-had-a-screwdriver": {
     "at": "2026-11-27T17:00:00Z",
     "zernio_id": "6b07c05117a9a783e3d3b8d4",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "548-tiffany-s-emerald-had-no-buyer-for-years": {
+    "at": "2026-11-27T17:30:00Z",
+    "zernio_id": "6b0811cb027bc158614f24e4",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "549-webb-s-mirrors-wear-five-wedding-rings": {
+    "at": "2026-11-27T18:00:00Z",
+    "zernio_id": "6b0811d0027bc158614f24f8",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "550-edward-viii-s-hair-parting-broke-coin-tradition": {
+    "at": "2026-11-27T18:30:00Z",
+    "zernio_id": "6b0811d4027bc158614f2516",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "551-voyager-s-golden-record-isn-t-solid-gold": {
+    "at": "2026-11-27T19:00:00Z",
+    "zernio_id": "6b0811d8f1c6b1426590446b",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "552-cartier-once-made-snow-white-charms": {
+    "at": "2026-11-27T19:30:00Z",
+    "zernio_id": "6b0811dcf1c6b14265904478",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "553-scientists-made-diamond-rain-from-plastic": {
+    "at": "2026-11-27T20:00:00Z",
+    "zernio_id": "6b0811e0fcb56eda10b0ef95",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "554-fred-astaire-s-gift-was-one-gold-feather": {
+    "at": "2026-11-27T20:30:00Z",
+    "zernio_id": "6b0811e42bff307019306c2a",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "555-particles-bounced-back-off-gold-foil": {
+    "at": "2026-11-27T21:00:00Z",
+    "zernio_id": "6b0811e8f2066425e01b31a8",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "556-eucalyptus-leaves-hold-flecks-of-gold": {
+    "at": "2026-11-27T21:30:00Z",
+    "zernio_id": "6b0811ed2bff307019306c59",
     "platforms": [
       "facebook",
       "instagram"
