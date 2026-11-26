@@ -1,0 +1,171 @@
+{
+  "id": "540-faberge-hid-a-train-in-an-egg",
+  "number": 540,
+  "title": "Faberge hid a train in an egg",
+  "style": "gouache",
+  "topic": "faberge trans siberian railway egg 1900 tsar nicholas ii empress alexandra silver green enamel 26 cm map clockwork train gold platinum ladies only smoking chapel car gem lamps gold key kremlin armoury 1927",
+  "music": "music-540.wav",
+  "piece": {
+    "piece": "egg",
+    "tone": "green",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Faberge hid a train in an egg.",
+    "gold": [
+      "train",
+      "egg."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Faberge hid a train in an egg.",
+      "say": "Fab er zhay hid a train in an egg.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1900, Tsar Nicholas II gave his wife a Faberge egg.",
+      "say": "In nineteen hundred, Tsar Nicholas the Second gave his wife a Fab er zhay egg.",
+      "scene": {
+        "kind": "title",
+        "text": "1900",
+        "sub": "A gift for the Empress",
+        "piece": "egg",
+        "stone": null,
+        "metal": "yellow",
+        "tone": "green"
+      }
+    },
+    {
+      "text": "It celebrates the railway across Siberia, then nearly finished.",
+      "scene": {
+        "kind": "real",
+        "src": "540-faberge-hid-a-train-in-an-egg-0.jpg",
+        "fit": "card",
+        "label": "The Siberian railway, 1913",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The silver egg has green enamel and stands 26 centimeters tall.",
+      "say": "The silver egg has green enamel and stands twenty six centimeters tall.",
+      "scene": {
+        "kind": "real",
+        "src": "540-faberge-hid-a-train-in-an-egg-1.jpg",
+        "fit": "card",
+        "label": "Egg with a model train",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "An engraved band maps the line, and the unfinished stretch is dotted.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A dotted map"
+      }
+    },
+    {
+      "text": "Inside is a clockwork model train in gold and platinum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A model train",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Its carriages have signs like ladies only and smoking.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Ladies only",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The last car is a tiny chapel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A chapel car",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Gems are the engine's lamps, and a gold key winds it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A tiny gold key",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It has been kept in Moscow's Kremlin Armoury since 1927.",
+      "say": "It has been kept in Moscow's Kremlin Armoury since nineteen twenty seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1927",
+        "sub": "The Kremlin",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Faberge hid a train in an egg. In 1900, Tsar Nicholas the Second gave his wife a Faberge Easter egg celebrating the railway across Siberia, then nearly finished. The silver egg has green enamel and stands 26 centimeters tall, and an engraved band maps the line with the unfinished stretch dotted. Inside is a clockwork model train in gold and platinum, with signs for ladies only and smoking and a tiny chapel for its last car. Gems are the engine's lamps, and a gold key winds it. It has been kept in Moscow's Kremlin Armoury since 1927.",
+    "hashtags": [
+      "#faberge",
+      "#fabergeegg",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trans-Siberian_Railway_(Faberg%C3%A9_egg)",
+    "https://kreml.ru/en-Us/exhibitions/virtual-exhibitions.paskhalnoe-yaytso-klever/paskhalnoe-yaytso-s-modelyu-sibirskogo-poezda",
+    "https://collectiononline.kreml.ru/en/entity/OBJECT/405171",
+    "https://wintraecken.nl/mieks/faberge/eggs/1900-Trans-Siberian-Railway-Egg.htm",
+    "https://universalcompendium.com/gen_images/ucg/faberge/trans-siberian-railway-egg-surprise-revolution-jewels-russia-faberge-romanov-kremlin-armoury-tsarina.htm"
+  ],
+  "images": [
+    {
+      "src": "540-faberge-hid-a-train-in-an-egg-0.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "Internet Archive Book Images",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Trans-Siberian_Railway,_c._1913.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "540-faberge-hid-a-train-in-an-egg-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Maxim Sinelshchikov",
+      "page": "https://commons.wikimedia.org/wiki/File:Trans-Siberian_Railway_(Faberg%C3%A9_egg).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

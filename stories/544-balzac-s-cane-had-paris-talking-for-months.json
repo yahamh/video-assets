@@ -1,0 +1,170 @@
+{
+  "id": "544-balzac-s-cane-had-paris-talking-for-months",
+  "number": 544,
+  "title": "Balzac's cane had Paris talking for months",
+  "style": "jewelbox",
+  "topic": "balzac cane gold turquoise 1834 le cointe 700 francs credit april 1835 hollow capsule madame hanska necklace girl threatens to become european gossip six months girardin 1836 invisible maison de balzac 47 rue raynouard",
+  "music": "music-544.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "aquamarine",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Balzac's cane had Paris talking for months.",
+    "gold": [
+      "cane",
+      "months."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Balzac's cane had Paris talking for months.",
+      "say": "Bal zak's cane had Paris talking for months.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1834, Balzac ordered a cane topped with gold and turquoises.",
+      "say": "In eighteen thirty four, Bal zak ordered a cane topped with gold and turquoises.",
+      "scene": {
+        "kind": "real",
+        "src": "544-balzac-s-cane-had-paris-talking-for-months-0.jpg",
+        "fit": "card",
+        "label": "Balzac by Boulanger, 1836",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It cost 700 francs, and he bought it on credit.",
+      "say": "It cost seven hundred francs, and he bought it on credit.",
+      "scene": {
+        "kind": "title",
+        "text": "700 francs",
+        "sub": "Bought on credit",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The knob hides a small capsule, and nobody knows what it held.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A hidden capsule",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It holds pieces of a necklace Madame Hanska wore as a girl.",
+      "say": "It holds pieces of a necklace Madame Hahn ska wore as a girl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Madame Hanska",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Balzac wrote that this jewel threatens to become European.",
+      "say": "Bal zak wrote that this jewel threatens to become European.",
+      "scene": {
+        "kind": "real",
+        "src": "544-balzac-s-cane-had-paris-talking-for-months-1.jpg",
+        "fit": "card",
+        "label": "Balzac, a pastel portrait",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Gossip papers talked about the cane for about six months.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Gossip papers",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In 1836, a short novel about the cane made its holder invisible.",
+      "say": "In eighteen thirty six, a short novel about the cane made its holder invisible.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "An invisible holder"
+      }
+    },
+    {
+      "text": "The cane is kept in the Maison de Balzac in Paris.",
+      "say": "The cane is kept in the May zon duh Bal zak in Paris.",
+      "scene": {
+        "kind": "real",
+        "src": "544-balzac-s-cane-had-paris-talking-for-months-2.jpg",
+        "fit": "card",
+        "label": "Inside the Maison de Balzac",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Balzac's cane had Paris talking for months. In 1834, Balzac ordered a cane topped with gold and turquoises. It cost 700 francs, and he bought it on credit. The knob hides a small capsule, and nobody knows what it held, and it holds pieces of a necklace Madame Hanska wore as a girl. Balzac wrote that this jewel threatens to become European, and gossip papers talked about the cane for about six months. In 1836, a short novel about the cane made its holder invisible. The cane is kept in the Maison de Balzac in Paris.",
+    "hashtags": [
+      "#balzac",
+      "#gold",
+      "#turquoise",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.maisondebalzac.paris.fr/en/en-reserve/la-canne-aux-turquoises",
+    "https://www.napoleon.org/en/magazine/museums/files/Home_Balzac.asp",
+    "https://bonjourparis.com/writers-in-paris/la-maison-de-balzac/",
+    "https://www.gutenberg.org/ebooks/21343",
+    "https://bazardelhistoire.com/objets/la-canne-aux-turquoises-de-balzac/",
+    "https://www.galeriejantzen.com/la-mysterieuse-canne-aux-turquoises-de-balzac/"
+  ],
+  "images": [
+    {
+      "src": "544-balzac-s-cane-had-paris-talking-for-months-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Louis Boulanger",
+      "page": "https://commons.wikimedia.org/wiki/File:Balzac_(par_Boulanger).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "544-balzac-s-cane-had-paris-talking-for-months-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jean Alfred Gérard-Séguin",
+      "page": "https://commons.wikimedia.org/wiki/File:Balzac_G%C3%A9rard-S%C3%A9guin.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "544-balzac-s-cane-had-paris-talking-for-months-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Romainbehar",
+      "page": "https://commons.wikimedia.org/wiki/File:Paris_16e_-_Maison_de_Balzac_-_Cabinet_de_travail_de_Balzac.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

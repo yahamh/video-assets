@@ -1,0 +1,154 @@
+{
+  "id": "542-victoria-s-brooch-holds-a-baby-tooth",
+  "number": 542,
+  "title": "Victoria's brooch holds a baby tooth",
+  "style": "deco",
+  "topic": "queen victoria baby tooth brooch 1847 ardverikie loch laggan princess victoria milk tooth prince albert pulled thistle gold enamel stag teeth garrard holly brooch 1851 dee september 1850 royal collection",
+  "music": "music-542.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "amethyst",
+    "cut": "round",
+    "petals": 8,
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Victoria's brooch holds a baby tooth.",
+    "gold": [
+      "brooch",
+      "tooth."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Victoria's brooch holds a baby tooth.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In September 1847, the royal family stayed in the Scottish Highlands.",
+      "say": "In September eighteen forty seven, the royal family stayed in the Scottish Highlands.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "The Scottish Highlands"
+      }
+    },
+    {
+      "text": "Their eldest child, Princess Victoria, lost her first milk tooth.",
+      "scene": {
+        "kind": "real",
+        "src": "542-victoria-s-brooch-holds-a-baby-tooth-0.jpg",
+        "fit": "card",
+        "label": "Victoria and her eldest",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Prince Albert pulled the tooth himself.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Pulled by Albert",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The tooth was made into a thistle brooch for the Queen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A thistle brooch",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Albert was a hunter who often had stag teeth set in jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Stag teeth",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 1851, he gave her a holly brooch with two stag teeth.",
+      "say": "In eighteen fifty one, he gave her a holly brooch with two stag teeth.",
+      "scene": {
+        "kind": "title",
+        "text": "1851",
+        "sub": "A holly brooch",
+        "piece": "brooch",
+        "stone": "peridot",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The holly brooch was made by Garrard, the royal jewelers.",
+      "say": "The holly brooch was made by Gar ard, the royal jewelers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Garrard",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It is engraved Dee, September 11, 1850, from Albert.",
+      "say": "It is engraved Dee, September eleventh, eighteen fifty, from Albert.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Engraved Dee"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Victoria's brooch holds a baby tooth. In September 1847, the royal family stayed in the Scottish Highlands, where their eldest child, Princess Victoria, lost her first milk tooth. Prince Albert pulled it himself, and the tooth was made into a thistle brooch for the Queen. Albert was a hunter who often had stag teeth set in jewelry. In 1851, he gave her a holly brooch with two stag teeth, made by Garrard. It is engraved Dee, September 11, 1850, from Albert.",
+    "hashtags": [
+      "#queenvictoria",
+      "#princealbert",
+      "#royaljewels",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rct.uk/collection/stories/victoria-and-albert-gifts-exchanged/stag-tooth-brooch",
+    "https://rct.uk/collection/exhibitions/victoria-albert-art-love/the-queens-gallery-buckingham-palace/brooch-3",
+    "https://lisawallerrogers.com/2010/03/15/victoria-albert-art-love",
+    "https://fashionmagpiejewellery.blogspot.com/2015/06/thursday-throwback-teeth-of-queen.html",
+    "https://twonerdyhistorygirls.blogspot.com/2011/06/queen-victorias-baby-tooth-brooch-1847.html",
+    "https://royalcentral.co.uk/interests/history/from-scotland-with-love-queen-victoria-125493/"
+  ],
+  "images": [
+    {
+      "src": "542-victoria-s-brooch-holds-a-baby-tooth-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unidentified photographer",
+      "page": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_the_Princess_Royal_Victoria_c1844-5.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

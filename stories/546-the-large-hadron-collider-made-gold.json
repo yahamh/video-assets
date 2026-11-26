@@ -1,0 +1,180 @@
+{
+  "id": "546-the-large-hadron-collider-made-gold",
+  "number": 546,
+  "title": "The Large Hadron Collider made gold",
+  "style": "gouache",
+  "topic": "large hadron collider made gold cern alice 2025 lead to gold alchemists 82 protons 79 near misses electromagnetic fields 86 billion gold nuclei 2015 to 2018 microsecond 29 trillionths of a gram physical review c",
+  "music": "music-546.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Large Hadron Collider made gold.",
+    "gold": [
+      "Collider",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Large Hadron Collider made gold.",
+      "say": "The Large Had ron Collider made gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Turning lead into gold was the dream of medieval alchemists.",
+      "scene": {
+        "kind": "real",
+        "src": "546-the-large-hadron-collider-made-gold-0.jpg",
+        "fit": "card",
+        "label": "The Holtermann gold nugget",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In May 2025, scientists at CERN said they had done it.",
+      "say": "In May twenty twenty five, scientists at sern said they had done it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Done at CERN",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Lead has 82 protons and gold has 79.",
+      "say": "Lead has eighty two protons and gold has seventy nine.",
+      "scene": {
+        "kind": "title",
+        "text": "82 to 79",
+        "sub": "Protons",
+        "piece": "stone",
+        "stone": "morganite",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "So a lead nucleus must lose three protons.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Three protons lost"
+      }
+    },
+    {
+      "text": "It happens when lead nuclei nearly miss each other.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Near misses",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Their strong electromagnetic fields can knock protons out.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Knocked out"
+      }
+    },
+    {
+      "text": "From 2015 to 2018, it made about 86 billion gold nuclei.",
+      "say": "From twenty fifteen to twenty eighteen, it made about eighty six billion gold nuclei.",
+      "scene": {
+        "kind": "real",
+        "src": "546-the-large-hadron-collider-made-gold-1.jpg",
+        "fit": "card",
+        "label": "The collider ring, from space",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Each one lasted about a microsecond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "A microsecond",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "That is trillions of times too little to make jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Too little",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "All together, they weigh about 29 trillionths of a gram.",
+      "say": "All together, they weigh about twenty nine trillionths of a gram.",
+      "scene": {
+        "kind": "title",
+        "text": "29 trillionths",
+        "sub": "Of a gram",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Large Hadron Collider made gold. Turning lead into gold was the dream of medieval alchemists, and in May 2025, scientists at CERN said they had done it. Lead has 82 protons and gold has 79, so a lead nucleus must lose three protons, which happens when lead nuclei nearly miss each other and their strong electromagnetic fields knock protons out. From 2015 to 2018, the collider made about 86 billion gold nuclei, and each one lasted about a microsecond. That is trillions of times too little to make jewelry. All together, they weigh about 29 trillionths of a gram.",
+    "hashtags": [
+      "#cern",
+      "#gold",
+      "#alchemy",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://home.cern/alice-detects-conversion-lead-gold-lhc/",
+    "https://www.scientificamerican.com/article/large-hadron-collider-physicists-turn-lead-into-gold-for-a-fraction-of-a/",
+    "https://theregister.com/2025/05/12/cern_lead_into_gold/",
+    "https://www.fox9.com/news/lhc-gold-transmutation-lead",
+    "https://news.ku.edu/news/article/techniques-honed-by-kansas-nuclear-physicists-helped-detect-creation-of-gold-in-large-hadron-collider-collisions"
+  ],
+  "images": [
+    {
+      "src": "546-the-large-hadron-collider-made-gold-0.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "State Library of New South Wales v/o:Bernard Otto Holtermann with a gold-quartz specimen discovered in 1872, composite p",
+      "page": "https://commons.wikimedia.org/wiki/File:B.O._Holtermann_with_the_Holtermann_Nugget,_North_Sydney,_1874-1876_-_American_%26_Australasian_Photographic_Company_(8575721367)-Colorized.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "546-the-large-hadron-collider-made-gold-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
+      "page": "https://commons.wikimedia.org/wiki/File:CERN_Collider,_France-Switzerland_(ASTER).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

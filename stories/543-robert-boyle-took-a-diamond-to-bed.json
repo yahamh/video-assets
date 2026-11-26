@@ -1,0 +1,164 @@
+{
+  "id": "543-robert-boyle-took-a-diamond-to-bed",
+  "number": 543,
+  "title": "Robert Boyle took a diamond to bed",
+  "style": "gouache",
+  "topic": "robert boyle diamond bed 1663 mr clayton shone like rotten wood bodkin electrical faculty letter sir robert moray royal society 28 october 1664 book experiments touching colours luminous",
+  "music": "music-543.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Robert Boyle took a diamond to bed.",
+    "gold": [
+      "Boyle",
+      "bed."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Robert Boyle took a diamond to bed.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In October 1663, he borrowed a diamond from a Mr Clayton.",
+      "say": "In October sixteen sixty three, he borrowed a diamond from a Mister Clayton.",
+      "scene": {
+        "kind": "real",
+        "src": "543-robert-boyle-took-a-diamond-to-bed-0.jpg",
+        "fit": "card",
+        "label": "Robert Boyle, 1689",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Rubbed on cloth in the dark, it shone like rotten wood.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Rubbed in the dark",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "So he took it to bed to test it in the dark.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A bedtime test",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He saw it shine inside the curtains of his bed.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Inside the curtains",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Pressing it with a steel bodkin also made light.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A steel bodkin",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It also pulled small light things toward it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Pulling light things",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He wrote it all up in a letter to Sir Robert Moray.",
+      "say": "He wrote it all up in a letter to Sir Robert Murray.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A letter"
+      }
+    },
+    {
+      "text": "The note was read to the Royal Society the next day.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "The Royal Society",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Boyle printed his account in 1664, in a book on colors.",
+      "say": "Boyle printed his account in sixteen sixty four, in a book on colors.",
+      "scene": {
+        "kind": "title",
+        "text": "1664",
+        "sub": "A book on colors",
+        "piece": "ring",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Robert Boyle took a diamond to bed. In October 1663, the scientist borrowed a diamond from a Mr Clayton. Rubbed on cloth in the dark, it shone like rotten wood, so he took it to bed to test it in the dark. Pressing it with a steel bodkin also made light, and it pulled small light things toward it. He wrote it all up in a letter to Sir Robert Moray, and the note was read to the Royal Society the next day. Boyle printed his account in 1664, in a book on colors.",
+    "hashtags": [
+      "#robertboyle",
+      "#diamonds",
+      "#royalsociety",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://makingscience.royalsociety.org/items/rbo_2i_77/observations-made-27th-october-1663-about-mr-claytons-diamond-by-robert-boyle",
+    "https://makingscience.royalsociety.org/items/clp_9i_11/paper-observations-of-mr-claytons-diamond-by-robert-boyle",
+    "https://dbnl.org/tekst/huyg003oeuv04_01/huyg003oeuv04_01_0248.php",
+    "https://lateralscience.blogspot.com/2012/11/in-bed-with-boyle-claytons.html",
+    "https://en.wikipedia.org/wiki/Luminous_gemstones",
+    "https://gutenberg.org/ebooks/14504.html.images"
+  ],
+  "images": [
+    {
+      "src": "543-robert-boyle-took-a-diamond-to-bed-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Johann Kerseboom",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

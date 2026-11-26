@@ -1,0 +1,169 @@
+{
+  "id": "538-elizabeth-taylor-swam-in-a-tiara",
+  "number": 538,
+  "title": "Elizabeth Taylor swam in a tiara",
+  "style": "jewelbox",
+  "topic": "elizabeth taylor cartier ruby necklace tiara swimming pool cap ferrat french riviera mike todd august 1957 no mirror looked into the water home movie 20 seconds burmese rubies christie's 2011 cartier collection",
+  "music": "music-538.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "ruby",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Elizabeth Taylor swam in a tiara.",
+    "gold": [
+      "swam",
+      "tiara."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Elizabeth Taylor swam in a tiara.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1957, her husband Mike Todd gave her Cartier rubies.",
+      "say": "In nineteen fifty seven, her husband Mike Todd gave her Cartier rubies.",
+      "scene": {
+        "kind": "real",
+        "src": "538-elizabeth-taylor-swam-in-a-tiara-0.jpg",
+        "fit": "card",
+        "label": "Taylor and Mike Todd, 1957",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It happened at a villa on the French Riviera.",
+      "scene": {
+        "kind": "real",
+        "src": "538-elizabeth-taylor-swam-in-a-tiara-1.jpg",
+        "fit": "card",
+        "label": "Elizabeth Taylor, late 1950s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She was in the swimming pool, wearing a diamond tiara.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A diamond tiara",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "With no mirror around, she looked at herself in the water.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "No mirror",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "She shrieked with joy and pulled him into the pool.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Pulled into the pool"
+      }
+    },
+    {
+      "text": "A friend filmed it on a home movie camera.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A home movie",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The rubies in that set are from Burma.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Burmese rubies"
+      }
+    },
+    {
+      "text": "After a 2011 sale, the necklace went back to Cartier's own collection.",
+      "say": "After a two thousand eleven sale, the necklace went back to Cartier's own collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Back to Cartier",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The home movie of that swim lasts about 20 seconds.",
+      "say": "The home movie of that swim lasts about twenty seconds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "About 20 seconds",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Elizabeth Taylor swam in a tiara. In 1957, her husband Mike Todd gave her Cartier rubies at a villa on the French Riviera while she was in the swimming pool wearing a diamond tiara. She wrote that with no mirror around, she looked at herself in the water, then she pulled him into the pool. A friend filmed it on a home movie camera, and the film lasts about 20 seconds. The rubies are from Burma, and after a 2011 sale the necklace went back to Cartier's own collection.",
+    "hashtags": [
+      "#elizabethtaylor",
+      "#cartier",
+      "#rubies",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://thecourtjeweller.com/2025/07/dame-elizabeth-taylors-royal-cartier-ruby-moment-in-london.html",
+    "https://anothermag.com/art-photography/2143/the-art-of-cartier",
+    "https://theadventurine.com/culture/elizabeth-taylor/elizabeth-taylors-rubies-go-on-the-auction-block",
+    "https://www.christies.com.cn/lot/lot-5507951",
+    "https://rapaport.com/?p=40446",
+    "https://gemsaboutjewels.blogspot.com/2011/09/elizabeth-taylor-and-mike-todd-what-guy.html"
+  ],
+  "images": [
+    {
+      "src": "538-elizabeth-taylor-swam-in-a-tiara-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Toni Frissell",
+      "page": "https://commons.wikimedia.org/wiki/File:Liz_Taylor,_Liza_Todd_and_Mike_Todd_by_Toni_Frissell,_1957.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "538-elizabeth-taylor-swam-in-a-tiara-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "MGM publicity still",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Taylor,_late_1950s.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

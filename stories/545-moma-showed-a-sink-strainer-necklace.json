@@ -1,0 +1,172 @@
+{
+  "id": "545-moma-showed-a-sink-strainer-necklace",
+  "number": 545,
+  "title": "MoMA showed a sink strainer necklace",
+  "style": "deco",
+  "topic": "anni albers alex reed sink strainer paper clips necklace black mountain college monte alban hardware store washers 1942 talk kitchen sink stoppers moma 1946 modern handmade jewelry calder albers foundation bethany connecticut",
+  "music": "music-545.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "topaz",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "MoMA showed a sink strainer necklace.",
+    "gold": [
+      "sink",
+      "necklace."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "MoMA showed a sink strainer necklace.",
+      "say": "Mo MA showed a sink strainer necklace.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Bauhaus weaver Anni Albers made jewelry with her student Alex Reed.",
+      "say": "Bow house weaver Anni Al berz made jewelry with her student Alex Reed.",
+      "scene": {
+        "kind": "real",
+        "src": "545-moma-showed-a-sink-strainer-necklace-0.jpg",
+        "fit": "card",
+        "label": "Anni Albers rug design, 1927",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It began with ancient jewels from a tomb in Mexico.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Jewels from Mexico"
+      }
+    },
+    {
+      "text": "Albers said jewelry usually meant gold and silver, pearls or diamonds.",
+      "say": "Al berz said jewelry usually meant gold and silver, pearls or diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Gold and pearls",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "So they shopped at hardware stores and five and dime stores.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Hardware stores",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "They used washers and paper clips.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Washers and paper clips",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1942, she said they were enchanted by kitchen sink stoppers.",
+      "say": "In nineteen forty two, she said they were enchanted by kitchen sink stoppers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Enchanted",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Their best known necklace hangs paper clips from a sink strainer.",
+      "scene": {
+        "kind": "real",
+        "src": "545-moma-showed-a-sink-strainer-necklace-1.jpg",
+        "fit": "card",
+        "label": "A sink strainer",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1946, MoMA's Modern Handmade Jewelry show included their pieces.",
+      "say": "In nineteen forty six, Mo MA's Modern Handmade Jewelry show included their pieces.",
+      "scene": {
+        "kind": "title",
+        "text": "1946",
+        "sub": "A MoMA show",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The Albers Foundation in Connecticut keeps the necklace.",
+      "say": "The Al berz Foundation in Connecticut keeps the necklace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Kept in Connecticut"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "MoMA showed a sink strainer necklace. Bauhaus weaver Anni Albers made jewelry with her student Alex Reed, inspired by ancient jewels from a tomb in Mexico. She said jewelry usually meant gold and silver, pearls or diamonds, so they shopped at hardware stores and five and dime stores for washers and paper clips. Their best known necklace hangs paper clips from a sink strainer. In 1946, MoMA's Modern Handmade Jewelry show included their pieces. The Albers Foundation in Connecticut keeps the necklace.",
+    "hashtags": [
+      "#annialbers",
+      "#moma",
+      "#bauhaus",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://albersfoundation.org/alberses/teaching/anni-albers/on-jewelry",
+    "https://guide.zpk.org/en/artwork/9877",
+    "https://maharam.com/stories/anni-albers-hardware",
+    "https://artjewelryforum.org/articles/anni-albersaes-and-alex-reedaes-drain-and-paperclip-necklace/",
+    "https://elephant.art/anni-albers-necklace-c-1940/",
+    "https://www.moma.org/docs/press_archives/1064/releases/MOMA_1946-1947_0047_1946-09-16_46916-45.pdf"
+  ],
+  "images": [
+    {
+      "src": "545-moma-showed-a-sink-strainer-necklace-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Art is a word",
+      "page": "https://commons.wikimedia.org/wiki/File:Anni_Albers_(1899%E2%80%931994),_Design_for_a_Rug,_1927.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "545-moma-showed-a-sink-strainer-necklace-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Fructibus",
+      "page": "https://commons.wikimedia.org/wiki/File:Stainless_steel_sink_strainer_2017_-_D.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

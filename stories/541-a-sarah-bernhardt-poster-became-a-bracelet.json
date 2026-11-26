@@ -1,0 +1,171 @@
+{
+  "id": "541-a-sarah-bernhardt-poster-became-a-bracelet",
+  "number": 541,
+  "title": "A Sarah Bernhardt poster became a bracelet",
+  "style": "jewelbox",
+  "topic": "sarah bernhardt serpent bracelet alphonse mucha medea poster 1898 georges fouquet 1899 gold enamel opals rubies winged snake hidden hinges rue royale shop carnavalet sakai japan",
+  "music": "music-541.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Sarah Bernhardt poster became a bracelet.",
+    "gold": [
+      "poster",
+      "bracelet."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Sarah Bernhardt poster became a bracelet.",
+      "say": "A Sarah Burn hart poster became a bracelet.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Artist Alphonse Mucha made her famous theater posters.",
+      "say": "Artist Al fonse Moo kah made her famous theater posters.",
+      "scene": {
+        "kind": "real",
+        "src": "541-a-sarah-bernhardt-poster-became-a-bracelet-0.jpg",
+        "fit": "card",
+        "label": "Sarah Bernhardt, about 1864",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His 1898 poster for Medea drew a serpent bracelet on her wrist.",
+      "say": "His eighteen ninety eight poster for Medea drew a serpent bracelet on her wrist.",
+      "scene": {
+        "kind": "real",
+        "src": "541-a-sarah-bernhardt-poster-became-a-bracelet-1.jpg",
+        "fit": "card",
+        "label": "Mucha's Medea poster, 1898",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Then jeweler Georges Fouquet made a real one.",
+      "say": "Then jeweler Georges Foo kay made a real one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A real one",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The surviving jewel is dated 1899, a year after the poster.",
+      "say": "The surviving jewel is dated eighteen ninety nine, a year after the poster.",
+      "scene": {
+        "kind": "title",
+        "text": "1899",
+        "sub": "A year later",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "It is gold and enamel, set with opals and rubies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Opals and rubies"
+      }
+    },
+    {
+      "text": "A winged snake's head rests on the back of the hand.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A winged snake",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Hidden hinges let the wearer's hand move freely.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Hidden hinges",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Mucha also designed Fouquet's Paris shop, now in the Carnavalet Museum.",
+      "say": "Moo kah also designed Foo kay's Paris shop, now in the Car na va lay Museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Fouquet's shop",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The bracelet itself is kept in Sakai, Japan.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Kept in Japan",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Sarah Bernhardt poster became a bracelet. Artist Alphonse Mucha made her famous theater posters, and his 1898 poster for Medea drew a serpent bracelet on her wrist. Then jeweler Georges Fouquet made a real one. The surviving jewel is dated 1899, a year after the poster. It is gold and enamel, set with opals and rubies, with a winged snake's head on the back of the hand and hidden hinges that let the wearer's hand move freely. Mucha also designed Fouquet's Paris shop, now in the Carnavalet Museum. The bracelet itself is kept in Sakai, Japan.",
+    "hashtags": [
+      "#sarahbernhardt",
+      "#alphonsemucha",
+      "#artnouveau",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://swanngalleries.com/news/?p=21754",
+    "https://www.thehistoryofart.org/alphonse-mucha/jewellery-and-design/",
+    "https://abitofhistoryblog.com/2017/09/16/the-serpentine-journey-of-an-iconic-art-nouveau-jewel/",
+    "https://arthive.com/de/publications/1356~Alphonse_Mucha_jewelry_designer_for_Georges_Fouquet",
+    "https://www.dailyartmagazine.com/10-art-nouveau-jewelry-pieces-to-die-for/",
+    "https://theadventurine.com/culture/jewelry-history/the-fascinating-double-life-of-georges-fouquet"
+  ],
+  "images": [
+    {
+      "src": "541-a-sarah-bernhardt-poster-became-a-bracelet-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Nadar",
+      "page": "https://commons.wikimedia.org/wiki/File:Sarah_Bernhardt,_par_Nadar,_1864.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "541-a-sarah-bernhardt-poster-became-a-bracelet-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Mucha, Alphonse (1860-1939). Illustrateur",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A9d%C3%A9e._Th%C3%A9%C3%A2tre_de_La_Renaissance._Sarah_Bernhardt_-_affiche_-_Mucha_-_btv1b9016288g.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
