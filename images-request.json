@@ -1,102 +1,102 @@
 {
  "queries": [
   {
-   "key": "i-goya",
+   "key": "i-cleaver",
    "commons": [
-    "Duchess of Alba Goya 1797 Hispanic Society",
-    "Solo Goya 1797 Duchess of Alba detail",
-    "Hispanic Society of America Goya Duchess of Alba",
-    "Goya Duchess of Alba ring Alba Goya"
+    "Barbara Billingsley",
+    "Leave It to Beaver cast 1960",
+    "Leave It to Beaver 1958 publicity",
+    "pearl necklace choker 1950s"
    ],
    "max": 10
   },
   {
-   "key": "i-unclesam",
+   "key": "i-helz",
    "commons": [
-    "Uncle Sam diamond Smithsonian",
-    "Uncle Sam diamond Crater of Diamonds",
-    "Crater of Diamonds State Park Arkansas",
-    "Diamond mine Murfreesboro Arkansas 1924"
+    "Plaza Hotel New York",
+    "Fifth Avenue 58th Street Manhattan",
+    "Fifth Avenue Plaza Hotel 1990s",
+    "Helzberg Diamonds store"
    ],
    "max": 10
   },
   {
-   "key": "i-capedia",
+   "key": "i-zales",
    "commons": [
-    "Cap Diamant Quebec",
-    "Jacques Cartier portrait Hamel 1844",
-    "Champlain map Quebec 1613",
-    "Cape Diamond Quebec Citadel cliff"
+    "Wichita Falls Texas 1920s",
+    "Zales Jewelers store",
+    "Wichita Falls Ohio Avenue history",
+    "jewelry store window 1920s"
    ],
    "max": 10
   },
   {
-   "key": "i-shake",
+   "key": "i-frob",
    "commons": [
-    "Shakespeare's Birthplace Henley Street",
-    "Shakespeare birthplace window signatures",
-    "Shakespeare Birthplace engraving 19th century",
-    "Shakespeare birthplace room Stratford"
+    "Martin Frobisher Cornelis Ketel",
+    "Frobisher Meta Incognita map 1578",
+    "Frobisher Bay Baffin Island",
+    "Dartford Manor Gatehouse"
    ],
    "max": 10
   },
   {
-   "key": "i-gunning",
+   "key": "i-seobong",
    "commons": [
-    "Elizabeth Gunning Duchess of Hamilton",
-    "Gunning sisters portrait Francis Cotes",
-    "Keith's Chapel Mayfair",
-    "Horace Walpole portrait"
+    "Seobongchong gold crown",
+    "Silla gold crown Gyeongju National Museum",
+    "Silla gold crown Korea",
+    "Gustaf VI Adolf archaeologist"
    ],
    "max": 10
   },
   {
-   "key": "i-utility",
+   "key": "i-vreneli",
    "commons": [
-    "Utility mark CC41",
-    "wedding ring hallmark 9 carat",
-    "Utility clothing 1942 Britain",
-    "British wartime utility furniture"
+    "20 francs Vreneli 1897",
+    "Goldvreneli Helvetia",
+    "Swiss 20 franc gold coin",
+    "Vreneli gold coin Switzerland"
    ],
    "max": 10
   },
   {
-   "key": "i-sequin",
+   "key": "i-akan",
    "commons": [
-    "Zecchino Venice gold coin Doge",
-    "Ducat Venice Dandolo",
-    "Tutankhamun gold sequins",
-    "sequin dress embroidery"
+    "Akan gold weight crocodile",
+    "Asante goldweight brass",
+    "Akan goldweights Brooklyn Museum",
+    "Ashanti gold weights Met Museum"
    ],
    "max": 10
   },
   {
-   "key": "i-soldier",
+   "key": "i-mir",
    "commons": [
-    "Solidus Constantine gold coin",
-    "Gold solidus Byzantine Walters",
-    "Roman soldier relief",
-    "Late Roman gold solidus"
+    "Mir mine Mirny",
+    "Mirny diamond mine open pit",
+    "Mir kimberlite pipe NASA",
+    "Mirny Yakutia town"
    ],
    "max": 10
   },
   {
-   "key": "i-piano",
+   "key": "i-bechtler",
    "commons": [
-    "Shropshire piano gold sovereigns hoard",
-    "Broadwood piano keyboard",
-    "George V gold sovereign 1911",
-    "Gold sovereign coin"
+    "Bechtler gold dollar",
+    "Bechtler Mint Site Rutherfordton",
+    "Bechtler five dollars 1834",
+    "Bechtler gold coin North Carolina"
    ],
    "max": 10
   },
   {
-   "key": "i-capitol",
+   "key": "i-platina",
    "commons": [
-    "Colorado State Capitol dome",
-    "Colorado State Capitol Detroit Publishing",
-    "Cripple Creek gold mine",
-    "Colorado State Capitol gold leaf dome"
+    "Native platinum nugget",
+    "Antonio de Ulloa portrait",
+    "Rio San Juan Choco Colombia",
+    "platinum crystals native Colombia"
    ],
    "max": 10
   }
