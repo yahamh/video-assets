@@ -7216,7 +7216,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2651241338695160",
+      "instagram": "https://www.instagram.com/reel/DgNmBelpBuj/"
+    }
   },
   "508-a-stuck-carriage-cost-napoleon-a-brooch": {
     "at": "2026-11-26T17:30:00Z",
@@ -7225,7 +7230,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1733561375057571",
+      "instagram": "https://www.instagram.com/reel/DgNpeqvhRAw/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712533575807012102"
+    }
   },
   "509-crown-jewels-hid-in-a-biscuit-tin": {
     "at": "2026-11-26T18:00:00Z",
@@ -7234,14 +7245,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1169449908867510",
+      "instagram": "https://www.instagram.com/reel/DgNtDIcNOsJ/",
+      "youtube": "https://www.youtube.com/watch?v=DI3LF7RsTu8"
+    }
   },
   "510-miss-piggy-posed-wearing-the-hope-diamond": {
     "at": "2026-11-26T18:30:00Z",
     "zernio_id": "6b06c07c757eddb81b9bf19c",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgNwQOvJm8G/"
+    }
   },
   "511-a-ten-pound-ring-hid-a-diamond": {
     "at": "2026-11-26T19:00:00Z",
@@ -7250,7 +7271,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2866696137057434",
+      "instagram": "https://www.instagram.com/reel/DgNztf9zRZT/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712556865296682258"
+    }
   },
   "512-a-faberg-flower-sat-at-army-dinners": {
     "at": "2026-11-26T19:30:00Z",
@@ -7258,14 +7285,23 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1169869562141363",
+      "instagram": "https://www.instagram.com/reel/DgN3GNWOn2e/"
+    }
   },
   "513-a-lost-brooch-cost-under-twenty-pounds": {
     "at": "2026-11-26T20:00:00Z",
     "zernio_id": "6b06c08c83e3c4f84f77911d",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgN6qJAoent/"
+    }
   },
   "514-monopoly-s-dice-once-had-diamond-spots": {
     "at": "2026-11-26T20:30:00Z",
@@ -7275,7 +7311,14 @@
       "instagram",
       "tiktok",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1842615766752810",
+      "instagram": "https://www.instagram.com/reel/DgN9_Scu1AK/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712580390984092929",
+      "youtube": "https://www.youtube.com/watch?v=J-JlDJiOG6E"
+    }
   },
   "515-harry-winston-once-made-a-bra": {
     "at": "2026-11-26T21:00:00Z",
@@ -7283,7 +7326,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2212260179679454",
+      "instagram": "https://www.instagram.com/reel/DgOBgVdyx7X/"
+    }
   },
   "516-barbie-once-wore-a-real-pink-diamond": {
     "at": "2026-11-26T21:30:00Z",
@@ -7291,7 +7339,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=4612453725702026",
+      "instagram": "https://www.instagram.com/reel/DgOE5ncJYWu/"
+    }
   },
   "517-the-pink-panther-began-as-a-flaw": {
     "at": "2026-11-26T22:00:00Z",
@@ -7299,7 +7352,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgOIg6Vu32O/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712603991439412488"
+    }
   },
   "518-tiffany-s-april-fools-jokes-came-true": {
     "at": "2026-11-26T22:30:00Z",
@@ -7710,6 +7768,79 @@
       "instagram",
       "tiktok",
       "youtube"
+    ]
+  },
+  "568-the-golden-spike-carried-the-wrong-date": {
+    "at": "2026-11-28T03:30:00Z",
+    "zernio_id": "6b08b63d063d88821fe0b57c",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "569-fort-knox-s-gold-arrived-by-mail": {
+    "at": "2026-11-28T08:00:00Z",
+    "zernio_id": "6b08b641063d88821fe0b59c",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "570-lady-liberty-s-torch-joined-a-parade": {
+    "at": "2026-11-28T08:30:00Z",
+    "zernio_id": "6b08b646063d88821fe0b5c2",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "571-the-golden-gate-was-named-before-gold": {
+    "at": "2026-11-28T09:00:00Z",
+    "zernio_id": "6b08b64c1f4e3f2519c9d99a",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "572-diamond-head-is-named-for-fake-diamonds": {
+    "at": "2026-11-28T09:30:00Z",
+    "zernio_id": "6b08b652063d88821fe0b5f7",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "573-a-world-series-ring-hides-baby-shark": {
+    "at": "2026-11-28T10:00:00Z",
+    "zernio_id": "6b08b65686fb9797e115f457",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "574-venice-s-doge-married-the-sea": {
+    "at": "2026-11-28T10:30:00Z",
+    "zernio_id": "6b08b65c063d88821fe0b631",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "575-a-gold-nugget-held-the-door": {
+    "at": "2026-11-28T11:00:00Z",
+    "zernio_id": "6b08b6621317dd49fac910ea",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "576-a-toad-s-jewel-was-fish-teeth": {
+    "at": "2026-11-28T11:30:00Z",
+    "zernio_id": "6b08b668063d88821fe0b66d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
