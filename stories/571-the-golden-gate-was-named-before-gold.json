@@ -1,0 +1,177 @@
+{
+  "id": "571-the-golden-gate-was-named-before-gold",
+  "number": 571,
+  "title": "The Golden Gate was named before gold",
+  "style": "jewelbox",
+  "topic": "golden gate named before gold 1846 john fremont army captain golden horn byzantium trade orient sutter's mill 1848 memoir chrysopylae greek strait one to three miles bridge 1937 orange",
+  "music": "music-571.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "ruby",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Golden Gate was named before gold.",
+    "gold": [
+      "named",
+      "before",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Golden Gate was named before gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1846, Army captain John Fremont gave the strait its name.",
+      "say": "In eighteen forty six, Army captain John Free mont gave the strait its name.",
+      "scene": {
+        "kind": "real",
+        "src": "571-the-golden-gate-was-named-before-gold-0.jpg",
+        "fit": "card",
+        "label": "John Fremont, by Brady",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He compared it to the harbor of Byzantium, the Golden Horn.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "The Golden Horn"
+      }
+    },
+    {
+      "text": "His reason was a golden gate for trade with the Orient.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Golden trade",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "That was two years before gold turned up at Sutter's Mill.",
+      "say": "That was two years before gold turned up at Sutter's Mill.",
+      "scene": {
+        "kind": "title",
+        "text": "2 years",
+        "sub": "Before gold",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "So the gold in the name meant trade, with no metal involved.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Gold meant trade",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The name first appeared in print in his 1848 memoir.",
+      "say": "The name first appeared in print in his eighteen forty eight memoir.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A memoir",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "He also wrote it in Greek, as Chrysopylae.",
+      "say": "He also wrote it in Greek, as Kriss op ih lee.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "In Greek",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The strait is only one to three miles wide.",
+      "scene": {
+        "kind": "real",
+        "src": "571-the-golden-gate-was-named-before-gold-1.jpg",
+        "fit": "card",
+        "label": "The Golden Gate, 1822",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The bridge opened in 1937, painted orange instead of gold.",
+      "say": "The bridge opened in nineteen thirty seven, painted orange instead of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "1937",
+        "sub": "Bridge opens",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Golden Gate was named before gold. In 1846, Army captain John Fremont gave the strait its name. He compared it to the harbor of Byzantium, the Golden Horn. His reason was a golden gate for trade with the Orient. That was two years before gold turned up at Sutter's Mill. So the gold in the name meant trade, with no metal involved. The name first appeared in print in his 1848 memoir. He also wrote it in Greek, as Chrysopylae. The strait is only one to three miles wide. The bridge opened in 1937, painted orange instead of gold.",
+    "hashtags": [
+      "#goldengate",
+      "#sanfrancisco",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.goldengate.org/bridge/history-research/statistics-data/whats-in-a-name/",
+    "https://www.sausalitohistoricalsociety.com/2019-columns/2019/8/14/the-name-game",
+    "https://www.kqed.org/perspectives/201408220735",
+    "https://en.wikipedia.org/wiki/Golden_Gate",
+    "https://www.britannica.com/place/Golden-Gate-strait-California",
+    "https://www.history.com/this-day-in-history/golden-gate-bridge-opens"
+  ],
+  "images": [
+    {
+      "src": "571-the-golden-gate-was-named-before-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Mathew Brady",
+      "page": "https://commons.wikimedia.org/wiki/File:John_C._Fremont_Brady_Portrait_1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "571-the-golden-gate-was-named-before-gold-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Victor Adam / Louis Choris / Adam Cuerden",
+      "page": "https://commons.wikimedia.org/wiki/File:Victor_Adam_after_Louis_Choris_-_Vue_du_Presidio_san_Francisco,_1822.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

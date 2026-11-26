@@ -1,0 +1,159 @@
+{
+  "id": "573-a-world-series-ring-hides-baby-shark",
+  "number": 573,
+  "title": "A World Series ring hides Baby Shark",
+  "style": "gouache",
+  "topic": "world series ring baby shark washington nationals 2019 curly w 30 rubies fight finished tiny shark trophy gerardo parra walk up song fan anthem 108 diamonds may 2020 jostens",
+  "music": "music-573.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "sapphire",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A World Series ring hides Baby Shark.",
+    "gold": [
+      "hides",
+      "Baby",
+      "Shark."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A World Series ring hides Baby Shark.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2019, the Washington Nationals won the World Series.",
+      "say": "In twenty nineteen, the Washington Nationals won the World Series.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A championship",
+        "stones": 9
+      }
+    },
+    {
+      "text": "A curly W on the ring is made of 30 rubies.",
+      "say": "A curly W on the ring is made of thirty rubies.",
+      "scene": {
+        "kind": "title",
+        "text": "30 rubies",
+        "sub": "A curly W",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The side of the ring reads Fight Finished.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Fight Finished"
+      }
+    },
+    {
+      "text": "Inside the ring is a tiny shark holding a trophy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "A tiny shark",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It is Baby Shark, the walk up song of Gerardo Parra.",
+      "say": "It is Baby Shark, the walk up song of Heh rar doe Pah rah.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A walk up song",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The children's song had become a fan anthem that season.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A fan anthem",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The team showed the design online in May 2020.",
+      "say": "The team showed the design online in May, twenty twenty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Shown online",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The players chose to wait and get their rings in person.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A wait",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In all, the ring holds 108 diamonds.",
+      "say": "In all, the ring holds one hundred eight diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "108 diamonds",
+        "sub": "The ring",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A World Series ring hides Baby Shark. In 2019, the Washington Nationals won the World Series. A curly W on the ring is made of 30 rubies. The side of the ring reads Fight Finished. Inside the ring is a tiny shark holding a trophy. It is Baby Shark, the walk up song of Gerardo Parra. The children's song had become a fan anthem that season. The team showed the design online in May 2020. The players chose to wait and get their rings in person. In all, the ring holds 108 diamonds.",
+    "hashtags": [
+      "#worldseries",
+      "#baseball",
+      "#babyshark",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collection.baseballhall.org/objects/12375/washington-nationals-2019-world-series-ring",
+    "https://cbssports.com/mlb/news/nationals-unveil-2019-world-series-championship-rings",
+    "https://www.mlb.com/news/nationals-world-series-rings-virtual-ceremony",
+    "https://www.upi.com/Sports_News/MLB/2020/05/24/Nationals-unveil-2019-World-Series-rings-featuring-monuments-Baby-Shark/3581590370270/",
+    "https://www.nbcwashington.com/news/sports/nationals-unveil-championship-ring-design-complete-with-baby-shark/2311243/"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Nationals' 2019 ring or its team: Commons has only pictures of a politician with a ring, a Cubs ring and a bag of peanuts"
+}

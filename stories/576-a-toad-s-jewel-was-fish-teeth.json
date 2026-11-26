@@ -1,0 +1,167 @@
+{
+  "id": "576-a-toad-s-jewel-was-fish-teeth",
+  "number": 576,
+  "title": "A toad's jewel was fish teeth",
+  "style": "gouache",
+  "topic": "toadstone toad's jewel fossil fish teeth lepidotes shakespeare as you like it 1599 jewelers rings 1300s british museum cheapside hoard sweat poison charms 1700s jurassic cretaceous",
+  "music": "music-576.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "peridot",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A toad's jewel was fish teeth.",
+    "gold": [
+      "jewel",
+      "was",
+      "fish",
+      "teeth."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A toad's jewel was fish teeth.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "For centuries, Europeans believed a jewel grew inside a toad's head.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "A toad's jewel",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Shakespeare wrote that the toad wears a jewel in his head.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A line of Shakespeare",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "From the 1300s, jewelers set these stones in rings.",
+      "say": "From the thirteen hundreds, jewelers set these stones in rings.",
+      "scene": {
+        "kind": "real",
+        "src": "576-a-toad-s-jewel-was-fish-teeth-0.jpg",
+        "fit": "card",
+        "label": "A medieval gold ring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Wearers thought the stone would sweat near poison.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A poison test",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It was also thought to cure kidney trouble and fits.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A cure"
+      }
+    },
+    {
+      "text": "A museum label says the stones are fossil fish teeth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Fossil fish teeth",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "They come from an extinct fish called Lepidotes.",
+      "say": "They come from an extinct fish called Leh pih doe teez.",
+      "scene": {
+        "kind": "title",
+        "text": "Lepidotes",
+        "sub": "Fossil fish",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "That fish swam in the Jurassic and Cretaceous periods.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Ancient seas",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "People in Europe still wore them as charms in the 1700s.",
+      "say": "People in Europe still wore them as charms in the seventeen hundreds.",
+      "scene": {
+        "kind": "title",
+        "text": "1700s",
+        "sub": "Still worn",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A toad's jewel was fish teeth. For centuries, Europeans believed a jewel grew inside a toad's head. Shakespeare wrote that the toad wears a jewel in his head. From the 1300s, jewelers set these stones in rings. Wearers thought the stone would sweat near poison. It was also thought to cure kidney trouble and fits. A museum label says the stones are fossil fish teeth. They come from an extinct fish called Lepidotes. That fish swam in the Jurassic and Cretaceous periods. People in Europe still wore them as charms in the 1700s.",
+    "hashtags": [
+      "#toadstone",
+      "#fossils",
+      "#medieval",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nms.ac.uk/toadstones/",
+    "https://en.wikipedia.org/wiki/Toadstone",
+    "https://collections.vam.ac.uk/item/O115560/ring-unknown",
+    "https://www.britishmuseum.org/collection/object/H_AF-1023",
+    "https://earthwise.bgs.ac.uk/index.php/Fossil_magic_and_folklore",
+    "https://penelope.uchicago.edu/oddnotes/toadstones.html"
+  ],
+  "images": [
+    {
+      "src": "576-a-toad-s-jewel-was-fish-teeth-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( England ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:English_-_Bishop's_Ring_-_Walters_57481_-_View_A.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

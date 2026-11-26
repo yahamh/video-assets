@@ -1,0 +1,175 @@
+{
+  "id": "569-fort-knox-s-gold-arrived-by-mail",
+  "number": 569,
+  "title": "Fort Knox's gold arrived by mail",
+  "style": "deco",
+  "topic": "fort knox gold arrived by mail registered mail post office department 1937 bullion depository decoy trains postal inspectors 16 bars crate 27.5 pounds 1941 45 trains louisville kentucky",
+  "music": "music-569.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "citrine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Fort Knox's gold arrived by mail.",
+    "gold": [
+      "arrived",
+      "by",
+      "mail."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fort Knox's gold arrived by mail.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The vault was finished in December 1936.",
+      "say": "The vault was finished in December, nineteen thirty six.",
+      "scene": {
+        "kind": "real",
+        "src": "569-fort-knox-s-gold-arrived-by-mail-0.jpg",
+        "fit": "card",
+        "label": "The gold depository",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The first gold arrived in January 1937, from New York and Philadelphia.",
+      "say": "The first gold arrived in January, nineteen thirty seven, from New York and Philadelphia.",
+      "scene": {
+        "kind": "title",
+        "text": "1937",
+        "sub": "First gold",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It traveled as registered mail, run by the Post Office.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Registered mail",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Postal inspectors planned the guard, with decoy trains and machine guns.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Decoy trains"
+      }
+    },
+    {
+      "text": "Each crate held 16 gold bars and weighed about 500 pounds.",
+      "say": "Each crate held sixteen gold bars and weighed about five hundred pounds.",
+      "scene": {
+        "kind": "real",
+        "src": "569-fort-knox-s-gold-arrived-by-mail-1.jpg",
+        "fit": "card",
+        "label": "Gold crates, 1941",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A single bar weighs about 27.5 pounds.",
+      "say": "A single bar weighs about twenty seven point five pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "One gold bar",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1941, a bigger move took 45 trains and 337 cars.",
+      "say": "In nineteen forty one, a bigger move took forty five trains and three hundred thirty seven cars.",
+      "scene": {
+        "kind": "title",
+        "text": "45 trains",
+        "sub": "A bigger move",
+        "piece": "earrings",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "No one person knows all the steps to open the vault.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "No single key",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It sits about 30 miles southwest of Louisville, Kentucky.",
+      "say": "It sits about thirty miles southwest of Louisville, Kentucky.",
+      "scene": {
+        "kind": "title",
+        "text": "30 miles",
+        "sub": "From Louisville",
+        "piece": "stone",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Fort Knox's gold arrived by mail. The vault was finished in December 1936. The first gold arrived in January 1937, from New York and Philadelphia. It traveled as registered mail, run by the Post Office. Postal inspectors planned the guard, with decoy trains and machine guns. Each crate held 16 gold bars and weighed about 500 pounds. A single bar weighs about 27.5 pounds. In 1941, a bigger move took 45 trains and 337 cars. No one person knows all the steps to open the vault. It sits about 30 miles southwest of Louisville, Kentucky.",
+    "hashtags": [
+      "#fortknox",
+      "#gold",
+      "#goldbars",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.usmint.gov/news/inside-the-mint/fort-knox-history",
+    "https://www.usmint.gov/learn/tours-and-locations/fort-knox",
+    "https://postalmuseum.si.edu/exhibition/behind-the-badge-postal-inspection-service-protect/revenue",
+    "https://news.usps.com/2017/09/05/handle-with-care-4-2",
+    "https://en.wikipedia.org/wiki/United_States_Bullion_Depository",
+    "https://corpora.tika.apache.org/base/docs/govdocs1/684/684806.html"
+  ],
+  "images": [
+    {
+      "src": "569-fort-knox-s-gold-arrived-by-mail-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Tichnor Bros. Inc., Boston, Mass.",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_Vault,_U._S._Depository,_Fort_Knox,_Ky_(78762).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "569-fort-knox-s-gold-arrived-by-mail-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "United States Post Office Department",
+      "page": "https://commons.wikimedia.org/wiki/File:FortKnoxGold00.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

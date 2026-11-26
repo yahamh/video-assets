@@ -1,0 +1,171 @@
+{
+  "id": "572-diamond-head-is-named-for-fake-diamonds",
+  "number": 572,
+  "title": "Diamond Head is named for fake diamonds",
+  "style": "deco",
+  "topic": "diamond head honolulu oahu leahi brow of the tuna calcite crystals mistaken for diamonds british visitors kaimana hila diamond hill tuff cone army lookout 232 meters",
+  "music": "music-572.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Diamond Head is named for fake diamonds.",
+    "gold": [
+      "fake",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond Head is named for fake diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "It is the crater above Honolulu, on the island of Oahu.",
+      "say": "It is the crater above Honolulu, on the island of Oh ah hoo.",
+      "scene": {
+        "kind": "real",
+        "src": "572-diamond-head-is-named-for-fake-diamonds-0.jpg",
+        "fit": "card",
+        "label": "Diamond Head, south shore",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its Hawaiian name, Leahi, means brow of the tuna.",
+      "say": "Its Hawaiian name, Lay ah hee, means brow of the tuna.",
+      "scene": {
+        "kind": "title",
+        "text": "Leahi",
+        "sub": "Brow of the tuna",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The ridgeline looks like a tuna's fin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A tuna's fin",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Visitors from Britain saw sparkling crystals and took them for diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Sparkling crystals"
+      }
+    },
+    {
+      "text": "The crystals were calcite, yet the name Diamond Head stuck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Calcite",
+        "stones": 9
+      }
+    },
+    {
+      "text": "An older Hawaiian name, Kaimana Hila, means Diamond Hill.",
+      "say": "An older Hawaiian name, Ky mah nah Hee lah, means Diamond Hill.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Diamond Hill"
+      }
+    },
+    {
+      "text": "The crater is a tuff cone, built in one explosive eruption.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "One eruption",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In the early 1900s, the Army used the crater as a lookout.",
+      "say": "In the early nineteen hundreds, the Army used the crater as a lookout.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A lookout",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The summit stands 232 meters above the sea.",
+      "say": "The summit stands two hundred thirty two meters above the sea.",
+      "scene": {
+        "kind": "real",
+        "src": "572-diamond-head-is-named-for-fake-diamonds-1.jpg",
+        "fit": "card",
+        "label": "Waikiki, from the summit",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Diamond Head is named for fake diamonds. It is the crater above Honolulu, on the island of Oahu. Its Hawaiian name, Leahi, means brow of the tuna. The ridgeline looks like a tuna's fin. Visitors from Britain saw sparkling crystals and took them for diamonds. The crystals were calcite, yet the name Diamond Head stuck. An older Hawaiian name, Kaimana Hila, means Diamond Hill. The crater is a tuff cone, built in one explosive eruption. In the early 1900s, the Army used the crater as a lookout. The summit stands 232 meters above the sea.",
+    "hashtags": [
+      "#diamondhead",
+      "#hawaii",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/place/Diamond-Head",
+    "https://dlnr.hawaii.gov/dsp/files/2025/08/Diamond-Head-Brochure_5MB.pdf",
+    "https://www.gohawaii.com/islands/oahu/regions/honolulu/leahi-diamond-head",
+    "https://en.wikipedia.org/wiki/Diamond_Head,_Hawaii",
+    "https://www2.hawaii.edu/~turner/oahu/dhead.htm",
+    "https://hawaii.com/blog/history-of-diamond-head"
+  ],
+  "images": [
+    {
+      "src": "572-diamond-head-is-named-for-fake-diamonds-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "The Eloquent Peasant",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamond_Head_from_Point_Panic,_South_Shore,_Oahu,_Hawaii.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "572-diamond-head-is-named-for-fake-diamonds-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jokazoo",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_Waikiki_from_Diamond_Head.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "570-lady-liberty-s-torch-joined-a-parade",
+  "number": 570,
+  "title": "Lady Liberty's torch joined a parade",
+  "style": "gouache",
+  "topic": "statue of liberty original torch 1886 1984 1916 colored glass leaked rose parade pasadena new torch 1985 24 karat gold flame 3,600 pounds 16 feet liberty museum",
+  "music": "music-570.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Lady Liberty's torch joined a parade.",
+    "gold": [
+      "joined",
+      "a",
+      "parade."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Lady Liberty's torch joined a parade.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The statue's first torch stayed up from 1886 until 1984.",
+      "say": "The statue's first torch stayed up from eighteen eighty six until nineteen eighty four.",
+      "scene": {
+        "kind": "real",
+        "src": "570-lady-liberty-s-torch-joined-a-parade-0.jpg",
+        "fit": "card",
+        "label": "The torch, drawn in 1885",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1916, the flame was rebuilt with colored glass.",
+      "say": "In nineteen sixteen, the flame was rebuilt with colored glass.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Colored glass",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The glass leaked, and water damaged the torch for decades.",
+      "scene": {
+        "kind": "real",
+        "src": "570-lady-liberty-s-torch-joined-a-parade-1.jpg",
+        "fit": "card",
+        "label": "The old torch, in a museum",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1984, it was judged too damaged to repair.",
+      "say": "In nineteen eighty four, it was judged too damaged to repair.",
+      "scene": {
+        "kind": "title",
+        "text": "1984",
+        "sub": "Too damaged",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Then it traveled to Pasadena and joined the Rose Parade.",
+      "say": "Then it traveled to Pass uh dee nuh and joined the Rose Parade.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "The Rose Parade",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A new torch, copied from the original design, went up in 1985.",
+      "say": "A new torch, copied from the original design, went up in nineteen eighty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A new torch"
+      }
+    },
+    {
+      "text": "The new flame is covered in 24 karat gold.",
+      "say": "The new flame is covered in twenty four karat gold.",
+      "scene": {
+        "kind": "real",
+        "src": "570-lady-liberty-s-torch-joined-a-parade-2.jpg",
+        "fit": "card",
+        "label": "The new flame, gold leaf",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The old torch is now kept in the Statue of Liberty Museum.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A museum home",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It is 16 feet tall and weighs 3,600 pounds.",
+      "say": "It is sixteen feet tall and weighs thirty six hundred pounds.",
+      "scene": {
+        "kind": "title",
+        "text": "3,600 pounds",
+        "sub": "The old torch",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Lady Liberty's torch joined a parade. The statue's first torch stayed up from 1886 until 1984. In 1916, the flame was rebuilt with colored glass. The glass leaked, and water damaged the torch for decades. In 1984, it was judged too damaged to repair. Then it traveled to Pasadena and joined the Rose Parade. A new torch, copied from the original design, went up in 1985. The new flame is covered in 24 karat gold. The old torch is now kept in the Statue of Liberty Museum. It is 16 feet tall and weighs 3,600 pounds.",
+    "hashtags": [
+      "#statueofliberty",
+      "#gold",
+      "#newyork",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nps.gov/stli/learn/news/statue-of-liberty-s-original-torch-completes-move-to-new-home.htm",
+    "https://www.smithsonianmag.com/smart-news/statue-libertys-original-torch-gets-new-home-180970856/",
+    "https://www.untappedcities.com/10-fun-facts-about-the-torch-of-the-nycs-statue-of-liberty/",
+    "https://nps.gov/elis/learn/historyculture/history-of-the-statue-of-liberty.htm",
+    "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "https://time.com/5531547/statue-liberty-torch/"
+  ],
+  "images": [
+    {
+      "src": "570-lady-liberty-s-torch-joined-a-parade-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "page": "https://commons.wikimedia.org/wiki/File:New_York_-_the_torch_of_the_Statue_of_%22Liberty,%22_as_it_will_appear_when_completed,_on_Bedloe's_Island_LCCN94507535.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "570-lady-liberty-s-torch-joined-a-parade-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "U.S. National Parks Service",
+      "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_original_torch_exhibit_in_lobby.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "570-lady-liberty-s-torch-joined-a-parade-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NPS Photo",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Torch_of_the_Statue_of_Liberty_(352b4d9d-1dd8-b71b-0bee-0f4169b52f62).JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

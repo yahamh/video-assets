@@ -1,0 +1,173 @@
+{
+  "id": "568-the-golden-spike-carried-the-wrong-date",
+  "number": 568,
+  "title": "The Golden Spike carried the wrong date",
+  "style": "jewelbox",
+  "topic": "golden spike promontory summit utah 1869 david hewes leland stanford transcontinental railroad 17.6 karat 14 ounces last spike engraved may 8 ceremony may 10 telegraph done iron spike twin sacramento",
+  "music": "music-568.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Golden Spike carried the wrong date.",
+    "gold": [
+      "wrong",
+      "date."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Golden Spike carried the wrong date.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A San Francisco businessman named David Hewes had it made.",
+      "say": "A San Francisco businessman named David Hughes had it made.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A made to order spike",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It is 17.6 karat gold and weighs about 14 ounces.",
+      "say": "It is seventeen point six karat gold and weighs about fourteen ounces.",
+      "scene": {
+        "kind": "title",
+        "text": "17.6 karat",
+        "sub": "Spike gold",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The words The Last Spike are engraved on its head.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "The Last Spike",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "One side says the railroad was completed on May 8, 1869.",
+      "say": "One side says the railroad was completed on May eighth, eighteen sixty nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A date in gold",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The ceremony was two days later, at Promontory Summit.",
+      "say": "The ceremony was two days later, at Prom un tory Summit.",
+      "scene": {
+        "kind": "real",
+        "src": "568-the-golden-spike-carried-the-wrong-date-0.jpg",
+        "fit": "card",
+        "label": "Promontory Summit, 1869",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The railroad's president swung at the spike and missed.",
+      "scene": {
+        "kind": "real",
+        "src": "568-the-golden-spike-carried-the-wrong-date-1.jpg",
+        "fit": "card",
+        "label": "The Last Spike, by Hill",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A telegraph operator still sent the word done.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Done"
+      }
+    },
+    {
+      "text": "The gold spike was only tapped, then replaced with iron.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Replaced with iron",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Its twin, kept in Sacramento, says May 10, 1869.",
+      "say": "Its twin, kept in Sacramento, says May tenth, eighteen sixty nine.",
+      "scene": {
+        "kind": "title",
+        "text": "May 10, 1869",
+        "sub": "The twin",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Golden Spike carried the wrong date. A San Francisco businessman named David Hewes had it made for the end of the first transcontinental railroad. It is 17.6 karat gold and weighs about 14 ounces. The words The Last Spike are engraved on its head. One side says the railroad was completed on May 8, 1869, but the ceremony at Promontory Summit was two days later. The railroad's president swung at the spike and missed. A telegraph operator still sent the word done. The gold spike was only tapped, then replaced with iron. Its twin, kept in Sacramento, says May 10, 1869.",
+    "hashtags": [
+      "#goldenspike",
+      "#railroadhistory",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nps.gov/gosp/learn/historyculture/four-special-spikes.htm",
+    "https://www.up.com/aboutup/community/great-race/golden-spike/",
+    "https://en.wikipedia.org/wiki/Golden_spike",
+    "https://historynet.com/good-points-golden-spike/",
+    "https://historytogo.utah.gov/golden-spike/",
+    "https://www.nps.gov/gosp/faqs.htm"
+  ],
+  "images": [
+    {
+      "src": "568-the-golden-spike-carried-the-wrong-date-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Andrew J. Russell / Adam Cuerden",
+      "page": "https://commons.wikimedia.org/wiki/File:East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "568-the-golden-spike-carried-the-wrong-date-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Thomas Hill",
+      "page": "https://commons.wikimedia.org/wiki/File:%22The_Driving_of_the_Last_Spike%22_painted_by_Thomas_Hill.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

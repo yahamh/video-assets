@@ -1,0 +1,173 @@
+{
+  "id": "574-venice-s-doge-married-the-sea",
+  "number": 574,
+  "title": "Venice's doge married the sea",
+  "style": "jewelbox",
+  "topic": "venice doge married the sea ascension day gold ring bucintoro bucentaur gilded barge bishop blessed lido desponsamus te mare dominion napoleon 1965 mayor",
+  "music": "music-574.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Venice's doge married the sea.",
+    "gold": [
+      "married",
+      "the",
+      "sea."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Venice's doge married the sea.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Each Ascension Day, the doge threw a gold ring into the sea.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A gold ring",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He rode out on a gilded state barge called the Bucintoro.",
+      "say": "He rode out on a gilded state barge called the Boo chin toe ro.",
+      "scene": {
+        "kind": "real",
+        "src": "574-venice-s-doge-married-the-sea-0.jpg",
+        "fit": "card",
+        "label": "The Bucintoro, by Canaletto",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A bishop waited in a gilded boat to bless him.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A blessing",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The ring was blessed before it went into the water.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A blessed ring"
+      }
+    },
+    {
+      "text": "He dropped it where the lagoon meets the open sea.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "The open sea",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In Latin, he said, we wed thee, sea.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "We wed thee",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The ring was a sign of lasting dominion over the sea.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Lasting dominion",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "After Napoleon ended the Republic, the barge was burned for its gold.",
+      "say": "After Na poe lee un ended the Republic, the barge was burned for its gold.",
+      "scene": {
+        "kind": "real",
+        "src": "574-venice-s-doge-married-the-sea-1.jpg",
+        "fit": "card",
+        "label": "Ascension Day, by Canaletto",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Since 1965, the mayor of Venice repeats it each Ascension Day.",
+      "say": "Since nineteen sixty five, the mayor of Venice repeats it each Ascension Day.",
+      "scene": {
+        "kind": "title",
+        "text": "1965",
+        "sub": "Revived",
+        "piece": "brooch",
+        "stone": "pink",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Venice's doge married the sea. Each Ascension Day, the doge threw a gold ring into the sea. He rode out on a gilded state barge called the Bucintoro. A bishop waited in a gilded boat to bless him. The ring was blessed before it went into the water. He dropped it where the lagoon meets the open sea. In Latin, he said, we wed thee, sea. The ring was a sign of lasting dominion over the sea. After Napoleon ended the Republic, the barge was burned for its gold. Since 1965, the mayor of Venice repeats it each Ascension Day.",
+    "hashtags": [
+      "#venice",
+      "#goldring",
+      "#tradition",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.marinersmuseum.org/2019/06/venices-marriage-to-the-sea/",
+    "https://en.wikipedia.org/wiki/Marriage_of_the_Sea_ceremony",
+    "https://www.rct.uk/collection/404417/the-bacino-di-san-marco-on-ascension-day",
+    "https://www.britannica.com/technology/Bucentaur",
+    "https://en.unesco.org/silkroad/silk-road-themes/festivals/marriage-venice-sea",
+    "https://events.veneziaunica.it/content/feast-ascension"
+  ],
+  "images": [
+    {
+      "src": "574-venice-s-doge-married-the-sea-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Giovanni Antonio Canal",
+      "page": "https://commons.wikimedia.org/wiki/File:Canaletto_(Giovanni_Antonio_Canal),_Italian_(active_Venice,_Rome,_and_England)_-_The_Bucintoro_at_the_Molo_on_Ascension_Day_-_Google_Art_Project.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "574-venice-s-doge-married-the-sea-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Giovanni Antonio Canal",
+      "page": "https://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Canal,_il_Canaletto_-_The_Bucintoro_Returning_to_the_Molo_on_Ascension_Day_-_WGA03887.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

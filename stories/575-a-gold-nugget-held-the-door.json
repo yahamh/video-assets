@@ -1,0 +1,159 @@
+{
+  "id": "575-a-gold-nugget-held-the-door",
+  "number": 575,
+  "title": "A gold nugget held the door",
+  "style": "deco",
+  "topic": "reed gold nugget doorstop conrad reed 1799 cabarrus county north carolina 17 pounds fayetteville 1802 john reed 3.50 first documented gold find united states state historic site",
+  "music": "music-575.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "citrine",
+    "cut": "round",
+    "metal": "yellow",
+    "petals": 8
+  },
+  "hook": {
+    "text": "A gold nugget held the door.",
+    "gold": [
+      "gold",
+      "nugget",
+      "held"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A gold nugget held the door.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1799, Conrad Reed, aged twelve, found a yellow rock.",
+      "say": "In seventeen ninety nine, Conrad Reed, aged twelve, found a yellow rock.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A yellow rock"
+      }
+    },
+    {
+      "text": "It lay in a creek on his family's farm in North Carolina.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A creek bed",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It weighed 17 pounds, and the family used it as a doorstop.",
+      "say": "It weighed seventeen pounds, and the family used it as a doorstop.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A doorstop",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It held the door open for about three years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Three years",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1802, a man from Fayetteville recognized it as gold.",
+      "say": "In eighteen oh two, a man from Fayetteville recognized it as gold.",
+      "scene": {
+        "kind": "title",
+        "text": "1802",
+        "sub": "Found out",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He asked John Reed to name a price, and Reed said $3.50.",
+      "say": "He asked John Reed to name a price, and Reed said three dollars and fifty cents.",
+      "scene": {
+        "kind": "title",
+        "text": "$3.50",
+        "sub": "Reed's price",
+        "piece": "ring",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "That was about a week's pay for a farm worker.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A week's pay",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The spot is the first documented gold find in the United States.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A first",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Reed Gold Mine is now a North Carolina state historic site.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A historic site"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A gold nugget held the door. In 1799, Conrad Reed, aged twelve, found a yellow rock. It lay in a creek on his family's farm in North Carolina. It weighed 17 pounds, and the family used it as a doorstop. It held the door open for about three years. In 1802, a man from Fayetteville recognized it as gold. He asked John Reed to name a price, and Reed said $3.50. That was about a week's pay for a farm worker. The spot is the first documented gold find in the United States. Reed Gold Mine is now a North Carolina state historic site.",
+    "hashtags": [
+      "#goldnugget",
+      "#goldrush",
+      "#northcarolina",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://historicsites.nc.gov/all-sites/reed-gold-mine/history",
+    "https://ncpedia.org/node/3271",
+    "https://www.dncr.nc.gov/blog/2016/05/28/john-reed-and-north-carolina-gold-rush",
+    "https://en.wikipedia.org/wiki/Conrad_Reed",
+    "https://www.legendsofamerica.com/reed-mine-north-carolina/",
+    "https://www.wbtv.com/2025/07/23/first-ever-gold-discovered-us-was-found-north-carolina-not-california/?outputType=amp"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Reed nugget or its mine: Commons has only a photo of a private person panning and CC BY-SA pictures"
+}
