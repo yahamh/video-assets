@@ -1,0 +1,173 @@
+{
+  "id": "577-a-gold-coin-you-cannot-lift",
+  "number": 577,
+  "title": "A gold coin you cannot lift",
+  "style": "jewelbox",
+  "topic": "perth mint gold coin 1,012 kilograms 80 centimeters 99.99 percent pure face value one million australian dollars stuart devlin kangaroo guinness largest coin 2012 new york stock exchange gold exhibition east perth",
+  "music": "music-577.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A gold coin you cannot lift.",
+    "gold": [
+      "cannot",
+      "lift."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A gold coin you cannot lift.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Perth Mint made a gold coin that weighs 1,012 kilograms.",
+      "say": "The Perth Mint made a gold coin that weighs one thousand twelve kilograms.",
+      "scene": {
+        "kind": "real",
+        "src": "577-a-gold-coin-you-cannot-lift-0.jpg",
+        "fit": "card",
+        "label": "The Perth Mint coin",
+        "credit": "Photo: Elrondil, CC BY 4.0"
+      }
+    },
+    {
+      "text": "It is 80 centimeters wide and 99.99 percent pure gold.",
+      "say": "It is eighty centimeters wide and ninety nine point nine nine percent pure gold.",
+      "scene": {
+        "kind": "title",
+        "text": "80 cm",
+        "sub": "Wide",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "As legal tender, its face value is one million Australian dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Legal tender",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The design is a leaping kangaroo by goldsmith Stuart Devlin.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A leaping kangaroo"
+      }
+    },
+    {
+      "text": "The same design is on the mint's smaller one kilogram coins.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Smaller coins",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It was made to promote the mint's Kangaroo gold coin series.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A promotion",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In 2012, Guinness named it the largest coin in the world.",
+      "say": "In twenty twelve, Guinness named it the largest coin in the world.",
+      "scene": {
+        "kind": "title",
+        "text": "2012",
+        "sub": "Record",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It once stood outside the New York Stock Exchange.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Wall Street",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It is kept in the Gold Exhibition at the Perth Mint.",
+      "scene": {
+        "kind": "real",
+        "src": "577-a-gold-coin-you-cannot-lift-1.jpg",
+        "fit": "card",
+        "label": "The Perth Mint",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A gold coin you cannot lift. The Perth Mint made a gold coin that weighs 1,012 kilograms. It is 80 centimeters wide and 99.99 percent pure gold. As legal tender, its face value is one million Australian dollars. The design is a leaping kangaroo by goldsmith Stuart Devlin. The same design is on the mint's smaller one kilogram coins. It was made to promote the mint's Kangaroo gold coin series. In 2012, Guinness named it the largest coin in the world. It once stood outside the New York Stock Exchange. It is kept in the Gold Exhibition at the Perth Mint. Photo: Elrondil, CC BY 4.0.",
+    "hashtags": [
+      "#perthmint",
+      "#goldcoin",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://perthmint.com/visit/attractions/one-tonne-gold-coin/",
+    "https://perthmint.com/news/stories/history/world-record-confirmed-for-australian-kangaroo-gold-coin",
+    "https://www.guinnessworldrecords.com/world-records/largest-coin",
+    "https://coinweek.com/world-coins/2012-australian-one-ton-gold-kangaroo-named-largest-most-valuable-coin-in-the-world/",
+    "https://australiangeographic.com.au/?p=13682",
+    "https://perthmint.com/news/stories/history/big-coin-in-the-big-apple/"
+  ],
+  "images": [
+    {
+      "src": "577-a-gold-coin-you-cannot-lift-0.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Elrondil",
+      "page": "https://commons.wikimedia.org/wiki/File:2026-03-30-Perth-Mint-02.jpg",
+      "credit": "Photo: Elrondil, CC BY 4.0"
+    },
+    {
+      "src": "577-a-gold-coin-you-cannot-lift-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Moondyne",
+      "page": "https://commons.wikimedia.org/wiki/File:Perth_Mint.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

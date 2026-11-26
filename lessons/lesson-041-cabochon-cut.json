@@ -1,0 +1,145 @@
+{
+ "id": "lesson-041-cabochon-cut",
+ "series": "lesson",
+ "number": 41,
+ "title": "What a cabochon is",
+ "topic": "cabochon cut domed unfaceted stone smooth dome flat back oval opal turquoise opaque faceted clear star sapphire cat's eye caboche cab carbuncle garnet",
+ "music": "music-lesson-041.wav",
+ "hook": {
+  "text": "A cabochon is a domed, unfaceted stone.",
+  "gold": [
+   "cabochon",
+   "domed,"
+  ]
+ },
+ "end": {
+  "line": "Renders made with",
+  "handle": "HeyGema"
+ },
+ "lines": [
+  {
+   "text": "A cabochon is a domed, unfaceted stone.",
+   "scene": {
+    "kind": "photo",
+    "src": "ring-1d-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.3,
+     "k": 1.3
+    },
+    "label": "A dome ring"
+   }
+  },
+  {
+   "text": "It is shaped and polished into a smooth dome.",
+   "scene": {
+    "kind": "title",
+    "text": "Smooth dome",
+    "sub": "No facets"
+   }
+  },
+  {
+   "text": "The back is usually flat, and the outline is usually an oval.",
+   "scene": {
+    "kind": "title",
+    "text": "Flat back",
+    "sub": "Oval outline"
+   }
+  },
+  {
+   "text": "Opaque stones like opal and turquoise are usually cut this way.",
+   "scene": {
+    "kind": "title",
+    "text": "Opaque stones",
+    "sub": "Opal, turquoise"
+   }
+  },
+  {
+   "text": "Clear stones are usually faceted, like the diamonds in this ring.",
+   "scene": {
+    "kind": "photo",
+    "src": "bridal-render.webp",
+    "focus": {
+     "x": 0.45,
+     "y": 0.35,
+     "k": 1.4
+    },
+    "label": "Faceted diamonds"
+   }
+  },
+  {
+   "text": "A star sapphire needs the dome so the star can show.",
+   "scene": {
+    "kind": "photo",
+    "src": "cad-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.2,
+     "k": 1.2
+    },
+    "label": "A sapphire ring"
+   }
+  },
+  {
+   "text": "A cat's eye stone shows its bright line across the dome.",
+   "scene": {
+    "kind": "title",
+    "text": "Cat's eye",
+    "sub": "A line of light"
+   }
+  },
+  {
+   "text": "The name comes from French, and the trade calls it a cab.",
+   "scene": {
+    "kind": "title",
+    "text": "A cab",
+    "sub": "From French caboche"
+   }
+  },
+  {
+   "text": "A garnet cut as a cabochon is called a carbuncle.",
+   "scene": {
+    "kind": "title",
+    "text": "Carbuncle",
+    "sub": "A garnet cab"
+   }
+  },
+  {
+   "text": "So a cabochon is a stone polished smooth, with no facets.",
+   "scene": {
+    "kind": "title",
+    "text": "No facets",
+    "sub": "Polished smooth"
+   }
+  },
+  {
+   "text": "A render shows the setting and the stone before anything is cast.",
+   "scene": {
+    "kind": "compare",
+    "before": "matthew-rose-input.webp",
+    "after": "matthew-rose-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  }
+ ],
+ "post": {
+  "youtube_title": "Jewelry render basics: what a cabochon is",
+  "caption": "A cabochon is a gem polished into a smooth dome with no facets. The back is usually flat and the outline is usually an oval. Opaque stones like opal and turquoise are usually cut this way, while clear stones are usually faceted. A star sapphire needs the dome so the star shows, and a cat's eye stone shows a bright line across it. The name comes from French, and a garnet cut as a cabochon is called a carbuncle. The renders in this video were made with HeyGema.",
+  "hashtags": [
+   "#cabochon",
+   "#gemstones",
+   "#jewelrymaking",
+   "#jewelrydesign",
+   "#jewelryrendering"
+  ]
+ },
+ "sources": [
+  "https://www.britannica.com/art/cabochon-cut",
+  "https://en.wikipedia.org/wiki/Cabochon",
+  "https://www.gia.edu/articles/gia-news-research-value-factors-gem-cutting-styles-definitions",
+  "https://cameo.mfa.org/wiki/Cabochon",
+  "https://www.mozerisfineantiques.com/cabochon",
+  "https://www.gemselect.com/other-info/why-cabochons.php"
+ ]
+}
