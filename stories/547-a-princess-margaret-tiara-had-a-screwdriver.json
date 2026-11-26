@@ -1,0 +1,160 @@
+{
+  "id": "547-a-princess-margaret-tiara-had-a-screwdriver",
+  "number": 547,
+  "title": "A Princess Margaret tiara had a screwdriver",
+  "style": "jewelbox",
+  "topic": "princess margaret poltimore tiara garrard 1870 lady poltimore treasurer queen victoria household january 1959 auction lord plunket necklace eleven brooches screwdriver westminster abbey 6 may 1960 christie's 2006 926,400 pounds",
+  "music": "music-547.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A Princess Margaret tiara had a screwdriver.",
+    "gold": [
+      "tiara",
+      "screwdriver."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Princess Margaret tiara had a screwdriver.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Garrard made the tiara in 1870 for Lady Poltimore.",
+      "say": "Gar ard made the tiara in eighteen seventy for Lady Pol ti more.",
+      "scene": {
+        "kind": "title",
+        "text": "1870",
+        "sub": "Garrard",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      }
+    },
+    {
+      "text": "Her husband was Treasurer to Queen Victoria's household.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "A royal household",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In January 1959, the family sold it at auction.",
+      "say": "In January nineteen fifty nine, the family sold it at auction.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "An auction",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Princess Margaret acquired it on the advice of Lord Plunket.",
+      "say": "Princess Margaret acquired it on the advice of Lord Plun ket.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Lord Plunket's advice",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The tiara converts into a necklace and eleven brooches.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Eleven brooches",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Its case holds a small screwdriver and the brooch fittings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A small screwdriver",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "She wore it as a necklace before the wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A necklace first"
+      }
+    },
+    {
+      "text": "At the 1960 wedding, she wore it as a tiara.",
+      "say": "At the nineteen sixty wedding, she wore it as a tiara.",
+      "scene": {
+        "kind": "title",
+        "text": "1960",
+        "sub": "Her wedding",
+        "piece": "necklace",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "It sold at Christie's in 2006 for 926,400 pounds.",
+      "say": "It sold at Christie's in two thousand six for nine hundred twenty six thousand four hundred pounds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Sold in 2006",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Princess Margaret tiara had a screwdriver. Garrard made the tiara in 1870 for Lady Poltimore, whose husband was Treasurer to Queen Victoria's household. In January 1959, the family sold it at auction, and Princess Margaret acquired it on the advice of Lord Plunket. The tiara converts into a necklace and eleven brooches, and its case holds a small screwdriver and the brooch fittings. She wore it as a necklace before the wedding, then as a tiara at the 1960 wedding. It sold at Christie's in 2006 for 926,400 pounds.",
+    "hashtags": [
+      "#princessmargaret",
+      "#tiara",
+      "#garrard",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://christies.com.cn/en/lot/lot-4718180",
+    "https://garrard.com/en/2024/princess-margarets-wedding-tiara",
+    "https://www.thecourtjeweller.com/2022/05/princess-margarets-dazzling-diamond-wedding-tiara.html",
+    "https://royalwatcherblog.com/2025/08/21/poltimore-tiara",
+    "https://en.wikipedia.org/wiki/Poltimore_Tiara"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the tiara, its case or the 1960 wedding was found; the one public domain photo of Princess Margaret has no author on record"
+}
