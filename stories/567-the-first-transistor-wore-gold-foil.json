@@ -1,0 +1,165 @@
+{
+  "id": "567-the-first-transistor-wore-gold-foil",
+  "number": 567,
+  "title": "The first transistor wore gold foil",
+  "style": "gouache",
+  "topic": "first transistor gold foil 1947 bell labs john bardeen walter brattain william shockley germanium plastic triangle wedge two gold contacts paper's width apart spring december 16 amplifier 1956 nobel prize physics",
+  "music": "music-567.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "aquamarine",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The first transistor wore gold foil.",
+    "gold": [
+      "gold",
+      "foil."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The first transistor wore gold foil.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "John Bardeen and Walter Brattain worked at Bell Labs in 1947.",
+      "say": "John Bardeen and Walter Brattain worked at Bell Labs in nineteen forty seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1947",
+        "sub": "Bell Labs",
+        "piece": "necklace",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "They were looking for a solid state amplifier.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A solid state amplifier",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Their device was a thumb sized slab of germanium.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A slab of germanium"
+      }
+    },
+    {
+      "text": "Brattain put gold foil on the point of a plastic triangle.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Gold foil",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He sliced the foil at the tip to make two gold contacts.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Two gold contacts",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The two contacts sat about a sheet of paper's width apart.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A paper's width",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A spring pressed the gold tipped wedge against the germanium.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A spring",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "On December 16, 1947, it worked as an amplifier.",
+      "say": "On December sixteenth, nineteen forty seven, it worked as an amplifier.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "It worked",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1956, the three men shared the Nobel Prize in Physics.",
+      "say": "In nineteen fifty six, the three men shared the Nobel Prize in Physics.",
+      "scene": {
+        "kind": "real",
+        "src": "567-the-first-transistor-wore-gold-foil-0.jpg",
+        "fit": "card",
+        "label": "Bardeen, Shockley, Brattain",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The first transistor wore gold foil. In 1947, John Bardeen and Walter Brattain worked at Bell Labs, looking for a solid state amplifier. Their device was a thumb sized slab of germanium. Brattain put gold foil on the point of a plastic triangle and sliced the foil at the tip to make two gold contacts, about a sheet of paper's width apart. A spring pressed the wedge against the germanium. On December 16, 1947, it worked as an amplifier. In 1956, the three men shared the Nobel Prize in Physics.",
+    "hashtags": [
+      "#transistor",
+      "#gold",
+      "#belllabs",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://spectrum.ieee.org/transistor-history",
+    "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/",
+    "https://computerhistory.org/blog/the-surface-state-job/",
+    "https://www.aps.org/apsnews/2000/11/this-month-in-physics-history",
+    "https://en.wikipedia.org/wiki/Point-contact_transistor",
+    "https://www.nobelprize.org/prizes/physics/1956/summary/"
+  ],
+  "images": [
+    {
+      "src": "567-the-first-transistor-wore-gold-foil-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "AT&T; photographer: Jack St. (last part of name not stamped well enough to read), New York, New York.",
+      "page": "https://commons.wikimedia.org/wiki/File:Bardeen_Shockley_Brattain_1948.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
