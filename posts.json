@@ -7740,7 +7740,11 @@
     "zernio_id": "6b07bdf78459e834f408d89a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgQHYHlKNyH/"
+    }
   },
   "547-a-princess-margaret-tiara-had-a-screwdriver": {
     "at": "2026-11-27T17:00:00Z",
@@ -8232,6 +8236,16 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "607-chewbacca-s-film-medal-came-decades-late": {
+    "at": "2026-11-29T03:00:00Z",
+    "zernio_id": "6b09b6b5a4db3c395b41b031",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
     ]
   },
   "ft-prongs-solitaire": {
