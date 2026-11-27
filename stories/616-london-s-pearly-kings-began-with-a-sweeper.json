@@ -1,0 +1,169 @@
+{
+  "id": "616-london-s-pearly-kings-began-with-a-sweeper",
+  "number": 616,
+  "title": "London's Pearly Kings began with a sweeper",
+  "style": "jewelbox",
+  "topic": "pearly kings and queens london costermongers pearl buttons henry croft street sweeper orphan suit of buttons charity orphanages hospitals 28 boroughs pearly families",
+  "music": "music-616.wav",
+  "piece": {
+    "piece": "strand",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "London's Pearly Kings began with a sweeper.",
+    "gold": [
+      "London's",
+      "Pearly",
+      "sweeper."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "London's Pearly Kings began with a sweeper.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Pearly Kings and Queens grew out of London's street market traders.",
+      "scene": {
+        "kind": "real",
+        "src": "616-london-s-pearly-kings-began-with-a-sweeper-0.jpg",
+        "fit": "card",
+        "label": "A Pearly King and Queen mosaic",
+        "credit": "Photo: Matt Brown, CC BY 2.0"
+      }
+    },
+    {
+      "text": "They sewed buttons onto their clothes, in brass or pearl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Sewn on buttons",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Henry Croft was an orphan who worked as a street sweeper.",
+      "scene": {
+        "kind": "title",
+        "text": "Henry Croft",
+        "sub": "A sweeper",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He is thought to have been the first pearly king.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "The first king",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "He covered a whole suit in pearl buttons.",
+      "scene": {
+        "kind": "real",
+        "src": "616-london-s-pearly-kings-began-with-a-sweeper-1.jpg",
+        "fit": "card",
+        "label": "Pearl buttons",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He stood out in the crowd while raising money for charity.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "For charity",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The money went to orphanages and hospitals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Orphanages",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Other traders copied him, and each borough got a pearly family.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Copied everywhere",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "At one point, London had 28 pearly families.",
+      "say": "At one point, London had twenty eight pearly families.",
+      "scene": {
+        "kind": "title",
+        "text": "28 boroughs",
+        "sub": "Pearly families",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "London's Pearly Kings began with a sweeper. The Pearly Kings and Queens grew out of London's street market traders. They sewed buttons onto their clothes, in brass or pearl. Henry Croft was an orphan who worked as a street sweeper. He is thought to have been the first pearly king. He covered a whole suit in pearl buttons. He stood out in the crowd while raising money for charity. The money went to orphanages and hospitals. Other traders copied him, and each borough got a pearly family. At one point, London had 28 pearly families. Photo: Matt Brown, CC BY 2.0.",
+    "hashtags": [
+      "#pearlyking",
+      "#london",
+      "#pearls",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.londonmuseum.org.uk/collections/london-stories/who-are-pearly-kings-queens",
+    "https://blog.stanfords.co.uk/blog/2014/09/29/london-through-and-through-pearly-kings-and-queens-where-do-they-come-from-and-where-are-they-today/",
+    "https://www.whodoyouthinkyouaremagazine.com/feature/pearly-kings-queens",
+    "https://en.wikipedia.org/wiki/Henry_Croft_(pearly)",
+    "https://www.horniman.ac.uk/object/2012.11"
+  ],
+  "images": [
+    {
+      "src": "616-london-s-pearly-kings-began-with-a-sweeper-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Matt Brown",
+      "page": "https://commons.wikimedia.org/wiki/File:Pearly_King_and_Queen_mosaic.jpg",
+      "credit": "Photo: Matt Brown, CC BY 2.0"
+    },
+    {
+      "src": "616-london-s-pearly-kings-began-with-a-sweeper-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Ranjithkumar Murugesan",
+      "page": "https://commons.wikimedia.org/wiki/File:PEARL_BUTTONS.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "612-the-getty-s-ancient-gem-was-modern",
+  "number": 612,
+  "title": "The Getty's ancient gem was modern",
+  "style": "gouache",
+  "topic": "getty museum mark antony amethyst intaglio gnaios boardman 1968 bought 2001 carvers and collectors 2009 gertrud platz berlin plaster impression calandrelli notebook poniatowski 1820 lapatin smoking guns 2600 gems",
+  "music": "music-612.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "amethyst",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "The Getty's ancient gem was modern.",
+    "gold": [
+      "Getty's",
+      "ancient",
+      "modern."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Getty's ancient gem was modern.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The Getty owns an amethyst carved with the head of Mark Antony.",
+      "scene": {
+        "kind": "real",
+        "src": "612-the-getty-s-ancient-gem-was-modern-0.jpg",
+        "fit": "card",
+        "label": "The Getty's Mark Antony gem",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1968, scholar John Boardman praised it as a fine ancient work.",
+      "say": "In nineteen sixty eight, scholar John Boardman praised it as a fine ancient work.",
+      "scene": {
+        "kind": "title",
+        "text": "1968",
+        "sub": "Praised",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The Getty bought it in 2001.",
+      "say": "The Getty bought it in two thousand one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Bought in 2001",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 2009, it went on show as an ancient work.",
+      "say": "In two thousand nine, it went on show as an ancient work.",
+      "scene": {
+        "kind": "title",
+        "text": "2009",
+        "sub": "On show",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Then an expert in Berlin recognized it from a plaster impression.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A plaster cast",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The carver Calandrelli's notebook listed the same Mark Antony.",
+      "say": "The carver Cal an drell ee's notebook listed the same Mark Antony.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "The notebook",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He carved it for Prince Poniatowski around 1820.",
+      "say": "He carved it for Prince Pon yah tov skee around eighteen twenty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Around 1820",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Curator Kenneth Lapatin counted three smoking guns in all.",
+      "say": "Curator Kenneth La pay tin counted three smoking guns in all.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Three clues",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The prince's collection grew to more than 2,600 gems called ancient.",
+      "say": "The prince's collection grew to more than twenty six hundred gems called ancient.",
+      "scene": {
+        "kind": "title",
+        "text": "2,600 gems",
+        "sub": "All called ancient",
+        "piece": "brooch",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Getty's ancient gem was modern. The Getty owns an amethyst carved with the head of Mark Antony. In 1968, scholar John Boardman praised it as a fine ancient work. The Getty bought it in 2001. In 2009, it went on show as an ancient work. Then an expert in Berlin recognized it from a plaster impression. The carver Calandrelli's notebook listed the same Mark Antony. He carved it for Prince Poniatowski around 1820. Curator Kenneth Lapatin counted three smoking guns in all. The prince's collection grew to more than 2,600 gems called ancient.",
+    "hashtags": [
+      "#getty",
+      "#amethyst",
+      "#gems",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://getty.edu/news/a-gem-of-a-mystery",
+    "https://en.wikipedia.org/wiki/Poniatowski_gems",
+    "https://ancientimes.blogspot.com/2021/05/forgeries-of-ancient-engraved-gems.html",
+    "https://www.getty.edu/art/exhibitions/gems/index.html",
+    "https://www.getty.edu/art/exhibitions/gems/gnaios.html"
+  ],
+  "images": [
+    {
+      "src": "612-the-getty-s-ancient-gem-was-modern-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Giovanni Calandrelli",
+      "page": "https://commons.wikimedia.org/wiki/File:Giovanni_Calandrelli,_Head_of_Mark_Antony.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

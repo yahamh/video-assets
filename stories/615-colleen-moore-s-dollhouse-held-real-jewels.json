@@ -1,0 +1,172 @@
+{
+  "id": "615-colleen-moore-s-dollhouse-held-real-jewels",
+  "number": 615,
+  "title": "Colleen Moore's dollhouse held real jewels",
+  "style": "gouache",
+  "topic": "colleen moore fairy castle dollhouse 1928 silent film star chandelier real gems cinderella drawing room cradle grandmother's jewelry silver knights valentino tour 1935 1939 department stores children's charities museum of science and industry chicago 1949",
+  "music": "music-615.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "diamond",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Colleen Moore's dollhouse held real jewels.",
+    "gold": [
+      "Colleen",
+      "dollhouse",
+      "jewels."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Colleen Moore's dollhouse held real jewels.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1928, silent film star Colleen Moore began her dream dollhouse.",
+      "say": "In nineteen twenty eight, silent film star Colleen Moore began her dream dollhouse.",
+      "scene": {
+        "kind": "real",
+        "src": "615-colleen-moore-s-dollhouse-held-real-jewels-0.jpg",
+        "fit": "card",
+        "label": "Colleen Moore, 1923",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Her father first suggested the idea.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Her father's idea"
+      }
+    },
+    {
+      "text": "The Fairy Castle is more than eight feet wide.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "The Fairy Castle",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It comes apart into 200 pieces.",
+      "say": "It comes apart into two hundred pieces.",
+      "scene": {
+        "kind": "title",
+        "text": "200 pieces",
+        "sub": "Comes apart",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In Cinderella's drawing room, a gold chandelier hangs with real gems.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A jeweled chandelier",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "A tiny cradle in the garden was made from her grandmother's jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A tiny cradle",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Silver knights at the great hall door came from Rudolph Valentino's collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Silver knights",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "From 1935 to 1939, it toured stores to help children's charities.",
+      "say": "From nineteen thirty five to nineteen thirty nine, it toured stores to help children's charities.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A store tour",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In 1949, she gave it to Chicago's Museum of Science and Industry.",
+      "say": "In nineteen forty nine, she gave it to Chicago's Museum of Science and Industry.",
+      "scene": {
+        "kind": "real",
+        "src": "615-colleen-moore-s-dollhouse-held-real-jewels-1.jpg",
+        "fit": "card",
+        "label": "Museum of Science and Industry",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Colleen Moore's dollhouse held real jewels. In 1928, silent film star Colleen Moore began her dream dollhouse. Her father first suggested the idea. The Fairy Castle is more than eight feet wide. It comes apart into 200 pieces. In Cinderella's drawing room, a gold chandelier hangs with real gems. A tiny cradle in the garden was made from her grandmother's jewelry. Silver knights at the great hall door came from Rudolph Valentino's collection. From 1935 to 1939, it toured stores to help children's charities. In 1949, she gave it to Chicago's Museum of Science and Industry.",
+    "hashtags": [
+      "#colleenmoore",
+      "#dollhouse",
+      "#hollywood",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.griffinmsi.org/exhibits/colleen-moores-fairy-castle/the-colleen-moore-fairy-castle-exhibit",
+    "https://www.griffinmsi.org/exhibits/colleen-moores-fairy-castle/the-story-of-colleen-moore-fairy-castle",
+    "https://www.mentalfloss.com/article/28074/very-tiny-dollhouse-very-big-treasures",
+    "https://www.grit.com/community/an-autobiography-chapter-44-colleen-moores-fairy-castle/",
+    "https://www.cbsnews.com/news/colleen-moores-timeless-fairy-castle",
+    "https://americanheritage.com/colleens-castle"
+  ],
+  "images": [
+    {
+      "src": "615-colleen-moore-s-dollhouse-held-real-jewels-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Nelson Evans",
+      "page": "https://commons.wikimedia.org/wiki/File:Colleen_Moore_by_Nelson_Evans_-_The_Blue_Book_of_the_Screen.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "615-colleen-moore-s-dollhouse-held-real-jewels-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Knarfol at de.wikipedia",
+      "page": "https://commons.wikimedia.org/wiki/File:Museum_of_Science_and_Industry.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

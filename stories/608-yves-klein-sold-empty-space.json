@@ -1,0 +1,199 @@
+{
+  "id": "608-yves-klein-sold-empty-space",
+  "number": 608,
+  "title": "Yves Klein sold empty space",
+  "style": "deco",
+  "topic": "yves klein zones of immaterial pictorial sensibility 1959 empty space sold for gold 20 grams receipt banker's check burn receipt half the gold thrown into the seine museum director witnesses gold leaf pont au double 1962",
+  "music": "music-608.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Yves Klein sold empty space.",
+    "gold": [
+      "Klein",
+      "empty",
+      "space."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Yves Klein sold empty space.",
+      "say": "Eve Klein sold empty space.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1959, Klein began selling zones of empty space.",
+      "say": "In nineteen fifty nine, Klein began selling zones of empty space.",
+      "scene": {
+        "kind": "real",
+        "src": "608-yves-klein-sold-empty-space-0.jpg",
+        "fit": "card",
+        "label": "Yves Klein in 1962",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He called them Zones of Immaterial Pictorial Sensibility.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A grand name",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Buyers paid for each zone in gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Paid in gold",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "One zone sold for 20 grams of gold.",
+      "say": "One zone sold for twenty grams of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "20 grams",
+        "sub": "One zone",
+        "piece": "brooch",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Each buyer got a signed receipt that looked like a banker's check.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A signed receipt",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "To really own the zone, the buyer had to burn the receipt.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Burn the receipt",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Then Klein threw half of the gold into the Seine.",
+      "say": "Then Klein threw half of the gold into the Sen.",
+      "scene": {
+        "kind": "real",
+        "src": "608-yves-klein-sold-empty-space-1.jpg",
+        "fit": "card",
+        "label": "A view along the Seine",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The ritual needed a museum director and at least two witnesses.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Two witnesses",
+        "stones": 9
+      }
+    },
+    {
+      "text": "He kept the other half for his gold leaf works.",
+      "scene": {
+        "kind": "real",
+        "src": "608-yves-klein-sold-empty-space-2.jpg",
+        "fit": "card",
+        "label": "A gold leaf maker, 1568",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1962, one ritual was held at the Pont au Double.",
+      "say": "In nineteen sixty two, one ritual was held at the Pon toh Doo bluh.",
+      "scene": {
+        "kind": "real",
+        "src": "608-yves-klein-sold-empty-space-3.jpg",
+        "fit": "card",
+        "label": "The Pont au Double",
+        "credit": "Photo: dronepicr, CC BY 2.0"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Yves Klein sold empty space. In 1959, Klein began selling zones of empty space. He called them Zones of Immaterial Pictorial Sensibility. Buyers paid for each zone in gold. One zone sold for 20 grams of gold. Each buyer got a signed receipt that looked like a banker's check. To really own the zone, the buyer had to burn the receipt. Then Klein threw half of the gold into the Seine. The ritual needed a museum director and at least two witnesses. He kept the other half for his gold leaf works. In 1962, one ritual was held at the Pont au Double. Photo: dronepicr, CC BY 2.0.",
+    "hashtags": [
+      "#yvesklein",
+      "#gold",
+      "#art",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zone_de_Sensibilit%C3%A9_Picturale_Immat%C3%A9rielle",
+    "https://www.centrepompidou.fr/en/ressources/oeuvre/cMedK9X",
+    "https://www.sothebys.com/en/articles/yves-kleins-golden-hour",
+    "https://www.smithsonianmag.com/smart-news/anonymous-buyer-pays-million-dollars-for-invisible-art-180979881/",
+    "https://www.theartnewspaper.com/2022/03/22/sothebys-selling-receipt-invisible-yves-klein-work-paris",
+    "https://www.sothebys.com/en/articles/21-facts-about-yves-klein"
+  ],
+  "images": [
+    {
+      "src": "608-yves-klein-sold-empty-space-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Yves_Klein_in_front_of_one_of_his_canvases_(1962).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "608-yves-klein-sold-empty-space-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Theodor Josef Hubert Hoffbauer",
+      "page": "https://commons.wikimedia.org/wiki/File:Louvre,_1867.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "608-yves-klein-sold-empty-space-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Print made by: Jost Amman Published by: Sigmund Feierabend",
+      "page": "https://commons.wikimedia.org/wiki/File:Bractearius._Der_Goltschlager._(The_Gold_Leaf_Maker)_(BM_1904,0206.103.32).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "608-yves-klein-sold-empty-space-3.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "dronepicr",
+      "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_and_Pont_au_Double,_11_July_2016.jpg",
+      "credit": "Photo: dronepicr, CC BY 2.0"
+    }
+  ]
+}

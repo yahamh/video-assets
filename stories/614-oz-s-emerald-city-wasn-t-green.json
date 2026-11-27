@@ -1,0 +1,168 @@
+{
+  "id": "614-oz-s-emerald-city-wasn-t-green",
+  "number": 614,
+  "title": "Oz's Emerald City wasn't green",
+  "style": "deco",
+  "topic": "wonderful wizard of oz emerald city green spectacles guardian of the gates key green marble emeralds green pennies green lemonade wizard admits no greener than any other city baum 1900 first edition 10000 copies denslow",
+  "music": "music-614.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Oz's Emerald City wasn't green.",
+    "gold": [
+      "Emerald",
+      "City",
+      "green."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Oz's Emerald City wasn't green.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At the gate, the guard fits every visitor with green spectacles.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Green spectacles",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He says the city's brightness and glory would blind them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Too bright"
+      }
+    },
+    {
+      "text": "The spectacles lock on, and he holds the only key.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Locked on",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Even the people who live in the city wear them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Everyone wears them"
+      }
+    },
+    {
+      "text": "The streets show houses of green marble studded with emeralds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Studded with emeralds",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Shoppers pay with green pennies and drink green lemonade.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Green pennies",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Later, the Wizard admits the city is no greener than any other.",
+      "scene": {
+        "kind": "real",
+        "src": "614-oz-s-emerald-city-wasn-t-green-0.jpg",
+        "fit": "card",
+        "label": "A Denslow illustration, 1900",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He put green spectacles on everyone so everything they saw was green.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Everything green",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Baum's 1900 first edition ran 10,000 copies and sold out.",
+      "say": "Bawm's nineteen hundred first edition ran ten thousand copies and sold out.",
+      "scene": {
+        "kind": "real",
+        "src": "614-oz-s-emerald-city-wasn-t-green-1.jpg",
+        "fit": "card",
+        "label": "The 1900 first edition",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Oz's Emerald City wasn't green. At the gate, the guard fits every visitor with green spectacles. He says the city's brightness and glory would blind them. The spectacles lock on, and he holds the only key. Even the people who live in the city wear them. The streets show houses of green marble studded with emeralds. Shoppers pay with green pennies and drink green lemonade. Later, the Wizard admits the city is no greener than any other. He put green spectacles on everyone so everything they saw was green. Baum's 1900 first edition ran 10,000 copies and sold out.",
+    "hashtags": [
+      "#wizardofoz",
+      "#emeraldcity",
+      "#emeralds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz/text/chapter-10",
+    "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz/text/chapter-11",
+    "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz/text/chapter-15",
+    "https://en.wikipedia.org/wiki/Emerald_City",
+    "https://daily.jstor.org/grand-illusions",
+    "https://loc.gov/exhibits/oz/ozsect1.html",
+    "https://www.pbs.org/wgbh/americanexperience/features/american-oz-wizard-white-city"
+  ],
+  "images": [
+    {
+      "src": "614-oz-s-emerald-city-wasn-t-green-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Author Lyman Frank Baum Illustrator William Wallace Denslow",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_Book_-_p225.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "614-oz-s-emerald-city-wasn-t-green-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "W. W. Denslow",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Wonderful_Wizard_of_Oz_first_edition_cover.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

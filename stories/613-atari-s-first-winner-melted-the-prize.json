@@ -1,0 +1,178 @@
+{
+  "id": "613-atari-s-first-winner-melted-the-prize",
+  "number": 613,
+  "title": "Atari's first winner melted the prize",
+  "style": "jewelbox",
+  "topic": "atari swordquest 1982 treasure prizes franklin mint talisman of penultimate truth 18 karat gold 12 diamonds chalice of light sword of ultimate sorcery dc comics booklet earthworld winner 1983 melted down tiny sword video game crash",
+  "music": "music-613.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "sapphire",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Atari's first winner melted the prize.",
+    "gold": [
+      "Atari's",
+      "winner",
+      "melted"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Atari's first winner melted the prize.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1982, Atari launched Swordquest, a game series with real treasure.",
+      "say": "In nineteen eighty two, Atari launched Swordquest, a game series with real treasure.",
+      "scene": {
+        "kind": "real",
+        "src": "613-atari-s-first-winner-melted-the-prize-0.jpg",
+        "fit": "card",
+        "label": "An Atari 2600 console",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Each game came with a DC Comics booklet of clues.",
+      "say": "Each game came with a D C Comics booklet of clues.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A booklet of clues",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The first prize was an 18 karat gold talisman with 12 diamonds.",
+      "say": "The first prize was an eighteen karat gold talisman with twelve diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A gold talisman",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The Franklin Mint made all the prizes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "The Franklin Mint",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The grand prize was a jeweled sword with a gold handle.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A jeweled sword",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In May 1983, the first winner finished in just 46 minutes.",
+      "say": "In May nineteen eighty three, the first winner finished in just forty six minutes.",
+      "scene": {
+        "kind": "title",
+        "text": "May 1983",
+        "sub": "46 minutes",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He had the talisman melted down, keeping only a tiny sword.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Melted down"
+      }
+    },
+    {
+      "text": "Then the 1983 video game crash hit Atari.",
+      "say": "Then the nineteen eighty three video game crash hit Atari.",
+      "scene": {
+        "kind": "title",
+        "text": "1983",
+        "sub": "The crash",
+        "piece": "earrings",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The grand sword prize was never awarded.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Never awarded",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Only the chalice prize is known to survive.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "The chalice"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Atari's first winner melted the prize. In 1982, Atari launched Swordquest, a game series with real treasure. Each game came with a DC Comics booklet of clues. The first prize was an 18 karat gold talisman with 12 diamonds. The Franklin Mint made all the prizes. The grand prize was a jeweled sword with a gold handle. In May 1983, the first winner finished in just 46 minutes. He had the talisman melted down, keeping only a tiny sword. Then the 1983 video game crash hit Atari. The grand sword prize was never awarded. Only the chalice prize is known to survive.",
+    "hashtags": [
+      "#atari",
+      "#swordquest",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Swordquest",
+    "https://atlasobscura.com/articles/the-quest-for-the-reallife-treasures-of-ataris-swordquest",
+    "https://www.ataricompendium.com/archives/articles/swordquest_revisited/swordquest_revisited.html",
+    "https://forums.atariage.com/blogs/entry/14901-the-swordquest-series-contest/",
+    "https://www.gooddealgames.com/articles/SwordQuest.html",
+    "https://forums.atariage.com/topic/102667-agh-swordquest-interview-with-michael-rideout/"
+  ],
+  "images": [
+    {
+      "src": "613-atari-s-first-winner-melted-the-prize-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Evan-Amos",
+      "page": "https://commons.wikimedia.org/wiki/File:Atari-2600-Console.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

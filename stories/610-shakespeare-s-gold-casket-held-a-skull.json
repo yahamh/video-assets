@@ -1,0 +1,183 @@
+{
+  "id": "610-shakespeare-s-gold-casket-held-a-skull",
+  "number": 610,
+  "title": "Shakespeare's gold casket held a skull",
+  "style": "jewelbox",
+  "topic": "shakespeare merchant of venice gold casket skull scroll all that glisters is not gold prince of morocco portia chaucer house of fame 1380 dryden hind and the panther 1687 glitters",
+  "music": "music-610.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "citrine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Shakespeare's gold casket held a skull.",
+    "gold": [
+      "Shakespeare's",
+      "casket",
+      "skull."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Shakespeare's gold casket held a skull.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The play is The Merchant of Venice, written in the 1590s.",
+      "say": "The play is The Merchant of Venice, written in the fifteen nineties.",
+      "scene": {
+        "kind": "real",
+        "src": "610-shakespeare-s-gold-casket-held-a-skull-0.jpg",
+        "fit": "card",
+        "label": "Shakespeare, 1623 engraving",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In Act 2, the Prince of Morocco must choose among caskets.",
+      "say": "In Act two, the Prince of Morocco must choose among caskets.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Three caskets"
+      }
+    },
+    {
+      "text": "To win Portia, he must pick the right one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "To win Portia",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "He picks the gold casket and opens it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "The gold casket",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Inside is a skull with a written scroll in its eye.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A skull",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The scroll begins, all that glisters is not gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A written scroll",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Shakespeare did not invent that saying.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Not his own",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Chaucer used a version around 1380 in The House of Fame.",
+      "say": "Chaw ser used a version around thirteen eighty in The House of Fame.",
+      "scene": {
+        "kind": "title",
+        "text": "1380",
+        "sub": "Chaucer",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Shakespeare wrote glisters, and modern editions print glitters.",
+      "scene": {
+        "kind": "real",
+        "src": "610-shakespeare-s-gold-casket-held-a-skull-1.jpg",
+        "fit": "card",
+        "label": "The First Folio, 1623",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "John Dryden used glitters in 1687, in The Hind and the Panther.",
+      "say": "John Dryden used glitters in sixteen eighty seven, in The Hind and the Panther.",
+      "scene": {
+        "kind": "title",
+        "text": "1687",
+        "sub": "Dryden",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Shakespeare's gold casket held a skull. The play is The Merchant of Venice, written in the 1590s. In Act 2, the Prince of Morocco must choose among caskets. To win Portia, he must pick the right one. He picks the gold casket and opens it. Inside is a skull with a written scroll in its eye. The scroll begins, all that glisters is not gold. Shakespeare did not invent that saying. Chaucer used a version around 1380 in The House of Fame. Shakespeare wrote glisters, and modern editions print glitters. John Dryden used glitters in 1687, in The Hind and the Panther.",
+    "hashtags": [
+      "#shakespeare",
+      "#gold",
+      "#allthatglitters",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/2/7",
+    "https://en.wikipedia.org/wiki/All_that_glitters_is_not_gold",
+    "https://www.phrases.org.uk/meanings/all-that-glitters-is-not-gold.html",
+    "https://nosweatshakespeare.com/quotes/famous/all-that-glitters-is-not-gold/",
+    "https://interestingliterature.com/2021/01/all-that-glitters-is-not-gold-proverb-origin-meaning/"
+  ],
+  "images": [
+    {
+      "src": "610-shakespeare-s-gold-casket-held-a-skull-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Martin Droeshout",
+      "page": "https://commons.wikimedia.org/wiki/File:Shakespeare_Droeshout_1623.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "610-shakespeare-s-gold-casket-held-a-skull-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "William Shakespeare",
+      "page": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_-_First_Folio_1623.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

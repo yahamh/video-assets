@@ -1,0 +1,169 @@
+{
+  "id": "609-a-picture-book-buried-real-gold",
+  "number": 609,
+  "title": "A picture book buried real gold",
+  "style": "gouache",
+  "topic": "masquerade kit williams 1979 picture book gold hare pendant ruby eye bells clay casket wax metal detectors ampthill park bedfordshire cross catherine of aragon thousands dug found february 1982 sotheby's 1988 buyer overseas bbc appeal 2009",
+  "music": "music-609.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "sapphire",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A picture book buried real gold.",
+    "gold": [
+      "picture",
+      "buried",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A picture book buried real gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1979, Kit Williams published a book called Masquerade.",
+      "say": "In nineteen seventy nine, Kit Williams published a book called Masquerade.",
+      "scene": {
+        "kind": "title",
+        "text": "1979",
+        "sub": "A picture book",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Its paintings hid clues to a gold hare he made himself.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A gold hare",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The hare had a ruby eye and tiny bells.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "A ruby eye"
+      }
+    },
+    {
+      "text": "He sealed it in clay and wax to fool metal detectors.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Clay and wax",
+        "stones": 9
+      }
+    },
+    {
+      "text": "He buried it beside a cross in Ampthill Park.",
+      "say": "He buried it beside a cross in Amt hill Park.",
+      "scene": {
+        "kind": "real",
+        "src": "609-a-picture-book-buried-real-gold-0.jpg",
+        "fit": "card",
+        "label": "A view of Ampthill Park",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It was found near the cross on February 24, 1982.",
+      "say": "It was found near the cross on February twenty fourth, nineteen eighty two.",
+      "scene": {
+        "kind": "title",
+        "text": "1982",
+        "sub": "Found",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1988, Sotheby's sold it to a buyer overseas.",
+      "say": "In nineteen eighty eight, Sotheby's sold it to a buyer overseas.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Sold in 1988",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Then it vanished for more than twenty years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Out of sight",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "A 2009 BBC appeal led its owners to bring it back.",
+      "say": "A two thousand nine B B C appeal led its owners to bring it back.",
+      "scene": {
+        "kind": "title",
+        "text": "2009",
+        "sub": "Brought back",
+        "piece": "brooch",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A picture book buried real gold. In 1979, Kit Williams published a book called Masquerade. Its paintings hid clues to a gold hare he made himself. The hare had a ruby eye and tiny bells. He sealed it in clay and wax to fool metal detectors. He buried it beside a cross in Ampthill Park. It was found near the cross on February 24, 1982. In 1988, Sotheby's sold it to a buyer overseas. Then it vanished for more than twenty years. A 2009 BBC appeal led its owners to bring it back.",
+    "hashtags": [
+      "#masquerade",
+      "#goldhare",
+      "#treasurehunt",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.sothebys.com/en/buy/auction/2025/fine-jewelry-l25051/the-masquerade-hare",
+    "https://en.wikipedia.org/wiki/Masquerade_(book)",
+    "https://csmonitor.com/1982/0315/031524.html",
+    "https://virtual-library.culturalservices.net/webingres/bedfordshire/vlib/0.digitised_resources/ampthill_digitisation_hare.htm",
+    "https://www.itv.com/news/anglia/2025-11-26/jewelled-golden-hare-which-sparked-global-treasure-hunt-could-sell-for-20k",
+    "https://macleans.ca/general/golden-hare-returns-to-britain/"
+  ],
+  "images": [
+    {
+      "src": "609-a-picture-book-buried-real-gold-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "George Shepherd",
+      "page": "https://commons.wikimedia.org/wiki/File:George_Shepherd_-_A_Distant_View_of_Ampthill_Park_-_B1977.14.6279_-_Yale_Center_for_British_Art.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

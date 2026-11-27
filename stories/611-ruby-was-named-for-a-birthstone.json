@@ -1,0 +1,178 @@
+{
+  "id": "611-ruby-was-named-for-a-birthstone",
+  "number": 611,
+  "title": "Ruby was named for a birthstone",
+  "style": "deco",
+  "topic": "ruby programming language named for a birthstone perl pearl larry wall 1987 matz matsumoto japan coral ruby 1993 june pearl july ruby printers type pearl 5 points ruby 5.5 points gems",
+  "music": "music-611.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Ruby was named for a birthstone.",
+    "gold": [
+      "Ruby",
+      "named",
+      "birthstone."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ruby was named for a birthstone.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1987, Larry Wall released Perl, first called Pearl.",
+      "say": "In nineteen eighty seven, Larry Wall released Purl, first called Pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "1987",
+        "sub": "First, Pearl",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Another language already had that name, so he dropped the a.",
+      "scene": {
+        "kind": "real",
+        "src": "611-ruby-was-named-for-a-birthstone-0.jpg",
+        "fit": "card",
+        "label": "A natural pearl in an oyster",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In Japan, Yukihiro Matsumoto wanted a jewel name for his new language.",
+      "say": "In Japan, Yoo kee hee roh Mat soo moh toh wanted a jewel name for his new language.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "A jewel name",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "On February 24, 1993, he settled the name in an online chat.",
+      "say": "On February twenty fourth, nineteen ninety three, he settled the name in an online chat.",
+      "scene": {
+        "kind": "title",
+        "text": "1993",
+        "sub": "An online chat",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The choices were Coral and Ruby.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Coral or Ruby",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Ruby won, and a colleague's birthstone was ruby.",
+      "scene": {
+        "kind": "real",
+        "src": "611-ruby-was-named-for-a-birthstone-1.jpg",
+        "fit": "card",
+        "label": "Corundum, ruby's mineral",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Later he noticed pearl is June's birthstone and ruby is July's.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "June, then July",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Printers' pearl type is 5 points, and their ruby type is 5.5.",
+      "say": "Printers' pearl type is five points, and their ruby type is five and a half.",
+      "scene": {
+        "kind": "title",
+        "text": "5.5 points",
+        "sub": "Printers' ruby",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Ruby's packaged libraries are called gems.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Called gems",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Ruby was named for a birthstone. In 1987, Larry Wall released Perl, first called Pearl. Another language already had that name, so he dropped the a. In Japan, Yukihiro Matsumoto wanted a jewel name for his new language. On February 24, 1993, he settled the name in an online chat. The choices were Coral and Ruby. Ruby won, and a colleague's birthstone was ruby. Later he noticed pearl is June's birthstone and ruby is July's. Printers' pearl type is 5 points, and their ruby type is 5.5. Ruby's packaged libraries are called gems.",
+    "hashtags": [
+      "#ruby",
+      "#perl",
+      "#birthstone",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.ruby-lang.org/en/documentation/faq/1/",
+    "https://auth0.com/blog/a-brief-history-of-ruby/",
+    "https://en.wikipedia.org/wiki/Ruby_(programming_language)",
+    "https://twobithistory.org/2017/11/19/the-ruby-story.html",
+    "https://en.wikipedia.org/wiki/Perl",
+    "https://www.britannica.com/technology/Perl",
+    "https://en.wikipedia.org/wiki/Traditional_point-size_names",
+    "https://guides.rubygems.org/what-is-a-gem/"
+  ],
+  "images": [
+    {
+      "src": "611-ruby-was-named-for-a-birthstone-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Wmpearl",
+      "page": "https://commons.wikimedia.org/wiki/File:Black_lipped_oyster_with_natural_pearl,_Robert_Wan_Pearl_Museum.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "611-ruby-was-named-for-a-birthstone-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Neil Kadrmas",
+      "page": "https://commons.wikimedia.org/wiki/File:Corundum_(GeoDIL_number_-_447).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
