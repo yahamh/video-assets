@@ -1,0 +1,164 @@
+{
+  "id": "579-uncle-sam-was-a-miner-s-nickname",
+  "number": 579,
+  "title": "Uncle Sam was a miner's nickname",
+  "style": "gouache",
+  "topic": "uncle sam diamond 1924 crater of diamonds murfreesboro arkansas wesley basham nickname largest diamond found united states 40 carats cut 12.42 carats emerald cut pinkish brown smithsonian peter buck subway canary diamond 1917",
+  "music": "music-579.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "morganite",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Uncle Sam was a miner's nickname.",
+    "gold": [
+      "miner's",
+      "nickname."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Uncle Sam was a miner's nickname.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1924, a worker in Arkansas found a diamond over 40 carats.",
+      "say": "In nineteen twenty four, a worker in Arkansas found a diamond over forty carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "A big find",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It is still the largest diamond ever found in the United States.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "The largest",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The finder was Wesley Basham, who worked for a diamond company.",
+      "say": "The finder was Wesley Bash um, who worked for a diamond company.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "The finder",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The diamond was named for his nickname, Uncle Sam.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Uncle Sam",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "So the name honors the man, not the national symbol.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A man's name",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A New York cutter shaped it into a 12.42 carat emerald cut.",
+      "say": "A New York cutter shaped it into a twelve point four two carat emerald cut.",
+      "scene": {
+        "kind": "title",
+        "text": "12.42 carats",
+        "sub": "The cut stone",
+        "piece": "stone",
+        "stone": "morganite",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The finished stone is pinkish brown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Pinkish brown"
+      }
+    },
+    {
+      "text": "Peter Buck, who helped start Subway, gave it to the Smithsonian.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A gift",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Near it sits the Canary diamond, found in Arkansas in 1917.",
+      "say": "Near it sits the Canary diamond, found in Arkansas in nineteen seventeen.",
+      "scene": {
+        "kind": "real",
+        "src": "579-uncle-sam-was-a-miner-s-nickname-0.jpg",
+        "fit": "card",
+        "label": "The Smithsonian's diamonds",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Uncle Sam was a miner's nickname. In 1924, a worker in Arkansas found a diamond over 40 carats. It is still the largest diamond ever found in the United States. The finder was Wesley Basham, who worked for a diamond company. The diamond was named for his nickname, Uncle Sam. So the name honors the man, not the national symbol. A New York cutter shaped it into a 12.42 carat emerald cut. The finished stone is pinkish brown. Peter Buck, who helped start Subway, gave it to the Smithsonian. Near it sits the Canary diamond, found in Arkansas in 1917.",
+    "hashtags": [
+      "#unclesam",
+      "#diamond",
+      "#smithsonian",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://naturalhistory.si.edu/node/15676",
+    "https://www.naturalhistory.si.edu/object/nmnhmineralsciences_16580233",
+    "https://en.wikipedia.org/wiki/Uncle_Sam_(diamond)",
+    "https://encyclopediaofarkansas.net/photo-of-day/this-day-1713/",
+    "https://gia.edu/gems-gemology/summer-2022-gemnews-smithsonian-exhibit"
+  ],
+  "images": [
+    {
+      "src": "579-uncle-sam-was-a-miner-s-nickname-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Smithsonian Institution",
+      "page": "https://commons.wikimedia.org/wiki/File:Colorado_Diamond_Crystal,_Freedom_Diamond,_Uncle_Sam_Diamond,_Canary_Diamond.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

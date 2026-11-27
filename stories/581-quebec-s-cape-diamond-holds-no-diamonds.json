@@ -1,0 +1,169 @@
+{
+  "id": "581-quebec-s-cape-diamond-holds-no-diamonds",
+  "number": 581,
+  "title": "Quebec's Cape Diamond holds no diamonds",
+  "style": "deco",
+  "topic": "cape diamond cap diamant quebec jacques cartier 1541 third voyage quartz crystals iron pyrite false canadian diamond saying citadel 100 meters",
+  "music": "music-581.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "amethyst",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Quebec's Cape Diamond holds no diamonds.",
+    "gold": [
+      "holds",
+      "no",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Quebec's Cape Diamond holds no diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1541, the French explorer Jacques Cartier made his third voyage.",
+      "say": "In fifteen forty one, the French explorer Zhahk Kar tee ay made his third voyage.",
+      "scene": {
+        "kind": "real",
+        "src": "581-quebec-s-cape-diamond-holds-no-diamonds-0.jpg",
+        "fit": "card",
+        "label": "Jacques Cartier, by Hamel",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His colonists settled near today's Quebec City.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A new colony",
+        "stones": 9
+      }
+    },
+    {
+      "text": "There they picked up glittering stones they took for diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Glittering stones"
+      }
+    },
+    {
+      "text": "They also found rock that looked like gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Rock like gold",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In France, the diamonds proved to be quartz crystals.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Quartz crystals",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The gold turned out to be iron pyrite.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Iron pyrite",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "France even made a saying: as false as a Canadian diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A French saying",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The cliff above Quebec City is called Cape Diamond for those stones.",
+      "scene": {
+        "kind": "real",
+        "src": "581-quebec-s-cape-diamond-holds-no-diamonds-1.jpg",
+        "fit": "card",
+        "label": "Cap Diamant, an old view",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Citadel of Quebec now stands on it, about 100 meters up.",
+      "say": "The Citadel of Quebec now stands on it, about one hundred meters up.",
+      "scene": {
+        "kind": "title",
+        "text": "100 meters",
+        "sub": "Up the cliff",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Quebec's Cape Diamond holds no diamonds. In 1541, the French explorer Jacques Cartier made his third voyage. His colonists settled near today's Quebec City. There they picked up glittering stones they took for diamonds. They also found rock that looked like gold. In France, the diamonds proved to be quartz crystals. The gold turned out to be iron pyrite. France even made a saying: as false as a Canadian diamond. The cliff above Quebec City is called Cape Diamond for those stones. The Citadel of Quebec now stands on it, about 100 meters up.",
+    "hashtags": [
+      "#capediamond",
+      "#quebec",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britannica.com/place/Cape-Diamond",
+    "https://thecanadianencyclopedia.ca/en/article/diamonds-of-canada",
+    "https://www.thecanadianencyclopedia.ca/article/mineral-naming",
+    "https://www.biographi.ca/en/bio/107",
+    "https://en.wikipedia.org/wiki/Cap_Diamant"
+  ],
+  "images": [
+    {
+      "src": "581-quebec-s-cape-diamond-holds-no-diamonds-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Théophile Hamel",
+      "page": "https://commons.wikimedia.org/wiki/File:Jacques_Cartier_1851-1852.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "581-quebec-s-cape-diamond-holds-no-diamonds-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Benjamin Fisher",
+      "page": "https://commons.wikimedia.org/wiki/File:Le_Cap_Diamant,_Quebec.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "585-soldiers-are-named-for-gold-coins",
+  "number": 585,
+  "title": "Soldiers are named for gold coins",
+  "style": "gouache",
+  "topic": "soldier word origin gold solidus constantine roman coin 72 to a pound paid armies latin one having pay english 1300 french sou shilling s pound 20 shillings 1971",
+  "music": "music-585.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "emerald",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Soldiers are named for gold coins.",
+    "gold": [
+      "named",
+      "gold",
+      "coins."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Soldiers are named for gold coins.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Emperor Constantine made the gold solidus Rome's standard coin.",
+      "say": "Emperor Constantine made the gold sol ih dus Rome's standard coin.",
+      "scene": {
+        "kind": "real",
+        "src": "585-soldiers-are-named-for-gold-coins-0.jpg",
+        "fit": "card",
+        "label": "A gold solidus, Constantius II",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Armies and officials were paid in it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Paid in gold"
+      }
+    },
+    {
+      "text": "It was struck at 72 to a Roman pound of gold.",
+      "say": "It was struck at seventy two to a Roman pound of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "72 a pound",
+        "sub": "A Roman pound",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It kept roughly the same weight for about seven centuries.",
+      "scene": {
+        "kind": "real",
+        "src": "585-soldiers-are-named-for-gold-coins-1.jpg",
+        "fit": "card",
+        "label": "A solidus of 792 to 797",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "So soldier comes from Latin solidus, meaning one having pay.",
+      "say": "So soldier comes from Latin sol ih dus, meaning one having pay.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "One having pay",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The word reached English by about the year 1300.",
+      "say": "The word reached English by about the year thirteen hundred.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Into English",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The French sou comes from solidus too.",
+      "say": "The French soo comes from sol ih dus too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "The French sou",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Britain wrote shillings with an s, short for solidus.",
+      "say": "Britain wrote shillings with an ess, short for sol ih dus.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "An s for solidus",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Until 1971, Britain's pound held 20 shillings.",
+      "say": "Until nineteen seventy one, Britain's pound held twenty shillings.",
+      "scene": {
+        "kind": "title",
+        "text": "1971",
+        "sub": "A pound",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Soldiers are named for gold coins. Emperor Constantine made the gold solidus Rome's standard coin. Armies and officials were paid in it. It was struck at 72 to a Roman pound of gold. It kept roughly the same weight for about seven centuries. So soldier comes from Latin solidus, meaning one having pay. The word reached English by about the year 1300. The French sou comes from solidus too. Britain wrote shillings with an s, short for solidus. Until 1971, Britain's pound held 20 shillings.",
+    "hashtags": [
+      "#etymology",
+      "#goldcoin",
+      "#rome",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/soldier",
+    "https://www.merriam-webster.com/dictionary/soldier",
+    "https://en.wikipedia.org/wiki/Solidus_(coin)",
+    "https://www.worldhistory.org/Byzantine_Coinage/",
+    "https://www.royalmintmuseum.org.uk/journal/history/pounds-shillings-and-pence/"
+  ],
+  "images": [
+    {
+      "src": "585-soldiers-are-named-for-gold-coins-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_Solidus_of_Constantius_II_MET_sf04-35-18s1.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "585-soldiers-are-named-for-gold-coins-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "ANS",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_Solidus_of_Constantine_VI,_792-797.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

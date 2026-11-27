@@ -1,0 +1,168 @@
+{
+  "id": "584-sequins-began-as-venetian-gold-coins",
+  "number": 584,
+  "title": "Sequins began as Venetian gold coins",
+  "style": "deco",
+  "topic": "sequin venetian gold coin ducat zecchino zecca mint 1284 saint mark doge banner 1797 english word sequin 1600s sewn clothing wealth flappers 1920s tutankhamun tomb 1922 gold sequins",
+  "music": "music-584.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "sapphire",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Sequins began as Venetian gold coins.",
+    "gold": [
+      "Venetian",
+      "gold",
+      "coins."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sequins began as Venetian gold coins.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1284, Venice began minting a gold coin called the ducat.",
+      "say": "In twelve eighty four, Venice began minting a gold coin called the ducat.",
+      "scene": {
+        "kind": "title",
+        "text": "1284",
+        "sub": "The ducat",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Venetians also called it the zecchino, from zecca, the mint.",
+      "say": "Venetians also called it the zeh KEE no, from ZEK kah, the mint.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "The zecchino"
+      }
+    },
+    {
+      "text": "One side showed Saint Mark handing a banner to the doge.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Saint Mark",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "English borrowed the word as sequin in the early 1600s.",
+      "say": "English borrowed the word as sequin in the early sixteen hundreds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A new word",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Venice kept the coin's design nearly unchanged until 1797.",
+      "say": "Venice kept the coin's design nearly unchanged until seventeen ninety seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "The same design",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "People sewed gold coins onto clothing to show off wealth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Sewn on clothes",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "After the coin ended, the name moved to shiny discs on clothes.",
+      "scene": {
+        "kind": "real",
+        "src": "584-sequins-began-as-venetian-gold-coins-0.jpg",
+        "fit": "card",
+        "label": "Spangles on a gown",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In the 1920s, flappers made metal sequins a fashion.",
+      "say": "In the nineteen twenties, flappers made metal sequins a fashion.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Flappers",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Tutankhamun's tomb, opened in 1922, held gold sequins.",
+      "say": "Toot ahnk AH mun's tomb, opened in nineteen twenty two, held gold sequins.",
+      "scene": {
+        "kind": "title",
+        "text": "1922",
+        "sub": "Gold sequins",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Sequins began as Venetian gold coins. In 1284, Venice began minting a gold coin called the ducat. Venetians also called it the zecchino, from zecca, the mint. One side showed Saint Mark handing a banner to the doge. English borrowed the word as sequin in the early 1600s. Venice kept the coin's design nearly unchanged until 1797. People sewed gold coins onto clothing to show off wealth. After the coin ended, the name moved to shiny discs on clothes. In the 1920s, flappers made metal sequins a fashion. Tutankhamun's tomb, opened in 1922, held gold sequins.",
+    "hashtags": [
+      "#sequins",
+      "#goldcoin",
+      "#venice",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/sequin",
+    "https://www.merriam-webster.com/dictionary/sequin",
+    "https://www.bundesbank.de/en/bundesbank/numismatics/selected-objects/let-this-be-given-to-you-o-christ-616358",
+    "https://www.nationalgallery.org.uk/paintings/italian-venetian-ducat-of-doge-giovanni-soranzo",
+    "https://www.smithsonianmag.com/arts-culture/a-history-of-sequins-from-king-tut-to-the-king-of-pop-8035/"
+  ],
+  "images": [
+    {
+      "src": "584-sequins-began-as-venetian-gold-coins-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Image: http://collections.lacma.org/sites/default/files/remote_images/piction/ma-1375969-O3.jpg Gallery: https://collections.lacma.org/node/214619 archive copy ",
+      "page": "https://commons.wikimedia.org/wiki/File:Woman's_Dress_LACMA_M.2007.211.933_(10_of_10).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

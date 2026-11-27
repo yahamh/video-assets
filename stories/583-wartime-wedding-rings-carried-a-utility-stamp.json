@@ -1,0 +1,158 @@
+{
+  "id": "583-wartime-wedding-rings-carried-a-utility-stamp",
+  "number": 583,
+  "title": "Wartime wedding rings carried a Utility stamp",
+  "style": "jewelbox",
+  "topic": "wartime utility wedding rings britain 1942 9 carat gold 22 carat two pennyweights utility mark stamp couples married rings ran short london assay office hallmark punch kept goldsmiths hall",
+  "music": "music-583.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Wartime wedding rings carried a Utility stamp.",
+    "gold": [
+      "Utility",
+      "stamp."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Wartime wedding rings carried a Utility stamp.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1942, a British order limited how wedding rings were made.",
+      "say": "In nineteen forty two, a British order limited how wedding rings were made.",
+      "scene": {
+        "kind": "real",
+        "src": "583-wartime-wedding-rings-carried-a-utility-stamp-0.jpg",
+        "fit": "card",
+        "label": "Utility clothing, 1942",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They could only be 9 carat gold, not the usual 22 carat.",
+      "say": "They could only be nine carat gold, not the usual twenty two carat.",
+      "scene": {
+        "kind": "title",
+        "text": "9 carat",
+        "sub": "Not 22 carat",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A ring could weigh no more than two pennyweights.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Two pennyweights",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Every legally made ring was stamped with a Utility mark.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "The Utility mark"
+      }
+    },
+    {
+      "text": "Couples married in such numbers that rings ran short.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Rings ran short",
+        "stones": 9
+      }
+    },
+    {
+      "text": "People waited, or bought second hand rings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A long wait"
+      }
+    },
+    {
+      "text": "The London Assay Office kept hallmarking all through the war.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Still hallmarking",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Its Utility punch was kept, though punches are normally destroyed.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A kept punch",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "A copy of it is still held at Goldsmiths' Hall in London.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Goldsmiths' Hall",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Wartime wedding rings carried a Utility stamp. In 1942, a British order limited how wedding rings were made. They could only be 9 carat gold, not the usual 22 carat. A ring could weigh no more than two pennyweights. Every legally made ring was stamped with a Utility mark. Couples married in such numbers that rings ran short. People waited, or bought second hand rings. The London Assay Office kept hallmarking all through the war. Its Utility punch was kept, though punches are normally destroyed. A copy of it is still held at Goldsmiths' Hall in London.",
+    "hashtags": [
+      "#weddingring",
+      "#hallmark",
+      "#wartime",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://collections.vam.ac.uk/item/O1364100",
+    "https://www.assayofficelondon.co.uk/about-us/history-of-hallmarking",
+    "https://thegoldsmiths.co.uk/goldsmiths-stories/this-is-not-a-wedding-ring",
+    "https://en.wikipedia.org/wiki/Wedding_ring",
+    "https://dynamic-rsnz.natlib.govt.nz/newspapers/WAITA19420911.2.85"
+  ],
+  "images": [
+    {
+      "src": "583-wartime-wedding-rings-carried-a-utility-stamp-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Ministry of Information Photo Division Photographer",
+      "page": "https://commons.wikimedia.org/wiki/File:Wartime_Fashions-_Utility_Clothing,_1942_D10727.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

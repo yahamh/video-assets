@@ -1,0 +1,177 @@
+{
+  "id": "578-goya-s-duchess-wears-two-named-rings",
+  "number": 578,
+  "title": "Goya's duchess wears two named rings",
+  "style": "deco",
+  "topic": "goya duchess of alba 1797 portrait hispanic society of america new york rings inscribed alba goya solo goya sand studio 1812 son sold 1836 archer huntington 1907",
+  "music": "music-578.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Goya's duchess wears two named rings.",
+    "gold": [
+      "named",
+      "rings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Goya's duchess wears two named rings.",
+      "say": "Goy uh's duchess wears two named rings.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Goya painted the Duchess of Alba in oil on canvas.",
+      "say": "Goy uh painted the Duchess of Al buh in oil on canvas.",
+      "scene": {
+        "kind": "real",
+        "src": "578-goya-s-duchess-wears-two-named-rings-0.jpg",
+        "fit": "card",
+        "label": "The Duchess of Alba, 1797",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The portrait is kept in the Hispanic Society in New York.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Kept in New York",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "One ring is inscribed Alba and the other Goya.",
+      "say": "One ring is inscribed Al buh and the other Goy uh.",
+      "scene": {
+        "kind": "real",
+        "src": "578-goya-s-duchess-wears-two-named-rings-1.jpg",
+        "fit": "card",
+        "label": "A detail of her hand",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "With her right hand, she points at the ground.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A pointing hand",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In the sand are the words Solo Goya, which mean only Goya.",
+      "say": "In the sand are the words Soh loh Goy uh, which mean only Goy uh.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Only Goya"
+      }
+    },
+    {
+      "text": "Goya kept the painting in his studio until 1812.",
+      "say": "Goy uh kept the painting in his studio until eighteen twelve.",
+      "scene": {
+        "kind": "title",
+        "text": "1812",
+        "sub": "In his studio",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "His son then owned it and sold it in 1836.",
+      "say": "His son then owned it and sold it in eighteen thirty six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Sold by his son",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Archer Huntington gave it to the Hispanic Society in 1907.",
+      "say": "Archer Huntington gave it to the Hispanic Society in nineteen oh seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1907",
+        "sub": "A gift",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The date written in the sand is 1797.",
+      "say": "The date written in the sand is seventeen ninety seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1797",
+        "sub": "In the sand",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Goya's duchess wears two named rings. Goya painted the Duchess of Alba in oil on canvas. The portrait is kept in the Hispanic Society in New York. One ring is inscribed Alba and the other Goya. With her right hand, she points at the ground. In the sand are the words Solo Goya, which mean only Goya. Goya kept the painting in his studio until 1812. His son then owned it and sold it in 1836. Archer Huntington gave it to the Hispanic Society in 1907. The date written in the sand is 1797.",
+    "hashtags": [
+      "#goya",
+      "#duchessofalba",
+      "#rings",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://hispanicsociety.emuseum.com/objects/2114/the-duchess-of-alba",
+    "https://projects.mcah.columbia.edu/hispanic/monographs/goya-duchess.php",
+    "https://en.wikipedia.org/wiki/The_Black_Duchess",
+    "https://fundaciongoyaenaragon.es/eng/obra/maria-del-pilar-teresa-cayetana-de-silva-alvarez-de-toledo-xiii-duquesa-de-alba-1/372",
+    "https://www.nationalgallery.org.uk/paintings/learn-about-art/lives-of-artists/goya-exhibition-in-focus?viewPage=4"
+  ],
+  "images": [
+    {
+      "src": "578-goya-s-duchess-wears-two-named-rings-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Francisco Goya",
+      "page": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_The_Duchess_of_Alba_-_A102_-_Hispanic_Society_of_America.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "578-goya-s-duchess-wears-two-named-rings-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Schlesinger",
+      "page": "https://commons.wikimedia.org/wiki/File:Herzogin_von_Alba,_Detail.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

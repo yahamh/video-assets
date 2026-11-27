@@ -1,0 +1,170 @@
+{
+  "id": "580-rings-signed-shakespeare-s-window",
+  "number": 580,
+  "title": "Rings signed Shakespeare's window",
+  "style": "jewelbox",
+  "topic": "shakespeare birthplace window signed diamond rings scratched names glass stratford walter scott thomas carlyle ellen terry walls verses literary tourists trust bought 1847 1995 conservation exhibition room",
+  "music": "music-580.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Rings signed Shakespeare's window.",
+    "gold": [
+      "Rings",
+      "signed"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Rings signed Shakespeare's window.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The window belongs to Shakespeare's Birthplace in Stratford.",
+      "scene": {
+        "kind": "real",
+        "src": "580-rings-signed-shakespeare-s-window-0.jpg",
+        "fit": "card",
+        "label": "The Birthplace, painted",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Visitors scratched their names into the glass with diamond rings.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Names in glass",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Walter Scott and Thomas Carlyle left their names there.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Famous names",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The actress Ellen Terry left hers too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "An actress"
+      }
+    },
+    {
+      "text": "The walls were covered with names and verses too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Names and verses",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Tourists came long before the Birthplace Trust bought the house in 1847.",
+      "say": "Tourists came long before the Birthplace Trust bought the house in eighteen forty seven.",
+      "scene": {
+        "kind": "title",
+        "text": "1847",
+        "sub": "The Trust buys",
+        "piece": "brooch",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Those wall inscriptions were painted over long ago.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Painted over"
+      }
+    },
+    {
+      "text": "In 1995, the window was taken out of its frame for conservation.",
+      "say": "In nineteen ninety five, the window was taken out of its frame for conservation.",
+      "scene": {
+        "kind": "title",
+        "text": "1995",
+        "sub": "Out of its frame",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Today the window is kept in the Birthplace exhibition room.",
+      "scene": {
+        "kind": "real",
+        "src": "580-rings-signed-shakespeare-s-window-1.jpg",
+        "fit": "card",
+        "label": "The birth room, 1880",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Rings signed Shakespeare's window. The window belongs to Shakespeare's Birthplace in Stratford. Visitors scratched their names into the glass with diamond rings. Walter Scott and Thomas Carlyle left their names there. The actress Ellen Terry left hers too. The walls were covered with names and verses too. Tourists came long before the Birthplace Trust bought the house in 1847. Those wall inscriptions were painted over long ago. In 1995, the window was taken out of its frame for conservation. Today the window is kept in the Birthplace exhibition room.",
+    "hashtags": [
+      "#shakespeare",
+      "#diamondring",
+      "#stratford",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.shakespeare.org.uk/explore-shakespeare/blogs/new-light-through-old-windows/",
+    "https://www.shakespeare.org.uk/explore-shakespeare/blogs/graffiti-shakespeares-birthroom/",
+    "https://collections.shakespeare.org.uk/search/museum/strst-sbt-2013-8",
+    "https://www.open.ac.uk/blogs/literarytourist/?p=390",
+    "https://en.wikipedia.org/wiki/Shakespeare%27s_Birthplace"
+  ],
+  "images": [
+    {
+      "src": "580-rings-signed-shakespeare-s-window-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "anonymous",
+      "page": "https://commons.wikimedia.org/wiki/File:British_School_-_Shakespeare's_Birthplace,_Henley_Street,_Stratford-upon-Avon,_Warwickshire_-_SBT_1993-31-243_-_Shakespeare_Birthplace_Trust.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "580-rings-signed-shakespeare-s-window-1.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "National Media Museum from UK",
+      "page": "https://commons.wikimedia.org/wiki/File:Shakespeares_Birthplace,_Stratford-on-Avon,_c.1880._(7893552958).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

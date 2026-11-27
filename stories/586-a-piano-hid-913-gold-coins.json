@@ -1,0 +1,171 @@
+{
+  "id": "586-a-piano-hid-913-gold-coins",
+  "number": 586,
+  "title": "A piano hid 913 gold coins",
+  "style": "jewelbox",
+  "topic": "piano hid 913 gold coins sovereigns half sovereigns broadwood shropshire school tuner keyboard eight parcels 1847 1915 six kilograms shredded wheat cardboard 1926 coroner treasure 633 280",
+  "music": "music-586.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "citrine",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A piano hid 913 gold coins.",
+    "gold": [
+      "913",
+      "gold",
+      "coins."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A piano hid 913 gold coins.",
+      "say": "A piano hid nine hundred thirteen gold coins.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A tuner was repairing a Broadwood piano at a Shropshire school.",
+      "say": "A tuner was repairing a Brod wood piano at a Shrop shur school.",
+      "scene": {
+        "kind": "real",
+        "src": "586-a-piano-hid-913-gold-coins-0.jpg",
+        "fit": "card",
+        "label": "A Broadwood grand piano",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Under the keyboard, he found eight parcels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Eight parcels",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Inside were 913 gold sovereigns and half sovereigns.",
+      "say": "Inside were nine hundred thirteen gold sovereigns and half sovereigns.",
+      "scene": {
+        "kind": "title",
+        "text": "913 coins",
+        "sub": "Under the keys",
+        "piece": "necklace",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The coins were dated from 1847 to 1915.",
+      "say": "The coins were dated from eighteen forty seven to nineteen fifteen.",
+      "scene": {
+        "kind": "title",
+        "text": "1847 to 1915",
+        "sub": "The dates",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Together they weighed more than 6 kilograms.",
+      "say": "Together they weighed more than six kilograms.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Six kilograms",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Cardboard from a Shredded Wheat advertisement dated the hiding to after 1926.",
+      "say": "Cardboard from a Shredded Wheat advertisement dated the hiding to after nineteen twenty six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A cereal clue",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A coroner declared it treasure, as no one knows who hid it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Declared treasure"
+      }
+    },
+    {
+      "text": "About 50 people came forward to claim it, and none had evidence.",
+      "say": "About fifty people came forward to claim it, and none had evidence.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Fifty claims",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In all, 633 sovereigns and 280 half sovereigns.",
+      "say": "In all, six hundred thirty three sovereigns and two hundred eighty half sovereigns.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "The full count",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A piano hid 913 gold coins. A tuner was repairing a Broadwood piano at a Shropshire school. Under the keyboard, he found eight parcels. Inside were 913 gold sovereigns and half sovereigns. The coins were dated from 1847 to 1915. Together they weighed more than 6 kilograms. Cardboard from a Shredded Wheat advertisement dated the hiding to after 1926. A coroner declared it treasure, as no one knows who hid it. About 50 people came forward to claim it, and none had evidence. In all, 633 sovereigns and 280 half sovereigns.",
+    "hashtags": [
+      "#goldcoins",
+      "#sovereign",
+      "#treasure",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://finds.org.uk/news/story/289",
+    "https://newsroom.shropshire.gov.uk/2017/03/inquest-potential-treasure-discovered-piano-shropshire/",
+    "https://itv.com/news/central/2017-04-20/largest-gold-sovereign-hoard-ever-found-declared-treasure",
+    "https://www.ksl.com/article/43935169/who-stashed-gold-inside-a-british-piano-its-a-mystery",
+    "https://www.scotsman.com/news/owner-of-mystery-gold-treasure-trove-hidden-in-piano-sought-1451438"
+  ],
+  "images": [
+    {
+      "src": "586-a-piano-hid-913-gold-coins-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "John Broadwood & Sons",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Broadwood_%26_Sons_Grand_Piano.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

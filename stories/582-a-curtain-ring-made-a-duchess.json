@@ -1,0 +1,174 @@
+{
+  "id": "582-a-curtain-ring-made-a-duchess",
+  "number": 582,
+  "title": "A curtain ring made a duchess",
+  "style": "gouache",
+  "topic": "elizabeth gunning duke of hamilton bed curtain ring wedding 1752 horace walpole letter clergyman refused no license archbishop mayfair chapel half past midnight marriage act 1754 valentine's day register",
+  "music": "music-582.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A curtain ring made a duchess.",
+    "gold": [
+      "curtain",
+      "ring"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A curtain ring made a duchess.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "By 1750, crowds followed the Gunning sisters around London.",
+      "say": "By seventeen fifty, crowds followed the Gunning sisters around London.",
+      "scene": {
+        "kind": "real",
+        "src": "582-a-curtain-ring-made-a-duchess-0.jpg",
+        "fit": "card",
+        "label": "Elizabeth Gunning, by Hamilton",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Horace Walpole wrote that the Duke of Hamilton fell for Elizabeth.",
+      "say": "Horace Wall pole wrote that the Duke of Hamilton fell for Elizabeth.",
+      "scene": {
+        "kind": "real",
+        "src": "582-a-curtain-ring-made-a-duchess-1.jpg",
+        "fit": "card",
+        "label": "Horace Walpole, by Reynolds",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Duke sent for a clergyman.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A clergyman",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The clergyman refused, because there was no license and no ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "No ring"
+      }
+    },
+    {
+      "text": "The Duke swore he would fetch the Archbishop.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "An Archbishop",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In Walpole's account, they married with a ring off the bed curtain.",
+      "say": "In Wall pole's account, they married with a ring off the bed curtain.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A bed curtain ring",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It was half an hour after midnight, in a Mayfair chapel.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A Mayfair chapel",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A new marriage law ended such weddings in 1754.",
+      "say": "A new marriage law ended such weddings in seventeen fifty four.",
+      "scene": {
+        "kind": "title",
+        "text": "1754",
+        "sub": "A new law",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 9
+      }
+    },
+    {
+      "text": "The register dates the wedding February 14, 1752, Valentine's Day.",
+      "say": "The register dates the wedding February fourteenth, seventeen fifty two, Valentine's Day.",
+      "scene": {
+        "kind": "title",
+        "text": "1752",
+        "sub": "The wedding",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A curtain ring made a duchess. By 1750, crowds followed the Gunning sisters around London. Horace Walpole wrote that the Duke of Hamilton fell for Elizabeth. The Duke sent for a clergyman. The clergyman refused, because there was no license and no ring. The Duke swore he would fetch the Archbishop. In Walpole's account, they married with a ring off the bed curtain. It was half an hour after midnight, in a Mayfair chapel. A new marriage law ended such weddings in 1754. The register dates the wedding February 14, 1752, Valentine's Day.",
+    "hashtags": [
+      "#weddingring",
+      "#georgianera",
+      "#duchess",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.british-history.ac.uk/node/37879",
+    "https://en.wikipedia.org/wiki/Elizabeth_Hamilton,_1st_Baroness_Hamilton_of_Hameldon",
+    "https://en.wikipedia.org/wiki/Keith%27s_Chapel",
+    "https://www.grubstreetproject.net/essays/keiths-chapel/",
+    "https://en.wikisource.org/wiki/Notable_Irishwomen/The_Beautiful_Gunnings"
+  ],
+  "images": [
+    {
+      "src": "582-a-curtain-ring-made-a-duchess-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Gavin Hamilton",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_gunning02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "582-a-curtain-ring-made-a-duchess-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Joshua Reynolds",
+      "page": "https://commons.wikimedia.org/wiki/File:Horace_Walpole.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
