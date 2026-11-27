@@ -7512,7 +7512,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1809709040111923",
+      "instagram": "https://www.instagram.com/reel/DgPM-vMBCOD/"
+    }
   },
   "530-the-first-x-ray-showed-a-ring": {
     "at": "2026-11-27T08:30:00Z",
@@ -7521,14 +7526,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1815849326362512",
+      "instagram": "https://www.instagram.com/reel/DgPQXNwAhgn/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712765910779448597"
+    }
   },
   "531-hermes-bracelet-began-as-a-dog-collar": {
     "at": "2026-11-27T09:00:00Z",
     "zernio_id": "6b076cfe738a3ad1a847cf0a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgPUBDEABSl/"
+    }
   },
   "532-tiffany-s-pikachu-came-in-a-poke-ball": {
     "at": "2026-11-27T09:30:00Z",
@@ -7536,7 +7551,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1457341614132650",
+      "instagram": "https://www.instagram.com/reel/DgPXbTwBj8U/"
+    }
   },
   "533-queen-mary-s-dollhouse-holds-tiny-crown-jewels": {
     "at": "2026-11-27T10:00:00Z",
@@ -7545,7 +7565,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1721029059373827",
+      "instagram": "https://www.instagram.com/reel/DgPa_FEOuBs/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712789713731554567"
+    }
   },
   "534-the-lone-ranger-s-ring-held-polonium": {
     "at": "2026-11-27T10:30:00Z",
@@ -7984,6 +8010,81 @@
   "587-baseball-s-first-ring-held-one-diamond": {
     "at": "2026-11-28T17:00:00Z",
     "zernio_id": "6b090f975152f69e8f4b7895",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "588-june-cleaver-s-pearls-hid-a-shadow": {
+    "at": "2026-11-28T17:30:00Z",
+    "zernio_id": "6b096009f3b6ba2ec1a36a82",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "589-a-korean-crown-tomb-honors-sweden": {
+    "at": "2026-11-28T18:00:00Z",
+    "zernio_id": "6b09600e5094f350a0a2b0a9",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "590-a-swiss-coin-banned-a-forelock": {
+    "at": "2026-11-28T18:30:00Z",
+    "zernio_id": "6b0960115094f350a0a2b0be",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "591-ghana-s-gold-weights-hinted-at-proverbs": {
+    "at": "2026-11-28T19:00:00Z",
+    "zernio_id": "6b096015344e7e218c584002",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "592-warren-buffett-was-pitched-on-fifth-avenue": {
+    "at": "2026-11-28T19:30:00Z",
+    "zernio_id": "6b09601b344e7e218c584012",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "593-zales-sold-diamonds-for-a-penny-down": {
+    "at": "2026-11-28T20:00:00Z",
+    "zernio_id": "6b09601febc266275e11700d",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "594-elizabeth-s-gold-rush-ended-in-a-wall": {
+    "at": "2026-11-28T20:30:00Z",
+    "zernio_id": "6b096025344e7e218c58403e",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "595-a-jeweler-minted-the-first-gold-dollar": {
+    "at": "2026-11-28T21:00:00Z",
+    "zernio_id": "6b09602bf3b6ba2ec1a36b6b",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "596-a-diamond-mine-began-with-a-pun": {
+    "at": "2026-11-28T21:30:00Z",
+    "zernio_id": "6b09602f344e7e218c584074",
     "platforms": [
       "facebook",
       "instagram"
