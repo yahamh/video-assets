@@ -7593,7 +7593,11 @@
     "zernio_id": "6b076d1043258bd4fd518780",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgPhsZQzl0v/"
+    }
   },
   "536-rubik-s-cube-once-wore-185-carats": {
     "at": "2026-11-27T11:30:00Z",
@@ -7602,7 +7606,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1670772314743098",
+      "instagram": "https://www.instagram.com/reel/DgPlGXnB8k5/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712812573170683156"
+    }
   },
   "537-linnaeus-once-farmed-pearls-in-mussels": {
     "at": "2026-11-27T12:00:00Z",
@@ -7610,7 +7620,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1395453642481213",
+      "instagram": "https://www.instagram.com/reel/DgPosqcPByZ/"
+    }
   },
   "538-elizabeth-taylor-swam-in-a-tiara": {
     "at": "2026-11-27T12:30:00Z",
@@ -7618,7 +7633,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1846275203278442",
+      "instagram": "https://www.instagram.com/reel/DgPr4k5BXg5/"
+    }
   },
   "539-harry-winston-named-a-diamond-portuguese": {
     "at": "2026-11-27T13:00:00Z",
@@ -7626,7 +7646,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgPvWlgylbH/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712835664290663686"
+    }
   },
   "540-faberge-hid-a-train-in-an-egg": {
     "at": "2026-11-27T13:30:00Z",
@@ -7634,7 +7659,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1957801602268016",
+      "instagram": "https://www.instagram.com/reel/DgPytgvKp7L/"
+    }
   },
   "541-a-sarah-bernhardt-poster-became-a-bracelet": {
     "at": "2026-11-27T14:00:00Z",
@@ -7643,7 +7673,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1781426469782171",
+      "instagram": "https://www.instagram.com/reel/DgP2ZGkBN4H/",
+      "youtube": "https://www.youtube.com/watch?v=DxCpw4UTHD4"
+    }
   },
   "542-victoria-s-brooch-holds-a-baby-tooth": {
     "at": "2026-11-27T14:30:00Z",
@@ -7651,7 +7687,12 @@
     "platforms": [
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgP5oauhnfg/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712858855654427912"
+    }
   },
   "543-robert-boyle-took-a-diamond-to-bed": {
     "at": "2026-11-27T15:00:00Z",
@@ -7659,7 +7700,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1550724520181448",
+      "instagram": "https://www.instagram.com/reel/DgP9OyBBs02/"
+    }
   },
   "544-balzac-s-cane-had-paris-talking-for-months": {
     "at": "2026-11-27T15:30:00Z",
@@ -7667,7 +7713,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1129363096550971",
+      "instagram": "https://www.instagram.com/reel/DgQAg52QgIj/"
+    }
   },
   "545-moma-showed-a-sink-strainer-necklace": {
     "at": "2026-11-27T16:00:00Z",
@@ -7676,7 +7727,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1158187973575278",
+      "instagram": "https://www.instagram.com/reel/DgQD9SBPOgY/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7712881794848230657"
+    }
   },
   "546-the-large-hadron-collider-made-gold": {
     "at": "2026-11-27T16:30:00Z",
@@ -8102,6 +8159,79 @@
     "platforms": [
       "instagram",
       "tiktok"
+    ]
+  },
+  "598-the-hope-diamond-s-setting-went-to-vote": {
+    "at": "2026-11-28T22:30:00Z",
+    "zernio_id": "6b09b41ae97d375320c62912",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "599-pepys-buried-gold-six-inches-down": {
+    "at": "2026-11-28T23:00:00Z",
+    "zernio_id": "6b09b41fc73f48dc7f1d64bb",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ]
+  },
+  "600-snoopy-worked-for-nasa-for-free": {
+    "at": "2026-11-28T23:30:00Z",
+    "zernio_id": "6b09b425c73f48dc7f1d64d0",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "601-margarine-is-named-after-pearls": {
+    "at": "2026-11-29T00:00:00Z",
+    "zernio_id": "6b09b42bbb1dc6305dd3ba7d",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "602-gold-coins-once-sparked-a-germ-scare": {
+    "at": "2026-11-29T00:30:00Z",
+    "zernio_id": "6b09b4337d4447eece581f73",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "603-callas-s-stage-jewels-were-crystal": {
+    "at": "2026-11-29T01:00:00Z",
+    "zernio_id": "6b09b439cdff960012fe8605",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "604-australia-s-first-gold-coin-skipped-permission": {
+    "at": "2026-11-29T01:30:00Z",
+    "zernio_id": "6b09b43e020992e5337fef7a",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "605-kimberley-s-name-began-with-a-complaint": {
+    "at": "2026-11-29T02:00:00Z",
+    "zernio_id": "6b09b443cdff960012fe8680",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "606-sweden-s-bridal-crowns-belonged-to-churches": {
+    "at": "2026-11-29T02:30:00Z",
+    "zernio_id": "6b09b44bcdff960012fe86a9",
+    "platforms": [
+      "facebook",
+      "instagram"
     ]
   },
   "ft-prongs-solitaire": {
@@ -8734,7 +8864,11 @@
     "zernio_id": "6b00d49a6653f11e8e2f9c7f",
     "platforms": [
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "youtube": "https://www.youtube.com/watch?v=mgnHeMLDan0"
+    }
   },
   "lesson-036-parts-of-a-diamond": {
     "at": "2026-11-28T16:00:00Z",
