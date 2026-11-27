@@ -1,0 +1,174 @@
+{
+  "id": "597-platinum-was-once-thrown-into-rivers",
+  "number": 597,
+  "title": "Platinum was once thrown into rivers",
+  "style": "gouache",
+  "topic": "platinum platina colombia thrown into rivers gold dust little silver spanish crown 1726 ban 1731 bogota river 1787 royal order platina gorge novita could not be melted passed as gold",
+  "music": "music-597.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "aquamarine",
+    "cut": "emerald",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Platinum was once thrown into rivers.",
+    "gold": [
+      "Platinum",
+      "thrown",
+      "rivers."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Platinum was once thrown into rivers.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In colonial Colombia, miners kept finding heavy silvery grit in their gold.",
+      "scene": {
+        "kind": "real",
+        "src": "597-platinum-was-once-thrown-into-rivers-0.jpg",
+        "fit": "card",
+        "label": "Placer platinum grains",
+        "credit": "Photo: James St. John, CC BY 2.0"
+      }
+    },
+    {
+      "text": "They called it platina, meaning little silver.",
+      "say": "They called it plah tee nuh, meaning little silver.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Little silver",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The tools of the day could not melt it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Too hard to melt",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "But its weight and shine let it pass as gold.",
+      "scene": {
+        "kind": "real",
+        "src": "597-platinum-was-once-thrown-into-rivers-1.jpg",
+        "fit": "card",
+        "label": "A platinum nugget, replica",
+        "credit": "Photo: James St. John, CC BY 2.0"
+      }
+    },
+    {
+      "text": "Officials banned mining in rich platina deposits until 1726.",
+      "say": "Officials banned mining in rich plah tee nuh deposits until seventeen twenty six.",
+      "scene": {
+        "kind": "title",
+        "text": "1726",
+        "sub": "The ban",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Mines reopened only if they threw the platina back into rivers.",
+      "say": "Mines reopened only if they threw the plah tee nuh back into rivers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Back into rivers",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1731, sacks of raw platinum were dumped into the Bogota River.",
+      "say": "In seventeen thirty one, sacks of raw platinum were dumped into the Boh goh tah River.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Sacks of platinum",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "One dumping spot was named the Platina Gorge.",
+      "say": "One dumping spot was named the Plah tee nuh Gorge.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "The Platina Gorge"
+      }
+    },
+    {
+      "text": "In 1787, a royal order made platina the Crown's property.",
+      "say": "In seventeen eighty seven, a royal order made plah tee nuh the Crown's property.",
+      "scene": {
+        "kind": "title",
+        "text": "1787",
+        "sub": "The Crown",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Platinum was once thrown into rivers. In colonial Colombia, miners kept finding heavy silvery grit in their gold. They called it platina, meaning little silver. The tools of the day could not melt it. But its weight and shine let it pass as gold. Officials banned mining in rich platina deposits until 1726. Mines reopened only if they threw the platina back into rivers. In 1731, sacks of raw platinum were dumped into the Bogota River. One dumping spot was named the Platina Gorge. In 1787, a royal order made platina the Crown's property. Photo: James St. John, CC BY 2.0.",
+    "hashtags": [
+      "#platinum",
+      "#colombia",
+      "#goldhistory",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://krislane.tulane.edu/wp-content/uploads/sites/5/2015/06/Gone-Platinum.pdf",
+    "https://technology.matthey.com/article/38/3/126-133",
+    "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0026461X20000031",
+    "https://en.wikipedia.org/wiki/Platinum"
+  ],
+  "images": [
+    {
+      "src": "597-platinum-was-once-thrown-into-rivers-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "James St. John",
+      "page": "https://commons.wikimedia.org/wiki/File:Platinum_nuggets_(placer_platinum)_(Granite_Creek,_southern_British_Columbia,_Canada)_(17125947987).jpg",
+      "credit": "Photo: James St. John, CC BY 2.0"
+    },
+    {
+      "src": "597-platinum-was-once-thrown-into-rivers-1.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "James St. John",
+      "page": "https://commons.wikimedia.org/wiki/File:Large_platinum_nugget_(replica)_(Ural_Mountains,_Russia)_1_(17337624135).jpg",
+      "credit": "Photo: James St. John, CC BY 2.0"
+    }
+  ]
+}
