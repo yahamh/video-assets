@@ -7580,7 +7580,13 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1034363736372065",
+      "instagram": "https://www.instagram.com/reel/DgPeTNSgO-k/",
+      "youtube": "https://www.youtube.com/watch?v=3yrRqResK6k"
+    }
   },
   "535-lewis-and-clark-s-necklace-was-misfiled": {
     "at": "2026-11-27T11:00:00Z",
@@ -8088,6 +8094,14 @@
     "platforms": [
       "facebook",
       "instagram"
+    ]
+  },
+  "597-platinum-was-once-thrown-into-rivers": {
+    "at": "2026-11-28T22:00:00Z",
+    "zernio_id": "6b09635f6ea15f757a4e8798",
+    "platforms": [
+      "instagram",
+      "tiktok"
     ]
   },
   "ft-prongs-solitaire": {
