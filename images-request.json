@@ -1,92 +1,32 @@
 {
  "queries": [
   {
-   "key": "i-fix",
+   "key": "i-fix2",
    "commons": [
-    "New Court St Swithin's Lane Rothschild",
-    "N M Rothschild & Sons London",
-    "gold bullion bars",
-    "London Bullion Market Association gold bar"
+    "gold bullion bars vault",
+    "New Court Rothschild bank London",
+    "Bank of England gold vault",
+    "London Bullion Market Association"
    ],
    "max": 10
   },
   {
-   "key": "i-mozart",
+   "key": "i-maiden2",
    "commons": [
-    "Mozart family portrait Croce 1780",
-    "Mozart Verona 1770 Cignaroli",
-    "Mozart Lange 1782 portrait",
-    "pocket watch 18th century gold"
+    "Maiden Lane Manhattan",
+    "Maiden Lane New York 1900s",
+    "Diamond Exchange Maiden Lane",
+    "Maiden Lane clock Broadway"
    ],
    "max": 10
   },
   {
-   "key": "i-adamant",
+   "key": "i-bazaar2",
    "commons": [
-    "lodestone magnetite attracting iron",
-    "Pseudodoxia Epidemica Browne title page",
-    "Pliny the Elder Naturalis Historia",
-    "rough diamond octahedron"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-casket",
-   "commons": [
-    "Han Feizi",
-    "kingfisher feather ornament Chinese tian-tsui",
-    "Chinese jewelry casket",
-    "pearl"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-rhand",
-   "commons": [
-    "diamond ring right hand",
-    "diamond cluster ring",
-    "woman hand diamond ring",
-    "Diamond Trading Company London"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-christus",
-   "commons": [
-    "Petrus Christus A Goldsmith in His Shop",
-    "Petrus Christus Saint Eligius",
-    "Petrus Christus Metropolitan Museum",
-    "Petrus Christus"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-maiden",
-   "commons": [
-    "Maiden Lane New York jewelry district",
-    "14 Maiden Lane Diamond Exchange Building",
-    "Maiden Lane Manhattan 1900",
-    "Barthman clock Maiden Lane"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-bazaar",
-   "commons": [
-    "Grand Bazaar Istanbul",
-    "Cevahir Bedesten Grand Bazaar",
-    "Kalpakcilar Caddesi Grand Bazaar",
-    "Grand Bazaar Istanbul 19th century engraving"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-flute",
-   "commons": [
-    "Georges Barrère flutist",
-    "Edgard Varèse",
-    "Boehm flute",
-    "Carnegie Hall 1930s"
+    "Kapalıçarşı",
+    "Cevahir Bedesten",
+    "Grand Bazaar Istanbul engraving",
+    "Grand Bazaar Istanbul jewellery shop"
    ],
    "max": 10
   }
