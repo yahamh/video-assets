@@ -8390,6 +8390,14 @@
       "tiktok"
     ]
   },
+  "617-a-gold-horse-puzzle-was-solved-late": {
+    "at": "2026-11-29T12:00:00Z",
+    "zernio_id": "6b0a15f76385038301569716",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
   "ft-prongs-solitaire": {
     "at": "2026-10-31T14:10:00Z",
     "zernio_id": "6ae52385f8fda9deef37cdfc",
@@ -9064,6 +9072,13 @@
   "lesson-041-cabochon-cut": {
     "at": "2026-12-03T16:00:00Z",
     "zernio_id": "6b08b9f0d6e9b251e6b6e03f",
+    "platforms": [
+      "youtube"
+    ]
+  },
+  "lesson-042-milgrain": {
+    "at": "2026-12-04T16:00:00Z",
+    "zernio_id": "6b0a15fc2d5d84661eb26631",
     "platforms": [
       "youtube"
     ]
