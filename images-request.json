@@ -1,102 +1,62 @@
 {
  "queries": [
   {
-   "key": "i-ruby",
+   "key": "i-hallmark",
    "commons": [
-    "ruby gemstone crystal",
-    "natural pearl",
-    "pearl onions",
-    "Yukihiro Matsumoto"
+    "Joyce C. Hall Hallmark founder",
+    "Goldsmiths' Hall London",
+    "hallmark leopard's head London",
+    "hallmark assay marks silver"
    ],
    "max": 10
   },
   {
-   "key": "i-oz",
+   "key": "i-choco",
    "commons": [
-    "Denslow Wonderful Wizard of Oz 1900",
-    "Emerald City Denslow illustration",
-    "Wonderful Wizard of Oz first edition cover 1900",
-    "L. Frank Baum portrait"
+    "brown diamond",
+    "Argyle diamond mine",
+    "rough diamond crystal",
+    "industrial diamond drill bit"
    ],
    "max": 10
   },
   {
-   "key": "i-atari",
+   "key": "i-ponte",
    "commons": [
-    "Atari 2600 console",
-    "Atari 2600 cartridge",
-    "Atari logo",
-    "Atari headquarters Sunnyvale"
+    "Ponte Vecchio",
+    "Ponte Vecchio goldsmith shops",
+    "Vasari Corridor",
+    "Ponte Vecchio engraving 19th century"
    ],
    "max": 10
   },
   {
-   "key": "i-masq",
+   "key": "i-beet",
    "commons": [
-    "Ampthill Park",
-    "Katharine of Aragon's Cross Ampthill",
-    "gold hare pendant",
-    "Kit Williams"
+    "Beethoven Stieler 1820",
+    "Friedrich Wilhelm III of Prussia portrait",
+    "Beethoven Ninth Symphony autograph manuscript",
+    "Kärntnertortheater Vienna"
    ],
    "max": 10
   },
   {
-   "key": "i-klein",
+   "key": "i-fleece",
    "commons": [
-    "Pont au Double Paris",
-    "Seine Paris quai 19th century engraving",
-    "gold leaf sheets",
-    "Yves Klein"
+    "Golden Fleece Jason Colchis painting",
+    "Svaneti Mestia Enguri river",
+    "Draper Golden Fleece 1904",
+    "Strabo Geography manuscript"
    ],
    "max": 10
   },
   {
-   "key": "i-getty",
+   "key": "i-mazal",
    "commons": [
-    "Giovanni Calandrelli Head of Mark Antony",
-    "Poniatowski gems intaglio",
-    "amethyst intaglio gem",
-    "Getty Villa Malibu"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-moore",
-   "commons": [
-    "Colleen Moore 1920s portrait",
-    "Colleen Moore Fairy Castle",
-    "Museum of Science and Industry Chicago",
-    "dollhouse chandelier"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-shake",
-   "commons": [
-    "Merchant of Venice Prince of Morocco casket painting",
-    "Shakespeare First Folio 1623",
-    "Chandos portrait Shakespeare",
-    "Portia casket scene Merchant of Venice"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-pearly",
-   "commons": [
-    "Henry Croft pearly king",
-    "Pearly King costermonger 1900 photograph",
-    "pearly queen London",
-    "pearl buttons"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-horse",
-   "commons": [
-    "Tennessee Pass Colorado",
-    "10th Mountain Division Memorial Tennessee Pass",
-    "gold horse statuette",
-    "Continental Divide Colorado"
+    "Hoveniersstraat Antwerp",
+    "diamond paper parcel",
+    "handshake",
+    "Antwerp diamond bourse"
    ],
    "max": 10
   }
