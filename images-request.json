@@ -1,62 +1,92 @@
 {
  "queries": [
   {
-   "key": "i-hallmark",
+   "key": "i-fix",
    "commons": [
-    "Joyce C. Hall Hallmark founder",
-    "Goldsmiths' Hall London",
-    "hallmark leopard's head London",
-    "hallmark assay marks silver"
+    "New Court St Swithin's Lane Rothschild",
+    "N M Rothschild & Sons London",
+    "gold bullion bars",
+    "London Bullion Market Association gold bar"
    ],
    "max": 10
   },
   {
-   "key": "i-choco",
+   "key": "i-mozart",
    "commons": [
-    "brown diamond",
-    "Argyle diamond mine",
-    "rough diamond crystal",
-    "industrial diamond drill bit"
+    "Mozart family portrait Croce 1780",
+    "Mozart Verona 1770 Cignaroli",
+    "Mozart Lange 1782 portrait",
+    "pocket watch 18th century gold"
    ],
    "max": 10
   },
   {
-   "key": "i-ponte",
+   "key": "i-adamant",
    "commons": [
-    "Ponte Vecchio",
-    "Ponte Vecchio goldsmith shops",
-    "Vasari Corridor",
-    "Ponte Vecchio engraving 19th century"
+    "lodestone magnetite attracting iron",
+    "Pseudodoxia Epidemica Browne title page",
+    "Pliny the Elder Naturalis Historia",
+    "rough diamond octahedron"
    ],
    "max": 10
   },
   {
-   "key": "i-beet",
+   "key": "i-casket",
    "commons": [
-    "Beethoven Stieler 1820",
-    "Friedrich Wilhelm III of Prussia portrait",
-    "Beethoven Ninth Symphony autograph manuscript",
-    "Kärntnertortheater Vienna"
+    "Han Feizi",
+    "kingfisher feather ornament Chinese tian-tsui",
+    "Chinese jewelry casket",
+    "pearl"
    ],
    "max": 10
   },
   {
-   "key": "i-fleece",
+   "key": "i-rhand",
    "commons": [
-    "Golden Fleece Jason Colchis painting",
-    "Svaneti Mestia Enguri river",
-    "Draper Golden Fleece 1904",
-    "Strabo Geography manuscript"
+    "diamond ring right hand",
+    "diamond cluster ring",
+    "woman hand diamond ring",
+    "Diamond Trading Company London"
    ],
    "max": 10
   },
   {
-   "key": "i-mazal",
+   "key": "i-christus",
    "commons": [
-    "Hoveniersstraat Antwerp",
-    "diamond paper parcel",
-    "handshake",
-    "Antwerp diamond bourse"
+    "Petrus Christus A Goldsmith in His Shop",
+    "Petrus Christus Saint Eligius",
+    "Petrus Christus Metropolitan Museum",
+    "Petrus Christus"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-maiden",
+   "commons": [
+    "Maiden Lane New York jewelry district",
+    "14 Maiden Lane Diamond Exchange Building",
+    "Maiden Lane Manhattan 1900",
+    "Barthman clock Maiden Lane"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-bazaar",
+   "commons": [
+    "Grand Bazaar Istanbul",
+    "Cevahir Bedesten Grand Bazaar",
+    "Kalpakcilar Caddesi Grand Bazaar",
+    "Grand Bazaar Istanbul 19th century engraving"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-flute",
+   "commons": [
+    "Georges Barrère flutist",
+    "Edgard Varèse",
+    "Boehm flute",
+    "Carnegie Hall 1930s"
    ],
    "max": 10
   }
