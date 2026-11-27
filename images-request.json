@@ -1,82 +1,102 @@
 {
  "queries": [
   {
-   "key": "i-hope",
+   "key": "i-ruby",
    "commons": [
-    "Hope Diamond",
-    "Hope Diamond Smithsonian",
-    "Embracing Hope Hope Diamond",
-    "Harry Winston Hope Diamond necklace"
+    "ruby gemstone crystal",
+    "natural pearl",
+    "pearl onions",
+    "Yukihiro Matsumoto"
    ],
    "max": 10
   },
   {
-   "key": "i-pepys",
+   "key": "i-oz",
    "commons": [
-    "Samuel Pepys by John Hayls",
-    "Samuel Pepys",
-    "Pepys diary manuscript",
-    "Brampton Huntingdonshire"
+    "Denslow Wonderful Wizard of Oz 1900",
+    "Emerald City Denslow illustration",
+    "Wonderful Wizard of Oz first edition cover 1900",
+    "L. Frank Baum portrait"
    ],
    "max": 10
   },
   {
-   "key": "i-snoopy",
+   "key": "i-atari",
    "commons": [
-    "Silver Snoopy award",
-    "Snoopy Apollo 10",
-    "Apollo 10 lunar module Snoopy",
-    "Apollo 10 crew portrait"
+    "Atari 2600 console",
+    "Atari 2600 cartridge",
+    "Atari logo",
+    "Atari headquarters Sunnyvale"
    ],
    "max": 10
   },
   {
-   "key": "i-marg",
+   "key": "i-masq",
    "commons": [
-    "Michel Eugène Chevreul",
-    "Hippolyte Mège-Mouriès",
-    "margarine advertisement",
-    "oleomargarine"
+    "Ampthill Park",
+    "Katharine of Aragon's Cross Ampthill",
+    "gold hare pendant",
+    "Kit Williams"
    ],
    "max": 10
   },
   {
-   "key": "i-indian",
+   "key": "i-klein",
    "commons": [
-    "Indian Head quarter eagle",
-    "Indian Head half eagle",
-    "Bela Lyon Pratt",
-    "William Sturgis Bigelow"
+    "Pont au Double Paris",
+    "Seine Paris quai 19th century engraving",
+    "gold leaf sheets",
+    "Yves Klein"
    ],
    "max": 10
   },
   {
-   "key": "i-callas",
+   "key": "i-getty",
    "commons": [
-    "Maria Callas",
-    "Maria Callas Norma",
-    "Arena di Verona",
-    "Royal Opera House Covent Garden"
+    "Giovanni Calandrelli Head of Mark Antony",
+    "Poniatowski gems intaglio",
+    "amethyst intaglio gem",
+    "Getty Villa Malibu"
    ],
    "max": 10
   },
   {
-   "key": "i-adel",
+   "key": "i-moore",
    "commons": [
-    "Adelaide Pound 1852",
-    "Adelaide Assay Office",
-    "South Australia gold 1852",
-    "Victorian gold rush 1851 diggers"
+    "Colleen Moore 1920s portrait",
+    "Colleen Moore Fairy Castle",
+    "Museum of Science and Industry Chicago",
+    "dollhouse chandelier"
    ],
    "max": 10
   },
   {
-   "key": "i-kimb",
+   "key": "i-shake",
    "commons": [
-    "Colesberg Kopje 1872",
-    "New Rush Kimberley 1872 diggers",
-    "John Wodehouse 1st Earl of Kimberley",
-    "Argyle diamond mine"
+    "Merchant of Venice Prince of Morocco casket painting",
+    "Shakespeare First Folio 1623",
+    "Chandos portrait Shakespeare",
+    "Portia casket scene Merchant of Venice"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-pearly",
+   "commons": [
+    "Henry Croft pearly king",
+    "Pearly King costermonger 1900 photograph",
+    "pearly queen London",
+    "pearl buttons"
+   ],
+   "max": 10
+  },
+  {
+   "key": "i-horse",
+   "commons": [
+    "Tennessee Pass Colorado",
+    "10th Mountain Division Memorial Tennessee Pass",
+    "gold horse statuette",
+    "Continental Divide Colorado"
    ],
    "max": 10
   }
