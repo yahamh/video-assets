@@ -1,0 +1,167 @@
+{
+  "id": "607-chewbacca-s-film-medal-came-decades-late",
+  "number": 607,
+  "title": "Chewbacca's film medal came decades late",
+  "style": "jewelbox",
+  "topic": "chewbacca medal star wars 1977 leia luke han no medal wookiees peter mayhew carrie fisher neck mtv movie awards 1997 lifetime achievement rise of skywalker 2019 maz kanata 42 years",
+  "music": "music-607.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "topaz",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Chewbacca's film medal came decades late.",
+    "gold": [
+      "Chewbacca's",
+      "medal",
+      "decades"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Chewbacca's film medal came decades late.",
+      "say": "Chew bocka's film medal came decades late.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1977, Leia gave medals to Luke and Han.",
+      "say": "In nineteen seventy seven, Leia gave medals to Luke and Han.",
+      "scene": {
+        "kind": "title",
+        "text": "1977",
+        "sub": "The ceremony",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Chewbacca fought beside them but got nothing.",
+      "say": "Chew bocka fought beside them but got nothing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Nothing for him",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "George Lucas said medals do not mean much to Wookiees.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Not for Wookiees",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Actor Peter Mayhew joked that Carrie Fisher could not reach his neck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A tall joke",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1997, the MTV Movie Awards gave Chewbacca a lifetime achievement medal.",
+      "say": "In nineteen ninety seven, the M T V Movie Awards gave Chew bocka a lifetime achievement medal.",
+      "scene": {
+        "kind": "title",
+        "text": "1997",
+        "sub": "MTV Awards",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Carrie Fisher presented it, and Mayhew accepted in full costume.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "In full costume",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 2019, Maz Kanata handed Chewbacca a medal at last.",
+      "say": "In twenty nineteen, Maz Kanata handed Chew bocka a medal at last.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "At last",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It looks like the medals from the 1977 ceremony.",
+      "say": "It looks like the medals from the nineteen seventy seven ceremony.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "The same look",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "That was 42 years after the first ceremony.",
+      "say": "That was forty two years after the first ceremony.",
+      "scene": {
+        "kind": "title",
+        "text": "42 years",
+        "sub": "A long wait",
+        "piece": "brooch",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Chewbacca's film medal came decades late. In 1977, Leia gave medals to Luke and Han. Chewbacca fought beside them but got nothing. George Lucas said medals do not mean much to Wookiees. Actor Peter Mayhew joked that Carrie Fisher could not reach his neck. In 1997, the MTV Movie Awards gave Chewbacca a lifetime achievement medal. Carrie Fisher presented it, and Mayhew accepted in full costume. In 2019, Maz Kanata handed Chewbacca a medal at last. It looks like the medals from the 1977 ceremony. That was 42 years after the first ceremony.",
+    "hashtags": [
+      "#chewbacca",
+      "#starwars",
+      "#medal",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://looper.com/180919/the-meaning-behind-chewbaccas-medal-in-rise-of-skywalker",
+    "https://wegotthiscovered.com/movies/chewbaccas-medal-star-wars-rise-skywalker/",
+    "https://www.refinery29.com/en-us/2019/12/9082769/why-does-chewbacca-get-a-medal-in-rise-of-skywalker",
+    "https://www.cbr.com/star-wars-chewbacca-finally-gets-medal-rise-of-skywalker/",
+    "https://screenrant.com/star-wars-rise-skywalker-chewbacca-medal/",
+    "https://www.mentalfloss.com/entertainment/star-wars/15-chewbacca-facts-honor-peter-mayhews-birthday"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the film medal or the actors"
+}
