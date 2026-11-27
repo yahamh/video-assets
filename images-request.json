@@ -1,102 +1,82 @@
 {
  "queries": [
   {
-   "key": "i-cleaver",
+   "key": "i-hope",
    "commons": [
-    "Barbara Billingsley",
-    "Leave It to Beaver cast 1960",
-    "Leave It to Beaver 1958 publicity",
-    "pearl necklace choker 1950s"
+    "Hope Diamond",
+    "Hope Diamond Smithsonian",
+    "Embracing Hope Hope Diamond",
+    "Harry Winston Hope Diamond necklace"
    ],
    "max": 10
   },
   {
-   "key": "i-helz",
+   "key": "i-pepys",
    "commons": [
-    "Plaza Hotel New York",
-    "Fifth Avenue 58th Street Manhattan",
-    "Fifth Avenue Plaza Hotel 1990s",
-    "Helzberg Diamonds store"
+    "Samuel Pepys by John Hayls",
+    "Samuel Pepys",
+    "Pepys diary manuscript",
+    "Brampton Huntingdonshire"
    ],
    "max": 10
   },
   {
-   "key": "i-zales",
+   "key": "i-snoopy",
    "commons": [
-    "Wichita Falls Texas 1920s",
-    "Zales Jewelers store",
-    "Wichita Falls Ohio Avenue history",
-    "jewelry store window 1920s"
+    "Silver Snoopy award",
+    "Snoopy Apollo 10",
+    "Apollo 10 lunar module Snoopy",
+    "Apollo 10 crew portrait"
    ],
    "max": 10
   },
   {
-   "key": "i-frob",
+   "key": "i-marg",
    "commons": [
-    "Martin Frobisher Cornelis Ketel",
-    "Frobisher Meta Incognita map 1578",
-    "Frobisher Bay Baffin Island",
-    "Dartford Manor Gatehouse"
+    "Michel Eugène Chevreul",
+    "Hippolyte Mège-Mouriès",
+    "margarine advertisement",
+    "oleomargarine"
    ],
    "max": 10
   },
   {
-   "key": "i-seobong",
+   "key": "i-indian",
    "commons": [
-    "Seobongchong gold crown",
-    "Silla gold crown Gyeongju National Museum",
-    "Silla gold crown Korea",
-    "Gustaf VI Adolf archaeologist"
+    "Indian Head quarter eagle",
+    "Indian Head half eagle",
+    "Bela Lyon Pratt",
+    "William Sturgis Bigelow"
    ],
    "max": 10
   },
   {
-   "key": "i-vreneli",
+   "key": "i-callas",
    "commons": [
-    "20 francs Vreneli 1897",
-    "Goldvreneli Helvetia",
-    "Swiss 20 franc gold coin",
-    "Vreneli gold coin Switzerland"
+    "Maria Callas",
+    "Maria Callas Norma",
+    "Arena di Verona",
+    "Royal Opera House Covent Garden"
    ],
    "max": 10
   },
   {
-   "key": "i-akan",
+   "key": "i-adel",
    "commons": [
-    "Akan gold weight crocodile",
-    "Asante goldweight brass",
-    "Akan goldweights Brooklyn Museum",
-    "Ashanti gold weights Met Museum"
+    "Adelaide Pound 1852",
+    "Adelaide Assay Office",
+    "South Australia gold 1852",
+    "Victorian gold rush 1851 diggers"
    ],
    "max": 10
   },
   {
-   "key": "i-mir",
+   "key": "i-kimb",
    "commons": [
-    "Mir mine Mirny",
-    "Mirny diamond mine open pit",
-    "Mir kimberlite pipe NASA",
-    "Mirny Yakutia town"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-bechtler",
-   "commons": [
-    "Bechtler gold dollar",
-    "Bechtler Mint Site Rutherfordton",
-    "Bechtler five dollars 1834",
-    "Bechtler gold coin North Carolina"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-platina",
-   "commons": [
-    "Native platinum nugget",
-    "Antonio de Ulloa portrait",
-    "Rio San Juan Choco Colombia",
-    "platinum crystals native Colombia"
+    "Colesberg Kopje 1872",
+    "New Rush Kimberley 1872 diggers",
+    "John Wodehouse 1st Earl of Kimberley",
+    "Argyle diamond mine"
    ],
    "max": 10
   }
