@@ -1,0 +1,174 @@
+{
+  "id": "587-baseball-s-first-ring-held-one-diamond",
+  "number": 587,
+  "title": "Baseball's first ring held one diamond",
+  "style": "deco",
+  "topic": "baseball first world series ring 1922 new york giants yankees 14 karat gold one diamond inscribed giants world champions pins medals 1972 oakland athletics full carat 1977 yankees ny diamonds yogi berra 10 rings",
+  "music": "music-587.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Baseball's first ring held one diamond.",
+    "gold": [
+      "first",
+      "ring",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Baseball's first ring held one diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Before 1922, World Series winners got pins and medals instead.",
+      "say": "Before nineteen twenty two, World Series winners got pins and medals instead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Pins and medals",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "That year, the New York Giants beat the Yankees.",
+      "scene": {
+        "kind": "real",
+        "src": "587-baseball-s-first-ring-held-one-diamond-0.jpg",
+        "fit": "card",
+        "label": "1922 World Series tickets",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The Giants received the first World Series rings.",
+      "scene": {
+        "kind": "real",
+        "src": "587-baseball-s-first-ring-held-one-diamond-1.jpg",
+        "fit": "card",
+        "label": "Giants manager John McGraw",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The ring was 14 karat gold with one diamond in the center.",
+      "say": "The ring was fourteen karat gold with one diamond in the center.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "One diamond",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The sides read Giants World Champions 1922.",
+      "say": "The sides read Giants World Champions nineteen twenty two.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "World Champions",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Rings with one diamond stayed the norm for about 50 years.",
+      "say": "Rings with one diamond stayed the norm for about fifty years.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Fifty years"
+      }
+    },
+    {
+      "text": "In 1972, the Oakland Athletics ring held a full carat diamond.",
+      "say": "In nineteen seventy two, the Oakland Athletics ring held a full carat diamond.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A full carat",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In 1977, the Yankees ring spelled NY in many diamonds.",
+      "say": "In nineteen seventy seven, the Yankees ring spelled N Y in many diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "N Y in diamonds"
+      }
+    },
+    {
+      "text": "As a player, Yogi Berra won 10 World Series rings, a record.",
+      "say": "As a player, Yogi Berra won ten World Series rings, a record.",
+      "scene": {
+        "kind": "title",
+        "text": "10 rings",
+        "sub": "Yogi Berra",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Baseball's first ring held one diamond. Before 1922, World Series winners got pins and medals instead. That year, the New York Giants beat the Yankees. The Giants received the first World Series rings. The ring was 14 karat gold with one diamond in the center. The sides read Giants World Champions 1922. Rings with one diamond stayed the norm for about 50 years. In 1972, the Oakland Athletics ring held a full carat diamond. In 1977, the Yankees ring spelled NY in many diamonds. As a player, Yogi Berra won 10 World Series rings, a record.",
+    "hashtags": [
+      "#baseball",
+      "#worldseries",
+      "#championshipring",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://baseballhall.org/discover/rings-tell-story-of-baseballs-greatest-teams",
+    "https://en.wikipedia.org/wiki/World_Series_ring",
+    "https://www.cbssports.com/mlb/news/look-heres-what-the-first-world-series-ring-from-1922-looked-like",
+    "https://sportscollectorsdigest.com/memorabilia/baseball-rings-the-bling-wasnt-always-the-thing",
+    "https://abc7news.com/post/gets-world-series-rings-fun-facts-mlb-tradition/18050387/"
+  ],
+  "images": [
+    {
+      "src": "587-baseball-s-first-ring-held-one-diamond-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Major League Baseball",
+      "page": "https://commons.wikimedia.org/wiki/File:1922_World_Series_tickets.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "587-baseball-s-first-ring-held-one-diamond-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "File URL IIIF manifest Catalog record",
+      "page": "https://commons.wikimedia.org/wiki/File:McGraw,_John_1918_-_DPLA_-_dbbdf7a947615deb1b04b033a4070ce2.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
