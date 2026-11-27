@@ -1,0 +1,151 @@
+{
+ "id": "lesson-042-milgrain",
+ "series": "lesson",
+ "number": 42,
+ "title": "What milgrain is",
+ "topic": "milgrain millegrain beaded border tiny beads soldered by hand milgrain wheel knurling tool numbered sizes 3D design cast platinum Edwardian early 1900s mille grains thousand grains French",
+ "music": "music-lesson-042.wav",
+ "hook": {
+  "text": "Milgrain is a border of tiny beads.",
+  "gold": [
+   "Milgrain",
+   "tiny beads."
+  ]
+ },
+ "end": {
+  "line": "Renders made with",
+  "handle": "HeyGema"
+ },
+ "lines": [
+  {
+   "text": "Milgrain is a border of tiny beads.",
+   "scene": {
+    "kind": "photo",
+    "src": "eternity-render.webp",
+    "focus": {
+     "x": 0.5,
+     "y": 0.5,
+     "k": 1.3
+    },
+    "label": "A band edge"
+   }
+  },
+  {
+   "text": "The beads run along an edge or around a stone.",
+   "scene": {
+    "kind": "title",
+    "text": "Along the edge",
+    "sub": "Or around a stone"
+   }
+  },
+  {
+   "text": "They frame the stone and draw the eye to it.",
+   "scene": {
+    "kind": "photo",
+    "src": "bridal-render.webp",
+    "focus": {
+     "x": 0.45,
+     "y": 0.35,
+     "k": 1.4
+    },
+    "label": "Framing a stone"
+   }
+  },
+  {
+   "text": "The old way was to solder each bead on by hand.",
+   "scene": {
+    "kind": "title",
+    "text": "By hand",
+    "sub": "One bead at a time"
+   }
+  },
+  {
+   "text": "The faster way is a small tool with a toothed wheel.",
+   "scene": {
+    "kind": "title",
+    "text": "Toothed wheel",
+    "sub": "A small hand tool"
+   }
+  },
+  {
+   "text": "Rolled along the edge, it raises beads from the metal itself.",
+   "scene": {
+    "kind": "title",
+    "text": "Raised from metal",
+    "sub": "Not added on"
+   }
+  },
+  {
+   "text": "Wheels come in numbered sizes, and bigger numbers make bigger beads.",
+   "scene": {
+    "kind": "title",
+    "text": "Numbered wheels",
+    "sub": "Bigger beads"
+   }
+  },
+  {
+   "text": "Today many pieces are designed in 3D and cast.",
+   "say": "Today many pieces are designed in three D and cast.",
+   "scene": {
+    "kind": "compare",
+    "before": "cad-wireframe.webp",
+    "after": "cad-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  },
+  {
+   "text": "It is most linked with platinum and the early 1900s.",
+   "say": "It is most linked with platinum and the early nineteen hundreds.",
+   "scene": {
+    "kind": "title",
+    "text": "Platinum",
+    "sub": "Early 1900s"
+   }
+  },
+  {
+   "text": "The name is French for a thousand grains.",
+   "scene": {
+    "kind": "title",
+    "text": "A thousand grains",
+    "sub": "From French"
+   }
+  },
+  {
+   "text": "So milgrain is a line of tiny beads framing a stone.",
+   "scene": {
+    "kind": "title",
+    "text": "A line of beads",
+    "sub": "Frames the stone"
+   }
+  },
+  {
+   "text": "A render shows the border and the stone before anything is cast.",
+   "scene": {
+    "kind": "compare",
+    "before": "matthew-rose-input.webp",
+    "after": "matthew-rose-render.webp",
+    "beforeLabel": "3D file",
+    "afterLabel": "Render"
+   }
+  }
+ ],
+ "post": {
+  "youtube_title": "Jewelry render basics: what milgrain is",
+  "caption": "Milgrain is a border of tiny metal beads along the edge of a band or around a stone. It frames the stone and draws the eye to it. The old way was to solder one bead at a time by hand, and the faster way is a small tool with a toothed wheel that raises the beads from the metal itself. Milgrain is most linked with platinum and the early 1900s, and the name is French for a thousand grains. The renders in this video were made with HeyGema.",
+  "hashtags": [
+   "#milgrain",
+   "#jewelrymaking",
+   "#jewelrydesign",
+   "#jewelryhistory",
+   "#jewelryrendering"
+  ]
+ },
+ "sources": [
+  "https://www.jewelersmutual.com/resources/individuals/trending/what-is-milgrain-jewelry",
+  "https://www.langantiques.com/university/Millegrain/",
+  "https://www.gia.edu/doc/jewels-of-the-edwardians.pdf",
+  "https://orchid.ganoksin.com/t/using-milgrain-tools/45463",
+  "https://the-cartiers.com/glossary/millegrain/"
+ ]
+}

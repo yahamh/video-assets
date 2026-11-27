@@ -1,0 +1,181 @@
+{
+  "id": "617-a-gold-horse-puzzle-was-solved-late",
+  "number": 617,
+  "title": "A gold horse puzzle was solved late",
+  "style": "deco",
+  "topic": "treasure in search of the golden horse 1984 book video puzzle kurt konecny gold horse one kilogram key safe deposit box deadline 26 may 1989 promoters dug up the horse charity two men solved months later tennessee pass colorado vial note continental divide",
+  "music": "music-617.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A gold horse puzzle was solved late.",
+    "gold": [
+      "gold",
+      "horse",
+      "solved",
+      "late."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A gold horse puzzle was solved late.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A 1984 book and video hid clues to a buried gold horse.",
+      "say": "A nineteen eighty four book and video hid clues to a buried gold horse.",
+      "scene": {
+        "kind": "title",
+        "text": "1984",
+        "sub": "A buried horse",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It was built as America's answer to Masquerade.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Beating Masquerade"
+      }
+    },
+    {
+      "text": "The horse was about one kilogram of gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A kilogram of gold",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Its hollow belly held a key to a safe deposit box.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A hidden key",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The deadline was midnight on May 26, 1989, and nobody solved it.",
+      "say": "The deadline was midnight on May twenty sixth, nineteen eighty nine, and nobody solved it.",
+      "scene": {
+        "kind": "title",
+        "text": "26 May 1989",
+        "sub": "No winner",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The promoters dug it up and gave the prize to charity.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "To charity",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Months later, two men solved the puzzle anyway.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Solved anyway",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "They dug at Tennessee Pass in Colorado and found a vial.",
+      "scene": {
+        "kind": "real",
+        "src": "617-a-gold-horse-puzzle-was-solved-late-0.jpg",
+        "fit": "card",
+        "label": "Tennessee Pass, Hayden Survey",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its note began by congratulating them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Congratulations",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The pass sits beside the Continental Divide.",
+      "scene": {
+        "kind": "real",
+        "src": "617-a-gold-horse-puzzle-was-solved-late-1.jpg",
+        "fit": "card",
+        "label": "Tennessee Pass sign",
+        "credit": "Photo: Jeffrey Beall, CC BY 4.0"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A gold horse puzzle was solved late. A 1984 book and video hid clues to a buried gold horse. It was built as America's answer to Masquerade. The horse was about one kilogram of gold. Its hollow belly held a key to a safe deposit box. The deadline was midnight on May 26, 1989, and nobody solved it. The promoters dug it up and gave the prize to charity. Months later, two men solved the puzzle anyway. They dug at Tennessee Pass in Colorado and found a vial. Its note began by congratulating them. The pass sits beside the Continental Divide. Photo: Jeffrey Beall, CC BY 4.0.",
+    "hashtags": [
+      "#goldenhorse",
+      "#treasurehunt",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Treasure:_In_Search_of_the_Golden_Horse",
+    "https://www.deseret.com/1989/11/30/18834629/duo-finds-where-golden-treasure-was-buried-6-months-too-late/",
+    "https://mysteriouswritings.com/treasure-in-search-of-the-golden-horse-by-kurt-konecny/",
+    "https://m.cedmagic.com/featured/treasure/treasure.html",
+    "https://groups.google.com/g/rec.puzzles/c/86Y8Ch7_KHk"
+  ],
+  "images": [
+    {
+      "src": "617-a-gold-horse-puzzle-was-solved-late-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Hayden Survey",
+      "page": "https://commons.wikimedia.org/wiki/File:TennesseePassSketch.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "617-a-gold-horse-puzzle-was-solved-late-1.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Jeffrey Beall",
+      "page": "https://commons.wikimedia.org/wiki/File:Tennessee_Pass_(Colorado)_sign.JPG",
+      "credit": "Photo: Jeffrey Beall, CC BY 4.0"
+    }
+  ]
+}
