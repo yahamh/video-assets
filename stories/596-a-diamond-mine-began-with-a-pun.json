@@ -1,0 +1,174 @@
+{
+  "id": "596-a-diamond-mine-began-with-a-pun",
+  "number": 596,
+  "title": "A diamond mine began with a pun",
+  "style": "deco",
+  "topic": "mir diamond mine siberia pun peace pipe tobacco kimberlite pipe radio code 1955 mirny town open pit 1957 10 million carats 2001 closed 525 meters deep 1200 meters across geologists amakinsky",
+  "music": "music-596.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A diamond mine began with a pun.",
+    "gold": [
+      "diamond",
+      "mine",
+      "pun."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond mine began with a pun.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1955, geologists in Siberia found diamond bearing rock by a river.",
+      "say": "In nineteen fifty five, geologists in Siberia found diamond bearing rock by a river.",
+      "scene": {
+        "kind": "title",
+        "text": "1955",
+        "sub": "Siberia",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Reportedly, they radioed in code that they smoked a peace pipe.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A peace pipe",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Kimberlite deposits are called pipes, so the code hid the news.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A hidden message",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "They added that the tobacco was excellent.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Excellent tobacco"
+      }
+    },
+    {
+      "text": "The pipe was named Mir, which means peace.",
+      "say": "The pipe was named Meer, which means peace.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Mir means peace",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A town called Mirny was built beside the pit for the miners.",
+      "say": "A town called Meer nee was built beside the pit for the miners.",
+      "scene": {
+        "kind": "real",
+        "src": "596-a-diamond-mine-began-with-a-pun-0.jpg",
+        "fit": "card",
+        "label": "The pit, with Mirny behind",
+        "credit": "Photo: Vladimir, CC BY 3.0"
+      }
+    },
+    {
+      "text": "By the 1960s, it yielded about 10 million carats a year.",
+      "say": "By the nineteen sixties, it yielded about ten million carats a year.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Ten million carats",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The open pit closed in 2001, after 44 years of mining.",
+      "say": "The open pit closed in two thousand one, after forty four years of mining.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Closed in 2001",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The pit is 525 meters deep and 1,200 meters across.",
+      "say": "The pit is five hundred twenty five meters deep and twelve hundred meters across.",
+      "scene": {
+        "kind": "real",
+        "src": "596-a-diamond-mine-began-with-a-pun-1.jpg",
+        "fit": "card",
+        "label": "The Mir mine from space",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A diamond mine began with a pun. In 1955, geologists in Siberia found diamond bearing rock by a river. Reportedly, they radioed in code that they smoked a peace pipe. Kimberlite deposits are called pipes, so the code hid the news. They added that the tobacco was excellent. The pipe was named Mir, which means peace. A town called Mirny was built beside the pit for the miners. By the 1960s, it yielded about 10 million carats a year. The open pit closed in 2001, after 44 years of mining. The pit is 525 meters deep and 1,200 meters across. Photo: Vladimir, CC BY 3.0.",
+    "hashtags": [
+      "#diamonds",
+      "#mirmine",
+      "#siberia",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mir_Mine",
+    "https://skyjems.ca/pages/encyclopedia-mir-mine-first-diamond",
+    "https://forpost-sz.ru/en/a/2021-02-18/intrigues-diamond-discoverers-or-who-was-first-find-mir",
+    "https://en.israelidiamond.co.il/diamond-articles/world/amazing-story-mir-diamond-mine/",
+    "https://alrosa.ru/en/sustainability/mir"
+  ],
+  "images": [
+    {
+      "src": "596-a-diamond-mine-began-with-a-pun-0.jpg",
+      "license": "CC BY 3.0",
+      "cls": "by",
+      "artist": "Vladimir",
+      "page": "https://commons.wikimedia.org/wiki/File:The_mine_with_Mirny_in_the_background.jpg",
+      "credit": "Photo: Vladimir, CC BY 3.0"
+    },
+    {
+      "src": "596-a-diamond-mine-began-with-a-pun-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
+      "page": "https://commons.wikimedia.org/wiki/File:Mir_Diamond_Mine,_Siberia_(ASTER).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

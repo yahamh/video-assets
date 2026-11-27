@@ -1,0 +1,165 @@
+{
+  "id": "595-a-jeweler-minted-the-first-gold-dollar",
+  "number": 595,
+  "title": "A jeweler minted the first gold dollar",
+  "style": "jewelbox",
+  "topic": "bechtler gold dollar christopher bechtler german goldsmith rutherfordton north carolina 1830 private mint 1831 gold coins first gold dollar 1849 federal mint smithsonian five dollar 1834 jeweler clocks",
+  "music": "music-595.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A jeweler minted the first gold dollar.",
+    "gold": [
+      "jeweler",
+      "minted",
+      "gold",
+      "dollar."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A jeweler minted the first gold dollar.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "German goldsmith Christopher Bechtler reached North Carolina in 1830.",
+      "say": "German goldsmith Christopher Beckt ler reached North Carolina in eighteen thirty.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "A German goldsmith",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "He opened a shop that made jewelry and clocks.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A jewelry shop",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The nearest federal mint sat in Philadelphia, far from the mines.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Far from the mines",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "So he made his own dies and press, then struck gold coins.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "His own press",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "His first gold coins came out in the summer of 1831.",
+      "say": "His first gold coins came out in the summer of eighteen thirty one.",
+      "scene": {
+        "kind": "title",
+        "text": "1831",
+        "sub": "First coins",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A gold dollar followed, the first ever made in the United States.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "The first gold dollar",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The federal Mint struck its own gold dollar only in 1849.",
+      "say": "The federal Mint struck its own gold dollar only in eighteen forty nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1849",
+        "sub": "The federal Mint",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Each coin carried his name and its weight in gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "His name on it"
+      }
+    },
+    {
+      "text": "A Bechtler five dollar coin dated 1834 is kept in the Smithsonian.",
+      "say": "A Beckt ler five dollar coin dated eighteen thirty four is kept in the Smithsonian.",
+      "scene": {
+        "kind": "real",
+        "src": "595-a-jeweler-minted-the-first-gold-dollar-0.jpg",
+        "fit": "card",
+        "label": "A Bechtler five dollar coin",
+        "credit": "Public domain, via Wikimedia Commons"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A jeweler minted the first gold dollar. German goldsmith Christopher Bechtler reached North Carolina in 1830. He opened a shop that made jewelry and clocks. The nearest federal mint sat in Philadelphia, far from the mines. So he made his own dies and press, then struck gold coins. His first gold coins came out in the summer of 1831. A gold dollar followed, the first ever made in the United States. The federal Mint struck its own gold dollar only in 1849. Each coin carried his name and its weight in gold. A Bechtler five dollar coin dated 1834 is kept in the Smithsonian.",
+    "hashtags": [
+      "#bechtler",
+      "#golddollar",
+      "#northcarolina",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.ncpedia.org/bechtler-mint",
+    "https://si.edu/object/5-dollars-christopher-bechtler-united-states-1834:nmah_1101234",
+    "https://exhibits.lib.unc.edu/exhibits/show/historicmoneys/numismatics/bechtler",
+    "https://nnp.library.wustl.edu/encyclopedia/2288?locale=de",
+    "https://en.wikipedia.org/wiki/Christopher_Bechtler",
+    "https://www.dncr.nc.gov/blog/2016/07/02/bechtlers-advertise-their-coins-1831"
+  ],
+  "images": [
+    {
+      "src": "595-a-jeweler-minted-the-first-gold-dollar-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:5_Dollars,_Christopher_Bechtler,_North_Carolina,_1834_-_National_Museum_of_American_History_-_DSC00213.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

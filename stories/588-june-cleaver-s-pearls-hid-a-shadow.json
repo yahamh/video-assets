@@ -1,0 +1,180 @@
+{
+  "id": "588-june-cleaver-s-pearls-hid-a-shadow",
+  "number": 588,
+  "title": "June Cleaver's pearls hid a shadow",
+  "style": "gouache",
+  "topic": "june cleaver pearls leave it to beaver barbara billingsley hollow neck shadow studio lights scarves collars choker 2000 television academy interview heels flats tony dow jerry mathers oprah 234 episodes 1957 1963",
+  "music": "music-588.wav",
+  "piece": {
+    "piece": "strand",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "June Cleaver's pearls hid a shadow.",
+    "gold": [
+      "pearls",
+      "hid",
+      "a",
+      "shadow."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "June Cleaver's pearls hid a shadow.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "On Leave It to Beaver, June cooked in a dress and pearls.",
+      "scene": {
+        "kind": "real",
+        "src": "588-june-cleaver-s-pearls-hid-a-shadow-0.jpg",
+        "fit": "card",
+        "label": "A scene from the show, 1958",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Actress Barbara Billingsley had a hollow at the base of her neck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A hollow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The set's lights turned that hollow into a dark shadow on camera.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A dark shadow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Lighting could not fix it, so the crew tried scarves and collars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Scarves and collars",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A pearl choker covered the hollow on camera.",
+      "scene": {
+        "kind": "real",
+        "src": "588-june-cleaver-s-pearls-hid-a-shadow-1.jpg",
+        "fit": "card",
+        "label": "Billingsley with her screen sons",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "She explained it in a Television Academy interview in 2000.",
+      "say": "She explained it in a Television Academy interview in two thousand.",
+      "scene": {
+        "kind": "title",
+        "text": "2000",
+        "sub": "The interview",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Heels came later, when her screen sons grew taller than she was.",
+      "scene": {
+        "kind": "real",
+        "src": "588-june-cleaver-s-pearls-hid-a-shadow-2.jpg",
+        "fit": "card",
+        "label": "Tony Dow and Jerry Mathers",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Even Oprah Winfrey asked about the pearls and heels.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Oprah asked",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The show ran 234 episodes over six seasons, from 1957 to 1963.",
+      "say": "The show ran two hundred thirty four episodes over six seasons, from nineteen fifty seven to nineteen sixty three.",
+      "scene": {
+        "kind": "title",
+        "text": "234 episodes",
+        "sub": "Six seasons",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "June Cleaver's pearls hid a shadow. On Leave It to Beaver, June cooked in a dress and pearls. Actress Barbara Billingsley had a hollow at the base of her neck. The set's lights turned that hollow into a dark shadow on camera. Lighting could not fix it, so the crew tried scarves and collars. A pearl choker covered the hollow on camera. She explained it in a Television Academy interview in 2000. Heels came later, when her screen sons grew taller than she was. Even Oprah Winfrey asked about the pearls and heels. The show ran 234 episodes over six seasons, from 1957 to 1963.",
+    "hashtags": [
+      "#leaveittobeaver",
+      "#pearls",
+      "#junecleaver",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.tvinsider.com/1258871/june-cleaver-leave-it-to-beaver-why-pearls/",
+    "https://www.thelist.com/2243604/june-cleaver-leave-it-to-beaver-pearls-served-a-purpose/",
+    "https://en.wikipedia.org/wiki/Barbara_Billingsley",
+    "https://interviews.televisionacademy.com/interviews/barbara-billingsley",
+    "https://www.remindmagazine.com/article/41293/june-cleaver-leave-it-to-beaver-why-pearls/",
+    "https://epguides.com/LeaveIttoBeaver/"
+  ],
+  "images": [
+    {
+      "src": "588-june-cleaver-s-pearls-hid-a-shadow-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Pat McDermott-public relations. It wasn't unusual for either ad or publicity agencies to distribute publicity materials ",
+      "page": "https://commons.wikimedia.org/wiki/File:Scene_from_Leave_it_to_Beaver_1958.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "588-june-cleaver-s-pearls-hid-a-shadow-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "ABC-TV",
+      "page": "https://commons.wikimedia.org/wiki/File:Leave_It_to_Beaver_Dow_Billingsley_Mathers_1959.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "588-june-cleaver-s-pearls-hid-a-shadow-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Pat McDermott public relations for the sponsor, Remington. See the link for another cast photo sent out by the PR agency",
+      "page": "https://commons.wikimedia.org/wiki/File:Leave_it_to_Beaver_1958_Tony_Dow_Jerry_Mathers.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

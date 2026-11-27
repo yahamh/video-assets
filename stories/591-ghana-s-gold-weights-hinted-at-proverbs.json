@@ -1,0 +1,166 @@
+{
+  "id": "591-ghana-s-gold-weights-hinted-at-proverbs",
+  "number": 591,
+  "title": "Ghana's gold weights hinted at proverbs",
+  "style": "gouache",
+  "topic": "akan asante ashanti gold weights ghana proverbs kumasi gold dust brass lost wax crocodiles joined stomach relatives fight over food chameleon scorpion 1400 1900 weighing scales",
+  "music": "music-591.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "ruby",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Ghana's gold weights hinted at proverbs.",
+    "gold": [
+      "gold",
+      "weights",
+      "proverbs."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ghana's gold weights hinted at proverbs.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Around 1800 in Kumasi, people paid in gold dust instead of coins.",
+      "say": "Around eighteen hundred in Koo mah see, people paid in gold dust instead of coins.",
+      "scene": {
+        "kind": "title",
+        "text": "1800",
+        "sub": "Kumasi",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Each side brought scales and weights to agree on a fair weight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Scales and weights",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Smiths cast the weights in brass, using lost wax.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Cast in brass",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Some were shaped like chameleons or scorpions.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Shaped like animals",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Smiths filed a little off or added lead to match the weight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "An exact weight",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "One design shows two crocodiles joined at a single stomach.",
+      "scene": {
+        "kind": "real",
+        "src": "591-ghana-s-gold-weights-hinted-at-proverbs-0.jpg",
+        "fit": "card",
+        "label": "An Akan crocodile weight",
+        "credit": "Photo: Brooklyn Museum, CC BY 3.0"
+      }
+    },
+    {
+      "text": "Its proverb says relatives fight over food that feeds them all.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A proverb",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Most weights are tiny, some only 3 centimeters long.",
+      "say": "Most weights are tiny, some only three centimeters long.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Very small",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Akan smiths used such weights from about 1400 to 1900.",
+      "say": "Akan smiths used such weights from about fourteen hundred to nineteen hundred.",
+      "scene": {
+        "kind": "title",
+        "text": "1400 to 1900",
+        "sub": "Gold dust",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Ghana's gold weights hinted at proverbs. Around 1800 in Kumasi, people paid in gold dust instead of coins. Each side brought scales and weights to agree on a fair weight. Smiths cast the weights in brass, using lost wax. Some were shaped like chameleons or scorpions. Smiths filed a little off or added lead to match the weight. One design shows two crocodiles joined at a single stomach. Its proverb says relatives fight over food that feeds them all. Most weights are tiny, some only 3 centimeters long. Akan smiths used such weights from about 1400 to 1900. Photo: Brooklyn Museum, CC BY 3.0.",
+    "hashtags": [
+      "#akan",
+      "#goldweights",
+      "#ghana",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://daily.jstor.org/gold-weights-and-wind-scales-in-the-asante-empire/",
+    "https://www.metmuseum.org/art/collection/search/317686",
+    "https://www.metmuseum.org/art/collection/search/310913",
+    "https://umma.umich.edu/objects/gold-weight-1997-1-512",
+    "https://www.artic.edu/artworks/193089/goldweight-depicting-a-double-crocodile",
+    "https://en.wikipedia.org/wiki/Akan_goldweights"
+  ],
+  "images": [
+    {
+      "src": "591-ghana-s-gold-weights-hinted-at-proverbs-0.jpg",
+      "license": "CC BY 3.0",
+      "cls": "by",
+      "artist": "Brooklyn Museum",
+      "page": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_67.25.18_Crocodile_Weight.jpg",
+      "credit": "Photo: Brooklyn Museum, CC BY 3.0"
+    }
+  ]
+}

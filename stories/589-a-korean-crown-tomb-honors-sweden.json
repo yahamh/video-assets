@@ -1,0 +1,167 @@
+{
+  "id": "589-a-korean-crown-tomb-honors-sweden",
+  "number": 589,
+  "title": "A Korean crown tomb honors Sweden",
+  "style": "jewelbox",
+  "topic": "seobongchong korean crown tomb gyeongju silla gold crown sweden crown prince gustaf adolf 1926 archaeology dig phoenix birds bong chong 1994 carl xvi gustaf grandson king 1950 world tour",
+  "music": "music-589.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Korean crown tomb honors Sweden.",
+    "gold": [
+      "crown",
+      "tomb",
+      "Sweden."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Korean crown tomb honors Sweden.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1926, Sweden's crown prince visited Korea on a world tour.",
+      "say": "In nineteen twenty six, Sweden's crown prince visited Korea on a world tour.",
+      "scene": {
+        "kind": "title",
+        "text": "1926",
+        "sub": "A world tour",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Gustaf Adolf loved archaeology and joined a dig at a Silla tomb.",
+      "say": "Goo staf Adolf loved archaeology and joined a dig at a Shil la tomb.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A Silla tomb",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The dig brought up a gold crown in Gyeongju.",
+      "say": "The dig brought up a gold crown in Gyuhng joo.",
+      "scene": {
+        "kind": "real",
+        "src": "589-a-korean-crown-tomb-honors-sweden-0.jpg",
+        "fit": "card",
+        "label": "A Silla gold crown",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Three small gold birds perch on its tree shaped uprights.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Three gold birds"
+      }
+    },
+    {
+      "text": "The birds were read as phoenixes, and bong is Korean for phoenix.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Bong means phoenix",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The tomb became Seobongchong, with seo from the Chinese word for Sweden.",
+      "say": "The tomb became Suh bong chong, with suh from the Chinese word for Sweden.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Seo means Sweden"
+      }
+    },
+    {
+      "text": "Chong is the Korean word for a tomb.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Chong means tomb",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The prince later became King Gustaf VI Adolf.",
+      "say": "The prince later became King Goo staf the Sixth Adolf.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A future king",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1994, his grandson, King Carl XVI Gustaf, visited the tomb site.",
+      "say": "In nineteen ninety four, his grandson, King Karl the Sixteenth Goo staf, visited the tomb site.",
+      "scene": {
+        "kind": "title",
+        "text": "1994",
+        "sub": "A royal visit",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Korean crown tomb honors Sweden. In 1926, Sweden's crown prince visited Korea on a world tour. Gustaf Adolf loved archaeology and joined a dig at a Silla tomb. The dig brought up a gold crown in Gyeongju. Three small gold birds perch on its tree shaped uprights. The birds were read as phoenixes, and bong is Korean for phoenix. The tomb became Seobongchong, with seo from the Chinese word for Sweden. Chong is the Korean word for a tomb. The prince later became King Gustaf VI Adolf. In 1994, his grandson, King Carl XVI Gustaf, visited the tomb site.",
+    "hashtags": [
+      "#silla",
+      "#goldcrown",
+      "#korea",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.koreatimes.co.kr/opinion/20261022/silla-gold-crown-a-century-of-korean-swedish-friendship",
+    "https://collections.smvk.se/carlotta-om/web/object/119057",
+    "https://artsandculture.google.com/asset/gold-crown-from-seobongchong-tomb-unknown/mQHcRJcGnQKBMw?hl=en",
+    "https://www.koreajoongangdaily.com/opinion/a-lifelong-friendship-with-sweden/12979297",
+    "https://encykorea.aks.ac.kr/Article/E0027778"
+  ],
+  "images": [
+    {
+      "src": "589-a-korean-crown-tomb-honors-sweden-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Marie-Lan Taÿ Pamart",
+      "page": "https://commons.wikimedia.org/wiki/File:Royal_crown_GNM_Bongwan_9435_n02.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "594-elizabeth-s-gold-rush-ended-in-a-wall",
+  "number": 594,
+  "title": "Elizabeth's gold rush ended in a wall",
+  "style": "gouache",
+  "topic": "elizabeth gold rush ended in a wall martin frobisher baffin island black stone 1576 italian alchemist 1577 fifteen ships 1578 dartford kent furnaces mills ore 500 pieces wall",
+  "music": "music-594.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "citrine",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Elizabeth's gold rush ended in a wall.",
+    "gold": [
+      "gold",
+      "rush",
+      "wall."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Elizabeth's gold rush ended in a wall.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1576, Martin Frobisher brought home a black stone from Baffin Island.",
+      "say": "In fifteen seventy six, Martin Frobisher brought home a black stone from Baffin Island.",
+      "scene": {
+        "kind": "real",
+        "src": "594-elizabeth-s-gold-rush-ended-in-a-wall-0.jpg",
+        "fit": "card",
+        "label": "Martin Frobisher, 1577",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "London assayers first found nothing, then an Italian alchemist got gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "An alchemist"
+      }
+    },
+    {
+      "text": "Backers sent him back, and he returned with over a hundred tons.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A hundred tons",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In 1578, fifteen ships sailed for more, with Queen Elizabeth backing them.",
+      "say": "In fifteen seventy eight, fifteen ships sailed for more, with Queen Elizabeth backing them.",
+      "scene": {
+        "kind": "real",
+        "src": "594-elizabeth-s-gold-rush-ended-in-a-wall-1.jpg",
+        "fit": "card",
+        "label": "An Arctic map by Mercator",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The fleet returned with more than a thousand tons of ore.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "A thousand tons",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Furnaces and mills rose at Dartford in Kent to extract the gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Furnaces at Dartford",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "They never found gold in the bulk of the ore.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "No gold",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Some of the leftover rock was built into a wall at Dartford.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A wall at Dartford",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "More than 500 pieces went into that wall.",
+      "say": "More than five hundred pieces went into that wall.",
+      "scene": {
+        "kind": "title",
+        "text": "500 pieces",
+        "sub": "In the wall",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 9
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Elizabeth's gold rush ended in a wall. In 1576, Martin Frobisher brought home a black stone from Baffin Island. London assayers first found nothing, then an Italian alchemist got gold. Backers sent him back, and he returned with over a hundred tons. In 1578, fifteen ships sailed for more, with Queen Elizabeth backing them. The fleet returned with more than a thousand tons of ore. Furnaces and mills rose at Dartford in Kent to extract the gold. They never found gold in the bulk of the ore. Some of the leftover rock was built into a wall at Dartford. More than 500 pieces went into that wall.",
+    "hashtags": [
+      "#elizabethi",
+      "#goldrush",
+      "#frobisher",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rmg.co.uk/stories/maritime-history/martin-frobisher-north-west-passage-expedition-1576-78",
+    "https://thecanadianencyclopedia.ca/en/article/sir-martin-frobisher",
+    "https://www.earthmagazine.org/article/benchmarks-august-1576-false-gold-found-meta-incognita/",
+    "https://heritage.kent.gov.uk/Monument/MKE20312",
+    "https://geologywriter.com/?p=605",
+    "https://canadianminingjournal.com/featured-article/canadas-first-mining-scandal"
+  ],
+  "images": [
+    {
+      "src": "594-elizabeth-s-gold-rush-ended-in-a-wall-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Cornelis Ketel",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_Frobisher_by_Cornelis_Ketel_(1577).png",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "594-elizabeth-s-gold-rush-ended-in-a-wall-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Mercator, Gerhard, 1512-1594 Mercator, Rumold, approximately 1545-1599",
+      "page": "https://commons.wikimedia.org/wiki/File:Septentrionalium_Terrarum_descriptio._Per_Gerardum_Mercatorem_Cum_Privilegio_(IA_dr_septentrionalium-terrarum-descriptio-per-gerardum-mercatorem-cum-privilegi-10805001).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

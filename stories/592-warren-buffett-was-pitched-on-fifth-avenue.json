@@ -1,0 +1,168 @@
+{
+  "id": "592-warren-buffett-was-pitched-on-fifth-avenue",
+  "number": 592,
+  "title": "Warren Buffett was pitched on Fifth Avenue",
+  "style": "jewelbox",
+  "topic": "warren buffett helzberg diamonds fifth avenue plaza hotel barnett helzberg 1915 kansas city 1994 berkshire hathaway 1995 all stock borsheims omaha 1989 what i learned before i sold to warren buffett",
+  "music": "music-592.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Warren Buffett was pitched on Fifth Avenue.",
+    "gold": [
+      "Warren",
+      "Buffett",
+      "pitched"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Warren Buffett was pitched on Fifth Avenue.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Helzberg Diamonds began in 1915 as one store in Kansas City.",
+      "say": "Helzberg Diamonds began in nineteen fifteen as one store in Kansas City.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "One store",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In May 1994, Buffett was at Fifth Avenue and 58th Street.",
+      "say": "In May nineteen ninety four, Buffett was at Fifth Avenue and fifty eighth Street.",
+      "scene": {
+        "kind": "real",
+        "src": "592-warren-buffett-was-pitched-on-fifth-avenue-0.jpg",
+        "fit": "card",
+        "label": "Near 58th and Fifth, 1930s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A woman called out his name, and a nearby man turned.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A name called out",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He was Barnett Helzberg, who ran his family's jewelry chain.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A jeweler",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He introduced himself and said his company fit Berkshire's investment criteria.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A street pitch",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Buffett told him to send the information.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Send the details",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Berkshire bought the chain in 1995 in an all stock deal.",
+      "say": "Berkshire bought the chain in nineteen ninety five in an all stock deal.",
+      "scene": {
+        "kind": "title",
+        "text": "1995",
+        "sub": "The deal",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Buffett already owned Borsheims, a jeweler in Omaha, bought in 1989.",
+      "say": "Buffett already owned Bor shimes, a jeweler in Omaha, bought in nineteen eighty nine.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Already a jeweler",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Helzberg later wrote What I Learned Before I Sold to Warren Buffett.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "His own book",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Warren Buffett was pitched on Fifth Avenue. Helzberg Diamonds began in 1915 as one store in Kansas City. In May 1994, Buffett was at Fifth Avenue and 58th Street. A woman called out his name, and a nearby man turned. He was Barnett Helzberg, who ran his family's jewelry chain. He introduced himself and said his company fit Berkshire's investment criteria. Buffett told him to send the information. Berkshire bought the chain in 1995 in an all stock deal. Buffett already owned Borsheims, a jeweler in Omaha, bought in 1989. Helzberg later wrote What I Learned Before I Sold to Warren Buffett.",
+    "hashtags": [
+      "#warrenbuffett",
+      "#helzberg",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.berkshirehathaway.com/letters/1995.html",
+    "https://kansascitymag.com/9-over-90-barnett-helzberg-jr/",
+    "https://en.wikipedia.org/wiki/Helzberg_Diamonds",
+    "https://jobs.helzberg.com/about-us/our-history",
+    "https://www.berkshirehathaway.com/letters/1989.html",
+    "https://rationalwalk.com/book-review-what-i-learned-before-i-sold-to-warren-buffett/"
+  ],
+  "images": [
+    {
+      "src": "592-warren-buffett-was-pitched-on-fifth-avenue-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Berenice Abbott",
+      "page": "https://commons.wikimedia.org/wiki/File:Central_Park_Plaza-_Hotel_Sherry-Netherland_(center),_Hotel_Savoy_Plaza_(right),_from_58th_Street_and_Fifth_Avenue,_Manhattan_(NYPL_b13668355-482573).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

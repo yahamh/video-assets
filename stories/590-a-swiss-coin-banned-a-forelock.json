@@ -1,0 +1,162 @@
+{
+  "id": "590-a-swiss-coin-banned-a-forelock",
+  "number": 590,
+  "title": "A Swiss coin banned a forelock",
+  "style": "deco",
+  "topic": "swiss vreneli gold coin forelock 20 francs 1897 fritz landry helvetia 1895 contest 21 entries too young romantic trial coins 1896 federal councillor hauser frivolous 12 coins 22 stars cantons verena",
+  "music": "music-590.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "sapphire",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Swiss coin banned a forelock.",
+    "gold": [
+      "coin",
+      "banned",
+      "a",
+      "forelock."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Swiss coin banned a forelock.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1895, Switzerland held a contest to design a new gold coin.",
+      "say": "In eighteen ninety five, Switzerland held a contest to design a new gold coin.",
+      "scene": {
+        "kind": "title",
+        "text": "1895",
+        "sub": "A contest",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "21 entries were judged, and none won first place.",
+      "say": "Twenty one entries were judged, and none won first place.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "No first place",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Medallist Fritz Landry came second and then revised his design.",
+      "say": "Medallist Fritz Landry came second and then revised his design.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A second place"
+      }
+    },
+    {
+      "text": "Critics said his Helvetia looked too young and romantic.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Too romantic",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Trial coins in 1896 showed a lock of hair on her forehead.",
+      "say": "Trial coins in eighteen ninety six showed a lock of hair on her forehead.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A lock of hair",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Federal Councillor Walter Hauser called the forelock frivolous.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Frivolous",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In January 1897, Landry removed it, so only 12 forelock coins exist.",
+      "say": "In January eighteen ninety seven, Landry removed it, so only twelve forelock coins exist.",
+      "scene": {
+        "kind": "title",
+        "text": "12 coins",
+        "sub": "With the lock",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Swiss people nicknamed the coin Vreneli, a pet form of Verena.",
+      "say": "Swiss people nicknamed the coin Vreh neh lee, a pet form of Verena.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A pet name",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Its edge carries 22 stars, one for each Swiss canton.",
+      "say": "Its edge carries twenty two stars, one for each Swiss canton.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "One star each",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Swiss coin banned a forelock. In 1895, Switzerland held a contest to design a new gold coin. 21 entries were judged, and none won first place. Medallist Fritz Landry came second and then revised his design. Critics said his Helvetia looked too young and romantic. Trial coins in 1896 showed a lock of hair on her forehead. Federal Councillor Walter Hauser called the forelock frivolous. In January 1897, Landry removed it, so only 12 forelock coins exist. Swiss people nicknamed the coin Vreneli, a pet form of Verena. Its edge carries 22 stars, one for each Swiss canton.",
+    "hashtags": [
+      "#vreneli",
+      "#goldcoin",
+      "#switzerland",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.swissmint.ch/en/100-years-vreneli",
+    "https://www.swissinfo.ch/eng/swiss-oddities/the-swiss-and-the-vrenelis-an-enduring-love-affair/89894615",
+    "https://www.lugdunum-numismatik.com/en/swiss-goldvreneli/",
+    "https://en.wikipedia.org/wiki/Vreneli",
+    "https://blog.nationalmuseum.ch/en/2020/12/the-golden-vreneli/"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the Vreneli: Commons has only CC BY-SA photos of the coin and a French Napoleon 20 franc piece"
+}

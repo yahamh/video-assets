@@ -1,0 +1,164 @@
+{
+  "id": "593-zales-sold-diamonds-for-a-penny-down",
+  "number": 593,
+  "title": "Zales sold diamonds for a penny down",
+  "style": "deco",
+  "topic": "zales jewelers morris zalefsky graham texas drugstore wichita falls 1924 penny down dollar a week credit twelve stores 1941 dallas 1946 shopping center 1957 signet 2014 marker 800 ohio avenue",
+  "music": "music-593.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "amethyst",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Zales sold diamonds for a penny down.",
+    "gold": [
+      "Zales",
+      "diamonds",
+      "penny",
+      "down."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Zales sold diamonds for a penny down.",
+      "say": "Zayls sold diamonds for a penny down.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Founder Morris Zalefsky shortened his name to Zale.",
+      "say": "Founder Morris Zuh LEF skee shortened his name to Zayl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A shorter name",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "His first try was two display cases in a Graham, Texas drugstore.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Two display cases",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1924, the first Zales store opened in Wichita Falls, Texas.",
+      "say": "In nineteen twenty four, the first Zayls store opened in Wichita Falls, Texas.",
+      "scene": {
+        "kind": "title",
+        "text": "1924",
+        "sub": "Wichita Falls",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Customers paid a penny down and a dollar a week.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "A penny down",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "By 1941, twelve stores stood in Texas and Oklahoma.",
+      "say": "By nineteen forty one, twelve stores stood in Texas and Oklahoma.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Twelve stores"
+      }
+    },
+    {
+      "text": "In 1946, the company moved its headquarters to Dallas.",
+      "say": "In nineteen forty six, the company moved its headquarters to Dallas.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Off to Dallas",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In 1957, Zales opened its first shopping center store.",
+      "say": "In nineteen fifty seven, Zayls opened its first shopping center store.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "A shopping center"
+      }
+    },
+    {
+      "text": "Signet Jewelers bought Zales in 2014.",
+      "say": "Signet Jewelers bought Zayls in twenty fourteen.",
+      "scene": {
+        "kind": "title",
+        "text": "2014",
+        "sub": "Signet buys",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A Texas marker stands at 800 Ohio Avenue in Wichita Falls.",
+      "say": "A Texas marker stands at eight hundred Ohio Avenue in Wichita Falls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "The Texas marker",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Zales sold diamonds for a penny down. Founder Morris Zalefsky shortened his name to Zale. His first try was two display cases in a Graham, Texas drugstore. In 1924, the first Zales store opened in Wichita Falls, Texas. Customers paid a penny down and a dollar a week. By 1941, twelve stores stood in Texas and Oklahoma. In 1946, the company moved its headquarters to Dallas. In 1957, Zales opened its first shopping center store. Signet Jewelers bought Zales in 2014. A Texas marker stands at 800 Ohio Avenue in Wichita Falls.",
+    "hashtags": [
+      "#zales",
+      "#diamonds",
+      "#texas",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.jckonline.com/magazine-article/the-tale-of-zale-a-75-year-retrospective/",
+    "https://www.hmdb.org/m.asp?m=96803",
+    "https://www.signetjewelers.com/our-company/history/",
+    "https://www.zales.com/about-us",
+    "https://en.wikipedia.org/wiki/Zale_Corporation",
+    "https://www.encyclopedia.com/books/politics-and-business-magazines/zale-corporation-0"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the first Zales store or its founder: Commons has only an unrelated Texas marker and CC BY-SA pictures"
+}
