@@ -1,0 +1,178 @@
+{
+  "id": "601-margarine-is-named-after-pearls",
+  "number": 601,
+  "title": "Margarine is named after pearls",
+  "style": "jewelbox",
+  "topic": "margarine named after pearls margaric acid greek margarites chevreul 1813 fat pearly drops mistake stearic palmitic acid emperor prize cheap butter substitute 1869 patent beef fat milk oleomargarine dutch company 1871",
+  "music": "music-601.wav",
+  "piece": {
+    "piece": "strand",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Margarine is named after pearls.",
+    "gold": [
+      "Margarine",
+      "named",
+      "pearls."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Margarine is named after pearls.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1813, French chemist Michel Chevreul found shiny drops in animal fat.",
+      "say": "In eighteen thirteen, French chemist Michel Shuh vruhl found shiny drops in animal fat.",
+      "scene": {
+        "kind": "real",
+        "src": "601-margarine-is-named-after-pearls-0.jpg",
+        "fit": "card",
+        "label": "Michel Eugène Chevreul",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He named it margaric acid, from the Greek word for pearl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A Greek word",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The same Greek root gave us the name Margaret.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "The name Margaret",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "But margaric acid was a mistake, just a mix of other acids.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A mix of acids",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A French emperor offered a prize for a cheap butter substitute.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A prize"
+      }
+    },
+    {
+      "text": "In 1869, a chemist patented one made from beef fat and milk.",
+      "say": "In eighteen sixty nine, a chemist patented one made from beef fat and milk.",
+      "scene": {
+        "kind": "real",
+        "src": "601-margarine-is-named-after-pearls-1.jpg",
+        "fit": "card",
+        "label": "Hippolyte Mège-Mouriès",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He called it oleomargarine, after Chevreul's pearly acid.",
+      "say": "He called it oh lee oh mar jer in, after Shuh vruhl's pearly acid.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Oleomargarine",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Later, the name was shortened to margarine.",
+      "scene": {
+        "kind": "real",
+        "src": "601-margarine-is-named-after-pearls-2.jpg",
+        "fit": "card",
+        "label": "A margarine ad, 1948",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A Dutch company bought the process in 1871.",
+      "say": "A Dutch company bought the process in eighteen seventy one.",
+      "scene": {
+        "kind": "title",
+        "text": "1871",
+        "sub": "A Dutch buyer",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Margarine is named after pearls. In 1813, French chemist Michel Chevreul found shiny drops in animal fat. He named it margaric acid, from the Greek word for pearl. The same Greek root gave us the name Margaret. But margaric acid was a mistake, just a mix of other acids. A French emperor offered a prize for a cheap butter substitute. In 1869, a chemist patented one made from beef fat and milk. He called it oleomargarine, after Chevreul's pearly acid. Later, the name was shortened to margarine. A Dutch company bought the process in 1871.",
+    "hashtags": [
+      "#margarine",
+      "#pearls",
+      "#etymology",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.webexhibits.org/butter/margarine-history.html",
+    "https://www.mentalfloss.com/food/surprisingly-interesting-history-margarine",
+    "https://en.wikipedia.org/wiki/Margarine",
+    "https://www.etymonline.com/word/margarine",
+    "https://www.todayifoundout.com/index.php/2013/12/napoleon-invention-margarine/",
+    "https://www.etymonline.com/word/margaret"
+  ],
+  "images": [
+    {
+      "src": "601-margarine-is-named-after-pearls-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Henri Toussaint / Aron Gerschel",
+      "page": "https://commons.wikimedia.org/wiki/File:Michel-Eug%C3%A8ne_Chevreul,_1886.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "601-margarine-is-named-after-pearls-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Agence Rol. Agence photographique (commanditaire)",
+      "page": "https://commons.wikimedia.org/wiki/File:Portrait_d'Hippolyte_M%C3%A8ge-Mouri%C3%A8s_par_R._M%C3%A8ge-Mouri%C3%A8s_-_btv1b531442214.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "601-margarine-is-named-after-pearls-2.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "Internet Archive Book Images",
+      "page": "https://commons.wikimedia.org/wiki/File:Delrich_E-Z_Color_Pak_Margarine,_1948.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

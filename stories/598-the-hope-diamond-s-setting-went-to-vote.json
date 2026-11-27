@@ -1,0 +1,180 @@
+{
+  "id": "598-the-hope-diamond-s-setting-went-to-vote",
+  "number": 598,
+  "title": "The Hope Diamond's setting went to vote",
+  "style": "jewelbox",
+  "topic": "hope diamond smithsonian public vote 2009 embracing hope journey of hope renewed hope harry winston baguette diamonds 340 three rows unset no setting 45.52 carats 1958 gift 100000 voters november 2010 january 2012",
+  "music": "music-598.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "sapphire",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "The Hope Diamond's setting went to vote.",
+    "gold": [
+      "Hope",
+      "Diamond's",
+      "vote."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Hope Diamond's setting went to vote.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Harry Winston donated the Hope Diamond in 1958.",
+      "say": "Harry Winston donated the Hope Diamond in nineteen fifty eight.",
+      "scene": {
+        "kind": "real",
+        "src": "598-the-hope-diamond-s-setting-went-to-vote-0.jpg",
+        "fit": "card",
+        "label": "The Hope, in its old setting",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2009, the museum let the public vote on a new setting.",
+      "say": "In two thousand nine, the museum let the public vote on a new setting.",
+      "scene": {
+        "kind": "title",
+        "text": "2009",
+        "sub": "A public vote",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Harry Winston's firm designed three settings to choose from.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Three designs",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "More than 100,000 people voted online.",
+      "say": "More than one hundred thousand people voted online.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Thousands voted",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Embracing Hope won, with 340 baguette diamonds in three rows.",
+      "say": "Embracing Hope won, with three hundred forty bag et diamonds in three rows.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Embracing Hope",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "On September 23, 2009, it was shown with no setting at all.",
+      "say": "On September twenty third, two thousand nine, it was shown with no setting at all.",
+      "scene": {
+        "kind": "title",
+        "text": "No setting",
+        "sub": "A first",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The new setting went on view in November 2010.",
+      "say": "The new setting went on view in November two thousand ten.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "On view again"
+      }
+    },
+    {
+      "text": "In January 2012, it returned to its old setting.",
+      "say": "In January two thousand twelve, it returned to its old setting.",
+      "scene": {
+        "kind": "real",
+        "src": "598-the-hope-diamond-s-setting-went-to-vote-1.jpg",
+        "fit": "card",
+        "label": "Back in its old setting",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The stone weighs 45.52 carats in every setting.",
+      "say": "The stone weighs forty five point five two carats in every setting.",
+      "scene": {
+        "kind": "title",
+        "text": "45.52 carats",
+        "sub": "The weight",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Hope Diamond's setting went to vote. Harry Winston donated the Hope Diamond in 1958. In 2009, the museum let the public vote on a new setting. Harry Winston's firm designed three settings to choose from. More than 100,000 people voted online. Embracing Hope won, with 340 baguette diamonds in three rows. On September 23, 2009, it was shown with no setting at all. The new setting went on view in November 2010. In January 2012, it returned to its old setting. The stone weighs 45.52 carats in every setting.",
+    "hashtags": [
+      "#hopediamond",
+      "#smithsonian",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://newsdesk.si.edu/releases/smithsonian-celebrates-50th-anniversary-hope-diamond",
+    "https://www.smithsonianmag.com/smithsonian-institution/the-polls-are-open-vote-for-your-favorite-hope-diamond-setting-15267752/",
+    "https://torch.si.edu/2009/08/still-dazzling-whatever-the-design",
+    "https://newsdesk.si.edu/releases/hope-diamond-goes-display-first-time-out-its-setting",
+    "https://dashboard.si.edu/exhibitions/hope-diamond-its-new-temporary-setting:event-exhib-4623",
+    "https://en.wikipedia.org/wiki/Hope_Diamond"
+  ],
+  "images": [
+    {
+      "src": "598-the-hope-diamond-s-setting-went-to-vote-0.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "Internet Archive Book Images",
+      "page": "https://commons.wikimedia.org/wiki/File:Annual_report_for_the_year_ended_June_30_..._(1959)_(18242859868).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "598-the-hope-diamond-s-setting-went-to-vote-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Gary Todd from Xinzheng, China",
+      "page": "https://commons.wikimedia.org/wiki/File:Hope_Diamond,_45.52_Carats,_South_Africa_(10436497285).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

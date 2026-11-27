@@ -1,0 +1,167 @@
+{
+  "id": "603-callas-s-stage-jewels-were-crystal",
+  "number": 603,
+  "title": "Callas's stage jewels were crystal",
+  "style": "gouache",
+  "topic": "maria callas stage jewels crystal marangoni milan atelier swarovski imitation pearls crown la gioconda verona 1999 royal opera house 2005 metropolitan opera jewels on stage 2006 norma 1956 tosca 1965",
+  "music": "music-603.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "ruby",
+    "cut": "pear",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Callas's stage jewels were crystal.",
+    "gold": [
+      "Callas's",
+      "jewels",
+      "crystal."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Callas's stage jewels were crystal.",
+      "say": "Kallas's stage jewels were crystal.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A Milan workshop made Maria Callas's stage jewelry.",
+      "say": "A Milan workshop made Maria Kallas's stage jewelry.",
+      "scene": {
+        "kind": "real",
+        "src": "603-callas-s-stage-jewels-were-crystal-0.jpg",
+        "fit": "card",
+        "label": "Maria Callas in Milan, 1955",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its crystals and imitation pearls came from Swarovski.",
+      "say": "Its crystals and imitation pearls came from Swah rof skee.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "From Swarovski",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The first piece was a crown for her La Gioconda debut.",
+      "say": "The first piece was a crown for her La Joh kon dah debut.",
+      "scene": {
+        "kind": "real",
+        "src": "603-callas-s-stage-jewels-were-crystal-1.jpg",
+        "fit": "card",
+        "label": "Maria Callas, 1958",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Swarovski took the workshop into its group in 1999.",
+      "say": "Swah rof skee took the workshop into its group in nineteen ninety nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1999",
+        "sub": "A new owner",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In 2005, the jewels went on show at London's Royal Opera House.",
+      "say": "In two thousand five, the jewels went on show at London's Royal Opera House.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "In London"
+      }
+    },
+    {
+      "text": "Jewels on Stage ran at the Metropolitan Opera in 2006 and 2007.",
+      "say": "Jewels on Stage ran at the Metropolitan Opera in two thousand six and two thousand seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Jewels on Stage",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Callas had made her Met debut in 1956, singing Norma.",
+      "say": "Kallas had made her Met debut in nineteen fifty six, singing Norma.",
+      "scene": {
+        "kind": "title",
+        "text": "1956",
+        "sub": "Her Met debut",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Her last Met performances were as Tosca, in March 1965.",
+      "say": "Her last Met performances were as Tosca, in March nineteen sixty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "As Tosca"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Callas's stage jewels were crystal. A Milan workshop made Maria Callas's stage jewelry. Its crystals and imitation pearls came from Swarovski. The first piece was a crown for her La Gioconda debut. Swarovski took the workshop into its group in 1999. In 2005, the jewels went on show at London's Royal Opera House. Jewels on Stage ran at the Metropolitan Opera in 2006 and 2007. Callas had made her Met debut in 1956, singing Norma. Her last Met performances were as Tosca, in March 1965.",
+    "hashtags": [
+      "#mariacallas",
+      "#opera",
+      "#swarovski",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://bbclatestnews.pages.dev/2/hi/entertainment/4246226.stm",
+    "https://ionarts.blogspot.com/2005/08/callass-jewels.html",
+    "https://www.worldcollectorsnet.com/?p=1350",
+    "https://en.isabart.org/institution/29687",
+    "https://www.nysun.com/article/style-jewels-fit-for-a-diva",
+    "https://metopera.org/discover/archives/notes-from-the-archives/maria-callas-at-the-met"
+  ],
+  "images": [
+    {
+      "src": "603-callas-s-stage-jewels-were-crystal-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Mario Dondero",
+      "page": "https://commons.wikimedia.org/wiki/File:Maria_Callas_Milano_1955.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "603-callas-s-stage-jewels-were-crystal-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "CBS Television",
+      "page": "https://commons.wikimedia.org/wiki/File:Maria_Callas_1958.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

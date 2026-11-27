@@ -1,0 +1,167 @@
+{
+  "id": "599-pepys-buried-gold-six-inches-down",
+  "number": 599,
+  "title": "Pepys buried gold six inches down",
+  "style": "deco",
+  "topic": "samuel pepys diary gold buried garden brampton huntingdonshire 1667 dutch raid medway night bag october dug six inches rotted bags loose coins clerk will hewer sifted soil loss not great local lore",
+  "music": "music-599.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Pepys buried gold six inches down.",
+    "gold": [
+      "Pepys",
+      "buried",
+      "down."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pepys buried gold six inches down.",
+      "say": "Peeps buried gold six inches down.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1667, Dutch ships raided the Medway, so Pepys moved his gold.",
+      "say": "In sixteen sixty seven, Dutch ships raided the Medway, so Peeps moved his gold.",
+      "scene": {
+        "kind": "real",
+        "src": "599-pepys-buried-gold-six-inches-down-0.jpg",
+        "fit": "card",
+        "label": "Samuel Pepys, 1666",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He sent his wife and father away with a bag of gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A night bag"
+      }
+    },
+    {
+      "text": "They buried it in the garden at Brampton.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A garden",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In October, he dug for it by night.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Digging by night"
+      }
+    },
+    {
+      "text": "The bags had rotted, and the coins lay only six inches down.",
+      "scene": {
+        "kind": "title",
+        "text": "Six inches",
+        "sub": "Not deep",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He wrote that being short a hundred pieces made him mad.",
+      "scene": {
+        "kind": "real",
+        "src": "599-pepys-buried-gold-six-inches-down-1.jpg",
+        "fit": "card",
+        "label": "Pepys's diary volumes",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He and his clerk went back by night and sifted the soil.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Sifting the soil",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In the end, he decided his loss was not great.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A small loss",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Local lore says coins may still lie in Brampton.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Still buried",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Pepys buried gold six inches down. In 1667, Dutch ships raided the Medway, and Pepys moved his gold. He sent his wife and father away with a bag of gold. They buried it in the garden at Brampton. In October, he dug for it by night. The bags had rotted, and the coins lay only six inches down. He wrote that being short a hundred pieces made him mad. He and his clerk went back by night and sifted the soil. In the end, he decided his loss was not great. Local lore says coins may still lie in Brampton.",
+    "hashtags": [
+      "#pepys",
+      "#gold",
+      "#history",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.pepysdiary.com/diary/1667/06/13",
+    "https://www.pepysdiary.com/diary/1667/10/10",
+    "https://pepysdiary.com/diary/1667/10/11",
+    "https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-4072-1/dissemination/pdf/LAMAS_Vol27_297-302_PepysAndMoney.pdf",
+    "https://historyxls.blogspot.com/2010/10/digging-for-gold.html",
+    "https://www.royalmint.com/discover/uk-coins/samuel-pepys/picture-of-the-past/"
+  ],
+  "images": [
+    {
+      "src": "599-pepys-buried-gold-six-inches-down-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "John Hayls",
+      "page": "https://commons.wikimedia.org/wiki/File:Samuel_Pepys.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "599-pepys-buried-gold-six-inches-down-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Samuel Pepys/Wheatley",
+      "page": "https://commons.wikimedia.org/wiki/File:Samuel_Pepys_diary_manuscript_volumes.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

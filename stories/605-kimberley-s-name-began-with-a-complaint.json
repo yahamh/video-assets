@@ -1,0 +1,174 @@
+{
+  "id": "605-kimberley-s-name-began-with-a-complaint",
+  "number": 605,
+  "title": "Kimberley's name began with a complaint",
+  "style": "deco",
+  "topic": "kimberley name complaint spelling vooruitzigt new rush colesberg kopje 1871 lord kimberley undignified proclamation 1873 kimberlite blue ground western australia kimberley region argyle 1979 lamproite 865 million carats",
+  "music": "music-605.wav",
+  "piece": {
+    "piece": "rough",
+    "stone": "diamond"
+  },
+  "hook": {
+    "text": "Kimberley's name began with a complaint.",
+    "gold": [
+      "Kimberley's",
+      "name",
+      "complaint."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Kimberley's name began with a complaint.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Diamonds found in 1871 drew diggers to a camp called New Rush.",
+      "say": "Diamonds found in eighteen seventy one drew diggers to a camp called New Rush.",
+      "scene": {
+        "kind": "title",
+        "text": "1871",
+        "sub": "New Rush",
+        "piece": "ring",
+        "stone": "citrine",
+        "metal": "yellow",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Britain's Lord Kimberley found that name undignified.",
+      "scene": {
+        "kind": "real",
+        "src": "605-kimberley-s-name-began-with-a-complaint-0.jpg",
+        "fit": "card",
+        "label": "Lord Kimberley, 1869",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Reportedly, he could neither spell nor pronounce the farm's name, Vooruitzigt.",
+      "say": "Reportedly, he could neither spell nor pronounce the farm's name, Fore oyt zikt.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A hard spelling",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "So in 1873, a proclamation named the camp the town of Kimberley.",
+      "say": "So in eighteen seventy three, a proclamation named the camp the town of Kimberley.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A new name",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The rich blue ground of its mine became known as kimberlite.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Kimberlite",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Western Australia's Kimberley region is named for the same earl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Same earl",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In 1979, diamonds turned up there, in a pipe at Argyle.",
+      "say": "In nineteen seventy nine, diamonds turned up there, in a pipe at Argyle.",
+      "scene": {
+        "kind": "title",
+        "text": "1979",
+        "sub": "Argyle",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Argyle's rock is lamproite, a cousin of kimberlite.",
+      "scene": {
+        "kind": "real",
+        "src": "605-kimberley-s-name-began-with-a-complaint-1.jpg",
+        "fit": "card",
+        "label": "Argyle lamproite",
+        "credit": "Photo: James St. John, CC BY 2.0"
+      }
+    },
+    {
+      "text": "Argyle produced about 865 million carats of rough diamonds.",
+      "say": "Argyle produced about eight hundred sixty five million carats of rough diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "865 million",
+        "sub": "Carats",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Kimberley's name began with a complaint. Diamonds found in 1871 drew diggers to a camp called New Rush. Britain's Lord Kimberley found that name undignified. Reportedly, he could neither spell nor pronounce the farm's name, Vooruitzigt. So in 1873, a proclamation named the camp the town of Kimberley. The rich blue ground of its mine became known as kimberlite. Western Australia's Kimberley region is named for the same earl. In 1979, diamonds turned up there, in a pipe at Argyle. Argyle's rock is lamproite, a cousin of kimberlite. Argyle produced about 865 million carats of rough diamonds. Photo: James St. John, CC BY 2.0.",
+    "hashtags": [
+      "#kimberley",
+      "#diamonds",
+      "#argyle",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://erenow.org/modern/diamondsgoldandwarmartinmeredith/4.php",
+    "https://www.kimberley.org.za/?p=86",
+    "https://en.wikipedia.org/wiki/Kimberlite",
+    "https://www.britannica.com/place/Kimberley-region-Australia",
+    "https://www.gia.edu/doc/Discovery-and-Mining-of-the-Argyle-Diamond-Deposit-Australia.pdf",
+    "https://en.wikipedia.org/wiki/Argyle_diamond_mine"
+  ],
+  "images": [
+    {
+      "src": "605-kimberley-s-name-began-with-a-complaint-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Carlo Pellegrini",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Wodehouse,_Vanity_Fair,_1869-07-17.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "605-kimberley-s-name-began-with-a-complaint-1.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "James St. John",
+      "page": "https://commons.wikimedia.org/wiki/File:Sandy_lamproite_tuff_(Argyle_Lamproite,_Mesoproterozoic,_1.178_Ga%3B_Argyle_Mine,_Western_Australia)_2.jpg",
+      "credit": "Photo: James St. John, CC BY 2.0"
+    }
+  ]
+}

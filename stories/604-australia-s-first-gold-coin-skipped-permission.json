@@ -1,0 +1,172 @@
+{
+  "id": "604-australia-s-first-gold-coin-skipped-permission",
+  "number": 604,
+  "title": "Australia's first gold coin skipped permission",
+  "style": "jewelbox",
+  "topic": "adelaide pound 1852 australia first gold coin assay office bullion act victoria gold rush diggers 22 carat technically illegal london approval mounted as jewelry 24648 struck 1853 south australia",
+  "music": "music-604.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Australia's first gold coin skipped permission.",
+    "gold": [
+      "Australia's",
+      "gold",
+      "permission."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Australia's first gold coin skipped permission.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Victoria's gold rush pulled thousands of men out of Adelaide.",
+      "scene": {
+        "kind": "real",
+        "src": "604-australia-s-first-gold-coin-skipped-permission-0.jpg",
+        "fit": "card",
+        "label": "Forest Creek diggings, 1852",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Diggers returned with gold, but the colony lacked coins to pay them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "No coins",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In January 1852, lawmakers passed the Bullion Act in two hours.",
+      "say": "In January eighteen fifty two, lawmakers passed the Bullion Act in two hours.",
+      "scene": {
+        "kind": "title",
+        "text": "January 1852",
+        "sub": "The Bullion Act",
+        "piece": "ring",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The Government Assay Office opened 13 days later.",
+      "say": "The Government Assay Office opened thirteen days later.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "An assay office"
+      }
+    },
+    {
+      "text": "The coins were 22 carat gold, and said so on the back.",
+      "say": "The coins were twenty two carat gold, and said so on the back.",
+      "scene": {
+        "kind": "real",
+        "src": "604-australia-s-first-gold-coin-skipped-permission-1.jpg",
+        "fit": "card",
+        "label": "The back of the 1852 pound",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "London had not approved coining gold, so it was technically illegal.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Technically illegal",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "London's answer arrived only after the coining was done.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Too late",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Some pounds were later mounted as jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Worn as jewelry",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In all, 24,648 were struck, the last on 13 February 1853.",
+      "say": "In all, twenty four thousand six hundred forty eight were struck, the last on thirteen February eighteen fifty three.",
+      "scene": {
+        "kind": "title",
+        "text": "24,648 coins",
+        "sub": "The last, 1853",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Australia's first gold coin skipped permission. Victoria's gold rush pulled thousands of men out of Adelaide. Diggers returned with gold, but the colony lacked coins to pay them. In January 1852, lawmakers passed the Bullion Act in two hours. The Government Assay Office opened 13 days later. The coins were 22 carat gold, and said so on the back. London had not approved coining gold, so it was technically illegal. London's answer arrived only after the coining was done. Some pounds were later mounted as jewelry. In all, 24,648 were struck, the last on 13 February 1853.",
+    "hashtags": [
+      "#adelaidepound",
+      "#goldcoin",
+      "#australia",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://perthmint.com/news/collector/coin-collecting/emergency-currency-the-first-gold-coin-made-in-australia-from-australian-gold",
+    "https://collections.museumsvictoria.com.au/items/55682",
+    "https://www.sterlingcurrency.com.au/research/history-adelaide-assay-office-1852-adelaide-ingot-and-adelaide-pound",
+    "https://adelaidereview.com.au/features/general/adelaide-pound-time-adelaide-created-currency",
+    "https://www.southaustralianhistory.com.au/adelaidemint.htm",
+    "https://www.pcgs.com/news/adelaide-assay-office-pound"
+  ],
+  "images": [
+    {
+      "src": "604-australia-s-first-gold-coin-skipped-permission-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Samuel Thomas Gill",
+      "page": "https://commons.wikimedia.org/wiki/File:Forest_Creek_(Castlemaine,_Victoria)_1852.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "604-australia-s-first-gold-coin-skipped-permission-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "National Museum of American History",
+      "page": "https://commons.wikimedia.org/wiki/File:Australia_1852_Adelaide_Pound_(rev).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

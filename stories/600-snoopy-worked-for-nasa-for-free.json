@@ -1,0 +1,164 @@
+{
+  "id": "600-snoopy-worked-for-nasa-for-free",
+  "number": 600,
+  "title": "Snoopy worked for NASA for free",
+  "style": "gouache",
+  "topic": "silver snoopy award nasa flight safety mascot charles schulz peanuts sterling silver lapel pin flown on a mission astronaut presents once 1967 al chop 1968 march 1969 doghouse moon apollo 10 lunar module charlie brown",
+  "music": "music-600.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "amethyst",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Snoopy worked for NASA for free.",
+    "gold": [
+      "Snoopy",
+      "NASA",
+      "free."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Snoopy worked for NASA for free.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1967, NASA wanted a mascot for its flight safety program.",
+      "say": "In nineteen sixty seven, NASA wanted a mascot for its flight safety program.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A new mascot"
+      }
+    },
+    {
+      "text": "Charles Schulz let it use Snoopy the Astronaut at no cost.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "At no cost",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Schulz drew the picture that the award pin copies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "His drawing",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The pin is sterling silver and shows Snoopy in a spacesuit.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A silver pin",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "By NASA's rule, each pin flies on a mission first.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Flown first",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "An astronaut presents it, and nobody can win it twice.",
+      "scene": {
+        "kind": "real",
+        "src": "600-snoopy-worked-for-nasa-for-free-0.jpg",
+        "fit": "card",
+        "label": "A Silver Snoopy ceremony",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In March 1969, Schulz's strips landed Snoopy's doghouse on the Moon.",
+      "say": "In March nineteen sixty nine, Schulz's strips landed Snoopy's doghouse on the Moon.",
+      "scene": {
+        "kind": "title",
+        "text": "March 1969",
+        "sub": "The Moon",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In May 1969, Apollo 10's lunar module was named Snoopy.",
+      "say": "In May nineteen sixty nine, Apollo ten's lunar module was named Snoopy.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Apollo ten"
+      }
+    },
+    {
+      "text": "Its command module was named Charlie Brown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Charlie Brown",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Snoopy worked for NASA for free. In 1967, NASA wanted a mascot for its flight safety program. Charles Schulz let it use Snoopy the Astronaut at no cost. Schulz drew the picture that the award pin copies. The pin is sterling silver and shows Snoopy in a spacesuit. By NASA's rule, each pin flies on a mission first. An astronaut presents it, and nobody can win it twice. In March 1969, Schulz's strips landed Snoopy's doghouse on the Moon. In May 1969, Apollo 10's lunar module was named Snoopy. Its command module was named Charlie Brown.",
+    "hashtags": [
+      "#snoopy",
+      "#nasa",
+      "#silver",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.smithsonianmag.com/blogs/air-space-museum/2024/04/20/the-story-of-snoopy-in-space/",
+    "https://www.nasa.gov/history/sfa-message-everyone-plays-role-in-flight-safety-mission-success/",
+    "https://www.nasa.gov/centers-and-facilities/white-sands/nasa-silver-snoopy/",
+    "https://atlasobscura.com/articles/silver-snoopy-nasa-award",
+    "https://www.ucf.edu/pegasus/?p=18482",
+    "https://en.wikipedia.org/wiki/Silver_Snoopy_award"
+  ],
+  "images": [
+    {
+      "src": "600-snoopy-worked-for-nasa-for-free-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "NASA Headquarters / NASA/Aubrey Gemignani",
+      "page": "https://commons.wikimedia.org/wiki/File:Expedition_72_Silver_Snoopy_Awards_(NHQ202509170058).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

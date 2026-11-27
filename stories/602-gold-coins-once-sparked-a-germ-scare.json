@@ -1,0 +1,172 @@
+{
+  "id": "602-gold-coins-once-sparked-a-germ-scare",
+  "number": 602,
+  "title": "Gold coins once sparked a germ scare",
+  "style": "deco",
+  "topic": "indian head gold coins 1908 incuse sunken design germs dirt unhygienic bela lyon pratt william sturgis bigelow boston doctor quarter eagle half eagle native american war bonnet stack evenly wear less only recessed circulating coins christmas gift 1929",
+  "music": "music-602.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "citrine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Gold coins once sparked a germ scare.",
+    "gold": [
+      "Gold",
+      "coins",
+      "germ"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gold coins once sparked a germ scare.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1908, the Mint began striking new gold coins with sunken designs.",
+      "say": "In nineteen oh eight, the Mint began striking new gold coins with sunken designs.",
+      "scene": {
+        "kind": "title",
+        "text": "1908",
+        "sub": "Sunken designs",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A Boston doctor proposed the style, and sculptor Bela Pratt designed them.",
+      "say": "A Boston doctor proposed the style, and sculptor Bay luh Pratt designed them.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A Boston doctor"
+      }
+    },
+    {
+      "text": "The front showed a Native American in a feathered war bonnet.",
+      "scene": {
+        "kind": "real",
+        "src": "602-gold-coins-once-sparked-a-germ-scare-0.jpg",
+        "fit": "card",
+        "label": "A 1908 quarter eagle",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Sunken designs were meant to stack evenly and wear less.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Less wear",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "A Philadelphia coin dealer said the dents would hold dirt and germs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Dirt and germs",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He called them the most unhygienic coins ever issued.",
+      "say": "He called them the most un hy jee nic coins ever issued.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Unhygienic",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The coins circulated anyway, and the smaller one became a Christmas gift.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "A Christmas gift",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "They are the only United States circulating coins with recessed designs.",
+      "scene": {
+        "kind": "real",
+        "src": "602-gold-coins-once-sparked-a-germ-scare-1.jpg",
+        "fit": "card",
+        "label": "The back, a standing eagle",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They were struck from 1908 to 1929.",
+      "say": "They were struck from nineteen oh eight to nineteen twenty nine.",
+      "scene": {
+        "kind": "title",
+        "text": "1908 to 1929",
+        "sub": "The run",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Gold coins once sparked a germ scare. In 1908, the Mint began striking new gold coins with sunken designs. A Boston doctor proposed the style, and sculptor Bela Pratt designed them. The front showed a Native American in a feathered war bonnet. Sunken designs were meant to stack evenly and wear less. A Philadelphia coin dealer said the dents would hold dirt and germs. He called them the most unhygienic coins ever issued. The coins circulated anyway, and the smaller one became a Christmas gift. They are the only United States circulating coins with recessed designs. They were struck from 1908 to 1929.",
+    "hashtags": [
+      "#goldcoins",
+      "#numismatics",
+      "#history",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.usmint.gov/learn/history/historical-documents/bigelow-pratt-designs-for-half-eagle-quarter-eagle",
+    "https://en.wikipedia.org/wiki/Indian_Head_gold_pieces",
+    "https://www.pcgs.com/News/Bela-Lyon-Pratt-Overlooked-Designer-Of-Two-Underrated-Coins",
+    "https://learn.apmex.com/answers/who-was-bela-lyon-pratt/",
+    "https://coinweek.com/us-coins/the-indian-head-gold-coins-that-caused-a-panic-over-germs/"
+  ],
+  "images": [
+    {
+      "src": "602-gold-coins-once-sparked-a-germ-scare-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "US Mint (coin), National Numismatic Collection (photograph by Jaclyn Nash)",
+      "page": "https://commons.wikimedia.org/wiki/File:NNC-US-1908-G%242%C2%BD-Indian_Head_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "602-gold-coins-once-sparked-a-germ-scare-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "US Mint (coin), National Numismatic Collection (photograph by Jaclyn Nash)",
+      "page": "https://commons.wikimedia.org/wiki/File:NNC-US-1908-G%242%C2%BD-Indian_Head_reverse_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

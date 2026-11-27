@@ -1,0 +1,179 @@
+{
+  "id": "606-sweden-s-bridal-crowns-belonged-to-churches",
+  "number": 606,
+  "title": "Sweden's bridal crowns belonged to churches",
+  "style": "gouache",
+  "topic": "swedish bridal crowns brudkrona church parish lent to brides crown of mary queen of heaven 1500s priest's wife dressed the bride fined gilding stones myrtle wreath 1800s mother grew myrtle plant parishes lend crowns again",
+  "music": "music-606.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "emerald",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Sweden's bridal crowns belonged to churches.",
+    "gold": [
+      "Sweden's",
+      "bridal",
+      "crowns"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Sweden's bridal crowns belonged to churches.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In Sweden, church bridal crowns became common in the 1500s.",
+      "say": "In Sweden, church bridal crowns became common in the fifteen hundreds.",
+      "scene": {
+        "kind": "real",
+        "src": "606-sweden-s-bridal-crowns-belonged-to-churches-0.jpg",
+        "fit": "card",
+        "label": "A Swedish bridal crown",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The parish owned them and lent them to brides.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Lent to brides",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Each crown copied the crown of Mary, queen of heaven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "Mary's crown",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "A priest's wife often handled the crown and dressed the bride.",
+      "scene": {
+        "kind": "real",
+        "src": "606-sweden-s-bridal-crowns-belonged-to-churches-1.jpg",
+        "fit": "card",
+        "label": "A bride in a church crown",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Couples who broke the church's rules could be fined.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A fine",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Some paid in extra gilding or stones for the crown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Extra gilding",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In the late 1800s, myrtle wreaths replaced the metal crowns.",
+      "say": "In the late eighteen hundreds, myrtle wreaths replaced the metal crowns.",
+      "scene": {
+        "kind": "title",
+        "text": "1800s",
+        "sub": "Myrtle",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A mother might grow a myrtle plant for her daughter's wreath.",
+      "scene": {
+        "kind": "real",
+        "src": "606-sweden-s-bridal-crowns-belonged-to-churches-2.jpg",
+        "fit": "card",
+        "label": "A myrtle bridal crown",
+        "credit": "Photo: Hansa Andersson, Dalarnas museum, CC BY 4.0"
+      }
+    },
+    {
+      "text": "Today, many Swedish parishes lend bridal crowns again.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Lent again",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Sweden's bridal crowns belonged to churches. In Sweden, church bridal crowns became common in the 1500s. The parish owned them and lent them to brides. Each crown copied the crown of Mary, queen of heaven. A priest's wife often handled the crown and dressed the bride. Couples who broke the church's rules could be fined. Some paid in extra gilding or stones for the crown. In the late 1800s, myrtle wreaths replaced the metal crowns. A mother might grow a myrtle plant for her daughter's wreath. Today, many Swedish parishes lend bridal crowns again. Photo: Hansa Andersson, Dalarnas museum, CC BY 4.0.",
+    "hashtags": [
+      "#bridalcrown",
+      "#sweden",
+      "#weddingtraditions",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bridal_crown",
+    "https://www.svenskakyrkan.se/skarastift/brudkrona",
+    "https://www.svenskakyrkan.se/akerbo/forsamlingens-brudkronor",
+    "https://art.thewalters.org/detail/17336",
+    "https://snl.no/brudekrone",
+    "https://www.svenskakyrkan.se/norrkoping/brudkronor"
+  ],
+  "images": [
+    {
+      "src": "606-sweden-s-bridal-crowns-belonged-to-churches-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "T. Axelson",
+      "page": "https://commons.wikimedia.org/wiki/File:Grangarde_Brudkrona_gamla.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "606-sweden-s-bridal-crowns-belonged-to-churches-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Photo by: Folke Johansson, Lennart Sääf",
+      "page": "https://commons.wikimedia.org/wiki/File:Skepparsl%C3%B6vs_kyrka_Brudkrona.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "606-sweden-s-bridal-crowns-belonged-to-churches-2.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Hansa Andersson, Dalarnas museum",
+      "page": "https://commons.wikimedia.org/wiki/File:Brudkrona_av_myrten_-_DM_24807.jpg",
+      "credit": "Photo: Hansa Andersson, Dalarnas museum, CC BY 4.0"
+    }
+  ]
+}
