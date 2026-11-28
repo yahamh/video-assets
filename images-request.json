@@ -1,8 +1,8 @@
 {
  "queries": [
-  {"key": "i-bronte", "commons": ["Bronte Parsonage Museum Haworth", "Charlotte Bronte George Richmond 1850", "Haworth Parsonage", "Victorian hair jewellery bracelet"], "max": 10},
-  {"key": "i-freud", "commons": ["Sigmund Freud 1921 Max Halberstadt", "Roman intaglio gold ring carnelian", "Nike goddess intaglio gem", "Sigmund Freud portrait"], "max": 10},
-  {"key": "i-stanhope", "commons": ["Stanhope lens microphotograph", "Rene Dagron portrait", "Stanhope optical bijou", "Stanhope ring microphotograph"], "max": 10},
-  {"key": "i-maquech", "commons": ["Maquech", "Zopherus chilensis", "Live insect jewelry", "Makech beetle brooch Yucatan"], "max": 10}
+  {"key": "i-tchaik", "commons": ["Pyotr Ilyich Tchaikovsky 1893 portrait", "Alexander III of Russia tsarevich 1860s", "Tchaikovsky portrait", "antique gold cufflinks enamel"], "max": 10},
+  {"key": "i-davy", "commons": ["Humphry Davy portrait Thomas Phillips", "Michael Faraday portrait 1842", "Bregans lens Museo Galileo Florence", "burning lens Florence Tuscany 1690"], "max": 10},
+  {"key": "i-dorothy", "commons": ["Dorothy Wordsworth portrait", "William Wordsworth portrait Pickersgill", "Dove Cottage Grasmere", "All Saints Church Brompton North Yorkshire"], "max": 10},
+  {"key": "i-shackleton", "commons": ["Endurance trapped in ice Frank Hurley 1915", "Ernest Shackleton portrait", "gold sovereign 1911 George V", "Endurance expedition Frank Hurley"], "max": 10}
  ]
 }
