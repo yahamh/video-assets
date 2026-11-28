@@ -1,0 +1,161 @@
+{
+  "id": "624-the-gold-price-waved-tiny-flags",
+  "number": 624,
+  "title": "The gold price waved tiny flags",
+  "style": "gouache",
+  "topic": "london gold fixing gold price 1919 rothschild new court st swithin's lane five firms union jack flag desk telephone flag up 1939 1954 1968 dollars twice a day 2004 rothschild left 2015 last fix lbma",
+  "music": "music-624.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "aquamarine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The gold price waved tiny flags.",
+    "gold": [
+      "gold",
+      "flags."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The gold price waved tiny flags.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1919, five London firms met to fix the price of gold.",
+      "say": "In nineteen nineteen, five London firms met to fix the price of gold.",
+      "scene": {
+        "kind": "title",
+        "text": "1919",
+        "sub": "The first fix",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "They sat in a small panelled room at Rothschild's bank.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Rothschild's bank",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Each desk had a telephone and a small Union Jack flag.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A desk flag",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Raising your flag meant not ready, and dealing stopped.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Flag up",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The chairman tried prices until buyers and sellers balanced.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "One price"
+      }
+    },
+    {
+      "text": "The fixing paused in 1939 and came back in 1954.",
+      "say": "The fixing paused in nineteen thirty nine and came back in nineteen fifty four.",
+      "scene": {
+        "kind": "title",
+        "text": "1954",
+        "sub": "Back again",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "From 1968, the fix ran twice a day, in dollars.",
+      "say": "From nineteen sixty eight, the fix ran twice a day, in dollars.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Twice a day",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 2004, Rothschild left, and the flags went out of use.",
+      "say": "In two thousand four, Rothschild left, and the flags went out of use.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "No more flags",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The last London gold fix came in March 2015.",
+      "say": "The last London gold fix came in March twenty fifteen.",
+      "scene": {
+        "kind": "title",
+        "text": "2015",
+        "sub": "The last fix",
+        "piece": "ring",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The gold price waved tiny flags. In 1919, five London firms met to fix the price of gold. They sat in a small panelled room at Rothschild's bank. Each desk had a telephone and a small Union Jack flag. Raising your flag meant not ready, and dealing stopped. The chairman tried prices until buyers and sellers balanced. The fixing paused in 1939 and came back in 1954. From 1968, the fix ran twice a day, in dollars. In 2004, Rothschild left, and the flags went out of use. The last London gold fix came in March 2015.",
+    "hashtags": [
+      "#gold",
+      "#goldprice",
+      "#rothschild",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.rothschildarchive.org/collections/archivists_choice/september_2019_flag_from_the_gold_fixing_room_new_court_2004",
+    "https://rothschildarchive.org/business/business_premises/the_new_court_vitrine_mementoes_of_the_daily_gold_price_fixing_c2003",
+    "https://www.lbma.org.uk/wonders-of-gold/items/the-first-gold-fixing",
+    "https://www.lbma.org.uk/alchemist/issue-65/the-early-development-of-the-london-gold-fixing",
+    "https://www.lbma.org.uk/gold-price-centenary",
+    "https://en.wikipedia.org/wiki/Gold_fixing",
+    "https://www.newstatesman.com/business/economics/2015/04/farewell-shady-business-london-gold-price-fix"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of New Court, the fixing room or the desk flags exists (the Rothschild Archive's photos are not free, and the one free gold bar picture is CC BY-SA), so the story uses drawn pieces only"
+}

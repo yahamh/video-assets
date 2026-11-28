@@ -1,0 +1,172 @@
+{
+  "id": "622-the-golden-fleece-may-be-a-sheepskin",
+  "number": 622,
+  "title": "The Golden Fleece may be a sheepskin",
+  "style": "jewelbox",
+  "topic": "golden fleece jason colchis strabo appian caucasus torrents carry gold perforated troughs fleecy skins svaneti georgia sheepskins gold dust perhaps the golden fleece of aetes okrostsvaridze 2014 tbilisi",
+  "music": "music-622.wav",
+  "piece": {
+    "piece": "band",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Golden Fleece may be a sheepskin.",
+    "gold": [
+      "Golden",
+      "Fleece",
+      "sheepskin."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Golden Fleece may be a sheepskin.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In legend, Jason sailed to Colchis to fetch a golden fleece.",
+      "scene": {
+        "kind": "real",
+        "src": "622-the-golden-fleece-may-be-a-sheepskin-0.jpg",
+        "fit": "card",
+        "label": "The Golden Fleece, by Draper",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "About 2,000 years ago, Strabo wrote that Caucasus torrents carry gold.",
+      "say": "About two thousand years ago, Strabo wrote that Caucasus torrents carry gold.",
+      "scene": {
+        "kind": "title",
+        "text": "2,000 years",
+        "sub": "Strabo",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He said locals gather it with perforated troughs and fleecy skins.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Fleecy skins",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Strabo added that this may be where the golden fleece myth began.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "A guess",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Appian, in the second century, described gold dust too fine to see.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Dust too fine"
+      }
+    },
+    {
+      "text": "Locals put shaggy sheepskins in the stream and collected the specks.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Sheepskins in a stream",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Appian wrote, Perhaps the golden fleece of Aetes was of this kind.",
+      "say": "Appian wrote, Perhaps the golden fleece of Ee tees was of this kind.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Perhaps",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "People in Svaneti, Georgia, were long described panning rivers with sheepskins.",
+      "scene": {
+        "kind": "real",
+        "src": "622-the-golden-fleece-may-be-a-sheepskin-1.jpg",
+        "fit": "card",
+        "label": "The Enguri river near Mestia",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2014, geologists in Tbilisi argued the legend may rest on it.",
+      "say": "In twenty fourteen, geologists in Tbilisi argued the legend may rest on it.",
+      "scene": {
+        "kind": "title",
+        "text": "2014",
+        "sub": "Tbilisi",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Golden Fleece may be a sheepskin. In legend, Jason sailed to Colchis to fetch a golden fleece. About 2,000 years ago, Strabo wrote that Caucasus torrents carry gold. He said locals gather it with perforated troughs and fleecy skins. Strabo added that this may be where the golden fleece myth began. Appian, in the second century, described gold dust too fine to see. Locals put shaggy sheepskins in the stream and collected the specks. Appian wrote, Perhaps the golden fleece of Aetes was of this kind. People in Svaneti, Georgia, were long described panning rivers with sheepskins. In 2014, geologists in Tbilisi argued the legend may rest on it.",
+    "hashtags": [
+      "#goldenfleece",
+      "#jason",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/11B*.html",
+    "https://www.livius.org/sources/content/appian/appian-the-mithridatic-wars/appian-the-mithridatic-wars-21/",
+    "https://en.wikipedia.org/wiki/Golden_Fleece",
+    "https://www.sciencenews.org/article/golden-fleece-myth-was-based-real-events-geologists-contend",
+    "https://www.jasoncolavito.com/blog/media-fleeced-by-claim-argonauts-mined-gold-in-georgia",
+    "https://www.nationalgeographic.com/magazine/article/svanetia-georgia-caucasus-mountains",
+    "https://www.britannica.com/topic/Golden-Fleece"
+  ],
+  "images": [
+    {
+      "src": "622-the-golden-fleece-may-be-a-sheepskin-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Herbert James Draper",
+      "page": "https://commons.wikimedia.org/wiki/File:Herbert_James_Draper,_The_Golden_Fleece.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "622-the-golden-fleece-may-be-a-sheepskin-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Michael Zeno Diemer",
+      "page": "https://commons.wikimedia.org/wiki/File:Confluence_of_Enguri_and_Laila_near_Mestia_(Diemer).JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

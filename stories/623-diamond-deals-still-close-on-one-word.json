@@ -1,0 +1,169 @@
+{
+  "id": "623-diamond-deals-still-close-on-one-word",
+  "number": 623,
+  "title": "Diamond deals still close on one word",
+  "style": "deco",
+  "topic": "diamond dealers handshake mazal mazal u'bracha luck blessing nothing on paper reputation antwerp new york folded paper packet billions diamond dealers club 1931 arbitration twelve first meeting",
+  "music": "music-623.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Diamond deals still close on one word.",
+    "gold": [
+      "Diamond",
+      "deals",
+      "one",
+      "word."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Diamond deals still close on one word.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Dealers seal a sale with a handshake and the word mazal.",
+      "say": "Dealers seal a sale with a handshake and the word mazal.",
+      "scene": {
+        "kind": "title",
+        "text": "Mazal",
+        "sub": "Luck",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The full phrase is mazal u'bracha, which means luck and blessing.",
+      "say": "The full phrase is mazal oo brakha, which means luck and blessing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Luck and blessing"
+      }
+    },
+    {
+      "text": "Once those words are said, nothing goes on paper.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Nothing on paper",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The same custom is used in Antwerp and in New York.",
+      "scene": {
+        "kind": "real",
+        "src": "623-diamond-deals-still-close-on-one-word-0.jpg",
+        "fit": "card",
+        "label": "Antwerp's diamond district",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "What backs the deal is reputation, because word spreads fast.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Reputation",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A diamond often travels in a small folded paper packet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A folded packet",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Billions of dollars in diamonds change hands on those words.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Billions",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "New York's Diamond Dealers Club settles disputes by its own arbitration.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Its own arbitration",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "That club began in 1931 with twelve people at its first meeting.",
+      "say": "That club began in nineteen thirty one with twelve people at its first meeting.",
+      "scene": {
+        "kind": "title",
+        "text": "1931",
+        "sub": "Twelve people",
+        "piece": "ring",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Diamond deals still close on one word. Dealers seal a sale with a handshake and the word mazal. The full phrase is mazal u'bracha, which means luck and blessing. Once those words are said, nothing goes on paper. The same custom is used in Antwerp and in New York. What backs the deal is reputation, because word spreads fast. A diamond often travels in a small folded paper packet. Billions of dollars in diamonds change hands on those words. New York's Diamond Dealers Club settles disputes by its own arbitration. That club began in 1931 with twelve people at its first meeting.",
+    "hashtags": [
+      "#diamonds",
+      "#mazal",
+      "#diamonddealers",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.europastarjewellery.com/jewellery-highlights/mazal-u-bracha-two-words-that-are-worth-a-contract.html",
+    "https://content.time.com/time/subscriber/article/0,33009,916718-2,00.html",
+    "https://www.timesofisrael.com/ice-capades/",
+    "https://www.aljazeera.com/features/2023/12/2/diamonds-are-in-my-blood-the-jain-jewellery-traders-of-antwerp",
+    "https://en.israelidiamond.co.il/wikidiamond/terms-attributes-the-diamond/mazal-and-bracha/",
+    "https://www.nyddc.com/about-ddc",
+    "https://www.jckonline.com/magazine-article/ddc-celebrates-diamond-jubilee-an-oral-history/"
+  ],
+  "images": [
+    {
+      "src": "623-diamond-deals-still-close-on-one-word-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Thorsten1997",
+      "page": "https://commons.wikimedia.org/wiki/File:Antwerpen_Hoveniersstraat.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

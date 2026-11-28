@@ -1,0 +1,168 @@
+{
+  "id": "621-beethoven-s-royal-ring-wasn-t-diamond",
+  "number": 621,
+  "title": "Beethoven's royal ring wasn't diamond",
+  "style": "gouache",
+  "topic": "beethoven ninth symphony premiere vienna 7 may 1824 kaerntnertor theatre deaf applause singer turned him dedicated 1826 king friedrich wilhelm iii prussia diamond ring promised reddish gem sold right away 300 florins",
+  "music": "music-621.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "ruby",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Beethoven's royal ring wasn't diamond.",
+    "gold": [
+      "royal",
+      "ring",
+      "diamond."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Beethoven's royal ring wasn't diamond.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Beethoven's Ninth Symphony premiered in Vienna on May 7, 1824.",
+      "say": "Beethoven's Ninth Symphony premiered in Vienna on May seventh, eighteen twenty four.",
+      "scene": {
+        "kind": "real",
+        "src": "621-beethoven-s-royal-ring-wasn-t-diamond-0.jpg",
+        "fit": "card",
+        "label": "Beethoven, painted in 1820",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He was nearly deaf, but he still supervised the premiere.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Nearly deaf",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He did not notice the applause until a singer turned him around.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Turned around",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 1826, he dedicated the printed score to Prussia's king.",
+      "say": "In eighteen twenty six, he dedicated the printed score to Prussia's king.",
+      "scene": {
+        "kind": "title",
+        "text": "1826",
+        "sub": "A dedication",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The king wrote to thank him for the symphony.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A thank you",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He added that he would send a diamond ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A promised ring",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "What arrived was a far cheaper ring with a reddish gem.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A reddish gem"
+      }
+    },
+    {
+      "text": "Beethoven was disappointed, and he sold the ring right away.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Sold at once",
+        "stones": 9
+      }
+    },
+    {
+      "text": "The ring brought him 300 florins in Vienna currency.",
+      "say": "The ring brought him three hundred florins in Vienna currency.",
+      "scene": {
+        "kind": "title",
+        "text": "300",
+        "sub": "Florins",
+        "piece": "earrings",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Beethoven's royal ring wasn't diamond. Beethoven's Ninth Symphony premiered in Vienna on May 7, 1824. He was nearly deaf, but he still supervised the premiere. He did not notice the applause until a singer turned him around. In 1826, he dedicated the printed score to Prussia's king. The king wrote to thank him for the symphony. He added that he would send a diamond ring. What arrived was a far cheaper ring with a reddish gem. Beethoven was disappointed, and he sold the ring right away. The ring brought him 300 florins in Vienna currency.",
+    "hashtags": [
+      "#beethoven",
+      "#ninthsymphony",
+      "#diamondring",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.beethoven.de/en/media/view/4707148118360064",
+    "https://internet.beethoven.de/pdf-sonderausstellung/Freundschaftsgabe-oder-Kalkuel-Brief-Guide.pdf",
+    "https://sites.cs.ucsb.edu/~omer/DOWNLOADABLE/Beethoven_Ring_AKOB.pdf",
+    "https://interlude.hk/?p=88816",
+    "https://www.henle.de/blog/en/2020/10/12/beethovens-change-of-dedication-a-small-search-for-motives/",
+    "https://www.britannica.com/biography/Ludwig-van-Beethoven/The-last-years",
+    "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"
+  ],
+  "images": [
+    {
+      "src": "621-beethoven-s-royal-ring-wasn-t-diamond-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Joseph Karl Stieler",
+      "page": "https://commons.wikimedia.org/wiki/File:Beethoven_1820.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

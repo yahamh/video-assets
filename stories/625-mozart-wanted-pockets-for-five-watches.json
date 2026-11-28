@@ -1,0 +1,172 @@
+{
+  "id": "625-mozart-wanted-pockets-for-five-watches",
+  "number": 625,
+  "title": "Mozart wanted pockets for five watches",
+  "style": "jewelbox",
+  "topic": "mozart five gold watches letter 13 november 1777 mannheim court golden watch cash for the journey watch pocket trousers two watches great lord stop being given watches 1778 kaisheim pawned five louis d'or paris watch twenty louis d'or",
+  "music": "music-625.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "morganite",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Mozart wanted pockets for five watches.",
+    "gold": [
+      "pockets",
+      "five",
+      "watches."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Mozart wanted pockets for five watches.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1777, Mannheim's court gave Mozart a golden watch.",
+      "say": "In seventeen seventy seven, Mannheim's court gave Mozart a golden watch.",
+      "scene": {
+        "kind": "real",
+        "src": "625-mozart-wanted-pockets-for-five-watches-0.jpg",
+        "fit": "card",
+        "label": "Mozart, about 1780",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He wrote that he would rather have cash for the road.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Cash for the road"
+      }
+    },
+    {
+      "text": "Then he added that he now had five watches.",
+      "scene": {
+        "kind": "real",
+        "src": "625-mozart-wanted-pockets-for-five-watches-1.jpg",
+        "fit": "card",
+        "label": "Mozart, painted in 1782",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His plan was a little watch pocket in each pair of trousers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A pocket for each",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "He would wear two watches to see a great lord.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Two watches",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The real reason was to stop people giving him more watches.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "No more watches",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In 1778, he wrote that one watch had gone to practice.",
+      "say": "In seventeen seventy eight, he wrote that one watch had gone to practice.",
+      "scene": {
+        "kind": "title",
+        "text": "1778",
+        "sub": "One watch gone",
+        "piece": "earrings",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Editors read that as pawned, for five louis d'or at most.",
+      "say": "Editors read that as pawned, for five louie dor at most.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "Pawned",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "He swapped two watches for a Paris watch worth twenty louis d'or.",
+      "say": "He swapped two watches for a Paris watch worth twenty louie dor.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Two for one",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Mozart wanted pockets for five watches. In 1777, Mannheim's court gave Mozart a golden watch. He wrote that he would rather have cash for the road. Then he added that he now had five watches. His plan was a little watch pocket in each pair of trousers. He would wear two watches to see a great lord. The real reason was to stop people giving him more watches. In 1778, he wrote that one watch had gone to practice. Editors read that as pawned, for five louis d'or at most. He swapped two watches for a Paris watch worth twenty louis d'or.",
+    "hashtags": [
+      "#mozart",
+      "#gold",
+      "#goldwatch",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://dme.mozarteum.at/DME/objs/raradocs/transcr/pdf_eng/0370_WAM_LM_1777.pdf",
+    "https://dme.mozarteum.at/DME/objs/raradocs/transcr/pdf/BD_370.pdf",
+    "https://ahs.contentfiles.net/media/documents/Mozarts_watches_-_P_de_Clercq__wm6.pdf",
+    "https://dme.mozarteum.at/DME/objs/raradocs/transcr/pdf_eng/0510_WAM_LM_1778.pdf",
+    "https://dme.mozarteum.at/DME/briefe/letter.php?mid=934"
+  ],
+  "images": [
+    {
+      "src": "625-mozart-wanted-pockets-for-five-watches-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Possibly Johann Nepomuk della Croce",
+      "page": "https://commons.wikimedia.org/wiki/File:Mozart_Family_Croce_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "625-mozart-wanted-pockets-for-five-watches-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Joseph Lange",
+      "page": "https://commons.wikimedia.org/wiki/File:Mozart_(unfinished)_by_Lange_1782.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

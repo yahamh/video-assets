@@ -1,0 +1,179 @@
+{
+  "id": "620-ponte-vecchio-once-sold-meat",
+  "number": 620,
+  "title": "Ponte Vecchio once sold meat",
+  "style": "deco",
+  "topic": "ponte vecchio florence old bridge 1345 butchers tanners vasari corridor 1565 cosimo medici five months wedding francesco smell ferdinando goldsmiths jewelers 1590s one kilometer",
+  "music": "music-620.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "sapphire",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Ponte Vecchio once sold meat.",
+    "gold": [
+      "sold",
+      "meat."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ponte Vecchio once sold meat.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Ponte Vecchio means Old Bridge, and Florence rebuilt it in 1345.",
+      "say": "Ponte Vecchio means Old Bridge, and Florence rebuilt it in thirteen forty five.",
+      "scene": {
+        "kind": "real",
+        "src": "620-ponte-vecchio-once-sold-meat-0.jpg",
+        "fit": "card",
+        "label": "The Ponte Vecchio",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its shops first held butchers and tanners.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Butchers and tanners"
+      }
+    },
+    {
+      "text": "In 1565, Duke Cosimo had Vasari build a private corridor above them.",
+      "say": "In fifteen sixty five, Duke Cosimo had Vasari build a private corridor above them.",
+      "scene": {
+        "kind": "title",
+        "text": "1565",
+        "sub": "A private corridor",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Vasari built it in five months, for the duke's son's wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Five months",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "That corridor is about one kilometer long and passes over the shops.",
+      "scene": {
+        "kind": "real",
+        "src": "620-ponte-vecchio-once-sold-meat-1.jpg",
+        "fit": "card",
+        "label": "Inside the Vasari Corridor",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The smell from the butchers' stalls drifted up into the passage.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "The smell",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "So Grand Duke Ferdinando moved jewelers into the butchers' place.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Jewelers move in",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Goldsmiths and jewelers still sell from those same shops today.",
+      "scene": {
+        "kind": "real",
+        "src": "620-ponte-vecchio-once-sold-meat-2.jpg",
+        "fit": "card",
+        "label": "Jewelers' shops, about 1870",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Their shops have stood there since the 1590s.",
+      "say": "Their shops have stood there since the fifteen nineties.",
+      "scene": {
+        "kind": "title",
+        "text": "1590s",
+        "sub": "Still there",
+        "piece": "earrings",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Ponte Vecchio once sold meat. Ponte Vecchio means Old Bridge, and Florence rebuilt it in 1345. Its shops first held butchers and tanners. In 1565, Duke Cosimo had Vasari build a private corridor above them. Vasari built it in five months, for the duke's son's wedding. That corridor is about one kilometer long and passes over the shops. The smell from the butchers' stalls drifted up into the passage. So Grand Duke Ferdinando moved jewelers into the butchers' place. Goldsmiths and jewelers still sell from those same shops today. Their shops have stood there since the 1590s.",
+    "hashtags": [
+      "#pontevecchio",
+      "#florence",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.italia.it/en/tuscany/florence/things-to-do/florentine-jewerly-in-ponte-vecchio",
+    "https://www.visittuscany.com/en/ideas/5-things-you-didnt-know-about-ponte-vecchio/",
+    "https://en.wikipedia.org/wiki/Ponte_Vecchio",
+    "https://en.wikipedia.org/wiki/Vasari_Corridor",
+    "https://en.italiani.it/firenze-ponte-vecchio-il-ponte-degli-orafi/",
+    "https://www.througheternity.com/florence/7-fascinating-facts-ponte-vecchio-florence"
+  ],
+  "images": [
+    {
+      "src": "620-ponte-vecchio-once-sold-meat-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jebulon",
+      "page": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_Arno_Florence.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "620-ponte-vecchio-once-sold-meat-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Szilas",
+      "page": "https://commons.wikimedia.org/wiki/File:Vasari_Corridor_2016-05-06.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "620-ponte-vecchio-once-sold-meat-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Rijksmuseum",
+      "page": "https://commons.wikimedia.org/wiki/File:Fotoreproductie_van_een_tekening,_voorstellende_juweliers_op_de_Ponte_Vecchio_te_Florence_Jewellers'_shops_on_the_Ponte_Vecchio,_Florence_(titel_op_object),_RP-F-2001-7-205-10.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

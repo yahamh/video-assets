@@ -1,0 +1,196 @@
+{
+  "id": "626-a-diamond-once-meant-a-magnet",
+  "number": 626,
+  "title": "A diamond once meant a magnet",
+  "style": "deco",
+  "topic": "adamant adamas diamond magnet lodestone pliny natural history at odds with the magnet mattioli 1554 shakespeare midsummer night's dream helena hard-hearted adamant bacon 1620 browne 1646 pseudodoxia epidemica aimant french magnet loving",
+  "music": "music-626.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "amethyst",
+    "cut": "round",
+    "metal": "platinum",
+    "petals": 8
+  },
+  "hook": {
+    "text": "A diamond once meant a magnet.",
+    "gold": [
+      "diamond",
+      "magnet."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A diamond once meant a magnet.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "The word diamond comes from the Greek adamas, meaning unconquerable.",
+      "say": "The word diamond comes from the Greek adamas, meaning unconquerable.",
+      "scene": {
+        "kind": "title",
+        "text": "Adamas",
+        "sub": "Unconquerable",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "In the Middle Ages, adamant meant both diamond and lodestone.",
+      "scene": {
+        "kind": "real",
+        "src": "626-a-diamond-once-meant-a-magnet-0.jpg",
+        "fit": "card",
+        "label": "A lodestone",
+        "credit": "Photo: James St. John, CC BY 2.0"
+      }
+    },
+    {
+      "text": "Pliny wrote that a diamond is at odds with a magnet.",
+      "scene": {
+        "kind": "real",
+        "src": "626-a-diamond-once-meant-a-magnet-1.jpg",
+        "fit": "card",
+        "label": "Pliny's Natural History",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "So people believed a diamond stopped a lodestone pulling iron.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A stopped lodestone",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Writers like Mattioli were still repeating it in 1554.",
+      "say": "Writers like Mattioli were still repeating it in fifteen fifty four.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Still repeated"
+      }
+    },
+    {
+      "text": "Shakespeare uses adamant for a magnet in A Midsummer Night's Dream.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Adamant, a magnet",
+        "stones": 9
+      }
+    },
+    {
+      "text": "By 1620, Francis Bacon listed it among beliefs to reject.",
+      "say": "By sixteen twenty, Francis Bacon listed it among beliefs to reject.",
+      "scene": {
+        "kind": "title",
+        "text": "1620",
+        "sub": "Bacon says no",
+        "piece": "brooch",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1646, Browne said a lodestone magnetizes a needle through a diamond.",
+      "say": "In sixteen forty six, Browne said a lodestone magnetizes a needle through a diamond.",
+      "scene": {
+        "kind": "real",
+        "src": "626-a-diamond-once-meant-a-magnet-2.jpg",
+        "fit": "card",
+        "label": "Browne's book, 1646",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The French word aimant comes from the same root.",
+      "say": "The French word eh mahn comes from the same root.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Aimant"
+      }
+    },
+    {
+      "text": "Aimant still means magnet, and also loving.",
+      "say": "Eh mahn still means magnet, and also loving.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Magnet, and loving",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A diamond once meant a magnet. The word diamond comes from the Greek adamas, meaning unconquerable. In the Middle Ages, adamant meant both diamond and lodestone. Pliny wrote that a diamond is at odds with a magnet. So people believed a diamond stopped a lodestone pulling iron. Writers like Mattioli were still repeating it in 1554. Shakespeare uses adamant for a magnet in A Midsummer Night's Dream. By 1620, Francis Bacon listed it among beliefs to reject. In 1646, Browne said a lodestone magnetizes a needle through a diamond. The French word aimant comes from the same root. Aimant still means magnet, and also loving. Photo: James St. John, CC BY 2.0.",
+    "hashtags": [
+      "#diamonds",
+      "#diamond",
+      "#magnet",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adamant",
+    "https://www.etymonline.com/word/adamant",
+    "https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED445",
+    "https://www.merriam-webster.com/dictionary/adamant",
+    "https://pure.mpg.de/pubman/item/item_3493433_2/component/file_3493434/Sander%20-%202020%20-%20Magnets%20and%20garlic.pdf",
+    "https://penelope.uchicago.edu/pseudodoxia/pseudo23.html",
+    "https://www.intratext.com/IXT/ENG1061/_P9.HTM",
+    "https://myshakespeare.com/node/4068",
+    "https://www.cnrtl.fr/etymologie/aimant"
+  ],
+  "images": [
+    {
+      "src": "626-a-diamond-once-meant-a-magnet-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "James St. John",
+      "page": "https://commons.wikimedia.org/wiki/File:Lodestone_(Adirondack_Mountains,_New_York_State,_USA)_2.jpg",
+      "credit": "Photo: James St. John, CC BY 2.0"
+    },
+    {
+      "src": "626-a-diamond-once-meant-a-magnet-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Pliny the Elder",
+      "page": "https://commons.wikimedia.org/wiki/File:Pliny_the_Elder,_Natural_History,_Florence,_Plut._82.4.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "626-a-diamond-once-meant-a-magnet-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Thomas Browne",
+      "page": "https://commons.wikimedia.org/wiki/File:Browne-2.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

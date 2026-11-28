@@ -1,0 +1,168 @@
+{
+  "id": "619-chocolate-diamonds-were-once-just-brown",
+  "number": 619,
+  "title": "Chocolate diamonds were once just brown",
+  "style": "jewelbox",
+  "topic": "chocolate diamonds brown diamonds le vian eddie levian 2000 trademark argyle mine australia 80 percent brown industrial drill rock cut glass champagne cognac 1980s advertisers c1 c7 graded argyle closed 3 november 2020",
+  "music": "music-619.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "topaz",
+    "cut": "oval",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Chocolate diamonds were once just brown.",
+    "gold": [
+      "Chocolate",
+      "diamonds",
+      "brown."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Chocolate diamonds were once just brown.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Brown diamonds were long treated as low value stones.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Low value",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Many went to industry, where they drilled rock and cut glass.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Drilled rock"
+      }
+    },
+    {
+      "text": "In Australia, almost 80 percent of Argyle's diamonds were brown.",
+      "say": "In Australia, almost eighty percent of Argyle's diamonds were brown.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Argyle's browns",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Argyle graded its browns from lightest to darkest, C1 to C7.",
+      "say": "Argyle graded its browns from lightest to darkest, C one to C seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Seven grades"
+      }
+    },
+    {
+      "text": "In the 1980s, advertisers swapped brown for names like champagne and cognac.",
+      "say": "In the nineteen eighties, advertisers swapped brown for names like champagne and cognac.",
+      "scene": {
+        "kind": "real",
+        "src": "619-chocolate-diamonds-were-once-just-brown-0.jpg",
+        "fit": "card",
+        "label": "Gold colored diamonds",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2000, Le Vian branded some of them Chocolate Diamonds.",
+      "say": "In two thousand, Le Vian branded some of them Chocolate Diamonds.",
+      "scene": {
+        "kind": "title",
+        "text": "2000",
+        "sub": "Le Vian",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Eddie LeVian picked the word after a friend brought handmade chocolates.",
+      "say": "Eddie Le Vian picked the word after a friend brought handmade chocolates.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Handmade chocolates",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Le Vian trademarked the name, so rivals used words like coffee.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A trademark",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Argyle stopped mining on November 3, 2020, after 37 years.",
+      "say": "Argyle stopped mining on November third, twenty twenty, after thirty seven years.",
+      "scene": {
+        "kind": "title",
+        "text": "2020",
+        "sub": "Argyle closed",
+        "piece": "earrings",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Chocolate diamonds were once just brown. Brown diamonds were long treated as low value stones. Many went to industry, where they drilled rock and cut glass. In Australia, almost 80 percent of Argyle's diamonds were brown. Argyle graded its browns from lightest to darkest, C1 to C7. In the 1980s, advertisers swapped brown for names like champagne and cognac. In 2000, Le Vian branded some of them Chocolate Diamonds. Eddie LeVian picked the word after a friend brought handmade chocolates. Le Vian trademarked the name, so rivals used words like coffee. Argyle stopped mining on November 3, 2020, after 37 years.",
+    "hashtags": [
+      "#chocolatediamonds",
+      "#browndiamonds",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://4cs.gia.edu/en-us/blog/bravo-brown-diamonds/",
+    "https://www.jckonline.com/article-long/25-years-chocolate-diamonds-levian/",
+    "https://en.wikipedia.org/wiki/Brown_diamond",
+    "https://www.jared.com/about-levian-chocolate-diamonds",
+    "https://rapaport.com/magazine-article/celebrating-brown/",
+    "https://www.riotinto.com/en/operations/australia/argyle",
+    "https://www.mining-technology.com/features/timeline-the-life-and-times-of-australias-unlikely-argyle-diamond-mine/"
+  ],
+  "images": [
+    {
+      "src": "619-chocolate-diamonds-were-once-just-brown-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Jorfer",
+      "page": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_Gold_Colored_Diamonds.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "618-hallmark-cards-borrowed-a-goldsmith-s-stamp",
+  "number": 618,
+  "title": "Hallmark Cards borrowed a goldsmith's stamp",
+  "style": "gouache",
+  "topic": "hallmark cards name goldsmith hallmark mark of quality joyce hall kansas city 1910 postcards hall brothers rollie fire 1915 every card 1928 first greeting card firm advertise nationally became hallmark cards 1954",
+  "music": "music-618.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "citrine",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Hallmark Cards borrowed a goldsmith's stamp.",
+    "gold": [
+      "goldsmith's",
+      "stamp."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Hallmark Cards borrowed a goldsmith's stamp.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1910, Joyce Hall reached Kansas City with two shoeboxes of postcards.",
+      "say": "In nineteen ten, Joyce Hall reached Kansas City with two shoeboxes of postcards.",
+      "scene": {
+        "kind": "title",
+        "text": "1910",
+        "sub": "Kansas City",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "His brother Rollie joined him, and the firm was Hall Brothers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Hall Brothers",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1915, a fire destroyed their office and all their stock.",
+      "say": "In nineteen fifteen, a fire destroyed their office and all their stock.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A fire",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "After the fire, they began making their own card designs.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Their own designs",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Hall said he liked hallmark, a goldsmith's stamp of quality.",
+      "scene": {
+        "kind": "real",
+        "src": "618-hallmark-cards-borrowed-a-goldsmith-s-stamp-0.jpg",
+        "fit": "card",
+        "label": "Goldsmiths' Hall, 1834",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It also held his own family name, Hall.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "His family name"
+      }
+    },
+    {
+      "text": "By 1928, the name Hallmark was on the back of every card.",
+      "say": "By nineteen twenty eight, the name Hallmark was on the back of every card.",
+      "scene": {
+        "kind": "title",
+        "text": "1928",
+        "sub": "Every card",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "That year, they became the first greeting card firm to advertise nationally.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "National ads",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Hall Brothers became Hallmark Cards in 1954.",
+      "say": "Hall Brothers became Hallmark Cards in nineteen fifty four.",
+      "scene": {
+        "kind": "title",
+        "text": "1954",
+        "sub": "Hallmark Cards",
+        "piece": "earrings",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Hallmark Cards borrowed a goldsmith's stamp. In 1910, Joyce Hall reached Kansas City with two shoeboxes of postcards. His brother Rollie joined him, and the firm was Hall Brothers. In 1915, a fire destroyed their office and all their stock. After the fire, they began making their own card designs. Hall said he liked hallmark, a goldsmith's stamp of quality. It also held his own family name, Hall. By 1928, the name Hallmark was on the back of every card. That year, they became the first greeting card firm to advertise nationally. Hall Brothers became Hallmark Cards in 1954.",
+    "hashtags": [
+      "#hallmark",
+      "#hallmarks",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://corporate.hallmark.com/about/hallmark-cards-company/history/early-innovation-1910s-30s/",
+    "https://corporate.hallmark.com/about/hallmark-cards-company/history/founding-1910s/",
+    "https://visitkc.com/articles/hallmark-history-how-booming-brand-began-kansas-city",
+    "https://www.mentalfloss.com/article/72346/14-things-you-might-not-know-about-hallmark",
+    "https://history.nebraska.gov/hallmark-cards-and-their-nebraska-roots/",
+    "https://www.assayofficelondon.co.uk/about-us/history-of-hallmarking"
+  ],
+  "images": [
+    {
+      "src": "618-hallmark-cards-borrowed-a-goldsmith-s-stamp-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Penny_Magazine_1834_017_View_of_Goldsmiths'_Hall.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
