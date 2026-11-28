@@ -1,0 +1,179 @@
+{
+  "id": "632-a-platinum-flute-inspired-density-21-5",
+  "number": 632,
+  "title": "A platinum flute inspired Density 21.5",
+  "style": "deco",
+  "topic": "georges barrere platinum flute 1935 haynes first american platinum flute gold flute 1896 jaeger 1927 edgard varese density 21.5 solo flute carnegie hall 16 february 1936 90 percent platinum 10 percent iridium claire chase density 2036",
+  "music": "music-632.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "emerald",
+    "stones": 9,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A platinum flute inspired Density 21.5.",
+    "gold": [
+      "platinum",
+      "flute"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A platinum flute inspired Density 21.5.",
+      "say": "A platinum flute inspired Density twenty one point five.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1896, William Haynes of Boston made America's first gold flute.",
+      "say": "In eighteen ninety six, William Haynes of Boston made America's first gold flute.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A gold flute",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 1927, flutist Georges Barrère bought a gold Haynes flute.",
+      "say": "In nineteen twenty seven, flutist Georges Barrère bought a gold Haynes flute.",
+      "scene": {
+        "kind": "real",
+        "src": "632-a-platinum-flute-inspired-density-21-5-0.jpg",
+        "fit": "card",
+        "label": "Georges Barrère",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He played a gold flute for about ten years.",
+      "scene": {
+        "kind": "real",
+        "src": "632-a-platinum-flute-inspired-density-21-5-1.jpg",
+        "fit": "card",
+        "label": "Barrère with his flute",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 1935, Haynes made him the first American platinum flute.",
+      "say": "In nineteen thirty five, Haynes made him the first American platinum flute.",
+      "scene": {
+        "kind": "title",
+        "text": "1935",
+        "sub": "A platinum flute",
+        "piece": "brooch",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It was ninety percent platinum and ten percent iridium.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Platinum and iridium",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The composer Edgard Varèse wrote a solo piece for it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Edgard Varèse",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He named it Density 21.5, after platinum's density.",
+      "say": "He named it Density twenty one point five, after platinum's density.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Density 21.5",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Barrère premiered it at Carnegie Hall on February 16, 1936.",
+      "say": "Barrère premiered it at Carnegie Hall on February sixteenth, nineteen thirty six.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Carnegie Hall",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "A project called Density 2036 ends in 2036, a century later.",
+      "say": "A project called Density twenty thirty six ends in twenty thirty six, a century later.",
+      "scene": {
+        "kind": "title",
+        "text": "2036",
+        "sub": "A century later",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A platinum flute inspired Density 21.5. In 1896, William Haynes of Boston made America's first gold flute. In 1927, flutist Georges Barrère bought a gold Haynes flute. He played a gold flute for about ten years. In 1935, Haynes made him the first American platinum flute. It was ninety percent platinum and ten percent iridium. The composer Edgard Varèse wrote a solo piece for it. He named it Density 21.5, after platinum's density. Barrère premiered it at Carnegie Hall on February 16, 1936. A project called Density 2036 ends in 2036, a century later.",
+    "hashtags": [
+      "#platinum",
+      "#flute",
+      "#edgardvarese",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://time.com/archive/6892077/music-3000-flute/",
+    "https://en.wikipedia.org/wiki/Density_21.5",
+    "https://www.wmshaynes.com/timeline",
+    "https://en.wikipedia.org/wiki/William_S._Haynes_Flute_Company",
+    "https://brahms.ircam.fr/works/work/12502",
+    "https://data.carnegiehall.org/events/20950/nt",
+    "https://nyfluteclub.org/about/history-and-archives/past-presidents/1944/12/Georges-Barrre/",
+    "https://carnegiehall.org/explore/articles/2023/03/23/an-interview-with-claire-chase"
+  ],
+  "images": [
+    {
+      "src": "632-a-platinum-flute-inspired-density-21-5-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "self",
+      "page": "https://commons.wikimedia.org/wiki/File:Georges_Barr%C3%A8re_01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "632-a-platinum-flute-inspired-density-21-5-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Flutist_George_Barrere_in_1917_-_(SAYRE_2122)_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

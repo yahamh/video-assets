@@ -1,0 +1,170 @@
+{
+  "id": "634-margot-robbie-s-bront-bracelet-isn-t-hair",
+  "number": 634,
+  "title": "Margot Robbie's Brontë bracelet isn't hair",
+  "style": "jewelbox",
+  "topic": "margot robbie wuthering heights premiere london february 2026 charlotte bronte hair bracelet replica bronte parsonage museum haworth wyedean weaving braided thread 100 year old machine 250000 metres",
+  "music": "music-634.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "topaz",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Margot Robbie's Brontë bracelet isn't hair.",
+    "gold": [
+      "Brontë",
+      "bracelet",
+      "hair."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Margot Robbie's Brontë bracelet isn't hair.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "At the London premiere of Wuthering Heights, she wore a bracelet.",
+      "say": "At the London premiere of Wuthering Heights, she wore a bracelet.",
+      "scene": {
+        "kind": "title",
+        "text": "2026",
+        "sub": "The premiere",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "It copied a Victorian hair bracelet that belonged to Charlotte Brontë.",
+      "scene": {
+        "kind": "real",
+        "src": "634-margot-robbie-s-bront-bracelet-isn-t-hair-0.jpg",
+        "fit": "card",
+        "label": "Charlotte Brontë, 1850",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The original is kept in the Brontë Parsonage Museum in Haworth.",
+      "scene": {
+        "kind": "real",
+        "src": "634-margot-robbie-s-bront-bracelet-isn-t-hair-1.jpg",
+        "fit": "card",
+        "label": "The Brontë Parsonage Museum",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It is woven from hair believed to be Emily's and Anne's.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Woven hair",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The museum pointed her stylist to Wyedean Weaving, a Haworth firm.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Wyedean Weaving"
+      }
+    },
+    {
+      "text": "Real hair was ruled out, so the copy is braided thread.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Thread, not hair",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "They braided it on a hundred-year-old machine, in a rare diagonal plait.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A rare plait",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The original shifts color in different light, so they ran twelve trials.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Twelve trials",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The copy used 250,000 meters of thread.",
+      "say": "The copy used two hundred fifty thousand meters of thread.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Thread",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Margot Robbie's Brontë bracelet isn't hair. At the London premiere of Wuthering Heights, she wore a bracelet. It copied a Victorian hair bracelet that belonged to Charlotte Brontë. The original is kept in the Brontë Parsonage Museum in Haworth. It is woven from hair believed to be Emily's and Anne's. The museum pointed her stylist to Wyedean Weaving, a Haworth firm. Real hair was ruled out, so the copy is braided thread. They braided it on a hundred-year-old machine, in a rare diagonal plait. The original shifts color in different light, so they ran twelve trials. The copy used 250,000 meters of thread.",
+    "hashtags": [
+      "#margotrobbie",
+      "#bronte",
+      "#wutheringheights",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.bronte.org.uk/news/charlotte-brontes-bracelet",
+    "https://www.wmagazine.com/fashion/margot-robbie-emily-bronte-hair-bracelet-wuthering-heights-uk-premiere",
+    "https://www.aol.com/articles/bront-experts-share-details-margot-202639270.html",
+    "https://www.bradfordmeansbusiness.com/?p=25265",
+    "https://www.annebronte.org/2026/02/08/the-wuthering-heights-bracelet/",
+    "https://www.museumsassociation.org/museums-journal/people/2026/03/qa-a-film-premiere-is-never-a-place-youd-expect-to-be-when-you-sign-up-to-work-in-a-museum/"
+  ],
+  "images": [
+    {
+      "src": "634-margot-robbie-s-bront-bracelet-isn-t-hair-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "George Richmond",
+      "page": "https://commons.wikimedia.org/wiki/File:Charlotte_Bront%C3%AB_by_George_Richmond,_1850.png",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "634-margot-robbie-s-bront-bracelet-isn-t-hair-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "SpaceMonkey at en.wikipedia",
+      "page": "https://commons.wikimedia.org/wiki/File:Bronte_Parsonage_Museum.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

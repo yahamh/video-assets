@@ -1,0 +1,175 @@
+{
+  "id": "628-de-beers-launched-the-right-hand-ring",
+  "number": 628,
+  "title": "De Beers launched the right-hand ring",
+  "style": "jewelbox",
+  "topic": "de beers right-hand ring 2003 diamond trading company j walter thompson women of the world raise your right hand your left hand says we right hand says me a new category glossy magazines twenty points three stones anniversary ring",
+  "music": "music-628.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "pink",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "De Beers launched the right-hand ring.",
+    "gold": [
+      "Beers",
+      "right-hand",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "De Beers launched the right-hand ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "For decades, De Beers sold diamonds as romance.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Diamonds as romance"
+      }
+    },
+    {
+      "text": "In 2003, its marketing arm set out to sell a right-hand ring.",
+      "say": "In two thousand three, its marketing arm set out to sell a right-hand ring.",
+      "scene": {
+        "kind": "title",
+        "text": "2003",
+        "sub": "A new category",
+        "piece": "ring",
+        "stone": "diamond",
+        "metal": "platinum",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "J. Walter Thompson wrote the ads for glossy magazines.",
+      "say": "J Walter Thompson wrote the ads for glossy magazines.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Glossy magazines",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "The slogan was, Women of the world, raise your right hand.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Raise your right hand",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Your left hand says we, and your right hand says me.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "We and me",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The left hand keeps the engagement ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "The left hand",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The right-hand ring is one a woman buys herself.",
+      "scene": {
+        "kind": "real",
+        "src": "628-de-beers-launched-the-right-hand-ring-0.jpg",
+        "fit": "card",
+        "label": "A cluster ring, France",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It needed a diamond of at least a fifth of a carat.",
+      "scene": {
+        "kind": "title",
+        "text": "20 points",
+        "sub": "A fifth of a carat",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It could hold any number of stones except three.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Not three",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Three stones would look like an anniversary ring.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "An anniversary ring",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "De Beers launched the right-hand ring. For decades, De Beers sold diamonds as romance. In 2003, its marketing arm set out to sell a right-hand ring. J. Walter Thompson wrote the ads for glossy magazines. The slogan was, Women of the world, raise your right hand. Your left hand says we, and your right hand says me. The left hand keeps the engagement ring. The right-hand ring is one a woman buys herself. It needed a diamond of at least a fifth of a carat. It could hold any number of stones except three. Three stones would look like an anniversary ring.",
+    "hashtags": [
+      "#diamonds",
+      "#debeers",
+      "#righthandring",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://encyclopedia.com/marketing/encyclopedias-almanacs-transcripts-and-maps/diamond-trading-company",
+    "https://www.warc.com/Content/76b99087-2a69-43bc-959c-3327a11a8b55",
+    "https://jckonline.com/?p=39877",
+    "https://www.nbcnews.com/id/wbna4000827",
+    "https://www.adweek.com/brand-marketing/barbara-lipperts-critique-shift-right-66696/"
+  ],
+  "images": [
+    {
+      "src": "628-de-beers-launched-the-right-hand-ring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( France ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:French_-_Ring_with_Cluster_of_Stones_-_Walters_571757_-_Three_Quarter.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

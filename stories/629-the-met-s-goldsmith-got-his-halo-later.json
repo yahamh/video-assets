@@ -1,0 +1,197 @@
+{
+  "id": "629-the-met-s-goldsmith-got-his-halo-later",
+  "number": 629,
+  "title": "The Met's goldsmith got his halo later",
+  "style": "deco",
+  "topic": "petrus christus a goldsmith in his shop 1449 metropolitan museum robert lehman collection goldsmith weighs wedding ring couple girdle marriage belt shelves pearls coral serpents tongues shark teeth round mirror saint eligius halo added later restoration 1990s 1998 scholars",
+  "music": "music-629.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "ruby",
+    "cut": "round",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Met's goldsmith got his halo later.",
+    "gold": [
+      "goldsmith",
+      "halo"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Met's goldsmith got his halo later.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1449, Petrus Christus painted A Goldsmith in His Shop.",
+      "say": "In fourteen forty nine, Petrus Christus painted A Goldsmith in His Shop.",
+      "scene": {
+        "kind": "real",
+        "src": "629-the-met-s-goldsmith-got-his-halo-later-0.jpg",
+        "fit": "card",
+        "label": "Petrus Christus, 1449",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The goldsmith weighs a wedding ring for a richly dressed couple.",
+      "scene": {
+        "kind": "real",
+        "src": "629-the-met-s-goldsmith-got-his-halo-later-1.jpg",
+        "fit": "card",
+        "label": "The scales and the ring",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A marriage belt lies across the shop ledge.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A marriage belt",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "His shelves hold pearls and coral.",
+      "scene": {
+        "kind": "real",
+        "src": "629-the-met-s-goldsmith-got-his-halo-later-2.jpg",
+        "fit": "card",
+        "label": "His shelves",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Among them are fossil shark teeth, believed to protect against poison.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Shark teeth"
+      }
+    },
+    {
+      "text": "A small round mirror shows two men in the street.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "A round mirror",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "For years, he was called Saint Eligius, the goldsmiths' saint.",
+      "scene": {
+        "kind": "real",
+        "src": "629-the-met-s-goldsmith-got-his-halo-later-3.jpg",
+        "fit": "card",
+        "label": "With the halo",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A 1990s restoration removed the halo, added by another hand.",
+      "say": "A nineteen nineties restoration removed the halo, added by another hand.",
+      "scene": {
+        "kind": "title",
+        "text": "1990s",
+        "sub": "The halo comes off",
+        "piece": "brooch",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In 1998, scholars argued he lacks a saint's attributes.",
+      "say": "In nineteen ninety eight, scholars argued he lacks a saint's attributes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "A plain title",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The Met keeps it in its Robert Lehman Collection.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "The Lehman Collection",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Met's goldsmith got his halo later. In 1449, Petrus Christus painted A Goldsmith in His Shop. The goldsmith weighs a wedding ring for a richly dressed couple. A marriage belt lies across the shop ledge. His shelves hold pearls and coral. Among them are fossil shark teeth, believed to protect against poison. A small round mirror shows two men in the street. For years, he was called Saint Eligius, the goldsmiths' saint. A 1990s restoration removed the halo, added by another hand. In 1998, scholars argued he lacks a saint's attributes. The Met keeps it in its Robert Lehman Collection.",
+    "hashtags": [
+      "#petruschristus",
+      "#goldsmith",
+      "#weddingring",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/en/art/collection/search/459052",
+    "https://www.metmuseum.org/toah/works-of-art/1975.1.110",
+    "https://www.metmuseum.org/audio-guide/4740",
+    "https://www.metmuseum.org/en/essays/intentional-alterations-of-early-netherlandish-painting",
+    "https://en.wikipedia.org/wiki/A_Goldsmith_in_His_Shop",
+    "https://www.dailyartmagazine.com/?p=114178"
+  ],
+  "images": [
+    {
+      "src": "629-the-met-s-goldsmith-got-his-halo-later-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Petrus Christus",
+      "page": "https://commons.wikimedia.org/wiki/File:A_Goldsmith_in_his_Shop_MET_DT711.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "629-the-met-s-goldsmith-got-his-halo-later-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Petrus Christus",
+      "page": "https://commons.wikimedia.org/wiki/File:A_Goldsmith_in_his_Shop_MET_DT7267.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "629-the-met-s-goldsmith-got-his-halo-later-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Petrus Christus",
+      "page": "https://commons.wikimedia.org/wiki/File:A_Goldsmith_in_his_Shop_MET_DT7265.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "629-the-met-s-goldsmith-got-his-halo-later-3.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Petrus Christus",
+      "page": "https://commons.wikimedia.org/wiki/File:Petrus_Christus_003.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "633-ian-fleming-bought-himself-a-gold-typewriter",
+  "number": 633,
+  "title": "Ian Fleming bought himself a gold typewriter",
+  "style": "gouache",
+  "topic": "ian fleming gold plated royal quiet de luxe typewriter 1952 ivar bryce letter 17 may casino royale first draft reward christie's 1995 guinness most expensive typewriter",
+  "music": "music-633.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "ruby",
+    "cut": "round",
+    "metal": "yellow",
+    "petals": 8
+  },
+  "hook": {
+    "text": "Ian Fleming bought himself a gold typewriter.",
+    "gold": [
+      "gold",
+      "typewriter."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Ian Fleming bought himself a gold typewriter.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1952, the Royal Typewriter Company made him a gold-plated portable.",
+      "say": "In nineteen fifty two, the Royal Typewriter Company made him a gold-plated portable.",
+      "scene": {
+        "kind": "real",
+        "src": "633-ian-fleming-bought-himself-a-gold-typewriter-0.jpg",
+        "fit": "card",
+        "label": "A Royal ad, 1915",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "On May 17, he told his friend Ivar Bryce about it.",
+      "say": "On May seventeenth, he told his friend Ivar Bryce about it.",
+      "scene": {
+        "kind": "real",
+        "src": "633-ian-fleming-bought-himself-a-gold-typewriter-1.jpg",
+        "fit": "card",
+        "label": "Ian Fleming",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He added that he would not say why he wanted it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "No reason given",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It was a reward for finishing the first Casino Royale draft.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A reward",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He asked Bryce to carry it to England from America.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Across the Atlantic",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It stayed with his family for decades.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "In the family",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Christie's in London sold it on May 5, 1995.",
+      "say": "Christie's in London sold it on May fifth, nineteen ninety five.",
+      "scene": {
+        "kind": "title",
+        "text": "1995",
+        "sub": "Christie's",
+        "piece": "earrings",
+        "stone": "citrine",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Guinness lists it as the world's most expensive typewriter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "A record",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The buyer was never named.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Never named"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Ian Fleming bought himself a gold typewriter. In 1952, the Royal Typewriter Company made him a gold-plated portable. On May 17, he told his friend Ivar Bryce about it. He added that he would not say why he wanted it. It was a reward for finishing the first Casino Royale draft. He asked Bryce to carry it to England from America. It stayed with his family for decades. Christie's in London sold it on May 5, 1995. Guinness lists it as the world's most expensive typewriter. The buyer was never named.",
+    "hashtags": [
+      "#ianfleming",
+      "#jamesbond",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://ianfleming.com/?p=344",
+    "https://spyvibe.blogspot.com/2013/04/ian-fleming-1953-royal-quiet-deluxe.html",
+    "https://www.upi.com/Archives/1995/05/05/Ian-Flemings-gold-typewriter-auctioned/7367799646400/",
+    "https://www.phaidon.com/en-ca/blogs/artspace/7-of-the-oddest-treasures-ever-sold-at-christies",
+    "https://en.wikipedia.org/wiki/Royal_Quiet_Deluxe"
+  ],
+  "images": [
+    {
+      "src": "633-ian-fleming-bought-himself-a-gold-typewriter-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Royal Typewriter Company",
+      "page": "https://commons.wikimedia.org/wiki/File:Royal_10_advertisement.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "633-ian-fleming-bought-himself-a-gold-typewriter-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Daily Express",
+      "page": "https://commons.wikimedia.org/wiki/File:Ian_Fleming_on_Doctor_No_dust_jacket_(cropped2).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

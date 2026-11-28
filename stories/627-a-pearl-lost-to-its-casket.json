@@ -1,0 +1,175 @@
+{
+  "id": "627-a-pearl-lost-to-its-casket",
+  "number": 627,
+  "title": "A pearl lost to its casket",
+  "style": "gouache",
+  "topic": "han feizi pearl casket chu zheng magnolia cinnamon pepper jade kingfisher feathers buy the casket return the pearl chinese saying third century bce fable good at selling caskets not pearls fancy words four characters",
+  "music": "music-627.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A pearl lost to its casket.",
+    "gold": [
+      "pearl",
+      "casket."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A pearl lost to its casket.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "This tale is from the Han Feizi, over two thousand years old.",
+      "scene": {
+        "kind": "real",
+        "src": "627-a-pearl-lost-to-its-casket-0.jpg",
+        "fit": "card",
+        "label": "A Han Feizi edition",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A man of Chu goes to Zheng to sell a pearl.",
+      "scene": {
+        "kind": "title",
+        "text": "Chu",
+        "sub": "A pearl to sell",
+        "piece": "pearl",
+        "tone": "cream"
+      }
+    },
+    {
+      "text": "To make it stand out, he builds a casket of magnolia wood.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Magnolia wood",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He scents it with cinnamon and pepper.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Cinnamon and pepper"
+      }
+    },
+    {
+      "text": "He decorates it with jade and gems, and inlays kingfisher feathers.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Jade and feathers",
+        "stones": 9
+      }
+    },
+    {
+      "text": "A man of Zheng buys the casket and gives the pearl back.",
+      "scene": {
+        "kind": "real",
+        "src": "627-a-pearl-lost-to-its-casket-1.jpg",
+        "fit": "card",
+        "label": "A pearl, painted about 1665",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Han Fei said the man was good at selling caskets, not pearls.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Caskets, not pearls"
+      }
+    },
+    {
+      "text": "He told it to mock fancy words that outshine the idea.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Fancy words",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "People still use it for valuing the wrapping over what is inside.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "The wrapping",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In Chinese, the saying is four characters long.",
+      "scene": {
+        "kind": "title",
+        "text": "Four",
+        "sub": "Characters",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A pearl lost to its casket. This tale is from the Han Feizi, over two thousand years old. A man of Chu goes to Zheng to sell a pearl. To make it stand out, he builds a casket of magnolia wood. He scents it with cinnamon and pepper. He decorates it with jade and gems, and inlays kingfisher feathers. A man of Zheng buys the casket and gives the pearl back. Han Fei said the man was good at selling caskets, not pearls. He told it to mock fancy words that outshine the idea. People still use it for valuing the wrapping over what is inside. In Chinese, the saying is four characters long.",
+    "hashtags": [
+      "#pearls",
+      "#pearl",
+      "#chinesesaying",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.5000yan.com/chinese-idioms/buying-casket-returning-pearl.html",
+    "https://suaveg.com/?p=19097",
+    "https://www.chinese-showcase.com/blogs/jewelry/m%C7%8Ei-du-huan-zhu-buy-a-casket-but-return-the-pearls",
+    "https://www.theworldofchinese.com/2021/03/learn-chinese-proverbs-about-pearls/",
+    "https://en.wiktionary.com/wiki/%E8%B2%B7%E6%AB%9D%E9%82%84%E7%8F%A0"
+  ],
+  "images": [
+    {
+      "src": "627-a-pearl-lost-to-its-casket-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Huangdan2060",
+      "page": "https://commons.wikimedia.org/wiki/File:Hanfeizi_or_Han_Feizi,_Qing_dynasty,_Hunan_Museum_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "627-a-pearl-lost-to-its-casket-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Johannes Vermeer",
+      "page": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

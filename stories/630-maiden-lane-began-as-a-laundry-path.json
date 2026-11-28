@@ -1,0 +1,184 @@
+{
+  "id": "630-maiden-lane-began-as-a-laundry-path",
+  "number": 630,
+  "title": "Maiden Lane began as a laundry path",
+  "style": "gouache",
+  "topic": "maiden lane new york diamond district dutch maidens path brook laundry 1664 english 1790s jewelers 1894 diamond exchange 14 maiden lane ten stories safes daylight windows jeweler's clock sidewalk broadway 1920s west 47th street",
+  "music": "music-630.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "aquamarine",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Maiden Lane began as a laundry path.",
+    "gold": [
+      "Maiden",
+      "Lane",
+      "laundry"
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Maiden Lane began as a laundry path.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Its name means the maidens' path, from Dutch.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "The maidens' path"
+      }
+    },
+    {
+      "text": "It began as a footpath beside a brook where women washed laundry.",
+      "scene": {
+        "kind": "real",
+        "src": "630-maiden-lane-began-as-a-laundry-path-0.jpg",
+        "fit": "card",
+        "label": "Maiden Lane, from Pearl Street",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The English kept the name after they took the town in 1664.",
+      "say": "The English kept the name after they took the town in sixteen sixty four.",
+      "scene": {
+        "kind": "real",
+        "src": "630-maiden-lane-began-as-a-laundry-path-1.jpg",
+        "fit": "card",
+        "label": "Looking toward Maiden Lane",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "By the late 1790s, jewelers had settled on the street.",
+      "say": "By the late seventeen nineties, jewelers had settled on the street.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Jewelers move in",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1894, developers finished the ten-story Diamond Exchange there.",
+      "say": "In eighteen ninety four, developers finished the ten-story Diamond Exchange there.",
+      "scene": {
+        "kind": "title",
+        "text": "1894",
+        "sub": "The Diamond Exchange",
+        "piece": "ring",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Its floors were strong enough to carry the dealers' safes.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Strong floors",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Big windows let dealers study stones in daylight.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Daylight",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A jeweler's clock is set into the sidewalk at its corner.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A sidewalk clock",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "From the 1920s, the trade moved north to West 47th Street.",
+      "say": "From the nineteen twenties, the trade moved north to West forty seventh Street.",
+      "scene": {
+        "kind": "title",
+        "text": "1920s",
+        "sub": "Moving north",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "That street is today's Diamond District.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "The Diamond District"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Maiden Lane began as a laundry path. Its name means the maidens' path, from Dutch. It began as a footpath beside a brook where women washed laundry. The English kept the name after they took the town in 1664. By the late 1790s, jewelers had settled on the street. In 1894, developers finished the ten-story Diamond Exchange there. Its floors were strong enough to carry the dealers' safes. Big windows let dealers study stones in daylight. A jeweler's clock is set into the sidewalk at its corner. From the 1920s, the trade moved north to West 47th Street. That street is today's Diamond District.",
+    "hashtags": [
+      "#diamonds",
+      "#diamonddistrict",
+      "#newyork",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maiden_Lane_(Manhattan)",
+    "https://libertystreeteconomics.newyorkfed.org/2014/01/historical-echoes-maiden-lane-where-now-such-waves-of-commerce-flow",
+    "https://www.untappedcities.com/history-of-streets-maiden-lane/",
+    "https://www.amny.com/news/memories-of-maiden-lane-2/",
+    "https://en.wikipedia.org/wiki/14_Maiden_Lane",
+    "https://www.jckonline.com/editorial-article/diamond-district-luxury-condos/"
+  ],
+  "images": [
+    {
+      "src": "630-maiden-lane-began-as-a-laundry-path-0.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "Internet Archive Book Images",
+      "page": "https://commons.wikimedia.org/wiki/File:New_Amsterdam_and_its_people_-_studies,_social_and_topographical,_of_the_town_under_Dutch_and_early_English_rule_(1902)_(14803356773).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "630-maiden-lane-began-as-a-laundry-path-1.jpg",
+      "license": "No restrictions",
+      "cls": "pd",
+      "artist": "Internet Archive Book Images",
+      "page": "https://commons.wikimedia.org/wiki/File:New_Amsterdam_and_its_people%3B_studies,_social_and_topographical,_of_the_town_under_Dutch_and_early_English_rule_(1902)_(14579418510).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

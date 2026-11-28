@@ -1,0 +1,175 @@
+{
+  "id": "635-every-montblanc-nib-says-4810",
+  "number": 635,
+  "title": "Every Montblanc nib says 4810",
+  "style": "deco",
+  "topic": "montblanc meisterstuck 1924 gold nib engraved 4810 height of mont blanc in metres 14 or 18 carat 35 steps summit snow cap 4810.90 2007 4805.59 2023 4807.47 2026 haute-savoie geometres",
+  "music": "music-635.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Every Montblanc nib says 4810.",
+    "gold": [
+      "Montblanc",
+      "nib",
+      "4810."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Every Montblanc nib says 4810.",
+      "say": "Every Montblanc nib says forty eight ten.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Montblanc launched its flagship pen in 1924.",
+      "say": "Montblanc launched its flagship pen in nineteen twenty four.",
+      "scene": {
+        "kind": "title",
+        "text": "1924",
+        "sub": "The flagship pen",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Its nib is cut from gold, in 14 or 18 carat.",
+      "say": "Its nib is cut from gold, in fourteen or eighteen carat.",
+      "scene": {
+        "kind": "real",
+        "src": "635-every-montblanc-nib-says-4810-0.jpg",
+        "fit": "card",
+        "label": "A Montblanc nib",
+        "credit": "Photo: Jose Camões Silva, CC BY 2.0"
+      }
+    },
+    {
+      "text": "That number is the height of Mont Blanc, in meters.",
+      "scene": {
+        "kind": "real",
+        "src": "635-every-montblanc-nib-says-4810-1.jpg",
+        "fit": "card",
+        "label": "Mont Blanc's summit",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Making one takes 35 steps, but the mountain's height never stays fixed.",
+      "say": "Making one takes thirty five steps, but the mountain's height never stays fixed.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "35 steps",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Wind and snow reshape the ice cap on its summit.",
+      "scene": {
+        "kind": "real",
+        "src": "635-every-montblanc-nib-says-4810-2.jpg",
+        "fit": "card",
+        "label": "The ice cap",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2023, surveyors measured about 4,806 meters.",
+      "say": "In twenty twenty three, surveyors measured about four thousand eight hundred six meters.",
+      "scene": {
+        "kind": "title",
+        "text": "2023",
+        "sub": "Measured again",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In September 2026, they measured 4,807.47 meters, nearly two meters higher.",
+      "say": "In September twenty twenty six, they measured four thousand eight hundred seven point four seven meters, nearly two meters higher.",
+      "scene": {
+        "kind": "title",
+        "text": "2026",
+        "sub": "Higher again",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The nib still says 4810, and the mountain says about 4,807.",
+      "say": "The nib still says forty eight ten, and the mountain says about four thousand eight hundred seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "4810",
+        "cut": "round"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Every Montblanc nib says 4810. Montblanc launched its flagship pen, the Meisterstück, in 1924. Its nib is cut from gold, in 14 or 18 carat. That number is the height of Mont Blanc, in meters. Making one takes 35 steps, but the mountain's height never stays fixed. Wind and snow reshape the ice cap on its summit. In 2023, surveyors measured about 4,806 meters. In September 2026, they measured 4,807.47 meters, nearly two meters higher. The nib still says 4810, and the mountain says about 4,807. Photo: Jose Camões Silva, CC BY 2.0.",
+    "hashtags": [
+      "#montblanc",
+      "#fountainpen",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.montblanc.com/en-ca/discover/campaign/100-years",
+    "https://my.asiatatler.com/style/10-interesting-facts-montblanc-meisterstuck",
+    "https://2022.homofaber.com/en/ecollection/masters-at-work--gold-nib-crafting-3ydbe",
+    "https://phys.org/news/2023-10-mont-blanc-meters-years.html",
+    "https://fr.euronews.com/2026/10/14/mont-blanc-en-france-le-sommet-gagne-pres-de-2-m-a-4-807-m",
+    "https://www.lagazettefrance.fr/article/le-mont-blanc-en-perpetuel-mouvement-mesure-a-4-807-metres-en-2026"
+  ],
+  "images": [
+    {
+      "src": "635-every-montblanc-nib-says-4810-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Jose Camões Silva",
+      "page": "https://commons.wikimedia.org/wiki/File:Nib_of_Montblanc_Nicolau_Copernicus_(5254531137).jpg",
+      "credit": "Photo: Jose Camões Silva, CC BY 2.0"
+    },
+    {
+      "src": "635-every-montblanc-nib-says-4810-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Gabriel from92",
+      "page": "https://commons.wikimedia.org/wiki/File:Sommet_du_Mont_Blanc_01.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "635-every-montblanc-nib-says-4810-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Gabriel from92",
+      "page": "https://commons.wikimedia.org/wiki/File:Sommet_du_Mont_Blanc_(zoom).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

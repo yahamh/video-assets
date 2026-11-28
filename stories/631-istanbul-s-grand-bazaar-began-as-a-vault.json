@@ -1,0 +1,186 @@
+{
+  "id": "631-istanbul-s-grand-bazaar-began-as-a-vault",
+  "number": 631,
+  "title": "Istanbul's Grand Bazaar began as a vault",
+  "style": "jewelbox",
+  "topic": "grand bazaar istanbul old bedesten cevahir bedesten bedesten of gems mehmed ii 1455 domed stone hall jewels cash safes cellars iron gates watchmen sandal bedesten core gold jewelry thursdays costly goods",
+  "music": "music-631.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "sapphire",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Istanbul's Grand Bazaar began as a vault.",
+    "gold": [
+      "Grand",
+      "Bazaar",
+      "vault."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Istanbul's Grand Bazaar began as a vault.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Its core is the Old Bedesten, begun around 1455.",
+      "say": "Its core is the Old Bedesten, begun around fourteen fifty five.",
+      "scene": {
+        "kind": "real",
+        "src": "631-istanbul-s-grand-bazaar-began-as-a-vault-0.jpg",
+        "fit": "card",
+        "label": "The Grand Bazaar's gate",
+        "credit": "Photo: Joseolgon, CC BY 4.0"
+      }
+    },
+    {
+      "text": "Sultan Mehmed II ordered it built in Constantinople.",
+      "say": "Sultan Mehmed the Second ordered it built in Constantinople.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Sultan Mehmed II",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A bedesten is a stone, domed hall for costly goods.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A domed stone hall",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "This one was called the Bedesten of Gems.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "The Bedesten of Gems",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Merchants kept jewels and cash in its safes and cellars.",
+      "scene": {
+        "kind": "real",
+        "src": "631-istanbul-s-grand-bazaar-began-as-a-vault-1.jpg",
+        "fit": "card",
+        "label": "Domed halls",
+        "credit": "Photo: Joseolgon, CC BY 4.0"
+      }
+    },
+    {
+      "text": "At night it was shut behind iron gates, with watchmen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Iron gates"
+      }
+    },
+    {
+      "text": "Shops grew up around it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Shops grew around it",
+        "stones": 9
+      }
+    },
+    {
+      "text": "With the later Sandal Bedesten, it became the bazaar's core.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "The bazaar's core"
+      }
+    },
+    {
+      "text": "Gold jewelry is still sold in the bazaar.",
+      "scene": {
+        "kind": "real",
+        "src": "631-istanbul-s-grand-bazaar-began-as-a-vault-2.jpg",
+        "fit": "card",
+        "label": "A gold shop today",
+        "credit": "Photo: Joseolgon, CC BY 4.0"
+      }
+    },
+    {
+      "text": "In the Old Bedesten, costly goods sold only on Thursdays.",
+      "scene": {
+        "kind": "title",
+        "text": "Thursday",
+        "sub": "Costly goods",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Istanbul's Grand Bazaar began as a vault. Its core is the Old Bedesten, begun around 1455. Sultan Mehmed II ordered it built in Constantinople. A bedesten is a stone, domed hall for costly goods. This one was called the Bedesten of Gems. Merchants kept jewels and cash in its safes and cellars. At night it was shut behind iron gates, with watchmen. Shops grew up around it. With the later Sandal Bedesten, it became the bazaar's core. Gold jewelry is still sold in the bazaar. In the Old Bedesten, costly goods sold only on Thursdays. Photo: Joseolgon, CC BY 4.0.",
+    "hashtags": [
+      "#grandbazaar",
+      "#istanbul",
+      "#jewelry",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul",
+    "https://en.wikipedia.org/wiki/Bezistan",
+    "https://www.dailysabah.com/feature/2016/04/18/bedesten-the-ottoman-precursor-to-the-safety-deposit-box",
+    "https://istanbul.ktb.gov.tr/EN-285227/bazaars.html",
+    "https://libapps.luc.edu/digitalexhibits/s/honr212/page/grandbazaarofistanbul"
+  ],
+  "images": [
+    {
+      "src": "631-istanbul-s-grand-bazaar-began-as-a-vault-0.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Joseolgon",
+      "page": "https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Istanbul_2026.jpg",
+      "credit": "Photo: Joseolgon, CC BY 4.0"
+    },
+    {
+      "src": "631-istanbul-s-grand-bazaar-began-as-a-vault-1.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Joseolgon",
+      "page": "https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Istanbul_4.jpg",
+      "credit": "Photo: Joseolgon, CC BY 4.0"
+    },
+    {
+      "src": "631-istanbul-s-grand-bazaar-began-as-a-vault-2.jpg",
+      "license": "CC BY 4.0",
+      "cls": "by",
+      "artist": "Joseolgon",
+      "page": "https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Istanbul_5.jpg",
+      "credit": "Photo: Joseolgon, CC BY 4.0"
+    }
+  ]
+}
