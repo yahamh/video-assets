@@ -1,34 +1,10 @@
 {
  "queries": [
-  {
-   "key": "i-fix2",
-   "commons": [
-    "gold bullion bars vault",
-    "New Court Rothschild bank London",
-    "Bank of England gold vault",
-    "London Bullion Market Association"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-maiden2",
-   "commons": [
-    "Maiden Lane Manhattan",
-    "Maiden Lane New York 1900s",
-    "Diamond Exchange Maiden Lane",
-    "Maiden Lane clock Broadway"
-   ],
-   "max": 10
-  },
-  {
-   "key": "i-bazaar2",
-   "commons": [
-    "Kapalıçarşı",
-    "Cevahir Bedesten",
-    "Grand Bazaar Istanbul engraving",
-    "Grand Bazaar Istanbul jewellery shop"
-   ],
-   "max": 10
-  }
+  {"key": "i-fleming", "commons": ["Ian Fleming author", "Ian Fleming 1950s", "Goldeneye Oracabessa Jamaica", "Ian Fleming portrait"], "max": 10},
+  {"key": "i-royal", "commons": ["Royal Quiet De Luxe typewriter", "Royal portable typewriter 1950s", "gold plated typewriter", "Royal Typewriter Company advertisement"], "max": 10},
+  {"key": "i-montblanc", "commons": ["Mont Blanc summit", "Mont Blanc massif Chamonix", "Mont Blanc snow dome summit", "Mont Blanc from Chamonix"], "max": 10},
+  {"key": "i-nib", "commons": ["Montblanc Meisterstück 149 nib", "fountain pen nib gold 14K", "gold nib close-up", "Montblanc fountain pen"], "max": 10},
+  {"key": "i-osmi", "commons": ["Osmiridium", "Iridosmine mineral", "Adamsfield Tasmania", "osmium iridium alloy sample"], "max": 10},
+  {"key": "i-toothpick", "commons": ["Toothpick pendant Rijksmuseum", "Pendant whistle ear spoon toothpick Kunsthistorisches Museum", "Mermaid toothpick Waddesdon Bequest", "Renaissance gold toothpick"], "max": 10}
  ]
 }
