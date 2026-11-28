@@ -1,0 +1,176 @@
+{
+  "id": "645-gibson-s-sg-hid-its-knobs-under-diamonds",
+  "number": 645,
+  "title": "Gibson's SG hid its knobs under diamonds",
+  "style": "gouache",
+  "topic": "eden of coronet gibson sg white 2015 aaron shum coronet hong kong mark lui 11441 diamonds 401 carats 1.6 kilograms 18 karat white gold 68 artisans knobs hidden chrome jack baselworld guinness most valuable guitar fender bass 16033 gems jermaine jackson",
+  "music": "music-645.wav",
+  "piece": {
+    "piece": "ring",
+    "stone": "diamond",
+    "cut": "cushion",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Gibson's SG hid its knobs under diamonds.",
+    "gold": [
+      "Gibson's",
+      "SG",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Gibson's SG hid its knobs under diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2015, a Hong Kong jeweler covered a Gibson SG in diamonds.",
+      "say": "In twenty fifteen, a Hong Kong jeweler covered a Gibson SG in diamonds.",
+      "scene": {
+        "kind": "real",
+        "src": "645-gibson-s-sg-hid-its-knobs-under-diamonds-0.jpg",
+        "fit": "card",
+        "label": "A Gibson SG",
+        "credit": "Photo: Jeff Meyer, CC BY 2.0"
+      }
+    },
+    {
+      "text": "The guitar carries 11,441 diamonds, over 400 carats in all.",
+      "say": "The guitar carries eleven thousand four hundred forty one diamonds, over four hundred carats in all.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "11,441 diamonds"
+      }
+    },
+    {
+      "text": "Its gold is 1.6 kilograms of 18-karat white gold.",
+      "say": "Its gold is one point six kilograms of eighteen karat white gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "White gold",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "A team of 68 artisans built it for Aaron Shum's brand, Coronet.",
+      "say": "A team of sixty eight artisans built it for Aaron Shum's brand, Coronet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "68 artisans",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The volume and tone knobs sit hidden under the diamonds.",
+      "scene": {
+        "kind": "real",
+        "src": "645-gibson-s-sg-hid-its-knobs-under-diamonds-1.jpg",
+        "fit": "card",
+        "label": "Gibson SGs at Gibson Memphis",
+        "credit": "Photo: Michael Gaylard, CC BY 2.0"
+      }
+    },
+    {
+      "text": "Only the plain chrome hardware shows.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "Plain chrome",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "At Baselworld in March 2015, Guinness named it the most valuable guitar.",
+      "say": "At Baselworld in March twenty fifteen, Guinness named it the most valuable guitar.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A Guinness record",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Next year, that jeweler covered a Fender bass in 16,033 gems.",
+      "say": "Next year, that jeweler covered a Fender bass in sixteen thousand thirty three gems.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A jeweled bass",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Jermaine Jackson performed with it at Baselworld.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "On stage"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Gibson's SG hid its knobs under diamonds. In 2015, a Hong Kong jeweler covered a Gibson SG in diamonds. The guitar carries 11,441 diamonds, over 400 carats in all. Its gold is 1.6 kilograms of 18-karat white gold. A team of 68 artisans built it for Aaron Shum's brand, Coronet. The volume and tone knobs sit hidden under the diamonds. Only the plain chrome hardware shows. At Baselworld in March 2015, Guinness named it the most valuable guitar. Next year, that jeweler covered a Fender bass in 16,033 gems. Jermaine Jackson performed with it at Baselworld. Photo: Jeff Meyer, CC BY 2.0. Photo: Michael Gaylard, CC BY 2.0.",
+    "hashtags": [
+      "#gibson",
+      "#guitar",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://guinnessworldrecords.com/news/commercial/2015/4/coronet-diamond-gibson-guitar-takes-the-title-of-most-valuable-guitar-at-2-mill",
+    "https://newatlas.com/gibson-aaron-shum-mark-kui-eden-of-coronet/36694/?amp=true",
+    "https://www.thenationalnews.com/arts/world-s-most-expensive-guitar-on-display-in-abu-dhabi-s-marina-mall-1.87485",
+    "https://www.scmp.com/magazines/style/article/1780079/diamond-studded-guitar-earned-guinness-world-record-entry-be-sale",
+    "https://www.jckonline.com/?p=9569",
+    "https://interestingengineering.com/culture/worlds-most-valuable-guitar-from-gibson-and-coronet",
+    "https://en.wikipedia.org/wiki/Eden_of_Coronet_guitar",
+    "https://www.guinnessworldrecords.com/news/2016/3/jackson-5s-jermaine-performs-with-spectacular-jewelled-guitar-to-set-record-in-s"
+  ],
+  "images": [
+    {
+      "src": "645-gibson-s-sg-hid-its-knobs-under-diamonds-0.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Jeff Meyer",
+      "page": "https://commons.wikimedia.org/wiki/File:Gibson_SG_Special_Edition_(selling_by_Justin).jpg",
+      "credit": "Photo: Jeff Meyer, CC BY 2.0"
+    },
+    {
+      "src": "645-gibson-s-sg-hid-its-knobs-under-diamonds-1.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "Michael Gaylard from Horsham, UK",
+      "page": "https://commons.wikimedia.org/wiki/File:Gibson_SG,_Gibson_SG_Jr._-_Gibson_Memphis_(2018-09-10_21.24.08_by_Michael_Gaylard).jpg",
+      "credit": "Photo: Michael Gaylard, CC BY 2.0"
+    }
+  ]
+}

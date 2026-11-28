@@ -1,0 +1,160 @@
+{
+  "id": "650-a-toilet-wore-40-815-diamonds",
+  "number": 650,
+  "title": "A toilet wore 40,815 diamonds",
+  "style": "deco",
+  "topic": "coronet aaron shum jewelry hong kong diamond toilet 40815 diamonds 334.68 carats gold toilet bulletproof seat china international import expo shanghai november 2019 andy lau song toilet amazing museum dubai january 2020 guinness most diamonds set on a toilet tenth record",
+  "music": "music-650.wav",
+  "piece": {
+    "piece": "eternity",
+    "stone": "diamond",
+    "stones": 9,
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A toilet wore 40,815 diamonds.",
+    "gold": [
+      "toilet",
+      "40,815",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A toilet wore 40,815 diamonds.",
+      "say": "A toilet wore forty thousand eight hundred fifteen diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "A Hong Kong jeweler called Coronet set them on a gold toilet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A gold toilet"
+      }
+    },
+    {
+      "text": "Together, the diamonds weigh 334.68 carats.",
+      "say": "Together, the diamonds weigh three hundred thirty four point six eight carats.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "334.68 carats",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "It first appeared at a trade expo in Shanghai in November 2019.",
+      "say": "It first appeared at a trade expo in Shanghai in November twenty nineteen.",
+      "scene": {
+        "kind": "title",
+        "text": "2019",
+        "sub": "Shanghai",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The gold toilet has a bulletproof seat, set with the diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A bulletproof seat",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Aaron Shum said the idea came from an Andy Lau song.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A song",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In January 2020, it went to a museum in Dubai.",
+      "say": "In January twenty twenty, it went to a museum in Dubai.",
+      "scene": {
+        "kind": "title",
+        "text": "2020",
+        "sub": "Dubai",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Guinness gave Coronet a record for most diamonds on a toilet.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A Guinness record",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "It was the jeweler's tenth Guinness record.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Record number ten",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Earlier, the jeweler set records with a diamond watch and a handbag.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A watch and a handbag",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A toilet wore 40,815 diamonds. A Hong Kong jeweler called Coronet set them on a gold toilet. Together, the diamonds weigh 334.68 carats. It first appeared at a trade expo in Shanghai in November 2019. The gold toilet has a bulletproof seat, set with the diamonds. Aaron Shum said the idea came from an Andy Lau song. In January 2020, it went to a museum in Dubai. Guinness gave Coronet a record for most diamonds on a toilet. It was the jeweler's tenth Guinness record. Earlier, the jeweler set records with a diamond watch and a handbag.",
+    "hashtags": [
+      "#diamonds",
+      "#guinnessworldrecords",
+      "#dubai",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.upi.com/Odd_News/2019/11/05/Gold-toilet-features-40815-diamonds-embedded-in-the-seat/2671572974567/",
+    "https://www.foxnews.com/lifestyle/gold-toilet-world-record",
+    "https://thenationalnews.com/lifestyle/luxury/flush-with-cash-record-breaking-diamond-encrusted-toilet-comes-to-dubai-1.971524",
+    "https://www.gulfweekly.com/Articles/359038",
+    "https://arabianknightonline.com/Details/6484/Diamond-studded-toilet-bowl"
+  ],
+  "images": [],
+  "no_real_image": "no free picture of the diamond toilet exists (the Dubai museum and Guinness photos are not free, and the only free gold toilet pictures show other objects), so the story uses drawn pieces only"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "648-the-medici-venus-had-golden-hair",
+  "number": 648,
+  "title": "The Medici Venus had golden hair",
+  "style": "gouache",
+  "topic": "venus de medici medici venus uffizi marble copy greek bronze villa medici rome 1638 florence 1677 gilded hair gold leaf red base cinnabar lips pierced earlobes metal jewelry egyptian blue dolphin 2012 restoration derestoration 153 centimeters maffei richardson winckelmann",
+  "music": "music-648.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "topaz",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Medici Venus had golden hair.",
+    "gold": [
+      "Medici",
+      "Venus",
+      "hair."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Medici Venus had golden hair.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "This marble copy of a Greek bronze is about 2,000 years old.",
+      "say": "This marble copy of a Greek bronze is about two thousand years old.",
+      "scene": {
+        "kind": "real",
+        "src": "648-the-medici-venus-had-golden-hair-0.jpg",
+        "fit": "card",
+        "label": "An old photograph",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Recorded in Rome in 1638, she moved to Florence in 1677.",
+      "say": "Recorded in Rome in sixteen thirty eight, she moved to Florence in sixteen seventy seven.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "Rome, then Florence",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Visitors in the 1700s wrote that her hair was gilded.",
+      "say": "Visitors in the seventeen hundreds wrote that her hair was gilded.",
+      "scene": {
+        "kind": "real",
+        "src": "648-the-medici-venus-had-golden-hair-1.jpg",
+        "fit": "card",
+        "label": "Zoffany's Tribuna, 1770s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "By the 1800s, the gold was gone, perhaps scrubbed off on purpose.",
+      "say": "By the eighteen hundreds, the gold was gone, perhaps scrubbed off on purpose.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Scrubbed white",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In 2012, restorers found gold leaf over a red base layer.",
+      "say": "In twenty twelve, restorers found gold leaf over a red base layer.",
+      "scene": {
+        "kind": "title",
+        "text": "2012",
+        "sub": "Gold leaf found",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Her lips carried red cinnabar, and her earlobes were pierced for jewelry.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "Pierced ears",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Under the wave her dolphin rides, they found Egyptian blue.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Egyptian blue",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "She is 153 centimeters tall and kept in the Uffizi.",
+      "say": "She is one hundred fifty three centimeters tall and kept in the Uffizi.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "yellow",
+        "label": "In the Uffizi",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Medici Venus had golden hair. This marble copy of a Greek bronze is about 2,000 years old. Recorded in Rome in 1638, she moved to Florence in 1677. Visitors in the 1700s wrote that her hair was gilded. By the 1800s, the gold was gone, perhaps scrubbed off on purpose. In 2012, restorers found gold leaf over a red base layer. Her lips carried red cinnabar, and her earlobes were pierced for jewelry. Under the wave her dolphin rides, they found Egyptian blue. She is 153 centimeters tall and kept in the Uffizi.",
+    "hashtags": [
+      "#uffizi",
+      "#venus",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.livescience.com/18812-medici-venus-red-lips.html",
+    "https://www.uffizi.it/en/artworks/medici-venus",
+    "https://omeka.sagas.unifi.it/s/colourconcept/item/24248",
+    "https://en.wikipedia.org/wiki/Venus_de%27_Medici"
+  ],
+  "images": [
+    {
+      "src": "648-the-medici-venus-had-golden-hair-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Rijksmuseum",
+      "page": "https://commons.wikimedia.org/wiki/File:Antieke_sculptuur_van_de_Venus_de'Medici_in_de_Galleria_Uffizi_te_Florence,_RP-F-00-505.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "648-the-medici-venus-had-golden-hair-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Johann Zoffany",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Tribuna_of_the_Uffizi_(1772-78)%3B_Zoffany,_Johann.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

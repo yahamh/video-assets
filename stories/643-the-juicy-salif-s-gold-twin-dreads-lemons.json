@@ -1,0 +1,160 @@
+{
+  "id": "643-the-juicy-salif-s-gold-twin-dreads-lemons",
+  "number": 643,
+  "title": "The Juicy Salif's gold twin dreads lemons",
+  "style": "jewelbox",
+  "topic": "juicy salif philippe starck alessi 1990 lemon squeezer cast aluminum 29 centimeters three legs squid placemat gold plated tenth anniversary edition 2000 citric acid erode plating warning never used with fruit metropolitan museum v&a",
+  "music": "music-643.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "The Juicy Salif's gold twin dreads lemons.",
+    "gold": [
+      "gold",
+      "twin",
+      "lemons."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "The Juicy Salif's gold twin dreads lemons.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Philippe Starck designed this lemon squeezer for Alessi in 1990.",
+      "say": "Philippe Starck designed this lemon squeezer for Alessi in nineteen ninety.",
+      "scene": {
+        "kind": "real",
+        "src": "643-the-juicy-salif-s-gold-twin-dreads-lemons-0.jpg",
+        "fit": "card",
+        "label": "The Juicy Salif",
+        "credit": "Photo: Sailko, CC BY 3.0"
+      }
+    },
+    {
+      "text": "He sketched it on a placemat while squeezing lemon over fried squid.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "A placemat sketch"
+      }
+    },
+    {
+      "text": "It is cast aluminum, 29 centimeters tall, on three legs.",
+      "say": "It is cast aluminum, twenty nine centimeters tall, on three legs.",
+      "scene": {
+        "kind": "real",
+        "src": "643-the-juicy-salif-s-gold-twin-dreads-lemons-1.jpg",
+        "fit": "card",
+        "label": "Its mould, Design Museum London",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Starck said it was made to start conversations.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Conversations",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Copies are kept in the Met and the V&A.",
+      "say": "Copies are kept in the Met and the V and A.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "In museums",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "For its tenth anniversary, Alessi made a gold-plated edition in 2000.",
+      "say": "For its tenth anniversary, Alessi made a gold-plated edition in two thousand.",
+      "scene": {
+        "kind": "title",
+        "text": "2000",
+        "sub": "A gold edition",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Citric acid would discolor and erode the plating.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Acid and gold",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Its instructions say never to use it with real fruit.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "No real fruit"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "The Juicy Salif's gold twin dreads lemons. Philippe Starck designed this lemon squeezer for Alessi in 1990. He sketched it on a placemat while squeezing lemon over fried squid. It is cast aluminum, 29 centimeters tall, on three legs. Starck said it was made to start conversations. Copies are kept in the Met and the V&A. For its tenth anniversary in 2000, Alessi made a gold-plated edition. Citric acid would discolor and erode the plating. Its instructions say never to use it with real fruit. Photo: Sailko, CC BY 3.0.",
+    "hashtags": [
+      "#philippestarck",
+      "#alessi",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/art/collection/search/491871",
+    "https://collections.vam.ac.uk/item/O1322194/juicy-salif-lemon-squeezer-starck-philippe",
+    "https://finestresullarte.info/en/works-and-artists/that-strange-squid-shaped-juicer-juicy-salif-by-philippe-starck",
+    "https://www.dezeen.com/2014/07/09/movie-alberto-alessi-juicy-salif-controversial-lemon-squeezer-philippe-starck/",
+    "https://worldcrunch.com/culture-society/juiceless-and-useless-how-philippe-starck-changed-design",
+    "https://en.wikipedia.org/wiki/Juicy_Salif"
+  ],
+  "images": [
+    {
+      "src": "643-the-juicy-salif-s-gold-twin-dreads-lemons-0.jpg",
+      "license": "CC BY 3.0",
+      "cls": "by",
+      "artist": "Sailko",
+      "page": "https://commons.wikimedia.org/wiki/File:Philippe_starck_per_alessi_spa.,_spremiagrumi_juicy_salif,_1990.jpg",
+      "credit": "Photo: Sailko, CC BY 3.0"
+    },
+    {
+      "src": "643-the-juicy-salif-s-gold-twin-dreads-lemons-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Mx. Granger",
+      "page": "https://commons.wikimedia.org/wiki/File:Juicy_Salif_mould.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

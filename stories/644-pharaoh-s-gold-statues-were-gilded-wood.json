@@ -1,0 +1,183 @@
+{
+  "id": "644-pharaoh-s-gold-statues-were-gilded-wood",
+  "number": 644,
+  "title": "Pharaoh's gold statues were gilded wood",
+  "style": "deco",
+  "topic": "amarna letters tushratta king of mitanni amenhotep iii akhenaten queen tiye statues solid gold gilded wood ea 26 ea 27 gold like dust missing gold statues again assyria 382 tablets 14th century bc",
+  "music": "music-644.wav",
+  "piece": {
+    "piece": "brooch",
+    "stone": "ruby",
+    "cut": "round",
+    "metal": "yellow",
+    "petals": 8
+  },
+  "hook": {
+    "text": "Pharaoh's gold statues were gilded wood.",
+    "gold": [
+      "gold",
+      "gilded",
+      "wood."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Pharaoh's gold statues were gilded wood.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 1880s, Egyptians dug up clay tablets at Amarna.",
+      "say": "In the eighteen eighties, Egyptians dug up clay tablets at Amarna.",
+      "scene": {
+        "kind": "real",
+        "src": "644-pharaoh-s-gold-statues-were-gilded-wood-0.jpg",
+        "fit": "card",
+        "label": "A letter from Tushratta",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "They were the pharaoh's mail from the 14th century BC.",
+      "say": "They were the pharaoh's mail from the fourteenth century B C.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Pharaoh's mail",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Foreign kings called him brother, then asked for gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "Asking for gold",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Tushratta of Mitanni wanted the solid gold statues Amenhotep III promised.",
+      "say": "Tushratta of Mitanni wanted the solid gold statues Amenhotep the Third promised.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Solid gold statues",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Instead, the next pharaoh, Akhenaten, sent wood plated with gold.",
+      "scene": {
+        "kind": "real",
+        "src": "644-pharaoh-s-gold-statues-were-gilded-wood-1.jpg",
+        "fit": "card",
+        "label": "Akhenaten, in relief",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Tushratta told Queen Tiye gold is like dust in her son's land.",
+      "scene": {
+        "kind": "real",
+        "src": "644-pharaoh-s-gold-statues-were-gilded-wood-2.jpg",
+        "fit": "card",
+        "label": "Probably Queen Tiye",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His next letter is titled The Missing Gold Statues Again.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "Statues again",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The king of Assyria wrote that gold in Egypt is dust too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "platinum",
+        "label": "Dust too",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The whole archive is 382 tablets and fragments.",
+      "say": "The whole archive is three hundred eighty two tablets and fragments.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "yellow",
+        "label": "382 tablets",
+        "cut": "round",
+        "petals": 8
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Pharaoh's gold statues were gilded wood. In the 1880s, Egyptians dug up clay tablets at Amarna. They were the pharaoh's mail from the 14th century BC. Foreign kings called him brother, then asked for gold. Tushratta of Mitanni wanted the solid gold statues Amenhotep III promised. Instead, the next pharaoh, Akhenaten, sent wood plated with gold. Tushratta told Queen Tiye gold is like dust in her son's land. His next letter is titled The Missing Gold Statues Again. The king of Assyria wrote that gold in Egypt is dust too. The whole archive is 382 tablets and fragments.",
+    "hashtags": [
+      "#ancientegypt",
+      "#pharaoh",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.nationalgeographic.com/history/history-magazine/article/pharaohs-amarna-letters-expose-politics-3300-years-ago",
+    "https://en.wikipedia.org/wiki/Amarna_letters",
+    "https://en.wikipedia.org/wiki/Amarna_letter_EA_26",
+    "https://ancientegyptonline.co.uk/ea17/",
+    "https://repository.bilkent.edu.tr/bitstream/11693/51237/1/Tushratta_s_requests_to_the_pharaohs.pdf",
+    "https://www.csmc.uni-hamburg.de/publications/aom/022-en.html",
+    "https://en.wikipedia.org/wiki/Amarna_letter_EA_27",
+    "https://en.wikipedia.org/wiki/Amarna_letter_EA_16"
+  ],
+  "images": [
+    {
+      "src": "644-pharaoh-s-gold-statues-were-gilded-wood-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Daderot",
+      "page": "https://commons.wikimedia.org/wiki/File:Amarna_letter_fragment,_from_King_Tushratta_of_Mitanni_to_Queen_Tiy_(Teye)_of_Egypt,_matching_fragment_in_British_Museum_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07018.JPG",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "644-pharaoh-s-gold-statues-were-gilded-wood-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+      "page": "https://commons.wikimedia.org/wiki/File:Trial_Piece_with_Relief_of_Head_of_Akhenaten_MET_66.99.40_EGDP020839.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "644-pharaoh-s-gold-statues-were-gilded-wood-2.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+      "page": "https://commons.wikimedia.org/wiki/File:Face_from_a_Composite_Statue,_probably_Queen_Tiye_MET_DT11514.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

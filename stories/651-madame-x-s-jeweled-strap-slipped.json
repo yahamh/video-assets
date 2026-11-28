@@ -1,0 +1,177 @@
+{
+  "id": "651-madame-x-s-jeweled-strap-slipped",
+  "number": 651,
+  "title": "Madame X's jeweled strap slipped",
+  "style": "gouache",
+  "topic": "john singer sargent madame x virginie gautreau 1883 1884 black satin dress jeweled straps diamond crescent diana paris salon 1884 right strap slipping painted back kept decades name left off metropolitan museum of art 1916",
+  "music": "music-651.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "amethyst",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Madame X's jeweled strap slipped.",
+    "gold": [
+      "Madame",
+      "X's",
+      "slipped."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Madame X's jeweled strap slipped.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "John Singer Sargent painted Virginie Gautreau in a black satin dress.",
+      "scene": {
+        "kind": "real",
+        "src": "651-madame-x-s-jeweled-strap-slipped-0.jpg",
+        "fit": "card",
+        "label": "Madame X, 1884",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Jeweled straps held it up, and a diamond crescent crowned her hair.",
+      "scene": {
+        "kind": "real",
+        "src": "651-madame-x-s-jeweled-strap-slipped-1.jpg",
+        "fit": "card",
+        "label": "A detail of the straps",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "At first, he painted her right strap sliding off her shoulder.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A slipping strap",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "At the 1884 Paris Salon, it drew more ridicule than praise.",
+      "say": "At the eighteen eighty four Paris Salon, it drew more ridicule than praise.",
+      "scene": {
+        "kind": "title",
+        "text": "1884",
+        "sub": "The Paris Salon",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Gautreau and her mother begged him to take it down.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Take it down",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "He refused, but later painted the strap back on her shoulder.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A new strap"
+      }
+    },
+    {
+      "text": "He kept the portrait for decades.",
+      "scene": {
+        "kind": "real",
+        "src": "651-madame-x-s-jeweled-strap-slipped-2.jpg",
+        "fit": "card",
+        "label": "Sargent in his studio",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He asked that her name be dropped, so she became Madame X.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Madame X"
+      }
+    },
+    {
+      "text": "In 1916, he sold it to the Metropolitan Museum of Art.",
+      "say": "In nineteen sixteen, he sold it to the Metropolitan Museum of Art.",
+      "scene": {
+        "kind": "title",
+        "text": "1916",
+        "sub": "The Met",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Madame X's jeweled strap slipped. John Singer Sargent painted Virginie Gautreau in a black satin dress. Jeweled straps held it up, and a diamond crescent crowned her hair. At first, he painted her right strap sliding off her shoulder. At the 1884 Paris Salon, it drew more ridicule than praise. Gautreau and her mother begged him to take it down. He refused, but later painted the strap back on her shoulder. He kept the portrait for decades. He asked that her name be dropped, so she became Madame X. In 1916, he sold it to the Metropolitan Museum of Art.",
+    "hashtags": [
+      "#sargent",
+      "#madamex",
+      "#painting",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.metmuseum.org/perspectives/how-madame-x-came-to-the-met",
+    "https://metmuseum.org/art/collection/search/12127",
+    "https://en.wikipedia.org/wiki/Portrait_of_Madame_X",
+    "https://smarthistory.org/?p=1708"
+  ],
+  "images": [
+    {
+      "src": "651-madame-x-s-jeweled-strap-slipped-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "John Singer Sargent (American, Florence 1856–1925 London) (1856 - 1925) – Artist Details on Google Art Project",
+      "page": "https://commons.wikimedia.org/wiki/File:Madame_X_(Madame_Pierre_Gautreau),_John_Singer_Sargent,_1884_(unfree_frame_crop).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "651-madame-x-s-jeweled-strap-slipped-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "John Singer Sargent",
+      "page": "https://commons.wikimedia.org/wiki/File:Madame_X_(Madame_Pierre_Gautreau)_MET_DT91_cropped.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "651-madame-x-s-jeweled-strap-slipped-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Adolphe Giraudon",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_in_atelier.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

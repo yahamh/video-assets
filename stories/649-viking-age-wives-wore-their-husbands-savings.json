@@ -1,0 +1,167 @@
+{
+  "id": "649-viking-age-wives-wore-their-husbands-savings",
+  "number": 649,
+  "title": "Viking Age wives wore their husbands' savings",
+  "style": "jewelbox",
+  "topic": "ibn fadlan 921 922 baghdad caliph al-muqtadir volga bulgars rus traders wives small metal box disc chest iron silver copper gold neck bands one for every 10000 dirhams green beads a dirham each necklaces risala",
+  "music": "music-649.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "peridot",
+    "cut": "pear",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Viking Age wives wore their husbands' savings.",
+    "gold": [
+      "wives",
+      "husbands'",
+      "savings."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Viking Age wives wore their husbands' savings.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 921, Ibn Fadlan left Baghdad with an embassy to the Volga.",
+      "say": "In nine twenty one, Ibn Fadlan left Baghdad with an embassy to the Volga.",
+      "scene": {
+        "kind": "title",
+        "text": "921",
+        "sub": "Baghdad",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow"
+      }
+    },
+    {
+      "text": "There he met traders called the Rus and noted what they wore.",
+      "scene": {
+        "kind": "real",
+        "src": "649-viking-age-wives-wore-their-husbands-savings-0.jpg",
+        "fit": "card",
+        "label": "Roerich's Guests from Overseas",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Each wife wore a small metal box on her chest.",
+      "scene": {
+        "kind": "real",
+        "src": "649-viking-age-wives-wore-their-husbands-savings-1.jpg",
+        "fit": "card",
+        "label": "Rus-era finds, Gnezdovo",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The metal ranged from iron to gold, by her husband's wealth.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "peridot",
+        "metal": "platinum",
+        "label": "Iron to gold",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Her neck wore gold and silver bands, one per 10,000 dirhams.",
+      "say": "Her neck wore gold and silver bands, one per ten thousand dirhams.",
+      "scene": {
+        "kind": "real",
+        "src": "649-viking-age-wives-wore-their-husbands-savings-2.jpg",
+        "fit": "card",
+        "label": "A Viking neck ring, the Walters",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A rich wife could wear many bands at once.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Many bands",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Their most prized jewelry was green beads, a dirham for each.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "Green beads",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "A wife wearing three bands meant her husband had 30,000 dirhams.",
+      "say": "A wife wearing three bands meant her husband had thirty thousand dirhams.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Three bands",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Viking Age wives wore their husbands' savings. In 921, Ibn Fadlan left Baghdad with an embassy to the Volga. There he met traders called the Rus and noted what they wore. Each wife wore a small metal box on her chest. The metal ranged from iron to gold, by her husband's wealth. Her neck wore gold and silver bands, one per 10,000 dirhams. A rich wife could wear many bands at once. Their most prized jewelry was green beads, a dirham for each. A wife wearing three bands meant her husband had 30,000 dirhams.",
+    "hashtags": [
+      "#vikings",
+      "#gold",
+      "#history",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://canadianmysteries.ca/sites/vinland/archives/internetsource/4252en.html",
+    "https://lancaster.ac.uk/jais/volume/docs/vol3/v3_1_Montgomery.htm",
+    "https://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan",
+    "https://encyclopedia.com/history/news-wires-white-papers-and-books/ibn-fadlan",
+    "https://muslimheritage.com/scandinavia-ibn-fadlan/"
+  ],
+  "images": [
+    {
+      "src": "649-viking-age-wives-wore-their-husbands-savings-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Nicholas Roerich",
+      "page": "https://commons.wikimedia.org/wiki/File:Nicholas_Roerich,_Guests_from_Overseas.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "649-viking-age-wives-wore-their-husbands-savings-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "pendants",
+      "page": "https://commons.wikimedia.org/wiki/File:01881_Vikings_artefacts_from_Gnezdovo,_Smolensk.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "649-viking-age-wives-wore-their-husbands-savings-2.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( Vikings ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Viking_-_Neck_Ring_-_Walters_571599.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

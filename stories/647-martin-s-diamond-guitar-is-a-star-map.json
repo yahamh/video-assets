@@ -1,0 +1,160 @@
+{
+  "id": "647-martin-s-diamond-guitar-is-a-star-map",
+  "number": 647,
+  "title": "Martin's diamond guitar is a star map",
+  "style": "deco",
+  "topic": "martin guitar 2.5 millionth 2022 custom d-2.5 436 diamonds star map night sky 1833 c f martin new york 196 hudson street ruby six sapphires 21 carats palladium pickguard platinum wire inlay gary werkheiser 200 hours nazareth pennsylvania martin museum",
+  "music": "music-647.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "sapphire",
+    "cut": "oval",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Martin's diamond guitar is a star map.",
+    "gold": [
+      "Martin's",
+      "guitar",
+      "map."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Martin's diamond guitar is a star map.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 2022, Martin built its 2.5 millionth guitar.",
+      "say": "In twenty twenty two, Martin built its two point five millionth guitar.",
+      "scene": {
+        "kind": "real",
+        "src": "647-martin-s-diamond-guitar-is-a-star-map-0.jpg",
+        "fit": "card",
+        "label": "A Martin D-28, 1960",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Its top is set with 436 diamonds.",
+      "say": "Its top is set with four hundred thirty six diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "436 diamonds",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Martin says they copy the sky on the night its founder arrived.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "A star map"
+      }
+    },
+    {
+      "text": "In 1833, he moved to New York and opened a shop.",
+      "say": "In eighteen thirty three, he moved to New York and opened a shop.",
+      "scene": {
+        "kind": "real",
+        "src": "647-martin-s-diamond-guitar-is-a-star-map-1.jpg",
+        "fit": "card",
+        "label": "Guitars of the 1830s",
+        "credit": "Photo: edwardhblake, CC BY 2.0"
+      }
+    },
+    {
+      "text": "A ruby on the pickguard marks that shop at 196 Hudson Street.",
+      "say": "A ruby on the pickguard marks that shop at one ninety six Hudson Street.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A ruby for the shop",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Inside, inlays show his ship and his first New York storefront.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "platinum",
+        "label": "Hidden inlays"
+      }
+    },
+    {
+      "text": "Setting the stones and engraving took close to 200 hours.",
+      "say": "Setting the stones and engraving took close to two hundred hours.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "200 hours",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The original will be kept in the Martin Museum in Nazareth, Pennsylvania.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A museum piece",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Martin's diamond guitar is a star map. In 2022, Martin built its 2.5 millionth guitar. Its top is set with 436 diamonds. Martin says they copy the sky on the night its founder arrived. In 1833, he moved to New York and opened a shop. A ruby on the pickguard marks that shop at 196 Hudson Street. Inside, inlays show his ship and his first New York storefront. Setting the stones and engraving took close to 200 hours. The original will be kept in the Martin Museum in Nazareth, Pennsylvania. Photo: edwardhblake, CC BY 2.0.",
+    "hashtags": [
+      "#martinguitar",
+      "#guitar",
+      "#diamonds",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.martinguitar.com/custom-2-and-a-half-millionth.html",
+    "https://guitarworld.com/news/martin-2-5-millionth-guitar",
+    "https://www.musicradar.com/news/martin-diamond-guitar-namm-2022",
+    "https://www.pegheadnation.com/peghead-partners/inside-look/the-2-5-millionth-martin-martin-guitar",
+    "https://www.metmuseum.org/perspectives/cf-martin",
+    "https://en.wikipedia.org/wiki/Christian_Frederick_Martin"
+  ],
+  "images": [
+    {
+      "src": "647-martin-s-diamond-guitar-is-a-star-map-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "e Kat",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Martin_Murphey's_1960_Martin_D-28_body_-_customized_like_a_D-42_with_abalone_inlay,_and_inlaid_initials_MMM_on_headstock_-_Country_Music_Hall_of_Fame_and_Museum_(2018-08-21_13.41.57_by_e_Kat).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "647-martin-s-diamond-guitar-is-a-star-map-1.jpg",
+      "license": "CC BY 2.0",
+      "cls": "by",
+      "artist": "edwardhblake from Melbourne, Australia",
+      "page": "https://commons.wikimedia.org/wiki/File:Stauffer_style_guitars_(1834,_circa_1830s,_ca.1837-1838,_New_York)_by_Christian_Frederick_Martin,_Sr.,_etc._-_Early_American_Guitars%EF%BC%9AThe_Instruments_of_C._F._Martin_-_MET_(2014-08-08_10.20.55_by_edwardhblake).jpg",
+      "credit": "Photo: edwardhblake, CC BY 2.0"
+    }
+  ]
+}

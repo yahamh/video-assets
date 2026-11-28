@@ -1,0 +1,174 @@
+{
+  "id": "646-michelangelo-s-david-once-wore-gold",
+  "number": 646,
+  "title": "Michelangelo's David once wore gold",
+  "style": "jewelbox",
+  "topic": "michelangelo david florence 1504 palazzo della signoria gilded sling tree trunk gilt bronze laurel wreath 28 copper leaves garland gilded accademia 1873 5.17 metres v&a plaster cast fig leaf conservation 2002 2004 traces of gilding",
+  "music": "music-646.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "aquamarine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Michelangelo's David once wore gold.",
+    "gold": [
+      "Michelangelo's",
+      "David",
+      "gold."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Michelangelo's David once wore gold.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1504, Florence set the marble giant beside its town hall.",
+      "say": "In fifteen oh four, Florence set the marble giant beside its town hall.",
+      "scene": {
+        "kind": "real",
+        "src": "646-michelangelo-s-david-once-wore-gold-0.jpg",
+        "fit": "card",
+        "label": "David at the town hall, 1800s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Michelangelo gilded his sling and the tree trunk behind his leg.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A gilded sling",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "A gilded wreath crowned his head.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "A gold wreath",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "Florence added a gilded garland of 28 copper leaves, to cover him.",
+      "say": "Florence added a gilded garland of twenty eight copper leaves, to cover him.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "A leaf garland",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "None of that gold survives today.",
+      "scene": {
+        "kind": "real",
+        "src": "646-michelangelo-s-david-once-wore-gold-1.jpg",
+        "fit": "card",
+        "label": "A replica of David",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In 2002, conservators found rough patches where gold once stuck.",
+      "say": "In two thousand two, conservators found rough patches where gold once stuck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Where gold stuck"
+      }
+    },
+    {
+      "text": "The V&A's plaster copy got a fig leaf instead of a garland.",
+      "say": "The V and A's plaster copy got a fig leaf instead of a garland.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "A fig leaf",
+        "stones": 9
+      }
+    },
+    {
+      "text": "In 1873, the marble David moved indoors to the Accademia.",
+      "say": "In eighteen seventy three, the marble David moved indoors to the Accademia.",
+      "scene": {
+        "kind": "title",
+        "text": "1873",
+        "sub": "Moved indoors",
+        "piece": "necklace",
+        "stone": "morganite",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He stands 5.17 meters tall, with no gold left.",
+      "say": "He stands five point one seven meters tall, with no gold left.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "No gold left",
+        "cut": "cushion"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Michelangelo's David once wore gold. In 1504, Florence set the marble giant beside its town hall. Michelangelo gilded his sling and the tree trunk behind his leg. A gilded wreath crowned his head. Florence added a gilded garland of 28 copper leaves, to cover him. None of that gold survives today. In 2002, conservators found rough patches where gold once stuck. The V&A's plaster copy got a fig leaf instead of a garland. In 1873, the marble David moved indoors to the Accademia. He stands 5.17 meters tall, with no gold left.",
+    "hashtags": [
+      "#michelangelo",
+      "#david",
+      "#gold",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/David_(Michelangelo)",
+    "https://www.vam.ac.uk/blog/projects/guest-post-the-restoration-of-michelangelos-david-and-the-interventions-by-clemente-papi",
+    "https://www.vam.ac.uk/articles/the-story-of-michelangelos-david",
+    "https://www.arte.it/notizie/firenze/il-david-di-michelangelo-il-gigante-di-marmo-esempio-di-lotta-e-di-coraggio-16933",
+    "https://news.artnet.com/art-world/3-surprising-facts-about-michelangelos-masterpiece-david-2519387",
+    "https://www.thesmartset.com/article01090801/"
+  ],
+  "images": [
+    {
+      "src": "646-michelangelo-s-david-once-wore-gold-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "John Brampton Philpot",
+      "page": "https://commons.wikimedia.org/wiki/File:Michelangelo_David_Philpot.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "646-michelangelo-s-david-once-wore-gold-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Jebulon",
+      "page": "https://commons.wikimedia.org/wiki/File:Replica_Michelangelo's_David_black_background.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
