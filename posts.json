@@ -8048,7 +8048,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2623282088184392",
+      "instagram": "https://www.instagram.com/reel/DgRyDihMeeq/"
+    }
   },
   "570-lady-liberty-s-torch-joined-a-parade": {
     "at": "2026-11-28T08:30:00Z",
@@ -8057,14 +8062,24 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1154946784087082",
+      "instagram": "https://www.instagram.com/reel/DgR1YLOydQo/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7713137227051666695"
+    }
   },
   "571-the-golden-gate-was-named-before-gold": {
     "at": "2026-11-28T09:00:00Z",
     "zernio_id": "6b08b64c1f4e3f2519c9d99a",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgR46rWh8n4/"
+    }
   },
   "572-diamond-head-is-named-for-fake-diamonds": {
     "at": "2026-11-28T09:30:00Z",
@@ -8072,7 +8087,12 @@
     "platforms": [
       "facebook",
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=2168647180445054",
+      "instagram": "https://www.instagram.com/reel/DgR8IWhhow_/"
+    }
   },
   "573-a-world-series-ring-hides-baby-shark": {
     "at": "2026-11-28T10:00:00Z",
@@ -8081,7 +8101,13 @@
       "facebook",
       "instagram",
       "tiktok"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1524419136174398",
+      "instagram": "https://www.instagram.com/reel/DgR_qkfBQfa/",
+      "tiktok": "https://www.tiktok.com/@hey.gema/video/7713160645109189896"
+    }
   },
   "574-venice-s-doge-married-the-sea": {
     "at": "2026-11-28T10:30:00Z",
@@ -8090,14 +8116,24 @@
       "facebook",
       "instagram",
       "youtube"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "facebook": "https://www.facebook.com/watch/?v=1465487341821320",
+      "instagram": "https://www.instagram.com/reel/DgSC8AtBiWI/",
+      "youtube": "https://www.youtube.com/watch?v=0DsOQDsTsCE"
+    }
   },
   "575-a-gold-nugget-held-the-door": {
     "at": "2026-11-28T11:00:00Z",
     "zernio_id": "6b08b6621317dd49fac910ea",
     "platforms": [
       "instagram"
-    ]
+    ],
+    "status": "published",
+    "out": {
+      "instagram": "https://www.instagram.com/reel/DgSGcIGB2oT/"
+    }
   },
   "576-a-toad-s-jewel-was-fish-teeth": {
     "at": "2026-11-28T11:30:00Z",
@@ -8646,6 +8682,79 @@
     "zernio_id": "6b0a80bd987aeedac323965f",
     "platforms": [
       "facebook",
+      "instagram"
+    ]
+  },
+  "643-the-juicy-salif-s-gold-twin-dreads-lemons": {
+    "at": "2026-11-30T01:00:00Z",
+    "zernio_id": "6b0abad196d03e98eaaeea3b",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "644-pharaoh-s-gold-statues-were-gilded-wood": {
+    "at": "2026-11-30T01:30:00Z",
+    "zernio_id": "6b0abad4089908bd2fa08fb2",
+    "platforms": [
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "645-gibson-s-sg-hid-its-knobs-under-diamonds": {
+    "at": "2026-11-30T02:00:00Z",
+    "zernio_id": "6b0abad9089908bd2fa08fca",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "646-michelangelo-s-david-once-wore-gold": {
+    "at": "2026-11-30T02:30:00Z",
+    "zernio_id": "6b0abadc96d03e98eaaeea6c",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "647-martin-s-diamond-guitar-is-a-star-map": {
+    "at": "2026-11-30T03:00:00Z",
+    "zernio_id": "6b0abae0126c748f84ca8d8f",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok",
+      "youtube"
+    ]
+  },
+  "648-the-medici-venus-had-golden-hair": {
+    "at": "2026-11-30T03:30:00Z",
+    "zernio_id": "6b0abae4408e645f8c299e30",
+    "platforms": [
+      "instagram"
+    ]
+  },
+  "649-viking-age-wives-wore-their-husbands-savings": {
+    "at": "2026-11-30T08:00:00Z",
+    "zernio_id": "6b0abae896d03e98eaaeea97",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "650-a-toilet-wore-40-815-diamonds": {
+    "at": "2026-11-30T08:30:00Z",
+    "zernio_id": "6b0abaeb96d03e98eaaeeaa5",
+    "platforms": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ]
+  },
+  "651-madame-x-s-jeweled-strap-slipped": {
+    "at": "2026-11-30T09:00:00Z",
+    "zernio_id": "6b0abaef089908bd2fa0901f",
+    "platforms": [
       "instagram"
     ]
   },
