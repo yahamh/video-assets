@@ -1,0 +1,160 @@
+{
+  "id": "641-wordsworth-s-sister-wore-his-wedding-ring",
+  "number": 641,
+  "title": "Wordsworth's sister wore his wedding ring",
+  "style": "deco",
+  "topic": "dorothy wordsworth grasmere journal 4 october 1802 william wordsworth married mary hutchinson wedding ring wore all night I gave him the wedding ring with how deep a blessing scored through manuscript wordsworth trust sara they are coming",
+  "music": "music-641.wav",
+  "piece": {
+    "piece": "band",
+    "stone": "citrine",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Wordsworth's sister wore his wedding ring.",
+    "gold": [
+      "Wordsworth's",
+      "sister",
+      "ring."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Wordsworth's sister wore his wedding ring.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1802, William Wordsworth was about to marry Mary Hutchinson.",
+      "say": "In eighteen oh two, William Wordsworth was about to marry Mary Hutchinson.",
+      "scene": {
+        "kind": "real",
+        "src": "641-wordsworth-s-sister-wore-his-wedding-ring-0.jpg",
+        "fit": "card",
+        "label": "William Wordsworth, painted later",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "His sister Dorothy kept a journal at their cottage in Grasmere.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Dorothy's journal",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "The night before the wedding, she wore his ring all night.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "label": "All night",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "The next morning, she wrote in her journal.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "The next morning",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "I gave him the wedding ring, with how deep a blessing.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "A blessing",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "In the manuscript, someone scored those lines through.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "Scored through",
+        "stones": 9
+      }
+    },
+    {
+      "text": "Dorothy did not go to the church.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Not at the church"
+      }
+    },
+    {
+      "text": "She waited in bed until her friend Sara said, they are coming.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "They are coming",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "The journal stops about three months after the wedding.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "The last pages",
+        "cut": "emerald"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Wordsworth's sister wore his wedding ring. In 1802, William Wordsworth was about to marry Mary Hutchinson. His sister Dorothy kept a journal at their cottage in Grasmere. The night before the wedding, she wore his ring all night. The next morning, she wrote in her journal. I gave him the wedding ring, with how deep a blessing. In the manuscript, someone scored those lines through. Dorothy did not go to the church. She waited in bed until her friend Sara said, they are coming. The journal stops about three months after the wedding.",
+    "hashtags": [
+      "#wordsworth",
+      "#weddingring",
+      "#poetry",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.euromanticism.org/two-pages-from-dorothy-wordsworths-grasmere-journal/",
+    "https://hills-chronicle.blogspot.com/2010/09/reading-dorothy-wordsworth.html",
+    "https://citizendium.org/wiki/Dorothy_Wordsworth",
+    "https://en.wikipedia.org/wiki/Dorothy_Wordsworth",
+    "https://romantic-circles.org/editions/DW/editions.2022.DW.GJ-intro"
+  ],
+  "images": [
+    {
+      "src": "641-wordsworth-s-sister-wore-his-wedding-ring-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Henry William Pickersgill",
+      "page": "https://commons.wikimedia.org/wiki/File:Henry_William_Pickersgill_(1782-1875)_-_William_Wordsworth_(1770%E2%80%931850)_-_GRMDC.A8_-_Dove_Cottage.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "637-fountain-pen-tips-were-once-miners-rubbish",
+  "number": 637,
+  "title": "Fountain pen tips were once miners' rubbish",
+  "style": "jewelbox",
+  "topic": "osmiridium ossie tasmania gold miners western tasmania 1880s nib tip gold nib hard grain adamsfield rush 1925 miner's rights russia supply war revolution ballpoint iridium stamped nibs",
+  "music": "music-637.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "peridot",
+    "cut": "cushion",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Fountain pen tips were once miners' rubbish.",
+    "gold": [
+      "pen",
+      "tips",
+      "rubbish."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Fountain pen tips were once miners' rubbish.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "Soft gold wears away, so nibs got a hard osmiridium tip.",
+      "scene": {
+        "kind": "real",
+        "src": "637-fountain-pen-tips-were-once-miners-rubbish-0.jpg",
+        "fit": "card",
+        "label": "Rutheniridosmine, a relative",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It is a natural alloy of osmium and iridium.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "yellow",
+        "label": "Osmium and iridium"
+      }
+    },
+    {
+      "text": "In the 1880s, Tasmanian gold miners kept finding it in their gold.",
+      "say": "In the eighteen eighties, Tasmanian gold miners kept finding it in their gold.",
+      "scene": {
+        "kind": "title",
+        "text": "1880s",
+        "sub": "Tasmania",
+        "piece": "earrings",
+        "stone": "diamond",
+        "metal": "yellow",
+        "cut": "round"
+      }
+    },
+    {
+      "text": "They called it ossie and threw it away.",
+      "scene": {
+        "kind": "real",
+        "src": "637-fountain-pen-tips-were-once-miners-rubbish-1.jpg",
+        "fit": "card",
+        "label": "An old plate of metals",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Then war and revolution cut off the Russian supply.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "No Russian supply"
+      }
+    },
+    {
+      "text": "Tasmanian grains, the right size for nibs, sold for more than gold.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Worth more than gold",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "In 1925, over a thousand miner's rights were issued for Adamsfield.",
+      "say": "In nineteen twenty five, over a thousand miner's rights were issued for Adamsfield.",
+      "scene": {
+        "kind": "title",
+        "text": "1925",
+        "sub": "Adamsfield",
+        "piece": "necklace",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "Cheaper tip alloys and ballpoint pens ended the boom.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "The end of the boom",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Many nibs still say iridium, but modern tips contain none.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Iridium, still stamped",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Fountain pen tips were once miners' rubbish. Soft gold wears away, so nibs got a hard osmiridium tip. It is a natural alloy of osmium and iridium. In the 1880s, Tasmanian gold miners kept finding it in their gold. They called it ossie and threw it away. Then war and revolution cut off the Russian supply. Tasmanian grains, the right size for nibs, sold for more than gold. In 1925, over a thousand miner's rights were issued for Adamsfield. Cheaper tip alloys and ballpoint pens ended the boom. Many nibs still say iridium, but modern tips contain none.",
+    "hashtags": [
+      "#gold",
+      "#fountainpen",
+      "#tasmania",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.utas.edu.au/library/companion_to_tasmanian_history/O/Osmiridium.htm",
+    "https://australiangeographic.com.au/?p=371530",
+    "https://www.appleisleprospector.com/?p=1835",
+    "https://nichaygarth.com/index.php/tag/adamsfield/",
+    "https://www.nibs.com/article4.html",
+    "https://vintagepens.com/FAQbasics/iridium.shtml"
+  ],
+  "images": [
+    {
+      "src": "637-fountain-pen-tips-were-once-miners-rubbish-0.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Darla Sondrol",
+      "page": "https://commons.wikimedia.org/wiki/File:Rutheniridosmine_(GeoDIL_number_-_912).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "637-fountain-pen-tips-were-once-miners-rubbish-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Kurr, J. G. (Johann Gottlob), 1798-1870",
+      "page": "https://commons.wikimedia.org/wiki/File:Plate_XIII-_Gold,_Platinum,_Iridium_-_DPLA_-_6d9d7fe607dd49db477c6855cdcbacf4.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

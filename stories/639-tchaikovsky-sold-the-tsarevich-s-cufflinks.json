@@ -1,0 +1,172 @@
+{
+  "id": "639-tchaikovsky-sold-the-tsarevich-s-cufflinks",
+  "number": 639,
+  "title": "Tchaikovsky sold the tsarevich's cufflinks",
+  "style": "gouache",
+  "topic": "tchaikovsky festival overture danish national anthem 1866 moscow rubinstein wedding of tsarevich alexander dagmar cuff-links dubuque sold jurgenson 1892 letter printed without dedication",
+  "music": "music-639.wav",
+  "piece": {
+    "piece": "earrings",
+    "stone": "sapphire",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "Tchaikovsky sold the tsarevich's cufflinks.",
+    "gold": [
+      "Tchaikovsky",
+      "cufflinks."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Tchaikovsky sold the tsarevich's cufflinks.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1866, he wrote a festival overture on the Danish national anthem.",
+      "say": "In eighteen sixty six, he wrote a festival overture on the Danish national anthem.",
+      "scene": {
+        "kind": "real",
+        "src": "639-tchaikovsky-sold-the-tsarevich-s-cufflinks-0.jpg",
+        "fit": "card",
+        "label": "Tchaikovsky, 1888",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "It celebrated the Russian heir's marriage to a Danish princess.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "yellow",
+        "label": "A royal wedding",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "He wove the Russian anthem in too.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "platinum",
+        "label": "Two anthems",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "As thanks, he received cuff links from the future Tsar Alexander III.",
+      "say": "As thanks, he received cuff links from the future Tsar Alexander the Third.",
+      "scene": {
+        "kind": "real",
+        "src": "639-tchaikovsky-sold-the-tsarevich-s-cufflinks-1.jpg",
+        "fit": "card",
+        "label": "Alexander and Dagmar, 1860s",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He sold them at once to Dubuque, a fellow Conservatory teacher.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "Sold at once"
+      }
+    },
+    {
+      "text": "Twenty-six years later, he joked about it in a letter.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "A joke in a letter",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "In May 1892, his publisher was about to print the overture.",
+      "say": "In May eighteen ninety two, his publisher was about to print the overture.",
+      "scene": {
+        "kind": "title",
+        "text": "1892",
+        "sub": "In print",
+        "piece": "brooch",
+        "stone": "topaz",
+        "metal": "yellow",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Tchaikovsky said it should be printed without any dedication.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "platinum",
+        "label": "No dedication",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "The score came out in September 1892 with no dedication.",
+      "say": "The score came out in September eighteen ninety two with no dedication.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "yellow",
+        "label": "No dedication",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Tchaikovsky sold the tsarevich's cufflinks. In 1866, he wrote a festival overture on the Danish national anthem. It celebrated the Russian heir's marriage to a Danish princess. He wove the Russian anthem in too. As thanks, he received cuff links from the future Tsar Alexander III. He sold them at once to Dubuque, a fellow Conservatory teacher. Twenty-six years later, he joked about it in a letter. In May 1892, his publisher was about to print the overture. Tchaikovsky said it should be printed without any dedication. The score came out in September 1892 with no dedication.",
+    "hashtags": [
+      "#tchaikovsky",
+      "#cufflinks",
+      "#classicalmusic",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://en.tchaikovsky-research.net/pages/Letter_4687",
+    "https://en.tchaikovsky-research.net/pages/Danish_Overture",
+    "https://en.wikipedia.org/wiki/Festival_Overture_on_the_Danish_National_Anthem",
+    "https://en.tchaikovsky-research.net/pages/Alexander_III",
+    "https://en.tchaikovsky-research.net/pages/Aleksandr_Dubuque"
+  ],
+  "images": [
+    {
+      "src": "639-tchaikovsky-sold-the-tsarevich-s-cufflinks-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Émile Reutlinger",
+      "page": "https://commons.wikimedia.org/wiki/File:Tchaikovsky_by_Reutlinger_(cropped).jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "639-tchaikovsky-sold-the-tsarevich-s-cufflinks-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Unknown author Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D1%86%D0%B5%D1%81%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

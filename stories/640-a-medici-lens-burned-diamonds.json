@@ -1,0 +1,169 @@
+{
+  "id": "640-a-medici-lens-burned-diamonds",
+  "number": 640,
+  "title": "A Medici lens burned diamonds",
+  "style": "jewelbox",
+  "topic": "davy faraday florence 1814 grand duke burning lens bregans medici averani targioni diamond burned oxygen globe platinum scarlet light four minutes carbonic acid gas museo galileo 2025 rerun",
+  "music": "music-640.wav",
+  "piece": {
+    "piece": "stone",
+    "stone": "diamond",
+    "cut": "round",
+    "metal": "platinum"
+  },
+  "hook": {
+    "text": "A Medici lens burned diamonds.",
+    "gold": [
+      "Medici",
+      "lens",
+      "diamonds."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Medici lens burned diamonds.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In 1814, Humphry Davy toured Europe with his assistant, Michael Faraday.",
+      "say": "In eighteen fourteen, Humphry Davy toured Europe with his assistant, Michael Faraday.",
+      "scene": {
+        "kind": "real",
+        "src": "640-a-medici-lens-burned-diamonds-0.jpg",
+        "fit": "card",
+        "label": "Humphry Davy",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "In Florence, Davy tried the Grand Duke's great burning lens on diamonds.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A burning lens"
+      }
+    },
+    {
+      "text": "Florence scholars had seen diamonds vanish in its focus long before.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "Vanishing diamonds",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "Davy sealed diamond fragments in a glass globe filled with oxygen.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A glass globe",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "Moved out of the focus, one kept burning with a scarlet light.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "A scarlet glow",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "It burned for over four minutes, and Faraday called it beautiful.",
+      "scene": {
+        "kind": "real",
+        "src": "640-a-medici-lens-burned-diamonds-1.jpg",
+        "fit": "card",
+        "label": "Michael Faraday, 1842",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "The only product was carbon dioxide, so a diamond is pure carbon.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "amethyst",
+        "metal": "platinum",
+        "label": "Pure carbon",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The lens is now kept in the Museo Galileo in Florence.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "yellow",
+        "label": "Kept in Florence",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Florence chemists re-ran the experiment on November 14, 2025.",
+      "say": "Florence chemists re-ran the experiment on November fourteenth, twenty twenty five.",
+      "scene": {
+        "kind": "piece",
+        "piece": "band",
+        "stone": "citrine",
+        "metal": "platinum",
+        "label": "Run again"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Medici lens burned diamonds. In 1814, Humphry Davy toured Europe with his assistant, Michael Faraday. In Florence, Davy tried the Grand Duke's great burning lens on diamonds. Florence scholars had seen diamonds vanish in its focus long before. Davy sealed diamond fragments in a glass globe filled with oxygen. Moved out of the focus, one kept burning with a scarlet light. It burned for over four minutes, and Faraday called it beautiful. The only product was carbon dioxide, so a diamond is pure carbon. The lens is now kept in the Museo Galileo in Florence. Florence chemists re-ran the experiment on November 14, 2025.",
+    "hashtags": [
+      "#diamonds",
+      "#humphrydavy",
+      "#faraday",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "http://www.iccom.cnr.it/en/workshop-chemists-who-burned-diamonds-florence-14-11-2025/",
+    "https://catalogue.museogalileo.it/object/Lens.html",
+    "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-107447/",
+    "https://teachchemistry.org/pdf/2021/11/11/16/23/40/cd1ff1fe-4c73-4166-b596-ea91461f68f1/the-back-burner-burning-diamonds-and-squeezing-peanuts.pdf",
+    "https://mathshistory.st-andrews.ac.uk/DNB/Faraday.html"
+  ],
+  "images": [
+    {
+      "src": "640-a-medici-lens-burned-diamonds-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Thomas Phillips",
+      "page": "https://commons.wikimedia.org/wiki/File:Sir_Humphry_Davy,_Bt_by_Thomas_Phillips.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "640-a-medici-lens-burned-diamonds-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Thomas Phillips",
+      "page": "https://commons.wikimedia.org/wiki/File:M_Faraday_Th_Phillips_oil_1842.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

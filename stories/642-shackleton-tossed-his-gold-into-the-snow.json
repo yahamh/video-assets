@@ -1,0 +1,156 @@
+{
+  "id": "642-shackleton-tossed-his-gold-into-the-snow",
+  "number": 642,
+  "title": "Shackleton tossed his gold into the snow",
+  "style": "gouache",
+  "topic": "shackleton endurance 27 october 1915 weddell sea abandon ship two pounds personal gear gold sovereigns thrown in the snow queen alexandra bible flyleaf tom mcleod mclean royal geographical society 1971 hussey banjo",
+  "music": "music-642.wav",
+  "piece": {
+    "piece": "bracelet",
+    "stone": "morganite",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "Shackleton tossed his gold into the snow.",
+    "gold": [
+      "Shackleton",
+      "gold",
+      "snow."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "Shackleton tossed his gold into the snow.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In October 1915, Shackleton's ship, Endurance, was wrecked in the ice.",
+      "say": "In October nineteen fifteen, Shackleton's ship, Endurance, was wrecked in the ice.",
+      "scene": {
+        "kind": "real",
+        "src": "642-shackleton-tossed-his-gold-into-the-snow-0.jpg",
+        "fit": "card",
+        "label": "The Endurance in pack ice",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Every man could keep only two pounds of personal gear.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "topaz",
+        "metal": "platinum",
+        "label": "Two pounds each",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "Shackleton threw a handful of gold sovereigns into the snow.",
+      "scene": {
+        "kind": "real",
+        "src": "642-shackleton-tossed-his-gold-into-the-snow-1.jpg",
+        "fit": "card",
+        "label": "Shackleton, about 1915",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "He also left behind a Bible from Queen Alexandra.",
+      "scene": {
+        "kind": "piece",
+        "piece": "eternity",
+        "stone": "emerald",
+        "metal": "platinum",
+        "label": "A Bible",
+        "stones": 9
+      }
+    },
+    {
+      "text": "First, he tore out the flyleaf and a few pages to keep.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "aquamarine",
+        "metal": "yellow",
+        "label": "Pages kept"
+      }
+    },
+    {
+      "text": "Seaman Tom McLeod picked the Bible up and kept it.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "platinum",
+        "label": "Picked up",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "It reached the Royal Geographical Society in 1971.",
+      "say": "It reached the Royal Geographical Society in nineteen seventy one.",
+      "scene": {
+        "kind": "piece",
+        "piece": "necklace",
+        "stone": "emerald",
+        "metal": "yellow",
+        "label": "Years later",
+        "cut": "emerald"
+      }
+    },
+    {
+      "text": "One exception to the rule was Leonard Hussey's banjo.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "A banjo",
+        "cut": "pear"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "Shackleton tossed his gold into the snow. In October 1915, Shackleton's ship, Endurance, was wrecked in the ice. Every man could keep only two pounds of personal gear. Shackleton threw a handful of gold sovereigns into the snow. He also left behind a Bible from Queen Alexandra. First, he tore out the flyleaf and a few pages to keep. Seaman Tom McLeod picked the Bible up and kept it. It reached the Royal Geographical Society in 1971. One exception to the rule was Leonard Hussey's banjo.",
+    "hashtags": [
+      "#shackleton",
+      "#gold",
+      "#antarctica",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.artofmanliness.com/articles/what-they-left-and-what-they-kept-what-an-antarctic-expedition-can-teach-you-about-whats-truly-valuable/",
+    "https://stornowayhistoricalsociety.org.uk/endbible/",
+    "https://erenow.org/biographies/the-endurance-shackletons-legendary-antarctic-expedition/4.php",
+    "https://nfknowledge.org/record/na-855b19d8-0b61-4072-a0f7-12be3acd5e9b",
+    "https://www.rgs.org/media/ev4lehtv/wseshackletonexpeditiontimeline.pdf"
+  ],
+  "images": [
+    {
+      "src": "642-shackleton-tossed-his-gold-into-the-snow-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Frank Hurley",
+      "page": "https://commons.wikimedia.org/wiki/File:Endurance_trapped_in_pack_ice.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "642-shackleton-tossed-his-gold-into-the-snow-1.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Alex Gunn",
+      "page": "https://commons.wikimedia.org/wiki/File:Ernest_Shackleton_c1914-1917.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}

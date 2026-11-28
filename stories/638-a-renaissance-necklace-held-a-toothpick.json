@@ -1,0 +1,170 @@
+{
+  "id": "638-a-renaissance-necklace-held-a-toothpick",
+  "number": 638,
+  "title": "A Renaissance necklace held a toothpick",
+  "style": "deco",
+  "topic": "renaissance gold toothpick pendant 1500s fashion hygiene chain around the neck pearls rubies enamel erasmus hornick 1562 nuremberg mermaid toothpick british museum waddesdon bequest rijksmuseum dragon vienna ear spoon elizabeth i new year's gifts roman gold ear pick met",
+  "music": "music-638.wav",
+  "piece": {
+    "piece": "necklace",
+    "stone": "emerald",
+    "cut": "emerald",
+    "metal": "yellow"
+  },
+  "hook": {
+    "text": "A Renaissance necklace held a toothpick.",
+    "gold": [
+      "necklace",
+      "toothpick."
+    ]
+  },
+  "end": {
+    "line": "A new jewelry story every day",
+    "handle": "HeyGema"
+  },
+  "lines": [
+    {
+      "text": "A Renaissance necklace held a toothpick.",
+      "scene": {
+        "kind": "hook"
+      }
+    },
+    {
+      "text": "In the 1500s, a decorated toothpick counted as a jewel.",
+      "say": "In the fifteen hundreds, a decorated toothpick counted as a jewel.",
+      "scene": {
+        "kind": "real",
+        "src": "638-a-renaissance-necklace-held-a-toothpick-0.jpg",
+        "fit": "card",
+        "label": "A gold toothpick pendant",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "Men wore them on a chain around the neck.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "pink",
+        "metal": "yellow",
+        "label": "On a chain",
+        "cut": "cushion"
+      }
+    },
+    {
+      "text": "Makers used gold and enamel, then added pearls and rubies.",
+      "scene": {
+        "kind": "piece",
+        "piece": "earrings",
+        "stone": "morganite",
+        "metal": "platinum",
+        "label": "Pearls and rubies",
+        "cut": "pear"
+      }
+    },
+    {
+      "text": "In 1562, Erasmus Hornick published toothpick designs in Nuremberg.",
+      "say": "In fifteen sixty two, Erasmus Hornick published toothpick designs in Nuremberg.",
+      "scene": {
+        "kind": "title",
+        "text": "1562",
+        "sub": "Nuremberg",
+        "piece": "ring",
+        "stone": "ruby",
+        "metal": "yellow",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In the British Museum, a mermaid's body is one baroque pearl.",
+      "scene": {
+        "kind": "piece",
+        "piece": "stone",
+        "stone": "tanzanite",
+        "metal": "yellow",
+        "label": "A mermaid",
+        "cut": "oval"
+      }
+    },
+    {
+      "text": "In the Rijksmuseum, a gold dragon's tail is the toothpick.",
+      "scene": {
+        "kind": "real",
+        "src": "638-a-renaissance-necklace-held-a-toothpick-1.jpg",
+        "fit": "card",
+        "label": "The Rijksmuseum dragon",
+        "credit": "Public domain, via Wikimedia Commons"
+      }
+    },
+    {
+      "text": "A Vienna pendant combines a toothpick with an ear spoon.",
+      "scene": {
+        "kind": "piece",
+        "piece": "bracelet",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A toothpick and ear spoon"
+      }
+    },
+    {
+      "text": "Queen Elizabeth I received gold toothpicks as New Year's gifts.",
+      "scene": {
+        "kind": "piece",
+        "piece": "brooch",
+        "stone": "ruby",
+        "metal": "platinum",
+        "label": "New Year's gifts",
+        "cut": "round",
+        "petals": 8
+      }
+    },
+    {
+      "text": "The Met keeps a gold ear pick from Roman times.",
+      "scene": {
+        "kind": "piece",
+        "piece": "ring",
+        "stone": "sapphire",
+        "metal": "yellow",
+        "label": "A Roman ear pick",
+        "cut": "oval"
+      },
+      "hold": 0.6
+    }
+  ],
+  "post": {
+    "caption": "A Renaissance necklace held a toothpick. In the 1500s, a decorated toothpick counted as a jewel. Men wore them on a chain around the neck. Makers used gold and enamel, then added pearls and rubies. In 1562, Erasmus Hornick published toothpick designs in Nuremberg. In the British Museum, a mermaid's body is one baroque pearl. In the Rijksmuseum, a gold dragon's tail is the toothpick. A Vienna pendant combines a toothpick with an ear spoon. Queen Elizabeth I received gold toothpicks as New Year's gifts. The Met keeps a gold ear pick from Roman times.",
+    "hashtags": [
+      "#renaissance",
+      "#gold",
+      "#pearls",
+      "#jewelrystory",
+      "#jewelryhistory"
+    ]
+  },
+  "sources": [
+    "https://www.britishmuseum.org/collection/object/H_WB-188",
+    "https://collections.vam.ac.uk/item/O113359/toothpick-unknown/",
+    "https://www.rijksmuseum.nl/en/collection/BK-17068",
+    "https://www.khm.at/en/artworks/pendant-with-whistle-ear-spoon-and-toothpick-in-the-base-86050",
+    "https://en.wikipedia.org/wiki/Inventory_of_Elizabeth_I",
+    "https://www.metmuseum.org/art/collection/search/246806"
+  ],
+  "images": [
+    {
+      "src": "638-a-renaissance-necklace-held-a-toothpick-0.jpg",
+      "license": "Public domain",
+      "cls": "pd",
+      "artist": "Anonymous ( Germany ) Unknown author",
+      "page": "https://commons.wikimedia.org/wiki/File:Pomander_-_Walters_44482.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    },
+    {
+      "src": "638-a-renaissance-necklace-held-a-toothpick-1.jpg",
+      "license": "CC0",
+      "cls": "pd",
+      "artist": "Rijksmuseum",
+      "page": "https://commons.wikimedia.org/wiki/File:Hanger_met_tandenstoker_in_de_vorm_van_een_draak,_BK-17068.jpg",
+      "credit": "Public domain, via Wikimedia Commons"
+    }
+  ]
+}
