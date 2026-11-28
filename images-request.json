@@ -1,10 +1,8 @@
 {
  "queries": [
-  {"key": "i-fleming", "commons": ["Ian Fleming author", "Ian Fleming 1950s", "Goldeneye Oracabessa Jamaica", "Ian Fleming portrait"], "max": 10},
-  {"key": "i-royal", "commons": ["Royal Quiet De Luxe typewriter", "Royal portable typewriter 1950s", "gold plated typewriter", "Royal Typewriter Company advertisement"], "max": 10},
-  {"key": "i-montblanc", "commons": ["Mont Blanc summit", "Mont Blanc massif Chamonix", "Mont Blanc snow dome summit", "Mont Blanc from Chamonix"], "max": 10},
-  {"key": "i-nib", "commons": ["Montblanc Meisterstück 149 nib", "fountain pen nib gold 14K", "gold nib close-up", "Montblanc fountain pen"], "max": 10},
-  {"key": "i-osmi", "commons": ["Osmiridium", "Iridosmine mineral", "Adamsfield Tasmania", "osmium iridium alloy sample"], "max": 10},
-  {"key": "i-toothpick", "commons": ["Toothpick pendant Rijksmuseum", "Pendant whistle ear spoon toothpick Kunsthistorisches Museum", "Mermaid toothpick Waddesdon Bequest", "Renaissance gold toothpick"], "max": 10}
+  {"key": "i-bronte", "commons": ["Bronte Parsonage Museum Haworth", "Charlotte Bronte George Richmond 1850", "Haworth Parsonage", "Victorian hair jewellery bracelet"], "max": 10},
+  {"key": "i-freud", "commons": ["Sigmund Freud 1921 Max Halberstadt", "Roman intaglio gold ring carnelian", "Nike goddess intaglio gem", "Sigmund Freud portrait"], "max": 10},
+  {"key": "i-stanhope", "commons": ["Stanhope lens microphotograph", "Rene Dagron portrait", "Stanhope optical bijou", "Stanhope ring microphotograph"], "max": 10},
+  {"key": "i-maquech", "commons": ["Maquech", "Zopherus chilensis", "Live insect jewelry", "Makech beetle brooch Yucatan"], "max": 10}
  ]
 }
