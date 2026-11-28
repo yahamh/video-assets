@@ -1,8 +1,13 @@
 {
  "queries": [
-  {"key": "i-tchaik", "commons": ["Pyotr Ilyich Tchaikovsky 1893 portrait", "Alexander III of Russia tsarevich 1860s", "Tchaikovsky portrait", "antique gold cufflinks enamel"], "max": 10},
-  {"key": "i-davy", "commons": ["Humphry Davy portrait Thomas Phillips", "Michael Faraday portrait 1842", "Bregans lens Museo Galileo Florence", "burning lens Florence Tuscany 1690"], "max": 10},
-  {"key": "i-dorothy", "commons": ["Dorothy Wordsworth portrait", "William Wordsworth portrait Pickersgill", "Dove Cottage Grasmere", "All Saints Church Brompton North Yorkshire"], "max": 10},
-  {"key": "i-shackleton", "commons": ["Endurance trapped in ice Frank Hurley 1915", "Ernest Shackleton portrait", "gold sovereign 1911 George V", "Endurance expedition Frank Hurley"], "max": 10}
+  {"key": "i-salif", "commons": ["Juicy Salif", "Alessi lemon squeezer Philippe Starck", "Philippe Starck portrait", "Alessi Omegna factory"], "max": 10},
+  {"key": "i-amarna", "commons": ["Amarna letter tablet British Museum", "Tell el-Amarna tablets", "Queen Tiye head", "Akhenaten relief Amarna"], "max": 10},
+  {"key": "i-eden", "commons": ["Gibson SG guitar", "Gibson SG Standard white", "Baselworld fair", "Eden of Coronet guitar"], "max": 10},
+  {"key": "i-david", "commons": ["David Michelangelo Accademia", "Michelangelo's David Florence", "Palazzo Vecchio David copy", "David plaster cast Victoria and Albert Museum"], "max": 10},
+  {"key": "i-martin", "commons": ["C. F. Martin & Company Nazareth Pennsylvania", "Martin D-28 guitar", "Christian Frederick Martin", "Martin guitar rosette"], "max": 10},
+  {"key": "i-medici", "commons": ["Venus de' Medici Uffizi", "Medici Venus Tribuna Florence", "Zoffany Tribuna of the Uffizi", "Venus de Medici marble statue"], "max": 10},
+  {"key": "i-fadlan", "commons": ["Viking silver neck ring", "Viking Age glass beads", "Roerich Overseas Guests", "Viking arm ring gold"], "max": 10},
+  {"key": "i-toilet", "commons": ["Diamond toilet", "Dubai Amazing Museum", "Aaron Shum Coronet jewellery", "gold toilet"], "max": 10},
+  {"key": "i-madamex", "commons": ["Portrait of Madame X Sargent", "Virginie Gautreau", "John Singer Sargent portrait", "Madame X Sargent Tate study"], "max": 10}
  ]
 }
